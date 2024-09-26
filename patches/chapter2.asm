@@ -1,12 +1,16 @@
-?BANK 04
+
 
 ?INCLUDE 'chunk_048000'
+?INCLUDE 'sc02_erik'
+?INCLUDE 'sc02_lance'
+?INCLUDE 'sc02_seth'
+?INCLUDE 'sc02_events'
 
 ----------------------------------------------------------------------
 
 ;Coastal cave
 
-widestring_04BE87 `[DLG:3,6][SIZ:D,4][TPL:0]It might be strange, but[N]we even call this coastal[N]cave our second home.[FIN]Usually, we meet here[N]after our lesson at church[N]is finished and chat until[N]it gets dark.[PAL:0][END]`
+widestring_04BE87 `[TPL:B][TPL:0]It might be strange, but[N]we even call this coastal[N]cave our second home.[FIN]Usually, we meet here[N]after our lesson at church[N]is finished and chat until[N]it gets dark.[PAL:0][END]`
 ;It might be strange, but we even call this coastal cave our second home.
 ;Usually, we meet here after our lesson at church is finished and chat until it gets dark.
 
@@ -17,14 +21,14 @@ widestring_04B1CB `[TPL:A][TPL:4]Rob: What's up, Tim?[N]Late, ain't ya...[FIN]I'
 widestring_04B5B6 `[TPL:A][TPL:5]Morris:[N]Ahaha... It turns out[N]that I win again.[PAL:0][END]`
 ;Morris: Ahaha... It turns out that I win again.
 
-widestring_04B9AF `[DLG:3,6][SIZ:D,3][DLY:0]Suddenly, Eric burst in[N]with a strange expression[N]on his face![PAU:3C][CLD]`
+widestring_04B9AF `[TPL:A][DLY:0]Suddenly, Eric burst in[N]with a strange expression[N]on his face![PAU:3C][CLD]`
 ;Suddenly, Eric burst in with a strange expression on his face!
 
 widestring_04B9F2 `[TPL:A][TPL:3]Eric: Huff, huff...[N]News...! It's biiig[N]news...![FIN]I heard that Edward[N]Castle's princess has[N]gone missing![FIN]Supposedly she seems to[N]be heading to this town![PAL:0][END]`
 ;Eric: Huff, huff... News...! It's biiig news...!
 ;I heard that Edward Castle's princess has gone missing! Supposedly she seems to be heading to this town!
 
-widestring_04BA55 `[TPL:B][TPL:4]Rob: What?[FIN]With ya bargin' in here[N]like that, I thought[N]somethin' cooler happened.[FIN]Besides, that "princess"[N]is that selfish girl[N]Karen, yeah? Who cares[WAI][N]where someone like that [N]is?[FIN][TPL:3]Eric: Well, there's that,[N]but soldiers are going to[N]come to this town to[WAI][N]search for the princess.[FIN]Aren't Edward Castle's[N]soldiers cool? I just want[N]to look at them.[PAL:0][END]`
+widestring_04BA55 `[TPL:B][TPL:4]Rob: What?[FIN]With ya bargin' in here[N]like that, I thought[N]somethin' cooler happened.[FIN]Besides, that "princess"[N]is that selfish girl[N]Karen, yeah? Who cares[N]WHERE she is?[FIN][TPL:3]Eric: Well, there's that,[N]but soldiers are going to[N]come to this town to[N]search for the princess.[FIN]Aren't Edward Castle's[N]soldiers cool? I just want[N]to look at them.[PAL:0][END]`
 ;Rob: What? With ya bargin' in here like that, I thought somethin' cooler happened.
 ;Besides, that "princess" is that selfish girl Karen, yeah? Who cares where someone like that is?
 ;Eric: Well, there's that, but soldiers are going to come to this town to search for the princess.
@@ -58,7 +62,7 @@ widestring_04B72B `[TPL:A][TPL:5]Morris: Face the stone[N]statue and press the[N
 widestring_04B75D `[TPL:A][TPL:4]Rob: Whoa..! It[N]moooooved..!![PAL:0][PAU:28][CLD]`
 ;Rob: Whoa..! It moooooved..!!
 
-widestring_04B27E `[TPL:B][TPL:4]Rob: Alright. This time,[N]do tha card reveal fer us.[FIN]From tha four cards I'm[N]placin' face down, raise[N]and show us one if ya[WAI][N]think it's tha ace o'[N]diamonds.[PAL:0][END]`
+widestring_04B27E `[TPL:B][TPL:4]Rob: Alright. This time,[N]do tha card reveal fer us.[FIN]From tha four cards I'm[N]placin' face down, raise[N]and show us one if ya[N]think it's tha ace o'[WAI][N]diamonds.[PAL:0][END]`
 ;Rob: Alright. This time, do tha card reveal fer us.
 ;From tha four cards I'm placin' face down, raise and show us one if ya think it's tha ace o' diamonds.
 
@@ -72,7 +76,7 @@ widestring_04B77C `[TPL:A][TPL:5]Morris: No matter how[N]many times you see it,[
 ;Morris: No matter how many times you see it, it's still cool, isn't it...?
 ;However, I wonder why things like the desk don't move, and only the stone statue moves...
 
-widestring_04B00F `[DLG:3,6][SIZ:D,3]Tim found the card and[N]raised it.[FIN]Surely enough, it was[N]the ace of diamonds!![END]`
+widestring_04B00F `[TPL:A]Tim raised a card.[WAI][N]Surely enough, it was[N]the ace of diamonds!![END]`
 ;Tim found the card and raised it.
 ;Surely enough, it was the ace of diamonds!!
 

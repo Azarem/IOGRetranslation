@@ -1,8 +1,21 @@
-?BANK 08
 
 ?INCLUDE 'chunk_048000'
-?INCLUDE 'chunk_088000'
 ?INCLUDE 'chunk_0B8000'
+?INCLUDE 'sc01_events'
+?INCLUDE 'sc03_events'
+?INCLUDE 'sc04_events'
+?INCLUDE 'sc05_events'
+?INCLUDE 'sc06_bill'
+?INCLUDE 'sc06_laura'
+?INCLUDE 'sc07_man'
+?INCLUDE 'sc08_events'
+?INCLUDE 'sE6_gaia'
+?INCLUDE 'jeweler_gem'
+?INCLUDE 's8C_prologue1'
+?INCLUDE 's8D_prologue2'
+?INCLUDE 's8E_prologue3'
+?INCLUDE 's8F_prologue4'
+?INCLUDE 's8C_prologue5'
 
 --------------------------------------------------------------------------
 
@@ -37,7 +50,7 @@ charstring_0BD272 ~However, among[N]those, not one[N]had noticed the[N]tremendou
 
 ;The Era of the Gaia Fantasy
 
-widestring_0BF3F4 `[DLG:6,A][SIZ:A,4]Start Journey[N]Erase Trip Diary[N]Copy Trip Diary[N][LU1:B]Snd/Buttons`
+;widestring_0BF3F4 `[DLG:6,A][SIZ:A,4]Start Journey[N]Erase Trip Diary[N]Copy Trip Diary[N][LU1:B]Snd/Buttons`
 ;Begin journey, Erase record of travel diary, Copy travel diary, Sound / Button change
 
 ;Which travel diary will you use? / Travel diary 1 / Start from the beginning
@@ -54,7 +67,7 @@ widestring_048AE9 `[TPL:B][TPL:0][DLY:0]My name is Tim.[FIN]Exactly one year has
 ;When I grow up or so, I intend to become an explorer and charge around the world.
 ;Because if that happens, I believe that I'll be able to meet my dad somewhere...
 
-widestring_048C01 `[DEF]Priest: Today's[N]lesson ends here.[FIN]The four of you do your[N]best so not to stay[N]behind next time.[FIN]Aside from that,[N]things that look like[N]monsters have recently[N]been being seen outside[WAI][N]of town. When you leave,[N]please go with a parent.[END]`
+widestring_048C01 `[DEF]Priest: Today's[N]lesson ends here.[FIN]The four of you do your[N]best so as not to stay[N]behind next time.[FIN]Aside from that,[N]things resembling[N]monsters have recently[N]been seen outside of town.[FIN]When you leave,[N]please go with a parent.[END]`
 ;Priest: Today's lesson ends here.
 ;The four of you do your best so not to stay behind next time.
 ;Aside from that, things that look like monsters have recently been being seen outside of town. When you leave, please go with a parent.
@@ -62,7 +75,7 @@ widestring_048C01 `[DEF]Priest: Today's[N]lesson ends here.[FIN]The four of you 
 widestring_048DD1 `[TPL:B][TPL:5]Morris: Alright,[N]today too, same[N]place as always...![PAL:0][END]`
 ;Morris: Alright, today too, same place as always...!
 
-widestring_048E00 `[TPL:B][TPL:3]Eric: I'm stop off at[N]home, then I'll go.[FIN]If I don't go home[N]quickly, the fact that I[N]had to stay behind for[N]make-up lessons is going[WAI][N]to leak to mommy... Heheh.[PAL:0][END]`
+widestring_048E00 `[TPL:B][TPL:3]Eric: I'm gonna stop at[N]home first, then I'll go.[FIN]If I don't go home[N]quickly, the fact that I[N]had to stay behind for[N]make-up lessons is going[WAI][N]to leak to mommy... Heheh.[PAL:0][END]`
 ;Eric: I'm stop off at home, then I'll go.
 ;If I don't go home quickly, the fact that I had to stay behind for make-up lessons is going to leak to mommy... Heheh..
 
@@ -104,15 +117,15 @@ widestring_04923D `[DEF]You seem like you've[N]got pretty fast feet, huh.[N]You 
 widestring_08D094 `[DEF]I am Gem, a jewel[N]merchant that travels[N]about the seven seas.[FIN]`
 ;I am Gem, a jewel merchant that travels about the seven seas.
 
-widestring_08D0F1 `[DEF][PAL:0][CLR]What's your business today?[N] Didn't mean to run into you[N] Deposit Red Jewels[N] See your list of goods`
+widestring_08D0F1 `[DLG:2,11][SIZ:E,4][PAL:0][CLR]What's your business today?[N] Didn't mean to run into you[N] Deposit Red Jewels[N] See your list of goods`
 ;What business do we have today? / I didn't mean to see into you / I want to deposit Red Jewels / I want to see your list of goods
 
-widestring_08D139 `[CLR]Is that so. Anyway,[N]nice to meet you.[FIN]By the way, if you lift[N]up a jewel, it will fly[N]to my location, you know.[FIN]So something seems to be[N]hidden. I am a master of[N]disguise, after all. But[N]in other towns, maybe[WAI][N]you won't recognize me.[END]`
+widestring_08D139 `[CLD][DEF]Is that so. Anyway,[N]nice to meet you.[FIN]By the way, if you lift[N]up a jewel, it will fly[N]to my location, you know.[FIN]So something seems to be[N]hidden. I am a master of[N]disguise, after all. But[N]in other towns, maybe[WAI][N]you won't recognize me.[END]`
 ;Is that so. Anyway, nice to meet you.
 ;By the way, if you lift up a jewel, it will fly to my location, you know.
 ;So something seems to be hidden. I am a master of disguise, after all. But in other towns, maybe you won't recognize me.
 
-widestring_08D20F `[CLR]Mmm...This is a rare [N]jewel. Let me hold [N]it for [LU2:C7][FIN]There are now[N][BCD:2,AB0][LU1:22]in the room.[FIN]`
+widestring_08D20F `[CLR]Hmm... These are truly[N]good jewels, aren't they?[N]Please, it is important[N]to take care of them.[FIN]With this, I think the[N]number of jewels should[N]have become [BCD:2,AB0][N]altogether.[FIN]`
 ;Hmm... These are truly good jewels, aren't they? Please, it is important to take care of them.
 ;With this, I think the number of jewels should have become 1 altogether.
 
@@ -132,7 +145,7 @@ widestring_04871E `[DEF]There have been a lot of[N]strange merchants around[N]re
 ;There have been a lot of strange merchants around recently so I'm worried.
 ;I guess they're in that business because of everyone saying they're worried about the appearance of monsters...
 
-widestring_04BD1B `[TPL:10][TPL:0]This is my house.[N]Perhaps Grandmother Laura[N]is baking a pie; a nice[N]smell is in the air.[PAL:0][END]`
+widestring_04BD1B `[TPL:10][TPL:0]This is my house.[N]Perhaps Grandmother Laura[N]is baking a pie, a nice[N]smell is in the air.[PAL:0][END]`
 ;This is my house. Perhaps Grandmother Laura is baking a pie; a nice smell is in the air.
 
 ;Tim's house

@@ -1,8 +1,15 @@
-?BANK 04
 
 ?INCLUDE 'chunk_048000'
 ?INCLUDE 'chunk_088000'
-
+?INCLUDE 'sc01_events'
+?INCLUDE 'sc02_lance'
+?INCLUDE 'sc06_events'
+?INCLUDE 'sc06_bill'
+?INCLUDE 'sc06_laura'
+?INCLUDE 'sc06_kara'
+?INCLUDE 'sc06_hamlet'
+?INCLUDE 'sc06_main_soldier'
+?INCLUDE 'jeweler_gem'
 
 -----------------------------------------------------------------
 
@@ -11,7 +18,7 @@ widestring_04BE05 `[TPL:10][TPL:0]Around when I left the[N]coastal cave, the sky
 ;Around when I left the coastal cave, the sky had been completely painted by twilight.
 
 ;??
-widestring_08D20F `[CLR]Mmm...This is a rare [N]jewel. Let me hold [N]it for [LU2:C7][FIN]With this, I think the[N]number of jewels should[N]altogether have become [BCD:2,AB0].[FIN]`
+;widestring_08D20F `[CLR]Mmm...This is a rare [N]jewel. Let me hold [N]it for [LU2:C7][FIN]With this, I think the[N]number of jewels should[N]altogether have become [BCD:2,AB0].[FIN]`
 ;Then it is well to rest at your pace.
 ;With this, I think the number of jewels should altogether have become 3.
 
@@ -43,7 +50,7 @@ widestring_049EB4 `[TPL:A][TPL:1]Karen: Oh my, Peggy. You[N]shouldn't bully peop
 ;Are you a child from this house?
 ;Tim: Yeah... That's right, but?
 
-widestring_049F09 `[TPL:9][TPL:1]Karen: The way you dress[N]looks little drab, huh?[FIN][TPL:0]Tim: Well, my bad![FIN][TPL:1]Karen: Where is your[N]father? Your mother?[WAI][N]They're not here, huh?[PAL:0][END]`
+widestring_049F09 `[TPL:9][TPL:1]Karen: The way you dress[N]looks a little drab, huh?[FIN][TPL:0]Tim: Well, my bad![FIN][TPL:1]Karen: Where is your[N]father? Your mother?[WAI][N]They're not here, huh?[PAL:0][END]`
 ;Karen: The way you dress looks little drab, huh?
 ;Tim: Well, my bad!
 ;Karen: Where is your father? Your mother? They're not here, huh?
@@ -58,7 +65,7 @@ widestring_049FBC `[TPL:A][TPL:1]Karen: I know. it was[N]Allman's expedition tea
 ;Karen: Are you angry? ...That's wrong, huh.
 ;I must have made you sad... I'm sorry...
 
-widestring_04A04C `[TPL:A][TPL:1]Karen: In this house,[N]there's no piano either,[N]huh?[FIN][TPL:0]Tim: There isn't anything[N]like that! But, Grandma[N]Laura is amazingly good[WAI][N]as singing.[FIN][::][TPL:1]Karen: Speaking of[N]singing, they're singing[N]on the second floor right[WAI][N]now. The two of them have[N]loud voices.[PAL:0][END]`
+widestring_04A04C `[TPL:A][TPL:1]Karen: In this house,[N]there's no piano either,[N]huh?[FIN][TPL:0]Tim: There isn't anything[N]like that! But, Grandma[N]Laura is amazingly good[WAI][N]at singing.[FIN][::][TPL:1]Karen: Speaking of[N]singing, they're singing[N]on the second floor right[WAI][N]now. The two of them have[N]loud voices.[PAL:0][END]`
 widestring_04A0D2 `[TPL:A][JMP:&widestring_04A04C+M]`
 ;Karen: In this house, there's no piano either, huh?
 ;Tim: There isn't anything like that! But, Grandma Laura is amazingly good as singing.
@@ -77,7 +84,7 @@ widestring_049A3F `[TPL:A][TPL:3]Laura: Ohohohoho. Stop[N]it, dear! Bringing up[
 ;That's right! Tim, you shouldn't be shocked.
 ;There was a girl here singing with us a while ago, right...?
 
-widestring_04953E `[TPL:8][TPL:1][DLY:0]Noooooooooo...!!![FIN][PAL:0][SFX:10]A shriek echoed from the[WAI][N]first floor![END]`
+widestring_04953E `[TPL:8][TPL:1][DLY:0]Noooooooooo...!!![FIN][PAL:0][TPL:9][SFX:10]A shriek echoed from the[N]first floor![END]`
 ;Noooooooooo...!!!
 ;A shriek echoed from the first floor!
 
@@ -94,7 +101,7 @@ widestring_04A0D7 `[TPL:A][TPL:1]Karen: I think you've[N]got the wrong person.[N
 ;Soldier: Your Highness! Do you think I can be tricked with that kind of red-faced lie...?
 ;Ultimately, this is the king's order. Even if it's only with brute force, we're bringing you home!
 
-widestring_04A15A `[TPL:A][TPL:1]Karen: I'm sorry for[N]lying to you. I'm Karen[N]of Edward Castle.[FIN]I think you were called[N]Tim? I don't feel like I'm[N]meeting with you for the[WAI][N]first time. For some[N]reason, it seems like we[N]can become good friends.[PAL:0][END]`
+widestring_04A15A `[TPL:A][TPL:1]Karen: I'm sorry for[N]lying to you. I'm Karen[N]of Edward Castle.[FIN]I think you were called[N]Tim? It feels like we've[N]met before.[FIN]For some reason, it seems[N]like we could become good[N]friends.[PAL:0][END]`
 ;Karen: I'm sorry for lying to you. I'm Karen of Edward Castle.
 ;I think you were called Tim? I don't feel like I'm meeting with you for the first time. For some reason, it seems like we can become good friends.
 
@@ -111,7 +118,7 @@ widestring_0495EB `[TPL:B][TPL:4]There is a jail in that[N]castle's underground.
 ;So that it would not be simple for prisoners to escape, it turned into a complex structure.
 ;However, the complex state of mind of the people that are sent to the jail I created every day...
 
-widestring_049B82 `[PAU:40][::][TPL:A][TPL:3]Laura: Well, with that[N]painful story ending, we[N]can have dinner now.[FIN]I've baked a delicious[N]pie, so. Come on both of[N]you, we're late, so go[WAI][N]with me upstairs.[PAL:0][END]`
+widestring_049B82 `[PAU:40][::][TPL:A][TPL:3]Laura: Well, with that[N]painful story ending, we[N]can have dinner now.[FIN]I've baked a delicious[N]pie. So come on both of[N]you, let's hurry upstairs[WAI][N]before it gets cold.[PAL:0][END]`
 ;Laura: Well, with that painful story stopping, we can have dinner now.
 ;I've baked a delicious pie, so. Come on both of you, we're late, so go with me to the second floor.
 
@@ -126,10 +133,10 @@ widestring_04A4CC `[DLG:3,B][SIZ:D,3][TPL:0]Tim: Ultimately, dinner[N]was meat p
 ;I only ate one slice, but Grandpa Bill endured and even ate three slices.
 ;Then, that night, I had a dream. A dream of going on a trip around the world with Karen..
 
-widestring_04A582 `[DLG:3,11][SIZ:D,3]Then, the next morning. A[N]terrible affair had tried[N]to arise...[END]`
+widestring_04A582 `[TPL:E]Then, the next morning. A[N]terrible affair had tried[N]to arise...[END]`
 ;Then, the next morning. A terrible affair had tried to arise...
 
-widestring_049828 `[TPL:A][TPL:4][LU1:6]I had some leftover pie[N]for breakfast. I saved[N]you a slice.[PAL:0][END]`
+widestring_049828 `[TPL:A][TPL:4][LU1:6]I had some leftover[N]pie for breakfast. I[N]saved you a slice.[PAL:0][END]`
 ;TODO!!!!!!!!!!!!!!
 
 widestring_049BE5 `[TPL:A][TPL:3]Laura: Good morning, Tim.[N]A letter has arrived for[N]you from King Edward.[FIN][PAL:0]In the letter was written[N]something like this.[FIN][TPL:B][TPL:4]"Bring the crystal ring[N]from Allman's personal[N]possessions to Edward[N]Castle."      -King Edward[FIN][TPL:3]Laura: From the time I[N]saw this letter, I've[N]been ticked off somehow.[FIN]That's it. Tim. I'll teach[N]you a good luck charm.[N]When you're worried, if[N]you whistle this, you can[WAI][N]definitely get through.[FIN]Laura hummed a mysterious[N]melody.[PAL:0][END]`
@@ -140,7 +147,7 @@ widestring_049BE5 `[TPL:A][TPL:3]Laura: Good morning, Tim.[N]A letter has arrive
 ;That's it. Tim. I'll teach you a good luck charm. When you're worried, if you whistle this, you can definitely get through.
 ;Laura hummed a mysterious melody.
 
-widestring_049D29 `[TPL:A][TPL:0][SFX:0][DLY:5]That was a charming[N]melody.[PAU:78][CLR]Although I must have been[N]hearing it for the first[N]time, somehow I was[N]experiencing a very[N]nostalgic feeling.[PAU:D0][CLR][PAL:0]You learned Laura's[N]Melody![PAU:FF][CLD]`
+widestring_049D29 `[TPL:A][TPL:0][SFX:0][DLY:5]That was a charming[N]melody.[PAU:78][CLR]Although I must have been[N]hearing it for the first[N]time, somehow I was[N]experiencing a very[N]nostalgic feeling.[PAU:80][CLR][PAL:0]You learned Laura's[N]Melody![PAU:80][CLD]`
 ;That was a charming melody.
 ;Although I must have been hearing it for the first time, somehow I was experiencing a very nostalgic feeling.
 ;You learned Laura's Melody!
