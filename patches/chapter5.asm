@@ -1,46 +1,54 @@
-?BANK 04
+;CHAPTER 5
 
-?INCLUDE 'chunk_048000'
 
-----------------------------------------------------------------------
 
-;Edward Castle prison
-
-widestring_04D42F `[DLG:3,11][SIZ:D,3][TPL:0]Will: [N]I [LU1:F9]why I have[N]to suffer so...[FIN]I [LU1:F9][LU1:F7]will[N][LU1:71]of me now.[FIN]Anyway, I [LU1:98]to[N][LU1:DA]of a way[N]to get out of here.[PAL:0][END]`
+-----------------------------
+?INCLUDE 'ec0B_cell'
+-----------------------------
+widestring_04D42F `[TPL:E][TPL:0]If I wasn't seeing it with[N]my own eyes, I probably[N]wouldn't believe it.[FIN]I wonder what will[N]become of me now.[FIN]Anyhow, if I don't think[N]of a way out of here...[PAL:0][END]`
 ;Tim: If I wasn't seeing it with my own eyes, I probably wouldn't believe it.
 ;I wonder what will become of me now.
 ;Anyhow, if I don't think of a way out of here...
 
-widestring_04DBF1 `[TPL:E][TPL:0]Will: [LU1:4D]was [N]chained to [LU1:D6]ball...[PAL:0][END]`
+-----------------------------
+?INCLUDE 'ec0B_ball'
+-----------------------------
+widestring_04DBF1 `[TPL:E][TPL:0]I guess someone was[N]probably chained to this[N]iron ball...[PAL:0][END]`
 ;Tim: I guess someone was probably chained to this iron ball...
 
+-----------------------------
+?INCLUDE 'ec0B_moss'
+-----------------------------
 widestring_04DB62 `[TPL:E][TPL:0]Will: This moss has seen[N][LU2:B8]of prisoners [N][LU1:79]and go... [FIN]Those prisoners [LU1:B2][N][LU1:98][LU1:70]encouraged [N]by any sign of life....[PAL:0][END]`
 ;Tim: This moss must have seen countless prisoners...
 ;They might have gotten moral support from living with this moss too...
 
-widestring_04DB2D `[DLG:3,12][SIZ:D,3][TPL:0]Will: [N][LU1:1D]locked...[PAL:0][END]`
+-----------------------------
+?INCLUDE 'ec0B_door'
+-----------------------------
+widestring_04DB2D `[TPL:C][TPL:0]There's a lock here...[PAL:0][END]`
 ;Tim: There's a lock here...
 
-widestring_04D60A `[DLG:3,12][SIZ:D,3]A soldier's whisper[N]comes [LU1:8E]a hole[N]in the ceiling.[FIN][DLG:3,12][SIZ:D,3][LU1:1D]today's ration of[N]bread.[N][LU1:12]moss drinks water.[END]`
+widestring_04D60A `[BOR:3][TPL:E]A soldier's deep voice[N]echoes from a hole opened[N]in the ceiling.[FIN][BOR:0][TPL:E]This is today's ration of[N]bread. I guess that even[N]moss drinks water.[END]`
 ;A soldier's deep voice echoes from a hole opened in the ceiling.
 ;This is today's ration of bread. I guess that even moss drinks water.
 
-widestring_04D37A `[DLG:3,11][SIZ:D,3]Will tastes [LU1:D0]of[N]the bread.[FIN]The bread is hard.[N][LU1:1D]the worst thing[N]he's [LU2:5D]tasted.[FIN]For [LU1:D0]reason, he[N][LU2:95]misses Grandma[N][LU1:2D]creative cuisine...[END]`
+widestring_04D37A `[BOR:3][TPL:D]Tim tried to nibble a bit[N]of the bread.[FIN][BOR:0][TPL:E][TPL:0]It had become hard. It was[N]the worst thing I had ever[N]tasted until then.[FIN]I sorely missed Grandma[N]Laura's pies for some[N]reason...[END]`
 ;Tim tried to nibble a bit of the bread.
 ;It had become hard; it was the worst thing I had ever tasted until then.
 ;I sorely missed Grandma Laura's pies for some reason...
 
-widestring_04D679 `[DLG:3,11][SIZ:D,4][TPL:0]Time passes slowly, but[N]the [LU1:A6]day is ending.[FIN]It pains me to [LU1:DA]of[N]the prisoners' feelings,[N]not knowing [LU1:F7]they[N][LU1:CA]do....[FIN]While I was [LU2:B2]to[N][LU1:DA]of a way out,[N]I drifted off to sleep.[PAL:0][END]`
+widestring_04D679 `[TPL:E][TPL:0]Time flowed damningly[N]slow. One long, long day[N]ended.[FIN]To a painful degree, I had[N]come to understand that a[N]prisoner has no emotional[WAI][N]outlet...[FIN]At that time, still trying[N]to find a way to escape, I[N]fell into a light sleep.[PAL:0][END]`
 ;Time flowed damningly slow; one long, long day ended.
-;To a painful degree, I had come to understand that a prisoner has no emotional outlet….
+;To a painful degree, I had come to understand that a prisoner has no emotional outlet...
 ;At that time, still trying to find a way to escape, I fell into a light sleep.
 
-widestring_04D732 `[PAU:78][DLG:3,11][SIZ:D,3][DLY:0]A familiar voice[N]speaks [LU1:8E]the flute.[FIN][TPL:E][TPL:4][LU2:E][N]Will....[FIN]Flute:[N]This is [LU1:FE]father.[END]`
+widestring_04D732 `[PAU:78][TPL:F][DLY:0]From my flute, a voice I[N]had longed to hear echoed[N]through the silence that[N]had filled my ears...[FIN][CLD][TPL:D][TPL:4][DLY:0]Flute: Tim...[FIN]Flute: Tim,[N]this is your father.[END]`
 ;From my flute, a voice I had longed to hear echoed through the silence that had filled my ears...
-;Flute: Tim…
+;Flute: Tim...
 ;Flute: Tim, this is your father.
 
-widestring_04D78A `[PAU:3C][TPL:E][TPL:0][DLY:0]Will: [N]Father...? [FIN][TPL:4][LU2:E]You were[N]a cute child, but now[N]you've grown up.[FIN]Isn't [LU1:17]Lola's[N]pie delicious?[FIN][TPL:0]Will: [N]Uh, sure, Dad![N][LU1:65]are you?![FIN][TPL:4]Flute:[N]I [LU1:78][LU2:AD]you now...[FIN][TPL:F][TPL:4]I [LU1:98][LU1:C8]to ask[N]of [LU2:C7]Listen...[N][PAL:0] [LU1:6A]if [LU1:9F][LU1:FE]wish![N] No! You deserted me!`
+widestring_04D78A `[PAU:3C][TPL:D][TPL:0][DLY:0]Tim: Dad...?[FIN][TPL:4]Flute: I guess you're all[N]grown up. Although you[WAI][N]were a cute lad.[FIN]Are Grandma Laura's pies[N]delicious?[FIN][TPL:0]Tim: Dad![N]Where are you?![FIN][TPL:4]Flute: I can't tell you[N]that now...[FIN]I have something to ask of[N]you.[FIN][TPL:F][TPL:4]Will you listen to it[N]for me?[N][PAL:0] Yes, since it's you, Dad[N] No, you abandoned me!`
 ;Tim: Dad...?
 ;Flute: I guess you're all grown up. Although you were a cute lad.
 ;Are Grandma Laura's pies delicious?
@@ -48,11 +56,11 @@ widestring_04D78A `[PAU:3C][TPL:E][TPL:0][DLY:0]Will: [N]Father...? [FIN][TPL:4]
 ;Flute: I can't tell you that now...
 ;I have something to ask of you. Will you listen to it for me? / Yes, since it's you, Dad / No, you abandoned me!
 
-widestring_04D87D `[CLD][TPL:F][TPL:4][CLR][DLY:0]Flute:[N]I [LU1:F1]you to[N][LU1:D1]me....[FIN]I, [LU2:B7]was once[N]held in [LU1:D6]cell.[N]Look at the[N][LU2:82]wall.[END]`
-;Flute: I want you to come to help me somehow…
+widestring_04D87D `[TPL:F][TPL:4][DLY:0]Flute: I want you to come[N]to help me somehow...[FIN]I was also a prisoner here[N]earlier. Hey, please look[N]at the wall on the left[N]side.[END]`
+;Flute: I want you to come to help me somehow...
 ;I was also a prisoner here earlier. Hey, please look at the wall on the left side.
 
-widestring_04D8D2 `[DEF][TPL:0]Will: [N]...This? [FIN][TPL:4][LU2:E][LU2:14]you[N][LU1:99]anything[N][LU1:8E][LU1:1A]Bill?[FIN][TPL:0]Will: [N]Grandpa?[N]He was an architect...[FIN][TPL:4]Flute:[N][LU1:68][LU1:1A]knows the [N]secret of [LU1:D7]stone.[FIN][TPL:0]Will: [N]Secret...?[FIN][TPL:4][LU2:E]Starting now,[N]you [LU1:EF]encounter[N]a [LU1:DE]thing.[FIN][TPL:0]Will: [N]Do I [LU1:98]to...?[FIN][TPL:4][LU2:E]Pick up the[N][LU2:9D][LU1:FE]enemy left.[FIN]The [LU1:C2]of the[N][LU1:7]is contained[N]there.[FIN]That [LU1:C2][LU1:EF]prove[N]to be [LU1:FE]ally....[FIN]You [LU1:B2][LU2:84]a[N]pilgrimage to the ruins[N]of the [LU1:F5]to [LU1:90][N]the Mystic Statues.[FIN]The closer you get to [N]the Crystal, [N]the stronger the evil[N][LU1:C2][LU1:EF]be...[FIN]Will... No time...[N]Quickly... First[N]to the Incan ruins...[FIN][PAL:0][SFX:10]The flute's [LU1:EE]fades[N]and disappears.[END]`
+widestring_04D8D2 `[DEF][TPL:0]Tim: ...What's this?[FIN][TPL:4]Flute: Did you not hear[N]something from Grandpa[N]Bill?[FIN][TPL:0]Tim: My grandpa? He was[N]an architect, right..?[FIN][TPL:4]Flute: Your grandpa, he[N]knew the secret of those[N]stones.[FIN][TPL:0]Tim: The stones'[N]secret...?[FIN][TPL:4]Flute: The situations that[N]you're going to face from[N]now on are going on be[N]a little bit scary.[FIN][TPL:0]Tim: Scary situations...?[FIN][TPL:4]Flute: Pick up the stones[N]left by the enemies.[FIN]The power of the comet is[N]contained in them.[FIN]That power will definitely[N]be your ally...[FIN]Then, search for the[N]puppets called "Mystery[N]Dollsˮ which are hidden in[N]the ruins spread around[WAI][N]the world.[FIN]The demons will become[N]more powerful as the comet[N]becomes closer...[FIN]Tim... There's no time...[N]So hurry... First,[N]to the Inca's ruins...[FIN][BOR:3][TPL:F][PAL:0][SFX:10]Sadly, the flute's voice[N]gradually become quiet[N]until it could no longer[N]be heard.[END]`
 ;Tim: ...What's this?
 ;Flute: Did you not hear something from Grandpa Bill?
 ;Tim: My grandpa? He was an architect, right..?
@@ -60,116 +68,132 @@ widestring_04D8D2 `[DEF][TPL:0]Will: [N]...This? [FIN][TPL:4][LU2:E][LU2:14]you[
 ;Tim: The stones' secret...?
 ;Flute: The situations that you're going to face from now on are going on be a little bit scary.
 ;Tim: Scary situations...?
-;Flute: Pick up the stones left by the enemies. The power of the comet is contained in them.
+;Flute: Pick up the stones left by the enemies. 
+;The power of the comet is contained in them.
 ;That power will definitely be your ally...
 ;Then, search for the puppets called "Mystery Dolls" which are hidden in the ruins spread around the world.
-;The demons will become more powerful as the comet becomes closer…
+;The demons will become more powerful as the comet becomes closer...
 ;Tim... There's no time... So hurry... First, to the Inca's ruins...
 ;Sadly, the flute's voice gradually become quiet until it could no longer be heard.
 
 widestring_04D4A5 `[TPL:C][LU1:3A]oink[PAU:28][CLD]`
 
-widestring_04D4B1 `[DLG:3,11][SIZ:D,4][TPL:0]Will: [N]I [LU1:F9]if [LU1:D6][N]is Kara's pig...[FIN][LU1:62]luck! There's a[N][LU2:7F]and a key tied[N]to its tail...[FIN][TPL:F][PAL:0]The [LU2:7F]read...[FIN][TPL:1] [LU2:35]to hear[N] [LU1:D7][LU1:FF]in prison.[FIN] [LU1:1D][LU1:DE][LU1:F7]my[N] [LU1:92]done, but hear[N] [LU1:F7]I [LU1:98]to say.[FIN] I too am a prisoner[N] --in a [LU2:91]of silk[N] and gold. [FIN] But tonight I [N] [LU1:EF][LU1:AC]the castle[N] forever. [FIN] You [LU2:48][LU1:EF][N] be free. [N]                  Kara[PAL:0][FIN]`
+widestring_04D4B1 `[TPL:A][TPL:0]Tim: If my memory is[N]right, this pig is Karen's[N]pet...[FIN]Oh? A letter and key are[N]tied in a bundle at its[N]tail...[FIN][BOR:3][TPL:9]These were the contents[N]of the letter.[FIN][BOR:0][TPL:9][TPL:1]"It surprised me that you[N]were placed in the prison.[FIN]Father's gotten angry,[N]but he doesn't listen,[N]whatever I say...[FIN]I can't stand being here[N]anymore...[FIN]Tonight, I will escape[N]the castle.[FIN]And from that, you will[N]also be freed...ˮ[PAL:0][FIN]`
 ;Tim: If my memory is right, this pig is Karen's pet...
 ;Oh? A letter and key are tied in a bundle at its tail...
 ;These were the contents of the letter.
 ;"It surprised me that you were placed in the prison.
-;Father's gotten angry, but he doesn't listen, whatever I say…
+;Father's gotten angry, but he doesn't listen, whatever I say...
 ;I can't stand being here anymore... Tonight, I will escape the castle.
 ;And from that, you will also be freed..."
 
+widestring_04D5F4 `[BOR:3][CLR][SFX:0][DLY:9]You [LU1:98]the key![PAU:FF][END]`
 ;Got the jail key!
 
-;Medicinal Herb / Can restore health.
-
-widestring_03861F `[DEF]As he turns the [N][LU2:91]key, the steel [N][LU2:58]opens [LU1:F0]a [N]dull sound. [END]`
+widestring_03861F `[BOR:3][TPL:A]When you inserted the key[N]to the jail, the gate[N]opened with a dull sound.[END]`
 ;When you inserted the key to the jail, the gate opened with a dull sound.
 
-widestring_04DC5E `[TPL:E]I [LU1:82][LU1:BA]anyone's[N]help... I can[N]get out by myself...[END]`
+-----------------------------
+?INCLUDE 'ec0B_guard'
+-----------------------------
+widestring_04DC5E `[DEF]I won't accept anyone's[N]help. I'll show you that I[N]can get out by my own[N]power...[END]`
 ;I won't accept anyone's help. I'll show you that I can get out by my own power...
 
-widestring_08DE96 `[DEF][CLR]I am [LU2:12]the source of[N]all [LU2:7D][LU1:1F][LU1:97]you[N][LU1:D0]advice.[FIN]`
+-----------------------------
+?INCLUDE 'sE6_gaia'
+-----------------------------
+widestring_08DE96 `[DEF]I am the fountainhead of[N]life, Gaia. I think that I[N]shall bestow upon thee one[N]suggestion.[FIN]`
 ;I am the fountainhead of life, Gaia. I think that I shall bestow upon thee one suggestion.
 
-widestring_08DED3 `[PRT:@widestring_08DE96][LU1:61]you defeat all the [N][LU1:8C]in an area, you [N][LU1:EF]get a jewel [LU1:D7][N]increases [LU1:FE]abilities.[FIN]Push the Start Button[N]to see the locations of[N][LU1:FE]enemies.[FIN]Find the [LU1:87][N]and defeat them. [FIN]`
+widestring_08DED3 `[PRT:@widestring_08DE96]When thou defeat all of[N]the enemies in a set area,[N]jewels that will increase[N]thy abilities will appear.[FIN]Thou willst become[N]stronger with them.[FIN]If thou press the start[N]button, thou shouldst[N]divine the location of the[N]enemy.[FIN]Use it when thou art[N]searching for demons that[N]remain undefeated...[FIN]`
 ;When thou defeat all of the enemies in a set area, jewels that will increase thy abilities will appear. Thou willst become stronger with them.
-;If thou press the start button, thou shouldst divine the location of the enemy. Use it when thou art searching for demons that remain undefeated...
+;If thou press the start button, thou shouldst divine the location of the enemy. 
+;Use it when thou art searching for demons that remain undefeated...
 
-;HP (health) increases!
-
-widestring_04DCBD `[DEF][TPL:0][DLY:0]Will:[N][LU1:61]you defeat all of[N]the [LU1:8C][LU1:6D]you,[N]a Jewel [LU1:EF]appear.[PAL:0][END]`
+-----------------------------
+?INCLUDE 'ec0C_force_hint'
+-----------------------------
+widestring_04DCBD `[DEF][TPL:0][DLY:0]Tim: Ah, that's right... I[N]think when I defeat all of[N]the enemies in the area[N]I'm in, these jewels[WAI][N]appear...[PAL:0][END]`
 ;Tim: Ah, that's right... I think when I defeat all of the enemies in the area I'm in, these jewels appear...
 
-;Underground aqueduct
-
-;STR (power) rose!
-
-widestring_09AA02 `[DEF][TPL:2][LU2:15][LU1:62]are you doing!![PAL:0][END]`
+-----------------------------
+?INCLUDE 'ec0E_lily'
+-----------------------------
+widestring_09AA02 `[TPL:9][TPL:2]That hurts...![N]What are you doing...![PAL:0][END]`
 ;That hurts...! What are you doing...!
 
-widestring_09AA1B `[DEF][TPL:2][LU1:9]here, or the[N]demon [LU1:EF]get you![PAL:0][END]`
+widestring_09AA1B `[TPL:A][TPL:2]Hurry, come this way...![N]You won't be hurt by the[N]demons...![PAL:0][END]`
 ;Hurry, come this way...! You won't be hurt by the demons...!
 
-;Found a Medicinal Herb!
-
-;FORCE / ENEMY / ITEM
-
-;DEF (protection) rose!
-
-widestring_0A89BF `[TPL:E][TPL:0]It [LU1:FA]go in![N][LU1:30][LU1:9F]rusty...[PAL:0][END]`
+-----------------------------
+?INCLUDE 'ec0F_rusty_switch'
+-----------------------------
+widestring_0A89BF `[TPL:E][TPL:0]I can't press it down very[N]much...! It looks like[N]it's rusted...[PAL:0][END]`
 ;I can't press it down very much...! It looks like it's rusted...
 
-widestring_04DD20 `[DEF][LU1:61]you defeat the[N]enemies, a shiny silver[N][LU1:C]Gem [LU1:EF]appear.[FIN]If you collect 100 of[N]these, you gain[N]one life...[FIN][LU1:12]if [LU1:FF]defeated,[N]you [LU1:FA][LU1:98]to go[N][LU1:73][LU1:ED]far...[END]`
+-----------------------------
+?INCLUDE 'ec10_dp_hint_spirit'
+-----------------------------
+widestring_04DD20 `[TPL:A]A glittering silver ball[N]of darkness that appears[N]when enemies are defeated.[FIN]If you collect 100 of[N]them, your Source of Life[N]will increase by one...[FIN]Even if you are defeated[N]by an enemy, you won't be[N]sent very far...[END]`
 ;A glittering silver ball of darkness that appears when enemies are defeated.
 ;If you collect 100 of them, your Source of Life will increase by one...
 ;Even if you are defeated by an enemy, you won't be sent very far...
 
-widestring_09BC51 `[DEF]Flower in the corner:[N]Try [LU1:C4]the Flute...[N][LU2:27]the melody...[END]`
+-----------------------------
+?INCLUDE 'ec11_flower'
+-----------------------------
+widestring_09BC51 `[TPL:A]Blooming Flower:[N]Please play your flute...[N]Please play that melody...[END]`
 ;Blooming flower in the corner: Please play your flute... Please play that melody...
 
-widestring_038517 `[DEF]He [LU1:C5]the Red Jewel![FIN]Red Jewels[N]fly to Jeweler Gem's in[N]a single ray of light![END]`
+-----------------------------
+?INCLUDE 'chunk_038000'
+-----------------------------
+widestring_038517 `[DEF]Raised the Red Jewel![FIN]The Red Jewel became a ray[N]of light and flew to Gem,[N]the jewel merchant's,[N]location![END]`
 ;Raised the Red Jewel!
 ;The Red Jewel became a ray of light and flew to Gem, the jewel merchant's, location!
 
-;Laura's Melody / The melody taught to you by Laura.
-
-widestring_038C76 `[DEF]He [LU2:A1]played the[N][LU1:B4]he had learned[N][LU1:8E]Lola.[END]`
+widestring_038C76 `[BOR:3][TPL:A]He quietly started playing[N]the melody that Laura had[N]taught him.[END]`
 ;Quietly started playing the melody that Laura had taught.
 
-widestring_038D17 `[DEF][CLR]He [LU1:99]a soft voice[N][LU1:8E]somewhere...[FIN][TPL:2][LU1:46]Voice:[N]Go to the switch on[N]the [LU1:C6]wall.[PAL:0][END]`
+widestring_038D17 `[BOR:3][DEF]When it was done, a voice[N]could suddenly be heard[N]from somewhere...[FIN][BOR:0][DEF][TPL:2]Mysterious voice: Please[N]go in front of the switch[N]on the right side of the[N]room.[PAL:0][END]`
 ;When it was done, a voice could suddenly be heard from somewhere...
 ;Mysterious voice: Please go in front of the switch on the right side of the room.
 
-widestring_09BE70 `[TPL:B][TPL:2][::][LU1:46]Voice: The [LU2:58][N][LU1:FA]open unless you [N]push [LU1:D6]switch on [N]the count of three. [FIN][LU1:61]I shout, push [N]the switch. [FIN][LU1:1F]count 1, 2, 3.[N][LU1:D][LU2:84]a mistake.[END]`
+-----------------------------
+?INCLUDE 'ec11_countdown'
+-----------------------------
+widestring_09BE70 `[DEF][TPL:2][::]Mysterious voice: The door[N]won't open unless two[N]people hit this switch at[N]the same time.[FIN]Match the timing with my[N]count and push the switch.[FIN]The timing will be 1-2-3,[N]alright? Don't get it[N]wrong.[END]`
 ;Mysterious voice: The door won't open unless two people hit this switch at the same time.
 ;Match the timing with my count and push the switch.
 ;The timing will be 1-2-3, alright? Don't get it wrong.
 
-widestring_09BD58 `[DEF][TPL:2]Wait! I told you,[N]you [LU1:98]to push them[N]at the [LU1:CD]time![FIN][JMP:&widestring_09BE70]`
+-----------------------------
+?INCLUDE 'ec11_button_voice'
+-----------------------------
+widestring_09BD58 `[DEF][TPL:2]Hold on! Didn't I say we[N]have to press them[N]simultaneously?[FIN][JMP:&widestring_09BE70]`
 ;Hold on! Didn't I say we have to press them simultaneously?
 
-widestring_09BD92 `[PAU:1E][DEF][TPL:2]Stop![N]The [LU2:58]is open!![FIN]Go in!![END]`
+widestring_09BD92 `[PAU:1E][TPL:D][TPL:2]Alright![N]The door opened...![FIN]Okay, go on ahead![END]`
 ;Alright! The door opened...!
 ;Okay, go on ahead!
 
-widestring_08E98A `[PRT:@widestring_08DE96][LU1:68][LU2:A3]is only[N]temporary. Try standing[N]in front of the statue[N][LU1:BC]to you.[FIN]`
+widestring_08E98A `[PRT:@widestring_08DE96]Thy form is a temporary[N]one. Thou shouldst try[N]standing in front of the[N]statue that is beside me.[FIN]`
 ;Thy form is a temporary one. Thou shouldst try standing in front of the statue that is stands beside me.
 
-widestring_08F157 `[TPL:B][CLR][TPL:0]Will hears a [LU1:EE][N]in his head. [FIN][TPL:4]Will. [N][LU1:20][LU1:70][LU1:FD]a [LU1:A6][N][LU1:DF]for you to come. [FIN]I am Freedan.[N]I am eternal.[FIN]Let me help you on [N][LU1:FE]journey. As [LU1:DF][N]goes by, you'll [LU1:79]to [N][LU1:E9]my nature.... [FIN][PAL:0]Will gradually loses [N]consciousness... [N][END]`
+widestring_08F157 `[DEF][TPL:0]A voice echoed inside of[N]Tim's head.[FIN][TPL:4]O Tim. I have long been[N]laying in wait for this[N]time to come.[FIN]My name is Friedan. I am[N]something that exists[N]beyond time.[FIN]From here on, I intend to[N]assist on your journey.[N]When the time for me has[N]come, then by nature, you[WAI][N]will know it...[FIN][PAL:0]Tim's consciousness[N]gradually receded...[END]`
 ;A voice echoed inside of Tim's head.
 ;O Tim. I have long been laying in wait for this time to come.
 ;My name is Friedan. I am something that exists beyond time.
 ;From here on, I intend to assist on your journey. When the time for me has come, then by nature, you will know it ...
 ;Tim's consciousness gradually receded...
 
-;This is Friedan's status. / An explanation of the selected Power of Darkness will be displayed with the confirm button.
-
-;Found a Red Jewel!
-
-widestring_09C06C `[TPL:B][LU1:61]the [LU1:8C]are [N]destroyed,[N]Will can return to[N]his [LU1:C0]shape...[END]`
+-----------------------------
+?INCLUDE 'ec13_lily'
+-----------------------------
+widestring_09C06C `[BOR:3][DEF]The presence of enemies[N]disappeared, Tim's[N]transformation is cleared[N]away...[END]`
 ;The presence of enemies disappeared; Tim's transformation is cleared away...
 
-widestring_09C0A8 `[DEF][TPL:2]Girl: I saw you!![N]But I'm surprised![N]You can change[N][LU1:FE][LU2:A3][LU1:A5]me![FIN]I'm Lilly. An Itory [N][LU2:6C]protected by [N]the Flower Spirit. [FIN]How... How do you know[N]a [LU1:B4]you [LU1:7A]only[N][LU1:98][LU1:99][LU1:8E]us?[FIN][TPL:0]Will: I learned it [N][LU1:8E][LU1:17]Lola. [N]She hummed it whenever [N]she was upset. [FIN][TPL:2][LU1:2A]I [LU1:98]had [N][LU1:D0]of her pie. It [N]tastes rather unusual,[N][LU1:84]it? [FIN][TPL:0]Will: You [LU1:A4] [N]my grandmother?! [FIN][TPL:2][LU1:2A]Actually,[N]she asked me to[N]rescue you![PAL:0][END]`
+widestring_09C0A8 `[DEF][TPL:2]Girl: I saaaw you! But you[N]surprised me! You're a[N]person that can transform[N]like me, huh.[FIN]I'm Lillie. I'm a girl[N]from the Itory clan,[N]which is protected by[N]flower fairies.[FIN]Why do you know the melody[N]that nobody but us has[N]heard?[FIN][TPL:0]Tim: I learned it from[N]Grandma Laura. I play it[N]when I'm really worried.[FIN][TPL:2]Lillie: I had been treated[N]to Grandma Laura's[N]terrible tasting pies.[FIN][TPL:0]Tim: You know my Grandma!?[FIN][TPL:2]Lillie: Hehe... The truth[N]is, Laura requested that I[N]come save you![PAL:0][END]`
 ;Girl: I saaaw you! But you surprised me! You're a person that can transform like me, huh.
 ;I'm Lillie. I'm a girl from the Itory clan, which is protected by flower fairies.
 ;Why do you know the melody that nobody but us has heard?
@@ -178,6 +202,20 @@ widestring_09C0A8 `[DEF][TPL:2]Girl: I saw you!![N]But I'm surprised![N]You can 
 ;Tim: You know my Grandma!?
 ;Lillie: Hehe... The truth is, Laura requested that I come save you!
 
-widestring_09C226 `[DEF][TPL:2]Lilly:[N]The [LU2:A]is calling...[N]I [LU1:98]to go.[FIN][LU1:2A][N][LU2:3E][LU2:87]again! [N]Goodbye, Will![PAL:0][END]`
+widestring_09C226 `[TPL:E][TPL:2]Lillie: Ah...[N]The Elder is calling...[N]I have to go.[FIN]Lillie: We'll definitely[N]meet again later. See you,[N]Tim![PAL:0][END]`
 ;Lillie: Ah... The Elder is calling... I have to go.
 ;Lillie: We'll definitely meet again later. See you, Tim!
+
+
+
+;This is Friedan's status. / An explanation of the selected Power of Darkness will be displayed with the confirm button.
+;Found a Red Jewel!
+;Edward Castle prison
+;Laura's Melody / The melody taught to you by Laura.
+;Found a Medicinal Herb!
+;FORCE / ENEMY / ITEM
+;DEF (protection) rose!
+;Underground aqueduct
+;STR (power) rose!
+;HP (health) increases!
+;Medicinal Herb / Can restore health.

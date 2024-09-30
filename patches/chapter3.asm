@@ -1,50 +1,35 @@
-
-?INCLUDE 'chunk_048000'
-?INCLUDE 'chunk_088000'
-?INCLUDE 'sc01_events'
-?INCLUDE 'sc02_lance'
-?INCLUDE 'sc06_events'
-?INCLUDE 'sc06_bill'
-?INCLUDE 'sc06_laura'
-?INCLUDE 'sc06_kara'
-?INCLUDE 'sc06_hamlet'
-?INCLUDE 'sc06_main_soldier'
-?INCLUDE 'jeweler_gem'
-
------------------------------------------------------------------
+;CHAPTER 3
 
 
+----------------------------
+?INCLUDE 'sc01_house_intro'
+----------------------------
 widestring_04BE05 `[TPL:10][TPL:0]Around when I left the[N]coastal cave, the sky had[N]been completely painted[N]by twilight.[PAL:0][END]`
 ;Around when I left the coastal cave, the sky had been completely painted by twilight.
 
-;??
-;widestring_08D20F `[CLR]Mmm...This is a rare [N]jewel. Let me hold [N]it for [LU2:C7][FIN]With this, I think the[N]number of jewels should[N]altogether have become [BCD:2,AB0].[FIN]`
-;Then it is well to rest at your pace.
-;With this, I think the number of jewels should altogether have become 3.
-
+------------------------
+?INCLUDE 'jeweler_gem'
+------------------------
 widestring_08D2D0 `[CLR]Whoops, the number of[N]jewels you've collected[N]have passed 3, haven't[N]they...![FIN]Going by the list, I'll[N]give you a Medicinal Herb.[FIN]`
 ;Whoops, the number of jewels you've collected have passed 3, haven't they...! Going by the list, I'll give you a Medicinal Herb.
 
 widestring_08D31A `Received a Medicinal Herb[N]from the jewel merchant![FIN]`
 ;Received a Medicinal Herb from the jewel merchant!
 
-;Belongings / Equips belongings. Equipped things can be used with the B button.
 
-;Sort / Sorts belongings.
-
-;Discard / Discards belongings.
-
-;Status / This is Tim's status. With the decision button, the Power of Darkness will be explained.
-
-;Guh.... I can't take it even a little, huh...
-
+------------------------
+?INCLUDE 'sc06_hamlet'
+------------------------
 widestring_04A311 `[TPL:9][TPL:0]The pig is destroying[N]the room...![FIN]However, why is there a[N]pig in my house...[END]`
 ;The pig is destroying the room...!
 ;However, why is there a pig in my house...
 
-widestring_04A356 `[TPL:8]Squeal squeal[END]`
+widestring_04A356 `[BOR:2][TPL:8]Squeal squeal[END]`
 ;Squeal squeal
 
+------------------------
+?INCLUDE 'sc06_kara'
+------------------------
 widestring_049EB4 `[TPL:A][TPL:1]Karen: Oh my, Peggy. You[N]shouldn't bully people[N]you don't know.[FIN]Are you a child from this[N]house?[FIN][TPL:0]Tim: Yeah... That's[N]right, but?[PAL:0][END]`
 ;Karen: Oh my, Peggy. You shouldn't bully people you don't know.
 ;Are you a child from this house?
@@ -71,9 +56,15 @@ widestring_04A0D2 `[TPL:A][JMP:&widestring_04A04C+M]`
 ;Tim: There isn't anything like that! But, Grandma Laura is amazingly good as singing.
 ;Karen: Speaking of singing, they're singing on the second floor right now. The two of them have loud voices.
 
+------------------------
+?INCLUDE 'sc06_lola'
+------------------------
 widestring_049ABB `[TPL:A][TPL:3]Laura: Welcome home, Tim.[N]I suppose that when I[N]sing opera, I forget what[WAI][N]time it is...[FIN]Dinner isn't ready.[PAL:0][END]`
 ;Laura: Welcome home, Tim. I suppose that when I sing opera, I forget what time it is... Dinner isn't ready.
 
+------------------------
+?INCLUDE 'sc06_bill'
+------------------------
 widestring_0494B1 `[TPL:A][TPL:4]Bill: Oh dear. It's been[N]a while since I've sung[N]so loudly.[FIN]Your Grandma Laura was[N]once a singer for a bar.[FIN]Your grandma's beautiful[N]voice engraved itself on[N]my heart, so I proposed.[WAI][N]Bwahahaha.[PAL:0][END]`
 ;Bill: Oh dear. It's been a while since I've sung so loudly.
 ;Your Grandma Laura was once a singer for a bar.
@@ -84,14 +75,17 @@ widestring_049A3F `[TPL:A][TPL:3]Laura: Ohohohoho. Stop[N]it, dear! Bringing up[
 ;That's right! Tim, you shouldn't be shocked.
 ;There was a girl here singing with us a while ago, right...?
 
-widestring_04953E `[TPL:8][TPL:1][DLY:0]Noooooooooo...!!![FIN][PAL:0][TPL:9][SFX:10]A shriek echoed from the[N]first floor![END]`
+widestring_04953E `[BOR:2][TPL:8][TPL:1][DLY:0]Noooooooooo...!!![FIN][PAL:0][BOR:3][TPL:9][SFX:10]A shriek echoed from the[N]first floor![END]`
 ;Noooooooooo...!!!
 ;A shriek echoed from the first floor!
 
 widestring_04956D `[TPL:A][TPL:4]Bill: That shriek was[N]from that child from a[N]moment ago...!![PAL:0][END]`
 ;Bill: That shriek was from that child from a moment ago...!!
 
-widestring_04A3BB `[TPL:A]Soldier: Your Royal[N]Highness. We've been[N]searching for you![FIN][TPL:1]Karen: I don't know[N]anyone like you...[N]I said, leave...![FIN][PAL:0][SFX:10]Soldier: What are you[N]saying. If I don't bring[N]you home from here, my[WAI][N]head's going to roll.[END]`
+------------------------
+?INCLUDE 'sc06_main_soldier'
+------------------------
+widestring_04A3BB `[TPL:A]Soldier: Your Royal[N]Highness. We've been[N]searching for you![FIN][BOR:2][TPL:A][TPL:1]Karen: I don't know[N]anyone like you...[N]I said, leave...![FIN][BOR:0][TPL:A][PAL:0][SFX:10]Soldier: What are you[N]saying. If I don't bring[N]you home from here, my[WAI][N]head's going to roll.[END]`
 ;Soldier: Your Royal Highness. We've been searching for you!
 ;Karen: I don't know anyone like you... I said, leave...!
 ;Soldier: What are you saying. If I don't bring you home from here, my head's going to roll.
@@ -133,13 +127,16 @@ widestring_04A4CC `[DLG:3,B][SIZ:D,3][TPL:0]Tim: Ultimately, dinner[N]was meat p
 ;I only ate one slice, but Grandpa Bill endured and even ate three slices.
 ;Then, that night, I had a dream. A dream of going on a trip around the world with Karen..
 
-widestring_04A582 `[TPL:E]Then, the next morning. A[N]terrible affair had tried[N]to arise...[END]`
+------------------------
+?INCLUDE 'sc06_monologue'
+------------------------
+widestring_04A582 `[BOR:3][TPL:E]Then, the next morning. A[N]terrible affair had tried[N]to arise...[END]`
 ;Then, the next morning. A terrible affair had tried to arise...
 
 widestring_049828 `[TPL:A][TPL:4][LU1:6]I had some leftover[N]pie for breakfast. I[N]saved you a slice.[PAL:0][END]`
 ;TODO!!!!!!!!!!!!!!
 
-widestring_049BE5 `[TPL:A][TPL:3]Laura: Good morning, Tim.[N]A letter has arrived for[N]you from King Edward.[FIN][PAL:0]In the letter was written[N]something like this.[FIN][TPL:B][TPL:4]"Bring the crystal ring[N]from Allman's personal[N]possessions to Edward[N]Castle."      -King Edward[FIN][TPL:3]Laura: From the time I[N]saw this letter, I've[N]been ticked off somehow.[FIN]That's it. Tim. I'll teach[N]you a good luck charm.[N]When you're worried, if[N]you whistle this, you can[WAI][N]definitely get through.[FIN]Laura hummed a mysterious[N]melody.[PAL:0][END]`
+widestring_049BE5 `[TPL:A][TPL:3]Laura: Good morning, Tim.[N]A letter has arrived for[N]you from King Edward.[FIN][PAL:0]In the letter was written[N]something like this.[FIN][TPL:B][TPL:4]"Bring the crystal ring[N]from Allman's personal[N]possessions to Edward[N]Castle.ˮ      -King Edward[FIN][TPL:3]Laura: From the time I[N]saw this letter, I've[N]been ticked off somehow.[FIN]That's it. Tim. I'll teach[N]you a good luck charm.[N]When you're worried, if[N]you whistle this, you can[WAI][N]definitely get through.[FIN]Laura hummed a mysterious[N]melody.[PAL:0][END]`
 ;Laura: Good morning, Tim. A letter has arrived for you from King Edward.
 ;In the letter was written something like this.
 ;Bring the crystal ring from Allman's personal possessions to Edward Castle. / King Edward
@@ -147,7 +144,7 @@ widestring_049BE5 `[TPL:A][TPL:3]Laura: Good morning, Tim.[N]A letter has arrive
 ;That's it. Tim. I'll teach you a good luck charm. When you're worried, if you whistle this, you can definitely get through.
 ;Laura hummed a mysterious melody.
 
-widestring_049D29 `[TPL:A][TPL:0][SFX:0][DLY:5]That was a charming[N]melody.[PAU:78][CLR]Although I must have been[N]hearing it for the first[N]time, somehow I was[N]experiencing a very[N]nostalgic feeling.[PAU:80][CLR][PAL:0]You learned Laura's[N]Melody![PAU:80][CLD]`
+widestring_049D29 `[TPL:A][TPL:0][SFX:0][DLY:5]That was a charming[N]melody.[PAU:78][CLR]Although I must have been[N]hearing it for the first[N]time, somehow I was[N]experiencing a very[N]nostalgic feeling.[PAU:30][CLR][PAL:0]You learned Laura's[N]Melody![PAU:30][CLD]`
 ;That was a charming melody.
 ;Although I must have been hearing it for the first time, somehow I was experiencing a very nostalgic feeling.
 ;You learned Laura's Melody!
@@ -160,14 +157,27 @@ widestring_04977F `[TPL:A][TPL:4]Bill: Crystal ring...[N]Uhh, I don't think I've
 ;There wasn't anything like that in the luggage your dad, Allman, left behind, either...
 ;Anyhow, will you try to go to Edward Castle? You may be able to meet the princess from yesterday. Bwahahaha.
 
+------------------------
+?INCLUDE 'sc02_lance'
+------------------------
 widestring_04B3DF `[TPL:A][TPL:4]Rob: Today is a holiday[N]from the lessons at church[N]too.. I think there's[WAI][N]somehow nothing[N]interesting.[PAL:0][END]`
 ;Rob: Today is a holiday from the lessons at church too.. I think there's somehow nothing interesting.
 
+------------------------
+?INCLUDE 'sc01_guard'
+------------------------
 widestring_048612 `[DEF]Huh? You say that King[N]Edward summoned for you[N]to go to the castle?[N]Well, go and take care.[END]`
 ;Huh? You say that King Edward summoned for you to go to the castle? Well, go and take care.
 
+widestring_048647 `[TPL:8]Take care, huh?[END]`
 ;Take care, huh?
 
 
+
+;Belongings / Equips belongings. Equipped things can be used with the B button.
+;Sort / Sorts belongings.
+;Discard / Discards belongings.
+;Status / This is Tim's status. With the decision button, the Power of Darkness will be explained.
+;Guh.... I can't take it even a little, huh...
 
 

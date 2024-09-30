@@ -1,30 +1,33 @@
+;CHAPTER 2
 
 
-?INCLUDE 'chunk_048000'
-?INCLUDE 'sc02_erik'
-?INCLUDE 'sc02_lance'
-?INCLUDE 'sc02_seth'
-?INCLUDE 'sc02_events'
-
-----------------------------------------------------------------------
-
-;Coastal cave
-
+----------------------------
+?INCLUDE 'sc02_entry'
+----------------------------
 widestring_04BE87 `[TPL:B][TPL:0]It might be strange, but[N]we even call this coastal[N]cave our second home.[FIN]Usually, we meet here[N]after our lesson at church[N]is finished and chat until[N]it gets dark.[PAL:0][END]`
 ;It might be strange, but we even call this coastal cave our second home.
 ;Usually, we meet here after our lesson at church is finished and chat until it gets dark.
 
+----------------------------
+?INCLUDE 'sc02_lance'
+----------------------------
 widestring_04B1CB `[TPL:A][TPL:4]Rob: What's up, Tim?[N]Late, ain't ya...[FIN]I'm playin' a match o'[N]blackjack with Morris[N]right now. Wait a sec.[PAL:0][END]`
 ;Rob: What's up, Tim? Late, ain't ya...
 ;I'm playin' a match o' blackjack with Morris right now. Wait a sec.
 
+----------------------------
+?INCLUDE 'sc02_seth'
+----------------------------
 widestring_04B5B6 `[TPL:A][TPL:5]Morris:[N]Ahaha... It turns out[N]that I win again.[PAL:0][END]`
 ;Morris: Ahaha... It turns out that I win again.
 
-widestring_04B9AF `[TPL:A][DLY:0]Suddenly, Eric burst in[N]with a strange expression[N]on his face![PAU:3C][CLD]`
+----------------------------
+?INCLUDE 'sc02_erik'
+----------------------------
+widestring_04B9AF `[BOR:3][TPL:A][DLY:0]Suddenly, Eric burst in[N]with a strange expression[N]on his face![PAU:3C][CLD]`
 ;Suddenly, Eric burst in with a strange expression on his face!
 
-widestring_04B9F2 `[TPL:A][TPL:3]Eric: Huff, huff...[N]News...! It's biiig[N]news...![FIN]I heard that Edward[N]Castle's princess has[N]gone missing![FIN]Supposedly she seems to[N]be heading to this town![PAL:0][END]`
+widestring_04B9F2 `[BOR:2][TPL:A][TPL:3]Eric: Huff, huff...[N]News...! It's biiig[N]news...![FIN]I heard that Edward[N]Castle's princess has[N]gone missing![FIN]Supposedly she seems to[N]be heading to this town![PAL:0][END]`
 ;Eric: Huff, huff... News...! It's biiig news...!
 ;I heard that Edward Castle's princess has gone missing! Supposedly she seems to be heading to this town!
 
@@ -59,7 +62,7 @@ widestring_04B23F `[TPL:A][TPL:4]Rob: I think ya spun yer[N]flute like a baton a
 widestring_04B72B `[TPL:A][TPL:5]Morris: Face the stone[N]statue and press the[N]L or R button.[PAL:0][END]`
 ;Morris: Face the stone statue and press the L or R button.
 
-widestring_04B75D `[TPL:A][TPL:4]Rob: Whoa..! It[N]moooooved..!![PAL:0][PAU:28][CLD]`
+widestring_04B75D `[BOR:2][TPL:A][TPL:4]Rob: Whoa..! It[N]moooooved..!![PAL:0][PAU:28][CLD]`
 ;Rob: Whoa..! It moooooved..!!
 
 widestring_04B27E `[TPL:B][TPL:4]Rob: Alright. This time,[N]do tha card reveal fer us.[FIN]From tha four cards I'm[N]placin' face down, raise[N]and show us one if ya[N]think it's tha ace o'[WAI][N]diamonds.[PAL:0][END]`
@@ -76,11 +79,14 @@ widestring_04B77C `[TPL:A][TPL:5]Morris: No matter how[N]many times you see it,[
 ;Morris: No matter how many times you see it, it's still cool, isn't it...?
 ;However, I wonder why things like the desk don't move, and only the stone statue moves...
 
-widestring_04B00F `[TPL:A]Tim raised a card.[WAI][N]Surely enough, it was[N]the ace of diamonds!![END]`
+----------------------------
+?INCLUDE 'sc02_card'
+----------------------------
+widestring_04B00F `[BOR:3][TPL:A]Tim raised a card.[WAI][N]Surely enough, it was[N]the ace of diamonds!![END]`
 ;Tim found the card and raised it.
 ;Surely enough, it was the ace of diamonds!!
 
-widestring_04B328 `[TPL:A][TPL:4]Rob: Ah...[N]He got it..![PAL:0][END]`
+widestring_04B328 `[BOR:2][TPL:A][TPL:4]Rob: Ah...[N]He got it..![PAL:0][END]`
 ;Rob: Ah... He got it..!
 
 widestring_04BC16 `[TPL:A][TPL:3]Eric: Phew. I'm[N]speechless...[FIN]Hey. Morris. You call[N]this sort of thing[N]"extrasensory perception",[WAI][N]right?[PAL:0][END]`
@@ -106,3 +112,6 @@ widestring_04B386 `[TPL:A][TPL:4]Rob: Morris. Take out tha[N]cards; we'll have o
 widestring_04B3AD `[TPL:A][TPL:4]Rob: I'll play another[N]match or so with Morris[N]and then go home.[PAL:0][END]`
 ;Rob: I'll play another match or so with Morris and then go home.
 
+
+
+;Coastal cave
