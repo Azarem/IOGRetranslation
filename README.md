@@ -1,15 +1,15 @@
 # IOGRetranslation
 
-ILLUSION OF GAIA / ILLUSION OF TIME / GAIA GENSOUKI
-ENGLISH RETRANSLATION DEMO V0.1
-Copyright 2024 by GaiaLabs
-https://github.com/Azarem/IOGRetranslation
-https://github.com/Azarem/GaiaLabs
+ILLUSION OF GAIA / ILLUSION OF TIME / GAIA GENSOUKI</br>
+ENGLISH RETRANSLATION DEMO V0.1</br>
+Copyright 2024 by GaiaLabs</br>
+https://github.com/Azarem/IOGRetranslation</br>
+https://github.com/Azarem/GaiaLabs</br>
 
 TABLE OF CONTENTS
 
-1.) About the Project
-2.) Application Instructions
+1.) About the Project</br>
+2.) Application Instructions</br>
 3.) Special Thanks
 
 
@@ -36,18 +36,18 @@ This is a BPS patch for Illusion of Gaia which replaces the original localizatio
 
 This is a proof-of-concept ROM that *should* be fully playable, but as of this patch version, the retranslation only goes through the first South Cape segment. The decompressed ROM takes about 3MB of space, with 1MB of free space in banks $30 - $3F. You could potentially use this ROM to insert new graphics etc in a raw format, bypassing the need for a compressor, while also enjoying a more seamless gameplay experience.
 
-To use this patch, download FLIPS, Beat, or use the Online Rom Patcher:
-FLIPS - https://www.romhacking.net/utilities/1040/
-Beat - https://www.romhacking.net/utilities/893/
-Online Patcher - https://www.romhacking.net/patch/
+To use this patch, download FLIPS, Beat, or use the Online Rom Patcher:</br>
+FLIPS - https://www.romhacking.net/utilities/1040/</br>
+Beat - https://www.romhacking.net/utilities/893/</br>
+Online Patcher - https://www.romhacking.net/patch/</br>
 Online Patcher Alt. - https://www.marcrobledo.com/RomPatcher.js/
 
 Tested on original hardware. Please report any bugs on Github.
 
-ROM / ISO Information:
-Database match: Illusion of Gaia (USA)
-Database: No-Intro: Super Nintendo Entertainment System (v. 20210222-050638)
-File/ROM SHA-1: 38DE0C84DD2BC3BDFC0A3D7AB0220C79B70887C3
+ROM / ISO Information:</br>
+Database match: Illusion of Gaia (USA)</br>
+Database: No-Intro: Super Nintendo Entertainment System (v. 20210222-050638)</br>
+File/ROM SHA-1: 38DE0C84DD2BC3BDFC0A3D7AB0220C79B70887C3</br>
 File/ROM CRC32: 1C3848C0
 
 
