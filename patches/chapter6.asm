@@ -27,8 +27,7 @@ widestring_04C0AF `[TPL:19][TPL:8]Ah... You...![FIN][TPL:A]I think there were[N]
 --------------------------------
 ?INCLUDE 'ec0A_stair_maid'
 --------------------------------
-widestring_04C85A `[TPL:19][TPL:D]You're taking Miss Karen[N]when you escape, right?[FIN]
-[TPL:E]I'm hoping that His[N]Majesty the King won't[N]find you...[FIN]So, you'll protect Her[N]Majesty the Princess,[N]right?[END]`
+widestring_04C85A `[TPL:19][TPL:D]You're taking Miss Karen[N]when you escape, right?[FIN][TPL:E]I'm hoping that His[N]Majesty the King won't[N]find you...[FIN]So, you'll protect Her[N]Majesty the Princess,[N]right?[END]`
 ;You're taking Miss Karen when you escape, right?
 ;I'm hoping that His Majesty the King won't find you... So, you'll protect Her Majesty the Princess, right?
 
@@ -49,8 +48,7 @@ widestring_04CE4A `[TPL:1][TPL:A]Karen: You came for me[N]after all! Thank you v
 ;Karen: It's a very smart piglet. It's even got a little bit of a mysterious power...
 ;Alright, take me out of here!
 
-widestring_04D012 `[TPL:1][TPL:B]Karen: Ah, that's right..![N]Since it might be a long[N]journey, let's take some[N]food.[FIN]
-Won't you go to the[N]basement for me?[END]`
+widestring_04D012 `[TPL:1][TPL:B]Karen: Ah, that's right..![N]Since it might be a long[N]journey, let's take some[N]food.[FIN]Won't you go to the[N]basement for me?[END]`
 ;Karen: Ah, that's right...! Since it might be a long journey, let's take some food.
 ;Won't you go to the basement for me?
 
@@ -159,8 +157,7 @@ widestring_048CDB `[TPL:16][TPL:E]What's the matter, Tim?[N]You're looking at pe
 --------------------------------
 ?INCLUDE 'jeweler_gem'
 --------------------------------
-widestring_08D332 `[CLR]Whoops, the number of[N]jewels you've collected[N]have passed 5, haven't[N]they...![FIN]Going by the list, I'll[N]give you Protection Force.[FIN]
-With that, your defensive power should rise by one.[FIN]`
+widestring_08D332 `[CLR]Whoops, the number of[N]jewels you've collected[N]have passed 5, haven't[N]they...![FIN]Going by the list, I'll[N]give you Protection Force.[FIN]With that, your defensive[N]power should rise by one.[FIN]`
 ;Whoops, the number of jewels you've collected have passed 5, haven't they...! Going by the list, I'll give you Protection Force.
 ;With that, your defensive power should rise by one.
 
@@ -188,8 +185,7 @@ widestring_04ADFE `[TPL:2][TPL:B]Lillie: Have you decided[N]to head out?[N][PAL:
 
 widestring_04AE24 `[CLR][TPL:2][LU1:2A]All right.[N]If you decide to[N]go, [LU1:79][LU1:73]here[N][LU1:F6][LU1:FF]through.[PAL:0][END]`
 
-widestring_04AE61 `[TPL:1][TPL:B]Karen: I feel like some[N]lovely experiences are[N]ahead of us.[FIN]
-[TPL:2][TPL:B]Lillie: No, from here,[N]there will definitely be a[N]lot of difficulties...[N]*Sigh*...[END]`
+widestring_04AE61 `[TPL:1][TPL:B]Karen: I feel like some[N]lovely experiences are[N]ahead of us.[FIN][TPL:2][TPL:B]Lillie: No, from here,[N]there will definitely be a[N]lot of difficulties...[N]*Sigh*...[END]`
 ;Karen: I feel like some lovely experiences are ahead of us.
 ;Lillie: No, from here, there will definitely be a lot of difficulties... *Sigh*...
 

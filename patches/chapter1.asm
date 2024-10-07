@@ -95,7 +95,7 @@ widestring_08DD0B `[TPL:17][TPL:F]I am the fountainhead of[N]life, Gaia. Hencefo
 widestring_08DDCB `[TPL:17][TPL:F]So, shalt thou record thy[N]adventure 'til this point?[N] Record[N] [LU1:D]record`
 ;So, shalt thou record thy adventure until this point? / Record / Don't record
 
-widestring_08DDFE `[CLR]Recording completed...[FIN]Shalt thou still continue[N]with thy journey?[N] Yes[N] No`
+widestring_08DDFE `[CLR]Recording completed...[FIN]Shalt thou still continue[N]with thy journey? [N] Yes[N] No`
 ;Recording completed...
 ;Shalt thou still continue with thy journey? / Yes / No
 

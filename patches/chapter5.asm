@@ -183,7 +183,7 @@ widestring_08DE4D `[TPL:17][TPL:F]It seems that you're[N]injured, huh. Come on,[
 widestring_08E98A `[PRT:@widestring_08DE96]Thy form is a temporary[N]one. Thou shouldst try[N]standing in front of the[N]statue that is beside me.[FIN]`
 ;Thy form is a temporary one. Thou shouldst try standing in front of the statue that is stands beside me.
 
-widestring_08F157 `[TPL:D]A voice echoed inside of[N]Tim's head.[FIN][TPL:4][TPL:E]O Tim. I have long been[N]laying in wait for this[N]time to come.[FIN]My name is Friedan. I am[N]something that exists[N]beyond time.[FIN][TPL:F]From here on, I intend to[N]assist on your journey.[N]When the time for me has[N]come, then by nature, you[WAI][N]will know it...[FIN][CLD][TPL:9]Tim's consciousness[N]gradually receded...[END]`
+widestring_08F157 `[TPL:D]A voice echoed inside of[N]Tim's head.[FIN][TPL:4][TPL:E]O Tim. I have long been[N]laying in wait for this[N]time to come.[FIN]My name is Friedan. I am[N]something that exists[N]beyond time.[FIN][TPL:F]From here on, I intend to[N]assist on your journey.[N]When the time for me has[N]come, then by nature, you[WAI][N]will know it...[FIN][CLD][TPL:D]Tim's consciousness[N]gradually receded...[END]`
 ;A voice echoed inside of Tim's head.
 ;O Tim. I have long been laying in wait for this time to come.
 ;My name is Friedan. I am something that exists beyond time.

@@ -142,7 +142,7 @@ widestring_04C66F `[TPL:19][TPL:B]Soldier: If you're here[N]for an audience, don
 --------------------------------
 ?INCLUDE 'ec0A_edwina'
 --------------------------------
-widestring_04C58D `[TPL:3][TPL:F]Queen Edward: The king is[N]the one who sent you the[N]letter. Please speak to[N]the person over there.[END]`
+widestring_04C58D `[TPL:3][BOR:7][TPL:F]Queen Edward: The king is[N]the one who sent you the[N]letter. Please speak to[N]the person over there.[END]`
 ;Queen Edward: The king is the one who sent you the letter. Please speak to the person over there.
 
 --------------------------------
@@ -152,7 +152,7 @@ widestring_04C40E `[TPL:4][BOR:7][TPL:F]King Edward: YOU'RE Tim?[N]You're dresse
 ;King Edward: YOU'RE Tim? You're dressed rather drab, I'd think.
 ;Well, let's get on with it. Did you bring the Crystal Ring? / Yes / No
 
-widestring_04C460 `[CLR][TPL:4][LU1:18]An honest lad.[N]Give me the Ring.[FIN][TPL:0][TPL:F]Will: [N].............[FIN][TPL:4][TPL:F][LU1:27]Edward:[N]Hmm?[N][PAU:3C]Are you lying [N]to me, young whelp?![FIN]`
+widestring_04C460 `[CLR][TPL:4][LU1:18]An honest lad.[N]Give me the Ring.[FIN][TPL:0][TPL:F]Will: [N].............[FIN][TPL:4][BOR:7][TPL:F][LU1:27]Edward:[N]Hmm?[N][PAU:3C]Are you lying [N]to me, young whelp?![FIN]`
 
 widestring_04C4D5 `[CLR][TPL:4]How dare you shamelessly[N]say something like[N]that...!?[FIN]`
 ;How dare you shamelessly say something like that...!?
@@ -164,7 +164,7 @@ widestring_04C4FB `[CLR][TPL:4]I knew you didn't have it![N]Well. Soldiers! Thro
 widestring_04C556 `[PAU:1E][TPL:19][TPL:9]Soldier: Yes, sir![N]Right away![PAU:30][CLD]`
 ;Soldier: Yes, sir! Right away!
 
-widestring_04C76A `[TPL:0][TPL:D]Tim: Old lady![N]Help me...![FIN][TPL:3][TPL:D]Queen Edward: Did you say[N]"OLD LADY"...?![END]`
+widestring_04C76A `[TPL:0][TPL:D]Tim: Old lady![N]Help me...![FIN][TPL:3][BOR:7][TPL:D]Queen Edward: Did you say[N]"OLD LADY"...?![END]`
 ;Tim: Old lady! Help me...!
 ;Queen Edward: Did you say "OLD LADY"...?!
 

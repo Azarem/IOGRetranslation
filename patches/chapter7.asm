@@ -59,7 +59,7 @@ widestring_04E033 `[TPL:18][TPL:F]There aren't any children[N]around Lillie's ag
 ---------------------------------
 ?INCLUDE 'it15_lola'
 ---------------------------------
-widestring_04F11E `[TPL:E][TPL:3]Laura: Tim! Tim! This way![FIN][TPL:4]Bill: So you were safe; good, good...[FIN][TPL:3]Laura: We saw some very frightening sights![FIN]A man called Black Panther came taking a large crowd of soldiers with him...[FIN][TPL:4]Bill: We were almost killed![END]`
+widestring_04F11E `[TPL:3][TPL:C]Laura: Tim! Tim! This way![FIN][TPL:4][TPL:D]Bill: So you were safe;[N]good, good...[FIN][TPL:3][TPL:D]Laura: We saw some very[N]frightening sights![FIN][TPL:E]A man called Black Panther[N]came taking a large crowd[N]of soldiers with him...[FIN][TPL:4][TPL:E]Bill: We were almost[N]killed![END]`
 ;Laura: Tim! Tim! This way!
 ;Bill: So you were safe; good, good...
 ;Laura: We saw some very frightening sights!
@@ -160,15 +160,15 @@ widestring_04E9FF `[TPL:D]Tim could hear a feeble[N]voice from behind him...[FIN
 ;Tim could hear a feeble voice from behind him...
 ;Mysterious voice: It was good that you came, Tim...
 
-widestring_04EA45 `[TPL:4][TPL:D]Elder: Here, I'm over[N]here. I'm in the flowers.[WAI]I've extended my life[N]too long.[END]`
+widestring_04EA45 `[TPL:4][TPL:D]Elder: Here, I'm over[N]here. I'm in the flowers.[FIN]I've extended my life[N]too long.[END]`
 ;Elder: Here, I'm over here. I'm in the flowers. I've extended my life too long.
 
-widestring_04EA77 `[TPL:4][TPL:F]Elder: If the flower[N]fairies aren't giving me[N]their protection like[N]this, I won't be able to[WAI][N]survive.[FIN]While we're talking, you[N]look so much like your[N]parents.[FIN]It seems like yesterday[N]that your father came to[N]our village.[FIN][CLD][TPL:0][TPL:C]Tim: My dad came to your..[FIN][TPL:4][TPL:D]Elder: Your mother...[N]Putting in briefly.[FIN][TPL:F]Sheila, your grandparents[N]Bill and Laura's daughter,[N]was an extremely beautiful[N]woman.[FIN]Your father fell in love[N]at first sight and stole[N]her from this village.[FIN]Everyone in the Itory clan[N]holds a mysterious power,[N]but Sheila had a power[N]that was stronger than any[WAI][N]of ours.[FIN]She even erected the[N]barrier that renders this[N]village invisible from the[N]outside, but your father[WAI][N]came inside very easily.[FIN]When I think about it,[N]that man was also a[N]mysterious human being...[FIN]`
+widestring_04EA77 `[TPL:4][TPL:F]Elder: If the flower[N]fairies aren't giving me[N]their protection like[N]this, I won't be able to[WAI][N]survive.[FIN]While we're talking, you[N]look so much like your[N]parents.[FIN]It seems like yesterday[N]that your father came to[N]our village.[FIN][CLD][TPL:0][TPL:C]Tim: My dad came to your..[FIN][TPL:4][TPL:D]Elder: Your mother...[N]Putting in briefly.[FIN][TPL:F]Sheila, your grandparents[N]Bill and Laura's daughter,[N]was an extremely beautiful[N]woman.[FIN]Your father fell in love[N]at first sight and stole[N]her from this village.[FIN]Everyone in the Itory clan[N]holds a mysterious power,[N]but Sheila's was grander[N]than any other.[FIN]She even erected the[N]barrier that renders this[N]village invisible from the[N]outside, but your father[WAI][N]came inside very easily.[FIN]When I think about it,[N]that man was also a[N]mysterious human being...[FIN]`
 ;Elder: If the flower fairies aren't giving me their protection like this, I won't be able to survive.
 ;While we're talking, you look so much like your parents.
 ;It seems like yesterday that your father came to our village.
 ;Tim: My dad came to your...
-;Elder: Your mother... Putting in briefly. Sheila, your grandparents Bill and Laura's daughter, was an extremely beautiful woman.
+;Elder: Your mother... Putting it briefly. Sheila, your grandparents Bill and Laura's daughter, was an extremely beautiful woman.
 ;Your father fell in love at first sight and stole her from this village.
 ;Everyone in the Itory clan holds a mysterious power, but Sheila had a power that was stronger than any of ours.
 ;She even erected the barrier that renders this village invisible from the outside, but your father came inside very easily.
@@ -195,7 +195,7 @@ widestring_04ED19 `[TPL:4][TPL:F]Elder: Very well. In that[N]case, I will entrus
 
 ;Got Incan Figure A.
 
-widestring_04EDF4 `[TPL:4][TPL:F]Elder: Oh...! That's[N]definitely the Incan idol![N]Wonderful; you've[N]discovered it![FIN][CLD][TPL:4][TPL:E]I think you might have[N]been born to discover the[N]mysteries of the Inca...[FIN]Anyway, I'll teach you a[N]legend that is handed down[N]in this village.[FIN][::]At the "Cliff of Laraiˮ,[N]underground beneath the[N]ruin.[FIN]Offer the Incan idols[N]where the breath of the[N]gods does not reach.[FIN]The valley wind will guide[N]you to the location of the[N]golden ship.[FIN]Did you understand that?[N][PAL:0] Yes[N] No`
+widestring_04EDF4 `[TPL:4][TPL:F]Elder: Oh...! That's[N]definitely the Incan idol![N]Wonderful; you've[N]discovered it![FIN][CLD][TPL:4][TPL:E]I think you might have[N]been born to discover the[N]mysteries of the Inca...[FIN]Anyway, I'll teach you a[N]legend that is handed down[N]in this village.[FIN][::][TPL:4][TPL:E]At the "Cliff of Laraiˮ,[N]underground beneath the[N]ruin.[FIN]Offer the Incan idols[N]where the breath of the[N]gods does not reach.[FIN]The valley wind will guide[N]you to the location of the[N]golden ship.[FIN]Did you understand that?[N][PAL:0] Yes[N] No`
 ;Elder: Oh...! That's definitely the Incan idol! Wonderful; you've discovered it!
 ;I think you might have been born to discover the mysteries of the Inca...
 ;Anyway, I'll teach you a legend that is handed down in this village.
@@ -205,8 +205,7 @@ widestring_04EDF4 `[TPL:4][TPL:F]Elder: Oh...! That's[N]definitely the Incan ido
 
 widestring_04EF1C `[PAL:4][CLR][JMP:&widestring_04EDF4+M]`
 
-widestring_04EF23 `[PAL:4][CLR]Elder: It is said that one[N]more is held by the Race[N]of the Moon.[FIN]
-Lillie will show you the[N]way there. Be careful.[END]`
+widestring_04EF23 `[PAL:4][CLR]Elder: It is said that one[N]more is held by the Race[N]of the Moon.[FIN]Lillie will show you the[N]way there. Be careful.[END]`
 ;Elder: It is said that one more is held by the Race of the Moon.
 ;Lillie will show you the way there. Be careful.
 
