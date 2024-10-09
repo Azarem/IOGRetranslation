@@ -13,7 +13,7 @@ widestring_0581FF `[TPL:0][TPL:D]Tim: Is this the Incan[N]Gold Ship?![FIN]Oh...?
 ---------------------------------------
 ?INCLUDE 'gs2C_crew5'
 ---------------------------------------
-widestring_0583E7 `[TPL:1B][TPL:D]Hooray! Hooray! His[N]Majesty, the King, has[FIN][N]returned![END][JMP:&widestring_058394+M]`
+widestring_0583E7 `[TPL:1B][TPL:E]Hooray! Hooray! His[N]Majesty, the King, has[N]returned![END][JMP:&widestring_058394+M]`
 ;Hooray! Hooray! His Majesty, the King, has returned!
 
 ---------------------------------------
@@ -50,7 +50,7 @@ widestring_05870A `[TPL:1B][TPL:E]Ah, Your Majesty. You're[N]sightseeing on the 
 ;However, Your Majesty must also be tired. Once you've visited everywhere, please rest in this bed for a while.
 
 ---------------------------------------
-?INCLUDE 'gs2E_monologue'
+?INCLUDE 'gs2E_crew0'
 ---------------------------------------
 widestring_0587A4 `[TPL:1B][TPL:E]Past this cavern embraced[N]by darkness, we can see a[N]dazzling light...[FIN][TPL:F]So that we could obtain[N]eternal freedom, we[N]departed to an ocean[N]filled in that light.[END]`
 ;Past this cavern embraced darkness, we can see a dazzling light...
@@ -81,12 +81,16 @@ widestring_05883E `[TPL:1B][TPL:B]Her Majesty, the Queen,[N]has carefully put on
 ---------------------------------------
 ?INCLUDE 'gs2E_queen'
 ---------------------------------------
-widestring_058A30 `[TPL:3][TPL:B]Incan Queen: How wonderful[N]that you've returned safe[N]and well for me, my[N]darling.[FIN]The Mystery Doll of the[N]wind that you had spoken[N]of had protected me many[N]times until today![FIN]You said it was a stone[N]statue blessed by the[N]gods, right?[FIN][::][TPL:3][TPL:B]I believe it has been[N]placed in a treasure box[N]in the storehouse below;[N]please confirm it with[WAI][N]your own eyes.[END]`
+widestring_058A30 `[TPL:3][BOR:5][TPL:B]Incan Queen: How wonderful[N]that you've returned safe[N]and well for me, my[N]darling.[FIN]The Mystery Doll of the[N]wind that you had spoken[N]of had protected me many[N]times until today![FIN]You said it was a stone[N]statue blessed by the[N]gods, right?[FIN][::][TPL:3][BOR:5][TPL:B]I believe it has been[N]placed in a treasure box[N]in the storehouse below;[N]please confirm it with[WAI][N]your own eyes.[END]`
 ;Incan Queen: How wonderful that you're returned safe and well for me, my darling.
 ;The Mystery Doll of the wind that you had spoken of had protected me many times until today!
 ;You said it was a stone statue blessed by the gods, right?
 ;I believe it has been placed in a treasure box in the storehouse below; please confirm it with your own eyes.
 
+---------------------------------------
+?INCLUDE 'itemget_table_01FD24'
+---------------------------------------
+widestring_01FEA8 `Found a Mystery Doll!`
 ;Found a Mystery Doll!
 
 ---------------------------------------
@@ -108,6 +112,13 @@ widestring_0586CC `[TPL:0][TPL:F]Tim: In a ferocious state[N]of drowsiness, I ha
 ---------------------------------------
 ?INCLUDE 'gs2A_shira'
 ---------------------------------------
+
+code_059484 {
+    COP [CC] ( #0E )
+    COP [BF] ( &widestring_0594B8 )
+    COP [BE] ( #02, #02, &code_list_059491 )
+}
+
 widestring_0594B8 `[PAU:50][TPL:0][TPL:8]Tim: M-mom...!?[FIN][TPL:2][TPL:9]Tim's mother, Sheila: Tim.[N]Please look at the sky...[FIN]See, isn't that comet out[N]there pretty?[FIN][TPL:B]Hey, about that comet.[N]It arrives at the Earth[N]after many, many years,[N]then goes away again.[FIN]Even when there are people[N]who call it a star that[N]summons misfortune, there[N]are also those who call it[WAI][N]a star of luck...[FIN]Tim.[N]Which do you think it is?[N][PAL:0] Star of misfortune [N] Star of luck`
 ;Tim: M-mom...!?
 ;Tim's mother, Sheila: Tim. Please look at the sky... See, isn't that comet out there pretty?
@@ -191,7 +202,7 @@ widestring_058E4A `[TPL:2][TPL:B]Lillie: That ring must be[N]from the golden tre
 widestring_058F44 `[TPL:1][TPL:8]Karen: Wh-what?[END]`
 ;Karen: Wh-what?
 
-widestring_058C8F `[TPL:B][TPL:1][LU1:25][N][LU1:62]. . . ?[PAL:0][END]`
+widestring_058C8F `[TPL:1][TPL:8]Karen: What...?[PAL:0][END]`
 
 widestring_058F53 `[TPL:2][TPL:9]Lillie: That might be a[N]Leviathan...![FIN][TPL:B]There are huge, ferocious[N]fish in the waters around[N]here that looks like[N]monsters...!![END]`
 ;Lillie: That might be a Leviathan...!

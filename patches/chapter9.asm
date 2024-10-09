@@ -35,7 +35,7 @@ widestring_03897C `[DEF]He fit the block[N][LU1:A1]the tile![END]`
 ---------------------------------------
 ?INCLUDE 'ir26_bones'
 ---------------------------------------
-widestring_09C7AE `[TPL:0][TPL:E]Could this be an explorer[N]seeking the Incan gold[N]ship...?[FIN][CLD][TPL:E]In that skeletonized hand[N]something like an amulet[N]is being grasped.[FIN][TPL:F]Inside, in a weaving with[N]a piece of paper,[N]something like this is[N]written.[FIN][BOR:1][DLG:3,9][SIZ:D,5][SFX:0]Dad, don't die, alright.[N]                      Nana[N]If you find the gold ship,[N]buy a Krook.[N]                    Savvas[END]`
+widestring_09C7AE `[TPL:0][TPL:E]Could this be an explorer[N]seeking the Incan gold[N]ship...?[FIN][CLD][TPL:E]In that skeletonized hand[N]something like an amulet[N]is being grasped.[FIN][TPL:F]Inside, in a weaving with[N]a piece of paper,[N]something like this is[N]written.[FIN][BOR:1][DLG:3,F][SIZ:D,5][SFX:0]Dad, don't die, alright.[N]                      Nana[N]If you find the gold ship,[N]buy a Krook.[N]                    Savvas[END]`
 ;Could this be an explorer seeking the Incan gold ship...?
 ;In that skeletonized hand something like an amulet is being grasped. 
 ;Inside, in a weaving with a piece of paper, something like this is written.
@@ -75,7 +75,7 @@ widestring_09C637 `[DLG:3,11][SIZ:D,3]You can [LU1:9B]the [LU1:34][N]of the Wind
 ---------------------------------------
 ?INCLUDE 'ir28_bones'
 ---------------------------------------
-widestring_09C8B3 `[TPL:0][TPL:E]Could this be an explorer[N]seeking the Incan gold[N]ship...?[FIN]So he lost his life to[N]the hanging trap...[END]`
+widestring_09C8B3 `[TPL:0][TPL:E]Could this be an explorer[N]seeking the Incan gold[N]ship...?[FIN]So he lost his life to[N]the ceiling trap...[END]`
 ;So he lost his life to the hanging trap...
 ;INCOMPLETE??
 

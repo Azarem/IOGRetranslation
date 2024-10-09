@@ -4,14 +4,14 @@
 ----------------------------
 ?INCLUDE 'sc02_entry'
 ----------------------------
-widestring_04BE87 `[TPL:0][TPL:B]It might be strange, but[N]we even call this coastal[N]cave our second home.[FIN]Usually, we meet here[N]after our lesson at church[N]is finished and chat until[N]it gets dark.[END]`
+widestring_04BE87 `[TPL:0][TPL:A]It might be strange, but[N]we even call this coastal[N]cave our second home.[FIN][TPL:B]Usually, we meet here[N]after our lesson at church[N]is finished and chat until[N]it gets dark.[END]`
 ;It might be strange, but we even call this coastal cave our second home.
 ;Usually, we meet here after our lesson at church is finished and chat until it gets dark.
 
 ----------------------------
 ?INCLUDE 'sc02_lance'
 ----------------------------
-widestring_04B1CB `[TPL:4][TPL:A]Rob: What's up, Tim?[N]Late, ain't ya...[FIN]I'm playin' a match o'[N]blackjack with Morris[N]right now. Wait a sec.[END]`
+widestring_04B1CB `[TPL:4][TPL:9]Rob: What's up, Tim?[N]Late, ain't ya...[FIN][TPL:A]I'm playin' a match o'[N]blackjack with Morris[N]right now. Wait a sec.[END]`
 ;Rob: What's up, Tim? Late, ain't ya...
 ;I'm playin' a match o' blackjack with Morris right now. Wait a sec.
 
@@ -31,7 +31,7 @@ widestring_04B9F2 `[TPL:3][BOR:2][TPL:A]Eric: Huff, huff...[N]News...! It's biii
 ;Eric: Huff, huff... News...! It's biiig news...!
 ;I heard that Edward Castle's princess has gone missing! Supposedly she seems to be heading to this town!
 
-widestring_04BA55 `[TPL:4][TPL:B]Rob: What?[FIN]With ya bargin' in here[N]like that, I thought[N]somethin' cooler happened.[FIN]Besides, that "princess"[N]is that selfish girl[N]Karen, yeah? Who cares[N]WHERE she is?[FIN][TPL:3][TPL:B]Eric: Well, there's that,[N]but soldiers are going to[N]come to this town to[N]search for the princess.[FIN]Aren't Edward Castle's[N]soldiers cool? I just want[N]to look at them.[END]`
+widestring_04BA55 `[TPL:4][TPL:8]Rob: What?[FIN][TPL:A]With ya bargin' in here[N]like that, I thought[N]somethin' cooler happened.[FIN][TPL:B]Besides, that "princess"[N]is that selfish girl[N]Karen, yeah? Who cares[N]WHERE she is?[FIN][TPL:3][TPL:B]Eric: Well, there's that,[N]but soldiers are going to[N]come to this town to[N]search for the princess.[FIN]Aren't Edward Castle's[N]soldiers cool? I just want[N]to look at them.[END]`
 ;Rob: What? With ya bargin' in here like that, I thought somethin' cooler happened.
 ;Besides, that "princess" is that selfish girl Karen, yeah? Who cares where someone like that is?
 ;Eric: Well, there's that, but soldiers are going to come to this town to search for the princess.
@@ -65,7 +65,7 @@ widestring_04B72B `[TPL:A][TPL:5]Morris: Face the stone[N]statue and press the[N
 widestring_04B75D `[TPL:4][BOR:2][TPL:9]Rob: Whoa..! It[N]moooooved..!![PAU:28][END]`
 ;Rob: Whoa..! It moooooved..!!
 
-widestring_04B27E `[TPL:4][TPL:B]Rob: Alright. This time,[N]do tha card reveal fer us.[FIN]From tha four cards I'm[N]placin' face down, raise[N]and show us one if ya[N]think it's tha ace o'[WAI][N]diamonds.[END]`
+widestring_04B27E `[TPL:4][TPL:9]Rob: Alright. This time,[N]do tha card reveal fer us.[FIN][TPL:B]From tha four cards I'm[N]placin' face down, raise[N]and show us one if ya[N]think it's tha ace o'[WAI][N]diamonds.[END]`
 ;Rob: Alright. This time, do tha card reveal fer us.
 ;From tha four cards I'm placin' face down, raise and show us one if ya think it's tha ace o' diamonds.
 
@@ -89,11 +89,11 @@ widestring_04B00F `[TPL:A]Tim raised a card.[WAI][N]Surely enough, it was[N]the 
 widestring_04B328 `[TPL:4][BOR:2][TPL:8]Rob: Ah...! He got it..![END]`
 ;Rob: Ah... He got it..!
 
-widestring_04BC16 `[TPL:3][TPL:A]Eric: Phew. I'm[N]speechless...[FIN]Hey. Morris. You call[N]this sort of thing[N]"extrasensory perception",[WAI][N]right?[END]`
+widestring_04BC16 `[TPL:3][TPL:9]Eric: Phew. I'm[N]speechless...[FIN][TPL:B]Hey. Morris. You call[N]this sort of thing[N]"extrasensory perception",[N]right?[END]`
 ;Eric: Phew. I'm speechless...
 ;Hey. Morris. You call this sort of thing "extrasensory perception", right?
 
-widestring_04B7DE `[TPL:5][TPL:A]Morris: You call it[N]"extrasensory perception",[N]huh?[FIN]The word means a sense[N]that goes beyond the[N]human senses...[FIN]What we call the human[N]senses are the sense of[N]sight,[FIN]the sense of hearing,[FIN]the sense of taste,[FIN]the sense of smell,[FIN]and the sense of touch;[N]it's what we call these[N]five..[FIN]I'm not sure, but I'm[N]thinking that what you[N]call extrasensory[WAI][N]perception is a sixth[N]sense.[END]`
+widestring_04B7DE `[TPL:5][TPL:A]Morris: You call it[N]"extrasensory perception",[N]huh?[FIN]The word means a sense[N]that goes beyond the[N]human senses...[FIN]What we call the human[N]senses are the sense of[N]sight,[FIN]the sense of hearing,[FIN]the sense of taste,[FIN]the sense of smell,[FIN]and the sense of touch;[N]it's what we call these[N]five..[FIN][TPL:B]I'm not sure, but I'm[N]thinking that what you[N]call extrasensory[N]perception is a sixth[WAI][N]sense.[END]`
 ;Morris: You call it "extrasensory perception", huh?
 ;The word means a sense that goes beyond the human senses...
 ;What we call the human senses are the sense of sight,
@@ -103,7 +103,7 @@ widestring_04B7DE `[TPL:5][TPL:A]Morris: You call it[N]"extrasensory perception"
 ;and the sense of touch; it's what we call these five..
 ;I'm not sure, but I'm thinking that what you call extrasensory perception is a sixth sense.
 
-widestring_04B344 `[TPL:4][TPL:A]Rob: I don't understand[N]tha things that Morris[N]tha scholar says all that[WAI][N]well.[END]`
+widestring_04B344 `[TPL:4][TPL:B]Rob: I don't understand[N]tha things that Morris[N]tha scholar says all that[N]well.[END]`
 ;Rob: I don't understand tha things that Morris tha scholar says all that well.
 
 widestring_04B386 `[TPL:4][TPL:A]Rob: Morris. Take out tha[N]cards; we'll have one[N]more match next.[END]`

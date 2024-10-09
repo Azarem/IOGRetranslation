@@ -47,7 +47,7 @@ charstring_0BD272 ~However, among[N]those, not one[N]had noticed the[N]tremendou
 ----------------------
 ?INCLUDE 'sc08_priest'
 ----------------------
-widestring_048AE9 `[TPL:0][TPL:B][DLY:0]My name is Tim.[FIN]Exactly one year has[N]passed since I went on an[N]expedition to the Tower[N]of Babel with my dad.[FIN]Of the members of my[N]dad's team, only I was[N]able to survive and return[N]to this town in safety...[FIN]Even now, I can't believe[N]that dad died or anything[N]like that. No, I don't[N]even intend to believe it.[FIN]When I grow up or so, I[N]intend to become an[N]explorer and charge[N]around the world.[FIN]Because if that happens,[N]I believe that I'll be[N]able to meet my dad[N]somewhere...[END]`
+widestring_048AE9 `[TPL:0][TPL:8][DLY:0]My name is Tim.[FIN][TPL:B]Exactly one year has[N]passed since I went on an[N]expedition to the Tower[N]of Babel with my dad.[FIN]Of the members of my[N]dad's team, only I was[N]able to survive and return[N]to this town in safety...[FIN]Even now, I can't believe[N]that dad died or anything[N]like that. No, I don't[N]even intend to believe it.[FIN]When I grow up or so, I[N]intend to become an[N]explorer and charge[N]around the world.[FIN]Because if that happens,[N]I believe that I'll be[N]able to meet my dad[N]somewhere...[END]`
 ;My name is Tim.
 ;Exactly one year has passed since I went on an expedition to the Tower of Babel with my dad.
 ;Of the members of my dad's team, only I was able to survive and return to this town in safety...
@@ -55,12 +55,12 @@ widestring_048AE9 `[TPL:0][TPL:B][DLY:0]My name is Tim.[FIN]Exactly one year has
 ;When I grow up or so, I intend to become an explorer and charge around the world.
 ;Because if that happens, I believe that I'll be able to meet my dad somewhere...
 
-widestring_048C01 `[TPL:16][TPL:F]Priest: Today's[N]lesson ends here.[FIN]The four of you do your[N]best so as not to stay[N]behind next time.[FIN]Aside from that,[N]things resembling[N]monsters have recently[N]been seen outside of town.[FIN]When you leave,[N]please go with a parent.[END]`
+widestring_048C01 `[TPL:16][TPL:D]Priest: Today's[N]lesson ends here.[FIN][TPL:E]The four of you do your[N]best so as not to stay[N]behind next time.[FIN][TPL:F]Aside from that,[N]things resembling[N]monsters have recently[N]been seen outside of town.[FIN]When you leave,[N]please go with a parent.[END]`
 ;Priest: Today's lesson ends here.
 ;The four of you do your best so not to stay behind next time.
 ;Aside from that, things that look like monsters have recently been being seen outside of town. When you leave, please go with a parent.
 
-widestring_048C98 `[TPL:16][TPL:E]Ah, Tim. Please[N]pray with me.[FIN]O God. May the world[N]continue to shine to[N]eternity...[END]`
+widestring_048C98 `[TPL:16][TPL:D]Ah, Tim. Please[N]pray with me.[FIN][TPL:E]O God. May the world[N]continue to shine to[N]eternity...[END]`
 ;Ah, Tim. Please pray with me.
 ;O God. May the world continue to shine to eternity...
 
@@ -70,7 +70,7 @@ widestring_048C98 `[TPL:16][TPL:E]Ah, Tim. Please[N]pray with me.[FIN]O God. May
 widestring_048DD1 `[TPL:5][TPL:A]Morris: Alright,[N]today too, same[N]place as always...![END]`
 ;Morris: Alright, today too, same place as always...!
 
-widestring_048E00 `[TPL:3][TPL:B]Eric: I'm gonna stop at[N]home first, then I'll go.[FIN]If I don't go home[N]quickly, the fact that I[N]had to stay behind for[N]make-up lessons is going[WAI][N]to leak to mommy... Heheh.[END]`
+widestring_048E00 `[TPL:3][TPL:9]Eric: I'm gonna stop at[N]home first, then I'll go.[FIN][TPL:B]If I don't go home[N]quickly, the fact that I[N]had to stay behind for[N]make-up lessons is going[WAI][N]to leak to mommy... Heheh.[END]`
 ;Eric: I'm stop off at home, then I'll go.
 ;If I don't go home quickly, the fact that I had to stay behind for make-up lessons is going to leak to mommy... Heheh..
 
@@ -105,7 +105,7 @@ widestring_08DE43 `[CLR]Then thou shouldst go.[END]`
 ------------------------
 ?INCLUDE 'sc01_roof_man'
 ------------------------
-widestring_0484B7 `[TPL:16][TPL:F]Hey, Tim... You[N]shouldn't be coming[N]up here...[FIN]I think you have a[N]habit of jumping down[N]from various places,[N]though. I can't help[WAI][N]but worry. Aww.[END]`
+widestring_0484B7 `[TPL:16][TPL:E]Hey, Tim... You[N]shouldn't be coming[N]up here...[FIN][TPL:F]I think you have a[N]habit of jumping down[N]from various places,[N]though. I can't help[WAI][N]but worry. Aww.[END]`
 ;Hey, Tim... You shouldn't be coming up here...
 ;I think you have a habit of jumping down from various places, though. I can't help but worry. Aww.
 
@@ -157,7 +157,7 @@ widestring_0488FB `[TPL:16][TPL:E]You know, an astronomer[N]who is an acquaintan
 ------------------------
 ?INCLUDE 'sc01_worried_woman'
 ------------------------
-widestring_04871E `[TPL:16][TPL:F]There have been a lot of[N]strange merchants around[N]recently so I'm worried.[FIN]I guess they're in that[N]business because of[N]everyone saying they're[N]worried about the[WAI][N]appearance of monsters...[END]`
+widestring_04871E `[TPL:16][TPL:E]There have been a lot of[N]strange merchants around[N]recently so I'm worried.[FIN][TPL:F]I guess they're in that[N]business because of[N]everyone saying they're[N]worried about the[WAI][N]appearance of monsters...[END]`
 ;There have been a lot of strange merchants around recently so I'm worried.
 ;I guess they're in that business because of everyone saying they're worried about the appearance of monsters...
 
@@ -180,6 +180,8 @@ widestring_04BD9B `[TPL:0][TPL:F]My friend Eric lives here.[FIN]This house is th
 widestring_0482D7 `[TPL:16][TPL:F]Salesman: This old man[N]you're speaking to goes[N]around to everyone's[N]houses to sell weapons[WAI][N]for fighting with demons.[FIN]It's because the world's[N]become dangerous recently.[N]But I won't go selling[N]weapons to a child[WAI][N]like you.[END]`
 ;Salesman: This old man you're speaking to goes around to everyone's houses to sell weapons for fighting with demons.
 ;It's because the world's become dangerous recently. But I won't go selling weapons to a child like you.
+
+widestring_04835C `[TPL:16][TPL:C]Salesman: Hmmm...[END]`
 
 ------------------------
 ?INCLUDE 'sc01_girl3'
@@ -220,7 +222,7 @@ widestring_0487F1 `[JMP:&widestring_0487BF+M]`
 ------------------------
 ?INCLUDE 'sc01_sympathetic_woman'
 ------------------------
-widestring_04899E `[TPL:16][TPL:F]I can't help but pity[N]Morris.[FIN]I can't stand that even a[N]child has to see that kind[N]of marital quarrel every[N]day, you know?[END]`
+widestring_04899E `[TPL:16][TPL:D]I can't help but pity[N]Morris.[FIN][TPL:F]I can't stand that even a[N]child has to see that kind[N]of marital quarrel every[N]day, you know?[END]`
 ;I can't help but pity Morris.
 ;I can't stand that even a child has to see that kind of marital quarrel every day, you know?
 
@@ -292,7 +294,7 @@ widestring_0499F1 `[TPL:3][TPL:F]Laura: Oh, Tim.[N]Welcome home.[N]There's time 
 ------------------------
 ?INCLUDE 'sc06_bill'
 ------------------------
-widestring_04941D `[TPL:4][TPL:B]Bill: Ah, welcome home.[N]There's plenty of daylight[N]left, you should go play.[FIN]Wahah. Splendid. Splendid.[N]You're a boy who can't[N]study but I hope for you[N]to bloom vigorously.[END]`
+widestring_04941D `[TPL:4][TPL:A]Bill: Ah, welcome home.[N]There's plenty of daylight[N]left, you should go play.[FIN][TPL:B]Wahah. Splendid. Splendid.[N]You're a boy who can't[N]study but I hope for you[N]to bloom vigorously.[END]`
 ;Bill: Ah, welcome home. You can try to return home now, but there's still time.
 ;Wahaha. Splendid. Splendid. You're a boy who can't study but I hope for you to bloom vigorously.
 

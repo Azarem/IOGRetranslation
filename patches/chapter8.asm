@@ -41,6 +41,11 @@ widestring_09D30F `[TPL:1A][TPL:E]Moon race: There are[N]always shadows in the[N
 ;Us that were transformed by being completely showered once by the comet's light...
 ;Since then, we are beings that can quietly live in a world without light.
 
+code_09D1DD {
+    COP [BF] ( &widestring_09D462 )
+    COP [BE] ( #02, #02, &code_list_09D1E7 )
+}
+
 widestring_09D462 `[TPL:1A][TPL:D]Moon race: Our one[N]companion was stolen.[FIN][TPL:F]Do you not know where to[N]go?[N][PAL:0] Yes[N] No`
 ;Our one companion was stolen.
 ;Do you not know where to go? / Yes / No

@@ -63,7 +63,7 @@ widestring_04C8CA `[TPL:7][BOR:7][TPL:9]I.. I..[N]the thing with you is...[END]`
 --------------------------------
 ?INCLUDE 'ec0A_caring_maid'
 --------------------------------
-widestring_04C8FB `[TPL:19][TPL:B]Jeez,[WAI][N]this guy is so darn shy...[FIN]But, you know, having[N]someone somewhere in the[N]world that's always[N]thinking of you...[END]`
+widestring_04C8FB `[TPL:19][TPL:9]Jeez,[WAI][N]this guy is so darn shy...[FIN][TPL:B]But, you know, having[N]someone somewhere in the[N]world that's always[N]thinking of you...[END]`
 ;Jeez, this guy is so darn shy...
 ;But, you know, having someone somewhere in the world that's always thinking of you...
 
@@ -76,13 +76,13 @@ widestring_04CA0D `[TPL:19][TPL:B]Soldier: This is Her[N]Majesty the princess'[N
 --------------------------------
 ?INCLUDE 'ec0A_kara'
 --------------------------------
-widestring_04CC6E `[TPL:1][TPL:9]Karen: Who's that?[PAU:5A][CLD]`
+widestring_04CC6E `[TPL:1][TPL:8]Karen: Who's that?[PAU:5A][CLD]`
 ;Karen: Who's that?
 
-widestring_04CC84 `[TPL:1][TPL:9]Karen: Do I have a guest?[END]`
+widestring_04CC84 `[TPL:1][TPL:8]Karen: Do I have a guest?[END]`
 ;Karen: Do I have a guest?
 
-widestring_04CA41 `[TPL:19][TPL:9]Soldier: It's somewhat[N]dirtied commoner boy.[FIN][TPL:0][TPL:9]Tim: It's me, Karen![FIN][TPL:1][TPL:9]Karen: Ah...[N]That voice is...[FIN][TPL:A]Please let him pass. Or[N]else I'll expose your old[N]nickname.[FIN][TPL:19][TPL:A]Soldier: Eek...![N]F-forgive me for that![N]Please, go ahead.[END]`
+widestring_04CA41 `[TPL:19][TPL:9]Soldier: It's a somewhat[N]dirtied commoner boy.[FIN][TPL:0][TPL:9]Tim: It's me, Karen![FIN][TPL:1][TPL:9]Karen: Ah...[N]That voice is...[FIN][TPL:A]Please let him pass. Or[N]else I'll expose your old[N]nickname.[FIN][TPL:19][TPL:A]Soldier: Eek...![N]F-forgive me for that![N]Please, go ahead.[END]`
 ;Soldier: It's somewhat dirtied commoner boy.
 ;Tim: It's me, Karen!
 ;Karen: Ah... That voice is...
@@ -96,7 +96,7 @@ widestring_04CC96 `[TPL:1][TPL:9]Karen: You're...[N]from yesterday...[FIN][TPL:0
 ;Karen: You're... from yesterday...
 ;Tim: I was told to bring a Crystal Ring to King Edward, but...
 
-widestring_04CCE4 `[TPL:1][TPL:B]Karen: He's awful![N]Awful...![N]Awwwfuuul![FIN]So it seems like Father's[N]taking away the things[N]that are important to[N]someone else again...![FIN]Even for me, you know?[N]When I slip out of the[N]castle for a bit, doesn't[N]he punish me?[FIN]But lately the atmosphere[N]in this castle has been a[N]little funny.[FIN]I mean, gosh, my mother[N]even hired an assassin. I[N]think it's pretty[N]creepy...[END]`
+widestring_04CCE4 `[TPL:1][TPL:9]Karen: He's awful![N]Awful...! Awwwfuuul![FIN][TPL:B]So it seems like Father's[N]taking away the things[N]that are important to[N]someone else again...![FIN]Even for me, you know?[N]When I slip out of the[N]castle for a bit, doesn't[N]he punish me?[FIN]But lately the atmosphere[N]in this castle has been a[N]little funny.[FIN]I mean, gosh, my mother[N]even hired an assassin. I[N]think it's pretty[N]creepy...[END]`
 ;Karen: He's awful! Awful...! Awwwfuuul!
 ;So it seems like Father's taking away the things that are important to someone else again...!
 ;Even for me, you know? When I slip out of the castle for a bit, doesn't he punish me?
@@ -129,7 +129,7 @@ widestring_04C379 `[TPL:19][TPL:F]Ahead of here is the[N]audience room. If you'r
 --------------------------------
 ?INCLUDE 'ec0A_door_guard'
 --------------------------------
-widestring_04C5D9 `[TPL:19][TPL:E]Soldier: It's Tim, right?[FIN]We've been waiting for[N]you. Alright, go to King[N]Edward.[END]`
+widestring_04C5D9 `[TPL:19][TPL:C]Soldier: It's Tim, right?[FIN][TPL:E]We've been waiting for[N]you. Alright, go to King[N]Edward.[END]`
 ;Soldier: It's Tim, right? 
 ;We've been waiting for you. Alright, go to King Edward.
 
@@ -148,7 +148,7 @@ widestring_04C58D `[TPL:3][BOR:7][TPL:F]Queen Edward: The king is[N]the one who 
 --------------------------------
 ?INCLUDE 'ec0A_edward'
 --------------------------------
-widestring_04C40E `[TPL:4][BOR:7][TPL:F]King Edward: YOU'RE Tim?[N]You're dressed rather[N]drab, I'd think.[FIN]Well, let's get on with[N]it. Did you bring the[N]Crystal Ring?[WAI][PAL:0][N] Yes[N] No`
+widestring_04C40E `[TPL:4][BOR:7][TPL:E]King Edward: YOU'RE Tim?[N]You're dressed rather[N]drab, I'd think.[FIN][TPL:F]Well, let's get on with[N]it. Did you bring the[N]Crystal Ring?[WAI][PAL:0][N] Yes[N] No`
 ;King Edward: YOU'RE Tim? You're dressed rather drab, I'd think.
 ;Well, let's get on with it. Did you bring the Crystal Ring? / Yes / No
 

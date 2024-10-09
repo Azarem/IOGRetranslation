@@ -80,7 +80,7 @@ widestring_04E53C `[TPL:2][TPL:D]Lillie: Well then, follow[N]me if you'd like.[F
 ;Lillie: Well then, follow me if you'd like.
 ;Tim. This house is mine. But if you want to sightsee around the village before you come back, that's okay.
 
-widestring_04E175 `[TPL:1][TPL:E]Karen: Wait, Lillie.[N]I'll go too.[END]`
+widestring_04E175 `[TPL:1][TPL:D]Karen: Wait, Lillie.[N]I'll go too.[END]`
 ;Karen: Wait, Lillie. I'll go too.
 
 ---------------------------------
@@ -156,14 +156,14 @@ widestring_04EFAE `[TPL:4][TPL:F]Bill: Go on, you should[N]meet with the Elder. 
 ---------------------------------
 ?INCLUDE 'it15_elder'
 ---------------------------------
-widestring_04E9FF `[TPL:D]Tim could hear a feeble[N]voice from behind him...[FIN][TPL:4][TPL:D]Mysterious voice: It was[N]good that you came, Tim...[END]`
+widestring_04E9FF `[TPL:D]Tim could hear a feeble[N]voice from behind him...[FIN][TPL:4][BOR:6][TPL:D]Mysterious voice: It was[N]good that you came, Tim...[END]`
 ;Tim could hear a feeble voice from behind him...
 ;Mysterious voice: It was good that you came, Tim...
 
-widestring_04EA45 `[TPL:4][TPL:D]Elder: Here, I'm over[N]here. I'm in the flowers.[FIN]I've extended my life[N]too long.[END]`
+widestring_04EA45 `[TPL:4][BOR:6][TPL:D]Elder: Here, I'm over[N]here. I'm in the flowers.[FIN]I've extended my life[N]too long.[END]`
 ;Elder: Here, I'm over here. I'm in the flowers. I've extended my life too long.
 
-widestring_04EA77 `[TPL:4][TPL:F]Elder: If the flower[N]fairies aren't giving me[N]their protection like[N]this, I won't be able to[WAI][N]survive.[FIN]While we're talking, you[N]look so much like your[N]parents.[FIN]It seems like yesterday[N]that your father came to[N]our village.[FIN][CLD][TPL:0][TPL:C]Tim: My dad came to your..[FIN][TPL:4][TPL:D]Elder: Your mother...[N]Putting in briefly.[FIN][TPL:F]Sheila, your grandparents[N]Bill and Laura's daughter,[N]was an extremely beautiful[N]woman.[FIN]Your father fell in love[N]at first sight and stole[N]her from this village.[FIN]Everyone in the Itory clan[N]holds a mysterious power,[N]but Sheila's was grander[N]than any other.[FIN]She even erected the[N]barrier that renders this[N]village invisible from the[N]outside, but your father[WAI][N]came inside very easily.[FIN]When I think about it,[N]that man was also a[N]mysterious human being...[FIN]`
+widestring_04EA77 `[TPL:4][BOR:6][TPL:F]Elder: If the flower[N]fairies aren't giving me[N]their protection like[N]this, I won't be able to[WAI][N]survive.[FIN]While we're talking, you[N]look so much like your[N]parents.[FIN]It seems like yesterday[N]that your father came to[N]our village.[FIN][CLD][TPL:0][TPL:C]Tim: My dad came to your..[FIN][TPL:4][BOR:6][TPL:D]Elder: Your mother...[N]Putting in briefly.[FIN][TPL:F]Sheila, your grandparents[N]Bill and Laura's daughter,[N]was an extremely beautiful[N]woman.[FIN]Your father fell in love[N]at first sight and stole[N]her from this village.[FIN]Everyone in the Itory clan[N]holds a mysterious power,[N]but Sheila's was grander[N]than any other.[FIN]She even erected the[N]barrier that renders this[N]village invisible from the[N]outside, but your father[WAI][N]came inside very easily.[FIN]When I think about it,[N]that man was also a[N]mysterious human being...[FIN]`
 ;Elder: If the flower fairies aren't giving me their protection like this, I won't be able to survive.
 ;While we're talking, you look so much like your parents.
 ;It seems like yesterday that your father came to our village.
@@ -174,28 +174,28 @@ widestring_04EA77 `[TPL:4][TPL:F]Elder: If the flower[N]fairies aren't giving me
 ;She even erected the barrier that renders this village invisible from the outside, but your father came inside very easily.
 ;When I think about it, that man was also a mysterious human being...
 
-widestring_04EC46 `[TPL:4][TPL:F]That being said, were you[N]summoned by your father?[N][PAL:0] Yes[N] No`
+widestring_04EC46 `[TPL:4][BOR:6][TPL:F]That being said, were you[N]summoned by your father?[N][PAL:0] Yes[N] No`
 ;That being said, were you summoned by your father? / Yes / No
 
-widestring_04EC76 `[CLR][TPL:4]Elder: I understand...[N]Well, Laura's hunch was[N]right, wasn't it.[END]`
+widestring_04EC76 `[CLD][TPL:4][BOR:6][TPL:E]Elder: I understand...[N]Well, Laura's hunch was[N]right, wasn't it.[END]`
 ;Elder: I understand... Well, Laura's hunch was right, wasn't it.
 
-widestring_04ECAB `[CLR][TPL:4][LU1:13]That fulfills[N][LU1:2D]prophesy.[FIN]`
+widestring_04ECAB `[CLR][PAL:4][LU1:13]That fulfills[N][LU1:2D]prophesy.[END]`
 ;TODO
 
-widestring_04ECCB `[TPL:4][TPL:E]So, do you intend to go?[N][PAL:0] Yes[N] No`
+widestring_04ECCB `[TPL:4][BOR:6][TPL:E]So, do you intend to go?[N][PAL:0] Yes[N] No`
 ;So, do you intend to go? / Yes / No
 
-widestring_04ECEC `[DEF][CLR][TPL:4][LU1:13]A disobedient [N]son, unlike [LU1:FE]father.[PAL:0][END]`
+widestring_04ECEC `[PAL:4][CLR][LU1:13]A disobedient [N]son, unlike [LU1:FE]father.[END]`
 
-widestring_04ED19 `[TPL:4][TPL:F]Elder: Very well. In that[N]case, I will entrust you[N]with the Incan idol that[N]is handed down in this[WAI][N]village.[FIN]The two idols will be the[N]key to unravel the[N]mysteries of the Inca...[FIN]They have passed through[N]human hands for many[N]hundreds of years.[FIN]One idol is enshrined in[N]the cave below. Muster up[N]your wisdom and you may[N]take it.[END]`
+widestring_04ED19 `[TPL:4][BOR:6][TPL:F]Elder: Very well. In that[N]case, I will entrust you[N]with the Incan idol that[N]is handed down in this[WAI][N]village.[FIN]The two idols will be the[N]key to unravel the[N]mysteries of the Inca...[FIN]They have passed through[N]human hands for many[N]hundreds of years.[FIN]One idol is enshrined in[N]the cave below. Muster up[N]your wisdom and you may[N]take it.[END]`
 ;Elder: Very well. In that case, I will entrust you with the Incan idol that is handed down in this village.
 ;The two idols will be the key to unravel the mysteries of the Inca... They have passed through human hands for many hundreds of years.
 ;One idol is enshrined in the cave below. Muster up your wisdom and you may take it.
 
 ;Got Incan Figure A.
 
-widestring_04EDF4 `[TPL:4][TPL:F]Elder: Oh...! That's[N]definitely the Incan idol![N]Wonderful; you've[N]discovered it![FIN][CLD][TPL:4][TPL:E]I think you might have[N]been born to discover the[N]mysteries of the Inca...[FIN]Anyway, I'll teach you a[N]legend that is handed down[N]in this village.[FIN][::][TPL:4][TPL:E]At the "Cliff of Laraiˮ,[N]underground beneath the[N]ruin.[FIN]Offer the Incan idols[N]where the breath of the[N]gods does not reach.[FIN]The valley wind will guide[N]you to the location of the[N]golden ship.[FIN]Did you understand that?[N][PAL:0] Yes[N] No`
+widestring_04EDF4 `[TPL:4][BOR:6][TPL:F]Elder: Oh...! That's[N]definitely the Incan idol![N]Wonderful; you've[N]discovered it![FIN][CLD][TPL:4][BOR:6][TPL:E]I think you might have[N]been born to discover the[N]mysteries of the Inca...[FIN]Anyway, I'll teach you a[N]legend that is handed down[N]in this village.[FIN][::][TPL:4][BOR:6][TPL:E]At the "Cliff of Laraiˮ,[N]underground beneath the[N]ruin.[FIN]Offer the Incan idols[N]where the breath of the[N]gods does not reach.[FIN]The valley wind will guide[N]you to the location of the[N]golden ship.[FIN]Did you understand that?[N][PAL:0] Yes[N] No`
 ;Elder: Oh...! That's definitely the Incan idol! Wonderful; you've discovered it!
 ;I think you might have been born to discover the mysteries of the Inca...
 ;Anyway, I'll teach you a legend that is handed down in this village.
@@ -203,7 +203,7 @@ widestring_04EDF4 `[TPL:4][TPL:F]Elder: Oh...! That's[N]definitely the Incan ido
 ;The valley wind will guide you to the location of the golden ship.
 ;Did you understand that? / Yes / No
 
-widestring_04EF1C `[PAL:4][CLR][JMP:&widestring_04EDF4+M]`
+widestring_04EF1C `[JMP:&widestring_04EDF4+M]`
 
 widestring_04EF23 `[PAL:4][CLR]Elder: It is said that one[N]more is held by the Race[N]of the Moon.[FIN]Lillie will show you the[N]way there. Be careful.[END]`
 ;Elder: It is said that one more is held by the Race of the Moon.
@@ -220,6 +220,12 @@ widestring_04EFDF `[TPL:4][TPL:D]Bill: Was the Elder still[N]doing well?[FIN][TP
 ;By the way, when you were fighting demons in Edward Castle's basement, didn't you gather shining silver stones?
 ;I think those stones have a mysterious power.
 ;It seems that if you amass 100 of them, you will immediately come to your senses at a nearby place after being killed by an enemy.
+
+
+code_04E609 {
+    COP [BF] ( &widestring_04E6E6 )
+    COP [BE] ( #02, #02, &code_list_04E613 )
+}
 
 widestring_04E6E6 `[TPL:2][TPL:9]Lillie: Huh? The Race of[N]the Moon?[FIN][TPL:B]Yeah, I know them. They're[N]mysterious lifeforms that[N]better resemble shadows[N]rather than a race.[FIN]They dwell on the summit[N]of a tall, tall mountain[N]nearby, but...[FIN]...do you want to try[N]going there?[N][PAL:0] Yeah, I want to go[N] Actually, nevermind`
 ;Lillie: Huh? The Race of the Moon?

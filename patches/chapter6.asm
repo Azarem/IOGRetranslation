@@ -27,7 +27,7 @@ widestring_04C0AF `[TPL:19][TPL:8]Ah... You...![FIN][TPL:A]I think there were[N]
 --------------------------------
 ?INCLUDE 'ec0A_stair_maid'
 --------------------------------
-widestring_04C85A `[TPL:19][TPL:D]You're taking Miss Karen[N]when you escape, right?[FIN][TPL:E]I'm hoping that His[N]Majesty the King won't[N]find you...[FIN]So, you'll protect Her[N]Majesty the Princess,[N]right?[END]`
+widestring_04C85A `[TPL:19][TPL:9]You're taking Miss Karen[N]when you escape, right?[FIN][TPL:A]I'm hoping that His[N]Majesty the King won't[N]find you...[FIN]So, you'll protect Her[N]Majesty the Princess,[N]right?[END]`
 ;You're taking Miss Karen when you escape, right?
 ;I'm hoping that His Majesty the King won't find you... So, you'll protect Her Majesty the Princess, right?
 
@@ -40,7 +40,7 @@ widestring_04CB3F `[TPL:19][TPL:8]Soldier: Zzz... Zzz..[END]`
 --------------------------------
 ?INCLUDE 'ec0A_kara'
 --------------------------------
-widestring_04CE4A `[TPL:1][TPL:A]Karen: You came for me[N]after all! Thank you very[N]much.[FIN]That soldier outside, he[N]was sleeping, right?[FIN][TPL:B]The truth is, he used to[N]be nicknamed "Snot Bubbleˮ[N]a long time ago. He's[N]sleeping even now.[CLD][TPL:0][TPL:9]Tim: Your piglet came for[N]me...[FIN][TPL:1][TPL:9]Karen: It's named Peggy.[N]Cute, right?[FIN][TPL:A]It's a very smart piglet.[N]It's even got a little bit[N]of a mysterious power...[FIN]Alright, take me out of[N]here![END]`
+widestring_04CE4A `[TPL:1][TPL:A]Karen: You came for me[N]after all! Thank you very[N]much.[FIN]That soldier outside, he[N]was sleeping, right?[FIN][TPL:B]The truth is, he used to[N]be nicknamed "Snot Bubbleˮ[N]a long time ago. He's[N]sleeping even now.[FIN][CLD][TPL:0][TPL:9]Tim: Your piglet came for[N]me...[FIN][TPL:1][TPL:9]Karen: It's named Peggy.[N]Cute, right?[FIN][TPL:A]It's a very smart piglet.[N]It's even got a little bit[N]of a mysterious power...[FIN]Alright, take me out of[N]here![END]`
 ;Karen: You came for me after all! Thank you very much.
 ;That soldier outside, he was sleeping, right? The truth is, he used to be nicknamed "Snot Bubble" a long time ago. He's sleeping even now.
 ;Tim: Your piglet came for me...
@@ -138,7 +138,7 @@ widestring_04AC77 `[TPL:2][TPL:C]Lillie: Naturally![FIN][TPL:F]There's a barrier
 widestring_04A9D7 `[TPL:1][TPL:E]I feel like some lovely[N]experiences are awaiting[N]us.[END]`
 ;I feel like some lovely experiences are awaiting us.
 
-widestring_04AD69 `[TPL:2][TPL:E]Lillie: Are you going to[N]go and meet with everyone[N]before going to my[WAI][N]village?[FIN]It might be a while[N]before we can come back.[END]`
+widestring_04AD69 `[TPL:2][TPL:F]Lillie: Are you going to[N]go and meet with everyone[N]before going to my[N]village?[FIN]It might be a while[N]before we can come back.[END]`
 ;Lillie: Are you going to go and meet with everyone before going to my village?
 ;It might be a while before we can come back.
 
@@ -202,7 +202,7 @@ widestring_04AEF7 `[TPL:2][TPL:9]Lillie: What did you say,[N]you sheltered...![F
 ;Lillie: What did you say, you sheltered...!
 ;Lillie: Tim's my friend. You understand that, right?
 
-widestring_04AA20 `[TPL:1][TPL:B]Karen: Ah, you're my[N]friend, right?![FIN][PAL:0] Yeah, of course[N] I can't so easily know[N]you that well...`
+widestring_04AA20 `[TPL:1][TPL:9]Karen: Ah, you're my[N]friend, right?![FIN][TPL:A][PAL:0] Yeah, of course[N] I can't so easily know[N] you that well...`
 ;Karen: Ah, you're my friend, right?! / Yeah, of course / I can't so easily know you that well...
 
 widestring_04AA7D `[CLD][TPL:1][TPL:A]Karen: I'm glad, Tim. Come[N]on, let's hold hands as we[N]go.[FIN][JMP:&widestring_04AAAD+M]`

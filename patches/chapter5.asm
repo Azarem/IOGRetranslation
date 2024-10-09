@@ -134,7 +134,7 @@ widestring_0A89BF `[TPL:0][TPL:E]I can't press it down very[N]much...! It looks 
 -----------------------------
 ?INCLUDE 'ec10_dp_hint_spirit'
 -----------------------------
-widestring_04DD20 `[TPL:17][TPL:A]A glittering silver ball[N]of darkness that appears[N]when enemies are defeated.[FIN]If you collect 100 of[N]them, your Source of Life[N]will increase by one...[FIN]Even if you are defeated[N]by an enemy, you won't be[N]sent very far...[END]`
+widestring_04DD20 `[TPL:17][TPL:E]A glittering silver ball[N]of darkness that appears[N]when enemies are defeated.[FIN]If you collect 100 of[N]them, your Source of Life[N]will increase by one...[FIN]Even if you are defeated[N]by an enemy, you won't be[N]sent very far...[END]`
 ;A glittering silver ball of darkness that appears when enemies are defeated.
 ;If you collect 100 of them, your Source of Life will increase by one...
 ;Even if you are defeated by an enemy, you won't be sent very far...

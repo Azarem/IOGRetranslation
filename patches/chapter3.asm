@@ -109,12 +109,12 @@ widestring_049B18 `[TPL:3][TPL:B]Laura: If we're talking[N]about Edward Castle, 
 widestring_0495C9 `[PAU:1E][TPL:4][TPL:A]Bill: It was because I[N]was an architect long[N]ago.[END]`
 ;Bill: It was because I was an architect long ago.
 
-widestring_0495EB `[TPL:4][TPL:B]There is a jail in that[N]castle's underground.[FIN]So that it would not be[N]simple for prisoners to[N]escape, it turned into a [N]complex structure.[FIN]However, the complex state[N]of mind of the people that[N]are sent to the jail I [N]created every day...[END]`
+widestring_0495EB `[TPL:4][TPL:9]There is a jail in that[N]castle's underground.[FIN][TPL:B]So that it would not be[N]simple for prisoners to[N]escape, it turned into a [N]complex structure.[FIN]However, the complex state[N]of mind of the people that[N]are sent to the jail I [N]created every day...[END]`
 ;There is a jail in that castle's underground.
 ;So that it would not be simple for prisoners to escape, it turned into a complex structure.
 ;However, the complex state of mind of the people that are sent to the jail I created every day...
 
-widestring_049B82 `[PAU:40][::][TPL:3][TPL:A]Laura: Well, with that[N]painful story ending, we[N]can have dinner now.[FIN]I've baked a delicious[N]pie. So come on both of[N]you, let's hurry upstairs[WAI][N]before it gets cold.[END]`
+widestring_049B82 `[PAU:40][::][TPL:3][TPL:A]Laura: Well, with that[N]painful story ending, we[N]can have dinner now.[FIN][TPL:B]I've baked a delicious[N]pie. So come on both of[N]you, let's hurry upstairs[N]before it gets cold.[END]`
 ;Laura: Well, with that painful story stopping, we can have dinner now.
 ;I've baked a delicious pie, so. Come on both of you, we're late, so go with me to the second floor.
 
