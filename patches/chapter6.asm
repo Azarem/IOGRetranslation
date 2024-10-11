@@ -40,6 +40,9 @@ widestring_04CB3F `[TPL:19][TPL:8]Soldier: Zzz... Zzz..[END]`
 --------------------------------
 ?INCLUDE 'ec0A_kara'
 --------------------------------
+widestring_04CFDB `[TPL:0][TPL:A]Will: [N](If you [LU1:F1]to [LU1:E7]her[N]away, now's the time...)[END]`
+
+
 widestring_04CE4A `[TPL:1][TPL:A]Karen: You came for me[N]after all! Thank you very[N]much.[FIN]That soldier outside, he[N]was sleeping, right?[FIN][TPL:B]The truth is, he used to[N]be nicknamed "Snot Bubbleˮ[N]a long time ago. He's[N]sleeping even now.[FIN][CLD][TPL:0][TPL:9]Tim: Your piglet came for[N]me...[FIN][TPL:1][TPL:9]Karen: It's named Peggy.[N]Cute, right?[FIN][TPL:A]It's a very smart piglet.[N]It's even got a little bit[N]of a mysterious power...[FIN]Alright, take me out of[N]here![END]`
 ;Karen: You came for me after all! Thank you very much.
 ;That soldier outside, he was sleeping, right? The truth is, he used to be nicknamed "Snot Bubble" a long time ago. He's sleeping even now.
@@ -53,7 +56,7 @@ widestring_04D012 `[TPL:1][TPL:B]Karen: Ah, that's right..![N]Since it might be 
 ;Won't you go to the basement for me?
 
 widestring_04D114 `[TPL:1][TPL:A]Karen:[N]I [LU1:DA][LU1:CF]put food[N]in one of [LU1:E4]barrels.[END]`
-
+;TODO!!!
 
 --------------------------------
 ?INCLUDE 'ec0A_barrel_roast'

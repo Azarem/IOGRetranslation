@@ -121,7 +121,7 @@ widestring_08EB68 `[DEF][DLY:8]Became able to use the[N]Power of Darkness,[N][AD
 widestring_08EB85 `[DEF][CLR][DLY:2][ADR:&table_08EBD3,AAC][END]`
 ;Became able to use the Power of Darkness, Psycho Dash!
 
-widestring_08EBDF `The Psycho Dash is a power[N]that only Tim, the young[N]boy, can use.[FIN]With a body check attack[N]thou canst easily crush[N]things like obstacles and[N]destructible walls.[FIN]Thou shouldst charge up[N]using the attack button...`
+widestring_08EBDF `[TPL:17][TPL:F]The Psycho Dash is a power[N]that only Tim, the young[N]boy, can use.[FIN]With a body check attack[N]thou canst easily crush[N]things like obstacles and[N]destructible walls.[FIN]Thou shouldst charge up[N]using the attack button...`
 ;The Psycho Dash is a power that only Tim, the young boy, can use.
 ;With a body check attack thou canst easily crush things like obstacles and destructible walls.
 ;Thou shouldst charge up using the attack button...
