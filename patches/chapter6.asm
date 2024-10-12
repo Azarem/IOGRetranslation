@@ -70,7 +70,7 @@ widestring_04D141 `[TPL:8][SFX:0][DLY:9]Got bone-in smoked meat![PAU:FF][FIN][DL
 --------------------------------
 ?INCLUDE 'chunk_038000'
 --------------------------------
-widestring_038D85 `[DEF]He bit off [LU1:D0][N]of the smoked meat. [FIN]It had a flavor he'd[N][LU1:BB]tasted before.[N][LU1:62][LU1:7A]it be?[END]`
+widestring_038D85 `[TPL:E]Tried to nibble the[N]bone-in smoked meat a[N]little bit.[FIN]I had never eaten anything[N]with such a mysterious[N]taste.[FIN]I wonder what in the[N]world kind of meat this[N]is...[END]`
 ;Tried to nibble the bone-in smoked meat a little bit.
 ;I had never eaten anything with anything like this mysterious taste. I wonder what in the world kind of meat this is...
 
