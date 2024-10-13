@@ -33,6 +33,10 @@ templates_01CA95 [
   &moon_tribe_theme    ;1A
   &inca_theme          ;1B
   &watermia_theme      ;1C
+  &angel_village_theme ;1D
+  &euro_theme          ;1E
+  &dao_theme           ;1F
+  &frejia_theme        ;20
 ]
 
 widestring_01CAC1 `[BOR:3][SEP:1,7FDE][SEP:2,3A94][SEP:3,0C03][SEP:13,0C03][SEP:11,6FDF][SEP:12,B1E][SFX:10][PAL:4]`
@@ -92,3 +96,11 @@ moon_tribe_theme `[BOR:8][SEP:1,7FFF][SEP:2,7A94][SEP:3,2108][SEP:13,2108][SEP:1
 inca_theme `[BOR:5][SEP:1,7FDE][SEP:2,3A94][SEP:3,0C03][SEP:13,0C03][SEP:11,6FDF][SEP:12,B1E][SFX:10][PAL:4]`
 
 watermia_theme `[BOR:9][SEP:1,5FDF][SEP:2,662F][SEP:3,1060][SEP:13,1060][SEP:11,7FFF][SEP:12,6F6E][SFX:10][PAL:4]`
+
+angel_village_theme `[BOR:B][SEP:1,5FDF][SEP:2,662F][SEP:3,1060][SEP:13,1060][SEP:11,7FFF][SEP:12,6F6E][SFX:10][PAL:4]`
+
+euro_theme `[BOR:D][SEP:1,7FFF][SEP:2,3196][SEP:3,0004][SEP:13,0004][SEP:11,7FFF][SEP:12,6F6E][SFX:10][PAL:4]`
+
+dao_theme `[BOR:C][SEP:1,7FFF][SEP:2,3196][SEP:3,0004][SEP:13,0004][SEP:11,7FFF][SEP:12,6F6E][SFX:10][PAL:4]`
+
+frejia_theme `[BOR:A][SEP:1,4BBF][SEP:2,5E18][SEP:3,0086][SEP:13,0086][SEP:11,7FFF][SEP:12,2E7E][SFX:10][PAL:4]`
