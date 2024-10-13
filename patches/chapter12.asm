@@ -16,6 +16,9 @@ widestring_05ABC6 `[TPL:A][TPL:6][LU2:1C]voice:[N]You can wake him[N]up now.[FIN
 ;But, sir, you really know a lot, huh? I'm really grateful.
 ;If you're going to thank someone, thank the dog outside. After all, they found you two while I was taking them out.
 
+------------------------------------
+?INCLUDE 'dc31_kara'
+------------------------------------
 widestring_05ADAE `[TPL:E][TPL:1][LU1:25][N]Will! Will!! [N]Wake up! ! ! [FIN][LU2:41]reached land!![N][LU2:3F]saved!!![FIN][TPL:0]Will: [N]Uhhh...[PAL:0][END]`
 ;Karen: Tim! Tim...!! Wake up...!!
 ;It's land, we've reached land! We've been saved...!!

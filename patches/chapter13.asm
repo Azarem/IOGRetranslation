@@ -209,6 +209,7 @@ widestring_05B7E6 `[DEF]This kid! [LU1:65]did [N]you [LU1:79]from?! [N]Go [LU2:7
 
 --------------------------------------
 ?INCLUDE 'fr32_hotel_hint'
+?INCLUDE 'fr32_hotel_man'
 --------------------------------------
 widestring_05B688 `[DEF][LU1:66]A man working[N]at the hotel was caught[N]by a [LU1:AD]trader.[END]`
 ;Girl: There's a boy that worked as a live-in worker at the inn; it seems like a slave merchant detained him.

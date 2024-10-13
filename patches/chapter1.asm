@@ -92,14 +92,14 @@ widestring_08DD0B `[TPL:17][TPL:F]I am the fountainhead of[N]life, Gaia. Hencefo
 ;This area is only visible for those in whom the Power of Darkness dwells. Thou art a chosen human.
 ;In the Area of Darkness, I can record thy travel diary. Thou shouldst drop by during thy journey.
 
-widestring_08DDCB `[TPL:17][TPL:F]So, shalt thou record thy[N]adventure 'til this point?[N] Record[N] [LU1:D]record`
+widestring_08DDCB `[TPL:17][TPL:F]So, shalt thou record thy[N]adventure 'til this point?[N][PAL:0] Record[N] [LU1:D]record`
 ;So, shalt thou record thy adventure until this point? / Record / Don't record
 
-widestring_08DDFE `[CLR]Recording completed...[FIN]Shalt thou still continue[N]with thy journey? [N] Yes[N] No`
+widestring_08DDFE `[CLR][PAL:4]Recording completed...[FIN]Shalt thou still continue[N]with thy journey? [N][PAL:0] Yes[N] No`
 ;Recording completed...
 ;Shalt thou still continue with thy journey? / Yes / No
 
-widestring_08DE43 `[CLR]Then thou shouldst go.[END]`
+widestring_08DE43 `[CLR][PAL:4]Then thou shouldst go.[END]`
 ;Then thou shouldst go.
 
 ------------------------
