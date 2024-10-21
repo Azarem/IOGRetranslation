@@ -6,9 +6,9 @@
 ---------------------------------------
 ?INCLUDE 'gs2C_descent'
 ---------------------------------------
-widestring_0581FF `[TPL:0][TPL:D]Tim: Is this the Incan[N]Gold Ship?![FIN]Oh...?[N]People are around...[END]`
+widestring_0581FF `[TPL:0][TPL:D]Tim: Is this the Incan[N]Gold Ship?![FIN]Oh…?[N]People are around…[END]`
 ;Tim: Is this the Incan Gold Ship?!
-;Oh...? People are around...
+;Oh…? People are around…
 
 ---------------------------------------
 ?INCLUDE 'gs2C_crew5'
@@ -19,22 +19,22 @@ widestring_0583E7 `[TPL:1B][TPL:E]Hooray! Hooray! His[N]Majesty, the King, has[N
 ---------------------------------------
 ?INCLUDE 'gs2C_crew4'
 ---------------------------------------
-widestring_058394 `[TPL:1B][TPL:D]Ah, Your Majesty![N]You're safe and well...!![FIN][::][TPL:0][TPL:D]Tim: (They're calling ME[N]the King???)[END]`
+widestring_058394 `[TPL:1B][TPL:D]Ah, Your Majesty![N]You're safe and well…!![FIN][::][TPL:0][TPL:D]Tim: (They're calling ME[N]the King???)[END]`
 ;Tim: (They're calling ME the King???)
-;Ah, Your Majesty! You're safe and well...!
+;Ah, Your Majesty! You're safe and well…!
 ;WAS THIS BACKWARDS??
 
 ---------------------------------------
 ?INCLUDE 'gs2C_crew1'
 ---------------------------------------
-widestring_058260 `[TPL:1B][TPL:F]Your Majesty...! You're[N]safe! With this, we can[N]finally embark to the deep[N]blue sea.[END]`
-;Your Majesty...! You're safe! With this, we can finally embark to the deep blue sea.
+widestring_058260 `[TPL:1B][TPL:F]Your Majesty…! You're[N]safe! With this, we can[N]finally embark to the deep[N]blue sea.[END]`
+;Your Majesty…! You're safe! With this, we can finally embark to the deep blue sea.
 
 ---------------------------------------
 ?INCLUDE 'gs2C_crew2'
 ---------------------------------------
-widestring_0582CC `[TPL:1B][TPL:D]This cannot go without[N]congratulations...![FIN][TPL:E]We had been waiting for a[N]long time, but you've[N]come...![END]`
-;This cannot go without congratulations...! We had been waiting for a long time, but you've come...!
+widestring_0582CC `[TPL:1B][TPL:D]This cannot go without[N]congratulations…![FIN][TPL:E]We had been waiting for a[N]long time, but you've[N]come…![END]`
+;This cannot go without congratulations…! We had been waiting for a long time, but you've come…!
 
 ---------------------------------------
 ?INCLUDE 'gs2C_crew3'
@@ -52,15 +52,15 @@ widestring_05870A `[TPL:1B][TPL:E]Ah, Your Majesty. You're[N]sightseeing on the 
 ---------------------------------------
 ?INCLUDE 'gs2E_crew0'
 ---------------------------------------
-widestring_0587A4 `[TPL:1B][TPL:E]Past this cavern embraced[N]by darkness, we can see a[N]dazzling light...[FIN][TPL:F]So that we could obtain[N]eternal freedom, we[N]departed to an ocean[N]filled in that light.[END]`
-;Past this cavern embraced darkness, we can see a dazzling light...
+widestring_0587A4 `[TPL:1B][TPL:E]Past this cavern embraced[N]by darkness, we can see a[N]dazzling light…[FIN][TPL:F]So that we could obtain[N]eternal freedom, we[N]departed to an ocean[N]filled in that light.[END]`
+;Past this cavern embraced darkness, we can see a dazzling light…
 ;So that we could obtain eternal freedom, we departed to an ocean filled in that light.
 
 ---------------------------------------
 ?INCLUDE 'gs2E_crew3'
 ---------------------------------------
-widestring_0589DB `[TPL:1B][TPL:A]Why did we have to escape?[N]The Incan Empire was our[N]home, and yet...[END]`
-;Why did we have to escape? The Incan Empire was our home, and yet...
+widestring_0589DB `[TPL:1B][TPL:A]Why did we have to escape?[N]The Incan Empire was our[N]home, and yet…[END]`
+;Why did we have to escape? The Incan Empire was our home, and yet…
 
 ---------------------------------------
 ?INCLUDE 'gs2E_crew2'
@@ -119,17 +119,17 @@ code_059484 {
     COP [BE] ( #02, #02, &code_list_059491 )
 }
 
-widestring_0594B8 `[PAU:50][TPL:0][TPL:8]Tim: M-mom...!?[FIN][TPL:2][TPL:9]Tim's mother, Sheila: Tim.[N]Please look at the sky...[FIN]See, isn't that comet out[N]there pretty?[FIN][TPL:B]Hey, about that comet.[N]It arrives at the Earth[N]after many, many years,[N]then goes away again.[FIN]Even when there are people[N]who call it a star that[N]summons misfortune, there[N]are also those who call it[WAI][N]a star of luck...[FIN]Tim.[N]Which do you think it is?[N][PAL:0] Star of misfortune [N] Star of luck`
-;Tim: M-mom...!?
-;Tim's mother, Sheila: Tim. Please look at the sky... See, isn't that comet out there pretty?
+widestring_0594B8 `[PAU:50][TPL:0][TPL:8]Tim: M-mom…!?[FIN][TPL:2][TPL:9]Tim's mother, Sheila: Tim.[N]Please look at the sky…[FIN]See, isn't that comet out[N]there pretty?[FIN][TPL:B]Hey, about that comet.[N]It arrives at the Earth[N]after many, many years,[N]then goes away again.[FIN]Even when there are people[N]who call it a star that[N]summons misfortune, there[N]are also those who call it[WAI][N]a star of luck…[FIN]Tim.[N]Which do you think it is?[N][PAL:0] Star of misfortune [N] Star of luck`
+;Tim: M-mom…!?
+;Tim's mother, Sheila: Tim. Please look at the sky… See, isn't that comet out there pretty?
 ;Hey, about that comet. It arrives at the Earth after many, many years, then goes away again.
-;Even when there are people who call it a star that summons misfortune, there are also those who call it a star of luck...
+;Even when there are people who call it a star that summons misfortune, there are also those who call it a star of luck…
 ;Tim. Which do you think it is? / Star of misfortune / Star of luck
 
-widestring_0595B4 `[CLR][PAL:4]Is that how it is... Well,[N]then I'll pray that the[N]misfortune doesn't visit,[N]okay...?[FIN][JMP:&widestring_0595E6+M]`
-;Is that how it is... Well, then I'll pray that the misfortune doesn't visit, okay...?
+widestring_0595B4 `[CLR][PAL:4]Is that how it is… Well,[N]then I'll pray that the[N]misfortune doesn't visit,[N]okay…?[FIN][JMP:&widestring_0595E6+M]`
+;Is that how it is… Well, then I'll pray that the misfortune doesn't visit, okay…?
 
-widestring_0595E6 `[CLR][PAL:4]All right...[N]Then [LU2:71][LU1:D7]happiness[N][LU1:84]slip away....[FIN][::]My dear Tim. You know,[N]I'll always be watching[N]over you.[END]`
+widestring_0595E6 `[CLR][PAL:4]All right…[N]Then [LU2:71][LU1:D7]happiness[N][LU1:84]slip away….[FIN][::]My dear Tim. You know,[N]I'll always be watching[N]over you.[END]`
 ;My dear Tim. You know, I'll always be watching over you.
 
 ---------------------------------------
@@ -142,12 +142,12 @@ widestring_058DBB `[TPL:2][TPL:8]Lillie: Tim![FIN]Tim! Get up![END]`
 ---------------------------------------
 ?INCLUDE 'gs2D_lance'
 ---------------------------------------
-widestring_05902D `[TPL:4][TPL:A]Rob: Ya were actin' weird,[N]so tha three o' us went[N]sneakin' behind ya.[FIN]Then we ended up at a[N]weird village...[FIN][TPL:2][TPL:B]Lillie: Waaait a second.[N]That's where I was born,[N]so how can you call it a[N]weird village...!?[FIN][CLD][TPL:4][TPL:9]Rob: Ain't it weird[N]enough...?[FIN]It's a village ya can't[N]see...[FIN]Tim. Don't go hidin' yer[N]journey from us.[FIN][TPL:A]Ya ain't friends unless ya[N]share the fun times and[N]the hard times.[END]`
+widestring_05902D `[TPL:4][TPL:A]Rob: Ya were actin' weird,[N]so tha three o' us went[N]sneakin' behind ya.[FIN]Then we ended up at a[N]weird village…[FIN][TPL:2][TPL:B]Lillie: Waaait a second.[N]That's where I was born,[N]so how can you call it a[N]weird village…!?[FIN][CLD][TPL:4][TPL:9]Rob: Ain't it weird[N]enough…?[FIN]It's a village ya can't[N]see…[FIN]Tim. Don't go hidin' yer[N]journey from us.[FIN][TPL:A]Ya ain't friends unless ya[N]share the fun times and[N]the hard times.[END]`
 ;Rob: Ya were actin' weird, so tha three o' us went sneakin' behind ya.
-;Then we ended up at a weird village...
-;Lillie: Waaait a second. That's where I was born, so how can you call it a weird village...!?
-;Rob: Ain't it weird enough...? 
-;It's a village ya can't see...
+;Then we ended up at a weird village…
+;Lillie: Waaait a second. That's where I was born, so how can you call it a weird village…!?
+;Rob: Ain't it weird enough…? 
+;It's a village ya can't see…
 ;Tim. Don't go hidin' yer journey from us.
 ;Ya ain't friends unless ya share the fun times and the hard times.
 
@@ -158,8 +158,8 @@ widestring_058DDA `[TPL:2][TPL:B]Lillie: You were taking[N]too long to come back
 ---------------------------------------
 ?INCLUDE 'gs2B_bones'
 ---------------------------------------
-widestring_058BD7 `[TPL:0][TPL:A]Tim: An Incan person was[N]standing here a little bit[N]ago...[END]`
-;Tim: An Incan person was standing here a little bit ago...
+widestring_058BD7 `[TPL:0][TPL:A]Tim: An Incan person was[N]standing here a little bit[N]ago…[END]`
+;Tim: An Incan person was standing here a little bit ago…
 
 ---------------------------------------
 ?INCLUDE 'gs2B_seth'
@@ -174,58 +174,58 @@ widestring_0596C1 `[TPL:5][TPL:F]Now that you mention it,[N]this might be the fi
 ---------------------------------------
 ?INCLUDE 'gs2B_erik'
 ---------------------------------------
-widestring_059240 `[TPL:3][TPL:D]Eric: Wah...![N]You surprised me...!![FIN]Geez, Tim.[N]Don't scare me...![END]`
-;Eric: Wah...! You surprised me...!!
-;Geez, Tim. Don't scare me...!
+widestring_059240 `[TPL:3][TPL:D]Eric: Wah…![N]You surprised me…!![FIN]Geez, Tim.[N]Don't scare me…![END]`
+;Eric: Wah…! You surprised me…!!
+;Geez, Tim. Don't scare me…!
 
 ---------------------------------------
 ?INCLUDE 'gs2D_kara'
 ---------------------------------------
-widestring_058C21 `[TPL:1][TPL:B]Karen: They died waiting[N]for an Incan King that[N]they couldn’t expect to[N]return...[FIN]In the end, I can't stand[N]that people who were[N]living in peace had their[N]lives shattered...[END]`
-;Karen: They died waiting for an Incan King that they couldn’t expect to return...
-;In the end, I can't stand that people who were living in peace had their lives shattered...
+widestring_058C21 `[TPL:1][TPL:B]Karen: They died waiting[N]for an Incan King that[N]they couldn’t expect to[N]return…[FIN]In the end, I can't stand[N]that people who were[N]living in peace had their[N]lives shattered…[END]`
+;Karen: They died waiting for an Incan King that they couldn’t expect to return…
+;In the end, I can't stand that people who were living in peace had their lives shattered…
 
 ---------------------------------------
 ?INCLUDE 'gs2D_mummy'
 ---------------------------------------
-widestring_058B4F `[TPL:0][TPL:9]The queen's mummy is[N]sleeping quietly.[FIN][TPL:A]A gold ring seemed to be[N]placed on its long,[N]slender finger...[END]`
+widestring_058B4F `[TPL:0][TPL:9]The queen's mummy is[N]sleeping quietly.[FIN][TPL:A]A gold ring seemed to be[N]placed on its long,[N]slender finger…[END]`
 ;The queen's mummy is sleeping quietly.
-;A gold ring seemed to be placed on its long, slender finger...
+;A gold ring seemed to be placed on its long, slender finger…
 
 widestring_058E4A `[TPL:2][TPL:B]Lillie: That ring must be[N]from the golden treasures[N]that were said to have[N]been loaded on this boat.[FIN]I wonder if it wasn't[N]outshining the other[N]golden artifacts.[FIN][TPL:1][TPL:B]Karen: Pillagers must[N]have lost their lives[N]searching for treasures[N]like this ring, huh?[FIN]I'm really taking a liking[N]to the ring; it's cute.[N]I'm taking it.[FIN][TPL:2][TPL:B]Lillie: Do you have no[N]self-restraint!? After[N]all, it might be cursed..![END]`
 ;Lillie: That ring must be from the golden treasures that were said to have been loaded on this boat.
 ;I wonder if it wasn't outshining the other golden artifacts.
 ;Karen: The people who were trying to get rich by finding gold must have lost their lives searching for treasures like this ring, huh?
 ;I'm really taking a liking to the ring; it's cute. I'm taking it.
-;Lillie: Do you have no self-restraint!? After all, it might be cursed...!
+;Lillie: Do you have no self-restraint!? After all, it might be cursed…!
 
 widestring_058F44 `[TPL:1][TPL:8]Karen: Wh-what?[END]`
 ;Karen: Wh-what?
 
-widestring_058C8F `[TPL:1][TPL:8]Karen: What...?[PAL:0][END]`
+widestring_058C8F `[TPL:1][TPL:8]Karen: What…?[PAL:0][END]`
 
-widestring_058F53 `[TPL:2][TPL:9]Lillie: That might be a[N]Leviathan...![FIN][TPL:B]There are huge, ferocious[N]fish in the waters around[N]here that looks like[N]monsters...!![END]`
-;Lillie: That might be a Leviathan...!
-;There are huge, ferocious fish in the waters around here that looks like monsters...!!
+widestring_058F53 `[TPL:2][TPL:9]Lillie: That might be a[N]Leviathan…![FIN][TPL:B]There are huge, ferocious[N]fish in the waters around[N]here that looks like[N]monsters…!![END]`
+;Lillie: That might be a Leviathan…!
+;There are huge, ferocious fish in the waters around here that looks like monsters…!!
 
-widestring_05913D `[TPL:4][TPL:8]Rob: Are ya okay...?[END]`
-;Rob: Are ya okay...?
+widestring_05913D `[TPL:4][TPL:8]Rob: Are ya okay…?[END]`
+;Rob: Are ya okay…?
 
-widestring_059157 `[TPL:5][TPL:8]Aaaaaaaaaaaaaaah...![FIN][TPL:4][TPL:B]Rob: That's Morris[N]screamin'...! It's comin'[N]from tha direction of tha[N]deck...![END]`
-;Aaaaaaaaaaaaaaah...!
-;Rob: That's Morris screamin'...! It's comin' from tha direction of tha deck...!
+widestring_059157 `[TPL:5][TPL:8]Aaaaaaaaaaaaaaah…![FIN][TPL:4][TPL:B]Rob: That's Morris[N]screamin'…! It's comin'[N]from tha direction of tha[N]deck…![END]`
+;Aaaaaaaaaaaaaaah…!
+;Rob: That's Morris screamin'…! It's comin' from tha direction of tha deck…!
 
-widestring_0592FF `[TPL:4][TPL:E]Rob: What happened to[N]Morris...?! What was[N]that...!![FIN][TPL:3][TPL:E][DLY:0]Eric: Waaaaaaaaah...[N]Morris, he...[N]Morris, he...[FIN]A huge fish smashed into[N]the ship and...[N]*sniffle*...[FIN]Morris fell overboard...[N]*Sniffle*...[FIN]Uwaaaaaah! It looked like[N]it ate Morris…![N]*sniffle* *sniffle*[FIN][TPL:4][TPL:E]Rob: W-what did ya[N]say...?![END]`
-;Rob: What happened to Morris...?! What was that...!!
-;Eric: Waaaaaaaaah... Morris, he... Morris, he...
-;A huge fish smashed into the ship and... *sniffle*...
-;Morris fell overboard... *Sniffle*...
+widestring_0592FF `[TPL:4][TPL:E]Rob: What happened to[N]Morris…?! What was[N]that…!![FIN][TPL:3][TPL:E][DLY:0]Eric: Waaaaaaaaah…[N]Morris, he…[N]Morris, he…[FIN]A huge fish smashed into[N]the ship and…[N]*sniffle*…[FIN]Morris fell overboard…[N]*Sniffle*…[FIN]Uwaaaaaah! It looked like[N]it ate Morris…![N]*sniffle* *sniffle*[FIN][TPL:4][TPL:E]Rob: W-what did ya[N]say…?![END]`
+;Rob: What happened to Morris…?! What was that…!!
+;Eric: Waaaaaaaaah… Morris, he… Morris, he…
+;A huge fish smashed into the ship and… *sniffle*…
+;Morris fell overboard… *Sniffle*…
 ;Uwaaaaaah! It looked like it ate Morris…! *sniffle* *sniffle*
-;Rob: W-what did ya say...?!
+;Rob: W-what did ya say…?!
 
-widestring_0593DA `[TPL:3][TPL:E]Eric: Waaaaaaah! It's[N]that fish agaaain...![N]It’s going to eat us...![FIN][TPL:4][TPL:E]Rob: If ya have time to[N]cry, then hold on to[N]somethin'...![FIN]Don't let yourself get[N]thrown off...![END]`
-;Eric: Waaaaaaah! It's that fish agaaain...! It’s going to eat us...!
-;Rob: If ya have time to cry, then hold on to somethin'...! Don't let yourself get thrown off...!
+widestring_0593DA `[TPL:3][TPL:E]Eric: Waaaaaaah! It's[N]that fish agaaain…![N]It’s going to eat us…![FIN][TPL:4][TPL:E]Rob: If ya have time to[N]cry, then hold on to[N]somethin'…![FIN]Don't let yourself get[N]thrown off…![END]`
+;Eric: Waaaaaaah! It's that fish agaaain…! It’s going to eat us…!
+;Rob: If ya have time to cry, then hold on to somethin'…! Don't let yourself get thrown off…!
 
 
 

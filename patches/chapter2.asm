@@ -11,15 +11,15 @@ widestring_04BE87 `[TPL:0][TPL:A]It might be strange, but[N]we even call this co
 ----------------------------
 ?INCLUDE 'sc02_lance'
 ----------------------------
-widestring_04B1CB `[TPL:4][TPL:9]Rob: What's up, Tim?[N]Late, ain't ya...[FIN][TPL:A]I'm playin' a match o'[N]blackjack with Morris[N]right now. Wait a sec.[END]`
-;Rob: What's up, Tim? Late, ain't ya...
+widestring_04B1CB `[TPL:4][TPL:9]Rob: What's up, Tim?[N]Late, ain't ya…[FIN][TPL:A]I'm playin' a match o'[N]blackjack with Morris[N]right now. Wait a sec.[END]`
+;Rob: What's up, Tim? Late, ain't ya…
 ;I'm playin' a match o' blackjack with Morris right now. Wait a sec.
 
 ----------------------------
 ?INCLUDE 'sc02_seth'
 ----------------------------
-widestring_04B5B6 `[TPL:5][TPL:9]Morris: Ahaha... It turns[N]out that I win again.[END]`
-;Morris: Ahaha... It turns out that I win again.
+widestring_04B5B6 `[TPL:5][TPL:9]Morris: Ahaha… It turns[N]out that I win again.[END]`
+;Morris: Ahaha… It turns out that I win again.
 
 ----------------------------
 ?INCLUDE 'sc02_erik'
@@ -27,11 +27,11 @@ widestring_04B5B6 `[TPL:5][TPL:9]Morris: Ahaha... It turns[N]out that I win agai
 widestring_04B9AF `[TPL:A][DLY:0]Suddenly, Eric burst in[N]with a strange expression[N]on his face![PAU:3C][CLD]`
 ;Suddenly, Eric burst in with a strange expression on his face!
 
-widestring_04B9F2 `[TPL:3][BOR:2][TPL:A]Eric: Huff, huff...[N]News...! It's biiig[N]news...![FIN]I heard that Edward[N]Castle's princess has[N]gone missing![FIN]Supposedly she seems to[N]be heading to this town![END]`
-;Eric: Huff, huff... News...! It's biiig news...!
+widestring_04B9F2 `[TPL:3][BOR:2][TPL:9]Eric: Huff, huff… News…![N]It's biiig news…![FIN][TPL:A]I heard that Edward[N]Castle's princess has[N]gone missing![FIN]Supposedly she seems to[N]be heading to this town![END]`
+;Eric: Huff, huff… News…! It's biiig news…!
 ;I heard that Edward Castle's princess has gone missing! Supposedly she seems to be heading to this town!
 
-widestring_04BA55 `[TPL:4][TPL:8]Rob: What?[FIN][TPL:A]With ya bargin' in here[N]like that, I thought[N]somethin' cooler happened.[FIN][TPL:B]Besides, that "princess"[N]is that selfish girl[N]Karen, yeah? Who cares[N]WHERE she is?[FIN][TPL:3][TPL:B]Eric: Well, there's that,[N]but soldiers are going to[N]come to this town to[N]search for the princess.[FIN]Aren't Edward Castle's[N]soldiers cool? I just want[N]to look at them.[END]`
+widestring_04BA55 `[TPL:4][TPL:8]Rob: What?[FIN][TPL:A]With ya bargin' in here[N]like that, I thought[N]somethin' cooler happened.[FIN][TPL:B]Besides, that "princessˮ[N]is that selfish girl[N]Karen, yeah? Who cares[N]WHERE she is?[FIN][TPL:3][TPL:B]Eric: Well, there's that,[N]but soldiers are going to[N]come to this town to[N]search for the princess.[FIN]Aren't Edward Castle's[N]soldiers cool? I just want[N]to look at them.[END]`
 ;Rob: What? With ya bargin' in here like that, I thought somethin' cooler happened.
 ;Besides, that "princess" is that selfish girl Karen, yeah? Who cares where someone like that is?
 ;Eric: Well, there's that, but soldiers are going to come to this town to search for the princess.
@@ -43,8 +43,8 @@ widestring_04B210 `[TPL:4][TPL:A]Rob: Oy, Tim, don't hang[N]around there. Go sit
 widestring_04B612 `[TPL:5][TPL:A]Morris: I have no interest[N]in girls. Reading books[N]is more fun.[END]`
 ;Morris: I have no interest in girls. Reading books is more fun.
 
-widestring_04BB59 `[TPL:3][TPL:A]Eric: Guh. And I had been[N]thinking that maybe[N]everyone would be[WAI][N]surprised...[END]`
-;Eric: Guh. And I had been thinking that maybe everyone would be surprised...
+widestring_04BB59 `[TPL:3][TPL:A]Eric: Guh. And I had been[N]thinking that maybe[N]everyone would be[WAI][N]surprised…[END]`
+;Eric: Guh. And I had been thinking that maybe everyone would be surprised…
 
 widestring_04B652 `[TPL:5][TPL:A]Morris: Alright, since[N]everyone's here, what[N]are we doing today?[FIN][TPL:3][TPL:A]Eric: I think I want[N]to see Tim's mysterious[N]powers.[FIN]Look, he showed it to us[N]the other day, didn't he?[N]The guy can move things[WAI][N]without using his hands.[FIN][TPL:4][TPL:A]Rob: If I'm rememberin',[N]I think he moved tha stone[N]statue in this cavern's[WAI][N]nook.[FIN]Tim.[N]Show us one more time.[END]`
 ;Morris: Alright, since everyone's here, what are we doing today?
@@ -72,12 +72,12 @@ widestring_04B27E `[TPL:4][TPL:9]Rob: Alright. This time,[N]do tha card reveal f
 widestring_04B2F0 `[TPL:4][TPL:A]Rob: Come on. Find tha[N]one that ya think is tha[N]ace o' diamonds.[END]`
 ;Rob: Come on. Find tha one that ya think is tha ace o' diamonds.
 
-widestring_04BBB6 `[TPL:3][TPL:A]Eric: I think it would be[N]nice. If I could also use[N]a power like that...[END]`
-;Eric: I think it would be nice. If I could also use a power like that...
+widestring_04BBB6 `[TPL:3][TPL:A]Eric: I think it would be[N]nice. If I could also use[N]a power like that…[END]`
+;Eric: I think it would be nice. If I could also use a power like that…
 
-widestring_04B77C `[TPL:5][TPL:B]Morris: No matter how[N]many times you see it,[N]it's still cool, isn't[N]it...?[FIN]However, I wonder why[N]things like the desk[N]don't move, and only the[N]stone statue moves...[END]`
-;Morris: No matter how many times you see it, it's still cool, isn't it...?
-;However, I wonder why things like the desk don't move, and only the stone statue moves...
+widestring_04B77C `[TPL:5][TPL:B]Morris: No matter how[N]many times you see it,[N]it's still cool, isn't[N]it…?[FIN]However, I wonder why[N]things like the desk[N]don't move, and only the[N]stone statue moves…[END]`
+;Morris: No matter how many times you see it, it's still cool, isn't it…?
+;However, I wonder why things like the desk don't move, and only the stone statue moves…
 
 ----------------------------
 ?INCLUDE 'sc02_card'
@@ -86,16 +86,16 @@ widestring_04B00F `[TPL:A]Tim raised a card.[WAI][N]Surely enough, it was[N]the 
 ;Tim found the card and raised it.
 ;Surely enough, it was the ace of diamonds!!
 
-widestring_04B328 `[TPL:4][BOR:2][TPL:8]Rob: Ah...! He got it..![END]`
-;Rob: Ah... He got it..!
+widestring_04B328 `[TPL:4][BOR:2][TPL:8]Rob: Ah…! He got it…![END]`
+;Rob: Ah… He got it…!
 
-widestring_04BC16 `[TPL:3][TPL:9]Eric: Phew. I'm[N]speechless...[FIN][TPL:B]Hey. Morris. You call[N]this sort of thing[N]"extrasensory perception",[N]right?[END]`
-;Eric: Phew. I'm speechless...
-;Hey. Morris. You call this sort of thing "extrasensory perception", right?
+widestring_04BC16 `[TPL:3][TPL:9]Eric: Phew. I'm[N]speechless…[FIN][TPL:B]Hey. Morris. You call[N]this sort of thing[N]"extrasensory perceptionˮ,[N]right?[END]`
+;Eric: Phew. I'm speechless…
+;Hey. Morris. You call this sort of thing "extrasensory perceptionˮ, right?
 
-widestring_04B7DE `[TPL:5][TPL:A]Morris: You call it[N]"extrasensory perception",[N]huh?[FIN]The word means a sense[N]that goes beyond the[N]human senses...[FIN]What we call the human[N]senses are the sense of[N]sight,[FIN]the sense of hearing,[FIN]the sense of taste,[FIN]the sense of smell,[FIN]and the sense of touch;[N]it's what we call these[N]five..[FIN][TPL:B]I'm not sure, but I'm[N]thinking that what you[N]call extrasensory[N]perception is a sixth[WAI][N]sense.[END]`
-;Morris: You call it "extrasensory perception", huh?
-;The word means a sense that goes beyond the human senses...
+widestring_04B7DE `[TPL:5][TPL:A]Morris: You call it[N]"extrasensory perceptionˮ,[N]huh?[FIN]The word means a sense[N]that goes beyond the[N]human senses…[FIN]What we call the human[N]senses are the sense of[N]sight,[FIN]the sense of hearing,[FIN]the sense of taste,[FIN]the sense of smell,[FIN]and the sense of touch;[N]it's what we call these[N]five…[FIN][TPL:B]I'm not sure, but I'm[N]thinking that what you[N]call extrasensory[N]perception is a sixth[WAI][N]sense.[END]`
+;Morris: You call it "extrasensory perceptionˮ, huh?
+;The word means a sense that goes beyond the human senses…
 ;What we call the human senses are the sense of sight,
 ;the sense of hearing,
 ;the sense of taste,
