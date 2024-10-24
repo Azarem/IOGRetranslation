@@ -9,7 +9,7 @@
 ;Nazca plain
 
 -------------------------------------
-?INCLUDE 'fr4B_neil'
+?INCLUDE 'na4B_neil'
 -------------------------------------
 widestring_05E8F7 `[DEF][TPL:6][LU1:36][N]It was a [LU1:A6]way, but [N]you did a [LU1:94]job. [FIN]This is the [LU2:88]famous [N]of the [LU1:96]paintings-- [N]the Condor. [LU2:14]you [N][LU2:5D][LU1:99]of it? [FIN]No one knows why[N][LU1:6F][LU1:C1]drew[N]pictures [LU1:A5]this.[FIN]Whenever I [LU1:79]here[N]I'm overwhelmed by[N]the grand scale.[FIN]You [LU1:CA]go see[N]it for yourself.[PAL:0][END]`
 ;Neil: It was a long walk, but I think everyone held up well.
@@ -19,20 +19,20 @@ widestring_05E8F7 `[DEF][TPL:6][LU1:36][N]It was a [LU1:A6]way, but [N]you did a
 ;Before anything else, everyone may want take a look by themselves first.
 
 -------------------------------------
-?INCLUDE 'fr4B_lily'
+?INCLUDE 'na4B_lily'
 -------------------------------------
 widestring_05F0C8 `[DEF][TPL:2][LU1:2A]The ancients were[N]amazing. I [LU1:F9]why[N][LU2:AB][LU1:B3]this...[PAL:0][END]`
 ;Lillie: Awesome, aren't they? The people from ancient times. How could they have drawn these…?
 
 -------------------------------------
-?INCLUDE 'fr4B_lance'
+?INCLUDE 'na4B_lance'
 -------------------------------------
 widestring_05EF2D `[DEF][TPL:4]Lance: [N]Up [LU2:BC]now all [LU1:20][N]done is go to school, [N]study, and play. [FIN][LU1:4A]I [LU1:F9]if[N]my [LU1:77][LU2:73]isn't[N]all a dream...[PAL:0][END]`
 ;Rob: I suppose that until tha other day, I've been spendin' all o' my days doin' things like commutin' to and from school, studyin', and playin'.
 ;I couldn't even dream that I'd be here…
 
 -------------------------------------
-?INCLUDE 'fr4B_erik'
+?INCLUDE 'na4B_erik'
 -------------------------------------
 widestring_05F278 `[DEF][TPL:3]Erik: [N][LU1:1D]scary... [LU1:1F]stay [N][LU1:F0]Neil.[PAL:0][END]`
 ;Eric: I'm scared for some reason... I'll be close to Neil.
@@ -52,7 +52,7 @@ widestring_05EE15 `[DEF][TPL:1][LU1:25]This is the [N][LU1:A]stomach. If [N]you 
 ;I-I'm joking. (Laughs) I'm not really going to search for them.
 
 -------------------------------------
-?INCLUDE 'fr4B_spirit'
+?INCLUDE 'na4B_spirit'
 -------------------------------------
 widestring_05F349 `[DEF]Ku ku ku...[END]`
 ;Mweheheheheheh…
@@ -101,6 +101,9 @@ widestring_05F1C3 `[DEF][TPL:2][LU1:2A]A riddle[N]in a constellation.[N]Kind of 
 widestring_05EF98 `[DEF][TPL:4]Lance: [LU2:3F]working on a [N]puzzle [LU1:D7]explorers [N]and archeologists [LU1:98][N][LU1:BB]solved...[PAL:0][END]`
 ;Rob: I wonder if we're now revealin' a mystery that hasn't been solved yet by explorers and archaeologists..
 
+-------------------------------------
+?INCLUDE 'na4B_kara'
+-------------------------------------
 widestring_05EE7C `[DEF][TPL:1][LU1:25][N][LU1:62]an exciting [N]experience...[PAL:0][END]`
 ;Karen: My heart is pounding at being able to experience something like this...
 
@@ -108,7 +111,7 @@ widestring_05EC5B `[DEF][TPL:6][LU1:36]Not bad! [N][LU1:1D]as exciting [N]as [LU
 ;Neil: I think things like this are nice on occasion. My heart is pounding like when I'm inventing.
 
 -------------------------------------
-?INCLUDE 'fr4B_buries_tile'
+?INCLUDE 'na4B_buried_tile'
 -------------------------------------
 widestring_05E6C0 `[DEF][TPL:0][DLY:0]There's a tile buried[N]in the sand...[FIN][LU1:61]Will's Flute [N]touched it, [LU1:D9][N]was a rumbling sound![PAL:0][END]`
 ;Something like a tile is buried in the sand...
