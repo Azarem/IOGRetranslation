@@ -49,7 +49,7 @@ widestring_05DAC7 `[TPL:6][TPL:9]Neil: So, that's enough[N]about socks already�
 ;Neil: So, that's enough about socks already…
 ;Well, anyway, please relax. I guess you must be Tim's friends. Welcome to my humble home.
 
-widestring_05DB1C `[TPL:A][TPL:6][LU1:36][LU1:1D][LU1:70][LU1:6B][N]two [LU2:C6][LU2:A4]we [N][LU2:79]met, hasn't it? [FIN][LU1:20]invented lots of[N][LU1:E0][LU2:A4]then.[FIN]The four inventions in[N][LU1:D6]room are my[N][LU2:4D]work. [LU2:14]a look.[END]`
+widestring_05DB1C `[TPL:6][TPL:A][LU1:36][LU1:1D][LU1:70][LU1:6B][N]two [LU2:C6][LU2:A4]we [N][LU2:79]met, hasn't it? [FIN][LU1:20]invented lots of[N][LU1:E0][LU2:A4]then.[FIN]The four inventions in[N][LU1:D6]room are my[N][LU2:4D]work. [LU2:14]a look.[END]`
 ;TODO!!!
 
 -------------------------------------
@@ -101,7 +101,7 @@ widestring_05DB9C `[TPL:6][TPL:B]Anyway, you came here[N]because I can do someth
 ;The ruins that you've told me are scattered all over the world, but there's a mysterious connection between them.
 ;If you draw a line on the world map between all the ruins you've been to so far, it somehow forms a huge image of the constellation of Cygnus, the swan.
 
-widestring_05E0C1 `[TPL:1][TPL:9]Karen: You said it was[N]Cygnus?![FIN][TPL:6][TPL:B]Neil: Right. Beyond that,[N]the Tower of Babel that[N]Tim's dad was said to have[N]disappeared in,[FIN]ends up being exactly in[N]the middle of that giant[N]swan.[END]`
+widestring_05E0C1 `[TPL:1][TPL:9]Karen: You said it was[N]Cygnus?![FIN][TPL:6][TPL:B]Neil: Right. Beyond that,[N]the Tower of Babel that[N]Tim's dad was said to have[N]disappeared in,[FIN]…ends up being exactly in[N]the middle of that giant[N]swan.[END]`
 ;Karen: You said it was Cygnus?!
 ;Neil: Right. Beyond that, the Tower of Babel that Tim's dad was said to have disappeared in,
 ;ends up being exactly in the middle of that giant swan.
@@ -126,7 +126,7 @@ widestring_05E227 `[TPL:4][TPL:8]Rob: We're going too…![FIN][TPL:9]Tim won't b
 ;Tim won't be tha only one who can have fun memories.
 ;The party headed to the Nazca desert…
 
-widestring_05DFDC `[TPL:B][TPL:2][LU1:2A]I [LU2:A8]say [N][LU1:6C]bad [LU1:6B][N]Will's cousin, but [N][LU1:D6]inventor...[PAL:0][END]`
+widestring_05DFDC `[TPL:2][TPL:B][LU1:2A]I [LU2:A8]say [N][LU1:6C]bad [LU1:6B][N]Will's cousin, but [N][LU1:D6]inventor...[PAL:0][END]`
 ;TODO!!!!
 
 

@@ -5,7 +5,7 @@
 ----------------------------------------------
 ?INCLUDE 'sp5A_monologue'
 ----------------------------------------------
-widestring_06856E `[TPL:F][TPL:0]Will: [LU1:2C]and I set [N]foot on Mu. [FIN]They [LU1:EF][LU2:8F][N]welcome us after waking [N][LU1:8E]a sleep of [N][LU2:B8]of years...[PAL:0][END]`
+widestring_06856E `[TPL:0][TPL:D]Tim: Lillie and I set foot[N]upon the continent of Mu.[FIN][TPL:F]Would the continent that[N]was awoken from numerous[N]millennia of sleep welcome[N]us…?[END]`
 ;Tim: Lillie and I set foot upon the continent of Mu.
 ;Would the continent that was awoken from numerous millennia of sleep welcome us…?
 
@@ -16,7 +16,7 @@ widestring_06856E `[TPL:F][TPL:0]Will: [LU1:2C]and I set [N]foot on Mu. [FIN]The
 ----------------------------------------------
 ?INCLUDE 'mu61_hint'
 ----------------------------------------------
-widestring_0697C9 `[DEF][TPL:2][LU1:2C]speaks from[N]his pocket.[FIN][TPL:2][LU1:2A]Will. [N][LU1:20][LU1:70]thinking... [FIN]It appears as if [N]the treasure chest is [N]in the exact spot [LU1:F4][FIN]the line of vision [N]between both the [N][LU1:D2]cross. [FIN]I [LU1:F9]if [LU1:D6]is [N]suppose to mean [N]something? [LU1:30]not?[PAL:0][END]`
+widestring_0697C9 `[TPL:D]Lillie begins to speak[N]from your pocket.[FIN][TPL:2][TPL:D]Lillie: Hey Tim. I was[N]thinking a little.[FIN][TPL:E]Doesn't it look like these[N]stone statues are staring[N]at something?[FIN][TPL:F]Look, the treasure box[N]over there is where the[N]two statues' lines of[N]sight cross, right?[FIN]If that's the case, I was[N]wondering if the other[N]statues aren't also[N]staring at something.[FIN]I guess I could be[N]overthinking it.[END]`
 ;Lillie: Hey Tim. I was thinking a little;
 ;doesn't it look like these stone statues are staring at something?
 ;Look, the treasure box over there is where the two statues' lines of sight cross, right?
@@ -26,41 +26,51 @@ widestring_0697C9 `[DEF][TPL:2][LU1:2C]speaks from[N]his pocket.[FIN][TPL:2][LU1
 ----------------------------------------------
 ?INCLUDE 'mu62_hope_statue'
 ----------------------------------------------
-widestring_0698D2 `[DEF][SFX:0][DLY:9][LU1:67][LU1:8F]the [N][LU1:48]of Hope! [N][PAU:3C][DLY:2]The [LU1:48]of Hope... [N][PAU:1E]Was [LU1:D9]a room [N][LU1:F0]the [LU1:CD]name...?[PAU:5A][END]`
-;Found a prayer statue! Prayer statue... Wasn't there a room somewhere with the same name...?
+widestring_0698D2 `[TPL:F][SFX:0][DLY:9]Found a prayer statue![N][PAU:3C][DLY:2]Prayer statue… Wasn't[N]there a room somewhere[N]with the same name…?[PAU:5A][END]`
+;Found a prayer statue! Prayer statue… Wasn't there a room somewhere with the same name…?
 
 ;Prayer statue / A statue loaded with the prayers of Mu's people.
 
+widestring_069975 `[TPL:F][SFX:0][DLY:9]Found a prayer statue![N][PAU:3C][DLY:2]Prayer statue… Wasn't[N]there another room with[FIN]the same name…?[PAU:5A][END]`
+
+
+----------------------------------------------
+?INCLUDE 'chunk_038000'
+----------------------------------------------
+widestring_0392DE `[TPL:C]Offered the prayer statue![FIN]`
 ;Offered the prayer statue!
 
+widestring_0392FB `But nothing happened![END]`
+
+widestring_03930B `[TPL:E]An eerie voice could be[N]heard descending from[N]somewhere...[END]`
 ;An eerie voice could be heard descending from somewhere...
 
 ----------------------------------------------
 ?INCLUDE 'mu63_spirits'
 ----------------------------------------------
-widestring_069BAA `[TPL:A]The Sun god...[N]Rama...[FIN]The [LU2:8A]holds[N]a power...[END]`
-;O god of the sun... O Ra Mu...
-;Bestow your power upon the great ocean...
+widestring_069BAA `[TPL:17][TPL:8]O god of the sun… O Ra Mu…[FIN][TPL:9]Bestow your power upon the[N]great ocean…[END]`
+;O god of the sun… O Ra Mu…
+;Bestow your power upon the great ocean…
 
-widestring_0685D3 `[TPL:E][TPL:2][LU1:2A]Ah! There's less[N][LU2:C0][LU2:B5]before![FIN]It [LU1:AA][LU1:A5]we can now[N]explore new areas.[END][PAL:0][END]`
-;Lillie: Ah...! The water level's been reduced from what it was just now...!
-;We can now descend to a lower level from somewhere, can't we...!?
+widestring_0685D3 `[TPL:2][TPL:E]Lillie: Ah…! The water[N]level's been reduced from[N]what it was just now…![FIN]We can now descend to a[N]lower level from[N]somewhere, can't we…!?[END]`
+;Lillie: Ah…! The water level's been reduced from what it was just now…!
+;We can now descend to a lower level from somewhere, can't we…!?
 
 ----------------------------------------------
 ?INCLUDE 'sE6_gaia'
 ----------------------------------------------
-widestring_08E2F8 `[PRT:@widestring_08DE96][LU1:61]you [LU1:CB][LU1:D6][N]journey,  Mu began [N]to rise [LU1:8E]the sea. [FIN]Sea [LU2:C0][LU1:D3]covers [N]land in [LU1:B6]places [N]on the continent. [FIN][LU1:61]the [LU2:C0]is gone [N]you [LU1:EF]discover [N]the location of [N]Rama, [LU1:27]of Mu. [FIN]`
+widestring_08E2F8 `[PRT:@widestring_08DE96]When thou began thy[N]journey, the Mu continent[N]surfaced to the sea level.[FIN]However, seawater has[N]still accumulated on many[N]sections of the continent.[FIN]When all of this water has[N]been removed,[WAI][N]thou wilt probably arrive[N]at the place where the Mu[N]continent's king, Ra Mu,[N]sleeps.[FIN]`
 ;When thou began thy journey, the Mu continent surfaced to the sea level.
 ;However, seawater has still accumulated on many sections of the continent.
 ;When all of this water has been removed, thou wilt probably arrive at the place where the Mu continent's king, Ra Mu, sleeps.
 
-widestring_08E3A7 `[PRT:@widestring_08DE96]Will's [LU1:C2]is the [N][LU1:3C]Slider. Pass [N][LU1:DC]narrow corridors [N]using [LU1:D6]power. [FIN]Be careful not to[N]overlook the cracks[N]in the cliff.[FIN][RET]`
+widestring_08E3A7 `[PRT:@widestring_08DE96]With Tim's power, Psycho[N]Slider, thou canst lower[N]thyself and pass through[N]narrow passages.[FIN]Thou shouldst pay[N]attention so not to[N]overlook crevices that[N]thou wouldst pass by.[FIN][RET]`
 ;With Tim's power, Psycho Slider, thou canst lower thyself and pass through narrow passages.
 ;Thou shouldst pay attention so not to overlook crevices that thou wouldst pass by.
 
 ;You've become able to use the Power of Darkness, Psycho Slider!
 
-widestring_08EC66 `[LU1:38]young Will can use [N]the [LU1:3C]Slider. [FIN]You can now use the[N]Sliding Attack to pass[N][LU1:DC]small[N]passageways.[FIN]Push the Attack [LU2:2][N][LU1:F6]running. `
+widestring_08EC66 `[TPL:17][TPL:F]Psycho Slider is a power[N]that only the young man,[N]Tim, can use.[FIN]Thou art now able to do a[N]sliding attack. Again,[N]thou wilt also pass[N]through narrow passages.[FIN]Thou shouldst push the[N]attack button whilst[N]running.`
 ;Psycho Slider is a power that only the young man, Tim, can use.
 ;Thou art now able to do a sliding attack. Again, thou wilt also pass through narrow passages.
 ;Thou shouldst push the attack button whilst running.
@@ -76,76 +86,76 @@ widestring_08EC66 `[LU1:38]young Will can use [N]the [LU1:3C]Slider. [FIN]You ca
 ----------------------------------------------
 ?INCLUDE 'mu66_actor_069C85'
 ----------------------------------------------
-widestring_069CB7 `[TPL:B][TPL:0]This [LU1:AA][LU1:A5]an [N][LU1:6F]burial [LU1:96][N]for the [LU1:C1]of Mu. [N][PAL:0][END]`
-;It looks like this was the cemetery for Mu's people...
+widestring_069CB7 `[TPL:0][TPL:9]It looks like this was the[N]cemetery for Mu's people…[END]`
+;It looks like this was the cemetery for Mu's people…
 
 ----------------------------------------------
 ?INCLUDE 'mu66_rama_spirits'
 ----------------------------------------------
-widestring_069F45 `[DEF]I am Rama, [LU1:27]of Mu.[N]My [LU1:72]passed on[N][LU1:A6]ago, but my[N]spirit lives on.[FIN]If you [LU1:A9]closely, [N]You can [LU2:8F]see [N]wandering spirits. [END]`
+widestring_069F45 `[TPL:17][TPL:D]I am the king of the[N]continent of Mu, Ra Mu.[FIN][TPL:F]Though I lost my corporeal[N]body in the distant past,[N]my spirit continues to[N]live on.[FIN]Alright, strain your eyes[N]well. The wandering souls[N]should be visible.[END]`
 ;I am the king of the continent of Mu, Ra Mu. Though I lost my corporeal body in the distant past, my spirit continues to live on.
 ;Alright, strain your eyes well. The wandering souls should be visible.
 
-widestring_069FBE `[DEF]Hear the words of[N]spirits awakened.[END]`
+widestring_069FBE `[TPL:17][TPL:F]You should listen to the[N]words of the souls that[N]have awakened from their[N]sleep.[END]`
 ;You should listen to the words of the souls that have awakened from their sleep.
 
-widestring_06A0A6 `[DEF][LU1:39]a single ray of [N][LU1:A8][LU1:80][LU1:8E]the sky. [N][LU1:3D][LU1:D8]it was [N]the [LU1:A8]of the spirits.[END]`
+widestring_06A0A6 `[TPL:17][TPL:D]A beam of light once shone[N]in from the heavens.[FIN][TPL:E]We thought it was the[N]light of the gods and[N]knelt before it.[END]`
 ;A beam of light once shone in from the heavens. We thought it was the light of the gods and knelt before it.
 
-widestring_06A0EC `[DEF]One year after [LU1:D7]our[N]bodies began to change.[FIN]One got [LU1:ED]thin,[N]one [LU2:B3]to stone,[N]one's [LU1:72]melted[N][LU1:A5]water...[END]`
+widestring_06A0EC `[TPL:17][TPL:F]One year after we saw the[N]light of the gods, our[N]bodies started to undergo[N]a change.[FIN]Some people became thin,[N]some people grew to look[N]like boulders,[FIN]…and some people even[N]melted away so that they[N]looked like water…[END]`
 ;One year after we saw the light of the gods, our bodies started to undergo a change.
-;Some people became thin, some people grew to look like boulders, and some people even melted away so that they looked like water...
+;Some people became thin, some people grew to look like boulders, and some people even melted away so that they looked like water…
 
-widestring_06A154 `[DEF]Family and friends [N][LU2:B3]to monsters [N][LU1:74]our eyes. We [N]fought [LU1:73]the tears...[END]`
-;Our family and friends transformed to monsters before our very eyes and stormed in to attack us. We were shedding tears as we raised our weapons against them...
+widestring_06A154 `[TPL:17][TPL:F]Our family and friends[N]transformed to monsters[N]before our very eyes and[N]stormed in to attack us.[FIN]We were shedding tears as[N]we raised our weapons[N]against them…[END]`
+;Our family and friends transformed to monsters before our very eyes and stormed in to attack us. We were shedding tears as we raised our weapons against them…
 
-widestring_06A1C9 `[DEF]Some couldn't [LU1:E7]it, [N]and [LU1:D8]we [LU1:CA][N]flee [LU1:8E][LU2:74][FIN]But Mu is an island. We[N][LU1:83][LU1:A4]if we'd find[N][LU1:6E][LU2:90]to live...[FIN]There [LU1:F2]no materials[N]for a boat. It would[N]sink if [LU1:B3]of stone...[END]`
+widestring_06A1C9 `[TPL:17][TPL:D]We couldn't bear this[N]awful state of affairs,[FIN][TPL:E]…so there were more than a[N]few people who thought we[N]should escape from here.[FIN]However, the continent of[N]Mu is an island on the[N]deep blue sea.[FIN][TPL:F]Beyond that, there was no[N]guarantee that we would be[N]able to arrive in some[N]other place where we could[WAI][N]live…[FIN]This island did not have[N]the material for a ship.[FIN]It would immediately sink[N]if we had constructed it[N]from stone…[END]`
 ;We couldn't bear this awful state of affairs, so there were more than a few people who thought we should escape from here.
-;However, the continent of Mu is an island on the deep blue sea. Beyond that, there was no guarantee that we would be able to arrive in some other place where we could live...
-;This island did not have the material for a ship. It would immediately sink if we had constructed it from stone...
+;However, the continent of Mu is an island on the deep blue sea. Beyond that, there was no guarantee that we would be able to arrive in some other place where we could live…
+;This island did not have the material for a ship. It would immediately sink if we had constructed it from stone…
 
-widestring_06A19E `[DEF][LU2:20]saw no point in [N][LU1:B1]if [LU1:D6][LU1:E3][N]continued...[END]`
+widestring_06A19E `[TPL:17][TPL:E]What meaning would there[N]even be in going on living[N]if it went on like this…?[END]`
 ;What meaning would there even be in going on living if it went on like this…?
 
-widestring_06A26D `[DEF]They [LU1:CB]building an[N]undersea tunnel. They[N]dug on, not knowing how[N][LU1:A6]it [LU1:F3]take...[END]`
-;People started to dig an undersea tunnel. We didn't know how many centuries... no, how many millennia this plan that we had entrusted our hopes into would take, but they continued digging...
+widestring_06A26D `[TPL:17][TPL:D]People started to dig an[N]undersea tunnel.[FIN]We didn't know how many[N]centuries…[FIN][TPL:F]…no, how many millennia[N]this plan that we had[N]entrusted our hopes into[N]would take,[FIN]…but they continued[N]digging…[END]`
+;People started to dig an undersea tunnel. We didn't know how many centuries… no, how many millennia this plan that we had entrusted our hopes into would take, but they continued digging…
 
-widestring_069FE3 `[DEF]The [LU1:EB]tunnel[N]dug by man is inside.[FIN][LU1:3B][LU1:E7][LU1:D6][N]Mystic Statue. [END]`
+widestring_069FE3 `[TPL:17][TPL:E]The undersea tunnel that[N]the people had dug is[N]inside here.[FIN]And with that, please take[N]this Mystery Doll.[END]`
 ;The undersea tunnel that the people had dug is inside here.
 ;And with that, please take this Mystery Doll.
 
 ----------------------------------------------
 ?INCLUDE 'mu67_erik'
 ----------------------------------------------
-widestring_06A36B `[DEF][TPL:3]Erik: [N]Heeeeelp!! [N][LU1:4D][LU1:D1]me! ![PAL:0][END]`
-;Eric: Waaaaaaah... Somebody saaave me...!!
+widestring_06A36B `[TPL:3][TPL:D]Eric: Waaaaaaah…[N]Somebody saaave me…!![END]`
+;Eric: Waaaaaaah… Somebody saaave me…!!
 
 ----------------------------------------------
 ?INCLUDE 'mu67_vampires'
 ----------------------------------------------
-widestring_0AFB45 `[DEF][TPL:2]Vampire: [N][LU1:67][LU1:8F]the  [N]Mystic Statue! [FIN]I [LU1:D8][LU1:D7]guy who [N][LU1:80]to the [LU2:93]was [N]strange....We [LU1:F2][N][LU2:94]to let him go. [FIN][TPL:1]Vampiress: [N][LU1:62]are you saying? [N]You [LU1:F2]drooling [N][LU1:F6]he was here! [FIN][LU1:69][LU2:44][LU1:A5][LU1:D7][N][LU1:F6]young ones come! [N]All you [LU2:5D][LU1:DA][LU1:6B][N]is food! [FIN][TPL:2]Vampire: [N]So do you!! [FIN]Wait. This is not the[N][LU1:DF]or [LU2:90]for[N]an argument.[FIN]First, let's get [LU1:D7][N]Mystic Statue!  [N]Get ready!!![PAL:0][END]`
+widestring_0AFB45 `[TPL:21][TPL:E]Vampire man: You did well,[N]finding the Mystery Doll[N]for us![FIN]I was thinking that[N]someone strange had turned[N]up at the palace but…[FIN]Pshaw. I was right to let[N]you free.[FIN][TPL:22][TPL:E]Vampire woman: What are[N]you going on about?[FIN][TPL:F]Even though you start[N]drooling when anything[N]that resembles prey turns[N]up…![FIN]Every single time that you[N]manage to get a hold of a[N]few young children, you're[N]always like that…![FIN][CLD][TPL:22][TPL:D]Do you think of nothing[N]but eating…?[FIN][TPL:21][TPL:D]Vampire man: You're one to[N]talk![FIN][TPL:E]Hey, wait. Now isn't the[N]situation to be having a[N]lover's quarrel.[FIN]First off, let's take that[N]Mystery Doll. You there![N]Prepare yourself…!![END]`
 ;Vampire man: You did well, finding the Mystery Doll for us!
-;I was thinking that someone strange had turned up at the palace but... Pshaw. I was right to let you free.
-;Vampire woman: What are you going on about? Even though you starting drooling when anything that resembles prey turns up...!
-;Every little time that you manage to get a hold of a few young children, you're always like that...! Do you think of nothing but eating...?
+;I was thinking that someone strange had turned up at the palace but… Pshaw. I was right to let you free.
+;Vampire woman: What are you going on about? Even though you starting drooling when anything that resembles prey turns up…!
+;Every little time that you manage to get a hold of a few young children, you're always like that…! Do you think of nothing but eating…?
 ;Vampire man: You're one to talk!
 ;Hey, wait. Now isn't the situation to be having a lover's quarrel.
-;First off, let's take that Mystery Doll. You there! Prepare yourself...!!
+;First off, let's take that Mystery Doll. You there! Prepare yourself…!!
 
-widestring_0AFCA0 `[DLG:3,11][SIZ:D,4][TPL:1]Vampiress: [N]I'm glad he's gone. [N][LU1:1D][LU1:FE][LU2:B9]next!! [N]Get ready![PAL:0][END]`
-;Vampire woman: Hmph. That man's dead; what a relief. Alright, it's your turn next...!! Get ready...!!
+widestring_0AFCA0 `[TPL:22][TPL:F]Vampire woman: Hmph. That[N]man's dead; what a relief.[N]Alright, it's your turn[N]next…!! Get ready…!![END]`
+;Vampire woman: Hmph. That man's dead; what a relief. Alright, it's your turn next…!! Get ready…!!
 
-widestring_0AFCE4 `[DLG:3,11][SIZ:D,4][TPL:2]Vampire: You! [N]You did [LU1:D7]to my wife! [N][LU1:1F][LU1:BB]forgive you!![PAL:0][END]`
+widestring_0AFCE4 `[TPL:21][TPL:E]Vampire: You! [N]You did [LU1:D7]to my wife! [N][LU1:1F][LU1:BB]forgive you!![PAL:0][END]`
 ;TODO!!!!
 
-widestring_06A38D `[DEF][TPL:3]First, defuse the bomb![N]Hurry! Hurry![PAL:0][END]`
-;Before anything else, stop the booomb...! Hurry hurry...!!
+widestring_06A38D `[TPL:3][TPL:E]Before anything else, stop[N]the booomb…! Hurry[N]hurry…!![END]`
+;Before anything else, stop the booomb…! Hurry hurry…!!
 
 ----------------------------------------------
 ?INCLUDE 'mu67_bomb'
 ----------------------------------------------
-widestring_06A4E9 `[TPL:E][TPL:0]There's a red wire and[N]a blue wire sticking[N]out of the bomb...[FIN]Cut which one?[N] Red one[N] Blue one`
-;It seems that both a red wire and a blue wire are hanging out of the bomb...
+widestring_06A4E9 `[TPL:0][TPL:E]It seems that both a red[N]wire and a blue wire are[N]hanging out of the bomb…[FIN]Which will you cut?[N][PAL:0] Go with red[N] Go with blue`
+;It seems that both a red wire and a blue wire are hanging out of the bomb…
 ;Which will you cut? / Go with red / Go with blue
 
 widestring_06A54E `[CLR]The red wire is cut![PAL:0][END]`
@@ -156,41 +166,42 @@ widestring_06A566 `[CLR]The blue wire is cut![PAL:0][END]`
 widestring_06A719 `[DEF][TPL:0]...........[FIN]It was a dud.[N]I'm saved...[PAL:0][END]`
 
 
-widestring_06A57F `[PAU:28][TPL:A][TPL:0]Will: The bomb [N]has [LU1:70]defused... [FIN][TPL:3]Erik: [N]Saved... [FIN][TPL:2][LU1:2C]speaks from[N]his pocket.[FIN][LU1:2A]Sorry, Will... [N]There was [LU1:B9][N]I [LU1:7A]do... [FIN]My legs gave out from[N]fear. I couldn't [LU1:B5]or[N][LU2:84]a sound.[FIN]Up to now I [LU1:D8]I[N]was strong, but in a[N]crisis...[FIN]..............[N][LU2:35]for staying in[N][LU1:FE]pocket for so long.[PAL:0][END]`
-;Tim: It looks like the bomb stopped somehow...
-;Eric: I'm saaaved...
-;Lillie: Sorry Tim... Even though I was with you, I couldn't do anything...
-;My legs froze and couldn't move at all, even my voice wouldn't come out... You're a boy after all, aren't you.
-;I thought I was reliable until now, but this is how it is when it comes down to it...
-;...Sorry, I'll still take up your pocket for a while.
+widestring_06A57F `[PAU:28][TPL:0][TPL:D]Tim: It looks like the[N]bomb stopped somehow…[FIN][TPL:3][TPL:D]Eric: I'm saaaved…[FIN][CLD][TPL:D]Lillie begins to speak[N]from your pocket.[FIN][TPL:2][TPL:E]Lillie: Sorry Tim… Even[N]though I was with you, I[N]couldn't do anything…[FIN]My legs froze and couldn't[N]move at all, even my voice[N]wouldn't come out…[FIN]You're a boy after all,[N]aren't you.[FIN][TPL:F]I thought I was reliable[N]until now, but this is how[N]it is when it comes down[N]to it…[FIN]…Sorry, I'll still take up[N]your pocket for a while.[END]`
+;Tim: It looks like the bomb stopped somehow…
+;Eric: I'm saaaved…
+;Lillie: Sorry Tim… Even though I was with you, I couldn't do anything…
+;My legs froze and couldn't move at all, even my voice wouldn't come out… You're a boy after all, aren't you.
+;I thought I was reliable until now, but this is how it is when it comes down to it…
+;…Sorry, I'll still take up your pocket for a while.
 
-widestring_06A3B8 `[DEF][TPL:3]Erik: [N][LU1:D][LU2:AD]anyone [LU1:D7][N]Will's in disguise.[PAL:0][END]`
+widestring_06A3B8 `[TPL:3][TPL:D]Eric: I won't tell anyone[N]that you transformed.[END]`
 ;Eric: I won't tell anyone that you transformed.
 
 ----------------------------------------------
 ?INCLUDE 'mu67_neil_lily'
 ----------------------------------------------
-widestring_06A7C7 `[TPL:A][TPL:6][LU1:36][N]Will! Are you OK?! [FIN][TPL:4]Lance: Will! [N]I [LU1:82]see Lilly. [N]Has [LU1:C8]happened? [FIN][TPL:2]Lilly:[N]I'm here.[PAL:0][END]`
-;Neil: Tim...! Are you safe...?!
-;Rob: Tim...! I couldn't see any sign of Lillie; how's she doin'...?!
+widestring_06A7C7 `[TPL:6][TPL:9]Neil: Tim! Are you safe…?![FIN][TPL:4][TPL:A]Rob: Tim…! I couldn't see[N]any sign of Lillie; how's[N]she doin'…?![FIN][TPL:2][TPL:A]Lillie: I'm here…[END]`
+;Neil: Tim…! Are you safe…?!
+;Rob: Tim…! I couldn't see any sign of Lillie; how's she doin'…?!
 ;Lillie: I'm here…
 
-widestring_06AA4C `[TPL:A][TPL:2][LU1:2A][LU2:35]I worried [N][LU2:C7]Will was protecting [N]me, so I was OK.[PAL:0][END]`
+widestring_06AA4C `[TPL:2][TPL:A]Lillie: Sorry for making[N]you worry. But I had Tim[N]to protect me so I'm okay…[END]`
 ;Lillie: Sorry for making you worry. But I had Tim to protect me so I'm okay…
 
-widestring_06AA89 `[TPL:A][TPL:6][LU1:36][LU1:63]Will [N][LU1:CC]to [LU1:98][LU2:95][N]grown up.[PAL:0][END]`
+widestring_06AA89 `[TPL:6][TPL:A]Neil: Oh? Tim's turned out[N]to be very manly too,[N]hasn't he?[END]`
 ;Neil: Oh? Tim's turned out to be very manly too, hasn't he?
 
 ----------------------------------------------
 ?INCLUDE 'mu67_kara'
 ----------------------------------------------
-widestring_06A894 `[TPL:B][TPL:1][LU1:25][N]It [LU1:84]matter! [FIN][LU1:2B][LU1:DA][LU1:6B]how[N]to [LU1:AC]Mu![FIN][TPL:2][LU1:2A]That's good. We[N][LU1:99][LU1:D0][LU1:E0]from[N][LU1:CF][LU2:54]Rama.[FIN][TPL:0]Will told [LU1:89][LU1:6B][N]Mu and the [LU1:C1][N]who had [LU1:79][LU1:DC][N]the [LU1:EB]tunnel... [FIN][TPL:1][LU1:25][N][LU1:1D][LU1:CE]a sad story... [FIN]separated [LU1:8E]those [N][LU1:F0]whom [LU2:AB]lived.[FIN]Others remaining under[N]water... [FIN][TPL:6][LU1:36]If we go [LU1:DC][N]the tunnel, maybe we[N]can reach the mainland.[FIN][TPL:4]Lance: Good idea! [N][LU1:2B]get out of here!![PAL:0][END]`
+widestring_06A894 `[TPL:1][TPL:9]Karen: Who cares about[N]that![FIN][TPL:A]More importantly, let's[N]think how to get off of[N]the continent of Mu…![FIN][TPL:2][TPL:A]Lillie: You don't have to[N]worry about that.[FIN][TPL:B]We heard something good[N]from someone just now;[N]they were named Ra Mu or[N]something like that.[FIN][CLD][TPL:B]Tim told everyone about[N]the continent of Mu, the[N]people who crossed over[N]through the undersea[WAI][N]tunnel, and so on…[FIN][TPL:1][TPL:B]Karen: It's a sad story,[N]isn't it…?[FIN]The people who were living[N]here together were[N]scattered,[FIN]and even more so when once[N]they arrive at the other[N]side on the bottom of the[N]sea…[FIN][TPL:6][TPL:B]Neil: Anyway, if we pass[N]through that undersea[N]tunnel, then we should be[N]able to get out, shouldn't[WAI][N]we?[FIN][TPL:4][TPL:B]Rob: Alright…! If we've[N]decided on that, let's go[N]immediately…![END]`
 ;Karen: Who cares about that!
-;More importantly, let's think how to get off of the continent of Mu...!
+;More importantly, let's think how to get off of the continent of Mu…!
 ;Lillie: You don't have to worry about that. We heard something good from someone just now; they were named Ra Mu or something like that.
-;Tim told everyone about the continent of Mu, the people who crossed over through the undersea tunnel, and so on...
+;Tim told everyone about the continent of Mu, the people who crossed over through the undersea tunnel, and so on…
 ;Karen: It's a sad story, isn't it…?
-;The people who were living were together were scattered, and even more so when once they arrive at the other side on the bottom of the sea…
+;The people who were living were together were scattered, 
+;and even more so when once they arrive at the other side on the bottom of the sea…
 ;Neil: Anyway, if we pass through that undersea tunnel, then we should be able to get out, shouldn't we?
-;Rob: Alright...! If we've decided on that, let's go immediately...!
+;Rob: Alright…! If we've decided on that, let's go immediately…!
 

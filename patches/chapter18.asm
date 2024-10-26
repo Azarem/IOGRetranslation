@@ -5,23 +5,23 @@
 ------------------------------------
 ?INCLUDE 'dm3E_intro'
 ------------------------------------
-widestring_05FA59 `[TPL:F][TPL:0]Will: There's a strange[N]garden floating in the [N]sky [LU1:BE]Nazca... [FIN]On the ground, [LU2:23]and [N]my friends [LU1:A9][LU1:A5][N]tiny ants [LU1:93][N][LU1:73]and forth. [FIN]Could the paintings[N]be an airport[N]for the Sky Garden?[PAL:0][END]`
-;Tim: A mysterious garden was floating in the skies above Nazca...
+widestring_05FA59 `[TPL:0][TPL:E]Tim: A mysterious garden[N]was floating in the skies[N]above Nazca…[FIN][TPL:F]Neil and the others on the[N]ground looked like grains[N]of rice as they ran about[N]every which way.[FIN]Could the Nazca lines[N]possibly have been an[N]airfield for this midair[N]garden?[END]`
+;Tim: A mysterious garden was floating in the skies above Nazca…
 ;Neil and the others on the ground looked like grains of rice as they ran about every which way.
 ;Could the Nazca lines possibly have been an airfield for this midair garden?
 
 ------------------------------------
 ?INCLUDE 'sg4C_spirits'
 ------------------------------------
-widestring_05F371 `[DEF][LU1:31]Tribe:[N]We [LU2:87]again. Ku ku ku.[N][LU1:69]a strong boy[N]to [LU1:98][LU1:79][LU1:D6]far.[END]`
+widestring_05F371 `[TPL:1A][TPL:D]Race of the Moon: We meet[N]again, huh? Mweheheheh.[FIN][TPL:E]If you're hanging around a[N]place like this, you must[N]be a vigorous little boy.[END]`
 ;Race of the Moon: We meet again, huh? Mweheheheh. If you're hanging around a place like this, you must be a vigorous little boy.
 
-widestring_05F3C9 `[DEF][LU1:31]Tribe: This Sky[N]Garden is our mode[N]of transportation.[FIN]There are four [LU1:7][N]Balls in four locations.[N]Find each one in [N]clockwise order... [END]`
+widestring_05F3C9 `[TPL:1A][TPL:E]Race of the Moon: This[N]mid-air garden is our[N]vehicle.[FIN]Four crystal balls are[N]enshrined in the four[N]areas.[FIN]Go around clockwise and[N]you can get them all.[N]Mweheheheh…[END]`
 ;Race of the Moon: This mid-air garden is our vehicle.
-;Four crystal balls are enshrined in the four areas. Go around clockwise and you can get them all. Mweheheheh...
+;Four crystal balls are enshrined in the four areas. Go around clockwise and you can get them all. Mweheheheh…
 
-widestring_05F46E `[DEF][LU1:31]Tribe: Drop off the [N]cliff at the front and [N][LU1:73]to [LU1:90]the [N]up-side down world... [END]`
-;Race of the Moon: The midair garden's underside and its surface. If you jump down from a cliff, there's still an inverted world is there...
+widestring_05F46E `[TPL:1A][TPL:E]Race of the Moon: The[N]midair garden's underside[N]is also its surface.[FIN][TPL:F]If you jump down from a[N]cliff, there's still an[N]inverted world isn't[N]there…[END]`
+;Race of the Moon: The midair garden's underside is also its surface. If you jump down from a cliff, there's still an inverted world isn't there…
 
 ;Found a crystal ball!
 
@@ -34,35 +34,35 @@ widestring_05F46E `[DEF][LU1:31]Tribe: Drop off the [N]cliff at the front and [N
 ------------------------------------
 ?INCLUDE 'sg52_switch'
 ------------------------------------
-widestring_05F71C `[DEF][LU1:61]you step on this[N]tile it makes a sound...[END]`
-;When you step on this tile, something makes a sound...
+widestring_05F71C `[TPL:E]When you step on this[N]tile, something makes a[N]sound…[END]`
+;When you step on this tile, something makes a sound…
 
 ------------------------------------
 ?INCLUDE 'sg55_mystic_statue'
 ------------------------------------
-widestring_0ACF0E `[DEF][TPL:0]You [LU1:98]defeated the, [N][LU1:9C]demon! [N]Look! A Mystic Statue!![PAL:0][END]`
+widestring_0ACF0E `[TPL:E]After defeating the huge[N]bird, you found a Mystery[N]Doll in its corpse!![END]`
 ;After defeating the huge bird, you found a Mystery Doll in its corpse!!
 
-widestring_0ACF4A `[DEF][TPL:0]A [LU1:C7]noise fills [N]the air [LU1:6D][LU2:C7][N][LU2:11]out of nowhere,[N]you [LU1:9B][LU1:37]voice![FIN][TPL:6][LU1:36][N]Will! [LU1:69]falling [N]to the ground!!!! [FIN]Grab the airplane, and[N]we'll fly out of here![PAL:0][END]`
+widestring_0ACF4A `[TPL:E]Through the sound of a[N]propeller, Neil's voice[N]echoes from a megaphone![FIN][TPL:6][TPL:E]Neil: Tiiim…! You're[N]getting too close to the[N]grouuund…!![FIN]I'll catch you in my[N]aeroplane, so jump[N]down…!![END]`
 ;Through the sound of a propeller, Neil's voice echoes from a megaphone!
-;Neil: Tiiim...! You're getting too close to the grouuund...!!
-;I'll catch you in my aeroplane, so jump down...!!
+;Neil: Tiiim…! You're getting too close to the grouuund…!!
+;I'll catch you in my aeroplane, so jump down…!!
 
 ------------------------------------
 ?INCLUDE 'sp58_missed_flight'
 ------------------------------------
-widestring_06805C `[TPL:A][TPL:6][LU1:36][N]Shoot!! [N]I dropped a contact!! [FIN][TPL:1][LU1:25]You what!!! [N]Idiot! Will is [N]doomed for [LU2:A6]now! [FIN][TPL:4]Lance: Neil! [LU1:1D][LU1:D3][N]a [LU1:A7]ways to the [N]ground. Try again! [FIN][TPL:6][LU1:36][N]Okay! [N][LU1:1F]get him [LU1:D6]time!![PAL:0][END]`
-;Neil: Draaat...! I… I missed...!!
-;Karen: Neil you dumb dumb dumb dummy...! Tim's going to die...!!
-;Rob: Neil! There's still a little more time before he hits the ground..! Do it one more time...!!
-;Neil: Alright! This time for sure, you'll see...!!
+widestring_06805C `[TPL:6][TPL:9]Neil: Draaat…! I…[N]I missed…!![FIN][TPL:1][TPL:A]Karen: Neil you dumb[N]dumb dumb dummy…![N]Tim's going to die…!![FIN][TPL:4][TPL:B]Rob: Neil! There's still a[N]little more time before he[N]hits the ground…! Do it[N]one more time…!![FIN][TPL:6][TPL:B]Neil: Alright! This time[N]for sure, you'll see…!![END]`
+;Neil: Draaat…! I… I missed…!!
+;Karen: Neil you dumb dumb dumb dummy…! Tim's going to die…!!
+;Rob: Neil! There's still a little more time before he hits the ground…! Do it one more time…!!
+;Neil: Alright! This time for sure, you'll see…!!
 
 ------------------------------------
 ?INCLUDE 'sp58_red_eye'
 ------------------------------------
-widestring_068230 `[TPL:A][TPL:6][LU1:36][N]That was a close one! [FIN][TPL:1][LU1:25][N]Sob...sob... [FIN][TPL:3]Erik: [N]Sniff...sniff... [FIN][TPL:4]Lance: [LU1:D]cry. [N]Will's [LU1:70]saved. [FIN][TPL:2][LU1:2A]Neil, you [LU1:F2][N]great. This invention [N]saved Will's life! [FIN][TPL:6][LU1:36]Ha ha. [N][LU1:D]flatter me. [FIN]We [LU1:CA]try and [N]locate the [LU1:BC]ruins. [FIN]I expect the [LU2:A3]of[N]Cygnus is the [LU1:CD]as[N]the [LU2:A3]of Mu.[END]`
-;Neil: That was dangerous...
-;Karen *Sniffle* *Sniffle*...
+widestring_068230 `[TPL:6][TPL:8]Neil: That was dangerous…[FIN][TPL:1][TPL:8]Karen: *Sniffle* *Sniffle*[FIN][TPL:3][TPL:8]Eric: *Sob* *Sob* *Sob*[FIN][TPL:4][TPL:A]Rob: Karen and Eric, stop[N]cryin'. We saved Tim,[N]after all.[FIN][TPL:2][TPL:B]Lillie: By the waaay,[N]Neil's amazing, isn't he?[N]Having made a thing like[N]this.[FIN][TPL:6][TPL:B]Neil: Haha. Please don't[N]praise me like that.[N]Anyway, I'll take you to[N]the next ruin with this.[FIN]If we go by the precedent[N]of the ruins mapping up to[N]the shape of the[N]constellation of Cygnus,[FIN]…the next ruin should be[N]the continent of Mu.[END]`
+;Neil: That was dangerous…
+;Karen *Sniffle* *Sniffle*
 ;Eric: *Sob* *Sob* *Sob*
 ;Rob: Karen and Eric, stop cryin'. We saved Tim, after all.
 ;Lillie: By the waaay, Neil's amazing, isn't he? Having made a thing like this.
@@ -70,15 +70,15 @@ widestring_068230 `[TPL:A][TPL:6][LU1:36][N]That was a close one! [FIN][TPL:1][L
 ;Anyway, I'll take you to the next ruin with this.
 ;If we go by the precedent of the ruins mapping up to the shape of the constellation of Cygnus, the next ruin should be the continent of Mu.
 
-widestring_06834A `[TPL:A][TPL:6][LU1:36][N][LU1:63]to the ocean! [FIN]Mu lies somewhere[N]in [LU1:D6]ocean.[END]`
-;Neil: Alright, out to the ocean...!!
+widestring_06834A `[TPL:6][TPL:9]Neil: Alright, out to the[N]ocean…!![FIN][TPL:A]The continent of Mu should[N]be sleeping somewhere in[N]this deep blue sea.[END]`
+;Neil: Alright, out to the ocean…!!
 ;The continent of Mu should be sleeping somewhere in this deep blue sea.
 
 ------------------------------------
 ?INCLUDE 'sp58_monologue'
 ------------------------------------
-widestring_0683EB `[TPL:B][TPL:0]Will: We got out of [N]the airplane in the [N]nick of time... [FIN][LU1:37]a [LU1:94]inventor, [N]but it [LU1:CC][LU1:DB][N][LU2:44][LU1:C8]missing [N]in his inventions..... [FIN]I [LU2:6E]nobody's [N]perfect, including [N]Neil.[PAL:0][END]`
-;Tim: We barely ejected from the aeroplane...
-;Neil is an amazing inventor but his products are always missing something...
+widestring_0683EB `[TPL:0][TPL:9]Tim: We barely ejected[N]from the aeroplane…[FIN][TPL:B]Neil is an amazing[N]inventor but his products[N]are always missing[N]something…[FIN]It occurred to me that a[N]prefect person may not[N]exist anywhere.[END]`
+;Tim: We barely ejected from the aeroplane…
+;Neil is an amazing inventor but his products are always missing something…
 ;It occurred to me that a prefect person may not exist anywhere.
 
