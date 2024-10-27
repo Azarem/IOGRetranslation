@@ -210,6 +210,6 @@ widestring_0391D9 `[TPL:D]Lillie begins to speak[N]from your pocket.[FIN][TPL:2]
 ------------------------------------
 ?INCLUDE 'sp5E_passageway'
 ------------------------------------
-widestring_069753 `[TPL:9]Lillie begins to speak[N]from your pocket.[FIN][TPL:2][TPL:F]Lillie: It's a long[N]passage, huh… I wonder if[N]this really goes on to the[N]continent of Mu…[END]`
+widestring_069753 `[TPL:9]Lillie begins to speak[N]from your pocket.[FIN][TPL:2][TPL:B]Lillie: It's a long[N]passage, huh… I wonder if[N]this really goes on to the[N]continent of Mu…[END]`
 ;Lillie: It's a long passage, huh… I wonder if this really goes on to the continent of Mu…
 
