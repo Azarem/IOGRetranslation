@@ -210,8 +210,8 @@
 ?INCLUDE 'fr36_mother'
 ?INCLUDE 'fr37_caution'
 ?INCLUDE 'fr38_ashamed'
-?INCLUDE 'fr38_eye'
-?INCLUDE 'fr38_helper'
+?INCLUDE 'fr38_girlfriend'
+?INCLUDE 'fr38_boyfriend'
 ?INCLUDE 'fr39_lily_kara'
 ?INCLUDE 'fr39_lance'
 ?INCLUDE 'fr39_erik'
@@ -945,7 +945,7 @@ event_def_0C8390 [
     actor < #05, #19, #00, @h_sc04_eriks_mother >   ;03
     actor < #19, #18, #00, @h_sc04_eriks_father >   ;04
     actor < #18, #09, #00, @h_sc04_poverty >   ;05
-  ], `Eric's House ` >   ;00
+  ], `Eric's House` >   ;00
 ]
 
 event_def_0C83C9 [
@@ -955,7 +955,7 @@ event_def_0C83C9 [
     actor < #11, #11, #00, @head_00EA96 >   ;02
     actor < #02, #0A, #00, @h_sc05_seths_mother >   ;03
     actor < #0D, #0A, #00, @h_sc05_seths_father >   ;04
-  ], `Morris's House ` >   ;00
+  ], `Morris' House` >   ;00
 ]
 
 event_def_0C83FB [
@@ -972,7 +972,7 @@ event_def_0C83FB [
     actor < #00, #01, #00, @h_sc06_monologue >   ;09
     actor < #03, #07, #00, @h_sc06_lily >   ;0A
     actor < #05, #1D, #00, @h_sc06_kara_return >   ;0B
-  ], `Tim's House ` >   ;00
+  ], `Tim's House` >   ;00
 ]
 
 event_def_0C845E [
@@ -1826,8 +1826,8 @@ event_def_0C9747 [
     actor < #00, #00, #00, @h_actor_00EAED >   ;01
     actor < #11, #11, #00, @head_00EA96 >   ;02
     actor < #04, #1D, #00, @h_fr38_ashamed >   ;03
-    actor < #0A, #0D, #00, @h_fr38_eye >   ;04
-    actor < #0B, #0D, #00, @h_fr38_helper >   ;05
+    actor < #0A, #0D, #00, @h_fr38_girlfriend >   ;04
+    actor < #0B, #0D, #00, @h_fr38_boyfriend >   ;05
   ], `` >   ;00
 ]
 
