@@ -31,7 +31,7 @@ widestring_0698D2 `[TPL:F][SFX:0][DLY:9]Found a prayer statue![N][PAU:3C][DLY:2]
 
 ;Prayer statue / A statue loaded with the prayers of Mu's people.
 
-widestring_069975 `[TPL:F][SFX:0][DLY:9]Found a prayer statue![N][PAU:3C][DLY:2]Prayer statue… Wasn't[N]there another room with[FIN]the same name…?[PAU:5A][END]`
+widestring_069975 `[TPL:F][SFX:0][DLY:9]Found a prayer statue![N][PAU:3C][DLY:2]Prayer statue… Wasn't[N]there another room with[N]the same name…?[PAU:5A][END]`
 
 
 ----------------------------------------------

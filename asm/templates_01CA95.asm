@@ -37,6 +37,8 @@ templates_01CA95 [
   &euro_theme          ;1E
   &dao_theme           ;1F
   &frejia_theme        ;20
+  &male_vampire_theme  ;21
+  &female_vampire_theme ;22
 ]
 
 widestring_01CAC1 `[BOR:3][SEP:1,7FDE][SEP:2,3A94][SEP:3,0C03][SEP:13,0C03][SEP:11,6FDF][SEP:12,B1E][SFX:10][PAL:4]`
@@ -104,3 +106,7 @@ euro_theme `[BOR:D][SEP:1,7FFF][SEP:2,3196][SEP:3,0004][SEP:13,0004][SEP:11,7FFF
 dao_theme `[BOR:C][SEP:1,7FFF][SEP:2,3196][SEP:3,0004][SEP:13,0004][SEP:11,7FFF][SEP:12,6F6E][SFX:10][PAL:4]`
 
 frejia_theme `[BOR:A][SEP:1,4BBF][SEP:2,5E18][SEP:3,0086][SEP:13,0086][SEP:11,7FFF][SEP:12,2E7E][SFX:10][PAL:4]`
+
+male_vampire_theme `[BOR:B][SEP:1,1C13][SEP:2,4E74][SEP:3,1084][SEP:13,1084][SEP:11,7FB7][SEP:12,59EB][SFX:1C][PAL:4]`
+
+female_vampire_theme `[BOR:B][SEP:1,3412][SEP:2,5274][SEP:3,1084][SEP:13,1084][SEP:11,777F][SEP:12,5676][SFX:1B][PAL:4]`
