@@ -29,7 +29,7 @@ widestring_04DB62 `[TPL:0][TPL:E]Tim: This moss must have[N]seen countless[N]pri
 widestring_04DB2D `[TPL:0][TPL:C]There's a lock here…[END]`
 ;Tim: There's a lock here…
 
-widestring_04D60A `[TPL:E]A soldier's deep voice[N]echoes from a hole opened[N]in the ceiling.[FIN][TPL:16][TPL:E]This is today's ration of[N]bread. I guess that even[N]moss drinks water.[END]`
+widestring_04D60A `[TPL:E]A soldier's deep voice[N]echoes from a hole opened[N]in the ceiling.[FIN][TPL:19][TPL:E]This is today's ration of[N]bread. I guess that even[N]moss drinks water.[END]`
 ;A soldier's deep voice echoes from a hole opened in the ceiling.
 ;This is today's ration of bread. I guess that even moss drinks water.
 
