@@ -117,7 +117,7 @@ widestring_08DF80 `[PRT:@widestring_08DE96]Thy power, Psycho Dash,[N]can destroy
 ;Thy power, Psycho Dash, can destroy such things as walls and obstacles.
 ;Try it on suspicious places thou have noticed which thou cannot destroy.
 
-widestring_08EB68 `[TPL:E][DLY:8]Became able to use the[N]Power of Darkness,[N][ADR:&table_08EB8F,AAC]![PAU:70][FIN]`
+widestring_08EB68 `[TPL:E][DLY:5]Became able to use the[N]Power of Darkness,[N][ADR:&table_08EB8F,AAC]![PAU:50][FIN]`
 widestring_08EB85 `[TPL:17][TPL:F][DLY:2][ADR:&table_08EBD3,AAC][END]`
 ;Became able to use the Power of Darkness, Psycho Dash!
 

@@ -324,7 +324,7 @@ widestring_05B6E8 `[TPL:20][TPL:E]Ho ho ho. You understand[N]this place well, do
 widestring_05B78C `[TPL:20][TPL:C]Ho ho ho…[END]`
 ;Ho ho ho…
 
-widestring_05B45E `[TPL:20][TPL:D]Man's voice: If you value[N]your life, go home…!![FIN][TPL:0][TPL:D]Tim: Isn't there a boy[N]in there named Eric?[FIN][TPL:20][TPL:F]Man's voice: I don't think[N]I've ever heard of a name[N]like that. Do you have any[N]evidence of such a thing?[FIN][TPL:3][TPL:F]Tim? That voice is Tim,[N]right…? Help m-[PAU:24][N][PAL:0]*Twhack*[FIN][TPL:20][TPL:F]Man's voice: Shh… Little[N]boy, can't you keep[N]quiet…?[FIN][TPL:0][TPL:F]Tim: (There's no way[N]around it; I'll break[N]down the door…)[END]`
+widestring_05B45E `[TPL:20][TPL:D]Man's voice: If you value[N]your life, go home…!![FIN][TPL:0][TPL:D]Tim: Isn't there a boy[N]in there named Eric?[FIN][TPL:20][TPL:F]Man's voice: I don't think[N]I've ever heard of a name[N]like that. Do you have any[N]evidence of such a thing?[FIN][TPL:3][TPL:F]Tim? That voice is Tim,[N]right…? Help m-[PAU:40][SFX:5][PAL:0] *Twhack*[FIN][TPL:20][TPL:F]Man's voice: Shh… Little[N]boy, can't you keep[N]quiet…?[FIN][TPL:0][TPL:F]Tim: (There's no way[N]around it; I'll break[N]down the door…)[END]`
 ;Tim: Isn't there a boy in there named Eric?
 ;Man's voice: I don't think I've ever heard of a name like that. Do you have any evidence that of that sort of thing?
 ;Tim? That voice is Tim, right…? Help m- *Twhack*

@@ -192,7 +192,7 @@ widestring_058B4F `[TPL:0][TPL:9]The queen's mummy is[N]sleeping quietly.[FIN][T
 ;The queen's mummy is sleeping quietly.
 ;A gold ring seemed to be placed on its long, slender finger…
 
-widestring_058E4A `[TPL:2][TPL:B]Lillie: That ring must be[N]from the golden treasures[N]that were said to have[N]been loaded on this boat.[FIN]I wonder if it wasn't[N]outshining the other[N]golden artifacts.[FIN][TPL:1][TPL:B]Karen: Pillagers must[N]have lost their lives[N]searching for treasures[N]like this ring, huh?[FIN]I'm really taking a liking[N]to the ring; it's cute.[N]I'm taking it.[FIN][TPL:2][TPL:B]Lillie: Do you have no[N]self-restraint!? After[N]all, it might be cursed..![END]`
+widestring_058E4A `[TPL:2][TPL:B]Lillie: That ring must be[N]from the golden treasures[N]that were said to have[N]been loaded on this boat.[FIN]I wonder if it wasn't[N]outshining the other[N]golden artifacts.[FIN][TPL:1][TPL:B]Karen: Pillagers must[N]have lost their lives[N]searching for treasures[N]like this ring, huh?[FIN]I'm really taking a liking[N]to the ring; it's cute.[N]I'm taking it.[FIN][TPL:2][TPL:B]Lillie: Do you have no[N]self-restraint!? After[N]all, it might be cursed…![END]`
 ;Lillie: That ring must be from the golden treasures that were said to have been loaded on this boat.
 ;I wonder if it wasn't outshining the other golden artifacts.
 ;Karen: The people who were trying to get rich by finding gold must have lost their lives searching for treasures like this ring, huh?

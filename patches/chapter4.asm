@@ -34,8 +34,8 @@ widestring_04C067 `[TPL:19][TPL:B]This is King Edward's[N]castle. If you're havi
 widestring_04C34B `[TPL:19][TPL:E]King Edward is having[N]breakfast. Please come[N]back shortly.[END]`
 ;King Edward is having breakfast. Please come back shortly.
 
-widestring_04C271 `[TPL:19][TPL:F]Shh… Don't raise your[N]voice. You're going to[N]give away that I'm[N]skipping work…[FIN]`
-widestring_04C2C2 `[TPL:19][TPL:F]Shh… Don't raise your[N]voice. You're going to[N]give away that I'm[N]skipping work…[END]`
+widestring_04C271 `[TPL:19][TPL:B]Shh… Don't raise your[N]voice. You're going to[N]give away that I'm[N]skipping work…[FIN]`
+widestring_04C2C2 `[TPL:19][TPL:B]Shh… Don't raise your[N]voice. You're going to[N]give away that I'm[N]skipping work…[END]`
 ;Shh… Don't raise your voice. You're going to give away that I'm skipping work…
 
 widestring_04C299 `I'll give you a Red Jewel[N]instead, so…[END]`

@@ -84,7 +84,7 @@ widestring_04FA65 `[TPL:1A][TPL:E]Moon race: Oh my, what a[N]splendid boy.[N]Mwe
 
 ;Got Incan Figure B.
 
-widestring_04F591 `[TPL:2][TPL:9]Lillie:[N][LU1:62]happened?[FIN]……… I can see[N]in [LU1:FE]face…..[FIN][LU1:D]be depressed,[N]try again.[END]`
+widestring_04F591 `[TPL:2][TPL:9]Lillie:[N][LU1:62]happened?[FIN]… I can see[N]in [LU1:FE]face…[FIN][LU1:D]be depressed,[N]try again.[END]`
 ;TODO!!!
 
 widestring_04F5EA `[TPL:2][TPL:A]Lillie: Ah, that figure[N]is…! Tim, you're[N]incredible, iiincredible![FIN]With this, that means[N]we've collected two[N]figures, right?[FIN][TPL:B]Do you plan to go to the[N]Incan ruins?[N][PAL:0] Yes[N] No`

@@ -43,12 +43,12 @@ widestring_04D679 `[TPL:0][TPL:E]Time flowed damningly[N]slow; one long, long da
 ;To a painful degree, I had come to understand that a prisoner has no emotional outlet…
 ;At that time, still trying to find a way to escape, I fell into a light sleep.
 
-widestring_04D732 `[PAU:78][TPL:0][TPL:F][DLY:0]From my flute, a voice I[N]had longed to hear echoed[N]through the silence that[N]had filled my ears…[FIN][CLD][TPL:4][TPL:C][DLY:0]Flute: Tim…[FIN][TPL:D]Flute: Tim,[N]this is your father.[END]`
+widestring_04D732 `[PAU:78][TPL:0][TPL:F][DLY:0]From my flute, a voice I[N]had longed to hear echoed[N]through the silence that[N]had filled my ears…[FIN][CLD][TPL:23][TPL:C][DLY:0]Flute: Tim…[FIN][TPL:D]Flute: Tim,[N]this is your father.[END]`
 ;From my flute, a voice I had longed to hear echoed through the silence that had filled my ears…
 ;Flute: Tim…
 ;Flute: Tim, this is your father.
 
-widestring_04D78A `[PAU:3C][TPL:0][TPL:C][DLY:0]Tim: Dad…?[FIN][TPL:4][TPL:D]Flute: I guess you're all[N]grown up. Although you[WAI][N]were a cute lad.[FIN]Are Grandma Laura's pies[N]delicious?[FIN][TPL:0][TPL:D]Tim: Dad![N]Where are you?![FIN][TPL:4][TPL:D]Flute: I can't tell you[N]that now…[FIN]I have something to ask of[N]you.[FIN][TPL:4][TPL:F]Will you listen to it[N]for me?[N][PAL:0] Yes, since it's you, Dad[N] No, you abandoned me!`
+widestring_04D78A `[PAU:3C][TPL:0][TPL:C][DLY:0]Tim: Dad…?[FIN][TPL:23][TPL:D]Flute: I guess you're all[N]grown up. Although you[WAI][N]were a cute lad.[FIN]Are Grandma Laura's pies[N]delicious?[FIN][TPL:0][TPL:D]Tim: Dad![N]Where are you?![FIN][TPL:23][TPL:D]Flute: I can't tell you[N]that now…[FIN]I have something to ask of[N]you.[FIN][TPL:23][TPL:F]Will you listen to it[N]for me?[N][PAL:0] Yes, since it's you, Dad[N] No, you abandoned me!`
 ;Tim: Dad…?
 ;Flute: I guess you're all grown up. Although you were a cute lad.
 ;Are Grandma Laura's pies delicious?
@@ -56,11 +56,11 @@ widestring_04D78A `[PAU:3C][TPL:0][TPL:C][DLY:0]Tim: Dad…?[FIN][TPL:4][TPL:D]F
 ;Flute: I can't tell you that now…
 ;I have something to ask of you. Will you listen to it for me? / Yes, since it's you, Dad / No, you abandoned me!
 
-widestring_04D87D `[TPL:4][TPL:F][DLY:0]Flute: I want you to come[N]to help me somehow…[FIN]I was also a prisoner here[N]earlier. Hey, please look[N]at the wall on the left[N]side.[END]`
+widestring_04D87D `[TPL:23][TPL:F][DLY:0]Flute: I want you to come[N]to help me somehow…[FIN]I was also a prisoner here[N]earlier. Hey, please look[N]at the wall on the left[N]side.[END]`
 ;Flute: I want you to come to help me somehow…
 ;I was also a prisoner here earlier. Hey, please look at the wall on the left side.
 
-widestring_04D8D2 `[TPL:0][TPL:C]Tim: …What's this?[FIN][TPL:4][TPL:E]Flute: Did you not hear[N]something from Grandpa[N]Bill?[FIN][TPL:0][TPL:E]Tim: My grandpa? He was[N]an architect, right..?[FIN][TPL:4][TPL:E]Flute: Your grandpa, he[N]knew the secret of those[N]stones.[FIN][TPL:0][TPL:E]Tim: The stones'[N]secret…?[FIN][TPL:4][TPL:F]Flute: The situations that[N]you're going to face from[N]now on are going on be[N]a little bit scary.[FIN][TPL:0][TPL:F]Tim: Scary situations…?[FIN][TPL:4][TPL:F]Flute: Pick up the stones[N]left by the enemies.[FIN]The power of the comet is[N]contained in them.[FIN]That power will definitely[N]be your ally…[FIN]Then, search for the[N]puppets called "Mystery[N]Dollsˮ which are hidden in[N]the ruins spread around[WAI][N]the world.[FIN]The demons will become[N]more powerful as the comet[N]becomes closer…[FIN]Tim… There's no time…[N]So hurry… First,[N]to the Inca's ruins…[FIN][CLD][TPL:F]Sadly, the flute's voice[N]gradually become quiet[N]until it could no longer[N]be heard.[END]`
+widestring_04D8D2 `[TPL:0][TPL:C]Tim: …What's this?[FIN][TPL:23][TPL:E]Flute: Did you not hear[N]something from Grandpa[N]Bill?[FIN][TPL:0][TPL:E]Tim: My grandpa? He was[N]an architect, right..?[FIN][TPL:23][TPL:E]Flute: Your grandpa, he[N]knew the secret of those[N]stones.[FIN][TPL:0][TPL:E]Tim: The stones'[N]secret…?[FIN][TPL:23][TPL:F]Flute: The situations that[N]you're going to face from[N]now on are going on be[N]a little bit scary.[FIN][TPL:0][TPL:F]Tim: Scary situations…?[FIN][TPL:23][TPL:F]Flute: Pick up the stones[N]left by the enemies.[FIN]The power of the comet is[N]contained in them.[FIN]That power will definitely[N]be your ally…[FIN]Then, search for the[N]puppets called "Mystery[N]Dollsˮ which are hidden in[N]the ruins spread around[WAI][N]the world.[FIN]The demons will become[N]more powerful as the comet[N]becomes closer…[FIN]Tim… There's no time…[N]So hurry… First,[N]to the Inca's ruins…[FIN][CLD][TPL:F]Sadly, the flute's voice[N]gradually become quiet[N]until it could no longer[N]be heard.[END]`
 ;Tim: …What's this?
 ;Flute: Did you not hear something from Grandpa Bill?
 ;Tim: My grandpa? He was an architect, right..?
@@ -142,7 +142,7 @@ widestring_04DD20 `[TPL:17][TPL:E]A glittering silver ball[N]of darkness that ap
 -----------------------------
 ?INCLUDE 'ec11_flower'
 -----------------------------
-widestring_09BC51 `[TPL:18][TPL:A]Blooming Flower:[N]Please play your flute…[N]Please play that melody…[END]`
+widestring_09BC51 `[TPL:18][TPL:E]Blooming Flower:[N]Please play your flute…[N]Please play that melody…[END]`
 ;Blooming flower in the corner: Please play your flute… Please play that melody…
 
 -----------------------------
