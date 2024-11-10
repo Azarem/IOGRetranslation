@@ -39,7 +39,7 @@ This is a proof-of-concept ROM that *should* be fully playable, but as of this p
 To use this patch, download FLIPS, Beat, or use the Online Rom Patcher:</br>
 FLIPS - https://www.romhacking.net/utilities/1040/</br>
 Beat - https://www.romhacking.net/utilities/893/</br>
-Online Patcher - https://romhackheaven.com/RomPatcher.js-2.9.1/
+Online Patcher - https://romhackheaven.com/RomPatcher.js-2.9.1/</br>
 Alternate 1 - https://www.romhacking.net/patch/</br>
 Alternate 2 - https://www.marcrobledo.com/RomPatcher.js/
 
