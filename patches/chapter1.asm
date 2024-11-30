@@ -47,7 +47,7 @@ charstring_0BD272 ~However, among[N]those, not one[N]had noticed the[N]tremendou
 ----------------------
 ?INCLUDE 'sc08_priest'
 ----------------------
-widestring_048AE9 `[TPL:0][TPL:8][DLY:0]My name is Tim.[FIN][TPL:B]Exactly one year has[N]passed since I went on an[N]expedition to the Tower[N]of Babel with my dad.[FIN]Of the members of his[N]team, only I was able[N]to survive and safely[N]return to this town…[FIN]I still can't believe[N]that dad died or anything[N]like that. I don't think[N]I'll ever believe it…[FIN]When I grow up, I'm going[N]to become an explorer like[N]him and travel around[N]around the world.[FIN]Because when that happens,[N]I believe that somewhere,[N]I'll find my dad…[END]`
+widestring_048AE9 `[TPL:0][TPL:8][DLY:0]My name is [NAM:0].[FIN][TPL:B]Exactly one year has[N]passed since I went on an[N]expedition to the Tower[N]of Babel with my dad.[FIN]Of the members of his[N]team, only I was able[N]to survive and safely[N]return to this town…[FIN]I still can't believe[N]that dad died or anything[N]like that. I don't think[N]I'll ever believe it…[FIN]When I grow up, I'm going[N]to become an explorer like[N]him and travel around[N]around the world.[FIN]Because when that happens,[N]I believe that somewhere,[N]I'll find my dad…[END]`
 ;My name is Tim.
 ;Exactly one year has passed since I went on an expedition to the Tower of Babel with my dad.
 ;Of the members of my dad's team, only I was able to survive and return to this town in safety…
@@ -60,24 +60,24 @@ widestring_048C01 `[TPL:16][TPL:D]Priest: Today's lesson[N]ends here.[FIN][TPL:F
 ;The four of you do your best so not to stay behind next time.
 ;Aside from that, things that look like monsters have recently been being seen outside of town. When you leave, please go with a parent.
 
-widestring_048C98 `[TPL:16][TPL:D]Ah, Tim.[N]Please pray with me.[FIN][TPL:E]O God…[N]May the world continue to[N]shine to eternity…[END]`
+widestring_048C98 `[TPL:16][TPL:D]Ah, [NAM:0].[N]Please pray with me.[FIN][TPL:E]O God…[N]May the world continue to[N]shine to eternity…[END]`
 ;Ah, Tim. Please pray with me.
 ;O God. May the world continue to shine to eternity…
 
 ----------------------
 ?INCLUDE 'sc08_erik'
 ----------------------
-widestring_048DD1 `[TPL:5][TPL:9]Morris: Alright, today[N]too, same place as always![END]`
+widestring_048DD1 `[TPL:5][TPL:9][NAM:5]: Alright, today[N]too, same place as always![END]`
 ;Morris: Alright, today too, same place as always!
 
-widestring_048E00 `[TPL:3][TPL:9]Eric: I'm gonna stop at[N]home first, then I'll go.[FIN][TPL:B]If I don't go home right[N]away, mommy's going to[N]find out that I had to[N]stay behind for make-up[WAI][N]lessons again… Heh heh…[END]`
+widestring_048E00 `[TPL:3][TPL:9][NAM:3]: I'm gonna stop at[N]home first, then I'll go.[FIN][TPL:B]If I don't go home right[N]away, mommy's going to[N]find out that I had to[N]stay behind for make-up[WAI][N]lessons again… Heh heh…[END]`
 ;Eric: I'm stop off at home, then I'll go.
 ;If I don't go home quickly, the fact that I had to stay behind for make-up lessons is going to leak to mommy… Heheh…
 
 ----------------------
 ?INCLUDE 'sc08_lance'
 ----------------------
-widestring_048D3A `[TPL:4][TPL:A]Rob: Alright, to tha[N]coastal cave today again,[N]huh…?[END]`
+widestring_048D3A `[TPL:4][TPL:A][NAM:4]: Alright, to tha[N]coastal cave today again,[N]huh…?[END]`
 ;Rob: Alright, to tha coastal cave today again, huh…?
 
 ;South Cape
@@ -105,7 +105,7 @@ widestring_08DE43 `[CLR][PAL:4]Then thou shouldst go.[END]`
 ------------------------
 ?INCLUDE 'sc01_roof_man'
 ------------------------
-widestring_0484B7 `[TPL:16][TPL:D]Hey, Tim… You shouldn't[N]be coming up here…[FIN][TPL:F]I know I can't stop you[N]from jumping down from[N]high places like these,[N]but I can't help worrying![END]`
+widestring_0484B7 `[TPL:16][TPL:D]Hey, [NAM:0]… You shouldn't[N]be coming up here…[FIN][TPL:F]I know I can't stop you[N]from jumping down from[N]high places like these,[N]but I can't help worrying![END]`
 ;Hey, Tim… You shouldn't be coming up here…
 ;I think you have a habit of jumping down from various places, though. I can't help but worry. Aww.
 
@@ -164,10 +164,10 @@ widestring_04871E `[TPL:16][TPL:E]I'm getting worried about[N]all of these stran
 ------------------------
 ?INCLUDE 'sc01_house_intro'
 ------------------------
-widestring_04BD1B `[TPL:0][TPL:10]This is my house.[N]Perhaps Grandmother Laura[N]is baking a pie; a nice[N]smell is in the air.[END]`
+widestring_04BD1B `[TPL:0][TPL:10]This is my house.[N]Perhaps Grandmother [NAM:6][N]is baking a pie; a nice[N]smell is in the air.[END]`
 ;This is my house. Perhaps Grandmother Laura is baking a pie; a nice smell is in the air.
 
-widestring_04BD5F `[TPL:0][TPL:E]Here is my close friend[N]Rob's house. He lives here[N]with his frail mother.[END]`
+widestring_04BD5F `[TPL:0][TPL:E]Here is my close friend[N][NAM:4]'s house. He lives here[N]with his frail mother.[END]`
 ;Here is my close friend Rob's house. He lives here with his frail mother.
 
 widestring_04BD9B `[TPL:0][TPL:C]My friend Eric lives here.[FIN][TPL:F]This house is the biggest[N]in South Cape. I feel[N]jealous of people born to[N]families with money…[END]`
@@ -222,7 +222,7 @@ widestring_0487F1 `[JMP:&widestring_0487BF+M]`
 ------------------------
 ?INCLUDE 'sc01_sympathetic_woman'
 ------------------------
-widestring_04899E `[TPL:16][TPL:D]I can't help but pity[N]Morris.[FIN][TPL:F]I can't stand it when[N]children have to see[N]their parents quarrel[N]every day, you know?[END]`
+widestring_04899E `[TPL:16][TPL:D]I can't help but pity[N][NAM:5].[FIN][TPL:F]I can't stand it when[N]children have to see[N]their parents quarrel[N]every day, you know?[END]`
 ;I can't help but pity Morris.
 ;I can't stand that even a child has to see that kind of marital quarrel every day, you know?
 
@@ -241,13 +241,13 @@ widestring_048436 `[TPL:16][TPL:D]I ended up fishing[N]out this weird pot.[END]`
 ------------------------
 ?INCLUDE 'sc01_jar_door'
 ------------------------
-widestring_048A48 `[TPL:0][TPL:E]Just as I opened the door[N]to Morris' house, a pot[N]came flying out…![END]`
+widestring_048A48 `[TPL:0][TPL:E]Just as I opened the door[N]to [NAM:5]'s house, a pot[N]came flying out…![END]`
 ;Just as I opened the door to Morris' house, a pot came flying out…!
 
 ------------------------
 ?INCLUDE 'sc03_lances_mother'
 ------------------------
-widestring_048F19 `[TPL:16][TPL:F]Rob's Mother: It's already[N]been one year since my[N]husband went missing with[N]your father at the Tower[WAI][N]of Babel, hasn't it?[FIN]Somehow it still feels[N]like yesterday…[END]`
+widestring_048F19 `[TPL:16][TPL:F][NAM:4]'s Mother: It's already[N]been one year since my[N]husband went missing with[N]your father at the Tower[WAI][N]of Babel, hasn't it?[FIN]Somehow it still feels[N]like yesterday…[END]`
 ;Rob's mother: It's already been one year since my husband went missing with your father at the Tower of Babel, hasn't it?
 ;Somehow it still feels like yesterday…
 
@@ -261,34 +261,34 @@ widestring_048F9D `[TPL:16][TPL:F]You know, a little[N]thing about this this[N]w
 ------------------------
 ?INCLUDE 'sc04_eriks_father'
 ------------------------
-widestring_048FEF `[TPL:16][TPL:F]Eric's Father: Everyone[N]seems to be jealous of[N]our big house…[FIN]But it's not a big deal.[N]It's just that our family[N]moved to this town a bit[N]before everyone.[END]`
+widestring_048FEF `[TPL:16][TPL:F][NAM:3]'s Father: Everyone[N]seems to be jealous of[N]our big house…[FIN]But it's not a big deal.[N]It's just that our family[N]moved to this town a bit[N]before everyone.[END]`
 ;Eric's father: Everyone seems to be jealous of our big house…
 ;But it's not a big deal. It's just that our family moved to this town a bit before everyone.
 
 ------------------------
 ?INCLUDE 'sc04_eriks_mother'
 ------------------------
-widestring_04907B `[TPL:16][TPL:F]Eric's Mother: Don't[N]worry, my back isn't on[N]fire, haha. This what you[N]call "moxibustionˮ.[FIN]With a big house, even[N]when you're just cleaning,[N]you can't help hurting[N]your shoulder…[END]`
+widestring_04907B `[TPL:16][TPL:F][NAM:3]'s Mother: Don't[N]worry, my back isn't on[N]fire, haha. This what you[N]call "moxibustionˮ.[FIN]With a big house, even[N]when you're just cleaning,[N]you can't help hurting[N]your shoulder…[END]`
 ;Eric's mother: Don't worry, my back isn't on fire, haha. This what you call "moxibustionˮ.
 ;With a big house, even when you're just cleaning, you can't help hurting your shoulder…
 
 ------------------------
 ?INCLUDE 'sc05_seths_father'
 ------------------------
-widestring_049193 `[TPL:16][TPL:B]Morris' Father: Hmph.[N]What's wrong with[N]drinking alcohol with[N]the money I earned!?[END]`
+widestring_049193 `[TPL:16][TPL:B][NAM:5]'s Father: Hmph.[N]What's wrong with[N]drinking alcohol with[N]the money I earned!?[END]`
 ;Morris's father: Hmph. What's wrong with drinking alcohol with the money I earned!?
 
 ------------------------
 ?INCLUDE 'sc05_seths_mother'
 ------------------------
-widestring_049110 `[TPL:16][TPL:9]Morris' Mother: It's not[N]a joke…! That man…![FIN][TPL:B]Because of my son, Morris,[N]I'm tolerating it. But if[N]not for that, I'd have[N]divorced him long ago…![END]`
+widestring_049110 `[TPL:16][TPL:9][NAM:5]'s Mother: It's not[N]a joke…! That man…![FIN][TPL:B]Because of my son, [NAM:5],[N]I'm tolerating it. But if[N]not for that, I'd have[N]divorced him long ago…![END]`
 ;Morris's mother: It's not a joke…! That man…!
 ;Because of my son, Morris, I'm tolerating it. But if not for that, I'd have divorced him long ago…!
 
 ------------------------
 ?INCLUDE 'sc06_lola'
 ------------------------
-widestring_0499F1 `[TPL:3][TPL:B]Laura: Oh, Tim.[N]Welcome home.[N]There's time until dinner,[N]so go play outside.[END]`
+widestring_0499F1 `[TPL:3][TPL:B][NAM:6]: Oh, [NAM:0].[N]Welcome home.[N]There's time until dinner,[N]so go play outside.[END]`
 ;Laura: Oh, Tim. Welcome home. There's time until dinner, so go play outside.
 
 ------------------------

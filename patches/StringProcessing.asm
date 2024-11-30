@@ -2,6 +2,7 @@
 
 ?INCLUDE 'chunk_03BAE1'
 ?INCLUDE 'templates_01CA95'
+?INCLUDE 'SwitchNameDictionary'
 
 !scene_next                     0642
 !scene_current                  0644
@@ -46,6 +47,7 @@ border_index_C #C920CA20C960CB20CB60C9A0CAA0C9E0
 border_index_D #C620C720C660C820C860C6A0C7A0C6E0
 
 ----------------------------------------------------
+;Command for setting current border id
 
 cmd_d9 {
     LDA $0000, Y
@@ -53,6 +55,14 @@ cmd_d9 {
     STA $border_state
     INY
     RTS
+}
+
+----------------------------------------------------
+;Command for using name dictionaries
+
+cmd_dA {
+  JSL name_dictionary_command
+  RTS
 }
 
 ----------------------------------------------------
@@ -84,6 +94,7 @@ wide_cmd_table_03E2C3 [
   &cmd_d7_03E769   ;17
   &cmd_d8_03E78F   ;18
   &cmd_d9
+  &cmd_dA
 ]
 
 
