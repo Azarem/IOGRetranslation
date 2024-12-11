@@ -934,7 +934,7 @@ event_def_0C835E [
     actor < #11, #11, #00, @head_00EA96 >   ;02
     actor < #06, #09, #00, @h_sc03_lances_mother >   ;03
     actor < #07, #18, #01, @h_hidden_red_jewel >   ;04
-  ], `Rob's House` >   ;00
+  ], `[NAM:4]'s House` >   ;00
 ]
 
 event_def_0C8390 [
@@ -945,7 +945,7 @@ event_def_0C8390 [
     actor < #05, #19, #00, @h_sc04_eriks_mother >   ;03
     actor < #19, #18, #00, @h_sc04_eriks_father >   ;04
     actor < #18, #09, #00, @h_sc04_poverty >   ;05
-  ], `Eric's House` >   ;00
+  ], `[NAM:3]'s House` >   ;00
 ]
 
 event_def_0C83C9 [
@@ -955,7 +955,7 @@ event_def_0C83C9 [
     actor < #11, #11, #00, @head_00EA96 >   ;02
     actor < #02, #0A, #00, @h_sc05_seths_mother >   ;03
     actor < #0D, #0A, #00, @h_sc05_seths_father >   ;04
-  ], `Morris' House` >   ;00
+  ], `[NAM:5]'s House` >   ;00
 ]
 
 event_def_0C83FB [
@@ -972,7 +972,7 @@ event_def_0C83FB [
     actor < #00, #01, #00, @h_sc06_monologue >   ;09
     actor < #03, #07, #00, @h_sc06_lily >   ;0A
     actor < #05, #1D, #00, @h_sc06_kara_return >   ;0B
-  ], `Tim's House` >   ;00
+  ], `[NAM:0]'s House` >   ;00
 ]
 
 event_def_0C845E [

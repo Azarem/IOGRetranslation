@@ -6,47 +6,67 @@
 ---------------------------------------------
 
 name_dictionary_en [
-    &name_will_en  ;00
-    &name_kara_en  ;01
-    &name_lily_en  ;02
-    &name_erik_en  ;03
-    &name_lance_en ;04
-    &name_seth_en  ;05
-    &name_lola_en  ;06
+    &name_will_en   ;00
+    &name_kara_en   ;01
+    &name_lily_en   ;02
+    &name_erik_en   ;03
+    &name_lance_en  ;04
+    &name_seth_en   ;05
+    &name_lola_en   ;06
     &name_hamlet_en ;07
+    &name_shira_en  ;08
+    &name_olman_en  ;09
+    &name_sam_en    ;0A
+    &name_remus_en  ;0B
+    &name_imas_en   ;0C
 ]
 
-name_will_en `Will`
-name_kara_en `Kara`
-name_lily_en `Lilly`
-name_erik_en `Erik`
-name_lance_en `Lance`
-name_seth_en `Seth`
-name_lola_en `Lola`
-name_hamlet_en `Hamlet`
+name_will_en    `Will`
+name_kara_en    `Kara`
+name_lily_en    `Lilly`
+name_erik_en    `Erik`
+name_lance_en   `Lance`
+name_seth_en    `Seth`
+name_lola_en    `Lola`
+name_hamlet_en  `Hamlet`
+name_shira_en   `Shira`
+name_olman_en   `Olman`
+name_sam_en     `Sam`
+name_remus_en   `Remus`
+name_imas_en    `Imas`
 
 
 ---------------------------------------------
 
 name_dictionary_jp [
-    &name_will_jp  ;00
-    &name_kara_jp  ;01
-    &name_lily_jp  ;02
-    &name_erik_jp  ;03
-    &name_lance_jp ;04
-    &name_seth_jp  ;05
-    &name_lola_jp  ;06
+    &name_will_jp   ;00
+    &name_kara_jp   ;01
+    &name_lily_jp   ;02
+    &name_erik_jp   ;03
+    &name_lance_jp  ;04
+    &name_seth_jp   ;05
+    &name_lola_jp   ;06
     &name_hamlet_jp ;07
+    &name_shira_jp  ;08
+    &name_olman_jp  ;09
+    &name_sam_jp    ;0A
+    &name_remus_jp  ;0B
+    &name_imas_jp   ;0C
 ]
 
-name_will_jp `Tim`
-name_kara_jp `Karen`
-name_lily_jp `Lillie`
-name_erik_jp `Eric`
-name_lance_jp `Rob`
-name_seth_jp `Morris`
-name_lola_jp `Laura`
-name_hamlet_jp `Peggy`
+name_will_jp    `Tim`
+name_kara_jp    `Karen`
+name_lily_jp    `Lillie`
+name_erik_jp    `Eric`
+name_lance_jp   `Rob`
+name_seth_jp    `Morris`
+name_lola_jp    `Laura`
+name_hamlet_jp  `Peggy`
+name_shira_jp   `Sheila`
+name_olman_jp   `Allman`
+name_sam_jp     `Sahmuus`
+name_remus_jp   `Rehmuus`
+name_imas_jp    `Ihmuus`
 
 
 
@@ -103,7 +123,7 @@ widestring_0BF625 `[DLG:D,C][SFX:0][ADR:&table_0BF667,D90]`
 
 widestring_0BF66B `Japanese`
 
-widestring_0BF672 `Original`
+widestring_0BF672 `English`
 
 
 ---------------------------------------------
