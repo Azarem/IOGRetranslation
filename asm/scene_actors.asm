@@ -338,16 +338,16 @@
 ?INCLUDE 'av6A_lily'
 ?INCLUDE 'av6A_erik'
 ?INCLUDE 'av6A_kara'
-?INCLUDE 'av6B_actor_06C6DA'
-?INCLUDE 'av6B_villagers'
-?INCLUDE 'av6B_actor_06CACA'
-?INCLUDE 'av6B_actor_06CBAF'
+?INCLUDE 'av6B_ocean_ache'
+?INCLUDE 'av6B_villagers1'
+?INCLUDE 'av6B_villagers2'
+?INCLUDE 'av6B_villagers3'
 ?INCLUDE 'av6B_musician'
 ?INCLUDE 'av6B_flame'
 ?INCLUDE 'av6B_door'
-?INCLUDE 'av6C_actor_06CA10'
-?INCLUDE 'av6C_actor_06CD47'
-?INCLUDE 'av6C_actor_06D04D'
+?INCLUDE 'av6C_villagers4'
+?INCLUDE 'av6C_villagers5'
+?INCLUDE 'av6C_only_sleeping'
 ?INCLUDE 'av6C_unknown'
 ?INCLUDE 'av6D_flame_left'
 ?INCLUDE 'av6D_flame_right'
@@ -411,7 +411,7 @@
 ?INCLUDE 'gw85_actor_07E901'
 ?INCLUDE 'gw88_actor_07BDE8'
 ?INCLUDE 'gw88_short_wall_spear'
-?INCLUDE 'actor_0BE029'
+?INCLUDE 's89_new_babel'
 ?INCLUDE 'gw8A_sand_fanger'
 ?INCLUDE 'gw8B_lance_lily'
 ?INCLUDE 'pr8C_prologue1'
@@ -431,7 +431,7 @@
 ?INCLUDE 'eu91_women1'
 ?INCLUDE 'eu91_men2'
 ?INCLUDE 'eu91_women2'
-?INCLUDE 'eu9D_shop_queue'
+?INCLUDE 'eu91_shop_queue'
 ?INCLUDE 'eu91_shop_door'
 ?INCLUDE 'eu92_erasquez'
 ?INCLUDE 'eu92_rofsky'
@@ -2780,16 +2780,16 @@ event_def_0CAE1B [
     actor < #05, #0A, #02, @h_player_character >   ;00
     actor < #00, #00, #00, @h_actor_00EAED >   ;01
     actor < #11, #11, #00, @head_00EA96 >   ;02
-    actor < #1B, #08, #01, @head_06C6DA >   ;03
-    actor < #0D, #0C, #01, @h_av6B_villagers >   ;04
-    actor < #33, #17, #43, @h_av6B_villagers >   ;05
+    actor < #1B, #08, #01, @h_av6B_ocean_ache >   ;03
+    actor < #0D, #0C, #01, @h_av6B_villagers1 >   ;04
+    actor < #33, #17, #43, @h_av6B_villagers1 >   ;05
     actor < #09, #1B, #01, @h_jeweler_gem >   ;06
-    actor < #39, #28, #07, @h_av6B_villagers >   ;07
-    actor < #12, #26, #A9, @h_av6B_villagers >   ;08
-    actor < #25, #0D, #01, @h_av6B_actor_06CACA >   ;09
-    actor < #32, #17, #61, @h_av6B_actor_06CBAF >   ;0A
-    actor < #38, #0D, #03, @h_av6B_actor_06CACA >   ;0B
-    actor < #33, #0D, #63, @h_av6B_actor_06CBAF >   ;0C
+    actor < #39, #28, #07, @h_av6B_villagers1 >   ;07
+    actor < #12, #26, #A9, @h_av6B_villagers1 >   ;08
+    actor < #25, #0D, #01, @h_av6B_villagers2 >   ;09
+    actor < #32, #17, #61, @h_av6B_villagers3 >   ;0A
+    actor < #38, #0D, #03, @h_av6B_villagers2 >   ;0B
+    actor < #33, #0D, #63, @h_av6B_villagers3 >   ;0C
     actor < #03, #1D, #00, @h_av6B_musician >   ;0D
     actor < #03, #08, #00, @h_av6B_flame >   ;0E
     actor < #06, #08, #00, @h_av6B_flame >   ;0F
@@ -2805,14 +2805,14 @@ event_def_0CAEB6 [
     actor < #05, #0A, #02, @h_player_character >   ;00
     actor < #00, #00, #00, @h_actor_00EAED >   ;01
     actor < #11, #11, #00, @head_00EA96 >   ;02
-    actor < #27, #0A, #01, @h_av6C_actor_06CA10 >   ;03
-    actor < #2C, #07, #03, @h_av6C_actor_06CA10 >   ;04
-    actor < #21, #0C, #6B, @h_av6B_villagers >   ;05
-    actor < #28, #0A, #01, @h_av6C_actor_06CD47 >   ;06
-    actor < #2D, #07, #03, @h_av6C_actor_06CD47 >   ;07
-    actor < #32, #0A, #05, @h_av6C_actor_06CD47 >   ;08
-    actor < #06, #09, #21, @h_av6B_actor_06CBAF >   ;09
-    actor < #17, #19, #00, @h_av6C_actor_06D04D >   ;0A
+    actor < #27, #0A, #01, @h_av6C_villagers4 >   ;03
+    actor < #2C, #07, #03, @h_av6C_villagers4 >   ;04
+    actor < #21, #0C, #6B, @h_av6B_villagers1 >   ;05
+    actor < #28, #0A, #01, @h_av6C_villagers5 >   ;06
+    actor < #2D, #07, #03, @h_av6C_villagers5 >   ;07
+    actor < #32, #0A, #05, @h_av6C_villagers5 >   ;08
+    actor < #06, #09, #21, @h_av6B_villagers3 >   ;09
+    actor < #17, #19, #00, @h_av6C_only_sleeping >   ;0A
     actor < #37, #08, #00, @h_av6C_unknown1 >   ;0B
     actor < #3A, #09, #00, @h_av6C_unknown1 >   ;0C
     actor < #3D, #0A, #00, @h_av6C_unknown1 >   ;0D
@@ -3389,7 +3389,7 @@ event_def_0CBC3B [
 event_def_0CBD0A [
   event_def < [
     actor < #00, #00, #00, @h_actor_00EAED >   ;00
-    actor < #00, #01, #00, @h_actor_0BE029 >   ;01
+    actor < #00, #01, #00, @h_s89_new_babel >   ;01
   ], `` >   ;00
 ]
 
@@ -3495,12 +3495,12 @@ event_def_0CBDC4 [
     actor < #39, #39, #01, @h_eu91_women2 >   ;28
     actor < #19, #31, #03, @h_eu91_women2 >   ;29
     actor < #16, #1B, #05, @h_eu91_women2 >   ;2A
-    actor < #22, #41, #01, @h_eu9D_shop_queue >   ;2B
-    actor < #22, #42, #A3, @h_eu9D_shop_queue >   ;2C
-    actor < #23, #42, #05, @h_eu9D_shop_queue >   ;2D
-    actor < #24, #42, #A7, @h_eu9D_shop_queue >   ;2E
-    actor < #25, #42, #A9, @h_eu9D_shop_queue >   ;2F
-    actor < #2C, #42, #0B, @h_eu9D_shop_queue >   ;30
+    actor < #22, #41, #01, @h_eu91_shop_queue >   ;2B
+    actor < #22, #42, #A3, @h_eu91_shop_queue >   ;2C
+    actor < #23, #42, #05, @h_eu91_shop_queue >   ;2D
+    actor < #24, #42, #A7, @h_eu91_shop_queue >   ;2E
+    actor < #25, #42, #A9, @h_eu91_shop_queue >   ;2F
+    actor < #2C, #42, #0B, @h_eu91_shop_queue >   ;30
     actor < #22, #40, #01, @h_eu91_shop_door >   ;31
     actor < #06, #40, #00, @h_town_door >   ;32
     actor < #0D, #40, #00, @h_town_door >   ;33

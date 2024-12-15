@@ -289,6 +289,9 @@ widestring_07A7E2 `[TPL:A][TPL:1][LU1:25][N][LU1:62][LU1:9D]to Lance [N]and Lill
 
 ;Rob's letter / A letter from Rob addressed to Tim.
 
+-------------------------------------
+?INCLUDE 'chunk_038000'
+-------------------------------------
 widestring_039514 `[DEF]He [LU2:8B]Lance's letter. [FIN][TPL:4]Lance: [N]I'm [LU1:93]to the [N][LU1:16]Wall of China. [FIN]I intended to keep it [N]secret, but I told Will [N][LU1:A3]in case... [FIN]I'm putting [LU1:D6]letter[N]in his luggage, but he[N][LU2:8F][LU1:FA]notice.[FIN]The [LU2:AE]say[N][LU1:DB][LU1:D0]kind of[N]cure for my father[N]at the [LU1:16]Wall.[FIN][LU1:1D]a [LU1:A6]journey, but[N]I'd go anywhere if[N]it [LU1:F3]help him.[N][LU1:D]worry [LU1:6B]me...[FIN]P.S.: [N]By the way, [LU1:2C][N]has [LU1:AE]me.[PAL:0][END]`
 ;Opened Rob's letter.
 ;Rob: I'm going ta tha Great Wall o' China fer a little bit.

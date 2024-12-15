@@ -334,14 +334,14 @@ widestring_07C56C `[DEF]This is the shrine. The [N][LU2:8D]of the [N][LU1:7C]and
 ;This is the chapel. The presidents of the company are devoutly faithful people, so they often come here.
 
 -------------------------------------
-?INCLUDE 'eu9B_altar'
+?INCLUDE 'eu9D_altar'
 -------------------------------------
 widestring_07E5BE `[DEF][TPL:0]Will: What? [N]The [LU2:C5]is blowing [LU1:8E][N][LU2:51]the statue... [FIN]Look?[N] Yes[N] No`
 ;Tim: Oh? It seems that wind is blowing in from behind the Madonna...
 ;Try examining it? / Yes / No
 
 -------------------------------------
-?INCLUDE 'eu9B_slaves'
+?INCLUDE 'eu9D_slaves'
 -------------------------------------
 widestring_07D207 `[DEF]I speak [LU2:89]a little[N]of the [LU2:7B]We[N][LU1:80][LU1:8E]far away...[END]`
 ;I understand a little of your language. We were brought here from a distant place...

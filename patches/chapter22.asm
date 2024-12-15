@@ -91,7 +91,7 @@ widestring_06C0D2 `[TPL:A][TPL:6][LU1:36]I [LU1:DA]the Angels [N]are descendants
 ;Neil: I had been thinking, mustn't the fallen angel clan be the descendants of the Mu people?
 
 -------------------------------------
-?INCLUDE 'av6B_villagers'
+?INCLUDE 'av6B_villagers1'
 -------------------------------------
 widestring_06C799 `[TPL:B]This is the Angel [N][LU1:60]If our bodies [N]are [LU1:8D]to the sun [N]for long, we'll perish. [END]`
 widestring_06C7EF `[TPL:B]This is the Angel [N][LU1:60]If our bodies [N]are [LU1:8D]to the sun [N]for long, we'll perish. [END]`
@@ -100,13 +100,13 @@ widestring_06C9BF `[TPL:B]This is the Angel [N][LU1:60]If our bodies [N]are [LU1
 ;This is the fallen angels' village. Our bodies are weak; we'd die even if we were in the sunlight for too long.
 
 -------------------------------------
-?INCLUDE 'av6B_actor_06CBAF'
+?INCLUDE 'av6B_villagers3'
 -------------------------------------
 widestring_06CBEE `[TPL:A][LU1:1D][LU1:70][LU1:D4][LU1:D7][N]we are the form [LU1:A1][N]which humans evolve. [END]`
 ;There are stories that say we evolved from humans.
 
 -------------------------------------
-?INCLUDE 'av6B_actor_06CACA'
+?INCLUDE 'av6B_villagers2'
 -------------------------------------
 widestring_06CB5E `[TPL:A][LU1:39]a [LU1:9A][LU2:C4] [N]named [LU1:26][LU1:80][LU2:74][FIN]Ishtar praised her[N]beauty. Then she went[N]to his studio.[END]`
 ;A short time ago, a human girl came here; her name was Karen or something like that.
@@ -120,13 +120,13 @@ widestring_06CC22 `[TPL:B][LU1:1F]show you the way to[N]the studio. Remember it.
 ;Ishtar's studio is beyond there. Be careful, alright?
 
 -------------------------------------
-?INCLUDE 'av6C_actor_06CA10'
+?INCLUDE 'av6C_villagers4'
 -------------------------------------
 widestring_06CA5C `[TPL:A][LU1:3D][LU2:73]love[N]to dance.[END]`
 ;This is something called "dance"; a way that humans amuse themselves.
 
 -------------------------------------
-?INCLUDE 'av6C_actor_06CD47'
+?INCLUDE 'av6C_villagers5'
 -------------------------------------
 widestring_06CD9A `[TPL:A]I dance to remember [N][LU1:F7]it feels [LU1:A5]to be [N]human. But... [END]`
 ;We want to get closer to human emotions, so we dance like this every day. Even so, nothing changes...
@@ -143,7 +143,7 @@ widestring_06CE56 `[TPL:A]I [LU2:BB]to dance [LU1:F0]the [N]person in [LU1:D7]pi
 ;The person who was my dance partner is now inside of that painting.
 
 -------------------------------------
-?INCLUDE 'av6B_actor_06C6DA'
+?INCLUDE 'av6B_ocean_ache'
 -------------------------------------
 widestring_06C714 `[TPL:9]I [LU1:82][LU1:A4][LU1:F6]we[N][LU1:CB][LU1:B1]here.[FIN]But [LU1:F6]I [LU1:A9]at the [N]ocean, my heart aches. [END]`
 ;We don't know from what era we started living here.
@@ -181,7 +181,7 @@ widestring_06C981 `[TPL:A]I am a sculptor. I plan[N]to [LU2:84]1000 [LU1:D2][N]i
 ;I'm a sculptor. Before I die, I intend to make a thousand of these statues...
 
 -------------------------------------
-?INCLUDE 'av6C_actor_06D04D'
+?INCLUDE 'av6C_only_sleeping'
 -------------------------------------
 widestring_06D063 `[TPL:A][TPL:0]Will: She appears to be [N]sleeping. [LU1:1D][LU1:A5]the [N]spirit's drawn out...[PAL:0][END]`
 ;Tim: They have no consciousness, as if their soul had been removed...

@@ -131,7 +131,7 @@ widestring_07DEAD `[TPL:A][TPL:6][LU1:36][N]Take care, everyone.[PAL:0][END]`
 ;TODO!!
 
 -------------------------------------
-?INCLUDE 'eu96_eric'
+?INCLUDE 'eu96_erik'
 -------------------------------------
 widestring_07DB09 `[TPL:A][TPL:3]Erik: I [LU1:A3][N][LU1:82][LU1:E9]women.[PAL:0][END]`
 ;Eric: I don't understand girls at all.
