@@ -3,197 +3,136 @@
 -------------------------------------
 ?INCLUDE 'av69_lance'
 -------------------------------------
-widestring_06BAFA `[TPL:B][TPL:6][LU1:36][LU2:3F][LU2:73][N]at last. [LU2:41]walked[N][LU1:DC]the tunnel for[N][LU2:47]a month... [FIN][TPL:4]Lance: [N]Look! A sign![PAL:0][END]`
-;Neil: I guess we've finally arrived. I think we were walking in the undersea tunnel for about a month in the end...
-;Rob: Huh? There's a bulletin board.
+widestring_06BAFA `[TPL:6][TPL:9]Neil: I guess we've[N]finally arrived.[FIN][TPL:A]I think we were walking in[N]the undersea tunnel for[N]about a month in the end…[FIN][TPL:4][TPL:A][NAM:4]: Huh? There's a[N]bulletin board.[END]`
 
-widestring_06BB50 `[TPL:A][TPL:4]Lance: What? [N]Angel Tribe? Travellers, [N][LU2:8E]use [LU1:D6]room?[FIN][TPL:6][LU1:36]Angels [LU1:B1][N]in a [LU2:90][LU1:A5]this? [FIN][TPL:6][LU1:36]They say angels [N][LU1:82][LU1:A5]meeting [N][LU1:F0]people. [FIN][LU2:F]we can [LU2:9C]in[N][LU1:D7]room...[PAL:0][END]`
-;Rob: Let's see here. Fallen angel clan? Travelers, please use this room?
-;Neil: So the people living in this place are called the fallen angel clan..
-;Neil: I guess they put up that sign because they don't want to meet people themselves.
-;Before anything else, shall we try to get some rest in that room…?
+widestring_06BB50 `[TPL:4][TPL:B][NAM:4]: Let's see here.[N]Fallen angel clan?[N]Travelers, please use[N]this room?[FIN][TPL:6][TPL:B]Neil: So the people living[N]in this place are called[N]the fallen angel clan…[FIN]Neil: I guess they put up[N]that sign because they[N]don't want to meet people[N]themselves.[FIN]Before anything else,[N]shall we try to get some[N]rest in that room…?[END]`
 
 -------------------------------------
 ?INCLUDE 'av69_lily'
 -------------------------------------
-widestring_06C224 `[TPL:A][TPL:2][LU1:2A][N]Will, let's go. [END]`
-;Lillie: Tim. Let's go…
+widestring_06C224 `[TPL:2][TPL:A][NAM:2]: [NAM:0]. Let's go…[END]`
 
 -------------------------------------
 ?INCLUDE 'av69_kara'
 -------------------------------------
-widestring_06C3B1 `[TPL:A][TPL:1][LU1:25]What! [N]Will! [LU1:9][LU1:F0]me! [FIN][LU1:62]are you [N]grinning about? [FIN][LU1:1F]explore [LU1:D6][LU2:90][N]myself. [LU1:D][N]try to follow me![PAL:0][END]`
-;Karen: What is this "Tim, let's go"...!
-;You too, Tim! You're flirting.
-;I'm going sightseeing alone! Don't come with me...!!
+widestring_06C3B1 `[TPL:1][TPL:9][NAM:1]: What is this[N]"[NAM:0], let's goˮ…![FIN]You too, [NAM:0]![N]You're flirting.[FIN][TPL:A]I'm going sightseeing[N]alone! Don't come with[N]me…!![END]`
 
-widestring_06C23C `[TPL:A][TPL:2][LU1:2A]Why are[N]you so grouchy...[FIN][TPL:4]Lance: [N][LU1:30]she's [LU1:A3]tired. [N]Let her be for now.[PAL:0][END]`
-;Lillie: What is she so touchy about...
-;Rob: Geez, always tha fickle little lady. Leave her alone, I guess.
+widestring_06C23C `[TPL:2][TPL:9][NAM:2]: What is she so[N]touchy about…[FIN][TPL:4][TPL:A][NAM:4]: Geez, always tha[N]fickle little lady. Leave[N]her alone, I guess.[END]`
 
 -------------------------------------
 ?INCLUDE 'av69_signs'
 -------------------------------------
-widestring_06BA36 `[DEF]       Travellers[N][LU1:3B]use [LU1:D6]room.[N][N]       Angel Tribe[END]`
-;Travelers, please use this room. / Fallen angel clan
+widestring_06BA36 `[TPL:1D][BOR:1][TPL:E]        Travelers:[N]   Please use this room[N]  ♥ Fallen Angel Clan ♥[END]`
 
-widestring_06BA6B `[DEF][N] Angel Village Entrance[END]`
-;Entrance to fallen angel's town
+widestring_06BA6B `[TPL:1D][BOR:1][TPL:D]Entrance to fallen[N]angel's town[END]`
 
 -------------------------------------
 ?INCLUDE 'av6A_lance'
 -------------------------------------
-widestring_06BC5C `[TPL:A][TPL:4]Lance: [N]Will. I [LU1:F1]to [LU2:AC]to [N]you [LU1:6B]something. [FIN][TPL:4][LU1:1D]hard to [LU2:AC]about,[N]but I [LU2:9E]to [LU1:98]fallen [N]in love [LU1:F0]Lilly...[FIN]I dream [LU2:89]of her...[N]I [LU1:F1]her to[N]notice me.[FIN][LU1:1D]not [LU1:A5]me, is it?[N][PAL:0] Right[N] Not true`
-;Rob: Tim. Tha thing is, I've got somethin' to discuss with ya...
-;I hate to say it, but it seems like I've developed feelin's for Lillie...
-;Even when I dream, I only dream o' her... Before I knew it, she had caught my eye.
-;Ya think that's not like me, right? / Yeah... / That isn't true
+widestring_06BC5C `[TPL:4][TPL:A][NAM:4]: [NAM:0]. Tha thing is,[N]I've got somethin' to[N]discuss with ya…[FIN]I hate to say it, but it[N]seems like I've developed[N]feelin's for [NAM:2]…[FIN][TPL:B]Even when I dream, I only[N]dream o' her… Before I[N]knew it, she had caught[N]my eye.[FIN]Ya think that's not like[N]me, right?[N][PAL:0] Yeah…[N] That isn't true`
 
-widestring_06BD1A `[CLR][TPL:0]Will: I [LU1:83][LU1:DA] [N]I'd [LU2:5D][LU1:9B]you [N]say a [LU1:E3][LU1:A5]that. [FIN]`
-;Tim: That's right. I've never thought that you'd be saying things like that.
+widestring_06BD1A `[CLR][TPL:0][TPL:B][NAM:0]: That's right. I've[N]never thought that you'd[N]be saying things like[N]that.[FIN]`
 
-widestring_06BD4A `[CLR][TPL:0]Will: But you've spent [N]a lot of [LU1:DF]together. [N]It [LU1:CC][LU2:89]natural. [FIN][CLR][TPL:4]Lance: [LU2:38]it [LU1:EF]be [N][LU2:18]15th birthday. [FIN]I [LU1:F1]to [LU1:97]her a[N]present and [LU2:AD]her[N]how I feel.[FIN][LU1:62]would[N]you [LU1:97]her?[FIN] A [LU2:4F]of flowers[N] A [LU2:92]necklace[N] A sweet kiss`
-;Tim: But by you've spent a lot of time together by now. It wouldn't be unnatural even to be in love with her.
-;Rob: Speakin' o' that. It seems like Lillie's fifteenth birthday is comin' up soon.
-;I want to tell her my feelin's with a present then, but what do ya think I should go with?
-;A pretty bouquet / A wonderful necklace / A tender kiss
+widestring_06BD4A `[CLR][TPL:0][TPL:B][NAM:0]: But by you've spent[N]a lot of time together by[N]now.[FIN]It wouldn't be unnatural[N]even to be in love with[N]her.[FIN][TPL:4][TPL:B][NAM:4]: Speakin' o' that.[N]It seems like [NAM:2]'s[N]fifteenth birthday is[N]comin' up soon.[FIN]I want to tell her my[N]feelin's with a present[N]then, but what do ya think[N]I should go with?[FIN][PAL:0] A pretty bouquet[N] A wonderful necklace[N] A tender kiss`
 
-widestring_06BE1F `[CLR][TPL:0]Will: [N]Any [LU2:C4][LU1:F3][LU1:A5]a [N][LU2:4F]of flowers. [FIN][TPL:4]Lance: I know. [LU1:1F]send [N]a [LU2:4F]of rose buds [N]to show my love. [FIN][JMP:&widestring_06BF7C]`
-;Tim: I don't think there's a girl out there who wouldn't be happy to get a bouquet of flowers.
-;Rob: I guess that's expected. Well, I think I can try to communicate a love confession through tha language of flowers; rosebuds.
+widestring_06BE1F `[CLR][TPL:0][TPL:B][NAM:0]: I don't think[N]there's a girl out there[N]who wouldn't be happy to[N]get a bouquet of flowers.[FIN][TPL:4][TPL:B][NAM:4]: I guess that's[N]expected.[FIN]Well, I think I can try[N]to communicate a love[N]confession through tha'[N]language of flowers;[WAI][N]rosebuds.[FIN][JMP:&widestring_06BF7C]`
 
-widestring_06BE85 `[CLR][TPL:0]Will: Of course, [N][LU1:C8]she'd wear [N][LU1:F3]be nice. [FIN][LU1:61]she sees it, she'll [N][LU1:DA]of [LU2:C7][FIN][TPL:4]Lance: Of course. [N][LU1:1F][LU1:90]stones and [N][LU2:84]a necklace. [FIN][JMP:&widestring_06BF7C]`
+widestring_06BE85 `[CLR][TPL:0][NAM:0]: Of course, [N][LU1:C8]she'd wear [N][LU1:F3]be nice. [FIN][LU1:61]she sees it, she'll [N][LU1:DA]of [LU2:C7][FIN][TPL:4]Lance: Of course. [N][LU1:1F][LU1:90]stones and [N][LU2:84]a necklace. [FIN][JMP:&widestring_06BF7C]`
 ;TODO!!
 
-widestring_06BF0A `[CLR][TPL:0]Will: [N]That's the [LU2:89][LU1:E3][N]she'd like, right? [FIN][TPL:4]Lance: It might be too [N]sudden, but if you [LU1:DA][N][LU1:9F]OK, [LU1:1F]try it. [FIN][JMP:&widestring_06BF7C]`
+widestring_06BF0A `[CLR][TPL:0][NAM:0]: [N]That's the [LU2:89][LU1:E3][N]she'd like, right? [FIN][TPL:4]Lance: It might be too [N]sudden, but if you [LU1:DA][N][LU1:9F]OK, [LU1:1F]try it. [FIN][JMP:&widestring_06BF7C]`
 ;TODO!!
 
-widestring_06BF7C `[TPL:A][TPL:4]Lance: Thanks for [N]the advice. [FIN][LU1:1F][LU1:DA][LU1:6B]it.[N][LU1:1D][LU1:94]to[N][LU1:98]friends.[PAL:0][END]`
-;Rob: Thanks fer lending me yer advice.
-;I'll try to think of it in my own way. Good friends are nice to have, ain't they.
+widestring_06BF7C `[TPL:4][TPL:B][NAM:4]: Thanks fer lending[N]me yer advice.[FIN]I'll try to think of it[N]in my own way. Good[N]friends are nice to have,[N]ain't they.[END]`
+
+code_06BC19 {
+    COP [D0] ( #74, #01, &code_06BC57 )
+    COP [CC] ( #74 )
+    COP [BF] ( &widestring_06BC5C )
+    COP [BE] ( #02, #02, &code_list_06BC2C )
+}
 
 -------------------------------------
 ?INCLUDE 'av6A_lily'
 -------------------------------------
-widestring_06C2BD `[TPL:A][TPL:2][LU1:2A]Why do angels [N][LU1:AF]in [LU1:CE]a [LU2:5C][N]place? Feels so gloomy.[PAL:0][END]`
-;Lillie: The people that call themselves the fallen angel clan live in a gloomy place like this, huh. It's seems depressing…
+widestring_06C2BD `[TPL:2][TPL:B][NAM:2]: The people that[N]call themselves the fallen[N]angel clan live in a[N]gloomy place like this.[FIN]It's seems depressing…[END]`
 
 -------------------------------------
 ?INCLUDE 'av6A_erik'
 -------------------------------------
-widestring_06C52F `[TPL:A][TPL:3]Erik: The sun is [LU2:95][N]bright. I [LU1:BB][N]noticed [LU1:D7]before.[PAL:0][END]`
-;Eric: Sunlight is iiincredibly bright. Even though I've always had it around, I hadn't noticed.
+widestring_06C52F `[TPL:3][TPL:9][NAM:3]: Sunlight is[N]iiincredibly bright.[FIN][TPL:A]Even though I've always[N]had it around, I hadn't[N]noticed.[END]`
 
 -------------------------------------
 ?INCLUDE 'av6A_neil'
 -------------------------------------
-widestring_06C0D2 `[TPL:A][TPL:6][LU1:36]I [LU1:DA]the Angels [N]are descendants of the [N]Mu people.[PAL:0][END]`
-;Neil: I had been thinking, mustn't the fallen angel clan be the descendants of the Mu people?
+widestring_06C0D2 `[TPL:6][TPL:B]Neil: I had been thinking,[N]mustn't the fallen angel[N]clan be the descendants[N]of the Mu people?[END]`
 
 -------------------------------------
 ?INCLUDE 'av6B_villagers1'
 -------------------------------------
-widestring_06C799 `[TPL:B]This is the Angel [N][LU1:60]If our bodies [N]are [LU1:8D]to the sun [N]for long, we'll perish. [END]`
-widestring_06C7EF `[TPL:B]This is the Angel [N][LU1:60]If our bodies [N]are [LU1:8D]to the sun [N]for long, we'll perish. [END]`
-widestring_06C845 `[TPL:B]This is the Angel [N][LU1:60]If our bodies [N]are [LU1:8D]to the sun [N]for long, we'll perish. [END]`
-widestring_06C9BF `[TPL:B]This is the Angel [N][LU1:60]If our bodies [N]are [LU1:8D]to the sun [N]for long, we'll perish. [END]`
-;This is the fallen angels' village. Our bodies are weak; we'd die even if we were in the sunlight for too long.
+widestring_06C799 `[TPL:1D][TPL:9]This is the fallen angels'[N]village.[FIN][TPL:A]Our bodies are weak; we'd[N]die even if we were in the[N]sunlight for too long.[END]`
+widestring_06C7EF `[TPL:1D][TPL:9]This is the fallen angels'[N]village.[FIN][TPL:A]Our bodies are weak; we'd[N]die even if we were in the[N]sunlight for too long.[END]`
+widestring_06C845 `[TPL:1D][TPL:9]This is the fallen angels'[N]village.[FIN][TPL:A]Our bodies are weak; we'd[N]die even if we were in the[N]sunlight for too long.[END]`
+widestring_06C9BF `[TPL:1D][TPL:9]This is the fallen angels'[N]village.[FIN][TPL:A]Our bodies are weak; we'd[N]die even if we were in the[N]sunlight for too long.[END]`
 
 -------------------------------------
 ?INCLUDE 'av6B_villagers3'
 -------------------------------------
-widestring_06CBEE `[TPL:A][LU1:1D][LU1:70][LU1:D4][LU1:D7][N]we are the form [LU1:A1][N]which humans evolve. [END]`
-;There are stories that say we evolved from humans.
+widestring_06CBEE `[TPL:1D][TPL:9]There are stories that say[N]we evolved from humans.[END]`
 
 -------------------------------------
 ?INCLUDE 'av6B_villagers2'
 -------------------------------------
-widestring_06CB5E `[TPL:A][LU1:39]a [LU1:9A][LU2:C4] [N]named [LU1:26][LU1:80][LU2:74][FIN]Ishtar praised her[N]beauty. Then she went[N]to his studio.[END]`
-;A short time ago, a human girl came here; her name was Karen or something like that.
-;It seems that she went to the studio of the artist, Ishtar. His paintings are praised for their beauty, you know?
+widestring_06CB5E `[TPL:1D][TPL:B]A short time ago, a human[N]girl came here.[FIN]Her name was Karen or[N]something like that.[FIN][TPL:A]It seems that she went to[N]the studio of the artist,[N]Ishtar.[FIN]His paintings are praised[N]for their beauty, you[N]know?[END]`
 
-widestring_06CC22 `[TPL:B][LU1:1F]show you the way to[N]the studio. Remember it.[FIN]Go [LU1:F0]the wind. [FIN]If you [LU1:A9]at which [N]way the torch flame [N]bends,[N]you'll understand.[FIN]Down the [LU2:5C]street,[N][LU1:DC][LU1:F4]the wind[N]blows, to [LU1:F4]you can[N][LU1:9B]the waterfall.[FIN]Then [LU1:A9]for the place[N][LU1:F4]the sound of the[N]waterfall is loud.[FIN][LU2:17]studio is[N]in front. Be careful.[END]`
-;I'll teach you the route to the studio, so remember it, alright?
-;First of all, follow the wind. You'll understand if you look at which direction the flames of the torches are bending in.
-;You can hear the sound of a waterfall where the strong wind storms through the dark passage.
-;Subsequently, please examine the area where the waterfall's sound is the loudest.
-;Ishtar's studio is beyond there. Be careful, alright?
+widestring_06CC22 `[TPL:1D][TPL:A]I'll teach you the route[N]to the studio, so remember[N]it, alright?[FIN]First of all,[N]follow the wind.[FIN][TPL:B]You'll understand if you[N]look at which direction[N]the flames of the torches[N]are bending in.[FIN]You can hear the sound of[N]a waterfall where the[N]strong wind storms through[N]the dark passage.[FIN]Subsequently, please[N]examine the area where[N]the waterfall's sound is[N]the loudest.[FIN]Ishtar's studio is beyond[N]there. Be careful,[N]alright?[END]`
 
 -------------------------------------
 ?INCLUDE 'av6C_villagers4'
 -------------------------------------
-widestring_06CA5C `[TPL:A][LU1:3D][LU2:73]love[N]to dance.[END]`
-;This is something called "dance"; a way that humans amuse themselves.
+widestring_06CA5C `[TPL:1D][TPL:A]This is something called[N]"danceˮ; a way that humans[N]amuse themselves.[END]`
 
 -------------------------------------
 ?INCLUDE 'av6C_villagers5'
 -------------------------------------
-widestring_06CD9A `[TPL:A]I dance to remember [N][LU1:F7]it feels [LU1:A5]to be [N]human. But... [END]`
-;We want to get closer to human emotions, so we dance like this every day. Even so, nothing changes...
+widestring_06CD9A `[TPL:1D][TPL:A]We want to get closer to[N]human emotions, so we[N]dance like this every day.[FIN]Even so, nothing changes…[END]`
 
-widestring_06CA71 `[TPL:A]The picture on [LU1:D7]wall[N]was painted by Ishtar.[FIN]But the model in the [N]painting was lost. [END]`
-;The picture attached to that wall was painted by an artist called Ishtar.
-;However, the models for his pictures go missing afterward...
+widestring_06CA71 `[TPL:1D][TPL:A]The picture attached to[N]that wall was painted by[N]an artist called Ishtar.[FIN]However, the models for[N]his pictures go missing[N]afterward…[END]`
 
-widestring_06CDD4 `[TPL:B]We are expressionless,[N]but Ishtar painted us[N][LU1:F0]faces overflowing[N][LU1:F0][LU1:9A]kindness.[FIN]After that, [LU1:C1][N]wanting to be painted [N]flocked [LU2:74][END]`
-;Though we lack emotions, Ishtar draws us overflowing with human kindness.
-;There is no end to the people who want Ishtar to draw them even though they don't know what will happen to them afterward.
+widestring_06CDD4 `[TPL:1D][TPL:B]Though we lack emotions,[N]Ishtar draws us[N]overflowing with human[N]kindness.[FIN]There is no end to the[N]people who want Ishtar to[N]draw them even though they[N]don't know what will[WAI][N]happen to them afterward.[END]`
 
-widestring_06CE56 `[TPL:A]I [LU2:BB]to dance [LU1:F0]the [N]person in [LU1:D7]picture. [END]`
-;The person who was my dance partner is now inside of that painting.
+widestring_06CE56 `[TPL:1D][TPL:A]The person who was my[N]dance partner is now[N]inside of that painting.[END]`
 
 -------------------------------------
 ?INCLUDE 'av6B_ocean_ache'
 -------------------------------------
-widestring_06C714 `[TPL:9]I [LU1:82][LU1:A4][LU1:F6]we[N][LU1:CB][LU1:B1]here.[FIN]But [LU1:F6]I [LU1:A9]at the [N]ocean, my heart aches. [END]`
-;We don't know from what era we started living here.
-;But our chests hurt for some reason when we see the ocean.
+widestring_06C714 `[TPL:1D][TPL:A]We don't know from what[N]era we started living[N]here.[FIN]But our chests hurt for[N]some reason when we see[N]the ocean.[END]`
 
-
-widestring_06CB07 `[TPL:A]We [LU1:98]no emotions...[FIN][LU1:20]neither laughed[N]nor cried [LU2:A4]the day[N]I was born.[FIN]I [LU1:A3]survive...[END]`
-;We have no emotions...
-;We never laugh or cry from the day we are born. In our lives, every day is the same...
+widestring_06CB07 `[TPL:1D][TPL:8]We have no emotions…[FIN][TPL:9]We never laugh or cry from[N]the day we are born.[FIN]In our lives,[N]every day is the same…[END]`
 
 -------------------------------------
 ?INCLUDE 'av6B_musician'
 -------------------------------------
-widestring_06D0C6 `[TPL:A]Woman Playing Harp:[N]Music is the best[N]medicine for the soul.[FIN]The [LU2:94]song [LU1:EF]cure[N]any disease.[END]`
-;Woman playing the harp: Music is the greatest medicine for the soul.
-;No matter what disease you face, you will become well if you hear a wonderful composition.
-
+widestring_06D0C6 `[TPL:1D][TPL:A]Woman playing the harp:[N]Music is the greatest[N]medicine for the soul.[FIN][TPL:B]No matter what disease you[N]face, you will become well[N]if you hear a wonderful[N]composition.[END]`
 
 -------------------------------------
 ?INCLUDE 'jeweler_gem'
 -------------------------------------
-;I'm now looking after 22 Red Jewels from you.
 
-widestring_08D459 `[CLR][LU1:67]collected [LU1:BE][N]20 [LU1:23]According to [N]the list, [LU1:FE][LU1:3C][N][LU2:25][LU1:EF]be raised. [FIN][LU1:1D]a mysterious power[N]given by the spirit.[FIN][LU1:68][LU1:3C]Dash Power[N]is increased.[FIN]`
-;Whoops, the number of jewels you've collected have passed 20, haven't they...! Going by the list, I'll give you Psycho Power.
-;This is a mysterious, otherworldly power that I will award you from my soul.
-;It seems like the Psycho Dash's attack power rose.
-
-;widestring_08D1E0 `[CLR]But you [LU1:82][LU1:98]any[N]Jewels. Let me give[N]you some.[END]`
-;But you aren't holding any jewels. I'll just hold your feelings for you instead.
+widestring_08D459 `[CLR]Whoops, the number of[N]jewels you've collected[N]have passed 20, haven't[N]they…![FIN]Going by the list, I'll[N]give you Psycho Power.[FIN]This is a mysterious,[N]otherworldly power that I[N]will award you from my[N]soul.[FIN]It seems like the Psycho[N]Dash's attack power rose.[FIN]`
 
 ;Psycho Slider / Performs a sliding attack. Can pass through narrow passages.
 
-widestring_06C981 `[TPL:A]I am a sculptor. I plan[N]to [LU2:84]1000 [LU1:D2][N]in my lifetime...[END]`
-;I'm a sculptor. Before I die, I intend to make a thousand of these statues...
+widestring_06C981 `[TPL:1D][TPL:A]I'm a sculptor. Before I[N]die, I intend to make a[N]thousand of these statues…[END]`
 
 -------------------------------------
 ?INCLUDE 'av6C_only_sleeping'
 -------------------------------------
-widestring_06D063 `[TPL:A][TPL:0]Will: She appears to be [N]sleeping. [LU1:1D][LU1:A5]the [N]spirit's drawn out...[PAL:0][END]`
-;Tim: They have no consciousness, as if their soul had been removed...
+widestring_06D063 `[TPL:0][TPL:A][NAM:0]: They have no[N]consciousness, as if their[N]soul had been removed…[END]`
 
-widestring_06C8B0 `[DEF]Do you [LU1:A4][N]the painter, Ishtar? [N] Yes [N] No `
-;Do you know the painter, Ishtar? / Yes / No
+widestring_06C8B0 `[TPL:1D][TPL:F]Do you know the painter,[N]Ishtar?[N][PAL:0] Yes[N] No`
 
-widestring_06C8DC `[CLR]You [LU1:CA]speak [N][LU1:F0]everyone. [END]`
-;In that case, you should listen a little more to what everyone has to say.
+widestring_06C8DC `[CLR][PAL:4]In that case, you should[N]listen a little more to[N]what everyone has to say.[END]`
 
-widestring_06C8F7 `[CLR][LU2:17]studio is[N]on the [LU1:BD]side[N]of [LU1:D6]door.[FIN]But in front, creatures [N][LU1:F0]hate in [LU1:E1][N]hearts are waiting. [FIN]If you [LU1:B2]go, you[N]can open the door.[END]`
-;The studio of Ishtar, the painter, is on the other side of this door.
-;But there are creatures with nothing but hatred and a desire for destruction that are squirming from beyond this point.
-;If you say you still want to go despite that, you may open the door.
+widestring_06C8F7 `[CLR][PAL:4]The studio of Ishtar, the[N]painter, is on the other[N]side of this door.[FIN]But there are creatures[N]with nothing but hatred[N]and a desire for[N]destruction which are[WAI][N]roaming beyond this point.[FIN]If you say you still want[N]to go despite that, you[N]may open the door.[END]`
 
