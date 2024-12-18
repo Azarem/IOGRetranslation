@@ -93,7 +93,7 @@ widestring_078AF8 `[TPL:1C][TPL:D]Woman: I'm going to have[N]a baby soon.[FIN][T
 -------------------------------------
 ?INCLUDE 'wa7D_glass_opponent'
 -------------------------------------
-widestring_078E01 `[TPL:1C][TPL:A]Man: *cough* *cough*[N]Wh-what? I've only caught[N]a little cold.[END]`
+widestring_078E01 `[TPL:24][TPL:A]Man: *cough* *cough*[N]Wh-what? I've only caught[N]a little cold.[END]`
 
 widestring_0785C9 `[TPL:1C][TPL:F]Man: This is Watermia.[N]It's easy to move because[N]everyone's houses are on[N]rafts.[END]`
 

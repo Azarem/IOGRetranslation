@@ -40,6 +40,7 @@ templates_01CA95 [
   &male_vampire_theme   ;21
   &female_vampire_theme ;22
   &allman_theme         ;23
+  &glass_player_theme   ;24
 ]
 
 widestring_01CAC1 `[BOR:3][SEP:1,7FDE][SEP:2,3A94][SEP:3,0C03][SEP:13,0C03][SEP:11,6FDF][SEP:12,B1E][SFX:10][PAL:4]`
@@ -113,3 +114,5 @@ male_vampire_theme `[BOR:B][SEP:1,3DFF][SEP:2,3169][SEP:3,1084][SEP:13,1084][SEP
 female_vampire_theme `[BOR:B][SEP:1,51FB][SEP:2,354A][SEP:3,1084][SEP:13,1084][SEP:11,7F7F][SEP:12,5676][SFX:1B][PAL:4]`
 
 allman_theme `[BOR:4][SEP:1,53DC][SEP:2,41D2][SEP:3,1804][SEP:13,1804][SEP:11,6FFD][SEP:12,2A92][SFX:1C][PAL:4]`
+
+glass_player_theme `[BOR:9][SEP:1,7FDE][SEP:2,46D3][SEP:3,1000][SEP:13,1000][SEP:11,73F7][SEP:12,2322][SFX:10][PAL:4]`
