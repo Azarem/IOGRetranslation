@@ -4,9 +4,9 @@
 -------------------------------------
 ?INCLUDE 'mtA0_intro'
 -------------------------------------
-widestring_07E77E `[TPL:F][TPL:0]There's a [LU1:C7][LU2:90][N]at the summit [N]of Mt.Kress. [FIN]There are [LU2:83][N][LU1:B6][LU2:AA]bigger [LU2:B5] [N]me, and plant stalks [N]are [LU2:9F]around.[PAL:0][END]`
+widestring_07E77E `[TPL:0][TPL:E]A mysterious place[N]extended from Mount[N]Kehres' summit.[FIN][TPL:F]I had never seen so many[N]mushrooms crowded[N]together, or plant stalks[N]tangled together…[END]`
 ;A mysterious place extended from Mount Kehres' summit.
-;I had never seen so many mushrooms crowded together, or plant stalks tangled together...
+;I had never seen so many mushrooms crowded together, or plant stalks tangled together…
 
 ;Dark Fryer / Dark Fryer / A shockwave flies from the blade.
 
@@ -17,34 +17,34 @@ widestring_07E77E `[TPL:F][TPL:0]There's a [LU1:C7][LU2:90][N]at the summit [N]o
 -------------------------------------
 ?INCLUDE 'chunk_038000'
 -------------------------------------
-widestring_0398FC `[DEF]He tries using the [LU2:C0][N][LU1:8E]the mushroom. [FIN]`
+widestring_0398FC `[TPL:D][SFX:10]Tried using the mushroom's[N]droplets.[FIN]`
 ;Tried using the mushroom's droplets.
 
-widestring_039925 `But [LU1:B9]happened![END]`
+widestring_039925 `However, nothing happened![END]`
 ;However, nothing happened!
 
 -------------------------------------
 ?INCLUDE 'jeweler_gem'
 -------------------------------------
-widestring_08D4E3 `[CLR][LU1:67]collected [LU1:BE][N]30 [LU1:23]According to [N]the list, [LU1:FE][LU1:C][N][LU2:25][LU1:EF]be raised. [FIN][LU1:1D]a mysterious power[N]given by the spirit.[FIN]The [LU1:C]Friar's power[N]is increased.[FIN]Try pushing the[N]Attack [LU2:2]once more[N][LU1:F6]the [LU1:C]Friar[N]is flying.[FIN]`
-;Whoops, the number of jewels you've collected have passed 30, haven't they...! Going by the list, I'll give you Dark Power.
+widestring_08D4E3 `[CLR]Whoops, the number of[N]jewels you've collected[N]have passed 30, haven't[N]they…![FIN]Going by the list, I'll[N]give you Dark Power.[FIN]This is a mysterious,[N]otherworldly power that I[N]will award you from my[N]soul.[FIN]You should try pushing the[N]attack button one more[N]time after firing your[N]Dark Fryer.[FIN]`
+;Whoops, the number of jewels you've collected have passed 30, haven't they…! Going by the list, I'll give you Dark Power.
 ;This is a mysterious, otherworldly power that I will award you from my soul.
 ;It seems that it will raise your Dark Power.
 ;You should try pushing the attack button one more time after firing your Dark Fryer.
 
-widestring_039935 `He pours the mushroom[N][LU2:C0]on the stems! [END]`
+widestring_039935 `[TPL:E]Poured the mushroom's[N]droplets at the place[N]where the stalk ends![END]`
 ;Poured the mushroom's droplets at the place where the stalk ends!
 
 -------------------------------------
 ?INCLUDE 'sE6_gaia'
 -------------------------------------
-widestring_08E4A4 `[PRT:@widestring_08DE96][LU1:15][LU1:C2]is [N]the Aura Barrier. It [N]puts a layer of Aura [N][LU1:6D]his body. [FIN]Enemies at the mountain [N][LU1:E5]are strong.If [N]you use [LU1:D6]power, [LU1:FE][N]battles [LU1:EF]be easier. [FIN][RET]`
+widestring_08E4A4 `[PRT:@widestring_08DE96]Thou canst make planks of[N]aura revolve around thee[N]by using Friedan's power,[N]Aura Barrier.[FIN]The enemies in the[N]mountain's holy grounds[N]are strong.[FIN]It should be significantly[N]easier to fight using this[N]power.[FIN][RET]`
 ;Thou canst make planks of aura revolve around thee by using Friedan's power, Aura Barrier.
 ;The enemies in the mountain's holy grounds are strong. It should be significantly easier to fight using this power.
 
 ;It seems you can now use the Power of Darkness, Aura Barrier!
 
-widestring_08EDF2 `The Aura Barrier is a [N][LU1:C][LU2:25][LU1:D7]can [LU2:89][N]be [LU2:BB]by the [LU1:C] [N]Knight, Freedan. [FIN]Use the [LU1:C2]of[N]the Aura to put a[N]barrier [LU1:6D]you.[FIN]Use the Attack and LR [N][LU2:3]for power. `
+widestring_08EDF2 `Aura Barrier is a Power of[N]Darkness that is only[N]usable by Friedan, the[N]Warrior of Darkness.[FIN]Thou canst create a[N]barrier composed of thy[N]aura around thee with[N]this power.[FIN]Thou shouldst push L and R[N]alternatively while[N]holding the attack button…`
 ;Aura Barrier is a Power of Darkness that is only usable by Friedan, the Warrior of Darkness.
 ;Thou canst create a barrier composed of thy aura around thee with this power.
 ;Thou shouldst push L and R alternatively while holding the attack button…
@@ -53,10 +53,10 @@ widestring_08EDF2 `The Aura Barrier is a [N][LU1:C][LU2:25][LU1:D7]can [LU2:89][
 
 ;Tearpot / A pot said to have contain the tears of gods.
 
-widestring_039861 `[DEF]He tries using [N]the Teapot. [FIN]`
+widestring_039861 `[TPL:C][SFX:10]Tried using the Tearpot.[FIN]`
 ;Tried using the Tearpot.
 
-widestring_039880 `But [LU1:B9]happened![END]`
+widestring_039880 `But nothing happened![END]`
 
 ;Throw away the will? / No / Yes
 
@@ -65,84 +65,84 @@ widestring_039880 `But [LU1:B9]happened![END]`
 -------------------------------------
 ?INCLUDE 'eu92_rofsky'
 -------------------------------------
-widestring_07D764 `[TPL:A][TPL:3]Rofsky:[N]Oh, that's the Teapot...[N]It [LU2:95]does exist...[PAL:0][END]`
-;Rofski: Oh, that is definitely the Tearpot... It really exists, does it…?
+widestring_07D764 `[TPL:3][TPL:A]Rofski: Oh, that is[N]definitely the Tearpot… It[N]really exists, does it…?[END]`
+;Rofski: Oh, that is definitely the Tearpott… It really exists, does it…?
 
 -------------------------------------
 ?INCLUDE 'eu92_erasquez'
 -------------------------------------
-widestring_07D8D2 `[TPL:A][TPL:4][LU2:9]I [LU1:91]the [N]presence of evil [LU1:8E][N][LU2:A9]in town... [FIN][LU1:30]the townspeople[N][LU1:98][LU1:70]changed[N][LU1:A1]demons.[FIN]It may be [LU1:CF]in the[N][LU1:E2]square, or one[N]of [LU1:FE]friends.[FIN]Use the Teapot on anyone[N]you suspect.[PAL:0][END]`
-;Elazquez: The presence of demons is the air in this town...
+widestring_07D8D2 `[TPL:4][TPL:A]Elazquez: The presence of[N]demons is the air in this[N]town…[FIN]I feel that demons have[N]switched places with some[N]of the townspeople.[FIN][TPL:B]It might be people[N]travelling through the[N]plaza, it might be your[N]friend, it might be me.[FIN]You should try to use the[N]Tearpot on characters that[N]you think are suspicious.[END]`
+;Elazquez: The presence of demons is the air in this town…
 ;I feel that demons have switched places with some of the townspeople.
 ;It might be people travelling through the plaza, it might be your friend, it might be me.
 ;You should try to use the Tearpot on characters that you think are suspicious.
 
-widestring_039890 `The spirits' tears [N]rained down. [END]`
+widestring_039890 `[TPL:D]The tears of the gods[N]showered down![END]`
 ;The tears of the gods showered down!
 
 -------------------------------------
-?INCLUDE 'eu95_neils_mother'
+?INCLUDE 'eu95_neils_father'
 -------------------------------------
-widestring_07E259 `[TPL:B][LU1:31]Tribe: Ku ku ku...[N][LU2:38][LU1:D6][LU1:F5][LU1:EF]be[N]wrapped in darkness.[FIN]The previous owner of [N][LU1:D6][LU1:72]is now a [N]skeleton sleeping [N][LU1:EA]the shrine. [END]`
-;Race of the Moon: Mweheheheheheheh... Darkness will soon envelop this world, too.
+widestring_07E259 `[TPL:1A][TPL:B]Race of the Moon:[N]Mweheheheheheheh…[FIN]Darkness will soon envelop[N]this world, too.[FIN]The owners of the bodies[N]we were just using have[N]become bones sleeping in[N]the basement of the[WAI][N]chapel.[END]`
+;Race of the Moon: Mweheheheheheheh… Darkness will soon envelop this world, too.
 ;The owners of the bodies we were using a moment ago have become bones sleeping in the basement of the chapel.
 
 -------------------------------------
 ?INCLUDE 'eu95_neil'
 -------------------------------------
-widestring_07E3F4 `[TPL:B][TPL:6][DLY:2][LU1:36][N]. . . . . . . [FIN]I [LU2:66]realize how[N]important my parents[N]are to me. I wish I could[N][LU1:98]told them... [FIN]Will... [N][LU1:24][LU1:AC]me alone [N]for a while... [FIN][TPL:0][DLY:1]I'm ashamed to [LU1:9B]you[N][LU2:AC][LU1:D7]way...[N][LU1:20][LU1:BB][LU2:A7]you[N][LU1:A5][LU1:D6]before.[END]`
+widestring_07E3F4 `[TPL:6][TPL:8][DLY:2]Neil: …[FIN][TPL:B]Even though I understood[N]how my parents had[N]welcomed me after I had[N]been separated from my[N]family…[FIN][NAM:0]… It might be[N]inconveniencing you, but[N]could you leave me alone[N]for a while…?[FIN][TPL:0][TPL:B][DLY:1]Neil hung his head as[N]spoke… It was the first[N]time I had ever seen Neil[N]like this…[END]`
 ;Neil: …
-;Even though I understood how my parents had welcomed me after I had been separated from my family...
-;Tim... It might be inconveniencing you, but could you leave me alone for a while…?
-;Neil hung his head as spoke... It was the first time I had ever seen Neil like this...
+;Even though I understood how my parents had welcomed me after I had been separated from my family…
+;Tim… It might be inconveniencing you, but could you leave me alone for a while…?
+;Neil hung his head as spoke… It was the first time I had ever seen Neil like this…
 
 ;Guest room
 
 -------------------------------------
 ?INCLUDE 'eu96_neil'
 -------------------------------------
-widestring_07DC37 `[TPL:A][TPL:0]The [LU1:BC]morning.[N]Disappointment awaits...[END]`
-;However, the next morning. Unfortunate news was waiting for us...
+widestring_07DC37 `[TPL:A][TPL:0]However, the next morning.[N]Unfortunate news was[N]waiting for us…[END]`
+;However, the next morning. Unfortunate news was waiting for us…
 
-widestring_07DC63 `[TPL:B][TPL:6][LU1:36]Good morning. [N][LU2:35][LU1:6B]yesterday.[FIN]I [LU1:D8][LU1:6B]it all[N]night. I'm [LU1:BC]in line[N]to inherit [LU1:D6]company.[FIN]If I [LU1:F1]to stop the[N][LU1:AD]trade, I [LU1:98]to[N][LU2:52]the company[N][LU1:D7][LU1:CB]it...[FIN]They [LU2:84]money on[N][LU1:9A]misfortune.[FIN][TPL:1][LU1:25][LU1:69][LU1:93]to [N][LU1:71]the [LU2:8D]of [N]the company? Amazing! [FIN][TPL:6][LU1:36]Heh heh. Stop it.[N][LU1:69]embarrassing me.[END]`
-;Neil: Good morning. I guess I've caused everyone to worry...
+widestring_07DC63 `[TPL:6][TPL:A]Neil: Good morning. I[N]guess I've caused everyone[N]to worry…[FIN][TPL:B]I've been thinking about[N]it all night, but in the[N]end I feel like this[N]company can't continue[WAI][N]unless I inherit it.[FIN]I want to do something to[N]stop the slave trade;[FIN]I was thinking that the[N]company that first[N]established that slave[N]trade should work towards[WAI][N]abolishing it…[FIN]I guess there's no way[N]around exchanging human[N]misery for money.[FIN][TPL:1][TPL:B][NAM:1]: So, that must mean[N]Neil's going to become the[N]president of the company?[N]Cooooool!![FIN][TPL:6][TPL:B]Neil: Hehe. I'm feeling[N]kind of embarrassed for[N]some reason.[END]`
+;Neil: Good morning. I guess I've caused everyone to worry…
 ;I've been thinking about it all night, but in the end I feel like this company can't continue unless I inherit it.
-;I want to do something to stop the slave trade; I was thinking that the company that first established that slave trade should work towards it...
+;I want to do something to stop the slave trade; I was thinking that the company that first established that slave trade should work towards it…
 ;I guess there's no way around exchanging human misery for money.
 ;Karen: So, that must mean Neil's going to become the president of the company? Cooooool!!
 ;Neil: Hehe. I'm feeling kind of embarrassed for some reason.
 
-widestring_07DD70 `[TPL:B][TPL:6][DLY:2][LU1:36]Kara, someone's [N][LU1:79]asking [LU1:6B][LU2:C7][N][LU1:4B][LU1:6B][LU1:77][N]an old friend. [FIN][TPL:1][DLY:0][LU1:25][N]What!!!? [END]`
+widestring_07DD70 `[TPL:6][TPL:A][DLY:2]Neil: Ah, and from that,[N][NAM:1]. There's a person[N]who came to visit you.[FIN]You've talked before about[N]your old sweetheart.[FIN][CLD][TPL:1][TPL:8][DLY:0]Karen: Huh…!?[END]`
 ;Neil: Ah, and from that, Karen. There's a person who came to visit you. You've talked before about your old sweetheart.
-;Karen: Huh...!?
+;Karen: Huh…!?
 
-widestring_07DDBF `[TPL:A][TPL:6][LU1:36][N][LU2:15][LU1:9]on in! [END]`
-;Neil: Hey, come in...!
+widestring_07DDBF `[TPL:6][TPL:8]Neil: Hey, come in…![END]`
+;Neil: Hey, come in…!
 
-widestring_07DDD2 `[TPL:B][TPL:1][LU1:25][N]Hamlet!! [FIN][TPL:6][DLY:1][LU1:3A]oink![FIN][TPL:1][LU1:62]happened?[N]Are you OK!?[FIN][TPL:6][LU1:36]Ha ha. [N]He's [LU1:79]all [LU1:D6]way [N][LU1:AB]for [LU2:C7][FIN][LU1:2C][LU1:8F]him in [N]Watermia and sent him by[N]Rolek's Delivery[N]Service.[FIN][LU1:12]if I'm losing my[N][LU2:B1]companions,[N]my allies are increasing![PAL:0][END]`
-;Karen: Peggy...!
-;Squee squee...!
+widestring_07DDD2 `[TPL:1][TPL:8][NAM:1]: [NAM:7]…![FIN][CLD][BOR:3][TPL:8][DLY:1]Squee squee…![FIN][TPL:1][TPL:8]How?! Was she okay?![FIN][TPL:6][TPL:A]Neil: Hahaha. It seems[N]like she was chasing after[N]you all the way.[FIN][TPL:B][NAM:2] discovered her in[N]the Floating City and sent[N]her for us. You could call[N]it Reuleck's delivery[WAI][N]service.[FIN]Even though I'm no longer[N]one of your travel[N]companions, aren't you[N]gaining even more powerful[WAI][N]allies?[END]`
+;Karen: Peggy…!
+;Squee squee…!
 ;How?! Was she okay?!
 ;Neil: Hahaha. It seems like she was chasing after you all the way.
 ;Lillie discovered her in the Floating City and sent her for us. You could call it Reuleck's delivery service.
 ;Even though I'm no longer one of your travel companions, aren't you gaining even more powerful allies?
 
-widestring_07DEAD `[TPL:A][TPL:6][LU1:36][N]Take care, everyone.[PAL:0][END]`
+widestring_07DEAD `[TPL:6][TPL:9][LU1:36][N]Take care, everyone.[PAL:0][END]`
 ;TODO!!
 
 -------------------------------------
 ?INCLUDE 'eu96_erik'
 -------------------------------------
-widestring_07DB09 `[TPL:A][TPL:3]Erik: I [LU1:A3][N][LU1:82][LU1:E9]women.[PAL:0][END]`
+widestring_07DB09 `[TPL:3][TPL:9][NAM:3]: I don't understand[N]girls at all.[END]`
 ;Eric: I don't understand girls at all.
 
-widestring_07DEF9 `[TPL:8][LU1:3A]oink[PAL:0][END]`
+widestring_07DEF9 `[TPL:8]Squee squee...[END]`
 ;Squee squee...
 
 -------------------------------------
 ?INCLUDE 'eu96_kara'
 -------------------------------------
-widestring_07DA3D `[TPL:A][TPL:1][LU1:25]To the west of [N][LU2:73]are the [LU2:98]of [N]Ankor Wat. [FIN]That is [LU1:F4]the[N]laborer's [LU2:72]is[N]located.[FIN][LU1:2B]go![PAL:0][END]`
+widestring_07DA3D `[TPL:1][TPL:B][NAM:1]: It seems that if we[N]head to the west of here,[N]we'd reach the ruins of[N]Angkor Wat.[FIN]It seems that the native[N]land of the slaves is in[N]exactly that same place.[FIN]Alright, let's go check[N]it out![END]`
 ;Karen: It seems that if we head to the west of here, we'd reach the ruins of Angkor Wat.
 ;It seems that the native land of the slaves is in exactly that same place.
 ;Alright, let's go check it out!

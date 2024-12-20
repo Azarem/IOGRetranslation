@@ -61,6 +61,12 @@ widestring_0793B6 `[TPL:24][TPL:D]Competitor:[N]Raaaaaaaaagh…!![FIN][CLD][TPL:
 
 widestring_079922 `[TPL:0][TPL:E][NAM:0]: Oh? The drink in the[N]glass looks as though it's[N]dyed with blood…[FIN]Is this because of the[N]power that is dwelling[N]inside my body too…?[FIN][TPL:F]Drink the contents of the[N]glass?[N][PAL:0] Yes[N] No`
 
+code_079AAC {
+    COP [D0] ( #0F, #00, &code_079AD2 )
+    COP [BF] ( &widestring_079922 )
+    COP [BE] ( #02, #02, &code_list_079ABC )
+}
+
 widestring_079992 `[DEF][CLR][TPL:0]Will: [N]I'm quitting...[PAL:0][END]`
 ;TODO!!
 
