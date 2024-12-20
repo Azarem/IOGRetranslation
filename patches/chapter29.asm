@@ -28,6 +28,17 @@ widestring_0892E4 `[TPL:D][SFX:10]Statues of girls are[N]standing quietly.[END]`
 ;Statues of girls are standing quietly.
 
 -------------------------------------
+?INCLUDE 'nvAE_stone_girl2'
+-------------------------------------
+widestring_0893BF `[TPL:D][SFX:10]Statues of girls are[N]standing quietly.[END]`
+
+-------------------------------------
+?INCLUDE 'nvAE_stone_girl3'
+-------------------------------------
+widestring_0894B3 `[TPL:D][SFX:10]Statues of girls are[N]standing quietly.[END]`
+
+
+-------------------------------------
 ?INCLUDE 'nvAD_kara'
 -------------------------------------
 widestring_088B32 `[TPL:1][TPL:A][NAM:1]: No one's here, huh…[N]I wonder if it's an[N]abandoned village…?[FIN][TPL:3][TPL:A][NAM:3]: It's just right for[N]us, isn't it? We can rest[N]as much as we like.[END]`
@@ -53,7 +64,7 @@ widestring_0882C7 `[TPL:0][TPL:E]We were tired from the[N]journey, so the party 
 ;We were tired from the journey, so the party fell into a deep sleep…
 ;From there, after a while…
 
-widestring_08830F `[TPL:0][TPL:E][DLY:2][NAM:0]: Mrrrm… [NAM:7]…?[N]Let me sleep a little more…[FIN][TPL:1][TPL:E][DLY:1][NAM:1]: Ugh… Wait a second,[N][NAM:0]… Don't touch me in[N]weird places…[FIN][CLD][PAU:3C][TPL:1][TPL:D][NAM:1]: Huh…! Who…?[N]Who are you…?![END]`
+widestring_08830F `[TPL:0][TPL:E][DLY:2][NAM:0]: Mrrrm… [NAM:7]…?[N]Let me sleep a little[N]more…[FIN][TPL:1][TPL:E][DLY:1][NAM:1]: Ugh… Wait a second,[N][NAM:0]… Don't touch me in[N]weird places…[FIN][CLD][PAU:3C][TPL:1][TPL:D][NAM:1]: Huh…! Who…?[N]Who are you…?![END]`
 ;Tim: Mrrrm… Peggy…? Let me sleep a little more…
 ;Karen: Ugh… Wait a second, Tim… Don't touch me in weird places…
 ;Karen: Huh…! Who…? Who are you…?!
@@ -70,7 +81,7 @@ widestring_0887C6 `[TPL:1][TPL:A][DLY:2][NAM:1]: [NAM:7]… Making[N]sad-looking
 ;Karen: Peggy… Making sad-looking eyes like that…
 ;Could it be that you're parting with everyone soon…?
 
-widestring_088811 `[TPL:1][TPL:8][NAM:1]: Eeeeeeeeeeeeeek…!![FIN][DLY:0][NAM:7]…! [NAM:7]…!![FIN][TPL:0][DLY:1][NAM:0]: [NAM:7]… Why…?[END]`
+widestring_088811 `[TPL:1][TPL:8][NAM:1]: Eeeeeeeeeeeeeek…!![FIN][DLY:0][NAM:7]…! [NAM:7]…!![FIN][TPL:0][TPL:8][DLY:1][NAM:0]: [NAM:7]… Why…?[END]`
 ;Karen: Eeeeeeeeeeeeeek...!! 
 ;Peggy...! Peggyyy...!!
 ;Tim: Peggy... Why…?
@@ -173,7 +184,7 @@ widestring_0888AD `[TPL:0][TPL:8]Squee squee…[FIN][TPL:A]You can't ever hear t
 -------------------------------------
 ?INCLUDE 'nvAC_erik'
 -------------------------------------
-widestring_0885DC `[TPL:E][TPL:3]Eric: When we found this[N]so-called cannibal tribe,[N]I had thought they must be[N]terrifying people to eat[WAI][N]other humans.[FIN]Even though they were of[N]the same tribe, they had[N]to eat their friends in[N]order to survive…[FIN]I guess that humans are[N]animals after all…[END]`
+widestring_0885DC `[TPL:3][TPL:F]Eric: When we found this[N]so-called cannibal tribe,[N]I had thought they must be[N]terrifying people to eat[WAI][N]other humans.[FIN]Even though they were of[N]the same tribe, they had[N]to eat their friends in[N]order to survive…[FIN]I guess that humans are[N]animals after all…[END]`
 ;Eric: When we found this so-called cannibal tribe, I had thought they must be terrifying people to eat other humans.
 ;Even though they were of the same tribe, they had to eat their friends in order to survive… I guess that humans are animals after all…
 
