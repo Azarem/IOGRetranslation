@@ -6,7 +6,7 @@
 -------------------------------------
 ?INCLUDE 'btDC_plane_jumping'
 -------------------------------------
-widestring_0981F4 `[TPL:6][TPL:9][DLY:0]Neil: Well, we're about to[N]arrive, [NAM:0].[FIN]I guess I should give my[N]regards to your dad.[FIN][TPL:0][TPL:B][NAM:0]: Thank you. You've[N]become an outstanding[N]company president too,[N]haven't you, Neil?[FIN][TPL:3][TPL:B][NAM:3]: Aah. From here on, I[N]guess we won't be able to[N]meet with you for a while.[FIN]When you're finished with[N]what you have to do, come[N]back to the South Cape[N]right away.[FIN][TPL:0][TPL:B][NAM:0]: Thanks. I had fun[N]going on a journey with[N]all of you too.[FIN][TPL:3][TPL:B][NAM:3]: Everyone found[N]something on this journey,[N]haven't they?[FIN][NAM:4] encountered [NAM:2],[N]and met again with his[N]missing father.[FIN]Neil set his heart on[N]succeeding his parents'[N]company.[FIN]For the first time since[N]she was born, [NAM:1] saw[N]the world outside of the[N]castle and travelled it[N]with her own two feet.[FIN]I've done one thing, to[N]make use of this[N]opportunity, too.[FIN]It seems like I've become[N]able to go pee by myself[N]at night…![FIN][TPL:6][TPL:B]Neil: Hahaha.[N]Typical [NAM:3].[FIN]By the way, I don't think[N][NAM:1] has said anything[N]yet.[FIN]You won't be able to meet[N]with [NAM:0] for a while.[N]It's almost a parting[N]statement.[FIN][TPL:1][TPL:B][NAM:1]:[DLY:4] Yeah. That's how it[N]is, isn't it…[FIN][TPL:6][TPL:B][DLY:1]Neil: Oops, as I've been[N]talking, we've come up to[N]the Tower of Babel right[N]here.[FIN]Alright, [NAM:0]. Is your[N]parachute ready…?[N]Let's go…![END]`
+widestring_0981F4 `[TPL:6][TPL:9][DLY:0]Neil: Well, we're about to[N]arrive, [NAM:0].[FIN]I guess I should give my[N]regards to your dad.[FIN][TPL:0][TPL:B][NAM:0]: Thank you. You've[N]become an outstanding[N]company president too,[N]haven't you, Neil?[FIN][TPL:3][TPL:B][NAM:3]: Aah. From here on, I[N]guess we won't be able to[N]meet with you for a while.[FIN]When you're finished with[N]what you have to do, come[N]back to South Cape right[N]away.[FIN][TPL:0][TPL:B][NAM:0]: Thanks. I had fun[N]going on a journey with[N]all of you too.[FIN][TPL:3][TPL:B][NAM:3]: Everyone found[N]something on this journey,[N]haven't they?[FIN][NAM:4] encountered [NAM:2],[N]and met again with his[N]missing father.[FIN]Neil set his heart on[N]succeeding his parents'[N]company.[FIN]For the first time since[N]she was born, [NAM:1] saw[N]the world outside of the[N]castle and travelled it[N]with her own two feet.[FIN]I've done one thing, to[N]make use of this[N]opportunity, too.[FIN]It seems like I've become[N]able to go pee by myself[N]at night…![FIN][TPL:6][TPL:B]Neil: Hahaha.[N]Typical [NAM:3].[FIN]By the way, I don't think[N][NAM:1] has said anything[N]yet.[FIN]You won't be able to meet[N]with [NAM:0] for a while.[N]It's almost a parting[N]statement.[FIN][TPL:1][TPL:B][NAM:1]:[DLY:4] Yeah. That's how it[N]is, isn't it…[FIN][TPL:6][TPL:B][DLY:1]Neil: Oops, as I've been[N]talking, we've come up to[N]the Tower of Babel right[N]here.[FIN]Alright, [NAM:0]. Is your[N]parachute ready…?[N]Let's go…![END]`
 
 widestring_0984B1 `[TPL:0][TPL:B][DLY:2]And so, after a year and a[N]half, I'm going to be[N]standing in the Tower of[N]Babel once again…[PAU:94][CLD]`
 
@@ -22,7 +22,7 @@ widestring_099952 `[TPL:0][TPL:A]If I recall, the flute[N]that I'm holding was[N
 -------------------------------------
 widestring_099A70 `[TPL:0][TPL:9]It seems that something[N]broke off from my flute…[END]`
 
-widestring_099A91 `[TPL:0][TPL:A]T-this is the Crystal Ring[N]that King Edward was[N]obsessed with![FIN]I had thought it was a[N]decoration on the flute,[N]but it was hidden here…[FIN]`
+widestring_099A91 `[TPL:0][TPL:A]T-this is the Crystal Ring[N]that King Edward was[N]obsessed with![FIN]I had thought it was a[N]decoration on the flute,[N]but it was hidden here…[END]`
 
 widestring_099AE4 `[TPL:8][DLY:9]Got the Crystal Ring![PAU:78][END]`
 
@@ -45,7 +45,7 @@ widestring_099F2A `[TPL:0][TPL:8][DLY:0][NAM:0]: [NAM:1]!?[FIN][TPL:1][TPL:8][NA
 -------------------------------------
 ?INCLUDE 'btDF_spirits'
 -------------------------------------
-widestring_099B8F `[TPL:B]The [LU1:A8]released[N][LU1:8E]the [LU1:7B]has a[N]profound effect on the[N]growth of [LU1:B1]things.[FIN][LU1:61]the star nears[N][LU2:B]orbit, all[N][LU1:B1][LU1:E0]experience[N]a dramatic evolution...[END]`
+widestring_099B8F `[TPL:17][TPL:B]The [LU1:A8]released[N][LU1:8E]the [LU1:7B]has a[N]profound effect on the[N]growth of [LU1:B1]things.[FIN][LU1:61]the star nears[N][LU2:B]orbit, all[N][LU1:B1][LU1:E0]experience[N]a dramatic evolution...[END]`
 ;The comet emits an intense light that has a large influence on how living things develop.
 ;INCOMPLETE?!
 

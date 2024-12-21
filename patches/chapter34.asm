@@ -25,7 +25,7 @@ widestring_08FCBE `[TPL:0][TPL:A]When I came to, I was[N]standing at the entranc
 -------------------------------------
 ?INCLUDE 'sEA_solid_arm'
 -------------------------------------
-widestring_08FA31 `[TPL:C]Welcome to my mansion.[FIN][TPL:E]Gem the jewel merchant was[N]a temporary form. My true[N]form is called Solid Arm.[FIN][TPL:F]I was beaten by Soul[N]Blader back when he[N]descended from the[N]heavens.[FIN]After that, I slept for a[N]long, long time…[FIN]My power was sealed in Red[N]Jewels which were[N]scattered throughout the[N]world.[FIN]So, I did whatever I could[N]to have myself[N]resurrected.[FIN]I was even the one on the[N]other side of the curtain,[N]pulling the strings of the[N]slave trade.[FIN]I used slave labour to[N]search for the jewels, but[N]I didn't think I would[N]take back my power so[WAI][N]quickly…[FIN]As my thanks to you, I'll[N]let you rest in peace![END]`
+widestring_08FA31 `[TPL:C][SFX:10]Welcome to my mansion.[FIN][TPL:E]Gem the jewel merchant was[N]a temporary form. My true[N]form is called Solid Arm.[FIN][TPL:F]I was beaten by Soul[N]Blader back when he[N]descended from the[N]heavens.[FIN]After that, I slept for a[N]long, long time…[FIN]My power was sealed in Red[N]Jewels which were[N]scattered throughout the[N]world.[FIN]So, I did whatever I could[N]to have myself[N]resurrected.[FIN]I was even the one on the[N]other side of the curtain,[N]pulling the strings of the[N]slave trade.[FIN]I used slave labour to[N]search for the jewels, but[N]I didn't think I would[N]take back my power so[WAI][N]quickly…[FIN]As my thanks to you, I'll[N]let you rest in peace![END]`
 
 -------------------------------------
 ?INCLUDE 'death_message'

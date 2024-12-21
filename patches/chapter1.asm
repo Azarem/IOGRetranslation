@@ -70,6 +70,8 @@ widestring_04923D `[TPL:16][TPL:F]You seem like you've got[N]pretty fast feet, h
 ?INCLUDE 'jeweler_gem'
 ------------------------
 widestring_08D094 `[TPL:16][TPL:E]I am Gem, a jewel[N]merchant that travels[N]about the seven seas.[FIN]`
+widestring_08D0C8 `I'm holding [BCD:2,AB0] of the[N]Red [LU1:22]for you.[FIN][TPL:F]`
+;TODO!!
 widestring_08D0F1 `[DLG:2,11][SIZ:E,4][CLR]What's your business today?[N] Didn't mean to run into you[N] Deposit Red Jewels[N] See your list of goods`
 widestring_08D139 `[CLD][TPL:16][TPL:D]Is that so?[N]Anyway, nice to meet you.[FIN][TPL:E]By the way, if you lift[N]a Red Jewel, it will fly[N]to my location, you know.[FIN][TPL:F]Sometimes that place may[N]seem hidden. I am a master[N]of disguise, after all.[N]In other towns, you might[WAI][N]not always recognize me.[END]`
 widestring_08D1E0 `[CLD][TPL:16][TPL:F]But you aren't holding any[N]jewels. I'll just hold[N]your feelings for you[N]instead.[END]`

@@ -7,6 +7,7 @@
 -------------------------------------
 ?INCLUDE 'awB0_intro'
 -------------------------------------
+widestring_089807 `[TPL:0][TPL:B]If you push through the[N]jungle from the[N]aboriginal's village for[N]at most three days, you’ll[WAI][N]reach a gigantic temple.[PAL:0][END]`
 
 ;Outer circumference pathway
 
@@ -30,7 +31,7 @@ widestring_08E540 `[PRT:@widestring_08DE96]Friedan's power,[N]Earthquaker, cause
 
 ;Became able to use the Power of Darkness, Earthquaker!
 
-widestring_08EE8B `Earthquaker is a Power of[N]Darkness that can only be[N]used by the Friedan, the[N]Warrior of Darkness.[FIN]This causes an earthquake[N]and enemies are unable to[N]move for a while.[FIN]Thou shouldst try pushing[N]the attack button during a[N]descending leap.`
+widestring_08EE8B `Earthquaker is a Power of[N]Darkness that can only be[N]used by Friedan, the[N]Warrior of Darkness.[FIN]This causes an earthquake[N]and enemies are unable to[N]move for a while.[FIN]Thou shouldst try pushing[N]the attack button during a[N]descending leap.`
 
 ;Path to the main shrine
 
@@ -81,7 +82,7 @@ widestring_039984 `[TPL:F]These are glasses made of[N]black quartz. It seems[N]t
 -------------------------------------
 widestring_089B8B `[TPL:17][TPL:E][NAM:0]… For thousands of[N]years, I have waited for[N]thy arrival.[FIN][TPL:0][TPL:E][NAM:0]: Who…? Are you…?[FIN][TPL:17][TPL:F]I'm dreaming. Yet time[N]still flows as I dream,[N]and my body became like[N]this.[FIN]I shall show thee a[N]mysterious image. Close[N]thine eyes.[END]`
 
-widestring_089C5B `[TPL:0][TPL:D][NAM:0]: What the…?[N]What I just saw…[FIN][TPL:17][TPL:D]It's the new world…[FIN][TPL:0][TPL:E][NAM:0]: There was nothing[N]but grey in that world,[N]was there…?[FIN][TPL:F]Isn't the world something[N]that's covered in blue[N]water, green mountains,[N]and brown earth?[FIN][TPL:17][TPL:F]Thou shalt now bring about[N]that world…[FIN][TPL:0][TPL:F][NAM:0]: I'm going to…? An[N]unsettling world like[N]that?![FIN][TPL:17][TPL:F]In place of the trees,[N]there will only be swarms[N]of high-rise buildings.[FIN]In the place of flowing[N]rivers, there will only be[N]the flows of automobile[N]traffic…[FIN]Whichever kind of world a[N]person is in, if they[N]think they're happy,[N]they're happy.[FIN]Well, please return to the[N]aboriginals' village.[FIN] Restore the people who[N]have been turned to stone[N]back to their original[N]forms.[FIN]Please return the people[N]who have been changed to[N]grey back to their natural[N]state.[END]`
+widestring_089C5B `[TPL:0][TPL:D][NAM:0]: What the…?[N]What I just saw…[FIN][TPL:17][TPL:D]It's the new world…[FIN][TPL:0][TPL:E][NAM:0]: There was nothing[N]but grey in that world,[N]was there…?[FIN][TPL:F]Isn't the world something[N]that's covered in blue[N]water, green mountains,[N]and brown earth?[FIN][TPL:17][TPL:F]Thou shalt now bring about[N]that world…[FIN][TPL:0][TPL:F][NAM:0]: I'm going to…? An[N]unsettling world like[N]that?![FIN][TPL:17][TPL:F]In place of the trees,[N]there will only be swarms[N]of high-rise buildings.[FIN]In the place of flowing[N]rivers, there will only be[N]the flows of automobile[N]traffic…[FIN]Whichever kind of world a[N]person is in, if they[N]think they're happy,[N]they're happy.[FIN]Well, please return to the[N]aboriginals' village.[FIN]Restore the people who[N]have been turned to stone[N]back to their original[N]forms.[FIN]Please return the people[N]who have been changed to[N]grey back to their natural[N]state.[END]`
 
 widestring_089E2E `[TPL:0][TPL:B]When the dazzling light[N]was gone, I was standing[N]around as if nothing had[N]happened.[FIN]But I found that the[N]Gorgon's flower was being[N]grasped in my hand…[END]`
 
@@ -94,7 +95,7 @@ widestring_039A35 `[TPL:E]Gazed at the Gorgon's[N]flower… However, nothing[N]h
 -------------------------------------
 ?INCLUDE 'nvAC_kara'
 -------------------------------------
-widestring_0884A4 `[TPL:1][TPL:D][TPL:1]: The children taught[N]me a word.[FIN][TPL:E]It seems that "ramapouˮ[N]means "helloˮ in this[N]region.[END]`
+widestring_0884A4 `[TPL:1][TPL:D][NAM:1]: The children taught[N]me a word.[FIN][TPL:E]It seems that "ramapouˮ[N]means "helloˮ in this[N]region.[END]`
 
 widestring_039A63 `[TPL:D]Put one Gorgon's petal[N]into the statue's mouth![END]`
 

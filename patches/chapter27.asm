@@ -29,11 +29,11 @@ widestring_07DA00 `[TPL:1][TPL:9][NAM:1]: It's an amaaazing[N]house, isn't it…
 -------------------------------------
 ?INCLUDE 'eu95_ann'
 -------------------------------------
-widestring_07DF7A `[TPL:1][BOR:D][TPL:A]Ann: So, a man wearing a[N]dark blue mantle came here[N]a few ago.[FIN]He was asking if a girl[N]named [NAM:1] hadn't come[N]to this city.[FIN]I cowered from the way he[N]glared with his icy eyes.[FIN][TPL:F]It might be good to tell[N]this to [NAM:1], but…[N][PAL:0] If that's what you want![N] Please don't, I beg you!`
+widestring_07DF7A `[TPL:1][BOR:D][TPL:A]Ann: So, a man wearing a[N]dark blue mantle came here[N]a few ago.[FIN]He was asking if a girl[N]named [NAM:1] hadn't come[N]to this city.[FIN]I cowered from the way he[N]glared with his icy eyes.[FIN][TPL:B]It might be good to tell[N]this to [NAM:1], but…[N][PAL:0] If that's what you want![N] Please don't, I beg you![PAL:4]`
 
-widestring_07E03D `[CLR][PAL:4]I can't stomach how that[N][NAM:1] girl acts like such[N]a little lady.[FIN]If that's what you're[N]going to say, I think I'll[N]bully you a little.[END]`
+widestring_07E03D `[CLR]I can't stomach how that[N][NAM:1] girl acts like such[N]a little lady.[FIN]If that's what you're[N]going to say, I think I'll[N]bully you a little.[END]`
 
-widestring_07E092 `[CLR][PAL:4]Hehehe. I've gotten a hold[N]of your weak point.[FIN][::]Aah. I think I want to eat[N]some apples. Go buy them[N]from the market for me![END]`
+widestring_07E092 `[CLR]Hehehe. I've gotten a hold[N]of your weak point.[FIN][::]Aah. I think I want to eat[N]some apples. Go buy them[N]from the market for me![END]`
 
 widestring_07E0DE `[TPL:1][BOR:D][TPL:A][JMP:&widestring_07E092+M]`
 
@@ -78,11 +78,11 @@ widestring_07C1DC `[TPL:1E][TPL:E]This is a Tearpot. Quite[N]simply, it's a pot 
 -------------------------------------
 ?INCLUDE 'eu91_women1'
 -------------------------------------
-widestring_07C836 `[TPL:1E][TPL:F]Do you believe in[N]fortune-telling?[N][PAL:4] Yes[N] No`
+widestring_07C836 `[TPL:1E][TPL:F]Do you believe in[N]fortune-telling?[N][PAL:4] Yes[N] No[PAL:4]`
 
-widestring_07C860 `[CLR][PAL:4]That's how it is, is it?[N]So you're saying that if[N]you have your future told,[N]it might be a dark future…[FIN]An extremely huge comet[N]is grazing across the[N]Earth… They say that[N]people will die off…[FIN]Well, if that's how it is,[N]all I'm going to do from[N]now on is binge eat…!![END]`
+widestring_07C860 `[CLR]That's how it is, is it?[N]So you're saying that if[N]you have your future told,[N]it might be a dark future…[FIN]An extremely huge comet[N]is grazing across the[N]Earth… They say that[N]people will die off…[FIN]Well, if that's how it is,[N]all I'm going to do from[N]now on is binge eat…!![END]`
 
-widestring_07C8D5 `[CLR][TPL:4]That's good, isn't it?[N]Me, I'll believe anything…[END]`
+widestring_07C8D5 `[CLR]That's good, isn't it?[N]Me, I'll believe anything…[END]`
 
 widestring_07C182 `[TPL:1E][TPL:E]This is a fish market. We[N]sell fish that's arrived[N]fresh from Watermia.[END]`
 
@@ -207,9 +207,9 @@ widestring_07CBE3 `[TPL:1E][TPL:A]Employee: Are you[N]returning home? Thank you[
 -------------------------------------
 ?INCLUDE 'eu97_dark_medicine'
 -------------------------------------
-widestring_07CE28 `[TPL:1E][TPL:F]That is called the[N]Medicine of Darkness.[N]Will you drink it?[WAI][N][PAL:0] Yes[N] No`
+widestring_07CE28 `[TPL:1E][TPL:F]That is called the[N]Medicine of Darkness.[N]Will you drink it?[WAI][N][PAL:0] Yes[N] No[PAL:4]`
 
-widestring_07CEDD `[CLR][PAL:4]Is that so…[N]Do you not like it?[END]`
+widestring_07CEDD `[CLR]Is that so…[N]Do you not like it?[END]`
 
 widestring_07CE54 `[CLR][TPL:0][TPL:F]It had a scent that[N]irritated your nose…[FIN]However, it seems that[N]Friedan's Power of[N]Darkness grew stronger.[FIN][CLD][TPL:C]Dark Fryer's power rose!![END]`
 
@@ -219,7 +219,7 @@ widestring_07CEB6 `[CLR]The [LU1:C]Friar's power[N]is strong enough![END]`
 -------------------------------------
 ?INCLUDE 'eu97_life_medicine'
 -------------------------------------
-widestring_07CD39 `[TPL:1E][TPL:F]That is the Medicine of[N]Life. Will you drink it?[N][PAL:0] Yes[N] No`
+widestring_07CD39 `[TPL:1E][TPL:F]That is the Medicine of[N]Life. Will you drink it?[N][PAL:0] Yes[N] No[PAL:4]`
 
 widestring_07CD9B `[CLR]Really....[N][LU1:D]you [LU1:A5]it?[END]`
 ;TODO!!
@@ -258,7 +258,7 @@ widestring_07D61E `[TPL:3][TPL:B]Rofski: We started arguing[N]because of the Tea
 -------------------------------------
 ?INCLUDE 'eu92_erasquez'
 -------------------------------------
-widestring_07D7C7 `[TPL:4][TPL:A]Elazquez: You there… I[N]feel from thee a[N]mysterious power…[FIN][TPL:B]I'm already blind, but[N]since I've lost my sight,[N]I've developed a keen[N]sense for things that are[WAI][N]clearly special.[FIN]This is perfect. Will you[N]go to the holy grounds of[N]Mount Kehres and see the[N]state of the Tearpot for[WAI][N]me?[FIN][CLD][SFX:10][TPL:E]Rofski drew the location[N]of Mount Kehres on [NAM:0]'s[N]map![END]`
+widestring_07D7C7 `[TPL:4][TPL:A]Elazquez: You there… I[N]feel from thee a[N]mysterious power…[FIN][TPL:B]I'm already blind, but[N]since I've lost my sight,[N]I've developed a keen[N]sense for things that are[WAI][N]clearly special.[FIN]This is perfect. Will you[N]go to the holy grounds of[N]Mount Kehres and see the[N]state of the Tearpot for[WAI][N]me?[FIN][CLD][SFX:10][TPL:A]Rofski drew the location[N]of Mount Kehres on [NAM:0]'s[N]map![END]`
 
 widestring_07D892 `[TPL:4][TPL:B]Elazquez: It's said that[N]the tears of the gods in[N]the Tearpot can reflect[N]the true form of things.[END]`
 

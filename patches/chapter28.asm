@@ -62,19 +62,19 @@ widestring_039890 `[TPL:D]The tears of the gods[N]showered down![END]`
 -------------------------------------
 ?INCLUDE 'eu95_neils_father'
 -------------------------------------
-widestring_07E259 `[TPL:1A][TPL:B]Race of the Moon:[N]Mweheheheheheheh…[FIN]Darkness will soon envelop[N]this world, too.[FIN]The owners of the bodies[N]we were just using have[N]become bones sleeping in[N]the basement of the[WAI][N]chapel.[END]`
+widestring_07E259 `[TPL:1A][TPL:9]Race of the Moon:[N]Mweheheheheheheh…[FIN]Darkness will soon envelop[N]this world, too.[FIN][TPL:B]The owners of the bodies[N]we were just using have[N]become bones sleeping in[N]the basement of the[WAI][N]chapel.[END]`
 
 -------------------------------------
 ?INCLUDE 'eu95_neil'
 -------------------------------------
-widestring_07E3F4 `[TPL:6][TPL:8][DLY:2]Neil: …[FIN][TPL:B]Even though I understood[N]how my parents had[N]welcomed me after I had[N]been separated from my[N]family…[FIN][NAM:0]… It might be[N]inconveniencing you, but[N]could you leave me alone[N]for a while…?[FIN][TPL:0][TPL:B][DLY:1]Neil hung his head as[N]spoke… It was the first[N]time I had ever seen Neil[N]like this…[END]`
+widestring_07E3F4 `[TPL:6][TPL:8][DLY:2]Neil: …[FIN][TPL:B]Even though I understood[N]how my parents had[N]welcomed me after I had[N]been separated from my[N]family…[FIN][NAM:0]… It might be[N]inconveniencing you, but[N]could you leave me alone[N]for a while…?[FIN][TPL:0][TPL:B][DLY:1]Neil hung his head as he[N]spoke… It was the first[N]time I had ever seen Neil[N]like this…[END]`
 
 ;Guest room
 
 -------------------------------------
 ?INCLUDE 'eu96_neil'
 -------------------------------------
-widestring_07DC37 `[TPL:A][TPL:0]However, the next morning.[N]Unfortunate news was[N]waiting for us…[END]`
+widestring_07DC37 `[TPL:0][TPL:A]However, the next morning.[N]Unfortunate news was[N]waiting for us…[END]`
 
 widestring_07DC63 `[TPL:6][TPL:A]Neil: Good morning. I[N]guess I've caused everyone[N]to worry…[FIN][TPL:B]I've been thinking about[N]it all night, but in the[N]end I feel like this[N]company can't continue[WAI][N]unless I inherit it.[FIN]I want to do something to[N]stop the slave trade;[FIN]I was thinking that the[N]company that first[N]established that slave[N]trade should work towards[WAI][N]abolishing it…[FIN]I guess there's no way[N]around exchanging human[N]misery for money.[FIN][TPL:1][TPL:B][NAM:1]: So, that must mean[N]Neil's going to become the[N]president of the company?[N]Cooooool!![FIN][TPL:6][TPL:B]Neil: Hehe. I'm feeling[N]kind of embarrassed for[N]some reason.[END]`
 
@@ -82,7 +82,7 @@ widestring_07DD70 `[TPL:6][TPL:A][DLY:2]Neil: Ah, and from that,[N][NAM:1]. Ther
 
 widestring_07DDBF `[TPL:6][TPL:8]Neil: Hey, come in…![END]`
 
-widestring_07DDD2 `[TPL:1][TPL:8][NAM:1]: [NAM:7]…![FIN][CLD][BOR:3][TPL:8][DLY:1]Squee squee…![FIN][TPL:1][TPL:8]How?! Was she okay?![FIN][TPL:6][TPL:A]Neil: Hahaha. It seems[N]like she was chasing after[N]you all the way.[FIN][TPL:B][NAM:2] discovered her in[N]the Floating City and sent[N]her for us. You could call[N]it Reuleck's delivery[WAI][N]service.[FIN]Even though I'm no longer[N]one of your travel[N]companions, aren't you[N]gaining even more powerful[WAI][N]allies?[END]`
+widestring_07DDD2 `[TPL:1][TPL:8][NAM:1]: [NAM:7]…![FIN][CLD][BOR:3][TPL:8]Squee squee…![FIN][TPL:1][TPL:8]How?! Was she okay?![FIN][TPL:6][TPL:A]Neil: Hahaha. It seems[N]like she was chasing after[N]you all the way.[FIN][TPL:B][NAM:2] discovered her in[N]the Floating City and sent[N]her for us. You could call[N]it Reuleck's delivery[WAI][N]service.[FIN]Even though I'm no longer[N]one of your travel[N]companions, aren't you[N]gaining even more powerful[WAI][N]allies?[END]`
 
 widestring_07DEAD `[TPL:6][TPL:9][LU1:36][N]Take care, everyone.[PAL:0][END]`
 ;TODO!!

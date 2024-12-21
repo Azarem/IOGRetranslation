@@ -13,7 +13,7 @@ widestring_08F4B1 `[TPL:D][SFX:10]A voice echoes in your[N]head.[FIN][TPL:4][BOR
 
 widestring_08E66C `[DEF][CLR]Thy Power of Darkness has[N]grown even stronger since[N]thou wert at the temple of[N]Angkor Wat.[FIN]Shouldst thou stand in[N]front of the statue to the[N]right, thou canst change[N]into Shadow, a more[WAI][N]powerful Warrior of[N]Darkness.[FIN]Thus, I want to bestow an[N]item upon thee.[FIN]`
 
-widestring_08E7E7 `[DEF][CLR][DLY:9]Got the Ball of Aura![PAU:78][DLY:1][FIN]`
+widestring_08E7E7 `[DEF][CLR][DLY:9]Got the Ball of Aura![PAU:78][DLY:FE][FIN]`
 
 widestring_08E722 `[DEF][CLR]The Ball of Aura is[N]Shadow's heart. Shadow's[N]body changes to be like[N]water if they raise it.[FIN]The Pyramid as it is now[N]known, the Pyramid as seen[N]on the surface, is in[N]reality only one part of[WAI][N]the whole.[FIN]Most of it is sleeping[N]underground.[FIN]Well, thou shouldst[N]transform into Shadow and[N]head underground.[FIN]`
 
@@ -24,7 +24,7 @@ widestring_08E722 `[DEF][CLR]The Ball of Aura is[N]Shadow's heart. Shadow's[N]bo
 -------------------------------------
 ?INCLUDE 'pyCC_entrance_portal'
 -------------------------------------
-widestring_08B70D `[TPL:B]The Pyramid's entrance is[N]vaguely reflected in the[N]blue light…[WAI][N][PAL:0] Leave it be[N] Jump inside`
+widestring_08B70D `[TPL:B][SFX:10]The Pyramid's entrance is[N]vaguely reflected in the[N]blue light…[WAI][N][PAL:0] Leave it be[N] Jump inside`
 
 widestring_08B74B `[CLD]`
 
@@ -122,7 +122,7 @@ widestring_08CD0B `[TPL:0][TPL:E]Wow… Some kind of sound[N]came from just past
 -------------------------------------
 ?INCLUDE 'pyCC_portal'
 -------------------------------------
-widestring_08CDDA `[TPL:F]The mummified queen of the[N]Pyramid is projected in[N]the blue light…[WAI] Leave it alone[N] Jump inside`
+widestring_08CDDA `[TPL:F][SFX:10]The mummified queen of the[N]Pyramid is projected in[N]the blue light…[WAI][N] Leave it alone[N] Jump inside`
 
 widestring_08CE10 `[CLD]`
 
@@ -131,7 +131,7 @@ widestring_08CE10 `[CLD]`
 -------------------------------------
 widestring_08CE60 `[SFX:10][TPL:F]After you defeated the[N]Pyramid's guardian god,[N]you found a [NAM:D] [NAM:E][N]from their corpse!![END]`
 
-widestring_08BFC7 `[TPL:9]You could hear a voice[N]from your flute![FIN][TPL:A]It was the same voice that[N]you heard at Edward[N]Castle's prison…[FIN][TPL:23][TPL:A][DLY:1]Flute: You're managed to[N]stay strong, haven't you,[N][NAM:0].[FIN][TPL:0][TPL:A][NAM:0]: Dad?![FIN][TPL:23][TPL:B]Flute: I'm now at the[N]Tower of Babel. Please[N]take the five [NAM:D][N][NAM:E]s and come here.[FIN]The puppets that you had[N]collected until now are[N]holding the key to the[N]fate of mankind;[WAI] whether[N]humanity lives or dies.[FIN]The comet is approaching…[N][NAM:0]… Hurry, hurr. y…[FIN][CLD][TPL:B]The flute's voice[N]ultimately faded away[N]until it could no long be[N]heard…[END]`
+widestring_08BFC7 `[TPL:9]You could hear a voice[N]from your flute![FIN][TPL:A]It was the same voice that[N]you heard at Edward[N]Castle's prison…[FIN][TPL:23][TPL:A][DLY:1]Flute: You've managed to[N]stay strong, haven't you,[N][NAM:0].[FIN][TPL:0][TPL:A][NAM:0]: Dad?![FIN][TPL:23][TPL:B]Flute: I'm now at the[N]Tower of Babel. Please[N]take the five [NAM:D][N][NAM:E]s and come here.[FIN]The puppets that you had[N]collected until now are[N]holding the key to the[N]fate of mankind;[WAI] whether[N]humanity lives or dies.[FIN]The comet is approaching…[N][NAM:0]… Hurry, hurr. y…[FIN][CLD][TPL:B]The flute's voice[N]ultimately faded away[N]until it could no long be[N]heard…[END]`
 
 widestring_08C127 `[TPL:1][TPL:B][NAM:1]: It seems like[N]something terrible is[N]happening at a place we[N]don't know, huh…[FIN][TPL:0][TPL:B][NAM:0]: What do we do…?[FIN]Even if he suddenly told[N]us to come to the Tower of[N]Babel, going out to a[N]little island on the deep[WAI][N]blue sea…[FIN][TPL:1][TPL:B][NAM:1]: Hey, you know, Neil[N]says that made an[N]aeroplane again.[FIN]It seems that the[N]aeroplane is being brought[N]to the desert town.[FIN]First of all, let's try[N]returning to Dao.[END]`
 
