@@ -119,7 +119,7 @@ widestring_068DD0 `[TPL:16][TPL:A]This palace is tied to the[N]fantastical groun
 
 widestring_068E20 `[TPL:16][TPL:B]Imagine if you were one[N]step later in rescuing us[N]from being transformed[N]into demons…[END]`
 
-widestring_068E67 `[TPL:16][TPL:9]I was eavesdropping on the[N]vampire couple talking;[FIN][TPL:B]It seems like a puppet[N]called a Mystery Doll or[N]something like that is[N]sleeping at the continent[WAI][N]of Mu…[END]`
+widestring_068E67 `[TPL:16][TPL:9]I was eavesdropping on the[N]vampire couple talking;[FIN][TPL:B]It seems like a puppet[N]called a [NAM:D] [NAM:E] or[N]something like that is[N]sleeping at the continent[WAI][N]of Mu…[END]`
 
 widestring_068EA9 `[TPL:16][TPL:E]I snatched a key from the[N]vampire woman. Bring it[N]with you.[END]`
 

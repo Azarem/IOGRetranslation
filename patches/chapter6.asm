@@ -30,6 +30,7 @@ widestring_04CB3F `[TPL:19][TPL:8]Soldier: Zzz… Zzz…[END]`
 ?INCLUDE 'ec0A_kara'
 --------------------------------
 widestring_04CFDB `[TPL:0][TPL:A]Will: [N](If you [LU1:F1]to [LU1:E7]her[N]away, now's the time…)[END]`
+;TODO!!
 
 widestring_04CE4A `[TPL:1][TPL:A][NAM:1]: You came for me[N]after all! Thank you very[N]much.[FIN]That soldier outside, he[N]was sleeping, right?[FIN][TPL:B]The truth is, he used to[N]be nicknamed "Snot Bubbleˮ[N]a long time ago. He's[N]sleeping even now.[FIN][CLD][TPL:0][TPL:9][NAM:0]: Your piglet came for[N]me…[FIN][TPL:1][TPL:9][NAM:1]: It's named [NAM:7].[N]Cute, right?[FIN][TPL:A]It's a very smart piglet.[N]It's even got a little bit[N]of a mysterious power…[FIN]Alright, take me out of[N]here![END]`
 
@@ -54,6 +55,7 @@ widestring_04D069 `[TPL:1][TPL:9][NAM:1]: Alright. We're[N]finally heading out, 
 ?INCLUDE 'sc06_kara_return'
 --------------------------------
 widestring_04AF7F `[TPL:0][TPL:A]Will: [N](I suspect [LU1:DB]a[N] clue in the house…)[END]`
+;TODO!!
 
 widestring_04A746 `[TPL:0][TPL:A][NAM:0]: Wah…! What in the…[N]Why does it look like[N]this…[END]`
 

@@ -79,7 +79,7 @@ widestring_04A582 `[TPL:E]Then, the next morning. A[N]terrible affair had tried[
 widestring_049828 `[TPL:4][TPL:A][LU1:6]I had some leftover[N]pie for breakfast. I[N]saved you a slice.[END]`
 ;TODO!!!!!!!!!!!!!!
 
-widestring_049BE5 `[TPL:3][TPL:A][NAM:6]: Good morning, [NAM:0].[N]A letter has arrived for[N]you from King Edward.[FIN][CLD][TPL:9]In the letter was written[N]something like this.[FIN][TPL:4][BOR:1][TPL:B]"Bring the crystal ring[N]from [NAM:9]'s personal[N]possessions to Edward[N]Castle.ˮ       King Edward[FIN][TPL:3][TPL:B][NAM:6]: From the time I[N]saw this letter, I've[N]been ticked off somehow.[FIN]That's it. Tim. I'll teach[N]you a good luck charm.[N]When you're worried, if[N]you whistle this, you can[WAI][N]definitely get through.[FIN][NAM:6] hummed a mysterious[N]melody.[END]`
+widestring_049BE5 `[TPL:3][TPL:A][NAM:6]: Good morning, [NAM:0].[N]A letter has arrived for[N]you from King Edward.[FIN][CLD][TPL:9]In the letter was written[N]something like this.[FIN][TPL:4][BOR:1][TPL:B]"Bring the crystal ring[N]from [NAM:9]'s personal[N]possessions to Edward[N]Castle.ˮ       King Edward[FIN][TPL:3][TPL:B][NAM:6]: From the time I[N]saw this letter, I've[N]been ticked off somehow.[FIN]That's it. [NAM:0]. I'll teach[N]you a good luck charm.[N]When you're worried, if[N]you whistle this, you can[WAI][N]definitely get through.[FIN][NAM:6] hummed a mysterious[N]melody.[END]`
 
 widestring_049D29 `[TPL:0][TPL:A][SFX:0][DLY:5]That was a charming[N]melody.[PAU:78][CLR]Although I must have been[N]hearing it for the first[N]time, somehow I was[N]experiencing a very[N]nostalgic feeling.[PAU:20][CLD][TPL:9][SFX:0][DLY:1]You learned [NAM:6]'s[N]Melody![PAU:40][CLD]`
 

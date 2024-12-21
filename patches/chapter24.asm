@@ -9,7 +9,7 @@
 -------------------------------------
 ?INCLUDE 'wa78_intro'
 -------------------------------------
-widestring_0780B6 `[TPL:0][TPL:F][DLY:3]We arrived at the[N]Floating City, Watermia.[N]It was a beautiful town[N]made up of rows of houses[N]that were built on rafts.[PAU:58][CLR]Since the townspeople are[N]nice too, we ended up[N]being given accommodations[N]in the house of a friendly[N]young man named Luke.[PAU:84][CLD]`
+widestring_0780B6 `[TPL:0][TPL:F][DLY:2]We arrived at the[N]Floating City, Watermia.[N]It was a beautiful town[N]made up of rows of houses[N]that were built on rafts.[PAU:58][CLR]Since the townspeople are[N]nice too, we ended up[N]being given accommodations[N]in the house of a friendly[N]young man named Luke.[PAU:84][CLD]`
 
 widestring_078139 `[TPL:0][TPL:F][DLY:0]And here is Luke's house.[N]He's a kind gentleman who[N]works as fisherman.[FIN]He was going out for a[N]long time on an ocean[N]voyage, so he said that we[N]should use his house in[WAI][N]the meantime.[END]`
 
@@ -41,7 +41,7 @@ widestring_07879B `[TPL:1C][TPL:F]Luke: Yo. Are you taking[N]a liking to the hou
 -------------------------------------
 ?INCLUDE 'wa78_diary'
 -------------------------------------
-widestring_079C19 `[TPL:0][TPL:F]Karen hid her diary here…[N]Read it?[N][PAL:0] Yes[N] No`
+widestring_079C19 `[TPL:0][TPL:F][NAM:1] hid her diary here…[N]Read it?[N][PAL:0] Yes[N] No`
 
 widestring_079C4A `[CLR]OK. You'd [LU1:91]guilty[N]reading it without[N]permission...[PAL:0][END]`
 ;TODO!!
@@ -81,7 +81,7 @@ widestring_078D02 `[TPL:1C][TPL:D]Child: I'll teach you[N]something good.[FIN][T
 
 widestring_078B73 `[TPL:1C][TPL:F]The so-called "crazy old[N]manˮ has amazingly white[N]hair but is actually[N]still young.[FIN]I wonder if he saw[N]something that was[N]extremely frightening…[END]`
 
-widestring_0788E0 `[TPL:1C][TPL:E]An old man who went[N]insane lives in a house[N]deep in this town.[FIN][TPL:F]I'm not sure, but I think[N]he participated in the[N]survey of the Tower of[N]Babel by the Allman[WAI][N]expedition team.[END]`
+widestring_0788E0 `[TPL:1C][TPL:E]An old man who went[N]insane lives in a house[N]deep in this town.[FIN][TPL:F]I'm not sure, but I think[N]he participated in the[N]survey of the Tower of[N]Babel by the [NAM:9][WAI][N]expedition team.[END]`
 
 -------------------------------------
 ?INCLUDE 'wa78_moving_woman'

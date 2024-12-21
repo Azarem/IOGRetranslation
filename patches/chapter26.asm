@@ -19,7 +19,7 @@ widestring_07A255 `[TPL:6][TPL:A]Neil: A vast desert stands[N]before us if we go
 -------------------------------------
 ?INCLUDE 'wa79_lily'
 -------------------------------------
-widestring_07AA34 `[TPL:2][TPL:A][NAM:2]: It'll be nice if[N]Rob's father could get[N]well quickly, wouldn't it?[END]`
+widestring_07AA34 `[TPL:2][TPL:A][NAM:2]: It'll be nice if[N][NAM:4]'s father could get[N]well quickly, wouldn't it?[END]`
 
 -------------------------------------
 ?INCLUDE 'wa79_lance'
@@ -79,7 +79,7 @@ widestring_079401 `[TPL:24][TPL:E]Competitor: Humph…! You're[N]damn lucky… I
 
 widestring_079422 `[TPL:24][TPL:E]Competitor: Hey, it's[N]your turn! Don't lose your[N]nerve and run away![END]`
 
-widestring_07944D `[TPL:24][TPL:D]Competitor: This is the[N]one remaining glass…[WAI][CLD][PAU:3C][TPL:1C][TPL:D][DLY:2]Spectator: It's okay now…[N]This boy won…[FIN][DLY:0]Spectator: That's right![N]Stop it already…!![FIN][TPL:24][TPL:F][DLY:3]Contestant: No… I have no[N]intention of being left in[N]shame with my tail between[N]my legs…[FIN][CLD][TPL:D][SFX:0][DLY:2]The man took the glass in[N]hand…[END]`
+widestring_07944D `[TPL:24][TPL:D]Competitor: This is the[N]one remaining glass…[WAI][CLD][PAU:3C][TPL:1C][TPL:D][DLY:2]Spectator: It's okay now…[N]This boy won…[FIN][DLY:0]Spectator: That's right![N]Stop it already…!![FIN][TPL:24][TPL:F][DLY:3]Contestant: No…[PAU:1E] I have no[N]intention of being left in[N]shame with my tail between[N]my legs…[FIN][CLD][TPL:D][SFX:0][DLY:2]The man took the glass in[N]hand…[END]`
 
 widestring_079520 `[TPL:1C][TPL:E]Spectator: Put that down[N]and come over here…! It's[N]already your loss…!![FIN]You don't need to be in a[N]hurry to die…![FIN][CLD][TPL:F][SFX:0][DLY:3]The man, not listening to[N]the spectators, quickly[N]downed the contents of the[N]glass![END]`
 
@@ -102,14 +102,14 @@ widestring_039696 `[TPL:D]Gently opened and read[N]the will.[FIN][TPL:24][BOR:1]
 
 widestring_07A833 `[TPL:1][TPL:A][NAM:1]: They say Neil[N]wasn't born in any old[N]house.[FIN]His family runs a trading[N]company from their mansion[N]in the town of Euro.[END]`
 
-widestring_07A506 `[TPL:3][TPL:A][NAM:3]: Why do we have to[N]part with Rob and Lillie[N]now…?[END]`
+widestring_07A506 `[TPL:3][TPL:A][NAM:3]: Why do we have to[N]part with [NAM:4] and [NAM:2][N]now…?[END]`
 
-widestring_07ADEA `[TPL:4][TPL:A][NAM:4]: It's my bad fer[N]everything, but I'm[N]remainin' here.[FIN]I guess I can't just dump[N]that old man of mine.[FIN]After that… [PAU:78]Uh, I guess[N]I'm feelin' shy or[N]somethin'…[FIN]The thing is, I'm goin'[N]out with [NAM:2].[FIN][TPL:B]These feelin's ain't fer[N]play, of course. I want us[N]ta be together fer a[N]while.[FIN]And Lillie says that she[N]wants ta stay together[N]too.[FIN]It was fun goin' out on a[N]journey with everyone. I[N]pray that yer journey is[N]successful.[END]`
+widestring_07ADEA `[TPL:4][TPL:A][NAM:4]: It's my bad fer[N]everything, but I'm[N]remainin' here.[FIN]I guess I can't just dump[N]that old man of mine.[FIN]After that… [PAU:78]Uh, I guess[N]I'm feelin' shy or[N]somethin'…[FIN]The thing is, I'm goin'[N]out with [NAM:2].[FIN][TPL:B]These feelin's ain't fer[N]play, of course. I want us[N]ta be together fer a[N]while.[FIN]And [NAM:2] says that she[N]wants ta stay together[N]too.[FIN]It was fun goin' out on a[N]journey with everyone. I[N]pray that yer journey is[N]successful.[END]`
 
 widestring_07AA5E `[TPL:2][TPL:9][NAM:2]: I'm also remaining[N]in this town.[FIN]As for the reason…[N]Well, ask [NAM:4].[END]`
 
 widestring_07A2BE `[TPL:6][TPL:A][LU1:36][N]You got Kruks? [LU1:5D][N]so expensive . .? [FIN]Why [LU1:CE]a sad face? [N][LU1:30]I [LU2:A8]ask [N][LU1:F7]the reason is. [FIN]I [LU1:DA]we [N][LU1:CA]go west, [N]to Euro... [FIN]Lance and [LU1:2C][LU1:F1][N]to stay [LU2:74]You [N][LU1:CA]ask [LU1:E6]why. [END]`
 ;TODO!!
 
-widestring_07A366 `[TPL:6][TPL:B]Neil: I think that the[N]moment where a boy and a[N]girl develop feelings for[N]each other is wonderful[WAI][N]and magical.[FIN]I want to believe that[N]we'll never forget this[N]feeling.[FIN]Anyway. My parents' house[N]is in Euro, isn't it?[FIN]I think we'll familiarize[N]ourselves with Tim's power[N]somehow if we go there.[FIN]Alright, let's head out to[N]Euro…!![END]`
+widestring_07A366 `[TPL:6][TPL:B]Neil: I think that the[N]moment where a boy and a[N]girl develop feelings for[N]each other is wonderful[WAI][N]and magical.[FIN]I want to believe that[N]we'll never forget this[N]feeling.[FIN]Anyway. My parents' house[N]is in Euro, isn't it?[FIN]I think we'll familiarize[N]ourselves with [NAM:0]'s power[N]somehow if we go there.[FIN]Alright, let's head out to[N]Euro…!![END]`
 

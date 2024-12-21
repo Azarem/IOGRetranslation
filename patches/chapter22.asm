@@ -10,7 +10,7 @@ widestring_06BB50 `[TPL:4][TPL:B][NAM:4]: Let's see here.[N]Fallen angel clan?[N
 -------------------------------------
 ?INCLUDE 'av69_lily'
 -------------------------------------
-widestring_06C224 `[TPL:2][TPL:A][NAM:2]: [NAM:0]. Let's go…[END]`
+widestring_06C224 `[TPL:2][TPL:8][NAM:2]: [NAM:0]. Let's go…[END]`
 
 -------------------------------------
 ?INCLUDE 'av69_kara'
@@ -33,7 +33,7 @@ widestring_06BC5C `[TPL:4][TPL:A][NAM:4]: [NAM:0]. Tha thing is,[N]I've got some
 
 widestring_06BD1A `[CLR][TPL:0][TPL:B][NAM:0]: That's right. I've[N]never thought that you'd[N]be saying things like[N]that.[FIN]`
 
-widestring_06BD4A `[CLR][TPL:0][TPL:B][NAM:0]: But by you've spent[N]a lot of time together by[N]now.[FIN]It wouldn't be unnatural[N]even to be in love with[N]her.[FIN][TPL:4][TPL:B][NAM:4]: Speakin' o' that.[N]It seems like [NAM:2]'s[N]fifteenth birthday is[N]comin' up soon.[FIN]I want to tell her my[N]feelin's with a present[N]then, but what do ya think[N]I should go with?[FIN][PAL:0] A pretty bouquet[N] A wonderful necklace[N] A tender kiss`
+widestring_06BD4A `[CLR][TPL:0][TPL:B][NAM:0]: But you've spent a[N]lot of time together by[N]now.[FIN]It wouldn't be unnatural[N]even to be in love with[N]her.[FIN][TPL:4][TPL:B][NAM:4]: Speakin' o' that.[N]It seems like [NAM:2]'s[N]fifteenth birthday is[N]comin' up soon.[FIN]I want to tell her my[N]feelin's with a present[N]then, but what do ya think[N]I should go with?[FIN][PAL:0] A pretty bouquet[N] A wonderful necklace[N] A tender kiss`
 
 widestring_06BE1F `[CLR][TPL:0][TPL:B][NAM:0]: I don't think[N]there's a girl out there[N]who wouldn't be happy to[N]get a bouquet of flowers.[FIN][TPL:4][TPL:B][NAM:4]: I guess that's[N]expected.[FIN]Well, I think I can try[N]to communicate a love[N]confession through tha'[N]language of flowers;[WAI][N]rosebuds.[FIN][JMP:&widestring_06BF7C]`
 
@@ -83,7 +83,7 @@ widestring_06CBEE `[TPL:1D][TPL:9]There are stories that say[N]we evolved from h
 -------------------------------------
 ?INCLUDE 'av6B_villagers2'
 -------------------------------------
-widestring_06CB5E `[TPL:1D][TPL:B]A short time ago, a human[N]girl came here.[FIN]Her name was Karen or[N]something like that.[FIN][TPL:A]It seems that she went to[N]the studio of the artist,[N]Ishtar.[FIN]His paintings are praised[N]for their beauty, you[N]know?[END]`
+widestring_06CB5E `[TPL:1D][TPL:9]A short time ago, a human[N]girl came here.[FIN]Her name was [NAM:1] or[N]something like that.[FIN][TPL:A]It seems that she went to[N]the studio of the artist,[N]Ishtar.[FIN]His paintings are praised[N]for their beauty, you[N]know?[END]`
 
 widestring_06CC22 `[TPL:1D][TPL:A]I'll teach you the route[N]to the studio, so remember[N]it, alright?[FIN]First of all,[N]follow the wind.[FIN][TPL:B]You'll understand if you[N]look at which direction[N]the flames of the torches[N]are bending in.[FIN]You can hear the sound of[N]a waterfall where the[N]strong wind storms through[N]the dark passage.[FIN]Subsequently, please[N]examine the area where[N]the waterfall's sound is[N]the loudest.[FIN]Ishtar's studio is beyond[N]there. Be careful,[N]alright?[END]`
 

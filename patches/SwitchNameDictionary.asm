@@ -19,6 +19,8 @@ name_dictionary_en [
     &name_sam_en    ;0A
     &name_remus_en  ;0B
     &name_imas_en   ;0C
+    &name_mystic_en ;0D
+    &name_statue_en ;0E
 ]
 
 name_will_en    `Will`
@@ -34,6 +36,8 @@ name_olman_en   `Olman`
 name_sam_en     `Sam`
 name_remus_en   `Remus`
 name_imas_en    `Imas`
+name_mystic_en  `Mystic`
+name_statue_en  `Statue`
 
 
 ---------------------------------------------
@@ -52,6 +56,8 @@ name_dictionary_jp [
     &name_sam_jp    ;0A
     &name_remus_jp  ;0B
     &name_imas_jp   ;0C
+    &name_mystic_jp ;0D
+    &name_statue_jp ;0E
 ]
 
 name_will_jp    `Tim`
@@ -67,6 +73,8 @@ name_olman_jp   `Allman`
 name_sam_jp     `Sahmuus`
 name_remus_jp   `Rehmuus`
 name_imas_jp    `Ihmuus`
+name_mystic_jp  `Mystery`
+name_statue_jp  `Doll`
 
 
 
@@ -123,7 +131,7 @@ widestring_0BF625 `[DLG:D,C][SFX:0][ADR:&table_0BF667,D90]`
 
 widestring_0BF66B `Japanese`
 
-widestring_0BF672 `English`
+widestring_0BF672 `English `
 
 
 ---------------------------------------------

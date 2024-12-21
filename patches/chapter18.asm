@@ -22,7 +22,7 @@ widestring_05F71C `[TPL:E]When you step on this[N]tile, something makes a[N]soun
 ------------------------------------
 ?INCLUDE 'sg55_mystic_statue'
 ------------------------------------
-widestring_0ACF0E `[TPL:E]After defeating the huge[N]bird, you found a Mystery[N]Doll in its corpse!![END]`
+widestring_0ACF0E `[TPL:E]After defeating the huge[N]bird, you found a [NAM:D][N][NAM:E] in its corpse!![END]`
 
 widestring_0ACF4A `[TPL:E]Through the sound of a[N]propeller, Neil's voice[N]echoes from a megaphone![FIN][TPL:6][TPL:E]Neil: [NAM:0]…! You're[N]getting too close to the[N]grouuund…!![FIN]I'll catch you in my[N]aeroplane, so jump[N]down…!![END]`
 

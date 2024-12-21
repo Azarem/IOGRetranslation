@@ -1,159 +1,43 @@
 ;CHAPTER 35
 
-
 -------------------------------------
 ?INCLUDE 'death_message'
 -------------------------------------
 widestring_00D848 `[TPL:4][BOR:4][TPL:E]Shadow: When I came to, I[N]was at a place that was[N]familiar to me…[END]`
-;Shadow: When I came to, I was at a place that was familiar to me…
 
 -------------------------------------
 ?INCLUDE 'sE5_epilogue'
 -------------------------------------
 widestring_0BD558 `[TPL:1][TPL:9][SFX:0][DLY:6][NAM:1]: I wonder what will[N]become of the comet…?[PAU:78][TPL:A]And what in the world is[N]that huge, shining blue[N]star out there?[PAU:B4][CLD]`
-;Karen: I wonder what will become of the comet…?
-;And what in the world is that huge, shining blue star out there?
 
 widestring_0BD5A0 `[TPL:23][TPL:9][SFX:0][DLY:6][NAM:0]'s father: The comet[N]has lost its power.[PAU:78][CLR]The star of the devil will[N]now fly off into space…[PAU:B4][CLR][TPL:A][NAM:0]. [PAU:28]Don't you know that[N]blue star floating in the[N]darkness somehow?[PAU:B4][CLD][TPL:0][TPL:8][SFX:0][DLY:6][NAM:0]: That's our planet…?[PAU:78][CLR][TPL:23][TPL:A][SFX:0][NAM:0]'s father: That's[N]right. That's our planet,[N]the Earth.[PAU:78][CLR]Doesn't it seem like an[N]oasis in the desert?[PAU:B4][CLR][TPL:1][TPL:A][SFX:0][NAM:1]: So the thing that[N]we called the Earth was[N]something so pretty?[PAU:B4][CLR]But shining alone in the[N]darkness, it seems somehow[N]lonely…[PAU:B4][CLD]`
-;Tim's father: The comet has lost its power.
-;The star of the devil will now fly off into space…
-;Tim. Don't you know that blue star floating in the darkness somehow?
-;Tim: That's our planet…?
-;Tim's father: That's right. That's our planet, the Earth.
-;Doesn't it seem like an oasis in the desert?
-;Karen: So the thing that we called the Earth was something so pretty?
-;But shining alone in the darkness, it seems somehow lonely…
 
 widestring_0BD70E `[TPL:2][TPL:A][SFX:0][DLY:6]Mysterious voice: That's[N]right. The Earth is[N]lonesome.[PAU:B4][CLD]`
-;Mysterious voice: That's right. The Earth is lonesome.
 
 widestring_0BD740 `[TPL:0][TPL:8][SFX:0][DLY:6][NAM:0]: Mom…!?[PAU:B4][CLR][TPL:2][TPL:A][SFX:0][NAM:0]'s mother: The Earth…[N]A mother that has hundreds[N]of millions of children.[PAU:B4][CLR]Sometimes [NAM:0] remembered[N]us. [NAM:1], did you[N]sometimes think of your[N]parents?[PAU:B4][CLR]The Earth is the same.[N]It's lonely when it is[N]forgotten by its children.[PAU:B4][CLR][TPL:23][TPL:A][SFX:0][NAM:0]'s father: How is it?[N]Both of you?[PAU:B4][CLR]What do you feel, gazing[N]from the outside at the[N]planet you yourselves[N]lived on?[PAU:B4][CLD][TPL:1][TPL:9][SFX:0][DLY:6][NAM:1]: It's as if we've[N]become God…[PAU:B4][CLR][TPL:0][TPL:9][SFX:0][NAM:0]: I want to show this[N]to [NAM:4] and everyone…[PAU:78][CLR][TPL:A]No, I want to show this[N]scenery to people[N]throughout the world…[PAU:B4][CLR][TPL:23][TPL:B][SFX:0][NAM:0]'s father: Humanity[N]will eventually on their[N]own power invent a ship[N]that can go to space.[PAU:B4][CLD][TPL:23][TPL:A][SFX:0][DLY:6]Then they will be able to[N]see this blue Earth with[N]their own eyes.[PAU:B4][CLR][TPL:B]When that happens, I want[N]them to see the Earth[N]making a lovely face like[N]it is for the two of you.[PAU:B4][CLR][NAM:0]'s father: Look.[N]Please look closely at the[N]map of the world you're[N]holding.[PAU:B4][CLR][TPL:0][TPL:B][SFX:0][NAM:0]: Ah. The shapes on[N]the map are starting to[N]change…![PAU:B4][CLD]`
-;Tim: Mom…!?
-;Tim's mother: The Earth… A mother that has hundreds of millions of children.
-;Sometimes Tim remembered us. Karen, did you sometimes think of your parents?
-;The Earth is the same. It's lonely when it is forgotten by its children.
-;Tim's father: How is it? Both of you? What do you feel, gazing from the outside at the planet you yourselves lived on?
-;Karen: It's as if we've become God…
-;Tim: I want to show this to Rob and everyone…
-;No, I want to show this scenery to people throughout the world…
-;Tim's father: Humanity will eventually on their own power invent a ship that can go to space.
-;Then they will be able to see this blue Earth with their own eyes.
-;When that happens, I want them to see the Earth making a lovely face like it is for the two of you.
-;Tim's father: Look. Please look closely at the map of the world you're holding.
-;Tim: Ah. The shapes on the map are starting to change…!
 
 -------------------------------------
 ?INCLUDE 's90_changed_world'
 -------------------------------------
-widestring_0BDED4 `[TPL:0][TPL:E][SFX:0][DLY:6]Tim: The land transformed[N]into a strange shape[N]somehow.[PAU:B4][CLR][TPL:23][TPL:E][SFX:0][NAM:0]'s father: That's the[N]new world.[PAU:B4][CLR][TPL:1][TPL:E][SFX:0][NAM:1]: New world?[PAU:B4][CLR][TPL:23][TPL:F][SFX:0][NAM:0]'s father: Living[N]things have evolved until[N]this point through[N]mistaken evolution by the[N]comet's power.[PAU:B4][CLR]The Earth is also a life.[N]Its form had been changed[N]by similar evolution.[PAU:B4][CLR]The world should return to[N]its original form now that[N]the comet's power no[N]longer reaches it.[PAU:B4][CLD]`
-;Tim: The land transformed into a strange shape somehow.
-;Tim's father: That's the new world.
-;Karen: New world?
-;Tim's father: Living things have evolved until this point through mistaken evolution by the comet's power.
-;The Earth is also a life. Its form had been changed by similar evolution.
-;The world should return to its original form now that the comet's power no longer reaches it.
+widestring_0BDED4 `[TPL:0][TPL:E][SFX:0][DLY:6][NAM:0]: The land transformed[N]into a strange shape[N]somehow.[PAU:B4][CLR][TPL:23][TPL:E][SFX:0][NAM:0]'s father: That's the[N]new world.[PAU:B4][CLR][TPL:1][TPL:E][SFX:0][NAM:1]: New world?[PAU:B4][CLR][TPL:23][TPL:F][SFX:0][NAM:0]'s father: Living[N]things have evolved until[N]this point through[N]mistaken evolution by the[N]comet's power.[PAU:B4][CLR]The Earth is also a life.[N]Its form had been changed[N]by similar evolution.[PAU:B4][CLR]The world should return to[N]its original form now that[N]the comet's power no[N]longer reaches it.[PAU:B4][CLD]`
 
-widestring_0BD9FA `[TPL:0][TPL:A][SFX:0][DLY:6][NAM:0]: Dad and Mom, how do[N]you know the events of the[N]future?[PAU:B4][CLR][TPL:23][TPL:B][SFX:0]Tim's father: When I lost[N]my corporeal body, it was[N]as if I became able to see[N]everything.[PAU:B4][CLR]Events of the past, events[N]of the future, and even[N]the path that humanity is[N]following.[PAU:B4][CLR]Perhaps people would call[N]a being with a body like[N]this a god.[PAU:B4][CLR][TPL:2][TPL:B][SFX:0][NAM:0]'s mother: Anyhow,[N]with everything being done[N]you two can turn back into[N]normal children as well.[PAU:B4][CLR]It's okay not to think[N]about scary things[N]anymore.[PAU:B4][CLR][TPL:1][TPL:B][SFX:0][NAM:1]: Will we become[N]separated when the Earth[N]has reverted?[PAU:B4][CLR][TPL:23][TPL:B][SFX:0][NAM:0]'s father: That's[N]right… As the Earth is[N]changing too, even people[N]and history will begin to[N]walk new paths.[PAU:B4][CLR]Supposing even that you[N]two encounter eachother at[N]a street corner somewhere,[N]you probably won't[N]recognize each other…[PAU:B4][CLR]But I guess that when the[N]Earth needs the Warrior of[N]Light and Darkness,[N]perhaps you two will[N]happen to meet again.[PAU:B4][CLR]Well, please head to Earth[N]before the comet's power[N]vanishes completely.[PAU:B4][CLR][TPL:2][TPL:B][SFX:0][NAM:0]'s mother: It would be[N]great if a wonderful[N]future came to visit the[N]two of you, wouldn't it…?[PAU:B4][CLD]`
-;Tim: Dad and Mom, how do you know the events of the future?
-;Tim's father: When I lost my corporeal body, it was as if I became able to see everything.
-;Events of the past, events of the future, and even the path that humanity is following.
-;Perhaps people would call a being with a body like this a god.
-;Tim's mother: Anyhow, with everything being done, you two can turn back into normal children as well.
-;It's okay not to think about scary things anymore.
-;Karen: Will we become separated when the Earth has reverted?
-;Tim's father: That's right… As the Earth is changing too, even people and history will begin to walk new paths.
-;Supposing even that you two encounter each other at a street corner somewhere, you probably won't recognize each other…
-;But I guess that when the Earth needs the Warrior of Light and Darkness, perhaps you two will happen to meet again.
-;Well, please head to Earth before the comet's power vanishes completely.
-;Tim's mother: It would be great if a wonderful future came to visit the two of you, wouldn't it…?
+widestring_0BD9FA `[TPL:0][TPL:A][SFX:0][DLY:6][NAM:0]: Dad and Mom, how do[N]you know the events of the[N]future?[PAU:B4][CLR][TPL:23][TPL:B][SFX:0][NAM:0]'s father: When I lost[N]my corporeal body, it was[N]as if I became able to see[N]everything.[PAU:B4][CLR]Events of the past, events[N]of the future, and even[N]the path that humanity is[N]following.[PAU:B4][CLR]Perhaps people would call[N]a being with a body like[N]this a god.[PAU:B4][CLR][TPL:2][TPL:B][SFX:0][NAM:0]'s mother: Anyhow,[N]with everything being done[N]you two can turn back into[N]normal children as well.[PAU:B4][CLR]It's okay not to think[N]about scary things[N]anymore.[PAU:B4][CLR][TPL:1][TPL:B][SFX:0][NAM:1]: Will we become[N]separated when the Earth[N]has reverted?[PAU:B4][CLR][TPL:23][TPL:B][SFX:0][NAM:0]'s father: That's[N]right… As the Earth is[N]changing too, even people[N]and history will begin to[N]walk new paths.[PAU:B4][CLR]Supposing even that you[N]two encounter eachother at[N]a street corner somewhere,[N]you probably won't[N]recognize each other…[PAU:B4][CLR]But I guess that when the[N]Earth needs the Warrior of[N]Light and Darkness,[N]perhaps you two will[N]happen to meet again.[PAU:B4][CLR]Well, please head to Earth[N]before the comet's power[N]vanishes completely.[PAU:B4][CLR][TPL:2][TPL:B][SFX:0][NAM:0]'s mother: It would be[N]great if a wonderful[N]future came to visit the[N]two of you, wouldn't it…?[PAU:B4][CLD]`
 
 widestring_0BDC95 `[TPL:1][TPL:A][SFX:0][DLY:6][NAM:1]: [NAM:0]…[PAU:28] Come this way…[PAU:50][N]And show me your face[N]closely…[PAU:B4][CLR]I want it to be firmly[N]burned into my mind.[PAU:B4][CLR]Your eyes,[PAU:1E] your nose,[PAU:1E] your[N]mouth,[PAU:28] your hair,[PAU:1E] your[N]voice,[PAU:28] and even your[N]warmth…[PAU:B4][CLD]`
-;Karen: Tim… Come this way… And show me your face closely…
-;I want it to be firmly burned into my mind.
-;Your eyes, your nose, your mouth, your hair, your voice, and even your warmth…
 
 widestring_0BDD34 `[TPL:0][TPL:A][SFX:0][DLY:6][NAM:0]: You don't have to[N]worry.[PAU:3C] Because I will[N]definitely find you.[PAU:B4][CLR]No matter how many years[N]it takes,[PAU:3C] even if a[N]hundred years,[PAU:1E] a thousand[N]years,[PAU:1E] I will come to meet[N]you again.[PAU:B4][CLR]So be at ease…[PAU:5A][N]And shut your eyes…[PAU:78][CLD]`
-;Tim: You don't have to worry. Because I will definitely find you.
-;No matter how many years it takes, even if takes a hundred years, even if it takes a thousand years, I will come to meet you again.
-;So be at ease… And shut your eyes…
 
 widestring_0BDDE5 `[TPL:1][TPL:8][SFX:0][DLY:6][NAM:1]: [NAM:0]…[PAU:78][CLD]`
-;Karen: Tim…
 
 widestring_0BDE02 `[TPL:0][TPL:9][SFX:0][DLY:6][NAM:0]: Well, let's go.[N]To the Earth…[PAU:B4][CLR][CLD][TPL:1][TPL:9][SFX:0][DLY:6][NAM:1]: Yeah…[PAU:B4][CLD]`
-;Tim: Well, let's go. To the Earth…
-;Karen: Yeah…
 
 -------------------------------------
 ?INCLUDE 's89_new_babel'
 -------------------------------------
 widestring_0BE075 `[TPL:F][DLY:8]The way that the Earth was[N]dressed had greatly[N]changed, but the world[N]dyed in madder red was as[N]beautiful as ever.[PAU:B4][CLR]Even as the forests became[N]swarms of buildings,[N]rivers became the flow of[N]automobile traffic, the[N]cities were flooding with[N]people's smiling faces.[PAU:B4][CLR]Only the Earth alone[N]seemed lonely.[PAU:B4][CLR]When we wake up tomorrow[N]morning, [NAM:1] and I will[N]begin our new lives.[PAU:B4][CLR]The Tower of Babel of the[N]year 1993 towered above as[N]if it knew everything of[N]Earth's future.[PAU:F0][CLD]`
-;The way that the Earth was dressed had greatly changed, but the world dyed in madder red was as beautiful as ever.
-;Even as the forests became swarms of buildings, rivers became the flow of automobile traffic, the cities were flooding with people's smiling faces.
-;Only the Earth alone seemed lonely.
-;When we wake up tomorrow morning, Karen and I will begin our new lives.
-;The Tower of Babel of the year 1993 towered above as if it knew everything in Earth's future.
-
-;The Illusion of GAIA / STAFF
-
-;Original Story / MARIKO OHARA
-
-;Character Designer / MOTO HAGIO
-
-;Game Designer / TOMOYOSHI MIYAZAKI
-
-;Program Director / MASAYA HASHIMOTO
-
-;Main Programmer / AKIRA KITANOHARA
-
-;Background Designer / HISASHI YOKOTA
-
-;Object Designer / JUNICHI ISHIDA / HITOSHI ARIGA
-
-;Graphic Designer / NAOKO SUZUKI / TAKAHIRO OHURA / KOUJI YOKOTA
-
-;Sound Composer / YASUHIRO KAWASAKI
-
-;Quintet Staff / TATSUO HASHIMOTO / SHIGEMI KITA / REIKO TAKEBAYASHI
-
-;ENIX Staff / YUKINOBU CHIDA / TAKAO KAWAGUCHI / KEIJI HONDA
-
-;Art Direction / TOORU MAKI / HIDEKI YAMAMOTO / TAKASHI OOTSUKA
-
-;Art Direction / SHINJI FUTAMI / YASUKO SEKIGUCHI
-
-;Technical Support / SADAO YAHAGI / KENJIRO KANO
-
-;Special Thanks / YUTAKA SASAKI / TAKESHI IIDA / HIDEYUKI OIKAKE
-
-;Special Thanks / HIROFUMI KURODA / AKITAKA SHIGENO / JUN YUKUYOSHI
-
-;Special Thanks / YUMIKO TSUKUDA / HIDEYUKI OHWADA / MINORU KAKIZAWA
-
-;Special Thanks / NAOHITO SUGINAKA / KENJI TANIUCHI
-
-;Director / MASAYA HASHIMOTO
-
-;Assistant Producer / KAZUNORI TAKADO
-
-;Producer / YASUYUKI SONE
-
-;Publisher / YASUHIRO FUKUSHIMA
-
-;Copyright / 1993 ENIX / 1993 QUINTET
-
-;Copyright / 1993 MARIKO OHARA / 1993 MOTO HAGIO / 1993 YASUHIRO KAWASAKI
-
-;Licensed by NINTENDO
-
-;Thank you for playing
 
 -------------------------------------
 ?INCLUDE 'sF0_class_dismissed'
 -------------------------------------
 widestring_09DD10 `[DLG:0,17][SIZ:F,3][DLY:5]   Today's lesson ends here.[N][PAU:B4][CLR]  Traffic accidents have been[N]   on the increase recently.[N][PAU:F0][CLR]    Everyone, be careful of[N]   cars when returning home.[N][PAU:68][CLD]`
-;Today's lesson ends here.
-;Traffic accidents have been on the increase recently. Everyone, be careful of cars when returning home.
-
-;END
 

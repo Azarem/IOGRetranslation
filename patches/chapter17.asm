@@ -39,7 +39,7 @@ widestring_05F29F `[TPL:3][TPL:E][NAM:3]: What's going to[N]happen…? I'm getti
 
 widestring_05F2C7 `[TPL:3][TPL:E][NAM:3]: What's going to[N]happen…? I'm getting[N]excited.[END]`
 
-widestring_05EA25 `[TPL:6][TPL:E]Neil: Aaallright, now that[N]everyone's back, let's get[N]to the main question.[FIN][TPL:F]The thing that [NAM:0] was[N]calling a Mystery Doll is[N]probably going to be[N]somewhere in this plain,[WAI][N]right?[FIN][CLD][PAU:28][TPL:3][TPL:F][NAM:3]: The thought came to[N]me when I was looking at[N]the drawing on the ground[N]just now;[FIN]don't you think that you[N]can kind of see the form[N]of a swan in this condor[N]image?[FIN][CLD][PAU:14][TPL:6][TPL:D]Neil: That's it…! You've[N]figured it out…!![FIN][TPL:F]We've been comparing the[N]arrangement of the stars[N]in that constellation to a[N]swan,[FIN]…but as far as the ancient[N]people of Nazca were[N]concerned, it might have[N]been a condor.[END]`
+widestring_05EA25 `[TPL:6][TPL:E]Neil: Aaallright, now that[N]everyone's back, let's get[N]to the main question.[FIN][TPL:F]The thing that [NAM:0] was[N]calling a [NAM:D] [NAM:E][N]is probably going to be[N]somewhere in this plain,[WAI][N]right?[FIN][CLD][PAU:28][TPL:3][TPL:F][NAM:3]: The thought came to[N]me when I was looking at[N]the drawing on the ground[N]just now;[FIN]don't you think that you[N]can kind of see the form[N]of a swan in this condor[N]image?[FIN][CLD][PAU:14][TPL:6][TPL:D]Neil: That's it…! You've[N]figured it out…!![FIN][TPL:F]We've been comparing the[N]arrangement of the stars[N]in that constellation to a[N]swan,[FIN]…but as far as the ancient[N]people of Nazca were[N]concerned, it might have[N]been a condor.[END]`
 
 widestring_05F148 `[TPL:2][TPL:D][NAM:2]: Aaaaaaaaaaah…!![N]I've got it…!![END]`
 

@@ -66,7 +66,7 @@ widestring_06A19E `[TPL:17][TPL:E]What meaning would there[N]even be in going on
 
 widestring_06A26D `[TPL:17][TPL:D]People started to dig an[N]undersea tunnel.[FIN]We didn't know how many[N]centuries…[FIN][TPL:F]…no, how many millennia[N]this plan that we had[N]entrusted our hopes into[N]would take,[FIN]…but they continued[N]digging…[END]`
 
-widestring_069FE3 `[TPL:17][TPL:E]The undersea tunnel that[N]the people had dug is[N]inside here.[FIN]And with that, please take[N]this Mystery Doll.[END]`
+widestring_069FE3 `[TPL:17][TPL:E]The undersea tunnel that[N]the people had dug is[N]inside here.[FIN]And with that, please take[N]this [NAM:D] [NAM:E].[END]`
 
 ----------------------------------------------
 ?INCLUDE 'mu67_erik'
@@ -76,7 +76,7 @@ widestring_06A36B `[TPL:3][TPL:D][NAM:3]: Waaaaaaah…[N]Somebody saaave me…!!
 ----------------------------------------------
 ?INCLUDE 'mu67_vampires'
 ----------------------------------------------
-widestring_0AFB45 `[TPL:21][TPL:E]Vampire man: You did well,[N]finding the Mystery Doll[N]for us![FIN]I was thinking that[N]someone strange had turned[N]up at the palace but…[FIN]Pshaw. I was right to let[N]you free.[FIN][TPL:22][TPL:E]Vampire woman: What are[N]you going on about?[FIN][TPL:F]Even though you start[N]drooling when anything[N]that resembles prey turns[N]up…![FIN]Every single time that you[N]manage to get a hold of a[N]few young children, you're[N]always like that…![FIN][CLD][TPL:22][TPL:D]Do you think of nothing[N]but eating…?[FIN][TPL:21][TPL:D]Vampire man: You're one to[N]talk![FIN][TPL:E]Hey, wait. Now isn't the[N]situation to be having a[N]lover's quarrel.[FIN]First off, let's take that[N]Mystery Doll. You there![N]Prepare yourself…!![END]`
+widestring_0AFB45 `[TPL:21][TPL:E]Vampire man: You did well,[N]finding the [NAM:D] [NAM:E][N]for us![FIN]I was thinking that[N]someone strange had turned[N]up at the palace but…[FIN]Pshaw. I was right to let[N]you free.[FIN][TPL:22][TPL:E]Vampire woman: What are[N]you going on about?[FIN][TPL:F]Even though you start[N]drooling when anything[N]that resembles prey turns[N]up…![FIN]Every single time that you[N]manage to get a hold of a[N]few young children, you're[N]always like that…![FIN][CLD][TPL:22][TPL:D]Do you think of nothing[N]but eating…?[FIN][TPL:21][TPL:D]Vampire man: You're one to[N]talk![FIN][TPL:E]Hey, wait. Now isn't the[N]situation to be having a[N]lover's quarrel.[FIN]First off, let's take that[N][NAM:D] [NAM:E]. You there![N]Prepare yourself…!![END]`
 
 widestring_0AFCA0 `[TPL:22][TPL:F]Vampire woman: Hmph. That[N]man's dead; what a relief.[N]Alright, it's your turn[N]next…!! Get ready…!![END]`
 

@@ -49,7 +49,7 @@ widestring_0589DB `[TPL:1B][TPL:A]Why did we have to escape?[N]The Incan Empire 
 ---------------------------------------
 ?INCLUDE 'gs2E_crew2'
 ---------------------------------------
-widestring_058940 `[TPL:1B][TPL:A]Ah, Your Majesty. The[N]Mystery Doll is inside of[N]this box.[FIN]Moreover, it seems that we[N]should be prepared for[N]departure soon.[FIN][TPL:B]What will you do? Will you[N]climb the lookout tower[N]and take a look for[N]yourself?[FIN]You'll be able to watch[N]as we depart.[END]`
+widestring_058940 `[TPL:1B][TPL:A]Ah, Your Majesty. The[N][NAM:D] [NAM:E] is inside of[N]this box.[FIN]Moreover, it seems that we[N]should be prepared for[N]departure soon.[FIN][TPL:B]What will you do? Will you[N]climb the lookout tower[N]and take a look for[N]yourself?[FIN]You'll be able to watch[N]as we depart.[END]`
 
 ---------------------------------------
 ?INCLUDE 'gs2E_crew1'
@@ -59,12 +59,12 @@ widestring_05883E `[TPL:1B][TPL:B]Her Majesty, the Queen,[N]has carefully put on
 ---------------------------------------
 ?INCLUDE 'gs2E_queen'
 ---------------------------------------
-widestring_058A30 `[TPL:3][BOR:5][TPL:B]Incan Queen: How wonderful[N]that you've returned safe[N]and well for me, my[N]darling.[FIN]The Mystery Doll of the[N]wind that you had spoken[N]of had protected me many[N]times until today![FIN]You said it was a stone[N]statue blessed by the[N]gods, right?[FIN][::][TPL:3][BOR:5][TPL:B]I believe it has been[N]placed in a treasure box[N]in the storehouse below;[N]please confirm it with[WAI][N]your own eyes.[END]`
+widestring_058A30 `[TPL:3][BOR:5][TPL:B]Incan Queen: How wonderful[N]that you've returned safe[N]and well for me, my[N]darling.[FIN]The [NAM:D] [NAM:E] of the[N]wind that you had spoken[N]of had protected me many[N]times until today![FIN]You said it was a stone[N]statue blessed by the[N]gods, right?[FIN][::][TPL:3][BOR:5][TPL:B]I believe it has been[N]placed in a treasure box[N]in the storehouse below;[N]please confirm it with[WAI][N]your own eyes.[END]`
 
 ---------------------------------------
 ?INCLUDE 'itemget_table_01FD24'
 ---------------------------------------
-widestring_01FEA8 `Found a Mystery Doll!`
+widestring_01FEA8 `Found a [NAM:D] [NAM:E]!`
 
 ---------------------------------------
 ?INCLUDE 'gs2C_crow_crew'

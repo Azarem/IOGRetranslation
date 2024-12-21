@@ -30,7 +30,7 @@ widestring_04B612 `[TPL:5][TPL:A][NAM:5]: I have no interest[N]in girls. Reading
 
 widestring_04BB59 `[TPL:3][TPL:A][NAM:3]: Guh. And I had been[N]thinking that maybe[N]everyone would be[WAI][N]surprised…[END]`
 
-widestring_04B652 `[TPL:5][TPL:A][NAM:5]: Alright, since[N]everyone's here, what[N]are we doing today?[FIN][TPL:3][TPL:A][NAM:3]: I think I want[N]to see Tim's mysterious[N]powers.[FIN]Look, he showed it to us[N]the other day, didn't he?[N]The guy can move things[WAI][N]without using his hands.[FIN][TPL:4][TPL:A][NAM:4]: If I'm rememberin',[N]I think he moved tha stone[N]statue in this cavern's[WAI][N]nook.[FIN]Tim.[N]Show us one more time.[END]`
+widestring_04B652 `[TPL:5][TPL:A][NAM:5]: Alright, since[N]everyone's here, what[N]are we doing today?[FIN][TPL:3][TPL:A][NAM:3]: I think I want[N]to see [NAM:0]'s mysterious[N]powers.[FIN]Look, he showed it to us[N]the other day, didn't he?[N]The guy can move things[WAI][N]without using his hands.[FIN][TPL:4][TPL:A][NAM:4]: If I'm rememberin',[N]I think he moved tha stone[N]statue in this cavern's[WAI][N]nook.[FIN][NAM:0].[N]Show us one more time.[END]`
 
 widestring_04BB89 `[TPL:3][TPL:A][NAM:3]: Recently, you moved[N]the stone statue without[N]being near it, right?[END]`
 
