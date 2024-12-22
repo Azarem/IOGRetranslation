@@ -34,7 +34,7 @@ widestring_0BDE02 `[TPL:0][TPL:9][SFX:0][DLY:6][NAM:0]: Well, let's go.[N]To the
 -------------------------------------
 ?INCLUDE 's89_new_babel'
 -------------------------------------
-widestring_0BE075 `[TPL:F][DLY:8]The way that the Earth was[N]dressed had greatly[N]changed, but the world[N]dyed in madder red was as[N]beautiful as ever.[PAU:B4][CLR]Even as the forests became[N]swarms of buildings,[N]rivers became the flow of[N]automobile traffic, the[N]cities were flooding with[N]people's smiling faces.[PAU:B4][CLR]Only the Earth alone[N]seemed lonely.[PAU:B4][CLR]When we wake up tomorrow[N]morning, [NAM:1] and I will[N]begin our new lives.[PAU:B4][CLR]The Tower of Babel of the[N]year 1993 towered above as[N]if it knew everything of[N]Earth's future.[PAU:F0][CLD]`
+widestring_0BE075 `[TPL:F][SFX:0][DLY:8]The way that the Earth was[N]dressed had greatly[N]changed, but the world[N]dyed in madder red was as[N]beautiful as ever.[PAU:B4][CLR]Even as the forests became[N]swarms of buildings,[N]rivers became the flow of[N]automobile traffic, the[N]cities were flooding with[N]people's smiling faces.[PAU:B4][CLR]Only the Earth alone[N]seemed lonely.[PAU:B4][CLR]When we wake up tomorrow[N]morning, [NAM:1] and I will[N]begin our new lives.[PAU:B4][CLR]The Tower of Babel of the[N]year 1993 towered above as[N]if it knew everything of[N]Earth's future.[PAU:F0][CLD]`
 
 -------------------------------------
 ?INCLUDE 'sF0_class_dismissed'
