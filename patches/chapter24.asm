@@ -21,7 +21,7 @@ widestring_07A613 `[TPL:1][TPL:B][NAM:1]: Watermia is an[N]amazingly pretty town
 -------------------------------------
 ?INCLUDE 'wa79_erik'
 -------------------------------------
-widestring_07A475 `[TPL:3][TPL:9][NAM:3]: Eheheh. I found[N]something good just now.[FIN][TPL:B]Take a look behind this[N]house. It'll might hurt[N]your conscience a little,[N]but hey…[END]`
+widestring_07A475 `[TPL:3][TPL:9][NAM:3]: Eheheh. I found[N]something good just now.[FIN][TPL:B]Take a look behind this[N]house. It might hurt your[N]conscience a little, but[N]hey…[END]`
 
 -------------------------------------
 ?INCLUDE 'wa79_lily'
@@ -110,15 +110,15 @@ widestring_078607 `[TPL:1C][TPL:D]Man: This animal is[N]called a Krook.[FIN][TPL
 
 widestring_078674 `[TPL:1C][TPL:D]Man: This is a gambling[N]house.[FIN][TPL:F]I guess you must be really[N]trouble for money if[N]you're coming to a place[N]like this even though[WAI][N]you're a child…[END]`
 
-widestring_078ABA `[TPL:1C][TPL:E]As you can see, this is a[N]drinking contest. We're[N]gambling on who will win.[END]`
+widestring_078ABA `[TPL:1C][TPL:A]As you can see, this is a[N]drinking contest. We're[N]gambling on who will win.[END]`
 
-widestring_078881 `[TPL:1C][TPL:D]It's just like gambling[N]with human life.[FIN][TPL:F]If they make a little[N]mistake in their[N]judgement, they're sent[N]headfirst down the road[WAI][N]to hell.[FIN]It's something that[N]humans do within their[N]unconscious mind, isn't[N]it?[END]`
+widestring_078881 `[TPL:1C][TPL:9]It's just like gambling[N]with human life.[FIN][TPL:B]If they make a little[N]mistake in their[N]judgement, they're sent[N]headfirst down the road[WAI][N]to hell.[FIN]It's something that[N]humans do within their[N]unconscious mind, isn't[N]it?[END]`
 
 widestring_078A73 `[TPL:1C][TPL:D]Human life isn't[N]something easy.[FIN][TPL:E]Make sure not to throw[N]your life away with[N]worthless gambling.[END]`
 
 widestring_0787DA `[TPL:1C][TPL:F]You can try going to the[N]raft floating behind this[N]building if you want to[N]make big money.[END]`
 
-widestring_07881B `[TPL:1C][TPL:E]You can get a lot of[N]money even if you only[N]bet a little.[FIN]I guess if you're willing[N]to bet your life, you can[N]get fabulously rich.[END]`
+widestring_07881B `[TPL:1C][TPL:A]You can get a lot of[N]money even if you only[N]bet a little.[FIN]I guess if you're willing[N]to bet your life, you can[N]get fabulously rich.[END]`
 
 -------------------------------------
 ?INCLUDE 'wa7B_competitor_right'

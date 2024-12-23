@@ -78,7 +78,7 @@ widestring_07C1DC `[TPL:1E][TPL:E]This is a Tearpot. Quite[N]simply, it's a pot 
 -------------------------------------
 ?INCLUDE 'eu91_women1'
 -------------------------------------
-widestring_07C836 `[TPL:1E][TPL:F]Do you believe in[N]fortune-telling?[N][PAL:4] Yes[N] No[PAL:4]`
+widestring_07C836 `[TPL:1E][TPL:F]Do you believe in[N]fortune-telling?[N][PAL:0] Yes[N] No[PAL:4]`
 
 widestring_07C860 `[CLR]That's how it is, is it?[N]So you're saying that if[N]you have your future told,[N]it might be a dark future…[FIN]An extremely huge comet[N]is grazing across the[N]Earth… They say that[N]people will die off…[FIN]Well, if that's how it is,[N]all I'm going to do from[N]now on is binge eat…!![END]`
 
@@ -95,7 +95,7 @@ widestring_07C160 `[TPL:1E][TPL:F]This is wine. It might be[N]a little too soon 
 widestring_07CB60 `[DEF]I saw that. There are [N][LU1:B6][LU1:C1]confined [N][LU1:EA]the school. [END]`
 ;UNUSED!!
 
-widestring_07CAE0 `[TPL:1E][TPL:E]I saw… A lot of people[N]imprisoned in basement of[N]the chapel…[END]`
+widestring_07CAE0 `[TPL:1E][TPL:E]I saw… A lot of people[N]imprisoned in the basement[N]of the chapel…[END]`
 
 -------------------------------------
 ?INCLUDE 'eu91_men1'
@@ -240,7 +240,7 @@ widestring_07E5BE `[TPL:0][TPL:E][NAM:0]: Oh? It seems that[N]wind is blowing in
 -------------------------------------
 widestring_07D207 `[TPL:16][TPL:F]I understand a little of[N]your language. We were[N]brought here from a[N]distant place…[END]`
 
-widestring_07D1D3 `[TPL:16][TPL:F]We are forced to learn[N]language here, and then[N]are sold off to separate[N]places…[END]`
+widestring_07D1D3 `[TPL:16][TPL:F]We are forced to learn the[N]language here, and then[N]are sold off to separate[N]places…[END]`
 
 widestring_07D196 `[TPL:16][TPL:F]The bones scattered over[N]there were our companions…[N]If we don't obey an order,[N]that's how it ends for us.[END]`
 

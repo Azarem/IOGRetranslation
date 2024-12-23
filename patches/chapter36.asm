@@ -39,5 +39,5 @@ widestring_0BE075 `[TPL:F][SFX:0][DLY:8]The way that the Earth was[N]dressed had
 -------------------------------------
 ?INCLUDE 'sF0_class_dismissed'
 -------------------------------------
-widestring_09DD10 `[DLG:0,17][SIZ:F,3][DLY:5]   Today's lesson ends here.[N][PAU:B4][CLR]  Traffic accidents have been[N]   on the increase recently.[N][PAU:F0][CLR]    Everyone, be careful of[N]   cars when returning home.[N][PAU:68][CLD]`
+widestring_09DD10 `[DLG:0,17][SIZ:F,3][DLY:5]   Today's lesson ends here.[N][PAU:B4][CLR]   Traffic accidents have been[N]   on the increase recently.[N][PAU:F0][CLR]    Everyone, be careful of[N]   cars when returning home.[N][PAU:68][CLD]`
 

@@ -59,9 +59,11 @@ widestring_06D039 `[TPL:3][TPL:8]…[END]`
 
 widestring_06D278 `[TPL:0][TPL:A][NAM:0]: I need to sprinkle[N]the magic powder to start[N]with…[END]`
 
-;Tried using the magic powder.
+widestring_0393C5 `[TPL:D]Tried using the magic[N]powder.[FIN]`
 
-;Sprinkled the magic powder on the picture of Karen!
+widestring_0393EA `But nothing happened![END]`
+
+widestring_0393FA `Sprinkled the magic powder[N]on the picture of [NAM:1]![END]`
 
 widestring_06D2A4 `[TPL:0][TPL:E][NAM:0]: I'm begging you.[N][NAM:1]… Please return to[N]your original form…[FIN][CLD][TPL:D][NAM:0] placed a heartfelt[N]kiss on [NAM:1]'s picture…[END]`
 

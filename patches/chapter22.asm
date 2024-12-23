@@ -55,7 +55,7 @@ code_06BC19 {
 -------------------------------------
 ?INCLUDE 'av6A_lily'
 -------------------------------------
-widestring_06C2BD `[TPL:2][TPL:B][NAM:2]: The people that[N]call themselves the fallen[N]angel clan live in a[N]gloomy place like this.[FIN]It's seems depressing…[END]`
+widestring_06C2BD `[TPL:2][TPL:B][NAM:2]: The people that[N]call themselves the fallen[N]angel clan live in a[N]gloomy place like this.[FIN]It seems depressing…[END]`
 
 -------------------------------------
 ?INCLUDE 'av6A_erik'
@@ -123,7 +123,7 @@ widestring_08D459 `[CLR]Whoops, the number of[N]jewels you've collected[N]have p
 
 ;Psycho Slider / Performs a sliding attack. Can pass through narrow passages.
 
-widestring_06C981 `[TPL:1D][TPL:A]I'm a sculptor. Before I[N]die, I intend to make a[N]thousand of these statues…[END]`
+widestring_06C981 `[TPL:1D][TPL:E]I'm a sculptor. Before I[N]die, I intend to make a[N]thousand of these statues…[END]`
 
 -------------------------------------
 ?INCLUDE 'av6C_only_sleeping'
