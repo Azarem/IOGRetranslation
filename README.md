@@ -20,7 +20,7 @@ TABLE OF CONTENTS
 
 This is a BPS patch for Illusion of Gaia which replaces approximately 99% of the original Robert L. Jerauld localization's script with L Thammy's retranslation of Gaia Gensouki. In addition, the patch decompresses all the assets in the game, while providing an expanded ROM with available space. As a result, loading times are extremely fast! A handful of ASM patches are used to modify the loading process to support faster screen transitions by completely bypassing the decompression steps.
 
-Instructions are also included for those who wish to take advantage of the game's newly-added MSU-compatibility. In addition to the new script and higher-quality music, several other additions and improvements have been made to the original localization which can be read about in section 3 of this document, under the title "What's New?".
+Instructions will also shortly be included for those who wish to take advantage of the game's newly-added MSU-compatibility. In addition to the new script and higher-quality music, several other additions and improvements have been made to the original localization which can be read about in section 2, appropriately titled "MSU Instructions".
 
 --------------------
 
