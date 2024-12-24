@@ -38,11 +38,24 @@ Database: No-Intro: Super Nintendo Entertainment System (v. 20210222-050638)</br
 File/ROM SHA-1: 38DE0C84DD2BC3BDFC0A3D7AB0220C79B70887C3</br>
 File/ROM CRC32: 1C3848C0
 
+
 ---------------------
 2.) MSU Instructions:
 ---------------------
 
-*Coming Shortly*
+1.) Download one of the music packs from here: https://www.zeldix.net/t1604-illusion-of-gaiatime-gaia-trilogy-ii
+
+2.) Extract the PCM files into the same folder as your "Illusion of Gaia Retranslated" ROM.
+
+3.) Rename the PCM files to match the ROM filename. Ex: if your ROM is named GaiaLabs.smc, your PCM files will be named "GaiaLabs-{number}.pcm", where {number} is the track number in the original name. You want to keep that part.
+
+5.) Make sure you have an empty MSU file to match your ROM: "GaiaLabs.msu"
+
+6.) Use any modern emulator and enjoy the full music experience.
+
+For further documentation and assistance, please see the following link:
+https://www.zeldix.net/t1607-msu1-getting-started-guide
+
 
 ---------------------
 3.) About the Project
@@ -87,9 +100,9 @@ While we've added a roster of improvements and changes, care was taken to offer 
 
 - MSU compatibility is included. Instructions for its use can be found in section 2 of this document.
 
+- Sky Deliveryman has been added back into the endgame. Aside from the ability to return to earlier locations in the game, nothing about those areas has been changed at this time.
 
 *More Coming Shortly*
-
 
 ------------------
 5.) Special Thanks
