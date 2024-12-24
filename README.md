@@ -42,8 +42,7 @@ File/ROM CRC32: 1C3848C0
 2.) MSU Instructions:
 ---------------------
 
-*Coming Shortly
-
+*Coming Shortly*
 
 ---------------------
 3.) About the Project
@@ -72,7 +71,24 @@ https://www.youtube.com/playlist?list=PLoqdJOVga77Bp2FnXfnrf8KhPoVuF1Xeh
 4.) What's New?
 ---------------
 
-*Coming Shortly*
+While we've added a roster of improvements and changes, care was taken to offer options to the player in how they would like to enjoy this beloved classic. We hope that these new options will help you find a playstyle that you most enjoy!
+
+- New Translation by L Thammy!
+
+- When starting a game, the options menu now offers the choice between the North American localized names (Will, Lance, Seth, etc.) or original Japanese ones (Tim, Rob, Morris, etc.). This option replaced the choice between Stereo and Mono. Stereo is now enabled by default.
+
+- Unique borders were designed to better represent the personalities and cultures of the story's characters. The original white border remains in-game, usually being used to describe actions that are occurring.
+
+- Now there's a Sprint Button! You can also still sprint using a double-press on the D-pad. This can definitely be considered an accessibility option for those who struggle with or dislike the original method. It also makes Illusion of Gaia play a bit more like its successor, Terranigma.
+
+- Dialogue has been made harder to accidentally skip through. Several button inputs that allowed text to advance were disabled to make this possible.
+
+- Asset decompression allows scenes to load MUCH faster.
+
+- MSU compatibility is included. Instructions for its use can be found in section 2 of this document.
+
+
+*More Coming Shortly*
 
 
 ------------------
@@ -82,3 +98,9 @@ https://www.youtube.com/playlist?list=PLoqdJOVga77Bp2FnXfnrf8KhPoVuF1Xeh
 Firstly, to L Thammy, who graciously allowed us to use his translation as part of the project.
 
 Also, to CDude, who has been an active participant in the streams, contributing to creative choices and bug fixes along the way.
+
+To the staff of Quintet, manga creator Moto Hagio, and sci-fi/fantasy author Mariko Ouharaor, whose passion and talent made all of this possible in the first place.
+
+Even to Robert L. Jerauld and the Enix USA staff!
+
+Sometimes, we may poke fun at the original translation, but those working in localization at the time often had insufficient resources and were working on tight deadlines. Jerauld reported in a 2014 interview with Heidi Kemps at Gaming Moe, that he "wanted the story to feel natural, the characters to resonate with people, to feel familiar." Considering the love people have shown for Illusion of Gaia, I'd say they did something right!
