@@ -50,7 +50,7 @@ File/ROM CRC32: 1C3848C0
 
 In September of 1994, Illusion of Gaia made its North American debut. The story by Japanese sci-fi writer Mariko Ouhara was notable for being much darker than the other RPGs Nintendo was allowing at the time. Despite a softening of the themes, the plot she weaved went to dark and intriguing places and left players with much to think about. Unfortunately, the localization was also often incomprehensible, with transitions between first and third person narrative that were difficult to follow.
 
-Many years later in early 2020, Resetera forum member L Thammy would spend roughly two months translating the game that has been so special for all of us and shared the experience with the internet. Through ResetEra's forums and an accompanying series of subtitled YouTube videos, he attempted and succeeded in retranslating Gaia Gensouki. The assistance of fellow forum-users made the process a collaborative endeavor and gave us a more accurate translation. The thread and videos are still worth reading/viewing, should you be interested in the actual translation process! As of this writing, both can still be found online.
+Many years later in early 2020, ResetEra forum member L Thammy would spend roughly two months translating the game that has been so special for all of us and shared the experience with the internet. Through ResetEra's forums and an accompanying series of subtitled YouTube videos, he attempted and succeeded in retranslating Gaia Gensouki. The assistance of fellow forum-users made the process a collaborative endeavor and gave us a more accurate translation. The thread and videos are still worth reading/viewing, should you be interested in the actual translation process! As of this writing, both can still be found online.
 
 At some point, a spreadsheet was created to compile all of the screenshots, transcription, raw transliteration, revised translation, and contextual comments. L Thammy expressed approval if anyone was willing to use the translation for a patch, but one would not be produced for a little over four years.
 
@@ -92,7 +92,7 @@ While we've added a roster of improvements and changes, care was taken to offer 
 
 
 ------------------
-4.) Special Thanks
+5.) Special Thanks
 ------------------
 
 Firstly, to L Thammy, who graciously allowed us to use his translation as part of the project.
