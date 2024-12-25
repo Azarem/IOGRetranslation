@@ -27,7 +27,7 @@ widestring_0992EC `[TPL:17][TPL:E]Neil's father: Hey… What[N]in the world is N
 
 widestring_0994E6 `[TPL:17][TPL:E]I've become an unaging,[N]undying organism by losing[N]my corporeal body.[FIN]I've gotten eternal life[N]through evolution by the[N]comet's light.[FIN]But what meaning could[N]there possible by in a[N]life without end?[FIN][TPL:F]I guess I felt more[N]fulfilled when I was a[N]person living in fear of[N]an incurable illness…[END]`
 
-widestring_09923A `[TPL:5][TPL:D][NAM:5]: Hey [NAM:0], it's[N]been a long time.[FIN]I can't believe that a[N]world like this exists…[FIN][TPL:F]I guess I could probably[N]have become a scholar if I[N]announced this at an[N]academic conference.[END]`
+widestring_09923A `[TPL:5][BOR:4][TPL:D][NAM:5]: Hey [NAM:0], it's[N]been a long time.[FIN]I can't believe that a[N]world like this exists…[FIN][TPL:F]I guess I could probably[N]have become a scholar if I[N]announced this at an[N]academic conference.[END]`
 
 widestring_09943E `[TPL:17][TPL:C][NAM:7]: Squee squee…!![FIN][TPL:0][TPL:F][SFX:0][NAM:0]: So that's how it is;[N]I guess that without a[N]body, even people and[N]animals are no longer[WAI][N]distinct…[END]`
 
