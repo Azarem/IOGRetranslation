@@ -155,7 +155,7 @@ widestring_048F19 `[TPL:16][TPL:F][NAM:4]'s Mother: It's[N]already been one year
 ------------------------
 ?INCLUDE 'sc04_poverty'
 ------------------------
-widestring_048F9D `[TPL:16][TPL:F]You know, a little[N]thing about this this[N]world is that even if you[N]have money, you could[WAI][N]fall into poverty. [FIN]Ah, I think somehow I[N]ended up not telling[N]a pleasant story…[END]`
+widestring_048F9D `[TPL:16][TPL:F]You know, a little thing[N]about this world is that[N]even if you have money,[N]you could fall into[WAI][N]poverty. [FIN]Ah, I think somehow I[N]ended up not telling[N]a pleasant story…[END]`
 
 ------------------------
 ?INCLUDE 'sc04_eriks_father'
