@@ -1,0 +1,101 @@
+
+
+!joypad_mask_std                065A
+!INIDISP                        2100
+!_TM                            212C
+
+------------------------------------------------
+?INCLUDE 'scene_meta'
+------------------------------------------------
+
+entry_FC [
+  ppu < #25 >   ;00
+  music < #1F, #00, @bgm_illusion_of_gaia >   ;01
+  bitmap < #00, #20, #00, @gfx_title, #00 >   ;02
+  palette < #00, #80, #00, @pal_title >   ;03
+  tileset < #00, #20, #00, #03, @set_title >   ;04
+  tilemap < #01, @map_title_main >   ;05
+  tilemap < #02, @map_title_effect >   ;06
+  bitmap < #00, #10, #10, @gfx_title_actors, #01 >   ;07
+  palette < #00, #60, #A0, @pal_title_actors >   ;08
+  spritemap < #54, #02, #00, @spm_title_actors >   ;09
+]
+
+------------------------------------------------
+?INCLUDE 'sFC_actor_0BC924'
+?INCLUDE 'system_strings'
+------------------------------------------------
+
+e_sFC_actor_0BC924 {
+    LDA #$4001
+    TSB $09EC
+    LDA #$0000
+    STA $7F0A00
+    COP [50] ( @pal_title, #00, #00, #08 )
+    COP [A0] ( @code_0BC933, #$0060, #$00A6, #$1800 )
+    COP [A0] ( @code_0BC945, #$0080, #$00A6, #$1800 )
+    COP [A0] ( @code_0BC957, #$00A0, #$00A6, #$1800 )
+    SEP #$20
+    LDA #$17
+    STA $_TM
+    REP #$20
+    COP [BD] ( @string_01DA47 )
+    COP [BD] ( @string_01DA5E )
+    COP [DB] ( #$0B7B )
+    COP [CC] ( #F4 )
+    LDA #$0804
+    STA $064A
+    COP [26] ( #8C, #$0000, #$0000, #00, #$1100 )
+    COP [C1]
+    RTL 
+}
+
+
+code_0BC933 {
+    COP [B6] ( #30 )
+    COP [9C] ( @code_0BC969, #$1000 )
+    COP [C1]
+    COP [80] ( #00 )
+    COP [89]
+    RTL 
+}
+
+
+code_0BC945 {
+    COP [B6] ( #30 )
+    COP [9C] ( @code_0BC969, #$1000 )
+    COP [C1]
+    COP [80] ( #01 )
+    COP [89]
+    RTL 
+}
+
+
+code_0BC957 {
+    COP [B6] ( #30 )
+    COP [9C] ( @code_0BC969, #$1000 )
+    COP [C1]
+    COP [80] ( #02 )
+    COP [89]
+    RTL 
+}
+
+
+code_0BC969 {
+    COP [B7] ( #0A )
+    COP [B6] ( #30 )
+    COP [C1]
+    COP [80] ( #03 )
+    COP [89]
+    RTL 
+}
+
+------------------------------------------------
+?INCLUDE 'sFC_actor_0BC9AE'
+------------------------------------------------
+;Immediate start press
+
+e_sFC_actor_0BC9AE {
+    BRA e_sFC_actor_0BC9BD
+}
+
