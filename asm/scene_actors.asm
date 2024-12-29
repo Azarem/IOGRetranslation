@@ -912,7 +912,7 @@ event_def_0C8221 [
     actor < #00, #01, #00, @h_actor_00CA42 >   ;22
     actor < #08, #0C, #03, @h_hidden_red_jewel >
     actor < #0C, #2F, #00, @SkyDeliveryman >   ;23
-  ], `[LU1:47]Cape` >   ;00
+  ], `South Cape` >   ;00
 ]
 
 event_def_0C8325 [
@@ -924,7 +924,7 @@ event_def_0C8325 [
     actor < #08, #12, #00, @h_sc02_erik >   ;04
     actor < #07, #0A, #00, @h_sc02_card >   ;05
     actor < #00, #01, #00, @h_sc02_entry >   ;06
-  ], `[LU2:32]Cave` >   ;00
+  ], `Coastal Cave` >   ;00
 ]
 
 event_def_0C835E [
@@ -1050,7 +1050,7 @@ event_def_0C84DA [
     actor < #3C, #14, #00, @h_ec0A_torch2 >   ;27
     actor < #3D, #06, #00, @h_ec0A_torch2 >   ;28
     actor < #3C, #05, #00, @h_ec0A_torch2 >   ;29
-  ], `Edward's Castle ` >   ;00
+  ], `Edward Castle` >   ;00
 ]
 
 event_def_0C8612 [
@@ -1068,7 +1068,7 @@ event_def_0C8612 [
     actor < #12, #07, #00, @h_ec0B_moss >   ;0A
     actor < #0B, #0D, #00, @h_ec0B_moss >   ;0B
     actor < #0C, #08, #00, @h_ec0B_ball >   ;0C
-  ], `Edward's [LU2:26]` >   ;00
+  ], `Edward Castle Prison` >   ;00
 ]
 
 event_def_0C867A [
@@ -1102,7 +1102,7 @@ event_def_0C86AC [
     enemy < #02, #3B, #00, @h_ec0C_bat, #05, #10, #00 >   ;0F
     enemy < #18, #23, #00, @h_ec0C_ribber, #01, #11, #00 >   ;10
     enemy < #0D, #32, #00, @h_ec0C_ribber, #01, #12, #00 >   ;11
-  ], `Underground Tunnel` >   ;00
+  ], `Underground Aqueduct` >   ;00
 ]
 
 event_def_0C875C [
@@ -1271,7 +1271,7 @@ event_def_0C8AD7 [
     actor < #30, #19, #01, @h_ramp_east >   ;0F
     actor < #0F, #25, #01, @h_ramp_west >   ;10
     actor < #25, #28, #07, @h_hidden_red_jewel >   ;11
-  ], `Itory Village` >   ;00
+  ], `Village of the Itory Clan` >   ;00
 ]
 
 event_def_0C8B64 [
@@ -1288,7 +1288,7 @@ event_def_0C8B7B [
     actor < #00, #00, #00, @h_actor_00EAED >   ;01
     actor < #06, #0D, #00, @h_it17_kara >   ;02
     actor < #08, #0B, #00, @h_it17_lily >   ;03
-  ], `[LU2:18]House` >   ;00
+  ], `[NAM:2]'s House` >   ;00
 ]
 
 event_def_0C8BA0 [
@@ -1321,7 +1321,7 @@ event_def_0C8BDC [
     actor < #11, #09, #00, @h_it1A_moon_tribe3 >   ;07
     actor < #17, #0D, #00, @h_it1A_moon_tribe4 >   ;08
     actor < #0B, #12, #00, @h_it1A_moon_tribe5 >   ;09
-  ], `Home of [LU1:31]Tribe` >   ;00
+  ], `Moon Race's Habitat` >   ;00
 ]
 
 event_def_0C8C33 [
@@ -1347,7 +1347,7 @@ event_def_0C8C87 [
     actor < #06, #17, #00, @h_ir1C_lily >   ;03
     actor < #18, #16, #00, @h_ir1C_kara >   ;04
     actor < #00, #01, #00, @h_actor_00CA42 >   ;05
-  ], `Entrance to Ruins` >   ;00
+  ], `Incan Ruin Entrance` >   ;00
 ]
 
 event_def_0C8CC4 [
@@ -1374,7 +1374,7 @@ event_def_0C8CC4 [
     enemy < #17, #41, #00, @h_ir1D_scuttlebug, #0B, #0E, #00 >   ;13
     enemy < #14, #48, #00, @h_ir1D_scuttlebug, #0B, #0F, #00 >   ;14
     actor < #02, #3E, #00, @h_ir1D_bones >   ;15
-  ], `[LU2:19]Cliff` >   ;00
+  ], `Larai Cliff` >   ;00
 ]
 
 event_def_0C8D85 [
@@ -1770,7 +1770,7 @@ event_def_0C9572 [
     actor < #0C, #0F, #00, @h_fr32_honest_life >   ;25
     actor < #3D, #09, #00, @h_fr32_doomsday >   ;26
     actor < #1C, #1C, #01, @h_jeweler_gem >   ;27
-  ], `[LU1:8]of Freejia ` >   ;00
+  ], `Flower Capital Freejia ` >   ;00
 ]
 
 event_def_0C9699 [
@@ -1799,7 +1799,7 @@ event_def_0C96D5 [
     actor < #06, #09, #00, @h_fr35_slave1 >   ;03
     actor < #08, #09, #00, @h_fr35_slave2 >   ;04
     actor < #09, #09, #00, @h_fr35_slave3 >   ;05
-  ], `Labor Camp` >   ;00
+  ], `Forced Labor Camp` >   ;00
 ]
 
 event_def_0C970B [
@@ -1873,7 +1873,7 @@ event_def_0C97F0 [
     actor < #03, #0A, #00, @h_fr3C_slaver >   ;05
     actor < #08, #0B, #00, @h_fr3C_man1 >   ;06
     actor < #0B, #08, #00, @h_fr3C_man2 >   ;07
-  ], `Labor Market` >   ;00
+  ], `Slave Market` >   ;00
 ]
 
 event_def_0C9836 [
@@ -1909,7 +1909,7 @@ event_def_0C98B7 [
     enemy < #0B, #0D, #00, @h_dm3D_flayzer3, #18, #16, #00 >   ;08
     actor < #00, #01, #00, @h_dm3E_intro >   ;09
     actor < #00, #01, #00, @h_actor_00CA42 >   ;0A
-  ], `[LU1:E]Mine` >   ;00
+  ], `Diamond Mine` >   ;00
 ]
 
 event_def_0C991A [
@@ -2032,7 +2032,7 @@ event_def_0C9BA1 [
     enemy < #19, #0F, #00, @h_dm3D_grundit, #1A, #64, #00 >   ;06
     enemy < #19, #1D, #00, @h_dm3D_grundit, #1A, #65, #00 >   ;07
     actor < #1B, #1C, #00, @h_dm45_key >   ;08
-  ], `Morgue` >   ;00
+  ], `Corpse Storehouse` >   ;00
 ]
 
 event_def_0C9BF4 [
@@ -2076,7 +2076,7 @@ event_def_0C9C81 [
     actor < #05, #08, #00, @h_na49_wings >   ;09
     actor < #09, #08, #00, @h_na49_telescope >   ;0A
     actor < #0C, #0B, #00, @h_na49_camera >   ;0B
-  ], `[LU1:37]Cottage ` >   ;00
+  ], `Neil's Cottage` >   ;00
 ]
 
 event_def_0C9CE1 [
@@ -2098,7 +2098,7 @@ event_def_0C9CF1 [
     actor < #14, #09, #00, @h_na4B_erik >   ;07
     actor < #04, #3C, #00, @h_na4B_spirit >   ;08
     actor < #1D, #2C, #00, @h_na4B_buried_tile >   ;09
-  ], `Nazca Plain ` >   ;00
+  ], `Nazca Plain` >   ;00
 ]
 
 event_def_0C9D45 [
@@ -2117,7 +2117,7 @@ event_def_0C9D45 [
     actor < #0E, #14, #00, @h_sg4C_spirit3 >   ;0B
     actor < #00, #01, #00, @h_dm3E_intro >   ;0C
     actor < #00, #01, #00, @h_sg4C_actor_0AB496 >   ;0D
-  ], `Sky Garden` >   ;00
+  ], `Mid-air Garden` >   ;00
 ]
 
 event_def_0C9DB3 [
@@ -2147,7 +2147,7 @@ event_def_0C9DB3 [
     enemy < #31, #38, #00, @h_sg4D_dynapede2, #1B, #13, #00 >   ;16
     actor < #3A, #33, #00, @h_sg4D_knight_armor1 >   ;17
     actor < #00, #01, #00, @h_sg4C_actor_0AB496 >   ;18
-  ], `Sky Garden` >   ;00
+  ], `Mid-air Garden` >   ;00
 ]
 
 event_def_0C9E92 [
@@ -2174,7 +2174,7 @@ event_def_0C9E92 [
     actor < #3B, #24, #00, @h_sg4E_plasma_snake2 >   ;13
     actor < #33, #27, #00, @h_sg4E_plasma_snake2 >   ;14
     actor < #00, #01, #00, @h_sg4C_actor_0AB496 >   ;15
-  ], `[LU2:4]of Garden` >   ;00
+  ], `Inverse of Garden` >   ;00
 ]
 
 event_def_0C9F53 [
@@ -2202,7 +2202,7 @@ event_def_0C9F53 [
     actor < #17, #36, #00, @h_sg4F_knight_armor2 >   ;14
     actor < #2E, #20, #00, @h_sg4F_knight_armor2 >   ;15
     actor < #00, #01, #00, @h_sg4C_actor_0AB496 >   ;16
-  ], `Sky Garden` >   ;00
+  ], `Mid-air Garden` >   ;00
 ]
 
 event_def_0CA01A [
@@ -2227,7 +2227,7 @@ event_def_0CA01A [
     actor < #34, #06, #00, @h_sg4E_plasma_snake2 >   ;11
     actor < #3B, #06, #00, @h_sg4E_plasma_snake2 >   ;12
     actor < #00, #01, #00, @h_sg4C_actor_0AB496 >   ;13
-  ], `[LU2:4]of Garden` >   ;00
+  ], `Inverse of Garden` >   ;00
 ]
 
 event_def_0CA0CB [
@@ -2255,7 +2255,7 @@ event_def_0CA0CB [
     actor < #03, #0B, #03, @h_dark_space2 >   ;14
     actor < #00, #01, #00, @h_sg4D_jump_handler >   ;15
     actor < #00, #01, #00, @h_sg4C_actor_0AB496 >   ;16
-  ], `Sky Garden` >   ;00
+  ], `Mid-air Garden` >   ;00
 ]
 
 event_def_0CA192 [
@@ -2282,7 +2282,7 @@ event_def_0CA192 [
     actor < #00, #01, #00, @h_sg4D_jump_handler >   ;13
     actor < #00, #01, #00, @h_actor_00C667 >   ;14
     actor < #00, #01, #00, @h_sg4C_actor_0AB496 >   ;15
-  ], `[LU2:4]of Garden` >   ;00
+  ], `Inverse of Garden` >   ;00
 ]
 
 event_def_0CA247 [
@@ -2315,7 +2315,7 @@ event_def_0CA247 [
     actor < #00, #01, #00, @h_sg4D_jump_handler >   ;19
     actor < #00, #01, #00, @h_actor_00C667 >   ;1A
     actor < #00, #01, #00, @h_sg4C_actor_0AB496 >   ;1B
-  ], `Sky Garden` >   ;00
+  ], `Mid-air Garden` >   ;00
 ]
 
 event_def_0CA335 [
@@ -2351,7 +2351,7 @@ event_def_0CA335 [
     actor < #00, #01, #00, @h_actor_00C667 >   ;1C
     actor < #02, #06, #03, @h_dark_space2 >   ;1D
     actor < #00, #01, #00, @h_sg4C_actor_0AB496 >   ;1E
-  ], `[LU2:4]of Garden` >   ;00
+  ], `Inverse of Garden` >   ;00
 ]
 
 event_def_0CA43B [
@@ -2523,7 +2523,7 @@ event_def_0CA71B [
     enemy < #21, #1B, #30, @h_sp5C_slipper, #2A, #11, #00 >   ;15
     enemy < #14, #2E, #30, @h_mu5F_flasher, #29, #12, #00 >   ;16
     actor < #33, #3E, #09, @head_00D1B5 >   ;17
-  ], `Mu` >   ;00
+  ], `Continent of Mu` >   ;00
 ]
 
 event_def_0CA7ED [
@@ -2645,7 +2645,7 @@ event_def_0CAB28 [
     actor < #05, #0A, #02, @h_player_character >   ;00
     actor < #00, #00, #00, @h_actor_00EAED >   ;01
     actor < #00, #01, #00, @h_mu63_spirits >   ;02
-  ], `Room of hope` >   ;00
+  ], `Prayer Room` >   ;00
 ]
 
 event_def_0CAB4B [
@@ -2744,7 +2744,7 @@ event_def_0CAD42 [
     actor < #09, #0D, #00, @h_st68_lily >   ;08
     actor < #16, #0A, #00, @h_st68_mushrooms >   ;09
     actor < #00, #01, #00, @h_st68_actor_06B937 >   ;0A
-  ], `[LU2:32]Tunnel` >   ;00
+  ], `Undersea Tunnel` >   ;00
 ]
 
 event_def_0CAD99 [
@@ -2797,7 +2797,7 @@ event_def_0CAE1B [
     actor < #2E, #14, #00, @h_av6B_flame >   ;11
     actor < #0A, #15, #00, @h_av6B_flame >   ;12
     actor < #3A, #28, #00, @h_av6B_door >   ;13
-  ], `Angel Village` >   ;00
+  ], `Fallen Angels' Village` >   ;00
 ]
 
 event_def_0CAEB6 [
@@ -2953,7 +2953,7 @@ event_def_0CB258 [
     actor < #14, #07, #00, @h_av6D_flame_left >   ;05
     enemy < #1B, #0C, #00, @h_av70_ramskull, #2E, #37, #00 >   ;06
     enemy < #1E, #0E, #00, @h_av70_ramskull, #2E, #38, #00 >   ;07
-  ], `[LU2:3D]Tunnel` >   ;00
+  ], `Passageway of Wind` >   ;00
 ]
 
 event_def_0CB29E [
@@ -3075,7 +3075,7 @@ event_def_0CB41F [
     actor < #35, #0B, #00, @h_wa78_diary >   ;2D
     actor < #12, #38, #11, @h_hidden_red_jewel >
     actor < #14, #23, #07, @h_wa78_men >   ;2E
-  ], `Watermia` >   ;00
+  ], `Floating City Watermia` >   ;00
 ]
 
 event_def_0CB572 [
@@ -3115,7 +3115,7 @@ event_def_0CB5D1 [
     actor < #0D, #0A, #00, @h_wa7B_competitor_left >   ;09
     actor < #12, #0A, #00, @h_wa7B_competitor_right >   ;0A
     actor < #1A, #07, #13, @h_hidden_red_jewel >   ;0B
-  ], `Desert` >   ;00
+  ], `Gambling House` >   ;00
 ]
 
 event_def_0CB62D [
@@ -3204,7 +3204,7 @@ event_def_0CB6C1 [
     actor < #54, #28, #01, @h_gw82_necklace_stone >   ;29
     actor < #3E, #09, #03, @h_ramp_west >   ;2A
     actor < #40, #09, #03, @h_ramp_east >   ;2B
-  ], `China's [LU1:16]Wall` >   ;00
+  ], `Great Wall of China` >   ;00
 ]
 
 event_def_0CB845 [
@@ -3510,7 +3510,7 @@ event_def_0CBDC4 [
     actor < #29, #23, #00, @h_town_door >   ;37
     actor < #23, #23, #00, @h_town_door >   ;38
     actor < #27, #32, #15, @h_hidden_red_jewel >   ;39
-  ], `[LU1:8]of Euro` >   ;00
+  ], `Metropolis Euro` >   ;00
 ]
 
 event_def_0CBF65 [
@@ -3539,7 +3539,7 @@ event_def_0CBFA8 [
     actor < #11, #11, #00, @head_00EA96 >   ;02
     actor < #0C, #0C, #00, @h_eu94_employee >   ;03
     actor < #0B, #0C, #6D, @h_eu91_men1 >   ;04
-  ], `[LU1:44]Company` >   ;00
+  ], `Reuleck Corporation` >   ;00
 ]
 
 event_def_0CBFD6 [
@@ -3551,7 +3551,7 @@ event_def_0CBFD6 [
     actor < #2B, #0B, #00, @h_eu95_neils_father >   ;04
     actor < #29, #0C, #00, @h_eu95_neils_mother >   ;05
     actor < #2A, #0B, #00, @h_eu95_neil >   ;06
-  ], `[LU1:44]Mansion` >   ;00
+  ], `Reuleck Mansion` >   ;00
 ]
 
 event_def_0CC012 [
@@ -3640,7 +3640,7 @@ event_def_0CC12D [
     actor < #05, #19, #00, @h_eu9D_bones >   ;09
     actor < #0F, #08, #00, @h_eu9D_altar >   ;0A
     actor < #1E, #1C, #17, @h_hidden_red_jewel >   ;0B
-  ], `Shrine ` >   ;00
+  ], `Chapel` >   ;00
 ]
 
 event_def_0CC18A [
@@ -3666,7 +3666,7 @@ event_def_0CC18C [
     enemy < #0E, #05, #30, @h_mtA0_acid_spider5, #3C, #09, #00 >   ;0D
     enemy < #13, #0F, #30, @h_mtA0_acid_spider5, #3C, #0A, #00 >   ;0E
     enemy < #18, #04, #30, @h_mtA0_acid_spider5, #3C, #0B, #00 >   ;0F
-  ], `[LU2:1E]Temple` >   ;00
+  ], `Mountain's Holy Ground` >   ;00
 ]
 
 event_def_0CC21C [
@@ -4028,7 +4028,7 @@ event_def_0CCB1B [
     enemy < #38, #24, #00, @h_awB0_zombie, #46, #0D, #00 >   ;11
     enemy < #1E, #1C, #00, @h_awB0_zombie, #46, #0E, #00 >   ;12
     enemy < #21, #1C, #00, @h_awB0_zombie, #46, #0F, #00 >   ;13
-  ], `Door to Ankor Wat` >   ;00
+  ], `Angkor Wat Entrance` >   ;00
 ]
 
 event_def_0CCBD8 [
@@ -4054,7 +4054,7 @@ event_def_0CCBD8 [
     enemy < #62, #12, #00, @h_awB1_gorgon2, #45, #20, #00 >   ;12
     enemy < #75, #08, #00, @h_awB1_gorgon2, #45, #21, #00 >   ;13
     enemy < #7A, #08, #00, @h_awB1_gorgon2, #45, #22, #00 >   ;14
-  ], `Passage - Outside[RET]` >   ;00
+  ], `Outer Circle Pathway` >   ;00
 ]
 
 event_def_0CCCA5 [
@@ -4179,7 +4179,7 @@ event_def_0CCE7B [
     enemy < #2F, #15, #00, @h_awB0_zombie, #46, #95, #00 >   ;29
     enemy < #4E, #12, #00, @h_awB0_zombie, #46, #96, #00 >   ;2A
     actor < #53, #28, #00, @h_awB6_bones >   ;2B
-  ], `Garden` >   ;00
+  ], `Courtyard` >   ;00
 ]
 
 event_def_0CD005 [
@@ -4198,7 +4198,7 @@ event_def_0CD005 [
     enemy < #58, #15, #06, @h_awB1_wall_walker4, #43, #A9, #00 >   ;0B
     enemy < #4E, #0F, #06, @h_awB1_wall_walker3, #43, #AA, #00 >   ;0C
     enemy < #4A, #15, #06, @h_awB1_wall_walker3, #43, #AB, #00 >   ;0D
-  ], `Passage - Inside[RET]` >   ;00
+  ], `Inner Circle Pathway` >   ;00
 ]
 
 event_def_0CD092 [
@@ -4242,7 +4242,7 @@ event_def_0CD137 [
     enemy < #29, #3D, #00, @h_awB0_zombie, #46, #C3, #00 >   ;07
     enemy < #2F, #43, #00, @h_awB0_zombie, #46, #C4, #00 >   ;08
     actor < #03, #42, #00, @h_awBA_bones >   ;09
-  ], `Road to [LU2:1B]Hall` >   ;00
+  ], `Path to Main Shrine` >   ;00
 ]
 
 event_def_0CD197 [
@@ -4257,7 +4257,7 @@ event_def_0CD197 [
     enemy < #27, #24, #00, @h_awB1_goldcap, #42, #CB, #00 >   ;07
     enemy < #07, #07, #06, @h_awB1_wall_walker4, #43, #CC, #00 >   ;08
     enemy < #21, #07, #06, @h_awB1_wall_walker4, #43, #CD, #00 >   ;09
-  ], `[LU2:1B]Hall 1F` >   ;00
+  ], `Main Shrine 1F` >   ;00
 ]
 
 event_def_0CD1F4 [
@@ -4282,7 +4282,7 @@ event_def_0CD1F4 [
     enemy < #24, #17, #00, @h_awB1_wall_walker4, #43, #D4, #00 >   ;11
     enemy < #0C, #09, #00, @h_awB1_wall_walker4, #43, #D5, #00 >   ;12
     enemy < #03, #10, #02, @h_awB1_wall_walker4, #43, #D6, #00 >   ;13
-  ], `[LU2:1B]Hall 2F[RET]` >   ;00
+  ], `Main Shrine 2F` >   ;00
 ]
 
 event_def_0CD29A [
@@ -4305,7 +4305,7 @@ event_def_0CD29A [
     enemy < #06, #26, #00, @h_awB1_gorgon1, #45, #E8, #00 >   ;0F
     enemy < #2B, #19, #00, @h_awB1_gorgon2, #45, #E9, #00 >   ;10
     enemy < #0E, #1C, #00, @h_awB1_gorgon2, #45, #EA, #00 >   ;11
-  ], `[LU2:1B]Hall 3F` >   ;00
+  ], `Main Shrine 3F` >   ;00
 ]
 
 event_def_0CD339 [
@@ -4319,7 +4319,7 @@ event_def_0CD339 [
     enemy < #2A, #07, #06, @h_awB1_wall_walker3, #43, #F4, #00 >   ;06
     enemy < #1E, #13, #00, @h_awB1_goldcap, #42, #F5, #00 >   ;07
     enemy < #25, #2B, #00, @h_awB1_gorgon2, #45, #F6, #00 >   ;08
-  ], `[LU2:1B]Hall 4F[RET]` >   ;00
+  ], `Main Shrine 4F` >   ;00
 ]
 
 event_def_0CD392 [
@@ -4359,7 +4359,7 @@ event_def_0CD3B2 [
     actor < #07, #1B, #30, @h_daC3_treasure_man >   ;12
     actor < #21, #08, #00, @h_daC3_babel_travel_spirit >   ;13
     actor < #28, #05, #1B, @h_hidden_red_jewel >   ;14
-  ], `[LU2:8]Village Dao` >   ;00
+  ], `Desert Town Dao` >   ;00
 ]
 
 event_def_0CD454 [
@@ -4953,7 +4953,7 @@ event_def_0CE1DD [
     actor < #00, #00, #00, @h_actor_00EAED >   ;01
     actor < #01, #82, #00, @h_actor_00E9EC >   ;02
     actor < #00, #01, #00, @h_sE6_gaia >   ;03
-  ], `[LU1:C]Space` >   ;00
+  ], `Area of Darkness` >   ;00
 ]
 
 event_def_0CE202 [
@@ -5034,7 +5034,7 @@ event_def_0CE3CD [
     actor < #05, #0A, #00, @h_player_character >   ;00
     actor < #00, #00, #00, @h_actor_00EAED >   ;01
     actor < #03, #86, #00, @h_actor_00E9EC >   ;02
-  ], `[LU1:C]Space` >   ;00
+  ], `Area of Darkness` >   ;00
 ]
 
 event_def_0CE3EB [
@@ -5042,7 +5042,7 @@ event_def_0CE3EB [
     actor < #05, #0A, #00, @h_player_character >   ;00
     actor < #00, #00, #00, @h_actor_00EAED >   ;01
     actor < #01, #82, #00, @h_actor_00E9EC >   ;02
-  ], `[LU1:C]Space` >   ;00
+  ], `Area of Darkness` >   ;00
 ]
 
 event_def_0CE409 [
@@ -5050,7 +5050,7 @@ event_def_0CE409 [
     actor < #05, #0A, #00, @h_player_character >   ;00
     actor < #00, #00, #00, @h_actor_00EAED >   ;01
     actor < #01, #82, #00, @h_actor_00E9EC >   ;02
-  ], `[LU1:C]Space` >   ;00
+  ], `Area of Darkness` >   ;00
 ]
 
 event_def_0CE427 [
@@ -5058,7 +5058,7 @@ event_def_0CE427 [
     actor < #05, #0A, #00, @h_player_character >   ;00
     actor < #00, #00, #00, @h_actor_00EAED >   ;01
     actor < #01, #82, #00, @h_actor_00E9EC >   ;02
-  ], `[LU1:C]Space` >   ;00
+  ], `Area of Darkness` >   ;00
 ]
 
 event_def_0CE445 [
@@ -5066,7 +5066,7 @@ event_def_0CE445 [
     actor < #05, #0A, #00, @h_player_character >   ;00
     actor < #00, #00, #00, @h_actor_00EAED >   ;01
     actor < #01, #82, #00, @h_actor_00E9EC >   ;02
-  ], `[LU1:C]Space` >   ;00
+  ], `Area of Darkness` >   ;00
 ]
 
 event_def_0CE463 [
