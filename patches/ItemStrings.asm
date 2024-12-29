@@ -142,7 +142,7 @@ string_01E54C |[DBL][LU:2]Knight[DBL]Shadow's Body[DBL]turns to water.|
 string_01E032 |[PTR:@name_table_lola,B24]'s Letter |
 string_01E574 |[DBL]Letter from[DBL][PTR:@name_table_lola,B24] and Bill.|
 
-string_01E041 |Father's Journal |
+string_01E041 |Father's Journal|
 string_01E590 |[DBL][PTR:@name_table_will,B24]'s father's[DBL]journal. Info on [DBL]Pyramid.|
 
 string_01E053 |Crystal Ring|

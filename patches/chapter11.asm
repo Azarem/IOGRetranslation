@@ -23,7 +23,7 @@ widestring_059EE3 `[TPL:1][TPL:B][NAM:1]: It's beautiful…[N]Even though I'm wa
 
 widestring_059F2E `[TPL:1][TPL:9][NAM:1]: How could you do[N]that…! Those poor fish…!![END]`
 
-widestring_059F5A `[TPL:0][TPL:9][DLY:0][NAM:0]: [NAM:0]e passed slowly[N]and uneventfully.[FIN][TPL:B][NAM:1] leisurely viewed the[N]fish all day long, but as[N]for me, well, I was full[N]of remorse.[FIN]I don't know how many[N]times I paced aimlessly[N]around the raft and tried[N]talking to [NAM:1].[FIN]A single minute felt like[N]hours…[FIN]It felt like I could hear[N]the footfalls of an[N]entirely carefree time[N]coming.[END]`
+widestring_059F5A `[TPL:0][TPL:9][DLY:0][NAM:0]: Time passed slowly[N]and uneventfully.[FIN][TPL:B][NAM:1] leisurely viewed the[N]fish all day long, but as[N]for me, well, I was full[N]of remorse.[FIN]I don't know how many[N]times I paced aimlessly[N]around the raft and tried[N]talking to [NAM:1].[FIN]A single minute felt like[N]hours…[FIN]It felt like I could hear[N]the footfalls of an[N]entirely carefree time[N]coming.[END]`
 
 widestring_059CF9 `[DLG:9,7][SIZ:7,1]4th Day Adrift[END]`
 

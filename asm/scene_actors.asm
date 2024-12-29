@@ -1347,7 +1347,7 @@ event_def_0C8C87 [
     actor < #06, #17, #00, @h_ir1C_lily >   ;03
     actor < #18, #16, #00, @h_ir1C_kara >   ;04
     actor < #00, #01, #00, @h_actor_00CA42 >   ;05
-  ], `Incan Ruin Entrance` >   ;00
+  ], `Entrance to Incan Ruins` >   ;00
 ]
 
 event_def_0C8CC4 [
