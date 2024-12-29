@@ -199,8 +199,6 @@ code_02A1A7 {
     CLC 
     ADC #$&name_dictionary_en
     BRA code_02A1D1
-
-
 }
 
 code_02A1E4 {
