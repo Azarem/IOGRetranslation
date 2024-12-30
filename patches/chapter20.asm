@@ -88,11 +88,11 @@ widestring_06A38D `[TPL:3][TPL:E]Before anything else, stop[N]the booomb…! Hur
 ----------------------------------------------
 ?INCLUDE 'mu67_bomb'
 ----------------------------------------------
-widestring_06A4E9 `[TPL:0][TPL:E]It seems that both a red[N]wire and a blue wire are[N]hanging out of the bomb…[FIN]Which will you cut?[N][PAL:0] Go with red[N] Go with blue`
+widestring_06A4E9 `[TPL:0][TPL:E]It seems that both a red[N]wire and a blue wire are[N]hanging out of the bomb…[FIN]Which will you cut?[N][PAL:0] Go with red[N] Go with blue[PAL:4]`
 
-widestring_06A54E `[CLR]The red wire is cut![PAL:0][END]`
+widestring_06A54E `[CLR]The red wire is cut![END]`
 
-widestring_06A566 `[CLR]The blue wire is cut![PAL:0][END]`
+widestring_06A566 `[CLR]The blue wire is cut![END]`
 
 widestring_06A719 `[DEF][TPL:0]...........[FIN]It was a dud.[N]I'm saved...[PAL:0][END]`
 
