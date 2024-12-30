@@ -7,7 +7,7 @@
 ------------------------------------------------
 ?INCLUDE 'system_strings'
 ------------------------------------------------
-string_01DA47 |[NHM:14][CUR:D0,2]RETRANSLATED█v1.0[NHM:4][CUR:D0,3]PUSH█START█BUTTON|
+string_01DA47 |[NHM:14][CUR:D0,2]RETRANSLATED█v1.1[NHM:4][CUR:D0,3]PUSH█START█BUTTON|
 string_01DA5E |[NHM:0][CUR:C8,5](C)█1994██QUINTET/ENIX[CUR:8,6]MARIKO█OHARA/MOTO█HAGIO[CUR:4E,6]YASUHIRO█KAWASAKI|
 
 ------------------------------------------------
