@@ -15,16 +15,28 @@ string_01DA5E |[NHM:0][CUR:C8,5](C)█1994██QUINTET/ENIX[CUR:8,6]MARIKO█OH
 ------------------------------------------------
 
 entry_FC [
-  ppu < #25 >   ;00
-  music < #1F, #00, @bgm_illusion_of_gaia >   ;01
-  bitmap < #00, #20, #00, @gfx_title, #00 >   ;02
-  palette < #00, #80, #00, @pal_title >   ;03
-  tileset < #00, #20, #00, #03, @set_title >   ;04
-  tilemap < #01, @map_title_main >   ;05
-  tilemap < #02, @map_title_effect >   ;06
-  bitmap < #00, #10, #10, @gfx_title_actors, #01 >   ;07
-  palette < #00, #60, #A0, @pal_title_actors >   ;08
-  spritemap < #54, #02, #00, @spm_title_actors >   ;09
+  ppu < #25 >
+  music < #1F, #00, @bgm_illusion_of_gaia >
+  bitmap < #00, #20, #00, @gfx_title, #00 >
+  palette < #00, #80, #00, @pal_title >
+  tileset < #00, #20, #00, #03, @set_title >
+  tilemap < #01, @map_title_main >
+  tilemap < #02, @map_title_effect >
+  bitmap < #00, #10, #10, @gfx_title_actors, #01 >
+  palette < #00, #60, #A0, @pal_title_actors >
+  spritemap < #54, #02, #00, @spm_title_actors >
+]
+
+------------------------------------------------
+?INCLUDE 'scene_thinkers'
+------------------------------------------------
+
+thinker_0CEB2F [
+  thinker < #74, @thinker_00B520 >
+  thinker < #00, @thinker_00BCDF >
+  thinker < #00, @thinker_00BCB3 >
+  thinker < #24, @parallax_thinker >
+  thinker < #00, @thinker_00BC91 >
 ]
 
 ------------------------------------------------
