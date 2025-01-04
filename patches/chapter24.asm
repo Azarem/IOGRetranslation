@@ -138,8 +138,7 @@ widestring_07B3C2 `[TPL:3][TPL:B][NAM:4]'s father: Hey, didja[N]know? I just I w
 -------------------------------------
 ?INCLUDE 'wa7A_lance'
 -------------------------------------
-widestring_07AB82 `[TPL:4][TPL:9][NAM:4]: [NAM:0], do you [N]recognize this person?[FIN]He's my father.[PAL:0][END]`
-;TODO!!
+widestring_07AB82 `[TPL:4][TPL:9][NAM:4]: [NAM:0]… Don't ya[N]remember this guy…?[FIN]That's right, it's my old[N]man.[END]`
 
 widestring_07ABC4 `[TPL:4][TPL:9][NAM:4]: It looks like he[N]may have injured his head…[FIN][TPL:B]I was thinkin' that I had[N]finally met my missing old[N]man, but I guess this is[N]how it is…[END]`
 

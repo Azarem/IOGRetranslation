@@ -135,8 +135,7 @@ widestring_068FC0 `[TPL:16][TPL:B]What will happen to[N]everyone who was abducte
 
 widestring_039179 `[TPL:D]Tried using the palace[N]key.[FIN]`
 
-widestring_0391B6 `The key turns, making a[N][LU1:C7]sound. [FIN]`
-;TODO!!!!
+widestring_0391B6 `The key made an eerie[N]sound as it turned.[FIN]`
 
 widestring_0391D9 `[TPL:D][NAM:2] begins to speak[N]from your pocket.[FIN][TPL:2][TPL:E]The passage ahead of here[N]leads to the fantastic[N]continent of Mu, right?[END]`
 

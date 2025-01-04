@@ -59,7 +59,7 @@ widestring_0792F7 `[TPL:24][TPL:F]Competitor: Humph… You[N]haven't even experi
 
 widestring_0793B6 `[TPL:24][TPL:D]Competitor:[N]Raaaaaaaaagh…!![FIN][CLD][TPL:E][SFX:0]The competitor drained the[N]contents of the glass in[N]one gulp…[END]`
 
-widestring_079922 `[TPL:0][TPL:E][NAM:0]: Oh? The drink in the[N]glass looks as though it's[N]dyed with blood…[FIN]Is this because of the[N]power that is dwelling[N]inside my body too…?[FIN][TPL:F]Drink the contents of the[N]glass?[N][PAL:0] Yes[N] No`
+widestring_079922 `[TPL:0][TPL:E][NAM:0]: Oh? The drink in the[N]glass looks as though it's[N]dyed with blood…[FIN]Is this because of the[N]power that is dwelling[N]inside my body too…?[FIN][TPL:F]Drink the contents of the[N]glass?[N][PAL:0] Yes[N] No[PAL:4]`
 
 code_079AAC {
     COP [D0] ( #0F, #00, &code_079AD2 )
@@ -67,10 +67,9 @@ code_079AAC {
     COP [BE] ( #02, #02, &code_list_079ABC )
 }
 
-widestring_079992 `[DEF][CLR][TPL:0]Will: [N]I'm quitting...[PAL:0][END]`
-;TODO!!
+widestring_079992 `[CLR][NAM:0]: I'll skip this[N]glass…[END]`
 
-widestring_0799AF `[DEF][TPL:0]Will: My body[N]is getting numb....[PAL:0][END]`
+widestring_0799AF `[CLR][NAM:0]: My body[N]is getting numb…[END]`
 ;TODO!!
 
 widestring_0798E8 `[CLD][TPL:0][TPL:E][NAM:0]: I closed my eyes and[N]drained the glass in one[N]gulp![END]`
@@ -99,6 +98,13 @@ widestring_078B3B `[TPL:1C][TPL:D]Woman: We don't need money[N]at all…[FIN][TP
 ?INCLUDE 'chunk_038000'
 -------------------------------------
 widestring_039696 `[TPL:D]Gently opened and read[N]the will.[FIN][TPL:24][BOR:1][TPL:E] [N]      To my Opponent[N] [FIN][DLG:3,B][SIZ:D,7]Even when I've died, I[N]want you not to mourn. And[N]I want you to not feel[N]down. I was knocking on[N]heaven's door even if it[N]wasn't Russian glass that[N]killed me.[FIN]When I was diagnosed with[N]an incurable illness half[N]a year ago, I was thinking[N]that I should put all of[N]my effort into earning[N]money until death comes[N]for me.[FIN]I thought that I shouldn't[N]cause problems for my wife[N]and still unseen child[N]after my death, after all.[N]However, the money I[N]earned brought unhappiness[N]to others.[FIN]I think I'll end it this[N]time… If I am defeated in[N]this match, I want to[N]share some of my property[N]with you that has bravery.[N]Please adore my four[N]favourite Krooks.[END]`
+
+-------------------------------------
+?INCLUDE 'wa78_prize_kruk'
+-------------------------------------
+widestring_079B30 `[DEF][TPL:0][LU1:5E]are the Kruks I [N]was given. I [LU1:98]to [N]let [LU1:89]know.[PAL:0][END]`
+I guess these are the Krooks that were supposed to be given... I should let everyone know right away.
+;TODO!!
 
 widestring_07A833 `[TPL:1][TPL:A][NAM:1]: They say Neil[N]wasn't born in any old[N]house.[FIN]His family runs a trading[N]company from their mansion[N]in the town of Euro.[END]`
 

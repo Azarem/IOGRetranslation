@@ -29,8 +29,7 @@ widestring_05E086 `[TPL:1][TPL:A][NAM:1]: Come on, I can't[N]even believe these[
 
 widestring_05DAC7 `[TPL:6][TPL:9]Neil: So, that's enough[N]about socks already…[FIN][TPL:B]Well, anyway, please[N]relax. I guess you must be[N][NAM:0]'s friends. Welcome to[N]my humble home.[END]`
 
-widestring_05DB1C `[TPL:6][TPL:A][LU1:36][LU1:1D][LU1:70][LU1:6B][N]two [LU2:C6][LU2:A4]we [N][LU2:79]met, hasn't it? [FIN][LU1:20]invented lots of[N][LU1:E0][LU2:A4]then.[FIN]The four inventions in[N][LU1:D6]room are my[N][LU2:4D]work. [LU2:14]a look.[END]`
-;TODO!!!
+widestring_05DB1C `[TPL:6][TPL:A]I guess two years have[N]passed since meeting with[N]you, huh?[FIN]Since then, I've made some[N]terribly varied[N]inventions.[FIN]In this room, there are[N]just four inventions that[N]I'd like to boast of.[FIN]Search and take a look.[END]`
 
 -------------------------------------
 ?INCLUDE 'na49_erik'

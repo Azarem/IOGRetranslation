@@ -195,8 +195,7 @@ widestring_05BF04 `[TPL:5][TPL:E]I'm [NAM:C]. I was brought[N]to this town from 
 --------------------------------------
 widestring_05BFDE `[TPL:5][TPL:F]I'm [NAM:B]. When there[N]were no longer any[N]animals, we no longer had[N]food.[FIN]And so, having no other[N]options, we became what[N]you call "slavesˮ in order[N]to survive.[FIN]We won't have any idea at[N]all of what kind of person[N]will buy us or what kind[N]of place they'll bring us[WAI][N]to…[END]`
 
-widestring_05C059 `[DEF]How can [LU1:E0]like[N][LU1:D6]happen?[END]`
-;TODO!!!!!
+widestring_05C059 `[TPL:20][TPL:E]O God… Why did you create[N]that thing called "social[N]statusˮ?[END]`
 
 --------------------------------------
 ?INCLUDE 'fr3C_sam'
