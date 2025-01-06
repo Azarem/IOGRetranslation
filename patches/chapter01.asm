@@ -3,22 +3,32 @@
 ----------------------
 ?INCLUDE 'pr8C_prologue1'
 ----------------------
-charstring_0BD044 ~The world was[N]in an Age of [N]Discovery.~
-charstring_0BD06D ~People set foot in[N]the New World,[N]and the legacies[N]of ancient[N]civilizations were[N]being discovered.~
+charstring_0BD044 ~The world had     [N]entered an age    [N]of exploration.   ~
+;~The world was in[N]an  an[N]age of exploration.~
+charstring_0BD06D ~Discovering       [N]new continents,   [N]people unearthed  [N]relics of ancient [N]civilizations.    ~
+;~Discovering new[N]continents,[N]people unearthed[N]relics of ancient[N]civilizations.~
 
 ----------------------
 ?INCLUDE 'pr8D_prologue2'
 ----------------------
-charstring_0BD0B2 ~Many legends were[N]discovered of times[N]that were long past.~
-charstring_0BD0E3 ~There were as many[N]historical ruins as[N]there were legends,[N]and as many legends[N]as there were[N]anient civilizations…~
-charstring_0BD11C ~Many artifacts[N]were produced from[N]the ruins.~
-charstring_0BD144 ~Therein invariably,[N]there were strange[N]statues that were[N]often said to be [N]modeled after gods.~
-charstring_0BD189 ~What could the gods of[N]the ancient people[N]possibly be…[N]The ruins' lips[N]were sealed.~
+;charstring_0BD0B2 ~Many legends were[N]discovered of times[N]that were long past.~
+;charstring_0BD0E3 ~There were as many[N]historical ruins as[N]there were legends,[N]and as many legends[N]as there were[N]anient civilizations…~
+;charstring_0BD11C ~Many artifacts[N]were produced from[N]the ruins.~
+;charstring_0BD144 ~Therein invariably,[N]there were strange[N]statues that were[N]often said to be [N]modeled after gods.~
+;charstring_0BD189 ~What could the gods of[N]the ancient people[N]possibly be…[N]The ruins' lips[N]were sealed.~
+
+charstring_0BD0B2 ~As time flowed,   [N]many legends      [N]came to light.    ~
+charstring_0BD0E3 ~A legend rose from[N]each civilization,[N]all connected to  [N]mysterious ruins.~
+charstring_0BD11C ~Various artifacts [N]were excavated    [N]from the ruins.   ~
+charstring_0BD144 ~Among the relics, [N]strange statues   [N]in the shapes of  [N]gods were found.  ~
+charstring_0BD189 ~Whatever role the [N]gods played in the[N]lives of ancient  [N]people, the ruins  [N]didn't illuminate.~
 
 ----------------------
 ?INCLUDE 'pr8E_prologue3'
 ----------------------
 charstring_0BD1CA ~People that were[N]possessed by the[N]charms of a lost[N]era went in,[N]becoming only[N]the writings[N]left by the dead.~
+
+;charstring_0BD1CA ~                  [N]                  [N]                  [N]                  ~
 
 ----------------------
 ?INCLUDE 'pr8F_prologue4'
@@ -37,6 +47,12 @@ widestring_048AE9 `[TPL:0][TPL:8][DLY:0]My name is [NAM:0].[FIN][TPL:B]Exactly o
 widestring_048C01 `[TPL:16][TPL:D]Priest: Today's lesson[N]ends here.[FIN][TPL:F]The four of you do your[N]best so that you won't[N]have to stay behind after[N]classes next time.[FIN]Furthermore, creatures[N]resembling monsters have[N]recently been spotted[N]outside of town.[FIN]When you leave, please[N]be sure to have a parent[N]accompany you.[END]`
 widestring_048C98 `[TPL:16][TPL:D]Ah, [NAM:0].[N]Please pray with me.[FIN][TPL:E]O God…[N]May the world continue to[N]shine to eternity…[END]`
 
+;----------------------
+;?INCLUDE 'sc08_priest_return'
+;----------------------
+
+;widestring_?????? `[TPL:0][TPL:]
+
 ----------------------
 ?INCLUDE 'sc08_erik'
 ----------------------
@@ -51,7 +67,7 @@ widestring_048D3A `[TPL:4][TPL:A][NAM:4]: Alright, to tha[N]coastal cave today a
 ----------------------
 ?INCLUDE 'sE6_gaia'
 ----------------------
-widestring_08DD0B `[TPL:17][TPL:F]I am the fountainhead of[N]life, Gaia. Henceforth, I[N]shall assist thy journey.[FIN]This area is only visible[N]for those in whom the[N]Power of Darkness dwells.[N]Thou art a chosen human.[FIN]In the Area of Darkness,[N]I can record thy travel[N]diary. Thou shouldst drop[N]by during thy journey.[FIN]`
+widestring_08DD0B `[TPL:17][TPL:F]I am the fountainhead of[N]life, Gaia. Henceforth, I[N]shall assist thy journey.[FIN]This area is only visible[N]for those in whom the[N]Power of Darkness dwells.[N]Thou art a chosen human.[FIN]In the [NAM:0F] [NAM:10],[N]I can record thy travel[N]diary. Thou shouldst drop[N]by during thy journey.[FIN]`
 widestring_08DDCB `[TPL:17][TPL:F]So, shalt thou record thy[N]adventure 'til this point?[N][PAL:0] Record[N] [LU1:D]record`
 widestring_08DDFE `[CLR][PAL:4]Recording completed…[FIN]Shalt thou still continue[N]with thy journey? [N][PAL:0] Yes[N] No`
 widestring_08DE43 `[CLR][PAL:4]Then thou shouldst go.[END]`
