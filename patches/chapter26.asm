@@ -102,9 +102,7 @@ widestring_039696 `[TPL:D]Gently opened and read[N]the will.[FIN][TPL:24][BOR:1]
 -------------------------------------
 ?INCLUDE 'wa78_prize_kruk'
 -------------------------------------
-widestring_079B30 `[DEF][TPL:0][LU1:5E]are the Kruks I [N]was given. I [LU1:98]to [N]let [LU1:89]know.[PAL:0][END]`
-I guess these are the Krooks that were supposed to be given... I should let everyone know right away.
-;TODO!!
+widestring_079B30 `[TPL:0][TPL:E]I guess these are the[N]Krooks that were supposed[N]to be given…[FIN]I should let everyone know[N]right away.[END]`
 
 widestring_07A833 `[TPL:1][TPL:A][NAM:1]: They say Neil[N]wasn't born in any old[N]house.[FIN]His family runs a trading[N]company from their mansion[N]in the town of Euro.[END]`
 
