@@ -4,41 +4,36 @@
 ?INCLUDE 'pr8C_prologue1'
 ----------------------
 charstring_0BD044 ~The world had     [N]entered an age    [N]of exploration.   ~
-;~The world was in[N]an  an[N]age of exploration.~
 charstring_0BD06D ~Discovering       [N]new continents,   [N]people unearthed  [N]relics of ancient [N]civilizations.    ~
-;~Discovering new[N]continents,[N]people unearthed[N]relics of ancient[N]civilizations.~
 
 ----------------------
 ?INCLUDE 'pr8D_prologue2'
 ----------------------
-;charstring_0BD0B2 ~Many legends were[N]discovered of times[N]that were long past.~
-;charstring_0BD0E3 ~There were as many[N]historical ruins as[N]there were legends,[N]and as many legends[N]as there were[N]anient civilizations…~
-;charstring_0BD11C ~Many artifacts[N]were produced from[N]the ruins.~
-;charstring_0BD144 ~Therein invariably,[N]there were strange[N]statues that were[N]often said to be [N]modeled after gods.~
-;charstring_0BD189 ~What could the gods of[N]the ancient people[N]possibly be…[N]The ruins' lips[N]were sealed.~
-
 charstring_0BD0B2 ~As time flowed,   [N]many legends      [N]came to light.    ~
 charstring_0BD0E3 ~A legend rose from[N]each civilization,[N]all connected to  [N]mysterious ruins.~
 charstring_0BD11C ~Various artifacts [N]were excavated    [N]from the ruins.   ~
 charstring_0BD144 ~Among the relics, [N]strange statues   [N]in the shapes of  [N]gods were found.  ~
-charstring_0BD189 ~Whatever role the [N]gods played in the[N]lives of ancient  [N]people, the ruins  [N]didn't illuminate.~
+charstring_0BD189 ~What role did the [N]gods play in the  [N]lives of ancient  [N]people? The ruins' [N]lips were sealed.  ~
 
 ----------------------
 ?INCLUDE 'pr8E_prologue3'
 ----------------------
 charstring_0BD1CA ~People that were[N]possessed by the[N]charms of a lost[N]era went in,[N]becoming only[N]the writings[N]left by the dead.~
 
-;charstring_0BD1CA ~                  [N]                  [N]                  [N]                  ~
+;charstring_0BD1CA People consumed  [N]by the mysteries[N]of a bygone era [N]set foot inside,[N]but were never  [N]their lives to  [N]the             ~
 
 ----------------------
 ?INCLUDE 'pr8F_prologue4'
 ----------------------
 charstring_0BD222 ~People spoke of[N]traps that[N]protected[N]treasure,[N]and others spoke[N]of curses from[N]the ancient people.~
 
+;charstring_0BD222 ~                [N]                [N]                [N]                [N]                [N]                [N]                ~
+
 ----------------------
 ?INCLUDE 'pr8C_prologue5'
 ----------------------
 charstring_0BD272 ~However, among[N]those, not one[N]had noticed the[N]tremendous[N]disaster[N]that was coming…~
+;charstring_0BD272 ~However, among[N]those, not one[N]had noticed the[N]tremendous[N]disaster[N]that was coming…~
 
 ----------------------
 ?INCLUDE 'sc08_priest'

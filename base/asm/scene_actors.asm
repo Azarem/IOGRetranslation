@@ -20,7 +20,7 @@
 ?INCLUDE 'sc01_sprint_man'
 ?INCLUDE 'sc01_house_intro'
 ?INCLUDE 'dark_space'
-?INCLUDE 'actor_00CA42'
+?INCLUDE 'overworld_exit'
 ?INCLUDE 'hidden_red_jewel'
 ?INCLUDE 'sc02_lance'
 ?INCLUDE 'sc02_seth'
@@ -909,9 +909,9 @@ event_def_0C8221 [
     actor < #0D, #15, #00, @h_sc01_sprint_man >   ;1F
     actor < #00, #01, #00, @h_sc01_house_intro >   ;20
     actor < #0E, #06, #01, @h_dark_space2 >   ;21
-    actor < #00, #01, #00, @h_actor_00CA42 >   ;22
+    actor < #00, #01, #00, @h_overworld_exit >   ;22
     actor < #08, #0C, #03, @h_hidden_red_jewel >
-    actor < #0C, #2F, #00, @SkyDeliveryman >   ;23
+    actor < #0C, #2F, #00, @SouthCapeDeliveryman >   ;23
   ], `South Cape` >   ;00
 ]
 
@@ -1028,7 +1028,7 @@ event_def_0C84DA [
     actor < #30, #3C, #00, @h_ec0A_prison_guard >   ;11
     actor < #1C, #16, #00, @h_ec0A_actor_04C56A >   ;12
     actor < #28, #3B, #00, @h_ec0A_barrel_roast >   ;13
-    actor < #00, #01, #00, @h_actor_00CA42 >   ;14
+    actor < #00, #01, #00, @h_overworld_exit >   ;14
     actor < #32, #35, #00, @h_ec0A_torch1 >   ;15
     actor < #33, #24, #00, @h_ec0A_torch1 >   ;16
     actor < #32, #25, #00, @h_ec0A_torch1 >   ;17
@@ -1267,7 +1267,7 @@ event_def_0C8AD7 [
     actor < #46, #27, #00, @h_it15_lola >   ;0B
     actor < #47, #27, #00, @h_it15_bill >   ;0C
     actor < #43, #08, #05, @h_dark_space2 >   ;0D
-    actor < #00, #01, #00, @h_actor_00CA42 >   ;0E
+    actor < #00, #01, #00, @h_overworld_exit >   ;0E
     actor < #30, #19, #01, @h_ramp_east >   ;0F
     actor < #0F, #25, #01, @h_ramp_west >   ;10
     actor < #25, #28, #07, @h_hidden_red_jewel >   ;11
@@ -1346,7 +1346,7 @@ event_def_0C8C87 [
     actor < #21, #00, #00, @head_00EAA7 >   ;02
     actor < #06, #17, #00, @h_ir1C_lily >   ;03
     actor < #18, #16, #00, @h_ir1C_kara >   ;04
-    actor < #00, #01, #00, @h_actor_00CA42 >   ;05
+    actor < #00, #01, #00, @h_overworld_exit >   ;05
   ], `Entrance to Incan Ruins` >   ;00
 ]
 
@@ -1733,7 +1733,7 @@ event_def_0C9572 [
     actor < #13, #36, #02, @h_player_character >   ;00
     actor < #00, #00, #00, @h_actor_00EAED >   ;01
     actor < #01, #82, #00, @h_actor_00E9EC >   ;02
-    actor < #00, #01, #00, @h_actor_00CA42 >   ;03
+    actor < #00, #01, #00, @h_overworld_exit >   ;03
     actor < #00, #01, #00, @h_actor_00C667 >   ;04
     actor < #00, #01, #00, @h_fr32_actor_05B01E >   ;05
     actor < #07, #2B, #00, @h_town_door >   ;06
@@ -1770,6 +1770,7 @@ event_def_0C9572 [
     actor < #0C, #0F, #00, @h_fr32_honest_life >   ;25
     actor < #3D, #09, #00, @h_fr32_doomsday >   ;26
     actor < #1C, #1C, #01, @h_jeweler_gem >   ;27
+    actor < #12, #1E, #00, @FreejiaDeliveryman >   ;28
   ], `Flower Capital Freejia ` >   ;00
 ]
 
@@ -1908,7 +1909,7 @@ event_def_0C98B7 [
     enemy < #17, #21, #00, @h_dm3D_flayzer3, #18, #15, #00 >   ;07
     enemy < #0B, #0D, #00, @h_dm3D_flayzer3, #18, #16, #00 >   ;08
     actor < #00, #01, #00, @h_dm3E_intro >   ;09
-    actor < #00, #01, #00, @h_actor_00CA42 >   ;0A
+    actor < #00, #01, #00, @h_overworld_exit >   ;0A
   ], `Diamond Mine` >   ;00
 ]
 
@@ -2758,7 +2759,7 @@ event_def_0CAD99 [
     actor < #2B, #0D, #00, @h_av69_erik >   ;06
     actor < #28, #07, #01, @h_av69_signs >   ;07
     actor < #06, #08, #03, @h_av69_signs >   ;08
-    actor < #00, #01, #00, @h_actor_00CA42 >   ;09
+    actor < #00, #01, #00, @h_overworld_exit >   ;09
   ], `` >   ;00
 ]
 
@@ -3030,7 +3031,7 @@ event_def_0CB41F [
     actor < #25, #38, #02, @h_player_character >   ;00
     actor < #00, #00, #00, @h_actor_00EAED >   ;01
     actor < #11, #11, #00, @head_00EA96 >   ;02
-    actor < #00, #01, #00, @h_actor_00CA42 >   ;03
+    actor < #00, #01, #00, @h_overworld_exit >   ;03
     actor < #00, #01, #00, @h_actor_00C667 >   ;04
     actor < #00, #01, #00, @h_wa78_intro >   ;05
     actor < #00, #01, #00, @h_wa78_actor_0781BE >   ;06
@@ -3164,7 +3165,7 @@ event_def_0CB6C1 [
     actor < #00, #00, #00, @h_actor_00EAED >   ;01
     actor < #11, #11, #00, @head_00EAA7 >   ;02
     actor < #00, #01, #00, @h_gw82_trail_intro >   ;03
-    actor < #00, #01, #00, @h_actor_00CA42 >   ;04
+    actor < #00, #01, #00, @h_overworld_exit >   ;04
     enemy < #20, #18, #00, @h_gw82_archer3, #33, #01, #00 >   ;05
     enemy < #20, #1B, #00, @h_gw82_archer3, #33, #02, #00 >   ;06
     enemy < #21, #38, #00, @h_gw82_archer3, #33, #03, #00 >   ;07
@@ -3456,7 +3457,7 @@ event_def_0CBDC4 [
     actor < #00, #00, #00, @h_actor_00EAED >   ;01
     actor < #11, #11, #00, @head_00EA96 >   ;02
     actor < #00, #01, #00, @h_eu91_intro >   ;03
-    actor < #00, #01, #00, @h_actor_00CA42 >   ;04
+    actor < #00, #01, #00, @h_overworld_exit >   ;04
     actor < #14, #3B, #21, @h_eu91_merchant_counter >   ;05
     actor < #14, #39, #43, @h_eu91_merchant_counter >   ;06
     actor < #1B, #39, #61, @h_eu91_merchant_counter >   ;07
@@ -3653,7 +3654,7 @@ event_def_0CC18C [
     actor < #05, #0A, #00, @h_player_character >   ;00
     actor < #00, #00, #00, @h_actor_00EAED >   ;01
     actor < #DF, #DF, #00, @head_00E94D >   ;02
-    actor < #00, #01, #00, @h_actor_00CA42 >   ;03
+    actor < #00, #01, #00, @h_overworld_exit >   ;03
     actor < #00, #01, #00, @h_mtA0_intro >   ;04
     enemy < #1E, #1C, #30, @h_mtA0_skulker_ew, #3E, #01, #00 >   ;05
     enemy < #15, #1C, #30, @h_mtA0_skulker_ew, #3E, #02, #00 >   ;06
@@ -3960,7 +3961,7 @@ event_def_0CCA19 [
     actor < #1C, #1E, #02, @h_player_character >   ;00
     actor < #00, #00, #00, @h_actor_00EAED >   ;01
     actor < #11, #11, #00, @head_00EA96 >   ;02
-    actor < #00, #01, #00, @h_actor_00CA42 >   ;03
+    actor < #00, #01, #00, @h_overworld_exit >   ;03
     actor < #1C, #04, #01, @h_dark_space2 >   ;04
     actor < #1D, #1D, #00, @h_nvAC_erik >   ;05
     actor < #1D, #1E, #00, @h_nvAC_kara >   ;06
@@ -4011,7 +4012,7 @@ event_def_0CCB1B [
     actor < #05, #0A, #00, @h_player_character >   ;00
     actor < #00, #00, #00, @h_actor_00EAED >   ;01
     actor < #11, #11, #00, @head_00EA96 >   ;02
-    actor < #00, #01, #00, @h_actor_00CA42 >   ;03
+    actor < #00, #01, #00, @h_overworld_exit >   ;03
     actor < #00, #01, #00, @h_awB0_intro >   ;04
     enemy < #0E, #1F, #00, @h_awB0_zip_fly, #4A, #01, #00 >   ;05
     enemy < #13, #1B, #00, @h_awB0_zip_fly, #4A, #02, #00 >   ;06
@@ -4341,7 +4342,7 @@ event_def_0CD3B2 [
     actor < #05, #0A, #32, @h_player_character >   ;00
     actor < #00, #00, #00, @h_actor_00EAED >   ;01
     actor < #03, #02, #00, @h_actor_00E9EC >   ;02
-    actor < #00, #01, #00, @h_actor_00CA42 >   ;03
+    actor < #00, #01, #00, @h_overworld_exit >   ;03
     actor < #02, #07, #01, @h_dark_space1 >   ;04
     actor < #0E, #10, #30, @h_daC3_man1 >   ;05
     actor < #14, #07, #01, @h_jeweler_gem >   ;06
@@ -4427,7 +4428,7 @@ event_def_0CD539 [
   event_def < [
     actor < #05, #0A, #30, @h_player_character >   ;00
     actor < #00, #00, #00, @h_actor_00EAED >   ;01
-    actor < #00, #01, #00, @h_actor_00CA42 >   ;02
+    actor < #00, #01, #00, @h_overworld_exit >   ;02
     actor < #3B, #3C, #00, @h_pyCC_entrance_portal >   ;03
     enemy < #1C, #1E, #00, @h_pyCC_mystic_ball3, #4F, #01, #00 >   ;04
     enemy < #23, #1E, #00, @h_pyCC_mystic_ball3, #4F, #02, #73 >   ;05
