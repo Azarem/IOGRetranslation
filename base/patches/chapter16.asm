@@ -49,25 +49,25 @@ widestring_05E419 `[TPL:6][TPL:9]Neil: Those are aeroplane[N]wings.[FIN][TPL:B]I
 -------------------------------------
 ?INCLUDE 'na49_telescope'
 -------------------------------------
-widestring_05E4F9 `[TPL:6][TPL:B]That's the telescope. With[N]it, you can see the stars[N]of the heavens as if you[N]could take them in your[WAI][N]hand.[END]`
+widestring_05E4F9 `[TPL:6][TPL:8]That's the telescope.[FIN][TPL:B]With it, you can see the[N]stars of the heavens as if[N]you could take them in[N]your hand.[END]`
 
 -------------------------------------
 ?INCLUDE 'na49_camera'
 -------------------------------------
-widestring_05E55C `[TPL:6][TPL:B]That's the camera. It's a[N]device that can burn the[N]image of the landscape[N]onto photographic paper[WAI][N]identically.[FIN]The flaw is that copying[N]it takes nearly 30[N]minutes.[FIN]The landscape doesn't move[N]so that's fine;[FIN]But people have to go on[N]without even blinking for[N]30 minutes when you're[N]photographing them.[FIN]The image of your eyes[N]ends up turning bright red[N]like a rabbit's when using[N]this device.[END]`
+widestring_05E55C `[TPL:6][TPL:8]That's the camera.[FIN][TPL:B]It's a device that can[N]burn an identical image of[N]the landscape onto[N]photographic paper.[FIN]The flaw is that copying[N]it takes nearly 30[N]minutes.[FIN]The landscape doesn't move[N]so that's fine;[FIN]But people have to go on[N]without even blinking for[N]30 minutes when you're[N]photographing them.[FIN]The image of your eyes[N]ends up turning bright red[N]like a rabbit's when using[N]this device.[END]`
 
-widestring_05DD04 `[TPL:6][TPL:B]Neil: [NAM:0], where are you[N]going? You took the[N]trouble of coming here, so[N]relax a while longer[WAI][N]before you go.[END]`
+widestring_05DD04 `[TPL:6][TPL:9]Neil: [NAM:0], where are you[N]going?[FIN][TPL:B]You took the trouble of[N]coming here, so relax a[N]while longer before you[N]go.[END]`
 
-widestring_05DB9C `[TPL:6][TPL:B]Anyway, you came here[N]because I can do something[N]for you, right? Please[N]tell me what you need.[FIN][TPL:0][TPL:B][NAM:0] told Neil about the[N]events that happened until[N]now; hearing the voice of[N]his missing father,[FIN]searching for the [NAM:D][N][NAM:E]s that are spread[N]across ruins throughout[N]the world, and so on.[FIN][TPL:6][TPL:B]Neil: Hohoho… I think[N]that's a very interesting[N]story…[FIN]I’m a little interested in[N]ancient ruins too, you[N]know?[FIN]The ruins that you've told[N]me are scattered all over[N]the world, but there's a[N]mysterious connection[WAI][N]between them.[FIN]If you draw a line on the[N]world map between all the[N]ruins you've been to so[N]far…[FIN]…it somehow forms a huge[N]image of the constellation[N]of Cygnus, the swan.[END]`
+widestring_05DB9C `[TPL:6][TPL:B]Anyway, you came here[N]because I can do something[N]for you, right? Please[N]tell me what you need.[FIN][TPL:0][TPL:B][NAM:0] told Neil about the[N]events that happened until[N]now; hearing the voice of[N]his missing father,[FIN]searching for the [NAM:D][N][NAM:E]s that are spread[N]across ruins throughout[N]the world, and so on.[FIN][CLD][TPL:6][TPL:A]Neil: Hohoho… I think[N]that's a very interesting[N]story…[FIN]I’m a little interested in[N]ancient ruins too, you[N]know?[FIN]The ruins that you've told[N]me are scattered all over[N]the world…[FIN]But there's a mysterious[N]connection between them.[FIN][TPL:B]If you draw a line on the[N]world map between all the[N]ruins you've been to so[N]far…[FIN]…it somehow forms a huge[N]image of the constellation[N]of Cygnus, the swan.[END]`
 
 widestring_05E0C1 `[TPL:1][TPL:9][NAM:1]: You said it was[N]Cygnus?![FIN][TPL:6][TPL:B]Neil: Right. Beyond that,[N]the Tower of Babel that[N][NAM:0]'s dad was said to have[N]disappeared in,[FIN]…ends up being exactly in[N]the middle of that giant[N]swan.[END]`
 
-widestring_05DE46 `[TPL:2][TPL:B][NAM:2]: Well, now that you[N]mention it, there's been a[N]new red star underneath[N]Cygnus as of late…[FIN][TPL:6][TPL:B]Neil: Exactly…! You know a[N]lot, don't you?[FIN]Between the new star[N]appearing in Cygnus and[N][NAM:0]'s talk of ruins,[FIN]these various elements are[N]tied together too neatly[N]for it to happen[N]organically…[FIN]I don't know if it's[N]coincidence or conspiracy,[N]but the fact is that[N]something is going to[WAI][N]happen.[FIN]However, the circumstances[N]are good. The desert of[N]the Nazca lines is at most[N]a day's walk to the east[WAI][N]from here.[FIN][::]Will you check it out?[N][PAL:0] Yes[N] No`
+widestring_05DE46 `[TPL:2][TPL:B][NAM:2]: Well, now that you[N]mention it, there's been a[N]new red star underneath[N]Cygnus as of late…[FIN][TPL:6][TPL:B]Neil: Exactly…! You know a[N]lot, don't you?[FIN]Between the new star[N]appearing in Cygnus and[N][NAM:0]'s talk of ruins,[FIN]these various elements are[N]tied together too neatly[N]for it to happen[N]organically…[FIN][TPL:12]I don't know if it's[N]coincidence or conspiracy,[N]but the fact is that[N]something is going to[N]happen.[FIN][CLD][TPL:6][TPL:9]However, the circumstances[N]are good.[FIN][TPL:B]The desert of the Nazca[N]lines is at most a day's[N]walk to the east from[N]here.[FIN][::]Will you check it out?[N][PAL:0] Yes[N] No[PAL:4]`
 
-widestring_05DF9F `[CLR][PAL:4][LU1:36][N][LU1:D]say that. [N][LU2:1]I [LU1:F1]to go. [FIN][JMP:&widestring_05DE46+M]`
+widestring_05DF9F `[CLR][LU1:36][N][LU1:D]say that. [N][LU2:1]I [LU1:F1]to go. [FIN][JMP:&widestring_05DE46+M]`
 ;TODO!!!!
 
-widestring_05DFC3 `[CLR][PAL:4]Neil: Alright…! I guess[N]it's settled then.[END]`
+widestring_05DFC3 `[CLR]Neil: Alright…! I guess[N]it's settled then.[END]`
 
 widestring_05E227 `[TPL:4][TPL:8][NAM:4]: We're going too…![FIN][TPL:9][NAM:0] won't be tha only one[N]who can have fun memories.[FIN][CLD][TPL:9]The party headed to the[N]Nazca desert…[END]`
 

@@ -75,11 +75,11 @@ widestring_01CB51 `[DLG:3,13][SIZ:D,3]`
 
 widestring_01CB58 `[DLG:3,11][SIZ:D,4]`
 
-widestring_01CB5F `[DLG:3,11][SIZ:D,4]`
+widestring_01CB5F `[DLG:3,F][SIZ:D,5]`
 
 widestring_01CB66 `[DLG:2,14][SIZ:E,3][LU1:65]do you go?[N]`
 
-widestring_01CB7A `[SEP:11,6FDF][SEP:12,B1E][PAL:4]`
+widestring_01CB7A `[DLG:3,4][SIZ:D,5]`
 
 widestring_01CB85 `[SEP:11,777F][SEP:12,561E][PAL:4]`
 

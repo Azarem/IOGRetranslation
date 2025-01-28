@@ -4,12 +4,12 @@
 --------------------------------
 ?INCLUDE 'ec0A_left_guard'
 --------------------------------
-widestring_04C115 `[TPL:19][TPL:B]Soldier: This is King[N]Edward's castle. If you[N]came to have an audience[N]with the king, state your[WAI][N]name.[FIN][CLD][TPL:9][NAM:0] showed King Edward's[N]letter to the doormen.[FIN][TPL:19][TPL:A]Soldier: You're a guest[N]of the king? Excuse our[N]discourtesy. Please enter.[END]`
+widestring_04C115 `[TPL:19][TPL:9]Soldier: This is King[N]Edward's castle.[FIN][TPL:A]If you came to have an[N]audience with the king,[N]state your name.[FIN][CLD][TPL:9][NAM:0] showed King Edward's[N]letter to the doormen.[FIN][TPL:19][TPL:A]Soldier: You're a guest[N]of the king? Excuse our[N]discourtesy. Please enter.[END]`
 
 --------------------------------
 ?INCLUDE 'ec0A_right_guard'
 --------------------------------
-widestring_04C229 `[TPL:19][TPL:B]This is King Edward's[N]castle. We sincerely hope[N]you avoid blunders, as the[N]king is a rather strict[WAI][N]gentleman.[END]`
+widestring_04C229 `[TPL:19][TPL:9]This is King Edward's[N]castle.[FIN][TPL:B]We sincerely hope you[N]avoid blunders, as the[N]king is a rather strict[N]gentleman.[END]`
 
 widestring_04C067 `[TPL:19][TPL:B]This is King Edward's[N]castle. If you're having[N]an audience with the king,[N]ascend to the upper floor.[END]`
 

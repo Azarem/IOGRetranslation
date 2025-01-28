@@ -3,11 +3,11 @@
 ------------------------------------
 ?INCLUDE 'dc2F_adrift'
 ------------------------------------
-widestring_059D42 `[TPL:1][TPL:A][NAM:1]: You finally came[N]to, huh. We were split up[N]from everyone…[FIN]Are you hurt?[N][PAL:0] I'm fine[N] I'm still dizzy`
+widestring_059D42 `[TPL:1][TPL:A][NAM:1]: You finally came[N]to, huh. We were split up[N]from everyone…[FIN]Are you hurt?[N][PAL:0] I'm fine[N] I'm still dizzy[PAL:4]`
 
-widestring_059D91 `[PAL:4][TPL:B][NAM:1]: Is that so? It[N]seems like you recover[N]quickly, huh. You're like[N]a lizard's tail.[FIN][JMP:&widestring_059DCD+M]`
+widestring_059D91 `[TPL:B][NAM:1]: Is that so? It[N]seems like you recover[N]quickly, huh. You're like[N]a lizard's tail.[FIN][JMP:&widestring_059DCD+M]`
 
-widestring_059DCD `[CLR][PAL:4][LU1:25]Of course, you [N][LU1:F2]unconscious for [N][LU1:B7][LU2:B5]half a day. [FIN][TPL:B][::]I've read stories of being[N]adrift in books, but I[N]would have thought it[N]ridiculous that it would[WAI][N]turn out like this for me.[FIN]I guess that disaster[N]comes around suddenly,[N]huh.[END]`
+widestring_059DCD `[CLR][LU1:25]Of course, you [N][LU1:F2]unconscious for [N][LU1:B7][LU2:B5]half a day. [FIN][::][TPL:12]I've read stories of being[N]adrift in books, but I[N]would have thought it[N]ridiculous that it would[N]turn out like this for me.[FIN][CLD][TPL:1][TPL:A]I guess that disaster[N]comes around suddenly,[N]huh.[END]`
 ;TODO (option2)!!!
 
 widestring_059E6F `[TPL:1][TPL:9][NAM:1]: You know, I can't[N]help but worry.[FIN][TPL:A]Oh, you know, if we don't[N]think about the future, we[N]could enjoy being adrift…[FIN][TPL:B]I'm starving already.[N]Let's have the meat we[N]took from the castle's[N]basement for lunch.[END]`
@@ -33,7 +33,7 @@ widestring_05A074 `[TPL:1][TPL:A][NAM:1]: It looks like[N]something is drifting[
 
 widestring_0599FC `[PAL:0][TPL:A]Someone placed a letter[N]into this jar… It read[N]something like this.[FIN][TPL:5][BOR:1][DLG:3,4][SIZ:D,7]We have been placed on a[N]slave ship; it is heading[N]to unfamiliar land where[N]we will be sold.[N]If anyone reads this[N]letter, please save us…[N]                   [NAM:A][END]`
 
-widestring_05A091 `[TPL:1][TPL:9][NAM:1]: Ah, although I had[N]that hunch…[FIN][TPL:A]They were saying[N]"save usˮ… But we also[N]want to be saved, right?[FIN]Ah, I'm totally famished[N]already…![FIN][TPL:0][TPL:B][NAM:0]: And that's why it[N]would have been better if[N]we had eaten some fish[N]last time they were[WAI][N]around. So next time…[FIN][CLD][TPL:1][TPL:9][NAM:1]: You can't kill cute[N]fish like that![FIN][TPL:0][TPL:A][NAM:0]: Well then, are you[N]saying it's fine if don't[N]eat anything and die…!?[FIN][TPL:1][TPL:A][NAM:1]: The point is, I[N]can't eat raw fish! It's[N]gross![FIN]Besides, the fish are[N]trying as hard as they can[N]to survive…![FIN]The fish feel pain…! Do[N]you think about how the[N]fish feel…?![FIN][TPL:B]If you want to eat[N]something like that, go[N]ahead and eat it…! Because[N]I'm not going to…![END]`
+widestring_05A091 `[TPL:1][TPL:9][NAM:1]: Ah, although I had[N]that hunch…[FIN][TPL:A]They were saying[N]"save usˮ… But we also[N]want to be saved, right?[FIN]Ah, I'm totally famished[N]already…![FIN][TPL:0][TPL:B][NAM:0]: And that's why it[N]would have been better if[N]we'd eaten some fish last[N]time they were around.[FIN][CLD][TPL:0][TPL:8]So next time…[FIN][TPL:1][TPL:9][NAM:1]: You can't kill cute[N]fish like that![FIN][TPL:0][TPL:A][NAM:0]: Well then, are you[N]saying it's fine if don't[N]eat anything and die…!?[FIN][TPL:1][TPL:A][NAM:1]: The point is, I[N]can't eat raw fish! It's[N]gross![FIN]Besides, the fish are[N]trying as hard as they can[N]to survive…![FIN]The fish feel pain…! Do[N]you think about how the[N]fish feel…?![FIN][TPL:B]If you want to eat[N]something like that, go[N]ahead and eat it…! Because[N]I'm not going to…![END]`
 
 widestring_05A232 `[TPL:1][TPL:8][NAM:1]: …[FIN][TPL:0][TPL:A][DLY:0][NAM:0]: That day, [NAM:1][N]wouldn't even give me the[N]sound of her voice…[FIN]Geez, the little lady is a[N]nuisance. Good grief…[END]`
 
@@ -49,7 +49,7 @@ widestring_05A405 `[TPL:0][TPL:9][DLY:0][NAM:0]: [NAM:1] ate the[N]delicious-loo
 
 widestring_059D15 `[DLG:8,7][SIZ:8,1]12th Day Adrift[END]`
 
-widestring_05A467 `[TPL:1][TPL:D][NAM:1]: The stars are[N]beautiful, huh…[FIN][TPL:E]It seems like I could[N]touch them with my hands[N]if I was a little taller.[FIN][TPL:F]I think [NAM:2], [NAM:4] and[N]the rest must also be[N]looking at this same[N]starry sky.[FIN]If we could talk with the[N]stars, then we would[N]definitely know where[N]everyone is…[FIN][NAM:1]: Oh, that's right.[N]I noticed recently that[N]there's one more star[N]around the constellation[WAI][N]of Cygnus, the swan.[FIN]See, that red star over[N]there.[FIN]Hey. Won’t you make a wish[N]on that star? I feel like[N]it will definitely come[N]true.[FIN][NAM:0], you close your eyes[N]tight and make a wish too,[N]okay?[END]`
+widestring_05A467 `[TPL:1][TPL:D][NAM:1]: The stars are[N]beautiful, huh…[FIN][TPL:E]It seems like I could[N]touch them with my hands[N]if I was a little taller.[FIN][TPL:F]I think [NAM:2], [NAM:4] and[N]the rest must also be[N]looking at this same[N]starry sky.[FIN]If we could talk with the[N]stars, then we would[N]definitely know where[N]everyone is…[FIN][NAM:1]: Oh, that's right.[FIN]I noticed recently that[N]there's one more star[N]around the constellation[N]of Cygnus, the swan.[FIN]See, that red star over[N]there.[FIN]Hey. Won’t you make a wish[N]on that star? I feel like[N]it will definitely come[N]true.[FIN][NAM:0], you close your eyes[N]tight and make a wish too,[N]okay?[END]`
 
 widestring_05A5AB `[TPL:0][TPL:B][DLY:0][NAM:0]: I tried praying as[N]hard as I could for[N]everyone's safety, and for[N]my dad…[END]`
 
@@ -61,10 +61,10 @@ widestring_05A723 `[TPL:1][TPL:B][NAM:1]: They're just[N]circling round and roun
 
 widestring_05A6EA `[TPL:1][TPL:9][NAM:1]: Could they be[N]sharks…?[FIN][TPL:A]I wonder if we'll be[N]eaten… What should we do…?[N][NAM:0]…[END]`
 
-widestring_05A770 `[TPL:1][TPL:A][NAM:1]: I've got it! These[N]little fishies aren't[N]hungry![FIN][TPL:B]My butler taught it to me[N]a long time ago. Humans[N]are the only living thing[N]that attack when they're[WAI][N]not hungry.[FIN][TPL:0][TPL:B][NAM:0]: If that's the case,[N]then I guess what we're[N]doing is unusual for[N]humans.[FIN]After all, we didn't eat[N]any of the fish until we[N]were about to die, right?[FIN][TPL:1][TPL:B][NAM:1]: That's how it is,[N]huh? Ah, it looks like[N]they're leaving. Dear[N]sharks, farewellll…[END]`
+widestring_05A770 `[TPL:1][TPL:A][NAM:1]: I've got it! These[N]little fishies aren't[N]hungry![FIN]My butler taught something[N]to me a long time ago.[FIN]Humans are the only living[N]thing that attack when[N]they're not hungry.[FIN][TPL:0][TPL:B][NAM:0]: If that's the case,[N]then I guess what we're[N]doing is unusual for[N]humans.[FIN]After all, we didn't eat[N]any of the fish until we[N]were about to die, right?[FIN][TPL:1][TPL:B][NAM:1]: That's how it is,[N]huh? Ah, it looks like[N]they're leaving. Dear[N]sharks, farewellll…[END]`
 
 widestring_059D33 `[DLG:8,7][SIZ:8,1]21st Day Adrift[END]`
 
-widestring_05A853 `[TPL:1][TPL:B][NAM:1]: Hey, I want to tell[N]you something about[N]myself. When I was at the[N]castle, I liked to look at[WAI][N]the setting sun…[FIN]When I saw the setting sun[N]from the castle's halls,[N]it was incredibly,[N]incredibly lovely…[FIN]But, you know. Now I've[N]come to hate it.[FIN]When the sun sets, then[N]the gloomy, frightful[N]darkness comes…[FIN]Because of that, I start[N]to think that I may never[N]be able to see the dawn[N]again…[FIN]But when you're here for[N]me, I can see lovely[N]morning light every day.[FIN]If you're here for me, I[N]feel that even challenging[N]times like these are fun[N]somehow.[FIN][TPL:0][TPL:B][NAM:0]: I actually wanted to[N]say something like that to[N][NAM:1], yet for some reason[N]the words didn't come out.[FIN]I only nodded and said[N]nothing…[END]`
+widestring_05A853 `[TPL:1][TPL:A][NAM:1]: Hey, I want to tell[N]you something about[N]myself.[FIN]When I was at the castle,[N]I liked to look at the[N]setting sun…[FIN][TPL:B]When I saw the setting sun[N]from the castle's halls,[N]it was incredibly,[N]incredibly lovely…[FIN]But, you know. Now I've[N]come to hate it.[FIN]When the sun sets, then[N]the gloomy, frightful[N]darkness comes…[FIN]Because of that, I start[N]to think that I may never[N]be able to see the dawn[N]again…[FIN]But when you're here for[N]me, I can see lovely[N]morning light every day.[FIN]If you're here for me, I[N]feel that even challenging[N]times like these are fun[N]somehow.[FIN][TPL:0][TPL:B][NAM:0]: I actually wanted to[N]say something like that to[N][NAM:1], yet for some reason[N]the words didn't come out.[FIN]I only nodded and said[N]nothing…[END]`
 
 widestring_05A9F9 `[TPL:0][TPL:A][NAM:0]: Suddenly, my knees[N]buckled; I collapsed and[N]lost consciousness…[FIN][CLD][TPL:1][TPL:9][DLY:0][NAM:1]: [NAM:0] …! [NAM:0] …![N]What's wrong…!?[FIN]Hold on…! Don't leave me[N]by myself…!![END]`

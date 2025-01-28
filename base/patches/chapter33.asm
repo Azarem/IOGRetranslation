@@ -51,7 +51,7 @@ widestring_099B8F `[TPL:17][TPL:B]The [LU1:A8]released[N][LU1:8E]the [LU1:7B]has
 
 widestring_099C95 `[TPL:17][TPL:A]Living things evolved to[N]this point over many, many[N]years.[FIN]Trilobites gave birth to[N]fish; reptiles, mammals[N]gave birth to humanity.[FIN]And humanity will[N]continuously evolve more[N]and more from here.[END]`
 
-widestring_099D16 `[TPL:17][TPL:B]From ancient times, the[N]comet has been called both[N]a star of the gods and a[N]star of the devil.[FIN]But the comet that is now[N]approaching the Earth is[N]the star of the devil…[FIN]That star is highly[N]conscious, and it[N]manipulates the Earth's[N]evolution according to its[WAI][N]own will…[END]`
+widestring_099D16 `[TPL:17][TPL:B]From ancient times, the[N]comet has been called both[N]a star of the gods and a[N]star of the devil.[FIN]But the comet that is now[N]approaching the Earth is[N]the star of the devil…[FIN][TPL:12]That star is highly[N]conscious, and it[N]manipulates the Earth's[N]evolution according to its[N]own will…[END]`
 
 widestring_099C1E `[TPL:17][TPL:A]The way time advances is[N]different inside of the[N]Tower of Babel…[FIN]Time flows hundreds of[N]times its normal speed[N]here.[FIN]If you can survive here,[N]you two aren't normal[N]humans, are you…?[END]`
 
@@ -87,4 +87,4 @@ widestring_0980C1 `[CLD]`
 -------------------------------------
 ?INCLUDE 'sE6_gaia'
 -------------------------------------
-widestring_08E853 `[DEF][CLR]The comet is approaching…[N]So the final battle is[N]approaching…[FIN]This will even be the last[N]time that I talk with thee[N]like this.[FIN]Thy power has revived to[N]the point where it rivals[N]the comet, Dark Gaia.[FIN]Thou hast grown into a[N]magnificent Warrior of[N]Darkness.[FIN]When thy heart becomes one[N]with the Warrior of Light,[N]Firebird will be revived;[N]the power that only Shadow[WAI][N]holds.[FIN]Thou alone canst restore[N]this planet to its[N]original form. I will[N]entrust all my hopes to[WAI][N]thee…[FIN]`
+widestring_08E853 `[DEF][CLR]The comet is approaching…[N]So the final battle is[N]approaching…[FIN]This will even be the last[N]time that I talk with thee[N]like this.[FIN]Thy power has revived to[N]the point where it rivals[N]the comet, Dark Gaia.[FIN]Thou hast grown into a[N]magnificent Warrior of[N]Darkness.[FIN]When thy heart becomes one[N]with the Warrior of Light,[N]Firebird will be revived;[FIN]the power that only Shadow[N]holds.[FIN]Thou alone canst restore[N]this planet to its[N]original form.[FIN]I will entrust all my[N]hopes to thee…[FIN]`

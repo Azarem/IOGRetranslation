@@ -7,7 +7,7 @@
 -------------------------------------
 ?INCLUDE 'awB0_intro'
 -------------------------------------
-widestring_089807 `[TPL:0][TPL:B]If you push through the[N]jungle from the[N]aboriginal's village for[N]at most three days, you’ll[WAI][N]reach a gigantic temple.[PAL:0][END]`
+widestring_089807 `[TPL:0][TPL:12]If you push through the[N]jungle from the[N]aboriginal's village for[N]at most three days, you’ll[N]reach a gigantic temple.[PAL:0][END]`
 
 ;Outer circumference pathway
 
@@ -124,9 +124,9 @@ widestring_08942A `[TPL:F]The girl is silent and[N]holds out a Red Jewel. She[N]
 -------------------------------------
 ?INCLUDE 'nvAE_erik'
 -------------------------------------
-widestring_089778 `[TPL:3][TPL:F][NAM:3]: They say that even[N]though this village is[N]facing a food shortage,[N]slave merchants were[WAI][N]taking advantage and[N]kidnapped children.[FIN]It's an awful story, isn't[N]it?[END]`
+widestring_089778 `[TPL:3][TPL:E][NAM:3]: They say that even[N]though this village is[N]facing a food shortage,[FIN]slave merchants were[N]taking advantage and[N]kidnapped children.[FIN]It's an awful story, isn't[N]it?[END]`
 
-widestring_08963C `[TPL:1][TPL:F]It seems that slave[N]merchants arrived from a[N]town in the northwest and[N]were taking villagers away[WAI][N]from here.[FIN]I can't tolerate them[N]taking advantage and[N]selling children when[N]there's no food and the[WAI][N]people are suffering![FIN]Hey, won't we try going to[N]that slave merchant town?[N][PAL:0] Yeah, let's go![N] Wait a bit[PAL:4]`
+widestring_08963C `[TPL:1][TPL:10]It seems that slave[N]merchants arrived from a[N]town in the northwest and[N]were taking villagers away[N]from here.[FIN]I can't tolerate them[N]taking advantage and[N]selling children when[N]there's no food and the[N]people are suffering![FIN][CLD][TPL:1][TPL:F]Hey, won't we try going to[N]that slave merchant town?[N][PAL:0] Yeah, let's go![N] Wait a bit[PAL:4]`
 
 widestring_0896F9 `[CLR]Well, when you're ready to[N]go, come back here,[N]alright?[END]`
 

@@ -4,7 +4,7 @@
 --------------------------------------
 ?INCLUDE 'fr32_kara'
 --------------------------------------
-widestring_05B100 `[TPL:1][TPL:D][NAM:1]: Wow, it's so[N]pretty…![FIN][TPL:E]Isn't it just what you'd[N]expect a place called the[N]Capital of Flowers to be…![FIN][TPL:F]I think that the people[N]that live in a beautiful[N]place like this will[N]definitely have beautiful[WAI][N]hearts too…[END]`
+widestring_05B100 `[TPL:1][TPL:D][NAM:1]: Wow, it's so[N]pretty…![FIN][TPL:E]Isn't it just what you'd[N]expect a place called the[N]Capital of Flowers to be…![FIN][TPL:10]I think that the people[N]that live in a beautiful[N]place like this will[N]definitely have beautiful[N]hearts too…[END]`
 
 --------------------------------------
 ?INCLUDE 'fr32_guide'
@@ -82,7 +82,7 @@ widestring_05B60C `[TPL:7][DLG:8,9][SIZ:4,1]Thwack!![FIN][CLD][TPL:20][TPL:F]You
 --------------------------------------
 ?INCLUDE 'fr36_mother'
 --------------------------------------
-widestring_05BB6F `[TPL:20][TPL:A]What we call motherhood is[N]being unable to hide your[N]worries.[FIN][TPL:B]Are they hanging around in[N]a bad crowd, are they[N]injured somewhere, or[N]something like that,[WAI][N]you know…?[FIN]I guess that I've come to[N]worry just like my mom.[END]`
+widestring_05BB6F `[TPL:20][TPL:A]What we call motherhood is[N]being unable to hide your[N]worries.[FIN][TPL:12]Are they hanging around in[N]a bad crowd, are they[N]injured somewhere, or[N]something like that,[N]you know…?[FIN][CLD][TPL:20][TPL:9]I guess that I've come to[N]worry just like my mom.[END]`
 
 --------------------------------------
 ?INCLUDE 'fr32_kidnapper'
@@ -107,11 +107,11 @@ widestring_05B840 `[TPL:20][TPL:D]Damn it, where the hell[N]did he go…[END]`
 --------------------------------------
 ?INCLUDE 'fr32_slaver2'
 --------------------------------------
-widestring_05B8CD `[TPL:20][TPL:F]A slave escaped.[N]You haven't noticed him[N]anywhere, have you?[WAI][N][PAL:0] Yes[N] No`
+widestring_05B8CD `[TPL:20][TPL:C]A slave escaped.[FIN][TPL:F]You haven't noticed him[N]anywhere, have you?[N][PAL:0] Yes[N] No[PAL:4]`
 
-widestring_05B90C `[CLR][PAL:4]What did you say!? If you[N]tell me where they are, I[N]might be so kind as to[N]give you a Red Jewel.[WAI][N][PAL:0] Inform him[N] Smile and lie`
+widestring_05B90C `[CLR]What did you say!? If you[N]tell me where they are, I[N]might be so kind as to[N]give you a Red Jewel.[WAI][N][PAL:0] Inform him[N] Smile and lie[PAL:4]`
 
-widestring_05B8F1 `[CLR][PAL:4]Hmm.[N][LU2:3B]me if you see him.[END]`
+widestring_05B8F1 `[CLR]Hmm.[N][LU2:3B]me if you see him.[END]`
 ;TODO!!!!!!
 
 widestring_05B9AF `[CLD][TPL:D]However, [NAM:0] doesn't know[N]where the slave is hiding.[FIN][::][CLD][TPL:20][TPL:D]Man: Hey… Little boy…[N]Don't make fun of adults…![END]`
@@ -146,7 +146,7 @@ widestring_05B7E6 `[TPL:20][TPL:F]This brat…! Where did you[N]come in here fro
 --------------------------------------
 ?INCLUDE 'fr32_hotel_hint'
 --------------------------------------
-widestring_05B688 `[TPL:20][TPL:F]Girl: There's a boy that[N]worked as a live-in worker[N]at the inn; it seems like[N]a slave merchant detained[WAI][N]him.[END]`
+widestring_05B688 `[TPL:20][TPL:E]Girl: There's a boy that[N]worked as a live-in worker[N]at the inn.[FIN]It seems like a slave[N]merchant detained him.[END]`
 
 --------------------------------------
 ?INCLUDE 'fr3A_harborer'
@@ -178,11 +178,11 @@ widestring_05C2BE `[TPL:20][TPL:E]These slaves are almost[N]exactly the same age
 --------------------------------------
 ?INCLUDE 'fr3C_slaver'
 --------------------------------------
-widestring_05C190 `[TPL:20][TPL:A]Hey boy…! This isn't a[N]place for children![N]Alright, go home, go home![FIN][TPL:B]Or, are you saying that[N]you came to buy a slave[N]too?[WAI][N][PAL:0] Yes [N] No`
+widestring_05C190 `[TPL:20][TPL:A]Hey boy…! This isn't a[N]place for children![N]Alright, go home, go home![FIN][TPL:B]Or, are you saying that[N]you came to buy a slave[N]too?[WAI][N][PAL:0] Yes [N] No[PAL:4]`
 
-widestring_05C1E2 `[CLR][PAL:4]I'm starting to like your[N]courage! I don't know if[N]you're really buying or[N]what, but take a look.[END]`
+widestring_05C1E2 `[CLR]I'm starting to like your[N]courage! I don't know if[N]you're really buying or[N]what, but take a look.[END]`
 
-widestring_05C21F `[CLR][PAL:4]Go [LU2:75]Go home![END]`
+widestring_05C21F `[CLR]Go [LU2:75]Go home![END]`
 ;TODO!!!!
 
 --------------------------------------
@@ -193,7 +193,7 @@ widestring_05BF04 `[TPL:5][TPL:E]I'm [NAM:C]. I was brought[N]to this town from 
 --------------------------------------
 ?INCLUDE 'fr3C_remus'
 --------------------------------------
-widestring_05BFDE `[TPL:5][TPL:F]I'm [NAM:B]. When there[N]were no longer any[N]animals, we no longer had[N]food.[FIN]And so, having no other[N]options, we became what[N]you call "slavesˮ in order[N]to survive.[FIN]We won't have any idea at[N]all of what kind of person[N]will buy us or what kind[N]of place they'll bring us[WAI][N]to…[END]`
+widestring_05BFDE `[TPL:5][TPL:F]I'm [NAM:B]. When there[N]were no longer any[N]animals, we no longer had[N]food.[FIN]And so, having no other[N]options, we became what[N]you call "slavesˮ in order[N]to survive.[FIN]We won't have any idea[N]what kind of person will[N]buy us or what kind of[N]place they'll bring us to…[END]`
 
 widestring_05C059 `[TPL:20][TPL:E]O God… Why did you create[N]that thing called "social[N]statusˮ?[END]`
 
@@ -205,7 +205,7 @@ widestring_05C094 `[TPL:5][TPL:C]I'm [NAM:A].[FIN][TPL:E]A boy named [NAM:3] tha
 --------------------------------------
 ?INCLUDE 'fr32_creep'
 --------------------------------------
-widestring_05B6E8 `[TPL:20][TPL:E]Ho ho ho. You understand[N]this place well, don't[N]you?[FIN][TPL:F]I'm thinking it's fine one[N]way or another, but the[N]truth is that it might[N]have been important[WAI][N]enough…[FIN]That's how it is in this[N]world.[FIN]This is a bonus. Take it.[FIN][CLD][TPL:E]The old man stealthily[N]inserted something into[N][NAM:0]'s possessions![END]`
+widestring_05B6E8 `[TPL:20][TPL:E]Ho ho ho. You understand[N]this place well, don't[N]you?[FIN][TPL:10]I'm thinking it's fine one[N]way or another, but the[N]truth is that it might[N]have been important[N]enough…[FIN][CLD][TPL:20][TPL:D]That's how it is in this[N]world.[FIN]This is a bonus. Take it.[FIN][CLD][TPL:E]The old man stealthily[N]inserted something into[N][NAM:0]'s possessions![END]`
 
 widestring_05B78C `[TPL:20][TPL:C]Ho ho ho…[END]`
 

@@ -61,7 +61,7 @@ widestring_04A746 `[TPL:0][TPL:A][NAM:0]: Wah…! What in the…[N]Why does it l
 
 widestring_04A766 `[TPL:1][TPL:A][NAM:1]: This is awful…![N]Who could have done[N]something like this…[FIN][TPL:0][TPL:A][NAM:0]: What about Grandma[N]and Grandpa!?[END]`
 
-widestring_04A7A8 `[TPL:1][TPL:8][NAM:1]: Mr. Biiill…![FIN][TPL:0][TPL:8][NAM:0]: Grandma Lauuura![FIN][TPL:1][TPL:A][NAM:1]: I'll just quickly[N]look on the second[N]floor…![END]`
+widestring_04A7A8 `[TPL:1][TPL:8][NAM:1]: Mr. Biiill…![FIN][TPL:0][TPL:8][NAM:0]: Grandma [NAM:4]![FIN][TPL:1][TPL:A][NAM:1]: I'll just quickly[N]look on the second[N]floor…![END]`
 
 widestring_04A7E1 `[TPL:1][TPL:F][NAM:1]: Eeeeeeek…!![N]Come here! Help! [NAM:0]![N]It's, it's a disaster,[N]a disaster![END]`
 
@@ -82,7 +82,7 @@ widestring_04A9D7 `[TPL:1][TPL:E]I feel like some lovely[N]experiences are await
 
 widestring_04AD69 `[TPL:2][TPL:F][NAM:2]: Are you going to[N]go and meet with everyone[N]before going to my[N]village?[FIN]It might be a while[N]before we can come back.[END]`
 
-widestring_04ADCA `[TPL:2][TPL:F][NAM:2]: Huh…? Are you[N]done already? Or are you[N]going to check on the[N]state of the town for a[WAI][N]bit?[END]`
+widestring_04ADCA `[TPL:2][TPL:D][NAM:2]: Huh…? Are you[N]done already?[FIN][TPL:E]Or are you going to check[N]on the state of the town[N]for a bit?[END]`
 
 --------------------------------
 ?INCLUDE 'sc08_priest'

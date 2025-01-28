@@ -4,7 +4,7 @@
 -------------------------------------
 ?INCLUDE 'fr39_erik'
 -------------------------------------
-widestring_05CB93 `[TPL:3][TPL:B][NAM:3]: Even though you[N]could say I was able to[N]reunite with all of you,[N]I'm not crying tears of[WAI][N]joy.[FIN]I suppose that I've run[N]out of tears…[END]`
+widestring_05CB93 `[TPL:3][TPL:B][NAM:3]: Even though I was[N]able to reunite with all[N]of you, I'm not crying[N]tears of joy.[FIN]I suppose that I've run[N]out of tears…[END]`
 
 -------------------------------------
 ?INCLUDE 'fr39_lance'
@@ -22,4 +22,4 @@ widestring_05C597 `[TPL:1][TPL:9][NAM:1]: I'm crying for some[N]reason.[END]`
 
 widestring_05C74D `[TPL:2][TPL:A][NAM:2]: You really have[N]varied experiences if you[N]go on a journey…[END]`
 
-widestring_05CBF7 `[TPL:3][TPL:B][NAM:3]: You know what. There[N]is apparently an eccentric[N]inventor in a nearby[N]forest; won't you try to[WAI][N]meet him?[FIN]Apparently it's a person[N]named Neil, but…[FIN][TPL:0][TPL:B][NAM:0]: You said it's Neil?![FIN]My cousin went missing; he[N]had the same name…!![FIN]My cousin Neil is also an[N]inventor. He invented a[N]vehicle that can fly[N]through the big blue sky[WAI][N]like a bird;[WAI][N]it's called an aeroplane.[FIN][CLD][TPL:A]Thus, [NAM:0]'s party headed[N]to the house of the[N]inventor in the forest.[END]`
+widestring_05CBF7 `[TPL:3][TPL:B][NAM:3]: I hear there is an[N]eccentric inventor in a[N]nearby forest; won't you[N]try to meet him?[FIN]Apparently it's a person[N]named Neil, but…[FIN][CLD][TPL:0][TPL:8][NAM:0]: You said it's Neil?![FIN][TPL:9]My cousin went missing; he[N]had the same name…!![FIN]My cousin Neil is also an[N]inventor.[FIN][TPL:B]He invented a vehicle that[N]can fly through the big[N]blue sky like a bird; it's[N]called an aeroplane.[FIN][CLD][TPL:A]Thus, [NAM:0]'s party headed[N]to the house of the[N]inventor in the forest.[END]`

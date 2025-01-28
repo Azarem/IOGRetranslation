@@ -54,12 +54,12 @@ widestring_058940 `[TPL:1B][TPL:A]Ah, Your Majesty. The[N][NAM:D] [NAM:E] is ins
 ---------------------------------------
 ?INCLUDE 'gs2E_crew1'
 ---------------------------------------
-widestring_05883E `[TPL:1B][TPL:B]Her Majesty, the Queen,[N]has carefully put on the[N]ring that Your Majesty had[N]bestowed upon her[WAI][N]previously.[FIN]Ah, that's right.[FIN]Your Majesty sent the ring[N]when you and the Queen[N]were driven out by the[N]invaders and were[WAI][N]separated.[FIN]As for the Queen, she's[N]probably only concerned[N]with how well Your Majesty[N]is doing.[END]`
+widestring_05883E `[TPL:1B][TPL:12]Her Majesty, the Queen,[N]has carefully put on the[N]ring that Your Majesty had[N]bestowed upon her[N]previously.[FIN]Ah, that's right.[FIN][CLD][TPL:1B][TPL:B]Your Majesty sent the ring[N]when you and the Queen[N]were driven out by the[N]invaders and separated.[FIN]As for the Queen, she's[N]probably only concerned[N]with how well Your Majesty[N]is doing.[END]`
 
 ---------------------------------------
 ?INCLUDE 'gs2E_queen'
 ---------------------------------------
-widestring_058A30 `[TPL:3][BOR:5][TPL:B]Incan Queen: How wonderful[N]that you've returned safe[N]and well for me, my[N]darling.[FIN]The [NAM:D] [NAM:E] of the[N]wind that you had spoken[N]of had protected me many[N]times until today![FIN]You said it was a stone[N]statue blessed by the[N]gods, right?[FIN][::][TPL:3][BOR:5][TPL:B]I believe it has been[N]placed in a treasure box[N]in the storehouse below;[N]please confirm it with[WAI][N]your own eyes.[END]`
+widestring_058A30 `[TPL:3][BOR:5][TPL:B]Incan Queen: How wonderful[N]that you've returned safe[N]and well for me, my[N]darling.[FIN]The [NAM:D] [NAM:E] of the[N]wind that you had spoken[N]of had protected me many[N]times until today![FIN]You said it was a stone[N]statue blessed by the[N]gods, right?[FIN][::][TPL:3][BOR:5][TPL:B]I believe it has been[N]placed in a treasure box[N]in the storehouse below;[FIN]please confirm it with[N]your own eyes.[END]`
 
 ---------------------------------------
 ?INCLUDE 'itemget_table_01FD24'
@@ -71,9 +71,9 @@ widestring_01FEA8 `Found a [NAM:D] [NAM:E]!`
 ---------------------------------------
 widestring_0584BC `[TPL:1B][TPL:E]Lookout: King, please look[N]outside. The ship is[N]leaving the cave![END]`
 
-widestring_0584FB `[TPL:1B][TPL:F]Lookout: We've been living[N]in darkness for a long[N]time. For us, the light of[N]the gods is in the[WAI][N]brightness of this ocean.[FIN]Although these kinds of[N]beautiful things are in[N]the world, I wonder why[N]invaders are born who[WAI][N]destroy nature?[END]`
+widestring_0584FB `[TPL:1B][TPL:E]Lookout: We've been living[N]in darkness for a long[N]time.[FIN]For us, the light of the[N]gods is in the brightness[N]of this ocean.[FIN]Although these kinds of[N]beautiful things are in[N]the world,[FIN]I wonder why invaders are[N]born who destroy nature?[END]`
 
-widestring_058759 `[TPL:1B][TPL:F]I'm sorry that we only[N]have a sketchy bed like[N]this this to offer;[N]please, take your time and[WAI][N]rest.[END]`
+widestring_058759 `[TPL:1B][TPL:F]I'm sorry we only have a[N]sketchy bed like this this[N]to offer; please, take[N]your time and rest.[END]`
 
 widestring_0586CC `[TPL:0][TPL:F][NAM:0]: In a ferocious state[N]of drowsiness, I had been[N]lured into a deep, deep[N]dream.[END]`
 
@@ -87,11 +87,11 @@ code_059484 {
     COP [BE] ( #02, #02, &code_list_059491 )
 }
 
-widestring_0594B8 `[PAU:50][TPL:0][TPL:8][NAM:0]: M-mom…!?[FIN][TPL:2][TPL:9][NAM:0]'s mother, [NAM:8]: [NAM:0][N]Please look at the sky…[FIN]See, isn't that comet out[N]there pretty?[FIN][TPL:B]Hey, about that comet.[N]It arrives at the Earth[N]after many, many years,[N]then goes away again.[FIN]Even when there are people[N]who call it a star that[N]summons misfortune, there[N]are also those who call it[WAI][N]a star of luck…[FIN][NAM:0].[N]Which do you think it is?[N][PAL:0] Star of misfortune [N] Star of luck`
+widestring_0594B8 `[PAU:50][TPL:0][TPL:8][NAM:0]: M-mom…!?[FIN][TPL:2][TPL:9][NAM:0]'s mother, [NAM:8]: [NAM:0][N]Please look at the sky…[FIN]See, isn't that comet out[N]there pretty?[FIN][TPL:B]Hey, about that comet.[N]It arrives at the Earth[N]after many, many years,[N]then goes away again.[FIN]Even when there are people[N]who call it a star that[N]summons misfortune,[FIN]there are also those who[N]call it a star of luck…[FIN][NAM:0].[N]Which do you think it is?[N][PAL:0] Star of misfortune [N] Star of luck[PAL:4]`
 
-widestring_0595B4 `[CLR][PAL:4]Is that how it is… Well,[N]then I'll pray that the[N]misfortune doesn't visit,[N]okay…?[FIN][JMP:&widestring_0595E6+M]`
+widestring_0595B4 `[CLR]Is that how it is… Well,[N]then I'll pray that the[N]misfortune doesn't visit,[N]okay…?[FIN][JMP:&widestring_0595E6+M]`
 
-widestring_0595E6 `[CLR][PAL:4]All right…[N]Then [LU2:71][LU1:D7]happiness[N][LU1:84]slip away….[FIN][::]My dear [NAM:0]. You know,[N]I'll always be watching[N]over you.[END]`
+widestring_0595E6 `[CLR]All right…[N]Then [LU2:71][LU1:D7]happiness[N][LU1:84]slip away….[FIN][::]My dear [NAM:0]. You know,[N]I'll always be watching[N]over you.[END]`
 
 ---------------------------------------
 ?INCLUDE 'gs2D_lily'
@@ -113,9 +113,9 @@ widestring_058BD7 `[TPL:0][TPL:A][NAM:0]: An Incan person was[N]standing here a 
 ---------------------------------------
 ?INCLUDE 'gs2B_seth'
 ---------------------------------------
-widestring_05966E `[TPL:5][TPL:F][NAM:5]: A little while ago[N]I found this odd jewel[N]inside the ship. Here,[N]I'll give it to you,[WAI][N]alright?[FIN][CLD][TPL:C][NAM:0] received a Red Jewel![END]`
+widestring_05966E `[TPL:5][TPL:E][NAM:5]: A little while ago[N]I found this odd jewel[N]inside the ship.[FIN]Here, I'll give it to you,[N]alright?[FIN][CLD][TPL:C][NAM:0] received a Red Jewel![END]`
 
-widestring_0596C1 `[TPL:5][TPL:F]Now that you mention it,[N]this might be the first[N]time I’ve given something[N]to you. Please treasure[WAI][N]it.[END]`
+widestring_0596C1 `[TPL:5][TPL:F]Now that you mention it,[N]this might be the first[N]time I’ve given something[N]to you.[FIN]Please treasure it.[END]`
 
 ---------------------------------------
 ?INCLUDE 'gs2B_erik'

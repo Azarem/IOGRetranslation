@@ -8,7 +8,7 @@ widestring_0684F5 `[TPL:0][TPL:B][NAM:0]: When I regained[N]consciousness, I was
 ------------------------------------
 ?INCLUDE 'sp5A_phantom_ribber'
 ------------------------------------
-widestring_068A1B `[TPL:0][TPL:B][NAM:0]: This is something[N]strange, isn't it? Even[N]though I touched the[N]enemy, I haven't taken any[WAI][N]damage…[END]`
+widestring_068A1B `[TPL:0][TPL:9][NAM:0]: This is something[N]strange, isn't it?[FIN][TPL:A]Even though I touched the[N]enemy, I haven't taken any[N]damage…[END]`
 
 ------------------------------------
 ?INCLUDE 'sp5A_voice'
@@ -119,7 +119,7 @@ widestring_068DD0 `[TPL:16][TPL:A]This palace is tied to the[N]fantastical groun
 
 widestring_068E20 `[TPL:16][TPL:B]Imagine if you were one[N]step later in rescuing us[N]from being transformed[N]into demons…[END]`
 
-widestring_068E67 `[TPL:16][TPL:9]I was eavesdropping on the[N]vampire couple talking;[FIN][TPL:B]It seems like a puppet[N]called a [NAM:D] [NAM:E] or[N]something like that is[N]sleeping at the continent[WAI][N]of Mu…[END]`
+widestring_068E67 `[TPL:16][TPL:9]I was eavesdropping on the[N]vampire couple talking;[FIN][TPL:12]It seems like a puppet[N]called a [NAM:D] [NAM:E] or[N]something like that is[N]sleeping at the continent[N]of Mu…[END]`
 
 widestring_068EA9 `[TPL:16][TPL:E]I snatched a key from the[N]vampire woman. Bring it[N]with you.[END]`
 
@@ -127,7 +127,7 @@ widestring_068ED4 `[TPL:C][SFX:0][DLY:9]Got the seabed palace key![PAU:78][END]`
 
 widestring_068F02 `[DEF]I stole a key [LU1:8E]the[N][LU2:BE]woman. I'd like[N]to [LU1:97]it to you, but[N][LU1:FE]inventory's full...[END]`
 
-widestring_068F53 `[TPL:16][TPL:B]It seems like there is a[N]passage that leads to the[N]continent of Mu at the[N]highest floor of the[WAI][N]palace.[END]`
+widestring_068F53 `[TPL:16][TPL:12]It seems like there is a[N]passage that leads to the[N]continent of Mu at the[N]highest floor of the[N]palace.[END]`
 
 widestring_068F89 `[TPL:16][TPL:A]What should we do after[N]being left in the middle[N]of the sea like this…?[END]`
 

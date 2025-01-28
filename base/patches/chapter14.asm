@@ -22,7 +22,7 @@ widestring_0AA97D `[TPL:16][TPL:E]Myself included, there are[N]eight slaves work
 
 widestring_0AA791 `[TPL:16][TPL:D]Slave: I'm begging you![N]Please cut this chain!![END]`
 
-widestring_0AA874 `[TPL:16][TPL:E]Thank you for saving me.[N]To show my thanks, I'll[N]tell you something good.[FIN][TPL:F]This mine has hidden[N]rooms; their entrances[N]aren't distinct from the[N]walls.[FIN]But a draft blows out of[N]the cracks in the[N]entrances; they say that[N]if you can find them if[WAI][N]you pay attention.[FIN]Although, with flowing[N]hair like yours, you'll[N]probably know immediately[N]when it starts to flutter,[WAI][N]huh?[END]`
+widestring_0AA874 `[TPL:16][TPL:E]Thank you for saving me.[N]To show my thanks, I'll[N]tell you something good.[FIN][TPL:F]This mine has hidden[N]rooms; their entrances[N]aren't distinct from the[N]walls.[FIN]But a draft blows out of[N]the cracks in the[N]entrances.[FIN]They say that you can[N]find them if you pay[N]attention.[FIN][TPL:10]Although, with flowing[N]hair like yours, you'll[N]probably know immediately[N]when it starts to flutter,[N]huh?[END]`
 
 -----------------------------------------------
 ?INCLUDE 'dm40_trapped_slave'
@@ -84,7 +84,7 @@ widestring_05D0E3 `[TPL:5][TPL:C][NAM:C]: Thank you.[FIN][TPL:F]In the village w
 -----------------------------------------------
 widestring_05D2C0 `[TPL:5][TPL:D][NAM:A]: Please cut the[N]chain somehow…![END]`
 
-widestring_05D2DA `[TPL:5][TPL:C][NAM:A]: Thank you.[FIN][TPL:F]I heard it from [NAM:3]; one[N]of your companions is[N]suffering from amnesia,[N]right?[FIN]There is a song that has[N]been passed down in our[N]tribe since long ago which[N]aids memory. Please listen[WAI][N]to this song.[FIN][CLD][TPL:D][NAM:A] hummed a[N]mysterious melody.[END]`
+widestring_05D2DA `[TPL:5][TPL:C][NAM:A]: Thank you.[FIN][TPL:F]I heard it from [NAM:3]; one[N]of your companions is[N]suffering from amnesia,[N]right?[FIN]There is a song that has[N]been passed down in our[N]tribe since long ago which[N]aids memory.[FIN]Please listen to this[N]song.[FIN][CLD][TPL:D][NAM:A] hummed a[N]mysterious melody.[END]`
 
 widestring_05D40C `[TPL:D]Learned the Melody of[N]Memories![FIN][TPL:5][TPL:D][NAM:A]: I do have one[N]request…[FIN][TPL:E]I would gladly take the[N]prison key so that I can[N]remember meeting you.[FIN]I expect that you probably[N]won't be using it from[N]now, after all.[END]`
 

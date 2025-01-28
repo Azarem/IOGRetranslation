@@ -3,19 +3,19 @@
 ?INCLUDE 'palette_bundles'
 
 
-unk13_1693F9 [
-  unk13 < #01, &word_D69FA6, #21, #17, #04 >
-  unk13 < #01, &word_D69FA8, #21, #17, #03 >
-  unk13 < #01, &word_D69FAA, #21, #17, #02 >
-  unk13 < #01, &word_D69FAC, #21, #17, #02 >
-  unk13 < #01, &word_D69FAE, #21, #17, #03 >
-  unk13 < #01, &word_D69FB0, #21, #17, #04 >
-  unk13 < #01, &word_D69FB2, #21, #17, #04 >
-  unk13 < #01, &word_D69FB4, #21, #17, #03 >
-  unk13 < #01, &word_D69FB6, #21, #17, #02 >
-  unk13 < #01, &word_D69FB8, #21, #17, #03 >
-  unk13 < #01, &word_D69FBA, #21, #17, #04 >
-  unk13 < #01, &word_D69FBC, #21, #17, #05 >
+bundle_1693F9 [
+  bundle < #01, &word_D69FA6, #21, #17, #04 >
+  bundle < #01, &word_D69FA8, #21, #17, #03 >
+  bundle < #01, &word_D69FAA, #21, #17, #02 >
+  bundle < #01, &word_D69FAC, #21, #17, #02 >
+  bundle < #01, &word_D69FAE, #21, #17, #03 >
+  bundle < #01, &word_D69FB0, #21, #17, #04 >
+  bundle < #01, &word_D69FB2, #21, #17, #04 >
+  bundle < #01, &word_D69FB4, #21, #17, #03 >
+  bundle < #01, &word_D69FB6, #21, #17, #02 >
+  bundle < #01, &word_D69FB8, #21, #17, #03 >
+  bundle < #01, &word_D69FBA, #21, #17, #04 >
+  bundle < #01, &word_D69FBC, #21, #17, #05 >
 ]
 
 word_D69FA6    #$08A9

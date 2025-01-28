@@ -28,9 +28,9 @@
 ?INCLUDE 'sc02_card'
 ?INCLUDE 'sc02_entry'
 ?INCLUDE 'sc03_lances_mother'
-?INCLUDE 'sc04_eriks_mother'
-?INCLUDE 'sc04_eriks_father'
 ?INCLUDE 'sc04_poverty'
+?INCLUDE 'sc04_eriks_father'
+?INCLUDE 'sc04_eriks_mother'
 ?INCLUDE 'sc05_seths_mother'
 ?INCLUDE 'sc05_seths_father'
 ?INCLUDE 'sc06_bill'
@@ -942,10 +942,10 @@ event_def_0C8390 [
     actor < #05, #0A, #02, @h_player_character >   ;00
     actor < #00, #00, #00, @h_actor_00EAED >   ;01
     actor < #11, #11, #00, @head_00EA96 >   ;02
-    actor < #05, #19, #00, @h_sc04_eriks_mother >   ;03
+    actor < #05, #19, #00, @h_sc04_poverty >   ;03
     actor < #19, #18, #00, @h_sc04_eriks_father >   ;04
-    actor < #18, #09, #00, @h_sc04_poverty >   ;05
-  ], `[NAM:3]'s House` >   ;00
+    actor < #18, #09, #00, @h_sc04_eriks_mother >   ;05
+  ], `[NAM:3]'s House ` >   ;00
 ]
 
 event_def_0C83C9 [
@@ -4954,7 +4954,7 @@ event_def_0CE1DD [
     actor < #00, #00, #00, @h_actor_00EAED >   ;01
     actor < #01, #82, #00, @h_actor_00E9EC >   ;02
     actor < #00, #01, #00, @h_sE6_gaia >   ;03
-  ], `Area of Darkness` >   ;00
+  ], `[NAM:F]` >   ;00
 ]
 
 event_def_0CE202 [
@@ -5035,7 +5035,7 @@ event_def_0CE3CD [
     actor < #05, #0A, #00, @h_player_character >   ;00
     actor < #00, #00, #00, @h_actor_00EAED >   ;01
     actor < #03, #86, #00, @h_actor_00E9EC >   ;02
-  ], `Area of Darkness` >   ;00
+  ], `[NAM:F]` >   ;00
 ]
 
 event_def_0CE3EB [
@@ -5043,7 +5043,7 @@ event_def_0CE3EB [
     actor < #05, #0A, #00, @h_player_character >   ;00
     actor < #00, #00, #00, @h_actor_00EAED >   ;01
     actor < #01, #82, #00, @h_actor_00E9EC >   ;02
-  ], `Area of Darkness` >   ;00
+  ], `[NAM:F]` >   ;00
 ]
 
 event_def_0CE409 [
@@ -5051,7 +5051,7 @@ event_def_0CE409 [
     actor < #05, #0A, #00, @h_player_character >   ;00
     actor < #00, #00, #00, @h_actor_00EAED >   ;01
     actor < #01, #82, #00, @h_actor_00E9EC >   ;02
-  ], `Area of Darkness` >   ;00
+  ], `[NAM:F]` >   ;00
 ]
 
 event_def_0CE427 [
@@ -5059,7 +5059,7 @@ event_def_0CE427 [
     actor < #05, #0A, #00, @h_player_character >   ;00
     actor < #00, #00, #00, @h_actor_00EAED >   ;01
     actor < #01, #82, #00, @h_actor_00E9EC >   ;02
-  ], `Area of Darkness` >   ;00
+  ], `[NAM:F]` >   ;00
 ]
 
 event_def_0CE445 [
@@ -5067,7 +5067,7 @@ event_def_0CE445 [
     actor < #05, #0A, #00, @h_player_character >   ;00
     actor < #00, #00, #00, @h_actor_00EAED >   ;01
     actor < #01, #82, #00, @h_actor_00E9EC >   ;02
-  ], `Area of Darkness` >   ;00
+  ], `[NAM:F]` >   ;00
 ]
 
 event_def_0CE463 [

@@ -36,7 +36,7 @@ widestring_0685D3 `[TPL:2][TPL:E][NAM:2]: Ah…! The water[N]level's been reduce
 ----------------------------------------------
 ?INCLUDE 'sE6_gaia'
 ----------------------------------------------
-widestring_08E2F8 `[PRT:@widestring_08DE96]When thou began thy[N]journey, the Mu continent[N]surfaced to the sea level.[FIN]However, seawater has[N]still accumulated on many[N]sections of the continent.[FIN]When all of this water has[N]been removed,[WAI][N]thou wilt probably arrive[N]at the place where the Mu[N]continent's king, Ra Mu,[N]sleeps.[FIN]`
+widestring_08E2F8 `[PRT:@widestring_08DE96]When thou began thy[N]journey, the Mu continent[N]surfaced to the sea level.[FIN]However, seawater has[N]still accumulated on many[N]sections of the continent.[FIN]When all of this water has[N]been removed,[FIN]thou wilt probably arrive[N]at the place where the Mu[N]continent's king, Ra Mu,[N]sleeps.[FIN]`
 
 widestring_08E3A7 `[PRT:@widestring_08DE96]With [NAM:0]'s power, Psycho[N]Slider, thou canst lower[N]thyself and pass through[N]narrow passages.[FIN]Thou shouldst pay[N]attention so not to[N]overlook crevices that[N]thou wouldst pass by.[FIN][RET]`
 
@@ -60,7 +60,7 @@ widestring_06A0EC `[TPL:17][TPL:F]One year after we saw the[N]light of the gods,
 
 widestring_06A154 `[TPL:17][TPL:F]Our family and friends[N]transformed to monsters[N]before our very eyes and[N]stormed in to attack us.[FIN]We were shedding tears as[N]we raised our weapons[N]against them…[END]`
 
-widestring_06A1C9 `[TPL:17][TPL:D]We couldn't bear this[N]awful state of affairs,[FIN][TPL:E]…so there were more than a[N]few people who thought we[N]should escape from here.[FIN]However, the continent of[N]Mu is an island on the[N]deep blue sea.[FIN][TPL:F]Beyond that, there was no[N]guarantee that we would be[N]able to arrive in some[N]other place where we could[WAI][N]live…[FIN]This island did not have[N]the material for a ship.[FIN]It would immediately sink[N]if we had constructed it[N]from stone…[END]`
+widestring_06A1C9 `[TPL:17][TPL:D]We couldn't bear this[N]awful state of affairs,[FIN][TPL:E]…so there were more than a[N]few people who thought we[N]should escape from here.[FIN]However, the continent of[N]Mu is an island on the[N]deep blue sea.[FIN][TPL:F]Beyond that, there was no[N]guarantee that we would[N]have arrived in some other[N]place where we could live…[FIN]This island did not have[N]the material for a ship.[FIN]It would immediately sink[N]if we had constructed it[N]from stone…[END]`
 
 widestring_06A19E `[TPL:17][TPL:E]What meaning would there[N]even be in going on living[N]if it went on like this…?[END]`
 
@@ -112,5 +112,5 @@ widestring_06AA89 `[TPL:6][TPL:A]Neil: Oh? [NAM:0]'s turned[N]out to be very man
 ----------------------------------------------
 ?INCLUDE 'mu67_kara'
 ----------------------------------------------
-widestring_06A894 `[TPL:1][TPL:9][NAM:1]: Who cares about[N]that![FIN][TPL:A]More importantly, let's[N]think how to get off of[N]the continent of Mu…![FIN][TPL:2][TPL:A][NAM:2]: You don't have to[N]worry about that.[FIN][TPL:B]We heard something good[N]from someone just now;[N]they were named Ra Mu or[N]something like that.[FIN][CLD][TPL:B][NAM:0] told everyone about[N]the continent of Mu, the[N]people who crossed over[N]through the undersea[WAI][N]tunnel, and so on…[FIN][TPL:1][TPL:B][NAM:1]: It's a sad story,[N]isn't it…?[FIN]The people who were living[N]here together were[N]scattered,[FIN]and even more so when once[N]they arrive at the other[N]side on the bottom of the[N]sea…[FIN][TPL:6][TPL:B]Neil: Anyway, if we pass[N]through that undersea[N]tunnel, then we should be[N]able to get out, shouldn't[WAI][N]we?[FIN][TPL:4][TPL:B][NAM:4]: Alright…! If we've[N]decided on that, let's go[N]immediately…![END]`
+widestring_06A894 `[TPL:1][TPL:9][NAM:1]: Who cares about[N]that![FIN][TPL:A]More importantly, let's[N]think how to get off of[N]the continent of Mu…![FIN][TPL:2][TPL:A][NAM:2]: You don't have to[N]worry about that.[FIN][TPL:B]We heard something good[N]from someone just now;[N]they were named Ra Mu or[N]something like that.[FIN][CLD][TPL:12][NAM:0] told everyone about[N]the continent of Mu, the[N]people who crossed over[N]through the undersea[N]tunnel, and so on…[FIN][CLD][TPL:1][TPL:9][NAM:1]: It's a sad story,[N]isn't it…?[FIN][TPL:A]The people who were living[N]here together were[N]scattered,[FIN][TPL:B]and even more so when once[N]they arrive at the other[N]side on the bottom of the[N]sea…[FIN][TPL:6][TPL:B]Neil: Anyway, if we pass[N]through that undersea[N]tunnel, then we should be[N]able to get out, right?[FIN][TPL:4][TPL:B][NAM:4]: Alright…! If we've[N]decided on that, let's go[N]immediately…![END]`
 

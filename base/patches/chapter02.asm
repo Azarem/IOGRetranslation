@@ -28,9 +28,9 @@ widestring_04B210 `[TPL:4][TPL:A][NAM:4]: Oy, [NAM:0], don't hang[N]around there
 
 widestring_04B612 `[TPL:5][TPL:A][NAM:5]: I have no interest[N]in girls. Reading books[N]is more fun.[END]`
 
-widestring_04BB59 `[TPL:3][TPL:A][NAM:3]: Guh. And I had been[N]thinking that maybe[N]everyone would be[WAI][N]surprised…[END]`
+widestring_04BB59 `[TPL:3][TPL:B][NAM:3]: Guh. And I had been[N]thinking that maybe[N]everyone would be[N]surprised…[END]`
 
-widestring_04B652 `[TPL:5][TPL:A][NAM:5]: Alright, since[N]everyone's here, what[N]are we doing today?[FIN][TPL:3][TPL:A][NAM:3]: I think I want[N]to see [NAM:0]'s mysterious[N]powers.[FIN]Look, he showed it to us[N]the other day, didn't he?[N]The guy can move things[WAI][N]without using his hands.[FIN][TPL:4][TPL:A][NAM:4]: If I'm rememberin',[N]I think he moved tha stone[N]statue in this cavern's[WAI][N]nook.[FIN][NAM:0].[N]Show us one more time.[END]`
+widestring_04B652 `[TPL:5][TPL:A][NAM:5]: Alright, since[N]everyone's here, what[N]are we doing today?[FIN][TPL:3][TPL:A][NAM:3]: I think I want[N]to see [NAM:0]'s mysterious[N]powers.[FIN][TPL:B]Look, he showed it to us[N]the other day, didn't he?[N]The guy can move things[N]without using his hands.[FIN][TPL:4][TPL:B][NAM:4]: If I'm rememberin',[N]I think he moved tha stone[N]statue in this cavern's[N]nook.[FIN][CLD][TPL:4][TPL:9][NAM:0], show us one more[N]time.[END]`
 
 widestring_04BB89 `[TPL:3][TPL:A][NAM:3]: Recently, you moved[N]the stone statue without[N]being near it, right?[END]`
 
@@ -40,7 +40,7 @@ widestring_04B72B `[TPL:A][TPL:5][NAM:5]: Face the stone[N]statue and press the[
 
 widestring_04B75D `[TPL:4][BOR:2][TPL:9][NAM:4]: Whoa..! It[N]moooooved..!![PAU:28][END]`
 
-widestring_04B27E `[TPL:4][TPL:9][NAM:4]: Alright. This time,[N]do tha card reveal fer us.[FIN][TPL:B]From tha four cards I'm[N]placin' face down, raise[N]and show us one if ya[N]think it's tha ace o'[WAI][N]diamonds.[END]`
+widestring_04B27E `[TPL:4][TPL:9][NAM:4]: Alright. This time,[N]do tha card reveal fer us.[FIN]From tha four cards I'm[N]placin' face down,[FIN][TPL:A]raise and show us one if[N]ya think it's tha ace o'[N]diamonds.[END]`
 
 widestring_04B2F0 `[TPL:4][TPL:A][NAM:4]: Come on. Find tha[N]one that ya think is tha[N]ace o' diamonds.[END]`
 
@@ -57,7 +57,7 @@ widestring_04B328 `[TPL:4][BOR:2][TPL:8][NAM:4]: Ah…! He got it…![END]`
 
 widestring_04BC16 `[TPL:3][TPL:9][NAM:3]: Phew. I'm[N]speechless…[FIN][TPL:B]Hey. [NAM:5]. You call[N]this sort of thing[N]"extrasensory perceptionˮ,[N]right?[END]`
 
-widestring_04B7DE `[TPL:5][TPL:A][NAM:5]: You call it[N]"extrasensory perceptionˮ,[N]huh?[FIN]The word means a sense[N]that goes beyond the[N]human senses…[FIN]What we call the human[N]senses are the sense of[N]sight,[FIN]the sense of hearing,[FIN]the sense of taste,[FIN]the sense of smell,[FIN]and the sense of touch;[N]it's what we call these[N]five…[FIN][TPL:B]I'm not sure, but I'm[N]thinking that what you[N]call extrasensory[N]perception is a sixth[WAI][N]sense.[END]`
+widestring_04B7DE `[TPL:5][TPL:A][NAM:5]: You call it[N]"extrasensory perceptionˮ,[N]huh?[FIN]The word means a sense[N]that goes beyond the[N]human senses…[FIN]What we call the human[N]senses are the sense of[N]sight,[FIN][CLD][TPL:5][TPL:8]the sense of hearing,[FIN]the sense of taste,[FIN]the sense of smell,[FIN][TPL:A]and the sense of touch;[N]it's what we call these[N]five…[FIN][CLD][TPL:5][TPL:8]I'm not sure, but…[FIN][TPL:B]I'm thinking that what you[N]call extrasensory[N]perception is a sixth[N]sense.[END]`
 
 widestring_04B344 `[TPL:4][TPL:B][NAM:4]: I don't understand[N]tha things that [NAM:5][N]tha scholar says all that[N]well.[END]`
 

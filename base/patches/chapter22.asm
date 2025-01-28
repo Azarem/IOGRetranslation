@@ -35,7 +35,7 @@ widestring_06BD1A `[CLR][TPL:0][TPL:B][NAM:0]: That's right. I've[N]never though
 
 widestring_06BD4A `[CLR][TPL:0][TPL:B][NAM:0]: But you've spent a[N]lot of time together by[N]now.[FIN]It wouldn't be unnatural[N]even to be in love with[N]her.[FIN][TPL:4][TPL:B][NAM:4]: Speakin' o' that.[N]It seems like [NAM:2]'s[N]fifteenth birthday is[N]comin' up soon.[FIN]I want to tell her my[N]feelin's with a present[N]then, but what do ya think[N]I should go with?[FIN][PAL:0] A pretty bouquet[N] A wonderful necklace[N] A tender kiss`
 
-widestring_06BE1F `[CLR][TPL:0][TPL:B][NAM:0]: I don't think[N]there's a girl out there[N]who wouldn't be happy to[N]get a bouquet of flowers.[FIN][TPL:4][TPL:B][NAM:4]: I guess that's[N]expected.[FIN]Well, I think I can try[N]to communicate a love[N]confession through tha'[N]language of flowers;[WAI][N]rosebuds.[FIN][JMP:&widestring_06BF7C]`
+widestring_06BE1F `[CLR][TPL:0][TPL:B][NAM:0]: I don't think[N]there's a girl out there[N]who wouldn't be happy to[N]get a bouquet of flowers.[FIN][TPL:4][TPL:B][NAM:4]: I guess that's[N]expected.[FIN][TPL:12]Well, I think I can try[N]to communicate a love[N]confession through tha'[N]language of flowers;[N]rosebuds.[FIN][CLD][JMP:&widestring_06BF7C]`
 
 widestring_06BE85 `[CLR][TPL:0][NAM:0]: Of course, [N][LU1:C8]she'd wear [N][LU1:F3]be nice. [FIN][LU1:61]she sees it, she'll [N][LU1:DA]of [LU2:C7][FIN][TPL:4]Lance: Of course. [N][LU1:1F][LU1:90]stones and [N][LU2:84]a necklace. [FIN][JMP:&widestring_06BF7C]`
 ;TODO!!
@@ -99,7 +99,7 @@ widestring_06CD9A `[TPL:1D][TPL:A]We want to get closer to[N]human emotions, so 
 
 widestring_06CA71 `[TPL:1D][TPL:A]The picture attached to[N]that wall was painted by[N]an artist called Ishtar.[FIN]However, the models for[N]his pictures go missing[N]afterward…[END]`
 
-widestring_06CDD4 `[TPL:1D][TPL:B]Though we lack emotions,[N]Ishtar draws us[N]overflowing with human[N]kindness.[FIN]There is no end to the[N]people who want Ishtar to[N]draw them even though they[N]don't know what will[WAI][N]happen to them afterward.[END]`
+widestring_06CDD4 `[TPL:1D][TPL:B]Though we lack emotions,[N]Ishtar draws us[N]overflowing with human[N]kindness.[FIN][TPL:12]There is no end to the[N]people who want Ishtar to[N]draw them even though they[N]don't know what will[N]happen to them afterward.[END]`
 
 widestring_06CE56 `[TPL:1D][TPL:A]The person who was my[N]dance partner is now[N]inside of that painting.[END]`
 
@@ -130,9 +130,9 @@ widestring_06C981 `[TPL:1D][TPL:E]I'm a sculptor. Before I[N]die, I intend to ma
 -------------------------------------
 widestring_06D063 `[TPL:0][TPL:A][NAM:0]: They have no[N]consciousness, as if their[N]soul had been removed…[END]`
 
-widestring_06C8B0 `[TPL:1D][TPL:F]Do you know the painter,[N]Ishtar?[N][PAL:0] Yes[N] No`
+widestring_06C8B0 `[TPL:1D][TPL:F]Do you know the painter,[N]Ishtar?[N][PAL:0] Yes[N] No[PAL:4]`
 
-widestring_06C8DC `[CLR][PAL:4]In that case, you should[N]listen a little more to[N]what everyone has to say.[END]`
+widestring_06C8DC `[CLR]In that case, you should[N]listen a little more to[N]what everyone has to say.[END]`
 
-widestring_06C8F7 `[CLR][PAL:4]The studio of Ishtar, the[N]painter, is on the other[N]side of this door.[FIN]But there are creatures[N]with nothing but hatred[N]and a desire for[N]destruction which are[WAI][N]roaming beyond this point.[FIN]If you say you still want[N]to go despite that, you[N]may open the door.[END]`
+widestring_06C8F7 `[CLR]The studio of Ishtar, the[N]painter, is on the other[N]side of this door.[FIN][TPL:10]But there are creatures[N]with nothing but hatred[N]and a desire for[N]destruction which are[N]roaming beyond this point.[FIN][CLD][TPL:1D][TPL:E]If you say you still want[N]to go despite that, you[N]may open the door.[END]`
 

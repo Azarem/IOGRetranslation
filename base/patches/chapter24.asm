@@ -11,7 +11,7 @@
 -------------------------------------
 widestring_0780B6 `[TPL:0][TPL:F][DLY:2]We arrived at the[N]Floating City, Watermia.[N]It was a beautiful town[N]made up of rows of houses[N]that were built on rafts.[PAU:58][CLR]Since the townspeople are[N]nice too, we ended up[N]being given accommodations[N]in the house of a friendly[N]young man named Luke.[PAU:84][CLD]`
 
-widestring_078139 `[TPL:0][TPL:F][DLY:0]And here is Luke's house.[N]He's a kind gentleman who[N]works as fisherman.[FIN]He was going out for a[N]long time on an ocean[N]voyage, so he said that we[N]should use his house in[WAI][N]the meantime.[END]`
+widestring_078139 `[TPL:0][TPL:F][DLY:0]And here is Luke's house.[N]He's a kind gentleman who[N]works as fisherman.[FIN][TPL:10]He was going out for a[N]long time on an ocean[N]voyage, so he said that we[N]should use his house in[N]the meantime.[END]`
 
 -------------------------------------
 ?INCLUDE 'wa79_kara'
@@ -61,7 +61,7 @@ widestring_078CC5 `[TPL:1C][TPL:D]Savvas: My dad is an[N]explorer.[FIN][TPL:E]He
 -------------------------------------
 ?INCLUDE 'wa78_women'
 -------------------------------------
-widestring_078A26 `[TPL:1C][TPL:F]Nana: We haven't heard[N]news from our dad even[N]though it's already been[N]half a year since we[WAI][N]received his last letter…[FIN]It'll be fine so long as[N]he's safe, but…[END]`
+widestring_078A26 `[TPL:1C][TPL:10]Nana: We haven't heard[N]news from our dad even[N]though it's already been[N]half a year since we[N]received his last letter…[FIN][CLD][TPL:1C][TPL:D]It'll be fine so long as[N]he's safe, but…[END]`
 
 -------------------------------------
 ?INCLUDE 'wa78_crazy_man'
@@ -75,13 +75,13 @@ widestring_078C12 `[TPL:1C][TPL:F]Child: If a snake bites[N]you, run in circles[
 -------------------------------------
 ?INCLUDE 'wa78_centipede_man'
 -------------------------------------
-widestring_0782BD `[TPL:1C][TPL:F]Man: They say that a[N]giant centipede called[N]Sand Fanger inhabits the[N]Great Wall of China.[FIN]It seems that its bodily[N]fluids have the power to[N]cure any kind of disease.[FIN]Chinese herbal medicine[N]uses a lot of weird things[N]as ingredients but I don't[N]think I'd just drink[WAI][N]insect lifeblood…[END]`
+widestring_0782BD `[TPL:1C][TPL:F]Man: They say that a[N]giant centipede called[N]Sand Fanger inhabits the[N]Great Wall of China.[FIN]It seems that its bodily[N]fluids have the power to[N]cure any kind of disease.[FIN][TPL:10]Chinese herbal medicine[N]uses a lot of weird things[N]as ingredients but I don't[N]think I'd just drink[N]insect lifeblood…[END]`
 
 widestring_078D02 `[TPL:1C][TPL:D]Child: I'll teach you[N]something good.[FIN][TPL:F]Try waiting behind the[N]gambling house, on the[N]right side. A lotus leaf[N]will arrive.[END]`
 
 widestring_078B73 `[TPL:1C][TPL:F]The so-called "crazy old[N]manˮ has amazingly white[N]hair but is actually[N]still young.[FIN]I wonder if he saw[N]something that was[N]extremely frightening…[END]`
 
-widestring_0788E0 `[TPL:1C][TPL:E]An old man who went[N]insane lives in a house[N]deep in this town.[FIN][TPL:F]I'm not sure, but I think[N]he participated in the[N]survey of the Tower of[N]Babel by the [NAM:9][WAI][N]expedition team.[END]`
+widestring_0788E0 `[TPL:1C][TPL:E]An old man who went[N]insane lives in a house[N]deep in this town.[FIN][TPL:10]I'm not sure, but I think[N]he participated in the[N]survey of the Tower of[N]Babel by the [NAM:9][N]expedition team.[END]`
 
 -------------------------------------
 ?INCLUDE 'wa78_moving_woman'
@@ -106,13 +106,13 @@ widestring_0789C7 `[TPL:1C][TPL:F]Water doesn't remain in[N]one place. It beauti
 
 widestring_07876E `[TPL:1C][TPL:E]This lotus leaf is over[N]capacity. Get another if[N]you want to ride one.[END]`
 
-widestring_078607 `[TPL:1C][TPL:D]Man: This animal is[N]called a Krook.[FIN][TPL:F]It's perfect for crossing[N]the desert because it can[N]survive for a long time[N]without drinking or[WAI][N]eating.[END]`
+widestring_078607 `[TPL:1C][TPL:D]Man: This animal is[N]called a Krook.[FIN][TPL:10]It's perfect for crossing[N]the desert because it can[N]survive for a long time[N]without drinking or[N]eating.[END]`
 
-widestring_078674 `[TPL:1C][TPL:D]Man: This is a gambling[N]house.[FIN][TPL:F]I guess you must be really[N]trouble for money if[N]you're coming to a place[N]like this even though[WAI][N]you're a child…[END]`
+widestring_078674 `[TPL:1C][TPL:D]Man: This is a gambling[N]house.[FIN][TPL:10]I guess you must be really[N]trouble for money if[N]you're coming to a place[N]like this even though[N]you're a child…[END]`
 
 widestring_078ABA `[TPL:1C][TPL:A]As you can see, this is a[N]drinking contest. We're[N]gambling on who will win.[END]`
 
-widestring_078881 `[TPL:1C][TPL:9]It's just like gambling[N]with human life.[FIN][TPL:B]If they make a little[N]mistake in their[N]judgement, they're sent[N]headfirst down the road[WAI][N]to hell.[FIN]It's something that[N]humans do within their[N]unconscious mind, isn't[N]it?[END]`
+widestring_078881 `[TPL:1C][TPL:9]It's just like gambling[N]with human life.[FIN][TPL:12]If they make a little[N]mistake in their[N]judgement, they're sent[N]headfirst down the road[N]to hell.[FIN][CLD][TPL:1C][TPL:B]It's something that[N]humans do within their[N]unconscious mind, isn't[N]it?[END]`
 
 widestring_078A73 `[TPL:1C][TPL:D]Human life isn't[N]something easy.[FIN][TPL:E]Make sure not to throw[N]your life away with[N]worthless gambling.[END]`
 
@@ -195,5 +195,5 @@ widestring_039514 `[TPL:C]Opened [NAM:4]'s letter.[FIN][TPL:4][BOR:1][TPL:E][NAM
 -------------------------------------
 ?INCLUDE 'wa78_glass_game'
 -------------------------------------
-widestring_07927C `[TPL:1C][TPL:F]Every month on a full moon[N]night, people play Russian[N]glass; it's the ultimate[N]form of gambling where you[WAI][N]bet your very life.[FIN]But you're still young,[N]little boy. I definitely[N]don't think you should be[N]throwing your life away.[END]`
+widestring_07927C `[TPL:1C][TPL:E]Every month on a full moon[N]night, people play Russian[N]glass.[FIN]It's the ultimate form of[N]gambling where you bet[N]your very life.[FIN][TPL:F]But you're still young,[N]little boy. I definitely[N]don't think you should be[N]throwing your life away.[END]`
 

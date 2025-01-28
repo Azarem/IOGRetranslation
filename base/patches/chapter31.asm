@@ -13,7 +13,7 @@ widestring_08A4EF `[TPL:0][TPL:A]We arrived at Dao, a town[N]that stands alone i
 -------------------------------------
 widestring_08A580 `[TPL:3][TPL:A][NAM:3]: This kind of[N]sandstorm hurts my eyes. I[N]can't even walk outside.[END]`
 
-widestring_08A51E `[TPL:1][TPL:B][NAM:1]: For a town that[N]people call a hideout for[N]slave merchants, it[N]somehow doesn't feel like[WAI][N]an infamous town, does it?[END]`
+widestring_08A51E `[TPL:1][TPL:12][NAM:1]: For a town that[N]people call a hideout for[N]slave merchants, it[N]somehow doesn't feel like[N]an infamous town, does it?[END]`
 
 ;Desert town Dao
 
@@ -25,7 +25,7 @@ widestring_08B1EF `[TPL:1F][TPL:F]Are you, by chance,[N]Mr. [NAM:0]?[N][PAL:0] Y
 widestring_08B27F `[CLR]Hmmm. I [LU2:71]he [N]arrives soon. [N]Very distressing... [END]`
 ;TODO!!
 
-widestring_08B21A `[CLR]Alright, perfect! I'm[N]delivering a letter and[N]package from people called[N]Bill and [NAM:6].[WAI][N]Take them.[FIN]`
+widestring_08B21A `[CLR]Alright, perfect! I'm[N]delivering a letter and[N]package from people called[N]Bill and [NAM:6].[FIN]Take them.[FIN]`
 
 widestring_08B2B2 `[CLR]It seems like your[N]inventory is full. Dump[N]your luggage somewhere.[END]`
 
@@ -52,7 +52,7 @@ widestring_08A819 `[TPL:1F][TPL:F]This is the desert town,[N]Dao. I think it's r
 -------------------------------------
 ?INCLUDE 'daC8_neil'
 -------------------------------------
-widestring_08A61D `[TPL:6][TPL:B]Neil: [NAM:0]…! I'm in shock;[N]I can't believe that I'd[N]meet you somewhere like[N]this![FIN][TPL:0][TPL:B][NAM:0]: Neil… How did I run[N]into you here? Didn't[N]you become the president[N]of Reuleck?[FIN][TPL:6][TPL:B]Neil: Hahaha. I was[N]wondering if we couldn't[N]import black pepper as a[N]substitute for the slave[WAI][N]trade, you know?[FIN]That brought me all the[N]way to Dao.[FIN]The Pyramid is in this[N]vicinity. Couldn't a[N][NAM:D] [NAM:E] be there?[END]`
+widestring_08A61D `[TPL:6][TPL:B]Neil: [NAM:0]…! I'm in shock;[N]I can't believe that I'd[N]meet you somewhere like[N]this![FIN][TPL:0][TPL:B][NAM:0]: Neil… How did I run[N]into you here? Didn't[N]you become the president[N]of Reuleck?[FIN][TPL:6][TPL:12]Neil: Hahaha. I was[N]wondering if we couldn't[N]import black pepper as a[N]substitute for the slave[N]trade, you know?[FIN][CLD][TPL:6][TPL:9]That brought me all the[N]way to Dao.[FIN][TPL:A]The Pyramid is in this[N]vicinity. Couldn't a[N][NAM:D] [NAM:E] be there?[END]`
 
 widestring_08A700 `[TPL:6][TPL:B]I was wondering if we[N]couldn't import black[N]pepper as a substitute for[N]the slave trade, you know?[FIN]That brought me all the[N]way to Dao.[END]`
 
@@ -84,7 +84,7 @@ widestring_08AED4 `[TPL:1F][TPL:F]Do you want to play a fun[N]game using these s
 widestring_08AEF7 `[CLR]Too bad. [LU1:9][LU1:73]if[N]you [LU2:52][LU1:FE]mind.[END]`
 ;TODO!!
 
-widestring_08AF16 `[CLR]The rules are simple. The[N]snakes come out of the[N]jars, and you compete on[N]how many you can strike in[WAI][N]one minute.[FIN]Alright, hit whichever jar[N]you like. When you do[N]that, we'll start…!![END]`
+widestring_08AF16 `[CLR][TPL:10]The rules are simple. The[N]snakes come out of the[N]jars, and you compete on[N]how many you can strike in[N]one minute.[FIN][CLD][TPL:1F][TPL:E]Alright, hit whichever jar[N]you like. When you do[N]that, we'll start…!![END]`
 
 widestring_08AF94 `[DEF][LU1:1C]hey. There's[N]plenty of them.[END]`
 ;TODO!!
@@ -132,7 +132,7 @@ widestring_08A99F `[TPL:1F][TPL:F]How does the Pyramid not[N]sink into the sand 
 -------------------------------------
 ?INCLUDE 'daC7_explorer3'
 -------------------------------------
-widestring_08AAAC `[TPL:1F][TPL:F]We're explorers. We came[N]here because we had heard[N]that there’s treasure[N]sleeping in the Pyramid,[WAI][N]but…[END]`
+widestring_08AAAC `[TPL:1F][TPL:10]We're explorers. We came[N]here because we had heard[N]that there’s treasure[N]sleeping in the Pyramid,[N]but…[END]`
 
 -------------------------------------
 ?INCLUDE 'daC7_explorer2'
@@ -165,4 +165,4 @@ widestring_08B307 `[TPL:1F][TPL:D]Hey hey. This isn't a[N]show…! Go over there
 -------------------------------------
 ?INCLUDE 'daC9_businessman'
 -------------------------------------
-widestring_08A91E `[TPL:1F][TPL:D]People come all the way to[N]this town to buy slaves…[FIN][TPL:F]Now that it comes down to[N]actually making a[N]purchase, I somehow[N]haven't been able to[WAI][N]decide.[FIN]In the end, I guess that[N]there's no price on human[N]life…[END]`
+widestring_08A91E `[TPL:1F][TPL:D]People come all the way to[N]this town to buy slaves…[FIN][TPL:10]Now that it comes down to[N]actually making a[N]purchase, I somehow[N]haven't been able to[N]decide.[FIN][CLD][TPL:1F][TPL:E]In the end, I guess that[N]there's no price on human[N]life…[END]`

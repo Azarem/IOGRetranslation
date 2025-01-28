@@ -7,9 +7,9 @@
 -------------------------------------
 ?INCLUDE 'eu91_intro'
 -------------------------------------
-widestring_07BEDA `[TPL:0][TPL:F][SFX:10][DLY:2]The desert was howling[N]with sandstorms. We[N]crossed it, ending up at[N]Euro.[PAU:78][CLR]Euro was a metropolis[N]greater than anything I[N]could imagine.[PAU:78] Busy[N]looking people were[N]running around everywhere.[PAU:B4][CLR]Neil's parents live in[N]this town, running the[N]Reuleck Corporation.[PAU:78][CLR]Neil was returning home[N]after three years.[PAU:78] After[N]his parents welcomed us,[N]they showed us something[N]awe-worthy…[PAU:78][CLR]Fireworks launching! Line[N]dancers appearing![PAU:78]I felt[N]like the town had just[N]erupted into a whole[N]festival.[PAU:B4][CLD]`
+widestring_07BEDA `[TPL:0][TPL:F][SFX:10][DLY:1]The desert was howling[N]with sandstorms. We[N]crossed it, ending up at[N]Euro.[PAU:60][CLR]Euro was a metropolis[N]greater than anything I[N]could imagine. Busy[N]looking people were[N]running around everywhere.[PAU:7C][CLR]Neil's parents live in[N]this town, running the[N]Reuleck Corporation.[PAU:60][CLR]Neil was returning home[N]after three years.[PAU:60][CLR]After his parents welcomed[N]us, they showed us[N]something awe-worthy…[PAU:60][CLR]Fireworks launching! Line[N]dancers appearing![PAU:60][CLR]I felt like the town had[N]just erupted into a whole[N]festival.[PAU:60][CLD]`
 
-widestring_07C011 `[TPL:0][TPL:F][SFX:10][DLY:2]This is the mansion where[N]Neil's parents live. We[N]were led to the guest room[N]next.[END]`
+widestring_07C011 `[TPL:0][TPL:F][SFX:10][DLY:0]This is the mansion where[N]Neil's parents live. We[N]were led to the guest room[N]next.[END]`
 
 -------------------------------------
 ?INCLUDE 'eu96_neil'
@@ -40,19 +40,19 @@ widestring_07E0DE `[TPL:1][BOR:D][TPL:A][JMP:&widestring_07E092+M]`
 -------------------------------------
 ?INCLUDE 'eu95_neils_mother'
 -------------------------------------
-widestring_07E31B `[TPL:1E][TPL:B]Neil's mother: Since we[N]already earn a lot of[N]money, we want you to be[N]able to just have fun for[WAI][N]the rest of your life.[FIN]Won't you succeed us…?[END]`
+widestring_07E31B `[TPL:1E][TPL:12]Neil's mother: Since we[N]already earn a lot of[N]money, we want you to be[N]able to just have fun for[N]the rest of your life.[FIN][CLD][TPL:1E][TPL:8]Won't you succeed us…?[END]`
 
 -------------------------------------
 ?INCLUDE 'eu95_neil'
 -------------------------------------
-widestring_07E3B5 `[TPL:6][TPL:B]Neil: I guess it's a[N]matter of whether I should[N]live for my own sake or[N]live for the sake of other[WAI][N]people…[END]`
+widestring_07E3B5 `[TPL:6][TPL:12]Neil: I guess it's a[N]matter of whether I should[N]live for my own sake or[N]live for the sake of other[N]people…[END]`
 
 -------------------------------------
 ?INCLUDE 'eu91_men2'
 -------------------------------------
-widestring_07C9DB `[TPL:1E][TPL:F]This is the mansion where[N]the married couple that[N]serve as the presidents of[N]the Reuleck Corporation[WAI][N]live.[END]`
+widestring_07C9DB `[TPL:1E][TPL:10]This is the mansion where[N]the married couple that[N]serve as the presidents of[N]the Reuleck Corporation[N]live.[END]`
 
-widestring_07C970 `[TPL:1E][TPL:F]A man named Black Panther[N]or something like that[N]popped up some days ago[N]and went around asking[WAI][N]various questions.[FIN]From the look in his eyes,[N]he's got to be an[N]assassin. He could be[N]after someone, but I have[WAI][N]no idea who.[END]`
+widestring_07C970 `[TPL:1E][TPL:10]A man named Black Panther[N]or something like that[N]popped up some days ago[N]and went around asking[N]various questions.[FIN]From the look in his eyes,[N]he's got to be an[N]assassin. He could be[N]after someone, but I have[N]no idea who.[END]`
 
 -------------------------------------
 ?INCLUDE 'eu91_women2'
@@ -73,7 +73,7 @@ widestring_07C38F `[TPL:1E][TPL:F]Hey, hey, you mustn't come[N]on this side. Cus
 -------------------------------------
 ?INCLUDE 'eu91_merchant_counter'
 -------------------------------------
-widestring_07C1DC `[TPL:1E][TPL:E]This is a Tearpot. Quite[N]simply, it's a pot for[N]holding tears.[FIN]You know, this town was[N]once dragged into war.[FIN][TPL:F]There's an anecdote that[N]women collected their[N]tears in these pots while[N]they waited for their[WAI][N]husbands to return from[N]the war.[END]`
+widestring_07C1DC `[TPL:1E][TPL:E]This is a Tearpot. Quite[N]simply, it's a pot for[N]holding tears.[FIN]You know, this town was[N]once dragged into war.[FIN][DLG:3,D][SIZ:D,6]There's an anecdote that[N]women collected their[N]tears in these pots while[N]they waited for their[N]husbands to return from[N]the war.[END]`
 
 -------------------------------------
 ?INCLUDE 'eu91_women1'
@@ -111,7 +111,7 @@ widestring_07C0DD `[TPL:1E][TPL:D]How about a sweet and[N]delicious apple?[END]`
 -------------------------------------
 ?INCLUDE 'chunk_038000'
 -------------------------------------
-widestring_039F6B `[TPL:F]You felt a tiny bit[N]relaxed when you filled[N]your mouth with the bright[N]red apple. It was a[WAI][N]tasty apple.[END]`
+widestring_039F6B `[TPL:10]You felt a tiny bit[N]relaxed when you filled[N]your mouth with the bright[N]red apple. It was a[N]tasty apple.[END]`
 
 widestring_07C8EC `[TPL:1E][TPL:E]They say that there are[N]people in this town who[N]make it powerful.[END]`
 
@@ -140,7 +140,7 @@ widestring_07E6AD `[TPL:1E][TPL:A]Max: I'm crazy about[N]joining an expedition t
 -------------------------------------
 ?INCLUDE 'eu9A_friezer'
 -------------------------------------
-widestring_07E61D `[TPL:1E][TPL:9]Friesel: I am Friesel,[N]the explorer.[FIN][TPL:B]I want history to remember[N]my name, just like when[N]the now-famous [NAM:9][N]discovered the Tower of[WAI][N]Babel.[END]`
+widestring_07E61D `[TPL:1E][TPL:9]Friesel: I am Friesel,[N]the explorer.[FIN][TPL:12]I want history to remember[N]my name, just like when[N]the now-famous [NAM:9][N]discovered the Tower of[N]Babel.[END]`
 
 -------------------------------------
 ?INCLUDE 'eu9A_rudy'
@@ -149,7 +149,7 @@ widestring_07E72A `[TPL:1E][TPL:B]Rudy: The truth is, we[N]still have a lot of[N
 
 widestring_07C6FE `[TPL:1E][TPL:B]If I remember correctly,[N]you could find the[N]droplets from mushrooms[N]all over the holy grounds…[FIN]Aah, I didn't mean to talk[N]about grown-up things so[N]quickly.[END]`
 
-widestring_07C63F `[TPL:1E][TPL:A]I went with my brother to[N]play on Mount Kehres when[N]I was little.[FIN]We went to the place that[N]they call the holy grounds[N]and got lost.[FIN][TPL:B]If I remember correctly,[N]there were giant mushrooms[N]and plant stalks sprouting[N]as if they were a maze.[FIN]If the droplets from a[N]mushroom are poured onto[N]the end of a stalk, it[N]will suddenly spring to[WAI][N]life and grow a path.[FIN]Everyone else vividly[N]remembers it too.[END]`
+widestring_07C63F `[TPL:1E][TPL:A]I went with my brother to[N]play on Mount Kehres when[N]I was little.[FIN]We went to the place that[N]they call the holy grounds[N]and got lost.[FIN][TPL:B]If I remember correctly,[N]there were giant mushrooms[N]and plant stalks sprouting[N]as if they were a maze.[FIN][TPL:12]If the droplets from a[N]mushroom are poured onto[N]the end of a stalk, it[N]will suddenly spring to[N]life and grow a path.[FIN][CLD][TPL:1E][TPL:9]Everyone else vividly[N]remembers it too.[END]`
 
 widestring_07C4AA `[TPL:1E][TPL:F]The residential area is[N]ahead of here. You can't[N]enter unless you're a[N]townsperson.[END]`
 
@@ -160,7 +160,7 @@ widestring_07C480 `[TPL:1E][TPL:E]This is Euro. A lot of the[N]population are me
 -------------------------------------
 ?INCLUDE 'wa79_lily'
 -------------------------------------
-widestring_07AAA3 `[TPL:2][TPL:B][NAM:2]: There's a rumour[N]flying around that a big[N]star is going to collide[N]with the Earth or[WAI][N]something like that.[FIN]I'm definitely not going[N]to believe that kind of[N]gossip.[END]`
+widestring_07AAA3 `[TPL:2][TPL:12][NAM:2]: There's a rumour[N]flying around that a big[N]star is going to collide[N]with the Earth or[N]something like that.[FIN][CLD][TPL:2][TPL:A]I'm definitely not going[N]to believe that kind of[N]gossip.[END]`
 
 -------------------------------------
 ?INCLUDE 'wa79_lance'
@@ -172,7 +172,7 @@ widestring_07AFA7 `[TPL:4][TPL:A][NAM:4]: If would be nice if[N]ya could also me
 -------------------------------------
 ?INCLUDE 'wa7A_lances_father'
 -------------------------------------
-widestring_07B412 `[TPL:3][TPL:B][NAM:4]'s father: Oh…[N][NAM:0], isn't it? I'm sorry;[N]I guess I must have[N]worried you.[FIN][NAM:4] and [NAM:2] really did[N]all they could to nurse me[N]back to health…[FIN]I used to think that I[N]didn't want a child to[N]dominate my life.[FIN]But now that things have[N]turned out like this, I[N]can see that it's nice to[N]have a child that's loyal[WAI][N]to you.[END]`
+widestring_07B412 `[TPL:3][TPL:B][NAM:4]'s father: Oh…[N][NAM:0], isn't it? I'm sorry;[N]I guess I must have[N]worried you.[FIN][NAM:4] and [NAM:2] really did[N]all they could to nurse me[N]back to health…[FIN]I used to think that I[N]didn't want a child to[N]dominate my life.[FIN][TPL:12]But now that things have[N]turned out like this, I[N]can see that it's nice to[N]have a child that's loyal[N]to you.[END]`
 
 widestring_07C9FF `[TPL:1E][TPL:E]The Reuleck Corporation[N]has even caused this town[N]to change terribly.[FIN]It's become a base for[N]merchants due to the[N]company's global growth.[FIN]There's always something[N]hiding behind a growing[N]company, isn't there?[END]`
 
@@ -258,7 +258,7 @@ widestring_07D61E `[TPL:3][TPL:B]Rofski: We started arguing[N]because of the Tea
 -------------------------------------
 ?INCLUDE 'eu92_erasquez'
 -------------------------------------
-widestring_07D7C7 `[TPL:4][TPL:A]Elazquez: You there… I[N]feel from thee a[N]mysterious power…[FIN][TPL:B]I'm already blind, but[N]since I've lost my sight,[N]I've developed a keen[N]sense for things that are[WAI][N]clearly special.[FIN]This is perfect. Will you[N]go to the holy grounds of[N]Mount Kehres and see the[N]state of the Tearpot for[WAI][N]me?[FIN][CLD][SFX:10][TPL:A]Rofski drew the location[N]of Mount Kehres on [NAM:0]'s[N]map![END]`
+widestring_07D7C7 `[TPL:4][TPL:A]Elazquez: You there… I[N]feel from thee a[N]mysterious power…[FIN][TPL:12]I'm already blind, but[N]since I've lost my sight,[N]I've developed a keen[N]sense for things that are[N]clearly special.[FIN]This is perfect. Will you[N]go to the holy grounds of[N]Mount Kehres and see the[N]state of the Tearpot for[N]me?[FIN][CLD][SFX:10][TPL:A]Rofski drew the location[N]of Mount Kehres on [NAM:0]'s[N]map![END]`
 
 widestring_07D892 `[TPL:4][TPL:B]Elazquez: It's said that[N]the tears of the gods in[N]the Tearpot can reflect[N]the true form of things.[END]`
 

@@ -4,8 +4,7 @@
 ---------------------------------
 ?INCLUDE 'it15_lily'
 ---------------------------------
-widestring_04E3D5 `[TPL:2][TPL:F][NAM:2]: This is my[N]village. Even though I[N]said it, you're still[N]surprised that there are[WAI][N]no houses, right?[FIN][NAM:0]. Can you try playing[N]for me the melody from[N]when I called out to you[N]in the in the basement of[WAI][N]Edward Castle?[END]`
-
+widestring_04E3D5 `[TPL:2][TPL:D][NAM:2]: This is my[N]village.[FIN][TPL:F]Even though I said it,[N]you're still surprised[N]that there are no houses,[N]right?[FIN][NAM:0], try playing that[N]melody from before when I[N]called out to you in[N]Edward's Castle basement.[END]`
 widestring_04E440 `[TPL:2][TPL:E][NAM:2]: [NAM:0]. Where are you[N]going? Play the melody[N]here…[END]`
 
 ---------------------------------
@@ -13,7 +12,7 @@ widestring_04E440 `[TPL:2][TPL:E][NAM:2]: [NAM:0]. Where are you[N]going? Play t
 ---------------------------------
 widestring_038CA0 `[CLD][TPL:E]The melody rode on the[N]wind and was spread[N]throughout the prairie.[END]`
 
-widestring_04E46F `[TPL:2][TPL:D][NAM:2]: Did it surprise[N]you?[FIN][TPL:E]Normally people can't see[N]our Itory village because[N]it has a barrier.[FIN]Anyway, the little lady[N]was suffering, wasn't[N]she…?[FIN][TPL:F]On the mountain road, I[N]felt like I was going[N]crazy with hearing "my[N]feet are hurtingˮ and[WAI][N]"I'm thirstyˮ.[END]`
+widestring_04E46F `[TPL:2][TPL:D][NAM:2]: Did it surprise[N]you?[FIN][TPL:E]Normally people can't see[N]our Itory village because[N]it has a barrier.[FIN]Anyway, the little lady[N]was suffering, wasn't[N]she…?[FIN][TPL:10]On the mountain road, I[N]felt like I was going[N]crazy with hearing "my[N]feet are hurtingˮ and[N]"I'm thirstyˮ.[END]`
 
 ---------------------------------
 ?INCLUDE 'it15_kara'
@@ -28,7 +27,7 @@ widestring_04DF96 `[TPL:18][TPL:F]The Incans that once lived[N]on this land were
 ---------------------------------
 ?INCLUDE 'it15_friendly_woman'
 ---------------------------------
-widestring_04E033 `[TPL:18][TPL:F]There aren't any children[N]around [NAM:2]'s age in[N]this village. Please be[N]good friends with her,[WAI][N]alright?[END]`
+widestring_04E033 `[TPL:18][TPL:E]There aren't any children[N]around [NAM:2]'s age in[N]this village.[FIN]Please be good friends[N]with her, alright?[END]`
 
 ---------------------------------
 ?INCLUDE 'it15_lola'
@@ -39,7 +38,7 @@ widestring_04F1BA `[TPL:3][TPL:C][NAM:6]: Bill, oh my…[FIN][TPL:E]I upset the 
 
 widestring_04F210 `[TPL:3][TPL:F][NAM:6]: Oh, that's right.[N][NAM:2], thank you for your[N]work. Come inside with[N]Princess [NAM:1].[END]`
 
-widestring_04E53C `[TPL:2][TPL:D][NAM:2]: Well then, follow[N]me if you'd like.[FIN][TPL:F][NAM:0]. This house is mine.[N]But if you want to[N]sightsee around the[N]village before you come[WAI][N]back, that's okay.[END]`
+widestring_04E53C `[TPL:2][TPL:D][NAM:2]: Well then, follow[N]me if you'd like.[FIN][TPL:10][NAM:0]. This house is mine.[N]But if you want to[N]sightsee around the[N]village before you come[N]back, that's okay.[END]`
 
 widestring_04E175 `[TPL:1][TPL:D][NAM:1]: Wait, [NAM:2].[N]I'll go too.[END]`
 
@@ -61,7 +60,7 @@ widestring_04DEC9 `[TPL:18][TPL:F]It's said around here that[N]when the world of
 ---------------------------------
 ?INCLUDE 'it15_fable_woman'
 ---------------------------------
-widestring_04DF22 `[TPL:18][TPL:F]Back then, things like the[N]spread of mysterious[N]illnesses without known[N]causes or disappearances[WAI][N]seemed to be increasing in[WAI][N]towns around the world…[FIN]I hope that there is peace[N]on this planet forever.[END]`
+widestring_04DF22 `[TPL:18][DLG:3,D][SIZ:D,6]Back then, things like the[N]spread of mysterious[N]illnesses without known[N]causes or disappearances[N]seemed to be increasing in[N]towns around the world…[FIN][CLD][TPL:18][TPL:D]I hope that there is peace[N]on this planet forever.[END]`
 
 ---------------------------------
 ?INCLUDE 'sE6_gaia'
@@ -86,7 +85,7 @@ widestring_04E1F6 `[TPL:1][TPL:B][NAM:1]: It's a charming[N]village, right? The 
 ---------------------------------
 ?INCLUDE 'it17_lily'
 ---------------------------------
-widestring_04E62C `[TPL:2][TPL:B][NAM:2]: The Elder is in[N]the flower field. I don't[N]know how old he is, but[N]he's a very knowledgeable[WAI][N]person.[FIN]Do you want to try and[N]meet him?[END]`
+widestring_04E62C `[TPL:2][TPL:9][NAM:2]: The Elder is in[N]the flower field.[FIN][TPL:A]I don't know how old he[N]is, but he's a very[N]knowledgeable person.[FIN]Do you want to try and[N]meet him?[END]`
 
 widestring_04F249 `[TPL:3][TPL:D][NAM:6]: Somehow I had an[N]unpleasant hunch.[END]`
 
@@ -102,30 +101,30 @@ widestring_04E9FF `[TPL:D][NAM:0] could hear a feeble[N]voice from behind him…
 
 widestring_04EA45 `[TPL:4][BOR:6][TPL:D]Elder: Here, I'm over[N]here. I'm in the flowers.[FIN]I've extended my life[N]too long.[END]`
 
-widestring_04EA77 `[TPL:4][BOR:6][TPL:F]Elder: If the flower[N]fairies aren't giving me[N]their protection like[N]this, I won't be able to[WAI][N]survive.[FIN]While we're talking, you[N]look so much like your[N]parents.[FIN]It seems like yesterday[N]that your father came to[N]our village.[FIN][CLD][TPL:0][TPL:C][NAM:0]: My dad came to your…[FIN][TPL:4][BOR:6][TPL:D]Elder: Your mother…[N]Putting in briefly.[FIN][TPL:F][NAM:8], your grandparents[N]Bill and [NAM:6]'s daughter,[N]was an extremely beautiful[N]woman.[FIN]Your father fell in love[N]at first sight and stole[N]her from this village.[FIN]Everyone in the Itory clan[N]holds a mysterious power,[N]but [NAM:8]'s was grander[N]than any other.[FIN]She even erected the[N]barrier that renders this[N]village invisible from the[N]outside, but your father[WAI][N]came inside very easily.[FIN]When I think about it,[N]that man was also a[N]mysterious human being…[FIN]`
+widestring_04EA77 `[TPL:4][BOR:6][TPL:10]Elder: If the flower[N]fairies aren't giving me[N]their protection like[N]this, I won't be able to[N]survive.[FIN][CLD][TPL:4][BOR:6][TPL:E]While we're talking, you[N]look so much like your[N]parents.[FIN]It seems like yesterday[N]that your father came to[N]our village.[FIN][CLD][TPL:0][TPL:C][NAM:0]: My dad came to your…[FIN][TPL:4][BOR:6][TPL:D]Elder: Your mother…[N]Putting in briefly.[FIN][TPL:F][NAM:8], your grandparents[N]Bill and [NAM:6]'s daughter,[N]was an extremely beautiful[N]woman.[FIN]Your father fell in love[N]at first sight and stole[N]her from this village.[FIN]Everyone in the Itory clan[N]holds a mysterious power,[N]but [NAM:8]'s was grander[N]than any other.[FIN]She even erected the[N]barrier that renders this[N]village invisible from the[N]outside.[FIN]But your father came[N]inside very easily.[FIN]When I think about it,[N]that man was also a[N]mysterious human being…[FIN]`
 
-widestring_04EC46 `[TPL:4][BOR:6][TPL:F]That being said, were you[N]summoned by your father?[N][PAL:0] Yes[N] No`
+widestring_04EC46 `[TPL:4][BOR:6][TPL:F]That being said, were you[N]summoned by your father?[N][PAL:0] Yes[N] No[PAL:4]`
 
-widestring_04EC76 `[CLD][TPL:4][BOR:6][TPL:E]Elder: I understand…[N]Well, [NAM:6]'s hunch was[N]right, wasn't it.[END]`
-
-widestring_04ECAB `[CLR][PAL:4][LU1:13]That fulfills[N][LU1:2D]prophesy.[END]`
+widestring_04EC76 `[CLR][TPL:4][LU1:13]What? If you[N]weren't....That's a[N]bad sign....[PAL:0][END]`
 ;TODO
 
-widestring_04ECCB `[TPL:4][BOR:6][TPL:E]So, do you intend to go?[N][PAL:0] Yes[N] No`
+widestring_04ECAB `[CLR]Elder: I understand…[N]Well, [NAM:6]'s hunch was[N]right, wasn't it.[END]`
 
-widestring_04ECEC `[PAL:4][CLR][LU1:13]A disobedient [N]son, unlike [LU1:FE]father.[END]`
+widestring_04ECCB `[TPL:4][BOR:6][TPL:E]So, do you intend to go?[N][PAL:0] Yes[N] No[PAL:4]`
 
-widestring_04ED19 `[TPL:4][BOR:6][TPL:F]Elder: Very well. In that[N]case, I will entrust you[N]with the Incan idol that[N]is handed down in this[WAI][N]village.[FIN]The two idols will be the[N]key to unravel the[N]mysteries of the Inca…[FIN]They have passed through[N]human hands for many[N]hundreds of years.[FIN]One idol is enshrined in[N]the cave below. Muster up[N]your wisdom and you may[N]take it.[END]`
+widestring_04ECEC `[CLR][LU1:13]A disobedient [N]son, unlike [LU1:FE]father.[END]`
 
-widestring_04EDF4 `[TPL:4][BOR:6][TPL:F]Elder: Oh…! That's[N]definitely the Incan idol![N]Wonderful; you've[N]discovered it![FIN][CLD][TPL:4][BOR:6][TPL:E]I think you might have[N]been born to discover the[N]mysteries of the Inca…[FIN]Anyway, I'll teach you a[N]legend that is handed down[N]in this village.[FIN][::][TPL:4][BOR:6][TPL:E]At the "Cliff of Laraiˮ,[N]underground beneath the[N]ruin.[FIN]Offer the Incan idols[N]where the breath of the[N]gods does not reach.[FIN]The valley wind will guide[N]you to the location of the[N]golden ship.[FIN]Did you understand that?[N][PAL:0] Yes[N] No`
+widestring_04ED19 `[TPL:4][BOR:6][TPL:10]Elder: Very well. In that[N]case, I will entrust you[N]with the Incan idol that[N]is handed down in this[N]village.[FIN][CLD][TPL:4][BOR:6][TPL:E]The two idols will be the[N]key to unravel the[N]mysteries of the Inca…[FIN]They have passed through[N]human hands for many[N]hundreds of years.[FIN][TPL:F]One idol is enshrined in[N]the cave below. Muster up[N]your wisdom and you may[N]take it.[END]`
+
+widestring_04EDF4 `[TPL:4][BOR:6][TPL:F]Elder: Oh…! That's[N]definitely the Incan idol![N]Wonderful; you've[N]discovered it![FIN][CLD][TPL:4][BOR:6][TPL:E]I think you might have[N]been born to discover the[N]mysteries of the Inca…[FIN]Anyway, I'll teach you a[N]legend that is handed down[N]in this village.[FIN][::][TPL:4][BOR:6][TPL:E]At the "Cliff of Laraiˮ,[N]underground beneath the[N]ruin.[FIN]Offer the Incan idols[N]where the breath of the[N]gods does not reach.[FIN]The valley wind will guide[N]you to the location of the[N]golden ship.[FIN]Did you understand that?[N][PAL:0] Yes[N] No[PAL:4]`
 
 widestring_04EF1C `[JMP:&widestring_04EDF4+M]`
 
-widestring_04EF23 `[PAL:4][CLR]Elder: It is said that one[N]more is held by the Race[N]of the Moon.[FIN][NAM:2] will show you the[N]way there. Be careful.[END]`
+widestring_04EF23 `[CLR]Elder: It is said that one[N]more is held by the Race[N]of the Moon.[FIN][NAM:2] will show you the[N]way there. Be careful.[END]`
 
-widestring_04F277 `[TPL:3][TPL:F][NAM:6]: Hey, there was a[N]nice legend in this[N]village from long ago,[FIN]"A child with a virtuous[N]heart that wields the[N]Power of Darkness will[N]appear, and embark to save[WAI][N]the world…[FIN]When they appear, a great[N]Power of Darkness will[N]revive to graze the edge[N]of the Earth with a[WAI][N]gigantic comet…ˮ[FIN]These are the words handed[N]down through the Itory[N]clan.[END]`
+widestring_04F277 `[TPL:3][TPL:E][NAM:6]: Hey, there was a[N]nice legend in this[N]village from long ago,[FIN][TPL:10]"A child with a virtuous[N]heart that wields the[N]Power of Darkness will[N]appear, and embark to save[N]the world…[FIN]When they appear, a great[N]Power of Darkness will[N]revive to graze the edge[N]of the Earth with a[N]gigantic comet…ˮ[FIN][CLD][TPL:3][TPL:E]These are the words handed[N]down through the Itory[N]clan.[END]`
 
-widestring_04EFDF `[TPL:4][TPL:D]Bill: Was the Elder still[N]doing well?[FIN][TPL:F]By the way, when you were[N]fighting demons in Edward[N]Castle's basement, didn't[N]you gather shining silver[WAI][N]stones?[FIN]I think those stones have[N]a mysterious power.[FIN]It seems that if you amass[N]100 of them, you will[N]immediately come to your[N]senses at a nearby place[WAI][N]after being killed by an[WAI][N]enemy.[END]`
+widestring_04EFDF `[TPL:4][TPL:D]Bill: Was the Elder still[N]doing well?[FIN][TPL:10]By the way, when you were[N]fighting demons in Edward[N]Castle's basement, didn't[N]you gather shining silver[N]stones?[FIN][CLD][TPL:4][TPL:D]I think those stones have[N]a mysterious power.[FIN][TPL:F]It seems that if you amass[N]100 of them, you will[N]immediately come to your[N]senses at a nearby place[FIN]…after being killed by an[N]enemy.[END]`
 
 
 code_04E609 {

@@ -25,15 +25,15 @@ widestring_04D60A `[TPL:E]A soldier's deep voice[N]echoes from a hole opened[N]i
 
 widestring_04D37A `[TPL:D][NAM:0] tried to nibble a bit[N]of the bread.[FIN][TPL:0][TPL:E]It had become hard; it was[N]the worst thing I had ever[N]tasted until then.[FIN]I sorely missed Grandma[N][NAM:6]'s pies for some[N]reason…[END]`
 
-widestring_04D679 `[TPL:0][TPL:E]Time flowed damningly[N]slow; one long, long day[N]ended.[FIN]To a painful degree, I had[N]come to understand that a[N]prisoner has no emotional[WAI][N]outlet…[FIN]At that time, still trying[N]to find a way to escape, I[N]fell into a light sleep.[END]`
+widestring_04D679 `[TPL:0][TPL:E]Time flowed damningly[N]slow; one long, long day[N]ended.[FIN][TPL:F]To a painful degree, I had[N]come to understand that a[N]prisoner has no emotional[N]outlet…[FIN]At that time, still trying[N]to find a way to escape, I[N]fell into a light sleep.[END]`
 
 widestring_04D732 `[PAU:78][TPL:0][TPL:F][DLY:0]From my flute, a voice I[N]had longed to hear echoed[N]through the silence that[N]had filled my ears…[FIN][CLD][TPL:23][TPL:C][DLY:0]Flute: [NAM:0]…[FIN][TPL:D]Flute: [NAM:0],[N]this is your father.[END]`
 
-widestring_04D78A `[PAU:3C][TPL:0][TPL:C][DLY:0][NAM:0]: Dad…?[FIN][TPL:23][TPL:D]Flute: I guess you're all[N]grown up. Although you[WAI][N]were a cute lad.[FIN]Are Grandma [NAM:6]'s pies[N]delicious?[FIN][TPL:0][TPL:D][NAM:0]: Dad![N]Where are you?![FIN][TPL:23][TPL:D]Flute: I can't tell you[N]that now…[FIN]I have something to ask of[N]you.[FIN][TPL:23][TPL:F]Will you listen to it[N]for me?[N][PAL:0] Yes, since it's you, Dad[N] No, you abandoned me!`
+widestring_04D78A `[PAU:3C][TPL:0][TPL:C][DLY:0][NAM:0]: Dad…?[FIN][TPL:23][TPL:E]Flute: I guess you're all[N]grown up. Although you[N]were a cute lad.[FIN][CLD][TPL:23][TPL:D][DLY:0]Are Grandma [NAM:6]'s pies[N]delicious?[FIN][TPL:0][TPL:D][NAM:0]: Dad![N]Where are you?![FIN][TPL:23][TPL:D]Flute: I can't tell you[N]that now…[FIN]I have something to ask of[N]you.[FIN][TPL:23][TPL:F]Will you listen to it[N]for me?[N][PAL:0] Yes, since it's you, Dad[N] No, you abandoned me!`
 
 widestring_04D87D `[TPL:23][TPL:F][DLY:0]Flute: I want you to come[N]to help me somehow…[FIN]I was also a prisoner here[N]earlier. Hey, please look[N]at the wall on the left[N]side.[END]`
 
-widestring_04D8D2 `[TPL:0][TPL:C][NAM:0]: …What's this?[FIN][TPL:23][TPL:E]Flute: Did you not hear[N]something from Grandpa[N]Bill?[FIN][TPL:0][TPL:E][NAM:0]: My grandpa? He was[N]an architect, right..?[FIN][TPL:23][TPL:E]Flute: Your grandpa, he[N]knew the secret of those[N]stones.[FIN][TPL:0][TPL:E][NAM:0]: The stones'[N]secret…?[FIN][TPL:23][TPL:F]Flute: The situations that[N]you're going to face from[N]now on are going on be[N]a little bit scary.[FIN][TPL:0][TPL:F][NAM:0]: Scary situations…?[FIN][TPL:23][TPL:F]Flute: Pick up the stones[N]left by the enemies.[FIN]The power of the comet is[N]contained in them.[FIN]That power will definitely[N]be your ally…[FIN]Then, search for the[N]puppets called "[NAM:D][N][NAM:E]sˮ which are hidden[N]in the ruins spread around[WAI][N]the world.[FIN]The demons will become[N]more powerful as the comet[N]becomes closer…[FIN][NAM:0]… There's no time…[N]So hurry… First,[N]to the Inca's ruins…[FIN][CLD][TPL:F]Sadly, the flute's voice[N]gradually become quiet[N]until it could no longer[N]be heard.[END]`
+widestring_04D8D2 `[TPL:0][TPL:C][NAM:0]: …What's this?[FIN][TPL:23][TPL:E]Flute: Did you not hear[N]something from Grandpa[N]Bill?[FIN][TPL:0][TPL:E][NAM:0]: My grandpa? He was[N]an architect, right..?[FIN][TPL:23][TPL:E]Flute: Your grandpa, he[N]knew the secret of those[N]stones.[FIN][TPL:0][TPL:E][NAM:0]: The stones'[N]secret…?[FIN][TPL:23][TPL:F]Flute: The situations that[N]you're going to face from[N]now on are going on be[N]a little bit scary.[FIN][CLD][TPL:0][TPL:C][NAM:0]: Scary situations…?[FIN][TPL:23][TPL:D]Flute: Pick up the stones[N]left by the enemies.[FIN]The power of the comet is[N]contained in them.[FIN]That power will definitely[N]be your ally…[FIN][TPL:F]Then, search for puppets[N]called "[NAM:D] [NAM:E]sˮ[N]which are hidden in ruins[N]spread around the world.[FIN]The demons will become[N]more powerful as the comet[N]becomes closer…[FIN][NAM:0]… There's no time…[N]So hurry… First,[N]to the Inca's ruins…[FIN][CLD][TPL:F]Sadly, the flute's voice[N]gradually become quiet[N]until it could no longer[N]be heard.[END]`
 
 widestring_04D4A5 `[TPL:C][LU1:3A]oink[PAU:28][CLD]`
 
@@ -58,7 +58,7 @@ widestring_08DED3 `[PRT:@widestring_08DE96]When thou defeat all of[N]the enemies
 -----------------------------
 ?INCLUDE 'ec0C_force_hint'
 -----------------------------
-widestring_04DCBD `[TPL:0][TPL:F][DLY:0][NAM:0]: Ah, that's right… I[N]think when I defeat all of[N]the enemies in the area[N]I'm in, these jewels[WAI][N]appear…[END]`
+widestring_04DCBD `[TPL:0][TPL:C][NAM:0]: Ah, that's right…[FIN][TPL:F]I think when I defeat all[N]of the enemies in the area[N]I'm in, these jewels[N]appear…[END]`
 
 -----------------------------
 ?INCLUDE 'ec0E_lily'
@@ -109,7 +109,7 @@ widestring_08DE4D `[TPL:17][TPL:F]It seems that you're[N]injured, huh. Come on,[
 
 widestring_08E98A `[PRT:@widestring_08DE96]Thy form is a temporary[N]one. Thou shouldst try[N]standing in front of the[N]statue that is beside me.[FIN]`
 
-widestring_08F157 `[SFX:10][TPL:D]A voice echoed inside of[N][NAM:0]'s head.[FIN][TPL:4][BOR:4][TPL:E]O [NAM:0]. I have long been[N]laying in wait for this[N]time to come.[FIN]My name is Friedan. I am[N]something that exists[N]beyond time.[FIN][TPL:F]From here on, I intend to[N]assist on your journey.[N]When the time for me has[N]come, then by nature, you[WAI][N]will know it…[FIN][CLD][SFX:10][TPL:D][NAM:0]'s consciousness[N]gradually receded…[END]`
+widestring_08F157 `[SFX:10][TPL:D]A voice echoed inside of[N][NAM:0]'s head.[FIN][TPL:4][BOR:4][TPL:E]O [NAM:0]. I have long been[N]laying in wait for this[N]time to come.[FIN]My name is Friedan. I am[N]something that exists[N]beyond time.[FIN]From here on, I intend to[N]assist on your journey.[FIN]When the time for me has[N]come, then by nature, you[N]will know it…[FIN][CLD][SFX:10][TPL:D][NAM:0]'s consciousness[N]gradually receded…[END]`
 
 -----------------------------
 ?INCLUDE 'ec13_lily'

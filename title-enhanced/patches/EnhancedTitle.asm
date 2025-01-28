@@ -364,41 +364,41 @@ palette_bundles [
 ]
 
 panim01062747 [
-  palette_bundle < #01, &panim01062747_frame00, #E1, #1D, #00 >
-  palette_bundle < #01, &panim01062747_frame01, #E1, #1D, #00 >
-  palette_bundle < #01, &panim01062747_frame02, #E1, #1D, #00 >
-  palette_bundle < #01, &panim01062747_frame03, #E1, #1D, #00 >
-  palette_bundle < #01, &panim01062747_frame04, #E1, #1D, #00 >
-  palette_bundle < #01, &panim01062747_frame05, #E1, #1D, #00 >
-  palette_bundle < #01, &panim01062747_frame06, #E1, #1D, #00 >
-  palette_bundle < #01, &panim01062747_frame07, #E1, #1D, #00 >
-  palette_bundle < #01, &panim01062747_frame08, #E1, #1D, #00 >
-  palette_bundle < #01, &panim01062747_frame09, #E1, #1D, #00 >
-  palette_bundle < #01, &panim01062747_frame0A, #E1, #1D, #00 >
-  palette_bundle < #01, &panim01062747_frame0B, #E1, #1D, #00 >
-  palette_bundle < #01, &panim01062747_frame0C, #E1, #1D, #00 >
-  palette_bundle < #01, &panim01062747_frame0D, #E1, #1D, #00 >
-  palette_bundle < #01, &panim01062747_frame0E, #E1, #1D, #00 >
-  palette_bundle < #01, &panim01062747_frame0F, #E1, #1D, #00 >
-  palette_bundle < #01, &panim01062747_frame10, #E1, #1D, #00 >
-  palette_bundle < #01, &panim01062747_frame11, #E1, #1D, #00 >
-  palette_bundle < #01, &panim01062747_frame12, #E1, #1D, #00 >
-  palette_bundle < #01, &panim01062747_frame13, #E1, #1D, #00 >
-  palette_bundle < #01, &panim01062747_frame14, #E1, #1D, #00 >
-  palette_bundle < #01, &panim01062747_frame15, #E1, #1D, #00 >
-  palette_bundle < #01, &panim01062747_frame16, #E1, #1D, #00 >
-  palette_bundle < #01, &panim01062747_frame17, #E1, #1D, #00 >
-  palette_bundle < #01, &panim01062747_frame18, #E1, #1D, #00 >
-  palette_bundle < #01, &panim01062747_frame19, #E1, #1D, #00 >
-  palette_bundle < #01, &panim01062747_frame1A, #E1, #1D, #00 >
-  palette_bundle < #01, &panim01062747_frame1B, #E1, #1D, #00 >
-  palette_bundle < #01, &panim01062747_frame1C, #E1, #1D, #00 >
-  palette_bundle < #01, &panim01062747_frame1D, #E1, #1D, #00 >
-  palette_bundle < #01, &panim01062747_frame1E, #E1, #1D, #00 >
-  palette_bundle < #01, &panim01062747_frame1F, #E1, #1D, #00 >
-  palette_bundle < #01, &panim01062747_frame20, #E1, #1D, #00 >
-  palette_bundle < #01, &panim01062747_frame21, #E1, #1D, #00 >
-  palette_bundle < #01, &panim01062747_frame22, #E1, #1D, #00 >
+  bundle < #01, &panim01062747_frame00, #E1, #1D, #00 >
+  bundle < #01, &panim01062747_frame01, #E1, #1D, #00 >
+  bundle < #01, &panim01062747_frame02, #E1, #1D, #00 >
+  bundle < #01, &panim01062747_frame03, #E1, #1D, #00 >
+  bundle < #01, &panim01062747_frame04, #E1, #1D, #00 >
+  bundle < #01, &panim01062747_frame05, #E1, #1D, #00 >
+  bundle < #01, &panim01062747_frame06, #E1, #1D, #00 >
+  bundle < #01, &panim01062747_frame07, #E1, #1D, #00 >
+  bundle < #01, &panim01062747_frame08, #E1, #1D, #00 >
+  bundle < #01, &panim01062747_frame09, #E1, #1D, #00 >
+  bundle < #01, &panim01062747_frame0A, #E1, #1D, #00 >
+  bundle < #01, &panim01062747_frame0B, #E1, #1D, #00 >
+  bundle < #01, &panim01062747_frame0C, #E1, #1D, #00 >
+  bundle < #01, &panim01062747_frame0D, #E1, #1D, #00 >
+  bundle < #01, &panim01062747_frame0E, #E1, #1D, #00 >
+  bundle < #01, &panim01062747_frame0F, #E1, #1D, #00 >
+  bundle < #01, &panim01062747_frame10, #E1, #1D, #00 >
+  bundle < #01, &panim01062747_frame11, #E1, #1D, #00 >
+  bundle < #01, &panim01062747_frame12, #E1, #1D, #00 >
+  bundle < #01, &panim01062747_frame13, #E1, #1D, #00 >
+  bundle < #01, &panim01062747_frame14, #E1, #1D, #00 >
+  bundle < #01, &panim01062747_frame15, #E1, #1D, #00 >
+  bundle < #01, &panim01062747_frame16, #E1, #1D, #00 >
+  bundle < #01, &panim01062747_frame17, #E1, #1D, #00 >
+  bundle < #01, &panim01062747_frame18, #E1, #1D, #00 >
+  bundle < #01, &panim01062747_frame19, #E1, #1D, #00 >
+  bundle < #01, &panim01062747_frame1A, #E1, #1D, #00 >
+  bundle < #01, &panim01062747_frame1B, #E1, #1D, #00 >
+  bundle < #01, &panim01062747_frame1C, #E1, #1D, #00 >
+  bundle < #01, &panim01062747_frame1D, #E1, #1D, #00 >
+  bundle < #01, &panim01062747_frame1E, #E1, #1D, #00 >
+  bundle < #01, &panim01062747_frame1F, #E1, #1D, #00 >
+  bundle < #01, &panim01062747_frame20, #E1, #1D, #00 >
+  bundle < #01, &panim01062747_frame21, #E1, #1D, #00 >
+  bundle < #01, &panim01062747_frame22, #E1, #1D, #00 >
 ]
 
 panim01062747_frame00 [

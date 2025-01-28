@@ -29,7 +29,7 @@ widestring_0994E6 `[TPL:17][TPL:E]I've become an unaging,[N]undying organism by 
 
 widestring_09923A `[TPL:5][BOR:4][TPL:D][NAM:5]: Hey [NAM:0], it's[N]been a long time.[FIN]I can't believe that a[N]world like this exists…[FIN][TPL:F]I guess I could probably[N]have become a scholar if I[N]announced this at an[N]academic conference.[END]`
 
-widestring_09943E `[TPL:17][TPL:C][NAM:7]: Squee squee…!![FIN][TPL:0][TPL:F][SFX:0][NAM:0]: So that's how it is;[N]I guess that without a[N]body, even people and[N]animals are no longer[WAI][N]distinct…[END]`
+widestring_09943E `[TPL:17][TPL:C][NAM:7]: Squee squee…!![FIN][TPL:0][TPL:10][SFX:0][NAM:0]: So that's how it is;[N]I guess that without a[N]body, even people and[N]animals are no longer[N]distinct…[END]`
 
 widestring_09938D `[TPL:17][TPL:E]Neil's mother: Even if I[N]can observe the real[N]world, I can't touch it…[FIN]No matter how Neil is[N]suffering, I still can't[N]lend him a hand, can I…[END]`
 

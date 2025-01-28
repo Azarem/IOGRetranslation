@@ -49,7 +49,7 @@ widestring_06DB4F `[TPL:3][TPL:8]That's correct!![FIN][TPL:B]You've realized tha
 
 widestring_06DB9F `[TPL:3][TPL:8]That's correct!![FIN][TPL:A]Your hair was fluttering[N]because the wind was[N]blowing, wasn't it.[FIN]You have passed my tests[N]splendidly. Alright, you[N]may return.[END]`
 
-widestring_06CF5E `[TPL:3][TPL:9]Ishtar: I had been[N]waiting for you to come.[FIN][TPL:B]You should sprinkle this[N]magic powder over the[N]picture of that girl, then[N]give it a heartfelt kiss.[FIN]Something should happen if[N]you truly feel for that[N]girl. Well, you'll[N]probably understand[WAI][N]eventually.[FIN][CLD][TPL:3][TPL:9]I painted my own[N]self-portrait.[FIN]I will soon be assimilated[N]into the picture…[FIN]That girl…[N]Protect her carefully…[END]`
+widestring_06CF5E `[TPL:3][TPL:9]Ishtar: I had been[N]waiting for you to come.[FIN][TPL:B]You should sprinkle this[N]magic powder over the[N]picture of that girl, then[N]give it a heartfelt kiss.[FIN]Something should happen if[N]you truly feel for that[N]girl.[FIN][CLD][TPL:3][TPL:9]Well, you'll probably[N]understand eventually.[FIN]I painted my own[N]self-portrait.[FIN]I will soon be assimilated[N]into the picture…[FIN]That girl…[N]Protect her carefully…[END]`
 
 widestring_06D039 `[TPL:3][TPL:8]…[END]`
 
@@ -81,13 +81,6 @@ widestring_06C568 `[TPL:6][TPL:9]Neil: [NAM:1]![N]I was worried…!![FIN][TPL:2]
 widestring_06C6A0 `[TPL:3][TPL:9][NAM:3]: Ah, speaking of[N]that…[FIN][TPL:B]In the fallen angels'[N]village, I noticed[N]something that looked[N]like a Red Jewel.[END]`
 
 -------------------------------------
-?INCLUDE 'av6A_neil'
--------------------------------------
-widestring_06C10D `[TPL:6][TPL:A]Neil: Is it okay to go?[N][PAL:0] Yes[N] Wait a bit`
-
-widestring_06C136 `[CLR][PAL:4]Neil: Don't rush things.[N]Take your time finishing[N]your business.[END]`
-
--------------------------------------
 ?INCLUDE 'av6A_lily'
 -------------------------------------
 widestring_06C2F8 `[TPL:2][TPL:A][NAM:2]: [NAM:1] seems to be[N]strange somehow, doesn't[N]she…?[FIN]I have a sense about these[N]things; was something[N]wrong with [NAM:1]?[END]`
@@ -100,7 +93,14 @@ widestring_06BFBE `[TPL:4][TPL:B][NAM:4]: I suppose that[N][NAM:2]'s birthday wi
 -------------------------------------
 ?INCLUDE 'av6A_kara'
 -------------------------------------
-widestring_06C417 `[TPL:1][TPL:B][NAM:1]: You know, they say[N]that there are a lot of[N]houses built on rafts in[N]the place that they call[WAI][N]the Floating City.[FIN]It's kind of romantic,[N]isn't it? I think it's[N]fun…[END]`
+widestring_06C417 `[TPL:1][TPL:12][NAM:1]: You know, they say[N]that there are a lot of[N]houses built on rafts in[N]the place that they call[N]the Floating City.[FIN][CLD][TPL:1][TPL:A]It's kind of romantic,[N]isn't it? I think it's[N]fun…[END]`
 
-widestring_06C15C `[CLR][PAL:4]Neil: It seems that the[N]Floating City is a[N]considerably hot place.[FIN]Everyone mustn't get[N]heatstroke, so take care.[END]`
+-------------------------------------
+?INCLUDE 'av6A_neil'
+-------------------------------------
+widestring_06C10D `[TPL:6][TPL:A]Neil: Is it okay to go?[N][PAL:0] Yes[N] Wait a bit[PAL:4]`
+
+widestring_06C136 `[CLR]Neil: Don't rush things.[N]Take your time finishing[N]your business.[END]`
+
+widestring_06C15C `[CLR]Neil: It seems that the[N]Floating City is a[N]considerably hot place.[FIN]Everyone mustn't get[N]heatstroke, so take care.[END]`
 

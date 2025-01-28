@@ -10,9 +10,9 @@ widestring_05ABC6 `[TPL:16][TPL:A]Man's voice: He should be[N]getting up about n
 ------------------------------------
 widestring_05ADAE `[TPL:1][TPL:D][NAM:1]: [NAM:0]! [NAM:0]!![N]Wake up…!![FIN][TPL:E]It's land, we've reached[N]land! We've been[N]saved…!![FIN][TPL:0][TPL:E][NAM:0]: U-uugh…[END]`
 
-widestring_05AE00 `[TPL:0][TPL:D][NAM:0]: Huh… [NAM:1]…? Where in[N]the world are we? [FIN][TPL:1][TPL:D][NAM:1]: The house of a[N]gentleman that saved us.[FIN]Good grief, [NAM:0], you've[N]got bad sleeping posture…[FIN][TPL:F]You're supposed to be a[N]sick person and cling to[N]the sheets, but you're[N]laying on your side like[WAI][N]a baby.[END]`
+widestring_05AE00 `[TPL:0][TPL:D][NAM:0]: Huh… [NAM:1]…? Where in[N]the world are we? [FIN][TPL:1][TPL:D][NAM:1]: The house of a[N]gentleman that saved us.[FIN]Good grief, [NAM:0], you've[N]got bad sleeping posture…[FIN][TPL:E]You're supposed to be a[N]sick person and cling to[N]the sheets,[FIN]but you're laying on your[N]side like a baby.[END]`
 
-widestring_05AEA3 `[TPL:16][TPL:D]Man: This is the southern[N]outskirts of Oakland.[FIN][TPL:F]If you head northward for[N]about half a day, there's[N]the Capital of Flowers,[N]Freesia.[FIN]I think if you're[N]searching for your friends[N]you were split from, you[N]should try doing it in a[WAI][N]big city.[END]`
+widestring_05AEA3 `[TPL:16][TPL:D]Man: This is the southern[N]outskirts of Oakland.[FIN][TPL:F]If you head northward for[N]about half a day, there's[N]the Capital of Flowers,[N]Freesia.[FIN]I think if you're[N]searching for your friends[N]you were split from…[FIN]You should try doing it in[N]a big city.[END]`
 
 widestring_05AF2F `[TPL:1][TPL:A][NAM:1]: Anyhow, let's try[N]going to that city called[N]Freesia.[FIN][TPL:B]I'm going to go give my[N]thanks to the dog. If[N]you're ready you can come[N]talk to me, alright?[END]`
 

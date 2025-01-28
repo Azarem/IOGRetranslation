@@ -51,7 +51,7 @@ widestring_0882C7 `[TPL:0][TPL:E]We were tired from the[N]journey, so the party 
 
 widestring_08830F `[TPL:0][TPL:E][DLY:2][NAM:0]: Mrrrm… [NAM:7]…?[N]Let me sleep a little[N]more…[FIN][TPL:1][TPL:E][DLY:1][NAM:1]: Ugh… Wait a second,[N][NAM:0]… Don't touch me in[N]weird places…[FIN][CLD][PAU:3C][TPL:1][TPL:D][DLY:0][NAM:1]: Huh…! Who…?[N]Who are you…?![END]`
 
-widestring_08839D `[TPL:0][TPL:A][SFX:0]It seemed like they could[N]have been a cannibal[N]tribe…[FIN][TPL:1][TPL:A][NAM:1]: Look. Those[N]children. They've become[N]all skin and bones…[FIN][TPL:0][TPL:B][NAM:0]: That's right… Isn't[N]that what the slave boy in[N]the Capital of Flowers was[N]saying?[FIN]In his hometown, there's[N]a food shortage…[FIN][TPL:1][TPL:B][NAM:1]: I guess those[N]mysterious bones that were[N]scattered around were the[N]remains of people who they[WAI][N]had eaten, aren't they?[FIN][TPL:3][TPL:B][NAM:3]: Waah. They're going[N]to eat usss…![END]`
+widestring_08839D `[TPL:0][TPL:A][SFX:0]It seemed like they could[N]have been a cannibal[N]tribe…[FIN][TPL:1][TPL:A][NAM:1]: Look. Those[N]children. They've become[N]all skin and bones…[FIN][TPL:0][TPL:B][NAM:0]: That's right… Isn't[N]that what the slave boy in[N]the Capital of Flowers was[N]saying?[FIN]In his hometown, there's[N]a food shortage…[FIN][TPL:1][TPL:12][NAM:1]: I guess those[N]mysterious bones that were[N]scattered around were the[N]remains of people who they[N]had eaten, aren't they?[FIN][CLD][TPL:3][TPL:9][NAM:3]: Waah. They're going[N]to eat usss…![END]`
 
 widestring_0887C6 `[TPL:1][TPL:A][DLY:2][NAM:1]: [NAM:7]… Making[N]sad-looking eyes like[N]that…[FIN]Could it be that you're[N]parting with everyone[N]soon…?[END]`
 
@@ -118,7 +118,7 @@ widestring_0888AD `[TPL:0][TPL:8]Squee squee…[FIN][TPL:A]You can't ever hear t
 -------------------------------------
 ?INCLUDE 'nvAC_erik'
 -------------------------------------
-widestring_0885DC `[TPL:3][TPL:F][NAM:3]: When we found this[N]so-called cannibal tribe,[N]I had thought they must be[N]terrifying people to eat[WAI][N]other humans.[FIN]Even though they were of[N]the same tribe, they had[N]to eat their friends in[N]order to survive…[FIN]I guess that humans are[N]animals after all…[END]`
+widestring_0885DC `[TPL:3][TPL:10][NAM:3]: When we found this[N]so-called cannibal tribe,[N]I had thought they must be[N]terrifying people to eat[N]other humans.[FIN][CLD][TPL:3][TPL:F]Even though they were of[N]the same tribe, they had[N]to eat their friends in[N]order to survive…[FIN]I guess that humans are[N]animals after all…[END]`
 
 widestring_0884FB `[TPL:1][TPL:E][NAM:1]: How could she leap[N]into the fire so that she[N]could be eaten…?[FIN][NAM:7]… What a kind child…[END]`
 

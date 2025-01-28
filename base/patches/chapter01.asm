@@ -38,7 +38,7 @@ charstring_0BD272 ~However, among[N]those, not one[N]had noticed the[N]tremendou
 ----------------------
 ?INCLUDE 'sc08_priest'
 ----------------------
-widestring_048AE9 `[TPL:0][TPL:8][DLY:0]My name is [NAM:0].[FIN][TPL:B]Exactly one year has[N]passed since I went on an[N]expedition to the Tower[N]of Babel with my dad.[FIN]Of the members of his[N]team, only I was able[N]to survive and safely[N]return to this town…[FIN]I still can't believe[N]that dad died or anything[N]like that. I don't think[N]I'll ever believe it…[FIN]When I grow up, I'm going[N]to become an explorer like[N]him and travel around[N]around the world.[FIN]Because when that happens,[N]I believe that somewhere,[N]I'll find my dad…[END]`
+widestring_048AE9 `[TPL:0][TPL:8][DLY:0]My name is [NAM:0].[FIN][TPL:B]Exactly one year has[N]passed since I went on an[N]expedition to the Tower[N]of Babel with my dad.[FIN]Of the members of his[N]team, only I was able[N]to survive and safely[N]return to this town…[FIN]I still can't believe[N]that dad died or anything[N]like that. I don't think[N]I'll ever believe it…[FIN]When I grow up, I'm going[N]to become an explorer like[N]him and travel around[N]the world.[FIN]Because when that happens,[N]I believe that somewhere,[N]I'll find my dad…[END]`
 widestring_048C01 `[TPL:16][TPL:D]Priest: Today's lesson[N]ends here.[FIN][TPL:F]The four of you do your[N]best so that you won't[N]have to stay behind after[N]classes next time.[FIN]Furthermore, creatures[N]resembling monsters have[N]recently been spotted[N]outside of town.[FIN]When you leave, please[N]be sure to have a parent[N]accompany you.[END]`
 widestring_048C98 `[TPL:16][TPL:D]Ah, [NAM:0].[N]Please pray with me.[FIN][TPL:E]O God…[N]May the world continue to[N]shine to eternity…[END]`
 
@@ -52,7 +52,7 @@ widestring_048C98 `[TPL:16][TPL:D]Ah, [NAM:0].[N]Please pray with me.[FIN][TPL:E
 ?INCLUDE 'sc08_erik'
 ----------------------
 widestring_048DD1 `[TPL:5][TPL:9][NAM:5]: Alright, today[N]too, same place as always![END]`
-widestring_048E00 `[TPL:3][TPL:9][NAM:3]: I'm gonna stop at[N]home first, then I'll go.[FIN][TPL:B]If I don't go home right[N]away, mommy's going to[N]find out that I had to[N]stay behind for make-up[WAI][N]lessons again… Heh heh…[END]`
+widestring_048E00 `[TPL:3][TPL:9][NAM:3]: I'm gonna stop at[N]home first, then I'll go.[FIN][TPL:12]If I don't go home right[N]away, mommy's going to[N]find out that I had to[N]stay behind for make-up[N]lessons again… Heh heh…[END]`
 
 ----------------------
 ?INCLUDE 'sc08_lance'
@@ -62,7 +62,7 @@ widestring_048D3A `[TPL:4][TPL:A][NAM:4]: Alright, to tha[N]coastal cave today a
 ----------------------
 ?INCLUDE 'sE6_gaia'
 ----------------------
-widestring_08DD0B `[TPL:17][TPL:F]I am the fountainhead of[N]life, Gaia. Henceforth, I[N]shall assist thy journey.[FIN]This area is only visible[N]for those in whom the[N]Power of Darkness dwells.[N]Thou art a chosen human.[FIN]In the [NAM:0F] [NAM:10],[N]I can record thy travel[N]diary. Thou shouldst drop[N]by during thy journey.[FIN]`
+widestring_08DD0B `[TPL:17][TPL:F]I am the fountainhead of[N]life, Gaia. Henceforth, I[N]shall assist thy journey.[FIN]This area is only visible[N]for those in whom the[N]Power of Darkness dwells.[N]Thou art a chosen human.[FIN]In the [NAM:0F],[N]I can record thy travel[N]diary. Thou shouldst drop[N]by during thy journey.[FIN]`
 widestring_08DDCB `[TPL:17][TPL:F]So, shalt thou record thy[N]adventure 'til this point?[N][PAL:0] Record[N] [LU1:D]record`
 widestring_08DDFE `[CLR][PAL:4]Recording completed…[FIN]Shalt thou still continue[N]with thy journey? [N][PAL:0] Yes[N] No`
 widestring_08DE43 `[CLR][PAL:4]Then thou shouldst go.[END]`
@@ -84,7 +84,7 @@ widestring_08D094 `[TPL:16][TPL:E]I am Gem, a jewel[N]merchant that travels[N]ab
 widestring_08D0C8 `I'm holding [BCD:2,AB0] of the[N]Red [LU1:22]for you.[FIN][TPL:F]`
 ;TODO!!
 widestring_08D0F1 `[DLG:2,11][SIZ:E,4][CLR]What's your business today?[N] Didn't mean to run into you[N] Deposit Red Jewels[N] See your list of goods`
-widestring_08D139 `[CLD][TPL:16][TPL:D]Is that so?[N]Anyway, nice to meet you.[FIN][TPL:E]By the way, if you lift[N]a Red Jewel, it will fly[N]to my location, you know.[FIN][TPL:F]Sometimes that place may[N]seem hidden. I am a master[N]of disguise, after all.[N]In other towns, you might[WAI][N]not always recognize me.[END]`
+widestring_08D139 `[CLD][TPL:16][TPL:D]Is that so?[N]Anyway, nice to meet you.[FIN][TPL:E]By the way, if you lift[N]a Red Jewel, it will fly[N]to my location, you know.[FIN]Sometimes that place may[N]seem hidden. I am a master[N]of disguise, after all.[FIN]In other towns, you might[N]not always recognize me.[END]`
 widestring_08D1E0 `[CLD][TPL:16][TPL:F]But you aren't holding any[N]jewels. I'll just hold[N]your feelings for you[N]instead.[END]`
 widestring_08D20F `[CLD][TPL:16][TPL:F]Hmm… These are truly good[N]jewels, aren't they?[N]Please, it is important[N]to take care of them.[FIN]With this, I think the[N]number of jewels should[N]have become [BCD:2,AB0] altogether.[FIN]`
 widestring_08D267 `[CLD][TPL:16][TPL:F]I will give you the[N]commodity only when the[N]collected jewels reach[N]the number on the list.[END]`
@@ -102,19 +102,19 @@ widestring_0488FB `[TPL:16][TPL:E]You know, an acquaintance[N]of mine is an astr
 ------------------------
 ?INCLUDE 'sc01_worried_woman'
 ------------------------
-widestring_04871E `[TPL:16][TPL:E]I'm getting worried about[N]all of these strange[N]merchants we've been[WAI][N]seeing around here lately.[FIN]The stories of monsters[N]appearing outside of towns[N]must be good for business.[END]`
+widestring_04871E `[TPL:16][TPL:F]I'm getting worried about[N]all of these strange[N]merchants we've been[N]seeing around here lately.[FIN]The stories of monsters[N]appearing outside of towns[N]must be good for business.[END]`
 
 ------------------------
 ?INCLUDE 'sc01_house_intro'
 ------------------------
-widestring_04BD1B `[TPL:0][TPL:10]This is my house.[N]Perhaps Grandmother [NAM:6][N]is baking a pie; a nice[N]smell is in the air.[END]`
+widestring_04BD1B `[TPL:0][TPL:F]This is my house.[N]Perhaps Grandmother [NAM:6][N]is baking a pie; a nice[N]smell is in the air.[END]`
 widestring_04BD5F `[TPL:0][TPL:F]Here is my close friend[N][NAM:4]'s house. He lives[N]here with his frail[N]mother.[END]`
 widestring_04BD9B `[TPL:0][TPL:C]My friend [NAM:3] lives here.[FIN][TPL:F]This house is the biggest[N]in South Cape. I feel[N]jealous of people born to[N]families with money…[END]`
 
 ------------------------
 ?INCLUDE 'sc01_salesman'
 ------------------------
-widestring_0482D7 `[TPL:16][TPL:E]Salesman: This old man[N]you're speaking to goes[N]around to every house[WAI][N]to sell weapons used[N]for fighting demons.[FIN]It's because the world's[N]become so much more[N]dangerous these days.[FIN]But I'm still not going to[N]go and sell weapons to a[N]child like you.[END]`
+widestring_0482D7 `[TPL:16][TPL:F]Salesman: This old man[N]you're speaking to goes[N]around to every house[N]to sell weapons.[FIN][CLD][TPL:16][TPL:D]These weapons are used for[N]fighting demons.[FIN][TPL:E]It's because the world's[N]become so much more[N]dangerous these days.[FIN]But I'm still not going to[N]go and sell weapons to a[N]child like you.[END]`
 widestring_04835C `[TPL:16][TPL:C]Salesman: Hmmm…[END]`
 
 ------------------------
@@ -161,12 +161,12 @@ widestring_048A48 `[TPL:0][TPL:E]Just as I opened the door[N]to [NAM:5]'s house,
 ------------------------
 ?INCLUDE 'sc03_lances_mother'
 ------------------------
-widestring_048F19 `[TPL:16][TPL:F][NAM:4]'s Mother: It's[N]already been one year[N]since my husband went[N]missing with your father[WAI][N]at the Tower of Babel,[N]hasn't it?[FIN]Somehow it still feels[N]like yesterday…[END]`
+widestring_048F19 `[TPL:16][TPL:F][NAM:4]'s Mother: It's[N]already been one year[N]since my husband went[N]missing with your father[FIN]…at the Tower of Babel,[N]hasn't it? Somehow it[N]still feels like[N]yesterday…[END]`
 
 ------------------------
 ?INCLUDE 'sc04_poverty'
 ------------------------
-widestring_048F9D `[TPL:16][TPL:F]You know, a little thing[N]about this world is that[N]even if you have money,[N]you could fall into[WAI][N]poverty. [FIN]Ah, I think somehow I[N]ended up not telling[N]a pleasant story…[END]`
+widestring_048F9D `[TPL:16][TPL:10]You know, a little thing[N]about this world is that[N]even if you have money,[N]you could fall into[N]poverty. [FIN][CLD][TPL:16][TPL:E]Ah, I think somehow I[N]ended up not telling[N]a pleasant story…[END]`
 
 ------------------------
 ?INCLUDE 'sc04_eriks_father'
