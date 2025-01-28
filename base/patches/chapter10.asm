@@ -54,7 +54,7 @@ widestring_058940 `[TPL:1B][TPL:A]Ah, Your Majesty. The[N][NAM:D] [NAM:E] is ins
 ---------------------------------------
 ?INCLUDE 'gs2E_crew1'
 ---------------------------------------
-widestring_05883E `[TPL:1B][TPL:12]Her Majesty, the Queen,[N]has carefully put on the[N]ring that Your Majesty had[N]bestowed upon her[N]previously.[FIN]Ah, that's right.[FIN][CLD][TPL:1B][TPL:B]Your Majesty sent the ring[N]when you and the Queen[N]were driven out by the[N]invaders and separated.[FIN]As for the Queen, she's[N]probably only concerned[N]with how well Your Majesty[N]is doing.[END]`
+widestring_05883E `[TPL:1B][TPL:12]Her Majesty, the Queen,[N]has carefully put on the[N]ring that Your Majesty had[N]bestowed upon her[N]previously.[FIN][CLD][TPL:1B][TPL:8]Ah, that's right.[FIN][TPL:B]Your Majesty sent the ring[N]when you and the Queen[N]were driven out by the[N]invaders and separated.[FIN]As for the Queen, she's[N]probably only concerned[N]with how well Your Majesty[N]is doing.[END]`
 
 ---------------------------------------
 ?INCLUDE 'gs2E_queen'

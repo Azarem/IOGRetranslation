@@ -65,7 +65,7 @@ widestring_05BAC2 `[TPL:20][TPL:B]I was just helping my boy[N]friend take someth
 --------------------------------------
 ?INCLUDE 'fr32_fragrance'
 --------------------------------------
-widestring_05BA1D `[TPL:20][TPL:F]Flowers are becoming the[N]symbol of this town we[N]call Freesia. The town[N]smells wonderful, right?[END]`
+widestring_05BA1D `[TPL:20][TPL:F]Flowers are becoming the[N]symbol of this town we[N]call Freejia. The town[N]smells wonderful, right?[END]`
 
 --------------------------------------
 ?INCLUDE 'fr37_caution'
