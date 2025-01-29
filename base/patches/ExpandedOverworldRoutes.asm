@@ -66,8 +66,8 @@ code_list_03B7EE [
   &code_03BAC5   ;00
   &code_03BAC5   ;01
   &dao_euro_trip
-  &code_03BAA1   ;02
   &code_03BAB1   ;03
+  &code_03BAA1   ;02
 ]
 
 dao_euro_trip {
