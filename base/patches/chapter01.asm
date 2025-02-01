@@ -3,37 +3,32 @@
 ----------------------
 ?INCLUDE 'pr8C_prologue1'
 ----------------------
-charstring_0BD044 ~The world had     [N]entered an age    [N]of exploration.   ~
-charstring_0BD06D ~Discovering       [N]new continents,   [N]people unearthed  [N]relics of ancient [N]civilizations.    ~
+charstring_0BD044 ~The world was in  [N]the midst of the  [N]Age of Discovery. ~
+charstring_0BD06D ~People set foot on[N]new continents,   [N]unearthing the    [N]remains of ancient[N]civilizations.    ~
 
 ----------------------
 ?INCLUDE 'pr8D_prologue2'
 ----------------------
-charstring_0BD0B2 ~As time flowed,   [N]many legends      [N]came to light.    ~
-charstring_0BD0E3 ~A legend rose from[N]each civilization,[N]all connected to  [N]mysterious ruins.~
-charstring_0BD11C ~Various artifacts [N]were excavated    [N]from the ruins.   ~
-charstring_0BD144 ~Among the relics, [N]strange statues   [N]in the shapes of  [N]gods were found.  ~
-charstring_0BD189 ~What role did the [N]gods play in the  [N]lives of ancient  [N]people? The ruins' [N]lips were sealed.  ~
+charstring_0BD0B2 ~As time passed,   [N]their legends     [N]slowly rose from  [N]the darkness.     ~
+charstring_0BD0E3 ~The thread that   [N]bound them all was[N]the presence of   [N]mysterious ruins. ~
+charstring_0BD11C ~Various artifacts [N]were excavated    [N]from their depths.~
+charstring_0BD144 ~Among the relics  [N]found were strange[N]statues thought to[N]represent gods.   ~
+charstring_0BD189 ~What were gods    [N]to the ancients?  [N]The ruins fail    [N]to shed light     [N]on their nature.  ~
 
 ----------------------
 ?INCLUDE 'pr8E_prologue3'
 ----------------------
-charstring_0BD1CA ~People that were[N]possessed by the[N]charms of a lost[N]era went in,[N]becoming only[N]the writings[N]left by the dead.~
-
-;charstring_0BD1CA People consumed  [N]by the mysteries[N]of a bygone era [N]set foot inside,[N]but were never  [N]their lives to  [N]the             ~
+charstring_0BD1CA ~Those who ventured[N]into the ruins in [N]search of the lost[N]age's secrets were[N]never seen again. ~
 
 ----------------------
 ?INCLUDE 'pr8F_prologue4'
 ----------------------
-charstring_0BD222 ~People spoke of[N]traps that[N]protected[N]treasure,[N]and others spoke[N]of curses from[N]the ancient people.~
-
-;charstring_0BD222 ~                [N]                [N]                [N]                [N]                [N]                [N]                ~
+charstring_0BD222 ~Some people spoke [N]of traps placed to[N]protect treasure. [N]                  [N]Others called     [N]it a curse        [N]from the          [N]ancients.         ~
 
 ----------------------
 ?INCLUDE 'pr8C_prologue5'
 ----------------------
-charstring_0BD272 ~However, among[N]those, not one[N]had noticed the[N]tremendous[N]disaster[N]that was coming…~
-;charstring_0BD272 ~However, among[N]those, not one[N]had noticed the[N]tremendous[N]disaster[N]that was coming…~
+charstring_0BD272 ~But none of them  [N]expected that the [N]ruins prophesized [N]the coming of a   [N]terrible disaster.~
 
 ----------------------
 ?INCLUDE 'sc08_priest'
