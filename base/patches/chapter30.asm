@@ -27,11 +27,11 @@ widestring_08A096 `[CLD][TPL:1E][BOR:1][DLG:3,B][SIZ:D,7]We pushed through the[N
 -------------------------------------
 ?INCLUDE 'sE6_gaia'
 -------------------------------------
-widestring_08E540 `[PRT:@widestring_08DE96]Friedan's power,[N]Earthquaker, causes an[N]earthquake.[FIN]The enemies in the area[N]won't able to move for a[N]while.[FIN]`
+widestring_08E540 `[PRT:@widestring_08DE96][NAM:11]'s power,[N]Earthquaker, causes an[N]earthquake.[FIN]The enemies in the area[N]won't able to move for a[N]while.[FIN]`
 
 ;Became able to use the Power of Darkness, Earthquaker!
 
-widestring_08EE8B `Earthquaker is a Power of[N]Darkness that can only be[N]used by Friedan, the[N]Warrior of Darkness.[FIN]This causes an earthquake[N]and enemies are unable to[N]move for a while.[FIN]Thou shouldst try pushing[N]the attack button during a[N]descending leap.`
+widestring_08EE8B `Earthquaker is a Power of[N]Darkness that can only be[N]used by [NAM:11], the[N]Warrior of Darkness.[FIN]This causes an earthquake[N]and enemies are unable to[N]move for a while.[FIN]Thou shouldst try pushing[N]the attack button during a[N]descending leap.`
 
 ;Path to the main shrine
 

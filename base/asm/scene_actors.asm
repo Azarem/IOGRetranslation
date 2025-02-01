@@ -1771,7 +1771,7 @@ event_def_0C9572 [
     actor < #3D, #09, #00, @h_fr32_doomsday >   ;26
     actor < #1C, #1C, #01, @h_jeweler_gem >   ;27
     actor < #12, #1E, #00, @FreejiaDeliveryman >   ;28
-  ], `Flower Capital Freejia ` >   ;00
+  ], `Flower Capital [NAM:12]` >   ;00
 ]
 
 event_def_0C9699 [
@@ -3511,7 +3511,7 @@ event_def_0CBDC4 [
     actor < #29, #23, #00, @h_town_door >   ;37
     actor < #23, #23, #00, @h_town_door >   ;38
     actor < #27, #32, #15, @h_hidden_red_jewel >   ;39
-  ], `Metropolis Euro` >   ;00
+  ], `[NAM:13] Euro` >   ;00
 ]
 
 event_def_0CBF65 [

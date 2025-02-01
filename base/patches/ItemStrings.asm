@@ -24,6 +24,22 @@ name_table_lance [
 name_lance_jp   |Rob|
 name_lance_en   |Lance|
 
+name_table_friar [
+    &name_friar_jp
+    &name_friar_en
+]
+
+name_friar_jp   |Fryer|
+name_friar_en   |Friar|
+
+name_table_freedan [
+    &name_freedan_jp
+    &name_freedan_en
+]
+
+name_freedan_jp   |Friedan|
+name_freedan_en   |Freedan|
+
 --------------------------------------------------------
 ?INCLUDE 'system_strings'
 --------------------------------------------------------
@@ -150,3 +166,12 @@ string_01E5BC |[DBL]Ring hidden[DBL]in Flute.|
 
 string_01E060 |Red Apple |
 string_01E5D3 |[DBL]Apple from[DBL]Euro Market.|
+
+
+string_01E61F |Dark [PTR:@name_table_friar,B24]|
+
+string_01E697 |Dark[N] [PTR:@name_table_friar,B24]|
+
+string_01E7D6 | [PTR:@name_table_will,B24]|
+
+string_01E7DD | [PTR:@name_table_freedan,B24]|

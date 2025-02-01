@@ -53,7 +53,7 @@ skyd_main {
     RTL 
 }
 
-skyd_str_intro    `[TPL:16][TPL:E]I'm the Sky Delivery man.[N]My tame birds can fly you[N]to distant places. [FIN][TPL:F]Where do you want to go?[N][PAL:0] Stay Here[N] Watermia[N] Freejia[PAL:4]`
+skyd_str_intro    `[TPL:16][TPL:E]I'm the Sky Delivery man.[N]My tame birds can fly you[N]to distant places. [FIN][TPL:F]Where do you want to go?[N][PAL:0] Stay Here[N] Watermia[N] [NAM:12][PAL:4]`
 skyd_str_cancel   `[CLR]Alright. Come back if you[N]change your mind.[END]`
 skyd_str_watermia `[CLR]Come here, birds.[N]We're taking this person[N]to Watermia![END]`
-skyd_str_freejia  `[CLR]Come here, birds.[N]We're taking this person[N]to Freejia![END]`
+skyd_str_freejia  `[CLR]Come here, birds.[N]We're taking this person[N]to [NAM:12]![END]`

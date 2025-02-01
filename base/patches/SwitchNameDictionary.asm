@@ -23,6 +23,10 @@ name_dictionary_en [
     &name_mystic_en       ;0D
     &name_statue_en       ;0E
     &name_dark_space_en   ;0F
+    &name_friar_en        ;10
+    &name_freedan_en      ;11
+    &name_freejia_en      ;12
+    &name_euro_en         ;13
 ]
 
 name_will_en          `Will`
@@ -41,7 +45,10 @@ name_imas_en          `Imas`
 name_mystic_en        `Mystic`
 name_statue_en        `Statue`
 name_dark_space_en    `Dark Space`
-
+name_friar_en         `Friar`
+name_freedan_en       `Freedan`
+name_freejia_en       `Freejia`
+name_euro_en          `City of`
 
 ---------------------------------------------
 
@@ -62,6 +69,10 @@ name_dictionary_jp [
     &name_mystic_jp             ;0D
     &name_statue_jp             ;0E
     &name_area_of_darkness_jp   ;0F
+    &name_friar_jp              ;10
+    &name_freedan_jp            ;11
+    &name_freesia_jp            ;12
+    &name_euro_jp               ;13
 ]
 
 name_will_jp                `Tim`
@@ -80,7 +91,10 @@ name_imas_jp                `Ihmuus`
 name_mystic_jp              `Mystery`
 name_statue_jp              `Doll`
 name_area_of_darkness_jp    `Area of Darkness`
-
+name_friar_jp               `Fryer`
+name_freedan_jp             `Friedan`
+name_freesia_jp             `Freesia`
+name_euro_jp                `Metropolis`
 
 ---------------------------------------------
 

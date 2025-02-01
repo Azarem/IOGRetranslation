@@ -109,7 +109,7 @@ widestring_08DE4D `[TPL:17][TPL:F]It seems that you're[N]injured, huh. Come on,[
 
 widestring_08E98A `[PRT:@widestring_08DE96]Thy form is a temporary[N]one. Thou shouldst try[N]standing in front of the[N]statue that is beside me.[FIN]`
 
-widestring_08F157 `[SFX:10][TPL:D]A voice echoed inside of[N][NAM:0]'s head.[FIN][TPL:4][BOR:4][TPL:E]O [NAM:0]. I have long been[N]laying in wait for this[N]time to come.[FIN]My name is Friedan. I am[N]something that exists[N]beyond time.[FIN]From here on, I intend to[N]assist on your journey.[FIN]When the time for me has[N]come, then by nature, you[N]will know it…[FIN][CLD][SFX:10][TPL:D][NAM:0]'s consciousness[N]gradually receded…[END]`
+widestring_08F157 `[SFX:10][TPL:D]A voice echoed inside of[N][NAM:0]'s head.[FIN][TPL:4][BOR:4][TPL:E]O [NAM:0]. I have long been[N]laying in wait for this[N]time to come.[FIN]My name is [NAM:11]. I am[N]something that exists[N]beyond time.[FIN]From here on, I intend to[N]assist on your journey.[FIN]When the time for me has[N]come, then by nature, you[N]will know it…[FIN][CLD][SFX:10][TPL:D][NAM:0]'s consciousness[N]gradually receded…[END]`
 
 -----------------------------
 ?INCLUDE 'ec13_lily'

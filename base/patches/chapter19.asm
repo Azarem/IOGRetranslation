@@ -101,7 +101,7 @@ widestring_03926F `[TPL:F]The stone grew brighter[N]and immediately[N]disappeare
 ------------------------------------
 ?INCLUDE 'sp5A_villagers'
 ------------------------------------
-widestring_068B22 `[TPL:16][TPL:9]You saved me, boy! Thank[N]you…!![FIN][TPL:A]They brought me to this[N]place from Freejia and[N]turned me into a demon…[FIN][CLD][TPL:9][NAM:2] speaks from inside[N]your pocket.[FIN][TPL:2][TPL:A]What…!? So the demons that[N]we were seeing just now[N]were humans…?[END]`
+widestring_068B22 `[TPL:16][TPL:9]You saved me, boy! Thank[N]you…!![FIN][TPL:A]They brought me to this[N]place from [NAM:12] and[N]turned me into a demon…[FIN][CLD][TPL:9][NAM:2] speaks from inside[N]your pocket.[FIN][TPL:2][TPL:A]What…!? So the demons that[N]we were seeing just now[N]were humans…?[END]`
 
 widestring_068BB6 `[TPL:16][TPL:9]I got a taste of what it's[N]like to die just now.[FIN][TPL:A]Having an experience even[N]that close to death is a[N]terrifying thing…[FIN]It isn't your fault[N]because you didn't know[N]what was going on,[FIN]…but I wonder if the[N]animals we eat for food[N]also feel that sensation.[END]`
 

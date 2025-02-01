@@ -211,9 +211,9 @@ widestring_07CE28 `[TPL:1E][TPL:F]That is called the[N]Medicine of Darkness.[N]W
 
 widestring_07CEDD `[CLR]Is that so…[N]Do you not like it?[END]`
 
-widestring_07CE54 `[CLR][TPL:0][TPL:F]It had a scent that[N]irritated your nose…[FIN]However, it seems that[N]Friedan's Power of[N]Darkness grew stronger.[FIN][CLD][TPL:C]Dark Fryer's power rose!![END]`
+widestring_07CE54 `[CLR][TPL:0][TPL:F]It had a scent that[N]irritated your nose…[FIN]However, it seems that[N][NAM:11]'s Power of[N]Darkness grew stronger.[FIN][CLD][TPL:C]Dark [NAM:10]'s power rose!![END]`
 
-widestring_07CEB6 `[CLR]The [LU1:C]Friar's power[N]is strong enough![END]`
+widestring_07CEB6 `[CLR]The [LU1:C][NAM:10]'s power[N]is strong enough![END]`
 ;TODO!!
 
 -------------------------------------

@@ -22,18 +22,18 @@ widestring_039925 `However, nothing happened![END]`
 -------------------------------------
 ?INCLUDE 'jeweler_gem'
 -------------------------------------
-widestring_08D4E3 `[CLR]Whoops, the number of[N]jewels you've collected[N]have passed 30, haven't[N]they…![FIN]Going by the list, I'll[N]give you Dark Power.[FIN]This is a mysterious,[N]otherworldly power that I[N]will award you from my[N]soul.[FIN]You should try pushing the[N]attack button one more[N]time after firing your[N]Dark Fryer.[FIN]`
+widestring_08D4E3 `[CLR]Whoops, the number of[N]jewels you've collected[N]have passed 30, haven't[N]they…![FIN]Going by the list, I'll[N]give you Dark Power.[FIN]This is a mysterious,[N]otherworldly power that I[N]will award you from my[N]soul.[FIN]You should try pushing the[N]attack button one more[N]time after firing your[N]Dark [NAM:10].[FIN]`
 
 widestring_039935 `[TPL:E]Poured the mushroom's[N]droplets at the place[N]where the stalk ends![END]`
 
 -------------------------------------
 ?INCLUDE 'sE6_gaia'
 -------------------------------------
-widestring_08E4A4 `[PRT:@widestring_08DE96]Thou canst make planks of[N]aura revolve around thee[N]by using Friedan's power,[N]Aura Barrier.[FIN]The enemies in the[N]mountain's holy grounds[N]are strong.[FIN]It should be significantly[N]easier to fight using this[N]power.[FIN][RET]`
+widestring_08E4A4 `[PRT:@widestring_08DE96]Thou canst make planks of[N]aura revolve around thee[N]by using [NAM:11]'s power,[N]Aura Barrier.[FIN]The enemies in the[N]mountain's holy grounds[N]are strong.[FIN]It should be significantly[N]easier to fight using this[N]power.[FIN][RET]`
 
 ;It seems you can now use the Power of Darkness, Aura Barrier!
 
-widestring_08EDF2 `Aura Barrier is a Power of[N]Darkness that is only[N]usable by Friedan, the[N]Warrior of Darkness.[FIN]Thou canst create a[N]barrier composed of thy[N]aura around thee with[N]this power.[FIN]Thou shouldst push L and R[N]alternatively while[N]holding the attack button…`
+widestring_08EDF2 `Aura Barrier is a Power of[N]Darkness that is only[N]usable by [NAM:11], the[N]Warrior of Darkness.[FIN]Thou canst create a[N]barrier composed of thy[N]aura around thee with[N]this power.[FIN]Thou shouldst push L and R[N]alternatively while[N]holding the attack button…`
 
 ;Found the Tearpot!
 

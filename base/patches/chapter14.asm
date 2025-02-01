@@ -32,9 +32,9 @@ widestring_05D819 `[TPL:16][TPL:D]Thank you very much. I was[N]buried alive in a
 -----------------------------------------------
 ?INCLUDE 'sE6_gaia'
 -----------------------------------------------
-widestring_08E1EE `[PRT:@widestring_08DE96]Enemies that thy sword[N]cannot reach can be[N]defeated with Friedan's[N]power, Dark Fryer.[FIN]If thou defeat all[N]enemies, the road can[N]always be opened.[FIN][RET]`
+widestring_08E1EE `[PRT:@widestring_08DE96]Enemies that thy sword[N]cannot reach can be[N]defeated with [NAM:11]'s[N]power, Dark [NAM:10].[FIN]If thou defeat all[N]enemies, the road can[N]always be opened.[FIN][RET]`
 
-widestring_08ED6D `Dark Fryer is a Power of[N]Darkness that is only[N]usable by Friedan, the[N]Warrior of Darkness.[FIN]By shooting aura power,[N]thou canst incinerate[N]enemies that are far from[N]thee.[FIN]Thou canst charge up with[N]the attack button…`
+widestring_08ED6D `Dark [NAM:10] is a Power of[N]Darkness that is only[N]usable by [NAM:11], the[N]Warrior of Darkness.[FIN]By shooting aura power,[N]thou canst incinerate[N]enemies that are far from[N]thee.[FIN]Thou canst charge up with[N]the attack button…`
 
 widestring_0AA811 `[TPL:16][TPL:F]There are people who have[N]been put to work even in[N]the depths of the diamond[N]mine.[FIN]Please use this key and[N]save them somehow.[FIN]`
 
