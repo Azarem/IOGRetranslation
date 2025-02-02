@@ -27,6 +27,8 @@ name_dictionary_en [
     &name_freedan_en      ;11
     &name_freejia_en      ;12
     &name_euro_en         ;13
+    &name_rama_en         ;14
+    &name_kruk_en         ;15
 ]
 
 name_will_en          `Will`
@@ -49,6 +51,8 @@ name_friar_en         `Friar`
 name_freedan_en       `Freedan`
 name_freejia_en       `Freejia`
 name_euro_en          `City of`
+name_rama_en          `Rama`
+name_kruk_en          `Kruk`
 
 ---------------------------------------------
 
@@ -73,6 +77,8 @@ name_dictionary_jp [
     &name_freedan_jp            ;11
     &name_freesia_jp            ;12
     &name_euro_jp               ;13
+    &name_ramu_jp               ;14
+    &name_krook_jp              ;15
 ]
 
 name_will_jp                `Tim`
@@ -95,6 +101,8 @@ name_friar_jp               `Fryer`
 name_freedan_jp             `Friedan`
 name_freesia_jp             `Freesia`
 name_euro_jp                `Metropolis`
+name_ramu_jp                `Ra Mu`
+name_krook_jp               `Krook`
 
 ---------------------------------------------
 

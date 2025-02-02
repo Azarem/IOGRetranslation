@@ -268,3 +268,9 @@ widestring_07E10A `[TPL:1][BOR:D][TPL:B]Ann: Why do you keep going[N]back and fo
 
 widestring_07E19D `[TPL:1][TPL:9]Ann: Take good care of[N][NAM:1], alright…?[END]`
 
+-------------------------------------
+?INCLUDE 'eu93_found'
+-------------------------------------
+widestring_07E531 `[DEF]You [LU1:8F]it [LU2:74]I[N][LU1:E9][LU1:FE]wishes.[N][LU1:1F][LU1:97]you the power[N]at once.[END]`
+
+widestring_07E566 `[DEF][LU1:63]go.[END]`

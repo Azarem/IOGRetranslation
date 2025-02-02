@@ -35,7 +35,7 @@ widestring_04D87D `[TPL:23][TPL:F][DLY:0]Flute: I want you to come[N]to help me 
 
 widestring_04D8D2 `[TPL:0][TPL:C][NAM:0]: …What's this?[FIN][TPL:23][TPL:E]Flute: Did you not hear[N]something from Grandpa[N]Bill?[FIN][TPL:0][TPL:E][NAM:0]: My grandpa? He was[N]an architect, right..?[FIN][TPL:23][TPL:E]Flute: Your grandpa, he[N]knew the secret of those[N]stones.[FIN][TPL:0][TPL:E][NAM:0]: The stones'[N]secret…?[FIN][TPL:23][TPL:F]Flute: The situations that[N]you're going to face from[N]now on are going on be[N]a little bit scary.[FIN][CLD][TPL:0][TPL:C][NAM:0]: Scary situations…?[FIN][TPL:23][TPL:D]Flute: Pick up the stones[N]left by the enemies.[FIN]The power of the comet is[N]contained in them.[FIN]That power will definitely[N]be your ally…[FIN][TPL:F]Then, search for puppets[N]called "[NAM:D] [NAM:E]sˮ[N]which are hidden in ruins[N]spread around the world.[FIN]The demons will become[N]more powerful as the comet[N]becomes closer…[FIN][NAM:0]… There's no time…[N]So hurry… First,[N]to the Inca's ruins…[FIN][CLD][TPL:F]Sadly, the flute's voice[N]gradually become quiet[N]until it could no longer[N]be heard.[END]`
 
-widestring_04D4A5 `[TPL:C][LU1:3A]oink[PAU:28][CLD]`
+widestring_04D4A5 `[TPL:C]Squee squee![PAU:28][CLD]`
 
 widestring_04D4B1 `[TPL:0][TPL:A][NAM:0]: If my memory is[N]right, this pig is [NAM:1]'s[N]pet…[FIN]Oh? A letter and key are[N]tied in a bundle at its[N]tail…[FIN][CLD][TPL:9]These were the contents[N]of the letter.[FIN][TPL:1][TPL:9]"It surprised me that you[N]were placed in the prison.[FIN][TPL:A]Father's gotten angry,[N]but he doesn't listen,[N]whatever I say…[FIN]I can't stand being here[N]anymore…[FIN]Tonight, I will escape[N]the castle.[FIN]And from that, you will[N]also be freed…ˮ[FIN]`
 

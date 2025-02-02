@@ -21,7 +21,7 @@ widestring_03897C `[DEF]He fit the block[N][LU1:A1]the tile![END]`
 ---------------------------------------
 ?INCLUDE 'ir26_bones'
 ---------------------------------------
-widestring_09C7AE `[TPL:0][TPL:E]Could this be an explorer[N]seeking the Incan gold[N]ship…?[FIN][CLD][TPL:E]In that skeletonized hand[N]something like an amulet[N]is being grasped.[FIN][TPL:F]Inside, in a weaving with[N]a piece of paper,[N]something like this is[N]written.[FIN][BOR:1][DLG:3,F][SIZ:D,5][SFX:0]Dad, don't die, alright.[N]                      Nana[N]If you find the gold ship,[N]buy a Krook.[N]                    Savvas[END]`
+widestring_09C7AE `[TPL:0][TPL:E]Could this be an explorer[N]seeking the Incan gold[N]ship…?[FIN][CLD][TPL:E]In that skeletonized hand[N]something like an amulet[N]is being grasped.[FIN][TPL:F]Inside, in a weaving with[N]a piece of paper,[N]something like this is[N]written.[FIN][BOR:1][DLG:3,F][SIZ:D,5][SFX:0]Dad, don't die, alright.[N]                      Nana[N]If you find the gold ship,[N]buy a [NAM:15].[N]                    Savvas[END]`
 
 ---------------------------------------
 ?INCLUDE 'ir1D_bones'

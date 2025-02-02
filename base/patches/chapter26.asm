@@ -4,7 +4,7 @@
 -------------------------------------
 ?INCLUDE 'wa79_kara'
 -------------------------------------
-widestring_07A811 `[TPL:1][TPL:A][NAM:1]: That thing that[N]they call is Krook is a[N]weird animal, isn't it…?[END]`
+widestring_07A811 `[TPL:1][TPL:A][NAM:1]: That thing that[N]they call is [NAM:15] is a[N]weird animal, isn't it…?[END]`
 
 -------------------------------------
 ?INCLUDE 'wa79_erik'
@@ -14,7 +14,7 @@ widestring_07A4C8 `[TPL:3][TPL:9][NAM:3]: There's a full moon[N]tonight.[FIN][TP
 -------------------------------------
 ?INCLUDE 'wa79_neil'
 -------------------------------------
-widestring_07A255 `[TPL:6][TPL:A]Neil: A vast desert stands[N]before us if we go to the[N]west from here.[FIN][TPL:B]It isn't possible to cross[N]it on foot. You need to[N]have something like a[N]Krook.[FIN]Now, I wonder how we can[N]get a hold of some[N]Krooks…[END]`
+widestring_07A255 `[TPL:6][TPL:A]Neil: A vast desert stands[N]before us if we go to the[N]west from here.[FIN][TPL:B]It isn't possible to cross[N]it on foot. You need to[N]have something like a[N][NAM:15].[FIN]Now, I wonder how we can[N]get a hold of some[N][NAM:15]s…[END]`
 
 -------------------------------------
 ?INCLUDE 'wa79_lily'
@@ -85,7 +85,7 @@ widestring_079520 `[TPL:1C][TPL:E]Spectator: Put that down[N]and come over here�
 -------------------------------------
 ?INCLUDE 'wa7D_glass_opponent'
 -------------------------------------
-widestring_078E2D `[TPL:1C][TPL:F]Woman: You must be the[N]gentleman who was[N]competing in Russian[N]glass, right?[FIN]My husband said that he[N]said he found a good job[N]so I shouldn't worry;[FIN]I never expected that it[N]would be something like[N]that…[FIN]This is my husband's will.[N]"To my opponentˮ is[N]written on the cover.[N]Please read it.[FIN]With that, there are four[N]Krooks outside of my[N]house; please use them.[END]`
+widestring_078E2D `[TPL:1C][TPL:F]Woman: You must be the[N]gentleman who was[N]competing in Russian[N]glass, right?[FIN]My husband said that he[N]said he found a good job[N]so I shouldn't worry;[FIN]I never expected that it[N]would be something like[N]that…[FIN]This is my husband's will.[N]"To my opponentˮ is[N]written on the cover.[N]Please read it.[FIN]With that, there are four[N][NAM:15]s outside of my[N]house; please use them.[END]`
 
 -------------------------------------
 ?INCLUDE 'wa78_women'
@@ -95,12 +95,12 @@ widestring_078B3B `[TPL:1C][TPL:D]Woman: We don't need money[N]at all…[FIN][TP
 -------------------------------------
 ?INCLUDE 'chunk_038000'
 -------------------------------------
-widestring_039696 `[TPL:D]Gently opened and read[N]the will.[FIN][TPL:24][BOR:1][TPL:E] [N]      To my Opponent[N] [FIN][DLG:3,B][SIZ:D,7]Even when I've died, I[N]want you not to mourn. And[N]I want you to not feel[N]down. I was knocking on[N]heaven's door even if it[N]wasn't Russian glass that[N]killed me.[FIN]When I was diagnosed with[N]an incurable illness half[N]a year ago, I was thinking[N]that I should put all of[N]my effort into earning[N]money until death comes[N]for me.[FIN]I thought that I shouldn't[N]cause problems for my wife[N]and still unseen child[N]after my death, after all.[N]However, the money I[N]earned brought unhappiness[N]to others.[FIN]I think I'll end it this[N]time… If I am defeated in[N]this match, I want to[N]share some of my property[N]with you that has bravery.[N]Please adore my four[N]favourite Krooks.[END]`
+widestring_039696 `[TPL:D]Gently opened and read[N]the will.[FIN][TPL:24][BOR:1][TPL:E] [N]      To my Opponent[N] [FIN][DLG:3,B][SIZ:D,7]Even when I've died, I[N]want you not to mourn. And[N]I want you to not feel[N]down. I was knocking on[N]heaven's door even if it[N]wasn't Russian glass that[N]killed me.[FIN]When I was diagnosed with[N]an incurable illness half[N]a year ago, I was thinking[N]that I should put all of[N]my effort into earning[N]money until death comes[N]for me.[FIN]I thought that I shouldn't[N]cause problems for my wife[N]and still unseen child[N]after my death, after all.[N]However, the money I[N]earned brought unhappiness[N]to others.[FIN]I think I'll end it this[N]time… If I am defeated in[N]this match, I want to[N]share some of my property[N]with you that has bravery.[N]Please adore my four[N]favourite [NAM:15]s.[END]`
 
 -------------------------------------
 ?INCLUDE 'wa78_prize_kruk'
 -------------------------------------
-widestring_079B30 `[TPL:0][TPL:E]I guess these are the[N]Krooks that were supposed[N]to be given…[FIN]I should let everyone know[N]right away.[END]`
+widestring_079B30 `[TPL:0][TPL:E]I guess these are the[N][NAM:15]s that were supposed[N]to be given…[FIN]I should let everyone know[N]right away.[END]`
 
 widestring_07A833 `[TPL:1][TPL:A][NAM:1]: They say Neil[N]wasn't born in any old[N]house.[FIN]His family runs a trading[N]company from their mansion[N]in the town of Euro.[END]`
 
@@ -110,7 +110,7 @@ widestring_07ADEA `[TPL:4][TPL:A][NAM:4]: It's my bad fer[N]everything, but I'm[
 
 widestring_07AA5E `[TPL:2][TPL:9][NAM:2]: I'm also remaining[N]in this town.[FIN]As for the reason…[N]Well, ask [NAM:4].[END]`
 
-widestring_07A2BE `[TPL:6][TPL:A][LU1:36][N]You got Kruks? [LU1:5D][N]so expensive . .? [FIN]Why [LU1:CE]a sad face? [N][LU1:30]I [LU2:A8]ask [N][LU1:F7]the reason is. [FIN]I [LU1:DA]we [N][LU1:CA]go west, [N]to Euro... [FIN]Lance and [LU1:2C][LU1:F1][N]to stay [LU2:74]You [N][LU1:CA]ask [LU1:E6]why. [END]`
+widestring_07A2BE `[TPL:6][TPL:A][LU1:36][N]You got [NAM:15]s? [LU1:5D][N]so expensive . .? [FIN]Why [LU1:CE]a sad face? [N][LU1:30]I [LU2:A8]ask [N][LU1:F7]the reason is. [FIN]I [LU1:DA]we [N][LU1:CA]go west, [N]to Euro... [FIN]Lance and [LU1:2C][LU1:F1][N]to stay [LU2:74]You [N][LU1:CA]ask [LU1:E6]why. [END]`
 ;TODO!!
 
 widestring_07A366 `[TPL:6][TPL:12]Neil: I think that the[N]moment where a boy and a[N]girl develop feelings for[N]each other is wonderful[N]and magical.[FIN][CLD][TPL:6][TPL:A]I want to believe that[N]we'll never forget this[N]feeling.[FIN]Anyway. My parents' house[N]is in Euro, isn't it?[FIN]I think we'll familiarize[N]ourselves with [NAM:0]'s power[N]somehow if we go there.[FIN]Alright, let's head out to[N]Euro…!![END]`

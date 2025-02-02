@@ -29,14 +29,14 @@ widestring_03930B `[TPL:E]An eerie voice could be[N]heard descending from[N]some
 ----------------------------------------------
 ?INCLUDE 'mu63_spirits'
 ----------------------------------------------
-widestring_069BAA `[TPL:17][TPL:8]O god of the sun… O Ra Mu…[FIN][TPL:9]Bestow your power upon the[N]great ocean…[END]`
+widestring_069BAA `[TPL:17][TPL:8]O god of the sun… O [NAM:14]…[FIN][TPL:9]Bestow your power upon the[N]great ocean…[END]`
 
 widestring_0685D3 `[TPL:2][TPL:E][NAM:2]: Ah…! The water[N]level's been reduced from[N]what it was just now…![FIN]We can now descend to a[N]lower level from[N]somewhere, can't we…!?[END]`
 
 ----------------------------------------------
 ?INCLUDE 'sE6_gaia'
 ----------------------------------------------
-widestring_08E2F8 `[PRT:@widestring_08DE96]When thou began thy[N]journey, the Mu continent[N]surfaced to the sea level.[FIN]However, seawater has[N]still accumulated on many[N]sections of the continent.[FIN]When all of this water has[N]been removed,[FIN]thou wilt probably arrive[N]at the place where the Mu[N]continent's king, Ra Mu,[N]sleeps.[FIN]`
+widestring_08E2F8 `[PRT:@widestring_08DE96]When thou began thy[N]journey, the Mu continent[N]surfaced to the sea level.[FIN]However, seawater has[N]still accumulated on many[N]sections of the continent.[FIN]When all of this water has[N]been removed,[FIN]thou wilt probably arrive[N]at the place where the Mu[N]continent's king, [NAM:14],[N]sleeps.[FIN]`
 
 widestring_08E3A7 `[PRT:@widestring_08DE96]With [NAM:0]'s power, Psycho[N]Slider, thou canst lower[N]thyself and pass through[N]narrow passages.[FIN]Thou shouldst pay[N]attention so not to[N]overlook crevices that[N]thou wouldst pass by.[FIN][RET]`
 
@@ -50,7 +50,7 @@ widestring_069CB7 `[TPL:0][TPL:9]It looks like this was the[N]cemetery for Mu's 
 ----------------------------------------------
 ?INCLUDE 'mu66_rama_spirits'
 ----------------------------------------------
-widestring_069F45 `[TPL:17][TPL:D]I am the king of the[N]continent of Mu, Ra Mu.[FIN][TPL:F]Though I lost my corporeal[N]body in the distant past,[N]my spirit continues to[N]live on.[FIN]Alright, strain your eyes[N]well. The wandering souls[N]should be visible.[END]`
+widestring_069F45 `[TPL:17][TPL:D]I am the king of the[N]continent of Mu, [NAM:14].[FIN][TPL:F]Though I lost my corporeal[N]body in the distant past,[N]my spirit continues to[N]live on.[FIN]Alright, strain your eyes[N]well. The wandering souls[N]should be visible.[END]`
 
 widestring_069FBE `[TPL:17][TPL:F]You should listen to the[N]words of the souls that[N]have awakened from their[N]sleep.[END]`
 
@@ -112,5 +112,5 @@ widestring_06AA89 `[TPL:6][TPL:A]Neil: Oh? [NAM:0]'s turned[N]out to be very man
 ----------------------------------------------
 ?INCLUDE 'mu67_kara'
 ----------------------------------------------
-widestring_06A894 `[TPL:1][TPL:9][NAM:1]: Who cares about[N]that![FIN][TPL:A]More importantly, let's[N]think how to get off of[N]the continent of Mu…![FIN][TPL:2][TPL:A][NAM:2]: You don't have to[N]worry about that.[FIN][TPL:B]We heard something good[N]from someone just now;[N]they were named Ra Mu or[N]something like that.[FIN][CLD][TPL:12][NAM:0] told everyone about[N]the continent of Mu, the[N]people who crossed over[N]through the undersea[N]tunnel, and so on…[FIN][CLD][TPL:1][TPL:9][NAM:1]: It's a sad story,[N]isn't it…?[FIN][TPL:A]The people who were living[N]here together were[N]scattered,[FIN][TPL:B]and even more so when once[N]they arrive at the other[N]side on the bottom of the[N]sea…[FIN][TPL:6][TPL:B]Neil: Anyway, if we pass[N]through that undersea[N]tunnel, then we should be[N]able to get out, right?[FIN][TPL:4][TPL:B][NAM:4]: Alright…! If we've[N]decided on that, let's go[N]immediately…![END]`
+widestring_06A894 `[TPL:1][TPL:9][NAM:1]: Who cares about[N]that![FIN][TPL:A]More importantly, let's[N]think how to get off of[N]the continent of Mu…![FIN][TPL:2][TPL:A][NAM:2]: You don't have to[N]worry about that.[FIN][TPL:B]We heard something good[N]from someone just now;[N]they were named [NAM:14] or[N]something like that.[FIN][CLD][TPL:12][NAM:0] told everyone about[N]the continent of Mu, the[N]people who crossed over[N]through the undersea[N]tunnel, and so on…[FIN][CLD][TPL:1][TPL:9][NAM:1]: It's a sad story,[N]isn't it…?[FIN][TPL:A]The people who were living[N]here together were[N]scattered,[FIN][TPL:B]and even more so when once[N]they arrive at the other[N]side on the bottom of the[N]sea…[FIN][TPL:6][TPL:B]Neil: Anyway, if we pass[N]through that undersea[N]tunnel, then we should be[N]able to get out, right?[FIN][TPL:4][TPL:B][NAM:4]: Alright…! If we've[N]decided on that, let's go[N]immediately…![END]`
 

@@ -82,7 +82,7 @@ widestring_08BA5A `[TPL:4][TPL:9]Alright, that's good. Stay[N]still just like th
 
 widestring_08BA7D `[TPL:4][TPL:B][DLY:0]Black Panther: You, sir,[N]have been showing me[N]everything you've done[N]from start to finish.[FIN]I hear that you have[N]biotechnology from[N]millennia ago that uses[N]the light of the comet…[FIN]You're something[N]unbelievable, aren't you?[FIN]You could get whatever you[N]wanted if you had that[N]shapeshifting power.[FIN]Humans would kneel before[N]you.[FIN]Even if King Edward[N]started to act out of[N]desperation, it's not[N]without reason…[FIN][CLD][TPL:1][TPL:9][DLY:0][NAM:1]: Father's behind[N]this?![FIN][TPL:4][TPL:A]Black Panther: That's[N]right! It's the king[N]behind it in the end.[FIN]He'll use any means[N]necessary to gain power.[FIN]Maybe he's even crueler[N]than an assassin like me.[N]Mweheheh.[FIN][TPL:1][TPL:A][NAM:1]: Stop it…! Don't say[N]that kind of thing!![FIN][TPL:4][TPL:A]Black Panther: Well,[N]whatever he does, I'm fine[N]as long as I get paid.[FIN]Now, if you'll come to[N]Edward Castle with me.[END]`
 
-widestring_08BC55 `[SFX:10][TPL:9]A voice whispers in [NAM:0]'s[N]head…[FIN][TPL:23][TPL:9][DLY:0][NAM:0]… Play the flute…[N][NAM:0]…[END]`
+widestring_08BC55 `[SFX:10][TPL:9]A voice whispers in [NAM:0]'s[N]head…[FIN][TPL:17][TPL:9][DLY:0][NAM:0]… Play the flute…[N][NAM:0]…[END]`
 
 widestring_08BCBC `[TPL:4][TPL:B]Black Panther: If you go[N]any further than that,[N]this knife here is going[N]to move…[END]`
 

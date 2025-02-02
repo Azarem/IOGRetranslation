@@ -106,7 +106,7 @@ widestring_0789C7 `[TPL:1C][TPL:F]Water doesn't remain in[N]one place. It beauti
 
 widestring_07876E `[TPL:1C][TPL:E]This lotus leaf is over[N]capacity. Get another if[N]you want to ride one.[END]`
 
-widestring_078607 `[TPL:1C][TPL:D]Man: This animal is[N]called a Krook.[FIN][TPL:10]It's perfect for crossing[N]the desert because it can[N]survive for a long time[N]without drinking or[N]eating.[END]`
+widestring_078607 `[TPL:1C][TPL:D]Man: This animal is[N]called a [NAM:15].[FIN][TPL:10]It's perfect for crossing[N]the desert because it can[N]survive for a long time[N]without drinking or[N]eating.[END]`
 
 widestring_078674 `[TPL:1C][TPL:D]Man: This is a gambling[N]house.[FIN][TPL:10]I guess you must be really[N]trouble for money if[N]you're coming to a place[N]like this even though[N]you're a child…[END]`
 
