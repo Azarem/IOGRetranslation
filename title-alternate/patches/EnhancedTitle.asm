@@ -12,7 +12,7 @@
 ------------------------------------------------
 string_01DA47 |[NHM:4][CUR:50,4]PUSH█START█BUTTON|
 ;string_01DA5E |[NHM:4][CUR:55,3]RETRANSLATED|
-string_01DA5E |[NHM:0][CUR:9C,3]RETRANSLATED[NHM:0][CUR:48,6](C)█1994██QUINTET/ENIX[CUR:C8,6]MARIKO█OHARA/MOTO█HAGIO|
+string_01DA5E |[NHM:0][CUR:9C,3]RETRANSLATED[NHM:0][CUR:08,6](C)█1994██QUINTET/ENIX[CUR:48,6]MARIKO█OHARA/MOTO█HAGIO[CUR:8E,6]YASUHIRO█KAWASAKI|
 
 ------------------------------------------------
 ?INCLUDE 'scene_meta'
@@ -40,7 +40,7 @@ thinker_0CEB2F [
   thinker < #00, @thinker_00BCDF >
   thinker < #00, @thinker_00BCB3 >
   thinker < #24, @parallax_thinker >
-  thinker < #00, @thinker_00BC91 >
+  ;thinker < #00, @thinker_00BC91 >
 ]
 
 ------------------------------------------------

@@ -12,7 +12,7 @@
 ------------------------------------------------
 string_01DA47 |[NHM:4][CUR:50,4]PUSH█START█BUTTON|
 ;string_01DA5E |[NHM:4][CUR:55,3]RETRANSLATED|
-string_01DA5E |[NHM:0][CUR:9C,3]RETRANSLATED[NHM:0][CUR:48,6](C)█1994██QUINTET/ENIX[CUR:C8,6]MARIKO█OHARA/MOTO█HAGIO|
+string_01DA5E |[NHM:0][CUR:9C,3]RETRANSLATED[NHM:0][CUR:08,6](C)█1994██QUINTET/ENIX[CUR:48,6]MARIKO█OHARA/MOTO█HAGIO[CUR:8E,6]YASUHIRO█KAWASAKI|
 
 ------------------------------------------------
 ?INCLUDE 'scene_meta'
@@ -40,7 +40,7 @@ thinker_0CEB2F [
   thinker < #00, @thinker_00BCDF >
   thinker < #00, @thinker_00BCB3 >
   thinker < #24, @parallax_thinker >
-  thinker < #00, @thinker_00BC91 >
+  ;thinker < #00, @thinker_00BC91 >
 ]
 
 ------------------------------------------------
@@ -178,53 +178,6 @@ title_thinker {
 
 e_sFC_actor_0BC9AE {
     BRA e_sFC_actor_0BC9BD
-}
-
-
-------------------------------------------------
-?INCLUDE 'chunk_03BAE1'
-------------------------------------------------
-;Load special sprite asset for title scene
-
-func_03DFF8 {
-    PHP 
-    LDA $scene_current
-    CMP #$F7
-    BEQ code_03E04E
-    CMP #$FC
-    BEQ load_fc_asset
-    CMP #$FE
-    BEQ code_03E04E
-    CMP #$8C
-    BEQ code_03E04E
-    LDX #$4200
-    STX $VMADDL
-    LDX #$&bmp_000000
-    LDA #$^bmp_000000
-    LDY #$1C00
-    JSL $@func_0283A2
-    LDA $player_flags
-    BIT #$08
-    BEQ code_03E035
-    LDX #$4400
-    STX $VMADDL
-    LDX #$&misc_fx_1CD580
-    LDA #$^misc_fx_1CD580
-    LDY #$0800
-    JSL $@func_0283A2
-    PLP 
-    RTL 
-}
-
-load_fc_asset {
-    LDX #$4200
-    STX $VMADDL
-    LDX #$&gfx_title_exprite+2
-    LDA #$^gfx_title_exprite
-    LDY #$1C00
-    JSL $@func_0283A2
-    PLP 
-    RTL
 }
 
 ------------------------------------------------
