@@ -3075,7 +3075,7 @@ event_def_0CB41F [
     actor < #0F, #16, #00, @h_wa78_flower >   ;2C
     actor < #35, #0B, #00, @h_wa78_diary >   ;2D
     actor < #12, #38, #11, @h_hidden_red_jewel >
-    actor < #14, #23, #07, @h_wa78_men >   ;2E
+    actor < #14, #23, #00, @WatermiaDeliveryman >   ;2E
   ], `Floating City Watermia` >   ;00
 ]
 

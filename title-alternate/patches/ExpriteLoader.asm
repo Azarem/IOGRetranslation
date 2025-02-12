@@ -18,17 +18,6 @@ load_boot_exprite {
     RTL
 }
 
-load_title_exprite {
-    LDX #$4200
-    STX $VMADDL
-    LDX #$&gfx_title_exprite+2
-    LDA #$^gfx_title_exprite
-    LDY #$1C00
-    JSL $@func_0283A2
-    PLP 
-    RTL
-}
-
 load_skyd_exprite {
     LDX #$4200
     STX $VMADDL
@@ -52,8 +41,6 @@ func_03DFF8 {
     BEQ code_03E04E
     CMP #$FB
     BEQ load_fb_asset
-    CMP #$FC
-    BEQ load_fc_asset
     CMP #$FE
     BEQ code_03E04E
     CMP #$8C
@@ -91,6 +78,4 @@ load_fb_asset {
     JML load_boot_exprite
 }
 
-load_fc_asset {
-    JML load_title_exprite
 }
