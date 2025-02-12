@@ -2,9 +2,7 @@
 
 
 --------------------------------------------
-
-h_actor < #0A, #00, #10 >
-
+h_actor < #42, #00, #10 >
 --------------------------------------------
 
 skyd_main {
@@ -57,3 +55,24 @@ skyd_str_intro    `[TPL:16][TPL:E]I'm the Sky Delivery man.[N]My tame birds can 
 skyd_str_cancel   `[CLR]Alright. Come back if you[N]change your mind.[END]`
 skyd_str_watermia `[CLR]Come here, birds.[N]We're taking this person[N]to Watermia![END]`
 skyd_str_freejia  `[CLR]Come here, birds.[N]We're taking this person[N]to [NAM:12]![END]`
+
+-----------------------------------------------
+?INCLUDE 'scene_meta'
+-----------------------------------------------
+
+entry_01 [
+  ppu < #03 >   ;00
+  music < #1C, #00, @bgm_lively_city_by_the_sea >   ;01
+  bitmap < #00, #10, #00, @gfx_sc01_ext_main, #00 >   ;02
+  bitmap < #00, #10, #10, @gfx_sc01_ext_effect, #00 >   ;03
+  palette < #00, #70, #10, @palette_1E2C33 >   ;04
+  tileset < #00, #20, #00, #01, @set_sc01_ext >   ;05
+  tileset < #00, #20, #00, #02, @set_sc01_effect_misc >   ;06
+  tilemap < #01, @map_sc01_main >   ;07
+  tilemap < #02, @map_sc01_effect >   ;08
+  label < #3E >   ;09
+  bitmap < #00, #10, #10, @gfx_sc01_actors, #01 >   ;0A
+  palette < #20, #80, #A0, @pal_sc01_actors >   ;0B
+  spritemap < #$18B5, #00, @spm_sc01_actors >   ;0C
+]
+
