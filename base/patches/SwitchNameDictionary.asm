@@ -199,7 +199,7 @@ code_02A1A7 {
     PHB
     PHY
 
-    LDA $0B42
+    LDA $0B24
     BNE do_en_size
 
     LDA #$^name_dictionary_jp
