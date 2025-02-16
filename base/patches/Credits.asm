@@ -1,7 +1,5 @@
 ?BANK 09
 
-;Total timing target : 4C3D
-
 !joypad_mask_std                065A
 !BG3SC                          2109
 !W12SEL                         2123
@@ -12,9 +10,11 @@
 !COLDATA                        2132
 
 ext_credits_0  `[PAL:0][DLG:4C,1]   Retranslation[N][N]      Credits[END]`
-ext_credits_1  `[PAL:0][DLG:4C,1] Base Translation[N][N][PAL:8]     L. Thammy[END]`
-ext_credits_2  `[PAL:0][DLG:4C,1]      Sprites[N][N][PAL:8]     Azure Mage[END]`
+ext_credits_1  `[PAL:0][DLG:4C,1]   Tools and ASM[N][N][PAL:8]      Kassiven[END]`
+ext_credits_2  `[PAL:0][DLG:4C,1] Base Translation[N][N][PAL:8]     L. Thammy[END]`
 ext_credits_3  `[PAL:0][DLG:4C,1]     Revisions[N][N][PAL:8]  ViewtifulSlayer[END]`
+ext_credits_4  `[PAL:0][DLG:4C,1]      Graphics[N][N][PAL:8]     Azure Mage[END]`
+ext_credits_5  `[PAL:0][DLG:4C,1] GaiaLabs Boot Logo[N][N][PAL:8]     andwhyisit[END]`
 
 ----------------------------------------------
 ?INCLUDE 'sF7_credits'
@@ -151,6 +151,14 @@ code_09E9D8 {
     STA $26
     COP [C8] ( &code_09EB64 )
     COP [DA] ( #4A )
+    LDA #$&ext_credits_4
+    STA $26
+    COP [C8] ( &code_09EB64 )
+    COP [DA] ( #4A )
+    LDA #$&ext_credits_5
+    STA $26
+    COP [C8] ( &code_09EB64 )
+    COP [DA] ( #4A )
     LDA #$&credits_09F2FA
     STA $26
     COP [C8] ( &code_09EB64 )
@@ -178,7 +186,7 @@ code_09E9D8 {
 
 code_09EBDB {
     COP [CB]
-    COP [DB] ( #$0205 )
+    COP [DB] ( #$01C5 )
     SEP #$20
     LDA #$7A
     STA $BG3SC
