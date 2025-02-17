@@ -17,6 +17,7 @@ overworld_names [
   map_name < #32, &charstring_03B2BD, &charstring_03B2C5 >   ;09
   map_name < #39, &charstring_03B2BD, &charstring_03B2C5 >   ;0A
   map_name < #3E, &charstring_03B2CD, &charstring_03B2CD >   ;0B
+  map_name < #47, &charstring_03B2CD, &charstring_03B2CD >   ;0B
   map_name < #49, &charstring_03B2DA, &charstring_03B2DA >   ;0C
   map_name < #4B, &charstring_03B2E9, &charstring_03B2E9 >   ;0D
   map_name < #67, &charstring_03B2F8, &charstring_03B2F8 >   ;0E
