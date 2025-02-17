@@ -48,6 +48,14 @@ name_table_rama [
 name_rama_jp   |Ra Mu|
 name_rama_en   |Rama|
 
+name_table_lilly [
+    &name_lilly_jp
+    &name_lilly_en
+]
+
+name_lilly_jp   |Lillie|
+name_lilly_en   |Lilly|
+
 --------------------------------------------------------
 ?INCLUDE 'system_strings'
 --------------------------------------------------------
@@ -143,7 +151,7 @@ string_01E3E1 |[DBL]Letter from [PTR:@name_table_lance,B24][DBL]addressed to [PT
 
 string_01DC5C |Necklace [N] Stones|
 string_01DF92 |Necklace Stones|
-string_01E3F3 |[DBL]Pendant that [PTR:@name_table_lance,B24][DBL]made for Lillie.|
+string_01E3F3 |[DBL]Pendant that [PTR:@name_table_lance,B24][DBL]made for [PTR:@name_table_lilly,B24].|
 
 string_01DC6E |Will|
 string_01DFA2 |Will|

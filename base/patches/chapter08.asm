@@ -68,9 +68,9 @@ widestring_09CAE5 `[TPL:2][TPL:E][NAM:2]: Here is the[N]entrance of the Incan[N]
 ------------------------------
 ?INCLUDE 'ir1C_kara'
 ------------------------------
-widestring_09CF19 `[TPL:1][TPL:A][NAM:1]: Isn't it awful?![N]Ditching me until[N]somewhere![END]`
+widestring_09CF19 `[TPL:1][TPL:A][NAM:1]: You two are awful,[N]leaving me behind like[N]that![END]`
 
-widestring_09CCD0 `[TPL:2][TPL:A][NAM:2]: Why are YOU in[N]this kind of place…![N]Isn't it dangerous!?[FIN][TPL:1][TPL:A][NAM:1]: I head about this[N]place from Ms. [NAM:6] and[N]waited for hours…![FIN]Still, I thought you had[N]left me behind and went on[N]ahead.[FIN]At least I had been told[N]roughly where you were[N]going![FIN]With that, [NAM:0], you're[N]searching for something[N]in the ruins, right?[FIN][TPL:B]With [NAM:0] doing his best,[N]I can't be the only one[N]leisurely eating meals and[N]the like at the village.[FIN]I'm waiting here for [NAM:0][N]to come back.[FIN][TPL:2][TPL:B][NAM:2]: Good grief.[N]This little lady…[FIN]I understand. I'll also[N]wait along with you.[N]That's okay, right?[END]`
+widestring_09CCD0 `[TPL:2][TPL:A][NAM:2]: Why are YOU in[N]this kind of place…![N]Isn't it dangerous!?[FIN][TPL:1][TPL:A][NAM:1]: I heard about this[N]place from Ms. [NAM:6] and[N]waited for hours…![FIN]Still, I thought you had[N]left me behind and went on[N]ahead.[FIN]At least I had been told[N]roughly where you were[N]going![FIN]With that, [NAM:0], you're[N]searching for something[N]in the ruins, right?[FIN][TPL:B]With [NAM:0] doing his best,[N]I can't be the only one[N]leisurely eating meals and[N]the like at the village.[FIN]I'm waiting here for [NAM:0][N]to come back.[FIN][TPL:2][TPL:B][NAM:2]: Good grief.[N]This little lady…[FIN]I understand. I'll also[N]wait along with you.[N]That's okay, right?[END]`
 
 widestring_09CE01 `[TPL:2][TPL:9][NAM:2]: [NAM:0]. Remember the[N]elder's words well.[FIN][TPL:12]"In the cliff of Larai in[N]the ruin's underground,[N]offer the Incan god to the[N]place where the god's[N]breath cannot reach.[FIN][CLD][TPL:2][TPL:B]The wind in the valley[N]shall guide that person to[N]the origin of the gold[N]shipˮ is the words,[FIN]Have you diligently[N]memorized it?[END]`
 

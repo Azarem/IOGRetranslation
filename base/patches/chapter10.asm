@@ -73,9 +73,9 @@ widestring_0584BC `[TPL:1B][TPL:E]Lookout: King, please look[N]outside. The ship
 
 widestring_0584FB `[TPL:1B][TPL:E]Lookout: We've been living[N]in darkness for a long[N]time.[FIN]For us, the light of the[N]gods is in the brightness[N]of this ocean.[FIN]Although these kinds of[N]beautiful things are in[N]the world,[FIN]I wonder why invaders are[N]born who destroy nature?[END]`
 
-widestring_058759 `[TPL:1B][TPL:F]I'm sorry we only have a[N]sketchy bed like this this[N]to offer; please, take[N]your time and rest.[END]`
+widestring_058759 `[TPL:1B][TPL:B]I'm sorry we only have a[N]humble bed like this this[N]to offer; please, take[N]your time and rest.[END]`
 
-widestring_0586CC `[TPL:0][TPL:F][NAM:0]: In a ferocious state[N]of drowsiness, I had been[N]lured into a deep, deep[N]dream.[END]`
+widestring_0586CC `[TPL:0][TPL:F][NAM:0]: In an intense state[N]of drowsiness, I had been[N]lured into a deep, deep[N]dream.[END]`
 
 ---------------------------------------
 ?INCLUDE 'gs2A_shira'

@@ -61,7 +61,7 @@ widestring_04A746 `[TPL:0][TPL:A][NAM:0]: Wah…! What in the…[N]Why does it l
 
 widestring_04A766 `[TPL:1][TPL:A][NAM:1]: This is awful…![N]Who could have done[N]something like this…[FIN][TPL:0][TPL:A][NAM:0]: What about Grandma[N]and Grandpa!?[END]`
 
-widestring_04A7A8 `[TPL:1][TPL:8][NAM:1]: Mr. Biiill…![FIN][TPL:0][TPL:8][NAM:0]: Grandma [NAM:4]![FIN][TPL:1][TPL:A][NAM:1]: I'll just quickly[N]look on the second[N]floor…![END]`
+widestring_04A7A8 `[TPL:1][TPL:8][NAM:1]: Mr. Biiill…![FIN][TPL:0][TPL:8][NAM:0]: Grandma [NAM:6]![FIN][TPL:1][TPL:A][NAM:1]: I'll just quickly[N]look on the second[N]floor…![END]`
 
 widestring_04A7E1 `[TPL:1][TPL:F][NAM:1]: Eeeeeeek…!![N]Come here! Help! [NAM:0]![N]It's, it's a disaster,[N]a disaster![END]`
 

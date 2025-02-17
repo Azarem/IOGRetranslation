@@ -198,3 +198,7 @@ widestring_04941D `[TPL:4][TPL:A]Bill: Ah, welcome home.[N]There's plenty of day
 ------------------------
 widestring_0491ED `[TPL:16][TPL:B]Well, that's a good[N]smell. There's no stove[N]in my home, so I cook[N]in this pot.[END]`
 
+------------------------
+?INCLUDE 'hidden_red_jewel'
+------------------------
+widestring_00C6A6 `[TPL:C][SFX:10]You found a Red Jewel![END]`

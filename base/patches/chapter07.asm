@@ -132,9 +132,9 @@ code_04E609 {
     COP [BE] ( #02, #02, &code_list_04E613 )
 }
 
-widestring_04E6E6 `[TPL:2][TPL:9][NAM:2]: Huh? The Race of[N]the Moon?[FIN][TPL:B]Yeah, I know them. They're[N]mysterious lifeforms that[N]better resemble shadows[N]rather than a race.[FIN]They dwell on the summit[N]of a tall, tall mountain[N]nearby, but…[FIN]…do you want to try[N]going there?[N][PAL:0] Yeah, I want to go[N] Actually, nevermind`
+widestring_04E6E6 `[TPL:2][TPL:9][NAM:2]: Huh? The Race of[N]the Moon?[FIN][TPL:B]Yeah, I know them. They're[N]mysterious lifeforms that[N]better resemble shadows[N]rather than a race.[FIN]They dwell on the summit[N]of a tall, tall mountain[N]nearby, but…[FIN]…do you want to try[N]going there?[N][PAL:0] Yeah, I want to go[N] Actually, nevermind[PAL:4]`
 
-widestring_04E78B `[CLR][TPL:2][LU1:2A]If you[N][LU2:84]him mad, you'll[N][LU2:81][LU1:FE]life,[N]so you'd [LU2:50]stop it.[PAL:0][END]`
+widestring_04E78B `[CLR][NAM:2]: I've heard stories[N]of people who have angered[N]them and lost their lives,[N]so we'd better be careful.[END]`
 ;TODO!!
 
 widestring_04E778 `[CLD][TPL:2][TPL:9][NAM:2]: I understand.[N]Well, I'll guide you.[END]`
