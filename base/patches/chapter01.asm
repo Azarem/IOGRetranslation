@@ -33,15 +33,9 @@ charstring_0BD272 ~But none of them  [N]expected that the [N]ruins prophesized [
 ----------------------
 ?INCLUDE 'sc08_priest'
 ----------------------
-widestring_048AE9 `[TPL:0][TPL:8][DLY:0]My name is [NAM:0].[FIN][TPL:B]Exactly one year has[N]passed since I went on an[N]expedition to the Tower[N]of Babel with my dad.[FIN]Of the members of his[N]team, only I was able[N]to survive and safely[N]return to this town…[FIN]I still can't believe[N]that dad died or anything[N]like that. I don't think[N]I'll ever believe it…[FIN]When I grow up, I'm going[N]to become an explorer like[N]him and travel around[N]the world.[FIN]Because when that happens,[N]I believe that somewhere,[N]I'll find my dad…[END]`
+widestring_048AE9 `[TPL:0][TPL:8][DLY:0]My name is [NAM:0].[FIN][TPL:B]Today marks exactly one[N]year since I joined my[N]dad on an expedition to[N]the Tower of Babel.[FIN]When disaster befell his[N]team, I was the only one[N]who was able to get back[N]home to South Cape…[FIN]When I grow up, I'm going[N]to become an explorer,[N]just like him, and travel[N]around the world.[FIN][CLD][TPL:0][TPL:A][DLY:0]When that happens, I have[N]a hunch that somewhere,[N]I'll meet my dad again…[END]`
 widestring_048C01 `[TPL:16][TPL:D]Priest: Today's lesson[N]ends here.[FIN][TPL:F]The four of you do your[N]best so that you won't[N]have to stay behind after[N]classes next time.[FIN]Furthermore, creatures[N]resembling monsters have[N]recently been spotted[N]outside of town.[FIN]When you leave, please[N]be sure to have a parent[N]accompany you.[END]`
 widestring_048C98 `[TPL:16][TPL:D]Ah, [NAM:0].[N]Please pray with me.[FIN][TPL:E]O God…[N]May the world continue to[N]shine to eternity…[END]`
-
-;----------------------
-;?INCLUDE 'sc08_priest_return'
-;----------------------
-
-;widestring_?????? `[TPL:0][TPL:]
 
 ----------------------
 ?INCLUDE 'sc08_erik'
