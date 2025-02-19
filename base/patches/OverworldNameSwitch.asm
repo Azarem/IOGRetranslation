@@ -103,7 +103,7 @@ charstring_03B38D ~Natives' Village~
 
 charstring_03B39E ~Natives' Village~
 
-charstring_03B3AF ~Ankor Wat~
+charstring_03B3AF ~Angkor Wat~
 
 charstring_03B3B9 ~Desert Village Dao~
 
