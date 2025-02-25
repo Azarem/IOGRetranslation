@@ -3,33 +3,27 @@
 !player_flags                   09AE
 !VMADDL                         2116
 
-------------------------------------------------
-?INCLUDE 'chunk_028000'
-------------------------------------------------
-
-load_boot_exprite {
-    LDX #$4200
-    STX $VMADDL
-    LDX #$&gfx_boot_exprite+2
-    LDA #$^gfx_boot_exprite
-    LDY #$1C00
-    JSL $@func_0283A2
-    PLP 
-    RTL
-}
-
-load_skyd_exprite {
-    LDX #$4200
-    STX $VMADDL
+  load_skyd_exprite:
     LDX #$&gfx_sky_delivery_exprite+2
     LDA #$^gfx_sky_delivery_exprite
+    LDY #$4200
+    STY $VMADDL
     LDY #$1C00
     JSL $@func_0283A2
-    PLP 
+    JML code_03E04E
+    
+  load_boot_exprite:
+    LDX #$&gfx_boot_exprite+2
+    LDA #$^gfx_boot_exprite
+    LDY #$4200
+    STY $VMADDL
+    LDY #$1C00
+    JSL $@func_0283A2
+    PLP
     RTL
-}
 
 ------------------------------------------------
+?INCLUDE 'chunk_028000'
 ?INCLUDE 'chunk_03BAE1'
 ------------------------------------------------
 ;Load special sprite asset for boot scene
@@ -38,13 +32,13 @@ func_03DFF8 {
     PHP 
     LDA $scene_current
     CMP #$F7
-    BEQ code_03E04E
+    BEQ load_exit
     CMP #$FB
     BEQ load_fb_asset
     CMP #$FE
-    BEQ code_03E04E
+    BEQ load_exit
     CMP #$8C
-    BEQ code_03E04E
+    BEQ load_exit
     CMP #$78
     BEQ load_01_asset
     CMP #$32
@@ -66,16 +60,15 @@ func_03DFF8 {
     LDA #$^misc_fx_1CD580
     LDY #$0800
     JSL $@func_0283A2
-    PLP 
-    RTL 
-}
-
-load_01_asset {
+    BRA code_03E04E
+    
+  load_01_asset:
     JML load_skyd_exprite
-}
-
-load_fb_asset {
+    
+  load_fb_asset:
     JML load_boot_exprite
-}
-
+    
+  load_exit:
+    PLP
+    RTL
 }
