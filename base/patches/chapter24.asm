@@ -133,7 +133,7 @@ widestring_07A132 `[TPL:1C][TPL:9]Raaaaaagh…![N]I can still keep going…!![EN
 -------------------------------------
 ?INCLUDE 'wa7A_lances_father'
 -------------------------------------
-widestring_07B3C2 `[TPL:3][TPL:B][NAM:4]'s father: Hey, didja[N]know? I just I went[N]exploring with my friends.[N]It was scary, but fuuun![END]`
+widestring_07B3C2 `[TPL:3][TPL:B][NAM:4]'s father: Hey, didja[N]know? I just went[N]exploring with my friends.[N]It was scary, but fuuun![END]`
 
 -------------------------------------
 ?INCLUDE 'wa7A_lance'

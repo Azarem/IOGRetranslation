@@ -135,7 +135,7 @@ string_01E355 |[DBL]A statue brimming[DBL]with the prayers[DBL]of Mu's people.|
 
 string_01DC20 |[PTR:@name_table_rama,B24]'s[N] Statue|
 string_01DF5D |[PTR:@name_table_rama,B24]'s Statue|
-string_01E377 |[DBL]Releases [PTR:@name_table_rama,B24]'s[DBL]improsonment in[DBL]stone form.|
+string_01E377 |[DBL]Releases [PTR:@name_table_rama,B24]'s[DBL]imprisonment in[DBL]stone form.|
 
 string_01DC2E |Magic[N] Powder|
 string_01DF69 |Magic Powder|
