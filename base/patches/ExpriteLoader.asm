@@ -35,6 +35,8 @@ func_03DFF8 {
     BEQ load_exit
     CMP #$FB
     BEQ load_fb_asset
+    CMP #$FA
+    BEQ load_exit
     CMP #$FE
     BEQ load_exit
     CMP #$8C
