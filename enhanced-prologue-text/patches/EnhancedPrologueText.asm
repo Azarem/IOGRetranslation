@@ -5,6 +5,7 @@
 ----------------------------------------------
 ?INCLUDE 'pr_thinkers'
 ----------------------------------------------
+;Set colors and sprite palette index to static palette when fade is complete
 
 e_pr_thinker_0BD031 {
     COP [37] ( #75 )
@@ -53,6 +54,7 @@ e_pr_thinker_0BD031 {
 
 
 ---------------------------------------------
+;Revert palette number for sprites before fade out
 
 e_pr_thinker_0BD039 {
     
@@ -94,6 +96,7 @@ e_pr_thinker_0BD039 {
 ----------------------------------------------
 ?INCLUDE 'sFE_proc_03A940'
 ----------------------------------------------
+;Set default colors for world map (enhances font profile)
 
 e_sFE_proc_03A940 {
     SEP #$20
@@ -127,6 +130,7 @@ e_sFE_proc_03A940 {
 ----------------------------------------------
 ?INCLUDE 'palette_bundles'
 ----------------------------------------------
+;Fade-in / out bundles
 
 bundle_16D17B [
   bundle < #10, &word_16D182, #F1, #05, #04 >   ;00
