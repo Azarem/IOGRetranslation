@@ -1,4 +1,4 @@
-# ILLUSION OF GAIA: RETRANSLATED v1.21
+# ILLUSION OF GAIA: RETRANSLATED v1.30
 
 Copyright 2024-2025 by GaiaLabs  
 https://github.com/Azarem/IOGRetranslation  
@@ -25,15 +25,15 @@ First, you'll need to download the most recent version of the patch. There are t
 
 ### **Original Title Screen**
 ![Original Title](https://i.ibb.co/Xr0RHhXp/Gaia-Labs-135.png)  
-Download Link: [iog_rxlt_121_original_title.bps](https://github.com/Azarem/IOGRetranslation/releases/download/iog_rxlt_121/iog_rxlt_121_original_title.bps)
+Download Link: [iog_rxlt_130_original_title.bps](https://github.com/Azarem/IOGRetranslation/releases/download/iog_rxlt_130/iog_rxlt_130_original_title.bps)
 
 ### **Enhanced Title Screen**
 ![Enhanced Title](https://i.ibb.co/chn3nvg5/Gaia-Labs-136.png)  
-Download Link: [iog_rxlt_121_enhanced_title.bps](https://github.com/Azarem/IOGRetranslation/releases/download/iog_rxlt_121/iog_rxlt_121_enhanced_title.bps)
+Download Link: [iog_rxlt_130_enhanced_title.bps](https://github.com/Azarem/IOGRetranslation/releases/download/iog_rxlt_130/iog_rxlt_130_enhanced_title.bps)
 
 ### **Hybrid Title Screen**
 ![Hybrid Title](https://i.ibb.co/KcMGgGYY/Gaia-Labs-138.png)  
-Download Link: [iog_rxlt_121_hybrid_title.bps](https://github.com/Azarem/IOGRetranslation/releases/download/iog_rxlt_121/iog_rxlt_121_hybrid_title.bps)
+Download Link: [iog_rxlt_130_hybrid_title.bps](https://github.com/Azarem/IOGRetranslation/releases/download/iog_rxlt_130/iog_rxlt_130_hybrid_title.bps)
 
 To use one of these patches, download FLIPS, Beat, or use the Online Rom Patcher:
 
