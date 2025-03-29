@@ -70,6 +70,26 @@ https://www.zeldix.net/t1607-msu1-getting-started-guide
 ---
 ## 4.) What's New?
 
+### **Patch Notes (v1.3)**
+
+☄ New Feature: Added a display for the currently-equipped item's icon in the main HUD.  
+☄ New Feature: Currently-equipped item can now be hot-swapped outside of the inventory screen by holding X and pressing L or R.  
+☄ New Options: Various game settings can now be toggled to suit the user's taste via the rom generator site located at https://gaiahack.ing/index.php/generate-rom/  
+☄ JP Content: The ROM Generator allows the player to choose whether or not to use the original JP backgrounds in Edward Castle, Itory, and Great Wall. (Default: On)  
+☄ JP Content: The ROM Generator allows the player to choose whether or not to use the original JP color palette for the fountain in Seaside Palace. (Default: On)  
+☄ JP Content: The ROM Generator allows the player to choose whether or not to use the original JP sprites for the Viper boss in Sky Garden. (Default: Off)  
+☄ Quality of Life: Medical Herbs restore full health as in the JP version, rather than +8 health in NA. (Default: On)  
+☄ Quality of Life: Pyramid Elevator Speed increased by 2x. (Default: On)  
+☄ Quality of Life: Pyramid Portals Exit modified for faster re-entry into its sub-sections. (Default: On)  
+☄ Cut Content: Blue Journal item has been re-added to the game; its method of aquiry and final purpose have yet to be implemented. Please look forward to it. (Default: On)  
+☄ Graphics: The Crystal Ring item's palette has been adjusted for better visibility. (Default: On)  
+☄ Minor Fix: English map name-spacing bug.  
+☄ Minor Fix: Title sequences.  
+☄ Minor Fix: Credits sequence and timing.  
+☄ Graphics: Visibility adjusted for doors hidden behind sarcophogi in the Pyramid.  
+☄ Graphics: Additional minor palette issues have been fixed.  
+☄ Additional suggestions from the Discord channel have been implemented.  
+
 ### **Patch Notes (v1.21)**
 
 ☄ Added a new boot logo designed by _andwhyisit_.  
