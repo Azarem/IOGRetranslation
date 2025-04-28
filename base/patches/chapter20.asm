@@ -78,9 +78,9 @@ widestring_06A36B `[TPL:3][TPL:D][NAM:3]: Waaaaaaah…[N]Somebody saaave me…!!
 ----------------------------------------------
 widestring_0AFB45 `[TPL:21][TPL:E]Vampire man: You did well,[N]finding the [NAM:D] [NAM:E][N]for us![FIN]I was thinking that[N]someone strange had turned[N]up at the palace but…[FIN]Pshaw. I was right to let[N]you free.[FIN][TPL:22][TPL:E]Vampire woman: What are[N]you going on about?[FIN][TPL:F]Even though you start[N]drooling when anything[N]that resembles prey turns[N]up…![FIN]Every single time that you[N]manage to get a hold of a[N]few young children, you're[N]always like that…![FIN][CLD][TPL:22][TPL:D]Do you think of nothing[N]but eating…?[FIN][TPL:21][TPL:D]Vampire man: You're one to[N]talk![FIN][TPL:E]Hey, wait. Now isn't the[N]situation to be having a[N]lover's quarrel.[FIN]First off, let's take that[N][NAM:D] [NAM:E]. You there![N]Prepare yourself…!![END]`
 
-widestring_0AFCA0 `[TPL:22][TPL:F]Vampire woman: Hmph. That[N]man's dead; what a relief.[N]Alright, it's your turn[N]next…!! Get ready…!![END]`
+widestring_0AFCA0 `[CLD][TPL:22][TPL:F]Vampire woman: Hmph. That[N]man's dead; what a relief.[N]Alright, it's your turn[N]next…!! Get ready…!![PAU:78][END]`
 
-widestring_0AFCE4 `[TPL:21][TPL:E]Vampire: You! [N]You did [LU1:D7]to my wife! [N][LU1:1F][LU1:BB]forgive you!![PAL:0][END]`
+widestring_0AFCE4 `[CLD][TPL:21][TPL:E]Vampire: You! [N]You did [LU1:D7]to my wife! [N][LU1:1F][LU1:BB]forgive you!![PAL:0][PAU:78][END]`
 ;TODO!!!!
 
 widestring_06A38D `[TPL:3][TPL:E]Before anything else, stop[N]the booomb…! Hurry[N]hurry…!![END]`
