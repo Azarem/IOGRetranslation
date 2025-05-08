@@ -4,7 +4,7 @@
 -------------------------------------
 ?INCLUDE 'wa79_kara'
 -------------------------------------
-widestring_07A811 `[TPL:1][TPL:A][NAM:1]: That thing that[N]they call is [NAM:15] is a[N]weird animal, isn't it…?[END]`
+widestring_07A811 `[TPL:1][TPL:A][NAM:1]: That thing that[N]they call a [NAM:15] is a[N]weird animal, isn't it…?[END]`
 
 -------------------------------------
 ?INCLUDE 'wa79_erik'
@@ -19,7 +19,7 @@ widestring_07A255 `[TPL:6][TPL:A]Neil: A vast desert stands[N]before us if we go
 -------------------------------------
 ?INCLUDE 'wa79_lily'
 -------------------------------------
-widestring_07AA34 `[TPL:2][TPL:A][NAM:2]: It'll be nice if[N][NAM:4]'s father could get[N]well quickly, wouldn't it?[END]`
+widestring_07AA34 `[TPL:2][TPL:A][NAM:2]: It'd be nice if[N][NAM:4]'s father could get[N]well quickly, wouldn't it?[END]`
 
 -------------------------------------
 ?INCLUDE 'wa79_lance'
@@ -85,7 +85,7 @@ widestring_079520 `[TPL:1C][TPL:E]Spectator: Put that down[N]and come over here�
 -------------------------------------
 ?INCLUDE 'wa7D_glass_opponent'
 -------------------------------------
-widestring_078E2D `[TPL:1C][TPL:F]Woman: You must be the[N]gentleman who was[N]competing in Russian[N]glass, right?[FIN]My husband said that he[N]said he found a good job[N]so I shouldn't worry;[FIN]I never expected that it[N]would be something like[N]that…[FIN]This is my husband's will.[N]"To my opponentˮ is[N]written on the cover.[N]Please read it.[FIN]With that, there are four[N][NAM:15]s outside of my[N]house; please use them.[END]`
+widestring_078E2D `[TPL:1C][TPL:F]Woman: You must be the[N]gentleman who was[N]competing in Russian[N]glass, right?[FIN]My husband said that he[N]had found a good job[N]so I shouldn't worry;[FIN]I never expected that it[N]would be something like[N]that…[FIN]This is my husband's will.[N]"To my opponentˮ is[N]written on the cover.[N]Please read it.[FIN]With that, there are four[N][NAM:15]s outside of my[N]house; please use them.[END]`
 
 -------------------------------------
 ?INCLUDE 'wa78_women'
