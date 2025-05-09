@@ -29,7 +29,7 @@ widestring_07DA00 `[TPL:1][TPL:9][NAM:1]: It's an amaaazing[N]house, isn't it…
 -------------------------------------
 ?INCLUDE 'eu95_ann'
 -------------------------------------
-widestring_07DF7A `[TPL:1][BOR:D][TPL:A]Ann: So, a man wearing a[N]dark blue mantle came here[N]a few ago.[FIN]He was asking if a girl[N]named [NAM:1] hadn't come[N]to this city.[FIN]I cowered from the way he[N]glared with his icy eyes.[FIN][TPL:B]It might be good to tell[N]this to [NAM:1], but…[N][PAL:0] If that's what you want![N] Please don't, I beg you![PAL:4]`
+widestring_07DF7A `[TPL:1][BOR:D][TPL:A]Ann: So, a man wearing a[N]dark blue mantle came here[N]a few days ago.[FIN]He was asking if a girl[N]named [NAM:1] had come[N]to this city.[FIN]I cowered from the way he[N]glared with his icy eyes.[FIN][TPL:B]It might be good to tell[N]this to [NAM:1], but…[N][PAL:0] If that's what you want![N] Please don't, I beg you![PAL:4]`
 
 widestring_07E03D `[CLR]I can't stomach how that[N][NAM:1] girl acts like such[N]a little lady.[FIN]If that's what you're[N]going to say, I think I'll[N]bully you a little.[END]`
 

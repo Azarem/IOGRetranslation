@@ -46,7 +46,7 @@ widestring_079C19 `[TPL:0][TPL:F][NAM:1] hid her diary here…[N]Read it?[N][PAL
 widestring_079C4A `[CLR]OK. You'd [LU1:91]guilty[N]reading it without[N]permission...[PAL:0][END]`
 ;TODO!!
 
-widestring_079C81 `[CLR][TPL:1][BOR:1][DLG:3,F][SIZ:D,5]Day X of month X:[N]It's been a long long[N]road, but we finally[N]arrived the Capital of[N]Water, Watermia.[FIN][DLG:3,D][SIZ:D,6]I was thirsty along the[N]way, but I endured it. I[N]was developing blisters[N]inside my shoes, but I did[N]my best to bandage them[N]with a handkerchief.[FIN]Maybe I would have just[N]complained before, but I[N]didn't say anything now.[N]I think I've changed[N]dramatically with this[N]journey…[FIN]I've become used to[N]putting in my full effort[N]for the sake of a certain[N]someone. I'm taking a bit[N]of a liking to who I am[N]now.[FIN][CLD][TPL:1][BOR:1][TPL:F]I just heard from a[N]townsperson about a[N]legend that's spoken of[N]here.[FIN][DLG:3,F][SIZ:D,5]"If you make wish while[N]riding a lotus leaf on a[N]full moon night, the[N]person you like will take[N]a close look at you…ˮ[FIN][CLD][TPL:1][BOR:1][TPL:E]It's a wonderful legend,[N]isn't it? Can't I can try[N]it out soon…?[END]`
+widestring_079C81 `[CLR][TPL:1][BOR:1][DLG:3,F][SIZ:D,5]Day X of month X:[N]It's been a long long[N]road, but we finally[N]arrived at the Capital of[N]Water, Watermia.[FIN][DLG:3,D][SIZ:D,6]I was thirsty along the[N]way, but I endured it. I[N]was developing blisters[N]inside my shoes, but I did[N]my best to bandage them[N]with a handkerchief.[FIN]Maybe I would have just[N]complained before, but I[N]didn't say anything now.[N]I think I've changed[N]dramatically with this[N]journey…[FIN]I've become used to[N]putting in my full effort[N]for the sake of a certain[N]someone. I'm taking a bit[N]of a liking to who I am[N]now.[FIN][CLD][TPL:1][BOR:1][TPL:F]I just heard from a[N]townsperson about a[N]legend that's spoken of[N]here.[FIN][DLG:3,F][SIZ:D,5]"If you make wish while[N]riding a lotus leaf on a[N]full moon night, the[N]person you like will take[N]a close look at you…ˮ[FIN][CLD][TPL:1][BOR:1][TPL:E]It's a wonderful legend,[N]isn't it? Can't I can try[N]it out soon…?[END]`
 
 -------------------------------------
 ?INCLUDE 'wa78_kruk'
@@ -75,11 +75,11 @@ widestring_078C12 `[TPL:1C][TPL:F]Child: If a snake bites[N]you, run in circles[
 -------------------------------------
 ?INCLUDE 'wa78_centipede_man'
 -------------------------------------
-widestring_0782BD `[TPL:1C][TPL:F]Man: They say that a[N]giant centipede called[N]Sand Fanger inhabits the[N]Great Wall of China.[FIN]It seems that its bodily[N]fluids have the power to[N]cure any kind of disease.[FIN][TPL:10]Chinese herbal medicine[N]uses a lot of weird things[N]as ingredients but I don't[N]think I'd just drink[N]insect lifeblood…[END]`
+widestring_0782BD `[TPL:1C][TPL:F]Man: They say that a[N]giant centipede called[N]the Sand Fanger inhabits the[N]Great Wall of China.[FIN]It seems that its bodily[N]fluids have the power to[N]cure any kind of disease.[FIN][TPL:10]Chinese herbal medicine[N]uses a lot of weird things[N]as ingredients but I don't[N]think I'd just drink[N]insect lifeblood…[END]`
 
 widestring_078D02 `[TPL:1C][TPL:D]Child: I'll teach you[N]something good.[FIN][TPL:F]Try waiting behind the[N]gambling house, on the[N]right side. A lotus leaf[N]will arrive.[END]`
 
-widestring_078B73 `[TPL:1C][TPL:F]The so-called "crazy old[N]manˮ has amazingly white[N]hair but is actually[N]still young.[FIN]I wonder if he saw[N]something that was[N]extremely frightening…[END]`
+widestring_078B73 `[TPL:1C][TPL:F]The so-called "crazy old[N]manˮ has amazingly white[N]hair but he is actually[N]still young.[FIN]I wonder if he saw[N]something that was[N]extremely frightening…[END]`
 
 widestring_0788E0 `[TPL:1C][TPL:E]An old man who went[N]insane lives in a house[N]deep in this town.[FIN][TPL:10]I'm not sure, but I think[N]he participated in the[N]survey of the Tower of[N]Babel by the [NAM:9][N]expedition team.[END]`
 
@@ -108,9 +108,9 @@ widestring_07876E `[TPL:1C][TPL:E]This lotus leaf is over[N]capacity. Get anothe
 
 widestring_078607 `[TPL:1C][TPL:D]Man: This animal is[N]called a [NAM:15].[FIN][TPL:10]It's perfect for crossing[N]the desert because it can[N]survive for a long time[N]without drinking or[N]eating.[END]`
 
-widestring_078674 `[TPL:1C][TPL:D]Man: This is a gambling[N]house.[FIN][TPL:10]I guess you must be really[N]trouble for money if[N]you're coming to a place[N]like this even though[N]you're a child…[END]`
+widestring_078674 `[TPL:1C][TPL:D]Man: This is a gambling[N]house.[FIN][TPL:10]I guess you must be really[N]desperate for money if[N]you're coming to a place[N]like this even though[N]you're a child…[END]`
 
-widestring_078ABA `[TPL:1C][TPL:A]As you can see, this is a[N]drinking contest. We're[N]gambling on who will win.[END]`
+widestring_078ABA `[TPL:1C][TPL:A]As you can see, this is a[N]drinking contest. We're[N]betting on who will win.[END]`
 
 widestring_078881 `[TPL:1C][TPL:9]It's just like gambling[N]with human life.[FIN][TPL:12]If they make a little[N]mistake in their[N]judgement, they're sent[N]headfirst down the road[N]to hell.[FIN][CLD][TPL:1C][TPL:B]It's something that[N]humans do within their[N]unconscious mind, isn't[N]it?[END]`
 
