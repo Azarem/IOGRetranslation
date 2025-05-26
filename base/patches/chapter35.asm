@@ -31,9 +31,9 @@ widestring_09923A `[TPL:5][BOR:4][TPL:D][NAM:5]: Hey [NAM:0], it's[N]been a long
 
 widestring_09943E `[TPL:17][TPL:C][NAM:7]: Squee squee…!![FIN][TPL:0][TPL:10][SFX:0][NAM:0]: So that's how it is;[N]I guess that without a[N]body, even people and[N]animals are no longer[N]distinct…[END]`
 
-widestring_09938D `[TPL:17][TPL:E]Neil's mother: Even if I[N]can observe the real[N]world, I can't touch it…[FIN]No matter how Neil is[N]suffering, I still can't[N]lend him a hand, can I…[END]`
+widestring_09938D `[TPL:17][TPL:E]Neil's mother: Even if I[N]can observe the real[N]world, I can't touch it…[FIN]No matter how much Neil is[N]suffering, I still can't[N]lend him a hand, can I?[END]`
 
-widestring_0991A9 `[TPL:23][TPL:D][DLY:0][NAM:9]: The time is[N]drawing closer and closer.[FIN]Well, everyone.[N]Lend [NAM:0] your power![END]`
+widestring_0991A9 `[TPL:23][TPL:D][DLY:0][NAM:9]: The moment is[N]nearly upon us.[FIN]Alright, everyone,[N]lend your power to [NAM:0]![END]`
 
 widestring_098E17 `[TPL:0][TPL:F][DLY:0]When [NAM:0] and [NAM:1]'s[N]hearts laid together, when[N]light and darkness became[N]one, a burgeoning power[N]was born…[FIN]The Warrior of Darkness'[N]ultimate power Firebird[N]dwells here, when the[N]Warrior of Light and[N]Darkness has revived[N]across millennia![END]`
 
