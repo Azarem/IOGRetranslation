@@ -24,7 +24,7 @@ widestring_04B9F2 `[TPL:3][BOR:2][TPL:9][NAM:3]: Huff, huff… News…![N]It's b
 
 widestring_04BA55 `[TPL:4][TPL:8][NAM:4]: What?[FIN][TPL:A]With ya bargin' in here[N]like that, I thought[N]somethin' cooler happened.[FIN][TPL:B]Besides, that "princessˮ[N]is that selfish girl[N][NAM:1], yeah? Who cares[N]WHERE she is?[FIN][TPL:3][TPL:B][NAM:3]: Well, there's that,[N]but soldiers are going to[N]come to this town to[N]search for the princess.[FIN]Aren't Edward Castle's[N]soldiers cool? I just want[N]to look at them.[END]`
 
-widestring_04B210 `[TPL:4][TPL:A][NAM:4]: Oy, [NAM:0], don't hang[N]around there. Go sit next[N]to [NAM:3].[END]`
+widestring_04B210 `[TPL:4][TPL:A][NAM:4]: Oy, [NAM:0], don't[N]hang around there. Go sit[N]next to [NAM:3].[END]`
 
 widestring_04B612 `[TPL:5][TPL:A][NAM:5]: I have no interest[N]in girls. Reading books[N]is more fun.[END]`
 
