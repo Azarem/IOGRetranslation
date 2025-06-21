@@ -1,4 +1,5 @@
 
+!joypad_mask_std                065A
 !_TM                            212C
 !_TS                            212D
 !CGWSEL                         2130
