@@ -52,7 +52,7 @@ widestring_07E3B5 `[TPL:6][TPL:12]Neil: I guess it's a[N]matter of whether I sho
 -------------------------------------
 widestring_07C9DB `[TPL:1E][TPL:10]This is the mansion where[N]the married couple that[N]serve as the presidents of[N]the Reuleck Corporation[N]live.[END]`
 
-widestring_07C970 `[TPL:1E][TPL:10]A man named Black Panther[N]or something like that[N]popped up some days ago[N]and went around asking[N]various questions.[FIN]From the look in his eyes,[N]he's got to be an[N]assassin. He could be[N]after someone, but I have[N]no idea who.[END]`
+widestring_07C970 `[TPL:1E][TPL:10]A man named [NAM:16][N]or something like that[N]popped up some days ago[N]and went around asking[N]various questions.[FIN]From the look in his eyes,[N]he's got to be an[N]assassin. He could be[N]after someone, but I have[N]no idea who.[END]`
 
 -------------------------------------
 ?INCLUDE 'eu91_women2'

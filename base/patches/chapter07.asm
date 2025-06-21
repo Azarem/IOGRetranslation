@@ -32,7 +32,7 @@ widestring_04E033 `[TPL:18][TPL:E]There aren't any children[N]around [NAM:2]'s a
 ---------------------------------
 ?INCLUDE 'it15_lola'
 ---------------------------------
-widestring_04F11E `[TPL:3][TPL:D][NAM:6]: [NAM:0]! [NAM:0]![N]This way![FIN][TPL:4][TPL:D]Bill: So you were safe;[N]good, good…[FIN][TPL:3][TPL:D][NAM:6]: We saw some very[N]frightening sights![FIN][TPL:E]A man called Black Panther[N]came taking a large crowd[N]of soldiers with him…[FIN][TPL:4][TPL:E]Bill: We were almost[N]killed![END]`
+widestring_04F11E `[TPL:3][TPL:D][NAM:6]: [NAM:0]! [NAM:0]![N]This way![FIN][TPL:4][TPL:D]Bill: So you were safe;[N]good, good…[FIN][TPL:3][TPL:D][NAM:6]: We saw some very[N]frightening sights![FIN][TPL:E]A man called [NAM:16][N]came taking a large crowd[N]of soldiers with him…[FIN][TPL:4][TPL:E]Bill: We were almost[N]killed![END]`
 
 widestring_04F1BA `[TPL:3][TPL:C][NAM:6]: Bill, oh my…[FIN][TPL:E]I upset the soldiers'[N]stomachs with my poison[N]apple pie.[FIN]We barely escaped in that[N]moment.[END]`
 
