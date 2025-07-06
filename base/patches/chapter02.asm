@@ -5,6 +5,9 @@
 ----------------------------
 widestring_04BE87 `[TPL:0][TPL:A]It might be strange, but[N]we even call this coastal[N]cave our second home.[FIN][TPL:B]Usually, we meet here[N]after our lesson at church[N]is finished and chat until[N]it gets dark.[END]`
 
+widestring_04BF35 `[TPL:4][TPL:A][NAM:4]: [N]What, [NAM:0]? [N]Going [LU2:72]already?[FIN][LU1:1D]not dinner [LU1:DF][N]yet. [LU1:2B]play a little[N][LU2:BF]longer.[END]`
+;TODO!!
+
 ----------------------------
 ?INCLUDE 'sc02_lance'
 ----------------------------
