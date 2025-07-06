@@ -10,9 +10,9 @@
 ------------------------------------------------
 ?INCLUDE 'system_strings'
 ------------------------------------------------
-string_01DA47 |[NHM:4][CUR:50,4]PUSH START BUTTON|
+asciistring_01DA47 |[NHM:4][CUR:50,4]PUSH START BUTTON|
 ;string_01DA5E |[NHM:4][CUR:55,3]RETRANSLATED|
-string_01DA5E |[NHM:0][CUR:9C,3]RETRANSLATED[NHM:0][CUR:08,6](C) 1994  QUINTET/ENIX[CUR:48,6]MARIKO OHARA/MOTO HAGIO[CUR:8E,6]YASUHIRO KAWASAKI|
+asciistring_01DA5E |[NHM:0][CUR:9C,3]RETRANSLATED[NHM:0][CUR:08,6](C) 1994  QUINTET/ENIX[CUR:48,6]MARIKO OHARA/MOTO HAGIO[CUR:8E,6]YASUHIRO KAWASAKI|
 
 ------------------------------------------------
 ?INCLUDE 'scene_meta'
@@ -66,9 +66,9 @@ e_sFC_actor_0BC924 {
     LDA #$0804
     STA $064A
     COP [DA] ( #B3 )
-    COP [BD] ( @string_01DA5E )
+    COP [BD] ( @asciistring_01DA5E )
     COP [DA] ( #77 )
-    COP [BD] ( @string_01DA47 )
+    COP [BD] ( @asciistring_01DA47 )
     COP [DB] ( #$09D3 )
     COP [CC] ( #F4 )
     LDA #$0804

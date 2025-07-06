@@ -60,175 +60,175 @@ name_lilly_en   |Lilly|
 ?INCLUDE 'system_strings'
 --------------------------------------------------------
 
-string_01DE9E ||
-string_01E184 |Nothing|
+asciistring_01DE9E ||
+asciistring_01E184 |Nothing|
 
-string_01DB40 |Red Jewel|
-string_01DE9F |Red Jewel|
-string_01E18C |[DBL]Trade for goods[DBL]in town.|
+asciistring_01DB40 |Red Jewel|
+asciistring_01DE9F |Red Jewel|
+asciistring_01E18C |[DBL]Trade for goods[DBL]in town.|
 
-string_01DB4B |Prison Key|
-string_01DEAA |Prison Key|
-string_01E1A6 |[DBL]Edward Castle[DBL]prison Key.|
+asciistring_01DB4B |Prison Key|
+asciistring_01DEAA |Prison Key|
+asciistring_01E1A6 |[DBL]Edward Castle[DBL]prison Key.|
 
-string_01DB51 |Incan[N] [LU:C]A|
-string_01DEB0 |Incan Statue A|
-string_01E1BC |[DBL]Statue modeled[DBL]after an Incan[DBL]god.|
+asciistring_01DB51 |Incan[N] [LU:C]A|
+asciistring_01DEB0 |Incan Statue A|
+asciistring_01E1BC |[DBL]Statue modeled[DBL]after an Incan[DBL]god.|
 
-string_01DB5C |Incan[N] [LU:C]B|
-string_01DEB6 |Incan Statue B|
-string_01E1D5 |[DBL]Statue modeled[DBL]after an Incan[DBL]god.|
+asciistring_01DB5C |Incan[N] [LU:C]B|
+asciistring_01DEB6 |Incan Statue B|
+asciistring_01E1D5 |[DBL]Statue modeled[DBL]after an Incan[DBL]god.|
 
-string_01DB68 |Incan [N] Melody|
-string_01DEBC |[LU:4]Melody|
-string_01E1EE |[DBL]Told by father[DBL]to go to Incas[DBL]with melody.|
+asciistring_01DB68 |Incan [N] Melody|
+asciistring_01DEBC |[LU:4]Melody|
+asciistring_01E1EE |[DBL]Told by father[DBL]to go to Incas[DBL]with melody.|
 
-string_01DEC5 |Medicinal Herb|
-string_01E21A |[DBL]Can restore[DBL]stamina (HP).|
+asciistring_01DEC5 |Medicinal Herb|
+asciistring_01E21A |[DBL]Can restore[DBL]stamina (HP).|
 
-string_01DB81 |Diamond[N] Block|
-string_01DECE |Diamond Block|
-string_01E227 |[DBL]Diamond-shaped[DBL]block.|
+asciistring_01DB81 |Diamond[N] Block|
+asciistring_01DECE |Diamond Block|
+asciistring_01E227 |[DBL]Diamond-shaped[DBL]block.|
 
-string_01DB8C |Wind [N] Melody|
-string_01DED9 |Wind Melody|
-string_01E23F |[DBL]Melody played by[DBL]the Incan Wind.|
+asciistring_01DB8C |Wind [N] Melody|
+asciistring_01DED9 |Wind Melody|
+asciistring_01E23F |[DBL]Melody played by[DBL]the Incan Wind.|
 
-string_01DB9B |[PTR:@name_table_lola,B24]'s[N] Melody|
-string_01DEE6 |[PTR:@name_table_lola,B24]'s Melody|
-string_01E25E |[DBL]Melody learned[DBL]from [PTR:@name_table_lola,B24].|
+asciistring_01DB9B |[PTR:@name_table_lola,B24]'s[N] Melody|
+asciistring_01DEE6 |[PTR:@name_table_lola,B24]'s Melody|
+asciistring_01E25E |[DBL]Melody learned[DBL]from [PTR:@name_table_lola,B24].|
 
-string_01DBAC |Bone-in[N] Meat|
-string_01DEF5 |Bone-in Meat|
-string_01E276 |[DBL]Roast found in[DBL]Edward Castle[DBL]basement.|
+asciistring_01DBAC |Bone-in[N] Meat|
+asciistring_01DEF5 |Bone-in Meat|
+asciistring_01E276 |[DBL]Roast found in[DBL]Edward Castle[DBL]basement.|
 
-string_01DBB2 |Mine Key A|
-string_01DEFB |Mine Key A|
-string_01E296 |[DBL]Key discovered[DBL]in mine's corpse[DBL]storehouse.|
+asciistring_01DBB2 |Mine Key A|
+asciistring_01DEFB |Mine Key A|
+asciistring_01E296 |[DBL]Key discovered[DBL]in mine's corpse[DBL]storehouse.|
 
-string_01DBBD |Mine Key B|
-string_01DF06 |Mine Key B|
-string_01E2AC |[DBL]Key posessed by a[DBL]slave in the[DBL]Diamond Mines.|
+asciistring_01DBBD |Mine Key B|
+asciistring_01DF06 |Mine Key B|
+asciistring_01E2AC |[DBL]Key posessed by a[DBL]slave in the[DBL]Diamond Mines.|
 
-string_01DBC8 |Memory[N] Melody|
-string_01DF11 |Memory Melody|
-string_01E2D1 |[DBL]Melody of Memories[DBL]learned from slave[DBL]youth. Jogs memory.|
+asciistring_01DBC8 |Memory[N] Melody|
+asciistring_01DF11 |Memory Melody|
+asciistring_01E2D1 |[DBL]Melody of Memories[DBL]learned from slave[DBL]youth. Jogs memory.|
 
-string_01DBD8 |Crystal[N] Ball|
-string_01DF1F |Crystal Ball|
-string_01E2F5 |[DBL]An object made of[DBL]crystal. Interacts[DBL]with crystal tiles.|
+asciistring_01DBD8 |Crystal[N] Ball|
+asciistring_01DF1F |Crystal Ball|
+asciistring_01E2F5 |[DBL]An object made of[DBL]crystal. Interacts[DBL]with crystal tiles.|
 
-string_01DBE7 |Lift Key|
-string_01DF2C |Lift Key|
-string_01E30E |[DBL]Key for entering[DBL]the lift platform[DBL]in Diamond Mines.|
+asciistring_01DBE7 |Lift Key|
+asciistring_01DF2C |Lift Key|
+asciistring_01E30E |[DBL]Key for entering[DBL]the lift platform[DBL]in Diamond Mines.|
 
-string_01DBF8 |Palace[N] Key|
-string_01DF3B |Palace Key|
-string_01E324 |[DBL]Opens passageway[DBL]to the continent[DBL]of Mu.|
+asciistring_01DBF8 |Palace[N] Key|
+asciistring_01DF3B |Palace Key|
+asciistring_01E324 |[DBL]Opens passageway[DBL]to the continent[DBL]of Mu.|
 
-string_01DC05 |Purify[N] Stone|
-string_01DF46 |Purification Stone|
-string_01E337 |[DBL]A rock that can[DBL]purify fountain of[DBL]blood in palace.|
+asciistring_01DC05 |Purify[N] Stone|
+asciistring_01DF46 |Purification Stone|
+asciistring_01E337 |[DBL]A rock that can[DBL]purify fountain of[DBL]blood in palace.|
 
-string_01DF53 |Prayer Statue|
-string_01E355 |[DBL]A statue brimming[DBL]with the prayers[DBL]of Mu's people.|
+asciistring_01DF53 |Prayer Statue|
+asciistring_01E355 |[DBL]A statue brimming[DBL]with the prayers[DBL]of Mu's people.|
 
-string_01DC20 |[PTR:@name_table_rama,B24]'s[N] Statue|
-string_01DF5D |[PTR:@name_table_rama,B24]'s Statue|
-string_01E377 |[DBL]Releases [PTR:@name_table_rama,B24]'s[DBL]imprisonment in[DBL]stone form.|
+asciistring_01DC20 |[PTR:@name_table_rama,B24]'s[N] Statue|
+asciistring_01DF5D |[PTR:@name_table_rama,B24]'s Statue|
+asciistring_01E377 |[DBL]Releases [PTR:@name_table_rama,B24]'s[DBL]imprisonment in[DBL]stone form.|
 
-string_01DC2E |Magic[N] Powder|
-string_01DF69 |Magic Powder|
-string_01E399 |[DBL]Releases souls who[DBL]have been trapped[DBL]within paitings.|
+asciistring_01DC2E |Magic[N] Powder|
+asciistring_01DF69 |Magic Powder|
+asciistring_01E399 |[DBL]Releases souls who[DBL]have been trapped[DBL]within paitings.|
 
-string_01DC3B |Blue[N] Journal|
-string_01DF74 |Blue Journal|
-string_01E3C4 |[DBL]Journal found[DBL]by fireplace.|
+asciistring_01DC3B |Blue[N] Journal|
+asciistring_01DF74 |Blue Journal|
+asciistring_01E3C4 |[DBL]Journal found[DBL]by fireplace.|
 
-string_01DC4A |[PTR:@name_table_lance,B24]'s [N]  Letter|
-string_01DF81 |[PTR:@name_table_lance,B24]'s Letter|
-string_01E3E1 |[DBL]Letter from [PTR:@name_table_lance,B24][DBL]addressed to [PTR:@name_table_will,B24].|
+asciistring_01DC4A |[PTR:@name_table_lance,B24]'s [N]  Letter|
+asciistring_01DF81 |[PTR:@name_table_lance,B24]'s Letter|
+asciistring_01E3E1 |[DBL]Letter from [PTR:@name_table_lance,B24][DBL]addressed to [PTR:@name_table_will,B24].|
 
-string_01DC5C |Necklace [N] Stones|
-string_01DF92 |Necklace Stones|
-string_01E3F3 |[DBL]Pendant that [PTR:@name_table_lance,B24][DBL]made for [PTR:@name_table_lilly,B24].|
+asciistring_01DC5C |Necklace [N] Stones|
+asciistring_01DF92 |Necklace Stones|
+asciistring_01E3F3 |[DBL]Pendant that [PTR:@name_table_lance,B24][DBL]made for [PTR:@name_table_lilly,B24].|
 
-string_01DC6E |Will|
-string_01DFA2 |Will|
-string_01E413 |[DBL]Final will awarded[DBL]to Russian Glass[DBL]opponent.|
+asciistring_01DC6E |Will|
+asciistring_01DFA2 |Will|
+asciistring_01E413 |[DBL]Final will awarded[DBL]to Russian Glass[DBL]opponent.|
 
-string_01DC73 |Tearpot|
-string_01DFA7 |Tearpot|
-string_01E43A |[DBL]Jar said to be[DBL]filled with the[DBL]tears of the gods.|
+asciistring_01DC73 |Tearpot|
+asciistring_01DFA7 |Tearpot|
+asciistring_01E43A |[DBL]Jar said to be[DBL]filled with the[DBL]tears of the gods.|
 
-string_01DC7C |Mushroom[N] Drops|
-string_01DFB0 |Mushroom Drops|
-string_01E452 |[DBL]Sprinkle on stalk[DBL]ends to revive a[DBL]portion of vines.|
+asciistring_01DC7C |Mushroom[N] Drops|
+asciistring_01DFB0 |Mushroom Drops|
+asciistring_01E452 |[DBL]Sprinkle on stalk[DBL]ends to revive a[DBL]portion of vines.|
 
-string_01DC8C |Bag of[N] Gold|
-string_01DFBE |Bag of Gold|
-string_01E472 |[DBL]Prize from[DBL]Russian Glass.|
+asciistring_01DC8C |Bag of[N] Gold|
+asciistring_01DFBE |Bag of Gold|
+asciistring_01E472 |[DBL]Prize from[DBL]Russian Glass.|
 
-string_01DC9A |Black[N] Glasses|
-string_01DFCA |Black Glasses|
-string_01E48D |[DBL]Glasses made from[DBL]black quartz. Light[DBL]is greatly reduced.|
+asciistring_01DC9A |Black[N] Glasses|
+asciistring_01DFCA |Black Glasses|
+asciistring_01E48D |[DBL]Glasses made from[DBL]black quartz. Light[DBL]is greatly reduced.|
 
-string_01DCAC |Gorgon[N] Flower|
-string_01DFDA |Gorgon Flower|
-string_01E4B9 |[DBL]Restores things[DBL]turned to stone.|
+asciistring_01DCAC |Gorgon[N] Flower|
+asciistring_01DFDA |Gorgon Flower|
+asciistring_01E4B9 |[DBL]Restores things[DBL]turned to stone.|
 
-string_01DCBD |Hieroglyph|
-string_01DFE9 |Hieroglyph|
-string_01E4D4 |[DBL][LU:7]with[DBL]hieroglyph.|
+asciistring_01DCBD |Hieroglyph|
+asciistring_01DFE9 |Hieroglyph|
+asciistring_01E4D4 |[DBL][LU:7]with[DBL]hieroglyph.|
 
-string_01DCC8 |Hieroglyph|
-string_01DFF4 |Hieroglyph|
-string_01E4E8 |[DBL][LU:7]with[DBL]hieroglyph.|
+asciistring_01DCC8 |Hieroglyph|
+asciistring_01DFF4 |Hieroglyph|
+asciistring_01E4E8 |[DBL][LU:7]with[DBL]hieroglyph.|
 
-string_01DCD3 |Hieroglyph|
-string_01DFFF |Hieroglyph|
-string_01E4FC |[DBL][LU:7]with[DBL]hieroglyph.|
+asciistring_01DCD3 |Hieroglyph|
+asciistring_01DFFF |Hieroglyph|
+asciistring_01E4FC |[DBL][LU:7]with[DBL]hieroglyph.|
 
-string_01DCDE |Hieroglyph|
-string_01E00A |Hieroglyph|
-string_01E510 |[DBL][LU:7]with[DBL]hieroglyph.|
+asciistring_01DCDE |Hieroglyph|
+asciistring_01E00A |Hieroglyph|
+asciistring_01E510 |[DBL][LU:7]with[DBL]hieroglyph.|
 
-string_01DCE9 |Hieroglyph|
-string_01E015 |Hieroglyph|
-string_01E524 |[DBL][LU:7]with[DBL]hieroglyph.|
+asciistring_01DCE9 |Hieroglyph|
+asciistring_01E015 |Hieroglyph|
+asciistring_01E524 |[DBL][LU:7]with[DBL]hieroglyph.|
 
-string_01DCF4 |Hieroglyph|
-string_01E020 |Hieroglyph|
-string_01E538 |[DBL][LU:7]with[DBL]hieroglyph.|
+asciistring_01DCF4 |Hieroglyph|
+asciistring_01E020 |Hieroglyph|
+asciistring_01E538 |[DBL][LU:7]with[DBL]hieroglyph.|
 
-string_01DCFF |Aura|
-string_01E02B |Aura|
-string_01E54C |[DBL][LU:2]Knight[DBL]Shadow's Body[DBL]turns to water.|
+asciistring_01DCFF |Aura|
+asciistring_01E02B |Aura|
+asciistring_01E54C |[DBL][LU:2]Knight[DBL]Shadow's Body[DBL]turns to water.|
 
-string_01DD06 |[PTR:@name_table_lola,B24]'s[N] Letter|
-string_01E032 |[PTR:@name_table_lola,B24]'s Letter|
-string_01E574 |[DBL]Letter from[DBL][PTR:@name_table_lola,B24] and Bill.|
+asciistring_01DD06 |[PTR:@name_table_lola,B24]'s[N] Letter|
+asciistring_01E032 |[PTR:@name_table_lola,B24]'s Letter|
+asciistring_01E574 |[DBL]Letter from[DBL][PTR:@name_table_lola,B24] and Bill.|
 
-string_01DD17 |Father's[N] Journal|
-string_01E041 |Father's Journal|
-string_01E590 |[DBL][PTR:@name_table_will,B24]'s father's[DBL]journal. Info on [DBL]Pyramid.|
+asciistring_01DD17 |Father's[N] Journal|
+asciistring_01E041 |Father's Journal|
+asciistring_01E590 |[DBL][PTR:@name_table_will,B24]'s father's[DBL]journal. Info on [DBL]Pyramid.|
 
-string_01DD2B |Crystal[N] Ring|
-string_01E053 |Crystal Ring|
-string_01E5BC |[DBL]Ring hidden[DBL]in Flute.|
+asciistring_01DD2B |Crystal[N] Ring|
+asciistring_01E053 |Crystal Ring|
+asciistring_01E5BC |[DBL]Ring hidden[DBL]in Flute.|
 
-string_01DD3A |Red[N] Apple|
-string_01E060 |Red Apple|
-string_01E5D3 |[DBL]Apple from[DBL]Euro Market.|
+asciistring_01DD3A |Red[N] Apple|
+asciistring_01E060 |Red Apple|
+asciistring_01E5D3 |[DBL]Apple from[DBL]Euro Market.|
 
 
-string_01E61F |Dark [PTR:@name_table_friar,B24]|
+asciistring_01E61F |Dark [PTR:@name_table_friar,B24]|
 
-string_01E697 |Dark[N] [PTR:@name_table_friar,B24]|
+asciistring_01E697 |Dark[N] [PTR:@name_table_friar,B24]|
 
-string_01E7D6 | [PTR:@name_table_will,B24]|
+asciistring_01E7D6 | [PTR:@name_table_will,B24]|
 
-string_01E7DD | [PTR:@name_table_freedan,B24]|
+asciistring_01E7DD | [PTR:@name_table_freedan,B24]|
 
 -----------------------------------------
 ?INCLUDE 'itemget_table_01FD24'

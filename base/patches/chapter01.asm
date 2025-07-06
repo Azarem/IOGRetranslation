@@ -3,32 +3,32 @@
 ----------------------
 ?INCLUDE 'pr8C_prologue1'
 ----------------------
-charstring_0BD044 ~The world was in  [N]the midst of the  [N]Age of Discovery. ~
-charstring_0BD06D ~People set foot on[N]new continents,   [N]unearthing the    [N]remains of ancient[N]civilizations.    ~
+spritestring_0BD044 ~The world was in  [N]the midst of the  [N]Age of Discovery. ~
+spritestring_0BD06D ~People set foot on[N]new continents,   [N]unearthing the    [N]remains of ancient[N]civilizations.    ~
 
 ----------------------
 ?INCLUDE 'pr8D_prologue2'
 ----------------------
-charstring_0BD0B2 ~As time passed,   [N]their legends     [N]slowly rose from  [N]the darkness.     ~
-charstring_0BD0E3 ~The thread that   [N]bound them all was[N]the presence of   [N]mysterious ruins. ~
-charstring_0BD11C ~Various artifacts [N]were excavated    [N]from their depths.~
-charstring_0BD144 ~Among the relics  [N]found were strange[N]statues thought to[N]represent gods.   ~
-charstring_0BD189 ~What were gods    [N]to the ancients?  [N]The ruins fail    [N]to shed light     [N]on their nature.  ~
+spritestring_0BD0B2 ~As time passed,   [N]their legends     [N]slowly rose from  [N]the darkness.     ~
+spritestring_0BD0E3 ~The thread that   [N]bound them all was[N]the presence of   [N]mysterious ruins. ~
+spritestring_0BD11C ~Various artifacts [N]were excavated    [N]from their depths.~
+spritestring_0BD144 ~Among the relics  [N]found were strange[N]statues thought to[N]represent gods.   ~
+spritestring_0BD189 ~What were gods    [N]to the ancients?  [N]The ruins fail    [N]to shed light     [N]on their nature.  ~
 
 ----------------------
 ?INCLUDE 'pr8E_prologue3'
 ----------------------
-charstring_0BD1CA ~Those who ventured[N]into the ruins in [N]search of the lost[N]age's secrets were[N]never seen again. ~
+spritestring_0BD1CA ~Those who ventured[N]into the ruins in [N]search of the lost[N]age's secrets were[N]never seen again. ~
 
 ----------------------
 ?INCLUDE 'pr8F_prologue4'
 ----------------------
-charstring_0BD222 ~Some people spoke [N]of traps placed to[N]protect treasure. [N]                  [N]Others called     [N]it a curse        [N]from the          [N]ancients.         ~
+spritestring_0BD222 ~Some people spoke [N]of traps placed to[N]protect treasure. [N]                  [N]Others called     [N]it a curse        [N]from the          [N]ancients.         ~
 
 ----------------------
 ?INCLUDE 'pr8C_prologue5'
 ----------------------
-charstring_0BD272 ~But none of them  [N]expected that the [N]ruins prophesized [N]the coming of a   [N]terrible disaster.~
+spritestring_0BD272 ~But none of them  [N]expected that the [N]ruins prophesized [N]the coming of a   [N]terrible disaster.~
 
 ----------------------
 ?INCLUDE 'sc08_priest'
