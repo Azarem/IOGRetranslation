@@ -29,15 +29,13 @@ widestring_04CB3F `[TPL:19][TPL:8]Soldier: Zzz… Zzz…[END]`
 --------------------------------
 ?INCLUDE 'ec0A_kara'
 --------------------------------
-widestring_04CFDB `[TPL:0][TPL:A]Will: [N](If you [LU1:F1]to [LU1:E7]her[N]away, now's the time…)[END]`
-;TODO!!
+widestring_04CFDB `[TPL:0][TPL:A][NAM:0]: (No, if I'm going to[N]take [NAM:1] away, now's the[N]time...)[END]`
 
 widestring_04CE4A `[TPL:1][TPL:A][NAM:1]: You came for me[N]after all! Thank you very[N]much.[FIN]That soldier outside, he[N]was sleeping, right?[FIN][TPL:B]The truth is, he used to[N]be nicknamed "Snot Bubbleˮ[N]a long time ago. He's[N]sleeping even now.[FIN][CLD][TPL:0][TPL:9][NAM:0]: Your piglet came for[N]me…[FIN][TPL:1][TPL:9][NAM:1]: It's named [NAM:7].[N]Cute, right?[FIN][TPL:A]It's a very smart piglet.[N]It's even got a little bit[N]of a mysterious power…[FIN]Alright, take me out of[N]here![END]`
 
 widestring_04D012 `[TPL:1][TPL:B][NAM:1]: Ah, that's right…![N]Since it might be a long[N]journey, let's take some[N]food.[FIN]Won't you go to the[N]basement for me?[END]`
 
-widestring_04D114 `[TPL:1][TPL:A][NAM:1]:[N]I [LU1:DA][LU1:CF]put food[N]in one of [LU1:E4]barrels.[END]`
-;TODO!!!
+widestring_04D114 `[TPL:1][TPL:A][NAM:1]: If I recall[N]correctly, food is put in[N]the barrels around here.[END]`
 
 --------------------------------
 ?INCLUDE 'ec0A_barrel_roast'
@@ -54,8 +52,7 @@ widestring_04D069 `[TPL:1][TPL:9][NAM:1]: Alright. We're[N]finally heading out, 
 --------------------------------
 ?INCLUDE 'sc06_kara_return'
 --------------------------------
-widestring_04AF7F `[TPL:0][TPL:A]Will: [N](I suspect [LU1:DB]a[N] clue in the house…)[END]`
-;TODO!!
+widestring_04AF7F `[TPL:0][TPL:A][NAM:0]: (No, there must[N]definitely be a clue in[N]the house...)[END]`
 
 widestring_04A746 `[TPL:0][TPL:A][NAM:0]: Wah…! What in the…[N]Why does it look like[N]this…[END]`
 
@@ -109,10 +106,9 @@ widestring_04B40D `[TPL:4][TPL:9][NAM:4]: What's tha matter,[N][NAM:0]? Ya got a
 --------------------------------
 widestring_04BBDA `[TPL:3][TPL:9][NAM:3]: What's wrong? You're[N]different than usual.[END]`
 
-widestring_04ADFE `[TPL:2][TPL:B][NAM:2]: Have you decided[N]to head out?[N][PAL:0] Yes[N] No`
+widestring_04ADFE `[TPL:2][TPL:B][NAM:2]: Have you decided[N]to head out?[N][PAL:0] Yes[N] No[PAL:4]`
 
-widestring_04AE24 `[CLR][TPL:2][LU1:2A]All right.[N]If you decide to[N]go, [LU1:79][LU1:73]here[N][LU1:F6][LU1:FF]through.[PAL:0][END]`
-;TODO!!
+widestring_04AE24 `[CLR][NAM:2]: Is that so. Well,[N]some back here when you're[N]in the mind to set out.[END]`
 
 widestring_04AE61 `[TPL:1][TPL:B][NAM:1]: I feel like some[N]lovely experiences are[N]ahead of us.[FIN][TPL:2][TPL:B][NAM:2]: No, from here,[N]there will definitely be a[N]lot of difficulties…[N]*Sigh*…[END]`
 

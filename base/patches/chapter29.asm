@@ -80,8 +80,7 @@ widestring_088CE0 `[TPL:D][SFX:10]The man holds out a[N]trembling hand…[FIN][T
 
 widestring_088D1F `[CLR][TPL:F]You couldn't understand[N]each other, but you felt[N]that something seemed to[N]have been communicated.[END]`
 
-widestring_088D54 `[CLR]The man [LU1:AA]lonely...[PAL:0][END]`
-;TODO!!
+widestring_088D54 `[CLR]The man's face seems[N]lonely…[END]`
 
 -------------------------------------
 ?INCLUDE 'nvAC_dumpling_man'
@@ -108,8 +107,7 @@ widestring_089126 `[TPL:E][SFX:10]The boy pulls on your[N]sleeve. He probably wa
 
 widestring_089178 `[CLR]The boy smiled and[N]beckoned with his hand.[END]`
 
-widestring_089190 `[CLR]He [LU1:AA]lonely...[PAL:0][END]`
-;TODO!!
+widestring_089190 `[CLR]The boy made a[N]lonely-seeming face…[END]`
 
 widestring_0891A2 `[TPL:0][TPL:A]The boy is facing the[N]skeleton with tears[N]welling in his eyes…[FIN]Was this skeleton a blood[N]relative? Or could they[N]have been a friend?[END]`
 

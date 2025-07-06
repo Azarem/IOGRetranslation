@@ -56,8 +56,7 @@ widestring_04A0D7 `[TPL:1][TPL:B][NAM:1]: I think you've[N]got the wrong person.
 
 widestring_04A15A `[TPL:1][TPL:A][NAM:1]: I'm sorry for[N]lying to you. I'm [NAM:1][N]of Edward Castle.[FIN]I think you were called[N][NAM:0]? It feels like we've[N]met before.[FIN]For some reason, it seems[N]like we could become good[N]friends.[END]`
 
-widestring_04958A `[TPL:4][TPL:A][LU1:6]So, [LU1:D7]girl[N]likes to play practical[N]jokes. Heh heh heh.[END]`
-;TODO!!!!!
+widestring_04958A `[TPL:4][TPL:A]Bill: Jeez, she turned out[N]to be a girl who likes[N]jokes. Haw haw haw.[END]`
 
 widestring_049B18 `[TPL:3][TPL:B][NAM:6]: If we're talking[N]about Edward Castle, it[N]has a giant aqueduct[N]underground.[FIN][TPL:4][TPL:B]Bill: I was the person[N]who built that that[N]labyrinthine aqueduct,[N][NAM:0].[FIN][CLD][TPL:0][BOR:2][TPL:8][NAM:0]: Wha…! Really?[END]`
 
@@ -76,8 +75,7 @@ widestring_04A4CC `[TPL:0][DLG:3,B][SIZ:D,3][NAM:0]: Ultimately, dinner[N]was me
 ------------------------
 widestring_04A582 `[TPL:E]Then, the next morning. A[N]terrible affair had tried[N]to arise…[END]`
 
-widestring_049828 `[TPL:4][TPL:A][LU1:6]I had some leftover[N]pie for breakfast. I[N]saved you a slice.[END]`
-;TODO!!!!!!!!!!!!!!
+widestring_049828 `[TPL:4][TPL:A]Bill: Good morning. For[N]breakfast we're having[N]Grandma [NAM:6]'s pie[N]again… Ugh…[END]`
 
 widestring_049BE5 `[TPL:3][TPL:A][NAM:6]: Good morning, [NAM:0].[N]A letter has arrived for[N]you from King Edward.[FIN][CLD][TPL:9]In the letter was written[N]something like this.[FIN][TPL:4][BOR:1][TPL:B]"Bring the crystal ring[N]from [NAM:9]'s personal[N]possessions to Edward[N]Castle.ˮ       King Edward[FIN][TPL:3][TPL:B][NAM:6]: From the time I[N]saw this letter, I've[N]been ticked off somehow.[FIN]That's it. [NAM:0]. I'll teach[N]you a good luck charm.[FIN]When you're worried, if[N]you whistle this, you can[N]definitely get through.[FIN][CLD][TPL:9][NAM:6] hummed a mysterious[N]melody.[END]`
 

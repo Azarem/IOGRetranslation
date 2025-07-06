@@ -111,8 +111,7 @@ widestring_05B8CD `[TPL:20][TPL:C]A slave escaped.[FIN][TPL:F]You haven't notice
 
 widestring_05B90C `[CLR]What did you say!? If you[N]tell me where they are, I[N]might be so kind as to[N]give you a Red Jewel.[WAI][N][PAL:0] Inform him[N] Smile and lie[PAL:4]`
 
-widestring_05B8F1 `[CLR]Hmm.[N][LU2:3B]me if you see him.[END]`
-;TODO!!!!!!
+widestring_05B8F1 `[CLR]Is that so.[N]If you find him,[N]notify me.[END]`
 
 widestring_05B9AF `[CLD][TPL:D]However, [NAM:0] doesn't know[N]where the slave is hiding.[FIN][::][CLD][TPL:20][TPL:D]Man: Hey… Little boy…[N]Don't make fun of adults…![END]`
 
@@ -182,8 +181,7 @@ widestring_05C190 `[TPL:20][TPL:A]Hey boy…! This isn't a[N]place for children!
 
 widestring_05C1E2 `[CLR]I'm starting to like your[N]courage! I don't know if[N]you're really buying or[N]what, but take a look.[END]`
 
-widestring_05C21F `[CLR]Go [LU2:75]Go home![END]`
-;TODO!!!!
+widestring_05C21F `[CLR]Well, go home, go home!![END]`
 
 --------------------------------------
 ?INCLUDE 'fr3C_imas'

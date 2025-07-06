@@ -58,14 +58,11 @@ widestring_0AA7B4 `[TPL:16][TPL:E]Slave: T-thank you!! I[N]will never forget thi
 
 widestring_0AA7EF `[CLR][SFX:0][DLY:9]You [LU1:98]the[N]key to the mine![PAU:FF][END]`
 
-widestring_05D5AC `[DEF]Without both keys, [N]the [LU2:58][LU1:FA]open...[END]`
-;TODO!!!
+widestring_05D5AC `[TPL:F]I guess the door most[N]likely can't be opened if[N]both the locks aren't both[N]unlocked…[END]`
 
-widestring_05D5D1 `[DEF]I [LU1:98]both keys...[N]Put in the keys?[N] Yes[N] No`
+widestring_05D5D1 `[TPL:F]I have both keys…[N]Put in the keys?[N] Yes[N] No`
 
 widestring_05D5FF `[CLR]The key turns with[N]a [LU1:C7]sound.[END]`
-
-widestring_05D193 `[DEF][TPL:5]Remus:[N]Cut the chain![PAL:0][END]`
 
 -----------------------------------------------
 ?INCLUDE 'dm47_remus'

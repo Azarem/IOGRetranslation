@@ -38,8 +38,7 @@ widestring_07846A `[TPL:1C][TPL:F]Woman: A girl wearing pink[N]clothes was makin
 -------------------------------------
 widestring_0796A9 `[TPL:1C][TPL:F]This is where we meet for[N]Russian glass.[N]Are you participating?[WAI][N][PAL:0] Yes[N] No[PAL:4]`
 
-widestring_0796DE `[CLR]Then go home, and[N][LU2:6A][LU1:F7]you've[N][LU2:A7]here.[END]`
-;TODO!!
+widestring_0796DE `[CLR]Alright, in that case, go[N]home. Then forget[N]everything you saw here.[END]`
 
 widestring_079704 `[CLR]What, you’re betting your[N]young life on Russian[N]glass…?![FIN]This isn't a game.[N]You're betting your life.[FIN]I'll ask you one more[N]time. You really won't[N]regret this?[WAI][N][PAL:0] Yes[N] No[PAL:4]`
 
@@ -70,7 +69,6 @@ code_079AAC {
 widestring_079992 `[CLR][NAM:0]: I'll skip this[N]glass…[END]`
 
 widestring_0799AF `[CLR][NAM:0]: My body[N]is getting numb…[END]`
-;TODO!!
 
 widestring_0798E8 `[CLD][TPL:0][TPL:E][NAM:0]: I closed my eyes and[N]drained the glass in one[N]gulp![END]`
 
@@ -100,7 +98,7 @@ widestring_039696 `[TPL:D]Gently opened and read[N]the will.[FIN][TPL:24][BOR:1]
 -------------------------------------
 ?INCLUDE 'wa78_prize_kruk'
 -------------------------------------
-widestring_079B30 `[TPL:0][TPL:E]I guess these are the[N][NAM:15]s that were supposed[N]to be given…[FIN]I should let everyone know[N]right away.[END]`
+widestring_079B30 `[TPL:0][TPL:E]I guess these are the[N][NAM:15]s that they said they[N]were giving me…[FIN]I have to inform everyone[N]right away.[END]`
 
 widestring_07A833 `[TPL:1][TPL:A][NAM:1]: They say Neil[N]wasn't born in any old[N]house.[FIN]His family runs a trading[N]company from their mansion[N]in the town of Euro.[END]`
 
@@ -110,8 +108,7 @@ widestring_07ADEA `[TPL:4][TPL:A][NAM:4]: It's my bad fer[N]everything, but I'm[
 
 widestring_07AA5E `[TPL:2][TPL:9][NAM:2]: I'm also remaining[N]in this town.[FIN]As for the reason…[N]Well, ask [NAM:4].[END]`
 
-widestring_07A2BE `[TPL:6][TPL:A][LU1:36][N]You got [NAM:15]s? [LU1:5D][N]so expensive . .? [FIN]Why [LU1:CE]a sad face? [N][LU1:30]I [LU2:A8]ask [N][LU1:F7]the reason is. [FIN]I [LU1:DA]we [N][LU1:CA]go west, [N]to Euro... [FIN]Lance and [LU1:2C][LU1:F1][N]to stay [LU2:74]You [N][LU1:CA]ask [LU1:E6]why. [END]`
-;TODO!!
+widestring_07A2BE `[TPL:6][TPL:A]Neil: You're saying you[N]were given [NAM:15]s!? That[N]kind of expensive thing…?[FIN]Why are you looking at me[N]with those sort of[N]lonely-seeming eyes…?[FIN]Well, I won't dig deeply[N]into the reason.[FIN][TPL:B]With that being said. I[N]thought we'd end up going[N]to the town called Euro to[N]the west, but…[FIN][NAM:4] and [NAM:2] say[N]they're staying in this[N]town. Well, listen to the[N]reason from those two.[END]`
 
 widestring_07A366 `[TPL:6][TPL:12]Neil: I think that the[N]moment where a boy and a[N]girl develop feelings for[N]each other is wonderful[N]and magical.[FIN][CLD][TPL:6][TPL:A]I want to believe that[N]we'll never forget this[N]feeling.[FIN]Anyway. My parents' house[N]is in Euro, isn't it?[FIN]I think we'll familiarize[N]ourselves with [NAM:0]'s power[N]somehow if we go there.[FIN]Alright, let's head out to[N]Euro…!![END]`
 

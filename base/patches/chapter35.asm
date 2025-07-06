@@ -15,8 +15,7 @@ widestring_098CAA `[TPL:23][TPL:9][DLY:2]The comet will be very[N]near soon.[FIN
 -------------------------------------
 widestring_099068 `[TPL:23][TPL:F][DLY:0][NAM:9]: Ancient people[N]once worshipped the comet[N]as a god.[FIN]A mysterious power dwells[N]in things that are[N]showered in the comet's[N]light, after all.[FIN]Certainly, you could call[N]the comet a god. You could[N]also call it a singular[N]lifeform.[FIN]But it's a god that no one[N]asked for. It advances[N]things too fast, and so[N]only gives birth to[N]destruction…[FIN]As long as there is evil[N]in people's hearts, demons[N]will be born.[FIN]Well, [NAM:0], please focus[N]your eyes and take a look.[END]`
 
-widestring_099182 `[TPL:23][TPL:F][NAM:9]: I [LU1:BA][N]to [LU2:AC]to you.[PAL:0][END]`
-;TODO!!
+widestring_099182 `[TPL:23][TPL:D][NAM:9]: Well, go speak[N]with them.[END]`
 
 -------------------------------------
 ?INCLUDE 'btE4_kara'

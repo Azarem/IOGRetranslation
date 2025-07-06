@@ -213,16 +213,14 @@ widestring_07CEDD `[CLR]Is that so…[N]Do you not like it?[END]`
 
 widestring_07CE54 `[CLR][TPL:0][TPL:F]It had a scent that[N]irritated your nose…[FIN]However, it seems that[N][NAM:11]'s Power of[N]Darkness grew stronger.[FIN][CLD][TPL:C]Dark [NAM:10]'s power rose!![END]`
 
-widestring_07CEB6 `[CLR]The [LU1:C][NAM:10]'s power[N]is strong enough![END]`
-;TODO!!
+widestring_07CEB6 `[CLR]However, it seems that[N]Dark [NAM:10]'s power is[N]strong enough...[END]`
 
 -------------------------------------
 ?INCLUDE 'eu97_life_medicine'
 -------------------------------------
 widestring_07CD39 `[TPL:1E][TPL:F]That is the Medicine of[N]Life. Will you drink it?[N][PAL:0] Yes[N] No[PAL:4]`
 
-widestring_07CD9B `[CLR]Really....[N][LU1:D]you [LU1:A5]it?[END]`
-;TODO!!
+widestring_07CD9B `[CLR]Is that so…[N]Do you not like it?[END]`
 
 widestring_07CD64 `[CLR][TPL:0][TPL:F]The taste irritated your[N]mouth… However, your[N]endurance rose!![END]`
 

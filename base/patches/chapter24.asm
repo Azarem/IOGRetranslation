@@ -41,10 +41,9 @@ widestring_07879B `[TPL:1C][TPL:F]Luke: Yo. Are you taking[N]a liking to the hou
 -------------------------------------
 ?INCLUDE 'wa78_diary'
 -------------------------------------
-widestring_079C19 `[TPL:0][TPL:F][NAM:1] hid her diary here…[N]Read it?[N][PAL:0] Yes[N] No`
+widestring_079C19 `[TPL:0][TPL:F][NAM:1] hid her diary here…[N]Read it?[N][PAL:0] Yes[N] No[PAL:4]`
 
-widestring_079C4A `[CLR]OK. You'd [LU1:91]guilty[N]reading it without[N]permission...[PAL:0][END]`
-;TODO!!
+widestring_079C4A `[CLR]I guess that's how it is.[N]I'd feel guilty even if's[N]just selfishly reading it,[N]so I'll pass…[END]`
 
 widestring_079C81 `[CLR][TPL:1][BOR:1][DLG:3,F][SIZ:D,5]Day X of month X:[N]It's been a long long[N]road, but we finally[N]arrived at the Capital of[N]Water, Watermia.[FIN][DLG:3,D][SIZ:D,6]I was thirsty along the[N]way, but I endured it. I[N]was developing blisters[N]inside my shoes, but I did[N]my best to bandage them[N]with a handkerchief.[FIN]Maybe I would have just[N]complained before, but I[N]didn't say anything now.[N]I think I've changed[N]dramatically with this[N]journey…[FIN]I've become used to[N]putting in my full effort[N]for the sake of a certain[N]someone. I'm taking a bit[N]of a liking to who I am[N]now.[FIN][CLD][TPL:1][BOR:1][TPL:F]I just heard from a[N]townsperson about a[N]legend that's spoken of[N]here.[FIN][DLG:3,F][SIZ:D,5]"If you make wish while[N]riding a lotus leaf on a[N]full moon night, the[N]person you like will take[N]a close look at you…ˮ[FIN][CLD][TPL:1][BOR:1][TPL:E]It's a wonderful legend,[N]isn't it? Can't I can try[N]it out soon…?[END]`
 

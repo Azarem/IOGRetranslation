@@ -64,12 +64,10 @@ widestring_05E0C1 `[TPL:1][TPL:9][NAM:1]: You said it was[N]Cygnus?![FIN][TPL:6]
 
 widestring_05DE46 `[TPL:2][TPL:B][NAM:2]: Well, now that you[N]mention it, there's been a[N]new red star underneath[N]Cygnus as of late…[FIN][TPL:6][TPL:B]Neil: Exactly…! You know a[N]lot, don't you?[FIN]Between the new star[N]appearing in Cygnus and[N][NAM:0]'s talk of ruins,[FIN]these various elements are[N]tied together too neatly[N]for it to happen[N]organically…[FIN][TPL:12]I don't know if it's[N]coincidence or conspiracy,[N]but the fact is that[N]something is going to[N]happen.[FIN][CLD][TPL:6][TPL:9]However, the circumstances[N]are good.[FIN][TPL:B]The desert of the Nazca[N]lines is at most a day's[N]walk to the east from[N]here.[FIN][::]Will you check it out?[N][PAL:0] Yes[N] No[PAL:4]`
 
-widestring_05DF9F `[CLR][LU1:36][N][LU1:D]say that. [N][LU2:1]I [LU1:F1]to go. [FIN][JMP:&widestring_05DE46+M]`
-;TODO!!!!
+widestring_05DF9F `[CLR]Neil: Hey, don't say that.[N]You know, to tell you the[N]truth, I want to go[N]myself.[FIN][JMP:&widestring_05DE46+M]`
 
 widestring_05DFC3 `[CLR]Neil: Alright…! I guess[N]it's settled then.[END]`
 
 widestring_05E227 `[TPL:4][TPL:8][NAM:4]: We're going too…![FIN][TPL:9][NAM:0] won't be tha only one[N]who can have fun memories.[FIN][CLD][TPL:9]The party headed to the[N]Nazca desert…[END]`
 
-widestring_05DFDC `[TPL:2][TPL:B][LU1:2A]I [LU2:A8]say [N][LU1:6C]bad [LU1:6B][N]Will's cousin, but [N][LU1:D6]inventor...[PAL:0][END]`
-;TODO!!!!
+widestring_05DFDC `[TPL:2][TPL:B][NAM:2]: He's [NAM:0]'s cousin[N]so I won't speak ill of[N]him, but isn't this guy an[N]inventor…?[END]`

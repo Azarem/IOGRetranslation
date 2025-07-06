@@ -7,8 +7,7 @@ widestring_059D42 `[TPL:1][TPL:A][NAM:1]: You finally came[N]to, huh. We were sp
 
 widestring_059D91 `[TPL:B][NAM:1]: Is that so? It[N]seems like you recover[N]quickly, huh. You're like[N]a lizard's tail.[FIN][JMP:&widestring_059DCD+M]`
 
-widestring_059DCD `[CLR][LU1:25]Of course, you [N][LU1:F2]unconscious for [N][LU1:B7][LU2:B5]half a day. [FIN][::][TPL:12]I've read stories of being[N]adrift in books, but I[N]would have thought it[N]ridiculous that it would[N]turn out like this for me.[FIN][CLD][TPL:1][TPL:A]I guess that disaster[N]comes around suddenly,[N]huh.[END]`
-;TODO (option2)!!!
+widestring_059DCD `[CLR][NAM:1]: No wonder, right?[N]You were unconscious for[N]over half a day.[FIN][::][TPL:12]I've read stories of being[N]adrift in books, but I[N]would have thought it[N]ridiculous that it would[N]turn out like this for me.[FIN][CLD][TPL:1][TPL:A]I guess that disaster[N]comes around suddenly,[N]huh.[END]`
 
 widestring_059E6F `[TPL:1][TPL:9][NAM:1]: You know, I can't[N]help but worry.[FIN][TPL:A]Oh, you know, if we don't[N]think about the future, we[N]could enjoy being adrift…[FIN][TPL:B]I'm starving already.[N]Let's have the meat we[N]took from the castle's[N]basement for lunch.[END]`
 

@@ -29,8 +29,7 @@ widestring_06DC97 `[TPL:1D][TPL:B]Ishtar's apprentice: You[N]can pass when you s
 -------------------------------------
 ?INCLUDE 'av75_voice_doors'
 -------------------------------------
-widestring_06D83E `[TPL:A][LU2:16][LU1:EE]resounds.[FIN][LU1:D]hurry.[N]Open the doors in order[N][LU1:8E]the left.[END]`
-;TODO!!
+widestring_06D83E `[TPL:8]Ishtar's voice echoes.[FIN][TPL:3][TPL:A]Don't be impatient like[N]that. Open them in order[N]from the left door.[END]`
 
 -------------------------------------
 ?INCLUDE 'av75_voice_rooms'

@@ -68,8 +68,7 @@ widestring_06930A `[TPL:D][NAM:2] started talking[N]from [NAM:0]'s pocket.[FIN][
 
 widestring_069377 `[TPL:2][TPL:D][NAM:2]: I discovered this[N]weird rock in the coffin.[FIN]`
 
-widestring_0693B7 `[DEF][TPL:2][NAM:2]:[N]I [LU1:8F]a [LU1:C7]stone[N][LU1:A2][LU1:D6]coffin.[FIN]But [LU1:FE]inventory[N]is full...[PAL:0][END]`
-;TODO!!!!
+widestring_0693B7 `[TPL:2][TPL:F][NAM:2]: I discovered this[N]weird rock in the coffin.[N]But your possessions look[N]like they're full, huh…?[END]`
 
 widestring_06939E `[CLD][TPL:D][SFX:0][DLY:9]Got the purification[N]stone![PAU:78][END]`
 

@@ -13,10 +13,9 @@ widestring_03865D `[TPL:D]There's no hole there to[N]use the prison key in.[END]
 
 widestring_038746 `[TPL:E]Could the secret of the[N]Inca be hidden in this[N]statue…?[END]`
 
-widestring_03893E `[DEF]I [LU1:78][LU1:90]a space [N][LU1:D7]the diamond-shaped [N]block fits. [END]`
-;TODO!!!!
+widestring_03893E `[TPL:F]It seems that you couldn't[N]find a hole to insert the[N]water caltrop shaped block[N]into around here.[END]`
 
-widestring_03897C `[DEF]He fit the block[N][LU1:A1]the tile![END]`
+widestring_03897C `[TPL:D]Inserted the block into[N]the open tile.[END]`
 
 ---------------------------------------
 ?INCLUDE 'ir26_bones'

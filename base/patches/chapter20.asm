@@ -80,8 +80,7 @@ widestring_0AFB45 `[TPL:21][TPL:E]Vampire man: You did well,[N]finding the [NAM:
 
 widestring_0AFCA0 `[CLD][TPL:22][TPL:F]Vampire woman: Hmph. That[N]man's dead; what a relief.[N]Alright, it's your turn[N]next…!! Get ready…!![PAU:78][END]`
 
-widestring_0AFCE4 `[CLD][TPL:21][TPL:E]Vampire: You! [N]You did [LU1:D7]to my wife! [N][LU1:1F][LU1:BB]forgive you!![PAL:0][PAU:78][END]`
-;TODO!!!!
+widestring_0AFCE4 `[CLD][TPL:21][TPL:F]Vampire man: You bastard…![N]How could you do that to[N]my wife…!! I won't[N]tolerate this…!!!![PAU:78][END]`
 
 widestring_06A38D `[TPL:3][TPL:E]Before anything else, stop[N]the booomb…! Hurry[N]hurry…!![END]`
 

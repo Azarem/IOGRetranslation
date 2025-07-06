@@ -97,8 +97,7 @@ widestring_04C58D `[TPL:3][BOR:7][TPL:F]Queen Edward: The king is[N]the one who 
 --------------------------------
 widestring_04C40E `[TPL:4][BOR:7][TPL:E]King Edward: YOU'RE [NAM:0]?[N]You're dressed rather[N]drab, I'd think.[FIN][TPL:F]Well, let's get on with[N]it. Did you bring the[N]Crystal Ring?[WAI][PAL:0][N] Yes[N] No`
 
-widestring_04C460 `[CLR][TPL:4][LU1:18]An honest lad.[N]Give me the Ring.[FIN][TPL:0][TPL:F]Will: [N].............[FIN][TPL:4][BOR:7][TPL:F][LU1:27]Edward:[N]Hmm?[N][PAU:3C]Are you lying [N]to me, young whelp?![FIN]`
-;TODO!!
+widestring_04C460 `[CLR][TPL:4]Very good. A very obedient[N]child, aren't you. Well,[N]you should show me the[N]ring.[FIN][TPL:0][TPL:F][NAM:0]: [N].............[FIN][TPL:4][BOR:7][TPL:F]King Edward: Ungh?[N][PAU:3C]Did you just lie to me!?[FIN]`
 
 widestring_04C4D5 `[CLR][TPL:4]How dare you shamelessly[N]say something like[N]that…!?[FIN]`
 

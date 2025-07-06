@@ -105,14 +105,13 @@ widestring_04EA77 `[TPL:4][BOR:6][TPL:10]Elder: If the flower[N]fairies aren't g
 
 widestring_04EC46 `[TPL:4][BOR:6][TPL:F]That being said, were you[N]summoned by your father?[N][PAL:0] Yes[N] No[PAL:4]`
 
-widestring_04EC76 `[CLR][TPL:4][LU1:13]What? If you[N]weren't....That's a[N]bad sign....[PAL:0][END]`
-;TODO
+widestring_04EC76 `[CLR]Elder: What? If you[N]weren't summoned… Then was[N]the bad mark a mistake…?[END]`
 
 widestring_04ECAB `[CLR]Elder: I understand…[N]Well, [NAM:6]'s hunch was[N]right, wasn't it.[END]`
 
 widestring_04ECCB `[TPL:4][BOR:6][TPL:E]So, do you intend to go?[N][PAL:0] Yes[N] No[PAL:4]`
 
-widestring_04ECEC `[CLR][LU1:13]A disobedient [N]son, unlike [LU1:FE]father.[END]`
+widestring_04ECEC `[CLR]Elder: What. Unlike your[N]father, you're a meek[N]child.[END]`
 
 widestring_04ED19 `[TPL:4][BOR:6][TPL:10]Elder: Very well. In that[N]case, I will entrust you[N]with the Incan idol that[N]is handed down in this[N]village.[FIN][CLD][TPL:4][BOR:6][TPL:E]The two idols will be the[N]key to unravel the[N]mysteries of the Inca…[FIN]They have passed through[N]human hands for many[N]hundreds of years.[FIN][TPL:F]One idol is enshrined in[N]the cave below. Muster up[N]your wisdom and you may[N]take it.[END]`
 
@@ -134,8 +133,7 @@ code_04E609 {
 
 widestring_04E6E6 `[TPL:2][TPL:9][NAM:2]: Huh? The Race of[N]the Moon?[FIN][TPL:B]Yeah, I know them. They're[N]mysterious lifeforms that[N]better resemble shadows[N]rather than a race.[FIN]They dwell on the summit[N]of a tall, tall mountain[N]nearby, but…[FIN]…do you want to try[N]going there?[N][PAL:0] Yeah, I want to go[N] Actually, nevermind[PAL:4]`
 
-widestring_04E78B `[CLR][NAM:2]: I've heard stories[N]of people who have angered[N]them and lost their lives,[N]so we'd better be careful.[END]`
-;TODO!!
+widestring_04E78B `[CLR][NAM:2]: Is that so. After[N]all, they say that those[N]who anger them lose their[N]lives.[FIN]Maybe it's better if you[N]don't, right?[END]`
 
 widestring_04E778 `[CLD][TPL:2][TPL:9][NAM:2]: I understand.[N]Well, I'll guide you.[END]`
 

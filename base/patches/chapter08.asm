@@ -6,11 +6,9 @@
 ------------------------------
 widestring_04F53C `[TPL:2][TPL:A][NAM:2]: Alright, we've[N]arrived. This is the moon[N]race's habitat.[END]`
 
-widestring_04F7C1 `[DLG:3,6][SIZ:D,3][TPL:2][LU1:2A]Wait! We came[N][LU2:73]for a reason! We[N][LU1:78][LU1:A3]leave![END]`
-;TODO!!!!
+widestring_04F7C1 `[TPL:2][TPL:A][NAM:2]: Wait a second! We[N]came here because we had[N]an objective, didn't we?[FIN]We can't just go back all[N]of a sudden.[END]`
 
-widestring_04F7F7 `[DLG:3,6][SIZ:D,3][TPL:0]Will: [N](I [LU1:78]go [LU1:F8]the [N]Incan Statue…)[PAL:0][END]`
-;TODO!!!!
+widestring_04F7F7 `[TPL:0][TPL:A][NAM:0]: (I can't go back[N]without obtaining the[N]Incan Figure, can I...)[END]`
 
 widestring_04F860 `[TPL:2][TPL:A][NAM:2]: You're loitering;[N]talk to the moon race,[N]then do that.[END]`
 
@@ -45,20 +43,17 @@ widestring_04F575 `[TPL:2][TPL:9][NAM:2]: Well, I'll be[N]waiting here, alright?
 ------------------------------
 widestring_04F941 `[TPL:1A][DLG:3,4][SIZ:D,6]Moon race: The things in[N]here are the fruits of the[N]transformation of[N]organisms that have been[N]showered with the comet's[N]light.[FIN][CLD][TPL:1A][TPL:B]Already, they are[N]miserable beings with[N]nothing but hatred and a[N]destructive heart.[FIN][TPL:12]If you can exterminate[N]these monsters within 20[N]seconds, we'll give you[N]the Incan idol.[N]Mweheheheheheheh…[END]`
 
-widestring_04FA25 `[TPL:1A][TPL:F][LU1:31]Tribe: [N]In [LU1:D7]case, I [LU1:78][N][LU1:97]you the statue. [N]Ku ku ku… [END]`
-;TODO!!!
+widestring_04FA25 `[TPL:1A][TPL:F]Race of the Moon: With[N]that, we can't ive you[N]Incan idol, can we?[N]Mweheheheheheheh…[END]`
 
 widestring_04FA65 `[TPL:1A][TPL:E]Moon race: Oh my, what a[N]splendid boy.[N]Mweheheheheheheh…[FIN]With that, we'll give you[N]the Incan idol.[END]`
 
-widestring_04F591 `[TPL:2][TPL:9][NAM:2]:[N][LU1:62]happened?[FIN]… I can see[N]in [LU1:FE]face…[FIN][LU1:D]be depressed,[N]try again.[END]`
-;TODO!!!
+widestring_04F591 `[TPL:2][TPL:9][NAM:2]: How did it go?[FIN] …From your face, it looks[N]it was no good, huh?[FIN]Don't be discouraged;[N]keep at it one more time.[END]`
 
-widestring_04F5EA `[TPL:2][TPL:A][NAM:2]: Ah, that figure[N]is…! [NAM:0], you're[N]incredible, iiincredible![FIN]With this, that means[N]we've collected two[N]figures, right?[FIN][TPL:B]Do you plan to go to the[N]Incan ruins?[N][PAL:0] Yes[N] No`
+widestring_04F5EA `[TPL:2][TPL:A][NAM:2]: Ah, that figure[N]is…! [NAM:0], you're[N]incredible, iiincredible![FIN]With this, that means[N]we've collected two[N]figures, right?[FIN][TPL:B]Do you plan to go to the[N]Incan ruins?[N][PAL:0] Yes[N] No[PAL:4]`
 
 widestring_04F68F `[TPL:0][TPL:B][NAM:0]: Yeah. Because I was[N]told to by my dad…[FIN]I'm a little scared to[N]fight with monsters that[N]have been showered with[N]the comet's light.[FIN]But if Dad is alive,[N]because I want to meet him[N]I'll even brave the[N]danger.[FIN]I feel like I won't[N]understand without seeing[N]my parents…[FIN][CLD][TPL:2][TPL:9][NAM:2]: After all, you're[N]a boy, huh…[FIN]I understand. Alright,[N]let's head to the ruins.[FIN][CLD][TPL:9]So the two headed to the[N]Incan ruins.[END]`
 
-widestring_04F653 `[CLR][TPL:2][LU1:2A][N]Will, I [LU1:A4]you're. [N]lying. You [LU1:B2]go [N]no [LU1:B8][LU1:F7]you say. [FIN]`
-;TODO!!!!
+widestring_04F653 `[CLR][NAM:2]: That's a lie. I[N]know it. Even if you say[N]those words, [NAM:0] plans to[N]go, don't you?[FIN]`
 
 ------------------------------
 ?INCLUDE 'ir1C_lily'

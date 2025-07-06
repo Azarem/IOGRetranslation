@@ -69,13 +69,11 @@ widestring_05EC5B `[TPL:6][TPL:F]Neil: I think things like[N]this are nice on oc
 -------------------------------------
 widestring_05E6C0 `[TPL:D][DLY:0]Something like a tile is[N]buried in the sand…[FIN]As [NAM:0]'s flute touched it[N]something started to roar![END]`
 
-widestring_05E721 `[TPL:6][TPL:E][LU1:36]Will! [LU1:D][N][LU1:A9]yet! You [LU1:82][N][LU1:A4]what's in there!![PAL:0][END]`
-;TODO!!!!
+widestring_05E721 `[TPL:6][TPL:F]Neil: [NAM:0]…! Don't[N]investigate it yet! We[N]don't know whether there's[N]something there…!![END]`
 
 widestring_05E753 `[TPL:3][TPL:F][DLY:0][NAM:3]: Wah…! It looks like[N]something huge is[N]descending from above[N]us…!![END]`
 
 widestring_05E774 `[TPL:1][TPL:D][DLY:0][NAM:1]: Aah…! [NAM:0]…!![N][NAM:0]…!!![PAU:28][CLD]`
 
-widestring_05E811 `[TPL:0][TPL:E]Will: [N]Nazca is huge, so [N][LU1:82]go too far....[END]`
-;TODO!!!!
+widestring_05E811 `[TPL:0][TPL:F][NAM:0]: Since the Nazca[N]plain seems to be wide, I[N]guess I shouldn't go very[N]far…[END]`
 

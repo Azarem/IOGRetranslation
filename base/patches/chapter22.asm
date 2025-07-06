@@ -22,7 +22,7 @@ widestring_06C23C `[TPL:2][TPL:9][NAM:2]: What is she so[N]touchy about…[FIN][
 -------------------------------------
 ?INCLUDE 'av69_signs'
 -------------------------------------
-widestring_06BA36 `[TPL:1D][BOR:1][TPL:E]        Travelers:[N]   Please use this room[N]  ♥ Fallen Angel Clan ♥[END]`
+widestring_06BA36 `[TPL:1D][BOR:1][TPL:E]        Travelers:[N]   Please use this room[N]    Fallen Angel Clan[END]`
 
 widestring_06BA6B `[TPL:1D][BOR:1][TPL:D]Entrance to fallen[N]angel's town[END]`
 
@@ -33,15 +33,13 @@ widestring_06BC5C `[TPL:4][TPL:A][NAM:4]: [NAM:0]. Tha thing is,[N]I've got some
 
 widestring_06BD1A `[CLR][TPL:0][TPL:B][NAM:0]: That's right. I've[N]never thought that you'd[N]be saying things like[N]that.[FIN]`
 
-widestring_06BD4A `[CLR][TPL:0][TPL:B][NAM:0]: But you've spent a[N]lot of time together by[N]now.[FIN]It wouldn't be unnatural[N]even to be in love with[N]her.[FIN][TPL:4][TPL:B][NAM:4]: Speakin' o' that.[N]It seems like [NAM:2]'s[N]fifteenth birthday is[N]comin' up soon.[FIN]I want to tell her my[N]feelin's with a present[N]then, but what do ya think[N]I should go with?[FIN][PAL:0] A pretty bouquet[N] A wonderful necklace[N] A tender kiss`
+widestring_06BD4A `[CLR][TPL:0][TPL:B][NAM:0]: But you've spent a[N]lot of time together by[N]now.[FIN]It wouldn't be unnatural[N]even to be in love with[N]her.[FIN][TPL:4][TPL:B][NAM:4]: Speakin' o' that.[N]It seems like [NAM:2]'s[N]fifteenth birthday is[N]comin' up soon.[FIN]I want to tell her my[N]feelin's with a present[N]then, but what do ya think[N]I should go with?[FIN][PAL:0] A pretty bouquet[N] A wonderful necklace[N] A tender kiss[PAL:4]`
 
 widestring_06BE1F `[CLR][TPL:0][TPL:B][NAM:0]: I don't think[N]there's a girl out there[N]who wouldn't be happy to[N]get a bouquet of flowers.[FIN][TPL:4][TPL:B][NAM:4]: I guess that's[N]expected.[FIN][TPL:12]Well, I think I can try[N]to communicate a love[N]confession through tha'[N]language of flowers;[N]rosebuds.[FIN][CLD][JMP:&widestring_06BF7C]`
 
-widestring_06BE85 `[CLR][TPL:0][NAM:0]: Of course, [N][LU1:C8]she'd wear [N][LU1:F3]be nice. [FIN][LU1:61]she sees it, she'll [N][LU1:DA]of [LU2:C7][FIN][TPL:4]Lance: Of course. [N][LU1:1F][LU1:90]stones and [N][LU2:84]a necklace. [FIN][JMP:&widestring_06BF7C]`
-;TODO!!
+widestring_06BE85 `[CLR][TPL:0][TPL:B][NAM:0]: Of course, shouldn't[N]it be something that she[N]regularly wears?[FIN]Because whenever she sees[N]it, she'll think about how[N][NAM:4] is doing.[FIN][TPL:4][NAM:4]: Ah, I get it.[FIN][TPL:B]Well then, I'll try[N]searching for pretty[N]stones or something like[N]that and making a necklace.[FIN][JMP:&widestring_06BF7C]`
 
-widestring_06BF0A `[CLR][TPL:0][NAM:0]: [N]That's the [LU2:89][LU1:E3][N]she'd like, right? [FIN][TPL:4]Lance: It might be too [N]sudden, but if you [LU1:DA][N][LU1:9F]OK, [LU1:1F]try it. [FIN][JMP:&widestring_06BF7C]`
-;TODO!!
+widestring_06BF0A `[CLR][TPL:0][TPL:B][NAM:0]: If you truly like[N]her there's nothing else[N]but this, right?[FIN][TPL:4][TPL:B][NAM:4]: I feel like doing[N]that all of a sudden would[N]be too bold, but if you[N]say so, should I try it…?[FIN][JMP:&widestring_06BF7C]`
 
 widestring_06BF7C `[TPL:4][TPL:B][NAM:4]: Thanks fer lending[N]me yer advice.[FIN]I'll try to think of it[N]in my own way. Good[N]friends are nice to have,[N]ain't they.[END]`
 

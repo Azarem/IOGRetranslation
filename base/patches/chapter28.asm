@@ -84,8 +84,7 @@ widestring_07DDBF `[TPL:6][TPL:8]Neil: Hey, come in…![END]`
 
 widestring_07DDD2 `[TPL:1][TPL:8][NAM:1]: [NAM:7]…![FIN][CLD][BOR:3][TPL:8]Squee squee…![FIN][TPL:1][TPL:8]How?! Was she okay?![FIN][TPL:6][TPL:A]Neil: Hahaha. It seems[N]like she was chasing after[N]you all the way.[FIN][NAM:2] discovered her in[N]the Floating City and sent[N]her for us.[FIN]You could call it[N]Reuleck's delivery[N]service.[FIN][TPL:12]Even though I'm no longer[N]one of your travel[N]companions, aren't you[N]gaining even more powerful[N]allies?[END]`
 
-widestring_07DEAD `[TPL:6][TPL:9][LU1:36][N]Take care, everyone.[PAL:0][END]`
-;TODO!!
+widestring_07DEAD `[TPL:6][TPL:8]Neil: Everyone's lively.[END]`
 
 -------------------------------------
 ?INCLUDE 'eu96_erik'

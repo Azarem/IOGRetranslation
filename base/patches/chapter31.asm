@@ -22,8 +22,7 @@ widestring_08A51E `[TPL:1][TPL:12][NAM:1]: For a town that[N]people call a hideo
 -------------------------------------
 widestring_08B1EF `[TPL:1F][TPL:F]Are you, by chance,[N]Mr. [NAM:0]?[N][PAL:0] Yes[N] No[PAL:4]`
 
-widestring_08B27F `[CLR]Hmmm. I [LU2:71]he [N]arrives soon. [N]Very distressing... [END]`
-;TODO!!
+widestring_08B27F `[CLR]Is that so…? But I've[N]received a package for[N]him, you know. How vexing,[N]how vexing…[END]`
 
 widestring_08B21A `[CLR]Alright, perfect! I'm[N]delivering a letter and[N]package from people called[N]Bill and [NAM:6].[FIN]Take them.[FIN]`
 
@@ -81,13 +80,11 @@ widestring_08AB11 `[TPL:C]Kyuui… kyuui…[END]`
 -------------------------------------
 widestring_08AED4 `[TPL:1F][TPL:F]Do you want to play a fun[N]game using these snakes?[N][PAL:0] Yes[N] No[PAL:4]`
 
-widestring_08AEF7 `[CLR]Too bad. [LU1:9][LU1:73]if[N]you [LU2:52][LU1:FE]mind.[END]`
-;TODO!!
+widestring_08AEF7 `[CLR]That's regrettable. If you[N]feel like it, come back.[END]`
 
 widestring_08AF16 `[CLR][TPL:10]The rules are simple. The[N]snakes come out of the[N]jars, and you compete on[N]how many you can strike in[N]one minute.[FIN][CLD][TPL:1F][TPL:E]Alright, hit whichever jar[N]you like. When you do[N]that, we'll start…!![END]`
 
-widestring_08AF94 `[DEF][LU1:1C]hey. There's[N]plenty of them.[END]`
-;TODO!!
+widestring_08AF94 `[TPL:1F][TPL:9]Whoa, whoa. I guess this[N]guy's very complacent.[END]`
 
 widestring_08B052 `[TPL:1F][TPL:9][DLY:2]Whoa, a score of [BCD:3,AAC]![N]You're very strong, huh?[FIN]Alright, I'll give you two[N]Red Jewels as a prize.[FIN][TPL:A]I'll send them to the[N]jewel merchant for you,[N]alright?[END]`
 
