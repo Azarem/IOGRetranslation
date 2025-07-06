@@ -174,7 +174,7 @@ Firstly, to L Thammy, who graciously allowed us to use his translation as part o
 
 Also, to CDude, who has been an active participant in the streams, contributing to creative choices and bug fixes along the way.
 
-To the staff of Quintet, manga creator Moto Hagio, and sci-fi/fantasy author Mariko Ouharaor, whose passion and talent made all of this possible in the first place.
+To the staff of Quintet, manga creator Moto Hagio, and sci-fi/fantasy author Mariko Ōhara, whose passion and talent made all of this possible in the first place.
 
 Even to Robert L. Jerauld and the Enix USA staff!
 
