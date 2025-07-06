@@ -16,12 +16,11 @@ https://github.com/Azarem/GaiaLabs
 
 ## 1.) What is This Patch?
 
-What started out as a project to create a baserom for editing Illusion of Gaia expanded into a retranslation. Which then expaneded into something of a remaster. It's now growing into kind of a definitive edition? While the game can be played to completion with all new additions as-is, the retranslation script will not be considered complete until Patch 2.0. That said, new features are regularly released in patch updates and bug testing is welcome. Please enjoy and feel free to follow the journey and join the discussion in the GaiaLabs Discord: https://discord.gg/y6pWtyD5
-
+What started out as a project to create a baserom for editing Illusion of Gaia expanded into a retranslation. Which then expanded into something of a remaster. It's now growing into kind of a definitive edition. While the game can be played to completion with all new additions as-is, the retranslation script will not be considered complete until **Patch 2.0**. New features are regularly released in patch updates and bug testing is welcome. Please feel free to follow the journey and join the discussion in the [GaiaLabs Discord](https://discord.gg/y6pWtyD5).
 ---
 ## 2.) Application Instructions
 
-First, you'll need to download the most recent version of the patch. There are three title variants to choose from and these are shown below and have download links for their respective patches included. The files are also available to download from the [releases page](https://github.com/Azarem/IOGRetranslation/releases), as well as a zip file containing all three title variants.
+Download the most recent version of the patch. There are three title variants to choose from. These are shown below and have download links for their respective patches. The files are also available to download from the [releases page](https://github.com/Azarem/IOGRetranslation/releases) which also has a zip file containing all three title variants.
 
 ### **Original Title Screen**
 ![Original Title](https://i.ibb.co/Xr0RHhXp/Gaia-Labs-135.png)  
@@ -35,13 +34,13 @@ Download Link: [iog_rxlt_130_enhanced_title.bps](https://github.com/Azarem/IOGRe
 ![Hybrid Title](https://i.ibb.co/KcMGgGYY/Gaia-Labs-138.png)  
 Download Link: [iog_rxlt_130_hybrid_title.bps](https://github.com/Azarem/IOGRetranslation/releases/download/iog_rxlt_130/iog_rxlt_130_hybrid_title.bps)
 
-To use one of these patches, download FLIPS, Beat, or use the Online Rom Patcher:
+To use one of these patches: download FLIPS, Beat, or use the Online Rom Patcher:
 
-FLIPS - https://www.romhacking.net/utilities/1040/  
-Beat - https://www.romhacking.net/utilities/893/  
-Online Patcher - https://romhackheaven.com/RomPatcher.js-2.9.1/  
-Alternate 1 - https://www.romhacking.net/patch/  
-Alternate 2 - https://www.marcrobledo.com/RomPatcher.js/
+FLIPS - https://www.romhacking.net/utilities/1040
+Beat - https://www.romhacking.net/utilities/893
+Online Patcher - https://romhackheaven.com/RomPatcher.js-2.9.1
+Alternate 1 - https://www.romhacking.net/patch
+Alternate 2 - https://www.marcrobledo.com/RomPatcher.js
 
 **ROM / ISO Information**:
 ```
@@ -58,7 +57,7 @@ File/ROM CRC32: 1C3848C0
 
 2.) Extract the PCM files into the same folder as your "Illusion of Gaia Retranslated" ROM.
 
-3.) Rename the PCM files to match the ROM filename. Ex: if your ROM is named GaiaLabs.smc, your PCM files will be named "GaiaLabs-{number}.pcm", where {number} is the track number in the original name. You want to keep that part.
+3.) Rename the PCM files to match the ROM filename. Example: if your ROM is named GaiaLabs.smc, your PCM files will be named "GaiaLabs-{number}.pcm", where {number} is the track number in the original name. You want to keep that part.
 
 5.) Make sure you have an empty MSU file to match your ROM: "GaiaLabs.msu"
 
@@ -150,7 +149,7 @@ While we've added a roster of improvements and changes, care was taken to offer 
 
 In September of 1994, Illusion of Gaia made its North American debut. The story by Japanese sci-fi writer Mariko Ouhara was notable for being much darker than the other RPGs Nintendo was allowing at the time. Despite a softening of the themes, the plot she weaved went to dark and intriguing places and left players with much to think about. Unfortunately, the localization was also often incomprehensible, with transitions between first and third person narrative that were difficult to follow.
 
-Many years later in early 2020, ResetEra forum member L Thammy would spend roughly two months translating the game that has been so special for all of us and shared the experience with the internet. Through ResetEra's forums and an accompanying series of subtitled YouTube videos, he attempted and succeeded in retranslating Gaia Gensouki. The assistance of fellow forum-users made the process a collaborative endeavor and gave us a more accurate translation. The thread and videos are still worth reading/viewing, should you be interested in the actual translation process! As of this writing, both can still be found online.
+Many years later in early 2020, ResetEra forum member L Thammy would spend roughly two months translating the game that has been so special for all of us and shared the experience with the internet. Through ResetEra's forums, and an accompanying series of subtitled YouTube videos, he succeeded in retranslating Gaia Gensouki. The assistance of fellow forum-users made the process a collaborative endeavor and gave us a more accurate translation. The thread and videos are still worth reading and viewing should you be interested in the actual translation process! As of this writing, both can still be found online.
 
 At some point, a spreadsheet was created to compile all of the screenshots, transcription, raw transliteration, revised translation, and contextual comments. L Thammy expressed approval if anyone was willing to use the translation for a patch, but one would not be produced for a little over four years.
 
@@ -170,9 +169,9 @@ https://www.youtube.com/playlist?list=PLoqdJOVga77Bp2FnXfnrf8KhPoVuF1Xeh
 
 **This section is outdated, but we will update it in the near future!**
 
-Firstly, to L Thammy, who graciously allowed us to use his translation as part of the project.
+Firstly, to L Thammy who graciously allowed us to use his translation as part of the project.
 
-Also, to CDude, who has been an active participant in the streams, contributing to creative choices and bug fixes along the way.
+Also, to CDude who has been an active participant in the streams; contributing to creative choices and bug fixes along the way.
 
 To the staff of Quintet, manga creator Moto Hagio, and sci-fi/fantasy author Mariko Ōhara, whose passion and talent made all of this possible in the first place.
 
