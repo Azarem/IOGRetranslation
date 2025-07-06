@@ -111,7 +111,7 @@ widestring_08AB99 `[TPL:1F][TPL:F]The specialities in this[N]town are spices suc
 -------------------------------------
 widestring_08ACE0 `[TPL:D]The girl was silent and[N]held out a paper.[FIN]`
 
-widestring_08AD0C `[CLR][DLY:4]A picture of a black[N]panther is drawn there![FIN][DLY:0][TPL:0][TPL:D]A shiver ran down my[N]spine.[FIN][TPL:F]Could the Black Panther[N]that was supposed to be[N]tracking us have given[N]this as a warning…?[END]`
+widestring_08AD0C `[CLR][DLY:4]A picture of a black[N]panther is drawn there![FIN][DLY:0][TPL:0][TPL:D]A shiver ran down my[N]spine.[FIN][TPL:F]Could the [NAM:16][N]that was supposed to be[N]tracking us have given[N]this as a warning…?[END]`
 
 -------------------------------------
 ?INCLUDE 'daC3_training_man'

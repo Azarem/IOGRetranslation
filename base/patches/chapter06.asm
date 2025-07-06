@@ -65,7 +65,7 @@ widestring_04A7A8 `[TPL:1][TPL:8][NAM:1]: Mr. Biiill…![FIN][TPL:0][TPL:8][NAM:
 
 widestring_04A7E1 `[TPL:1][TPL:F][NAM:1]: Eeeeeeek…!![N]Come here! Help! [NAM:0]![N]It's, it's a disaster,[N]a disaster![END]`
 
-widestring_04A81F `[TPL:0][TPL:C][NAM:0]: What happened!?[FIN][TPL:1][TPL:C][NAM:1]: Look at this wall![FIN][TPL:D]This emblem, the mark of a[N]leopard with black fur…[FIN]That means Black Panther[N]came here![FIN][TPL:0][TPL:D][NAM:0]: "Black Pantherˮ…?[FIN][TPL:1][TPL:D][NAM:1]: The assassin that[N]my mother hired recently![FIN]He's a tenacious, morbid,[N]sinister man.[FIN][TPL:E]If he has someone in his[N]sights once, it's already[N]over… [FIN]He's a man that with no[N]concern whatsoever about[N]things like human life![FIN][TPL:0][TPL:E][NAM:0]: Then,[WAI][N]Grandpa and Grandma…[END]`
+widestring_04A81F `[TPL:0][TPL:C][NAM:0]: What happened!?[FIN][TPL:1][TPL:C][NAM:1]: Look at this wall![FIN][TPL:D]This emblem, the mark of a[N]leopard with black fur…[FIN]That means [NAM:16][N]came here![FIN][TPL:0][TPL:D][NAM:0]: "[NAM:16]ˮ…?[FIN][TPL:1][TPL:D][NAM:1]: The assassin that[N]my mother hired recently![FIN]He's a tenacious, morbid,[N]sinister man.[FIN][TPL:E]If he has someone in his[N]sights once, it's already[N]over… [FIN]He's a man that with no[N]concern whatsoever about[N]things like human life![FIN][TPL:0][TPL:E][NAM:0]: Then,[WAI][N]Grandpa and Grandma…[END]`
 
 --------------------------------
 ?INCLUDE 'sc06_lily'

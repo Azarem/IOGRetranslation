@@ -10,9 +10,9 @@
 ------------------------------------------------
 ?INCLUDE 'system_strings'
 ------------------------------------------------
-string_01DA47 |[NHM:4][CUR:50,4]PUSH█START█BUTTON|
+string_01DA47 |[NHM:4][CUR:50,4]PUSH START BUTTON|
 ;string_01DA5E |[NHM:4][CUR:55,3]RETRANSLATED|
-string_01DA5E |[NHM:0][CUR:9C,3]RETRANSLATED[NHM:0][CUR:08,6](C)█1994██QUINTET/ENIX[CUR:48,6]MARIKO█OHARA/MOTO█HAGIO[CUR:8E,6]YASUHIRO█KAWASAKI|
+string_01DA5E |[NHM:0][CUR:9C,3]RETRANSLATED[NHM:0][CUR:08,6](C) 1994  QUINTET/ENIX[CUR:48,6]MARIKO OHARA/MOTO HAGIO[CUR:8E,6]YASUHIRO KAWASAKI|
 
 ------------------------------------------------
 ?INCLUDE 'scene_meta'

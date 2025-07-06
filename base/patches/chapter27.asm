@@ -52,7 +52,7 @@ widestring_07E3B5 `[TPL:6][TPL:12]Neil: I guess it's a[N]matter of whether I sho
 -------------------------------------
 widestring_07C9DB `[TPL:1E][TPL:10]This is the mansion where[N]the married couple that[N]serve as the presidents of[N]the Reuleck Corporation[N]live.[END]`
 
-widestring_07C970 `[TPL:1E][TPL:10]A man named Black Panther[N]or something like that[N]popped up some days ago[N]and went around asking[N]various questions.[FIN]From the look in his eyes,[N]he's got to be an[N]assassin. He could be[N]after someone, but I have[N]no idea who.[END]`
+widestring_07C970 `[TPL:1E][TPL:10]A man named [NAM:16][N]or something like that[N]popped up some days ago[N]and went around asking[N]various questions.[FIN]From the look in his eyes,[N]he's got to be an[N]assassin. He could be[N]after someone, but I have[N]no idea who.[END]`
 
 -------------------------------------
 ?INCLUDE 'eu91_women2'
@@ -251,7 +251,7 @@ widestring_07D0DC `[TPL:16][TPL:E]Recently, various diseases[N]have broken out i
 -------------------------------------
 ?INCLUDE 'eu92_rofsky'
 -------------------------------------
-widestring_07D6C2 `[TPL:9]Two elderly people are[N]arguing about something…[WAI][CLD][PAU:1E][TPL:3][TPL:9]Rofski: What sort of[N]genius violinist are you?[FIN][TPL:A]You're at your best when[N]you take your bow and get[N]off the stage!![FIN][TPL:4][TPL:A]Elazquez: Hmph! I guess[N]two-bit writers always[N]talk big…!![END]`
+widestring_07D6C2 `[TPL:9][SFX:10]Two elderly people are[N]arguing about something…[WAI][CLD][PAU:1E][TPL:3][TPL:9]Rofski: What sort of[N]genius violinist are you?[FIN][TPL:A]You're at your best when[N]you take your bow and get[N]off the stage!![FIN][TPL:4][TPL:A]Elazquez: Hmph! I guess[N]two-bit writers always[N]talk big…!![END]`
 
 widestring_07D61E `[TPL:3][TPL:B]Rofski: We started arguing[N]because of the Tearpot[N]enshrined in the holy[N]grounds of Mount Kehres.[FIN]I believe that the tears[N]shed by the gods were[N]once enshrined at Mount[N]Kehres.[FIN]There's a legend that says[N]they will save mankind.[END]`
 

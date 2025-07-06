@@ -53,7 +53,7 @@ widestring_08A2EC `[CLD][TPL:1E][BOR:1][DLG:3,D][SIZ:D,6] [N]        Angkor Wat[
 -------------------------------------
 widestring_089A65 `[TPL:0][TPL:F]When you took your first[N]step onto this floor, the[N]crystals floating in[N]midair began to glow![END]`
 
-widestring_08E58B `[CLR]Angkor Wat is a wandering[N]temple.[FIN]It is said that its form[N]hides in the jungle when[N]people approach and[N]quietly stand still…[FIN]And on the highest floor,[N]thou shalt probably come[N]to know why thou art on[N]this journey.[FIN][RET]`
+widestring_08E58B `[TPL:17][TPL:F]Angkor Wat is a wandering[N]temple.[FIN]It is said that its form[N]hides in the jungle when[N]people approach and[N]quietly stand still…[FIN]And on the highest floor,[N]thou shalt probably come[N]to know why thou art on[N]this journey.[FIN][RET]`
 
 -------------------------------------
 ?INCLUDE 'awBA_glasses'

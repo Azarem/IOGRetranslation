@@ -74,5 +74,18 @@ entry_32 [
   label < #0C >   ;09
   bitmap < #00, #10, #10, @gfx_fr32_actors, #01 >   ;0A
   palette < #00, #60, #A0, @pal_fr32_actors >   ;0B
-  spritemap < #$1360, #00, @spm_fr32_actors >   ;0C
+  spritemap < #$1352, #00, @spm_fr32_actors >   ;0C
+]
+
+entry_9D [
+  ppu < #1F >   ;00
+  music < #04, #00, @bgm_ominous_whispers >   ;01
+  bitmap < #00, #10, #00, @gfx_fr33_int_main, #00 >   ;02
+  palette < #00, #70, #10, @palette_1E50F3 >   ;03
+  tileset < #00, #20, #00, #03, @set_1775A4 >   ;04
+  tilemap < #01, @map_1D214D >   ;05
+  tilemap < #02, @map_1E026F >   ;06
+  bitmap < #00, #10, #10, @gfx_fr32_actors, #01 >   ;07
+  palette < #00, #60, #A0, @pal_fr32_actors >   ;08
+  spritemap < #$1352, #00, @spm_fr32_actors >   ;09
 ]
