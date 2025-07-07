@@ -71,20 +71,20 @@ https://www.zeldix.net/t1607-msu1-getting-started-guide
 
 ### **Patch NOtes (v1.41)**
 
-☄ Removed URL from boot logo
-☄ Changed credits URL to QR code
-☄ Added: Option for floating (unboxed) text during ending comet scene
-☄ Added: Jackal / Black Panther name changes depending on language setting
-☄ Added: Option for changing church statue to cross (JP content)
-☄ Added: Support for Portuguese letter accents
-☄ Added: Option for plain borders
-☄ Added: Enhanced Inventory Text
-☄ Fixed: Laborers in chapel now display properly
-☄ Fixed: New game plus menu option now highlights properly
-☄ Fixed: Equipped icon and HUD should now be hidden during plane scenes
-☄ Fixed: Freedan’s Special abilities no longer corrupt the equipped icon palette
-☄ Fixed: Queen’s crown correctly shows on gold ship
-☄ Many community script changes
+☄ Removed URL from boot logo  
+☄ Changed credits URL to QR code  
+☄ Added: Option for floating (unboxed) text during ending comet scene  
+☄ Added: Jackal / Black Panther name changes depending on language setting  
+☄ Added: Option for changing church statue to cross (JP content)  
+☄ Added: Support for Portuguese letter accents  
+☄ Added: Option for plain borders  
+☄ Added: Enhanced Inventory Text  
+☄ Fixed: Laborers in chapel now display properly  
+☄ Fixed: New game plus menu option now highlights properly  
+☄ Fixed: Equipped icon and HUD should now be hidden during plane scenes  
+☄ Fixed: Freedan’s Special abilities no longer corrupt the equipped icon palette  
+☄ Fixed: Queen’s crown correctly shows on gold ship  
+☄ Many community script changes  
 ☄ Many missing lines added (thanks LThammy)
 
 
