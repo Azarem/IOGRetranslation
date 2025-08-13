@@ -75,7 +75,7 @@ widestring_04A4CC `[TPL:0][DLG:3,B][SIZ:D,3][NAM:0]: Ultimately, dinner[N]was me
 ------------------------
 widestring_04A582 `[TPL:E]Then, the next morning. A[N]terrible affair had tried[N]to arise…[END]`
 
-widestring_049828 `[TPL:4][TPL:A]Bill: Good morning. For[N]breakfast we're having[N]Grandma [NAM:6]'s pie[N]again… Ugh…[END]`
+widestring_049828 `[TPL:4][TPL:B]Bill: Good morning. For[N]breakfast we're having[N]Grandma [NAM:6]'s pie[N]again… Ugh…[END]`
 
 widestring_049BE5 `[TPL:3][TPL:A][NAM:6]: Good morning, [NAM:0].[N]A letter has arrived for[N]you from King Edward.[FIN][CLD][TPL:9]In the letter was written[N]something like this.[FIN][TPL:4][BOR:1][TPL:B]"Bring the crystal ring[N]from [NAM:9]'s personal[N]possessions to Edward[N]Castle.ˮ       King Edward[FIN][TPL:3][TPL:B][NAM:6]: From the time I[N]saw this letter, I've[N]been ticked off somehow.[FIN]That's it. [NAM:0]. I'll teach[N]you a good luck charm.[FIN]When you're worried, if[N]you whistle this, you can[N]definitely get through.[FIN][CLD][TPL:9][NAM:6] hummed a mysterious[N]melody.[END]`
 
