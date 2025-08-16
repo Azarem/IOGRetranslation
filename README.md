@@ -24,15 +24,15 @@ Download the most recent version of the patch. There are three title variants to
 
 ### **Original Title Screen**
 ![Original Title](https://i.ibb.co/Xr0RHhXp/Gaia-Labs-135.png)  
-Download Link: [iog_rxlt_130_original_title.bps](https://github.com/Azarem/IOGRetranslation/releases/download/iog_rxlt_130/iog_rxlt_130_original_title.bps)
+Download Link: [iog_rxlt_141_original_title.bps](https://github.com/Azarem/IOGRetranslation/releases/download/iog_rxlt_141/iog_rxlt_141_original_title.bps)
 
 ### **Enhanced Title Screen**
 ![Enhanced Title](https://i.ibb.co/chn3nvg5/Gaia-Labs-136.png)  
-Download Link: [iog_rxlt_130_enhanced_title.bps](https://github.com/Azarem/IOGRetranslation/releases/download/iog_rxlt_130/iog_rxlt_130_enhanced_title.bps)
+Download Link: [iog_rxlt_141_enhanced_title.bps](https://github.com/Azarem/IOGRetranslation/releases/download/iog_rxlt_141/iog_rxlt_141_enhanced_title.bps)
 
 ### **Hybrid Title Screen**
 ![Hybrid Title](https://i.ibb.co/KcMGgGYY/Gaia-Labs-138.png)  
-Download Link: [iog_rxlt_130_hybrid_title.bps](https://github.com/Azarem/IOGRetranslation/releases/download/iog_rxlt_130/iog_rxlt_130_hybrid_title.bps)
+Download Link: [iog_rxlt_141_hybrid_title.bps](https://github.com/Azarem/IOGRetranslation/releases/download/iog_rxlt_141/iog_rxlt_141_hybrid_title.bps)
 
 To use one of these patches: download FLIPS, Beat, or use the Online Rom Patcher:
 
@@ -71,21 +71,22 @@ https://www.zeldix.net/t1607-msu1-getting-started-guide
 
 ### **Patch NOtes (v1.41)**
 
-☄ Removed URL from boot logo  
-☄ Changed credits URL to QR code  
-☄ Added: Option for floating (unboxed) text during ending comet scene  
-☄ Added: Jackal / Black Panther name changes depending on language setting  
-☄ Added: Option for changing church statue to cross (JP content)  
-☄ Added: Support for Portuguese letter accents  
-☄ Added: Option for plain borders  
-☄ Added: Enhanced Inventory Text  
-☄ Fixed: Laborers in chapel now display properly  
-☄ Fixed: New game plus menu option now highlights properly  
-☄ Fixed: Equipped icon and HUD should now be hidden during plane scenes  
-☄ Fixed: Freedan’s Special abilities no longer corrupt the equipped icon palette  
-☄ Fixed: Queen’s crown correctly shows on gold ship  
-☄ Many community script changes  
-☄ Many missing lines added (thanks LThammy)
+☄ New Feature: New Game Plus (preliminary) added. To access it, reset the game after completion and it will now appear on the file select menu. (If you wish to keep your original save, please copy it to another slot before starting New Game Plus.)
+☄ New Feature: Added support for Portuguese letter accents.
+☄ New Options: The ROM Generator allows the player to choose whether or not to use vanilla (original) textbox borders instead of enhanced. (Default: Off)
+☄ JP Content: The ROM Generator allows the player to choose whether or not to use original cross graphic in the church. (Default: On)
+☄ Quality of Life: The ROM Generator allows the player to choose whether or not to use a transparent textbox for floating dialogue in the ending sequence. (Default: On)
+☄ Graphics: Enhanced inventory text.
+☄ Graphics: Removed URL from boot logo.
+☄ Graphics: Changed URL in credits to a QR code.
+☄ Graphics Fix: The Queen's crown sprite now displays correctly on the Gold Ship.
+☄ Graphics Fix: The laborer sprites in the chapel now display properly.
+☄ Graphics Fix: Freedan’s Special abilities no longer corrupt the equipped icon palette.
+☄ Graphics Fix: The New Game Plus menu option now highlights properly.
+☄ Graphics Fix: The equipped item icon and HUD should now be hidden during plane scenes.
+☄ Minor Fix: The Jackal / Black Panther name now changes depending on the selected language setting.
+☄ Added: Many community script adjustments.
+☄ Added: Many missing lines added. (Thanks, L Thammy!)
 
 
 
