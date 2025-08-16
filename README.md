@@ -37,11 +37,11 @@ Download Link: [iog_rxlt_141_hybrid_title.bps](https://github.com/Azarem/IOGRetr
 
 To use one of these patches: download FLIPS, Beat, or use the Online Rom Patcher:
 
-FLIPS - https://www.romhacking.net/utilities/1040
-Beat - https://www.romhacking.net/utilities/893
-Online Patcher - https://romhackheaven.com/RomPatcher.js-2.9.1
-Alternate 1 - https://www.romhacking.net/patch
-Alternate 2 - https://www.marcrobledo.com/RomPatcher.js
+FLIPS - https://www.romhacking.net/utilities/1040  
+Beat - https://www.romhacking.net/utilities/893  
+Online Patcher - https://romhackheaven.com/RomPatcher.js-2.9.1  
+Alternate 1 - https://www.romhacking.net/patch  
+Alternate 2 - https://www.marcrobledo.com/RomPatcher.js  
 
 **ROM / ISO Information**:
 ```
