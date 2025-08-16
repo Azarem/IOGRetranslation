@@ -17,6 +17,7 @@ https://github.com/Azarem/GaiaLabs
 ## 1.) What is This Patch?
 
 What started out as a project to create a baserom for editing Illusion of Gaia expanded into a retranslation. Which then expanded into something of a remaster. It's now growing into kind of a definitive edition. While the game can be played to completion with all new additions as-is, the retranslation script will not be considered complete until **Patch 2.0**. New features are regularly released in patch updates and bug testing is welcome. Please feel free to follow the journey and join the discussion in the [GaiaLabs Discord](https://discord.gg/y6pWtyD5).
+
 ---
 ## 2.) Application Instructions
 
@@ -69,24 +70,24 @@ https://www.zeldix.net/t1607-msu1-getting-started-guide
 ---
 ## 4.) What's New?
 
-### **Patch NOtes (v1.41)**
+### **Patch Notes (v1.41)**
 
-☄ New Feature: New Game Plus (preliminary) added. To access it, reset the game after completion and it will now appear on the file select menu. (If you wish to keep your original save, please copy it to another slot before starting New Game Plus.)
-☄ New Feature: Added support for Portuguese letter accents.
-☄ New Options: The ROM Generator allows the player to choose whether or not to use vanilla (original) textbox borders instead of enhanced. (Default: Off)
-☄ JP Content: The ROM Generator allows the player to choose whether or not to use original cross graphic in the church. (Default: On)
-☄ Quality of Life: The ROM Generator allows the player to choose whether or not to use a transparent textbox for floating dialogue in the ending sequence. (Default: On)
-☄ Graphics: Enhanced inventory text.
-☄ Graphics: Removed URL from boot logo.
-☄ Graphics: Changed URL in credits to a QR code.
-☄ Graphics Fix: The Queen's crown sprite now displays correctly on the Gold Ship.
-☄ Graphics Fix: The laborer sprites in the chapel now display properly.
-☄ Graphics Fix: Freedan’s Special abilities no longer corrupt the equipped icon palette.
-☄ Graphics Fix: The New Game Plus menu option now highlights properly.
-☄ Graphics Fix: The equipped item icon and HUD should now be hidden during plane scenes.
-☄ Minor Fix: The Jackal / Black Panther name now changes depending on the selected language setting.
-☄ Added: Many community script adjustments.
-☄ Added: Many missing lines added. (Thanks, L Thammy!)
+☄ New Feature: New Game Plus (preliminary) added. To access it, reset the game after completion and it will now appear on the file select menu. (If you wish to keep your original save, please copy it to another slot before starting New Game Plus.)  
+☄ New Feature: Added support for Portuguese letter accents.  
+☄ New Options: The ROM Generator allows the player to choose whether or not to use vanilla (original) textbox borders instead of enhanced. (Default: Off)  
+☄ JP Content: The ROM Generator allows the player to choose whether or not to use original cross graphic in the church. (Default: On)  
+☄ Quality of Life: The ROM Generator allows the player to choose whether or not to use a transparent textbox for floating dialogue in the ending sequence. (Default: On)  
+☄ Graphics: Enhanced inventory text.  
+☄ Graphics: Removed URL from boot logo.  
+☄ Graphics: Changed URL in credits to a QR code.  
+☄ Graphics Fix: The Queen's crown sprite now displays correctly on the Gold Ship.  
+☄ Graphics Fix: The laborer sprites in the chapel now display properly.  
+☄ Graphics Fix: Freedan’s Special abilities no longer corrupt the equipped icon palette.  
+☄ Graphics Fix: The New Game Plus menu option now highlights properly.  
+☄ Graphics Fix: The equipped item icon and HUD should now be hidden during plane scenes.  
+☄ Minor Fix: The Jackal / Black Panther name now changes depending on the selected language setting.  
+☄ Added: Many community script adjustments.  
+☄ Added: Many missing lines added. (Thanks, L Thammy!)  
 
 
 
