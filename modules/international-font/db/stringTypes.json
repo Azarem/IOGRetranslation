@@ -1,0 +1,58 @@
+﻿[
+  {
+    "name": "ASCIIString",
+    "delimiter": "|",
+    "shiftType": null,
+    "terminator": 0,
+    "characterMap": [
+      null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,
+      null, null, null, null, null, null, null, null, null, null, null, null, null, "⸓", null, null,
+      ".", "!", "ˎ", "Æ", "←", "˳", "‥", "˲", "[", "]", "*", "►", ",", "+", "-", "/",
+      "0", "1", "2", "3", "4", "5", "6", "7", "8", "9", ":", "·", "(", "▼", ")", "?",
+      " ", "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O",
+      "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z", "-", "'", "<", ">", "#",
+      " ", "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o",
+      "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z", "¥", "_", "{", "}", "¦",
+      "=", ";", "\"", null, null, null, null, null, null, null, null, null, null, null, null, null,
+      "█", "˅", "Ḇ", "ṵ", "ṯ", "ō", "ṉ", "Ḛ", "ḛ", "ṟ", "˭", "Ĉ", "ā", "ĉ", "ḻ", null,
+      null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,
+      null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,
+      null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null,
+      "☼", "○", "◦", "Ḣ", "Ṗ", "Ṡ", "Ṫ", "Ḋ", "Ḟ", "♥", null, null, null, null, null, null,
+      "ꝗ", "Ꝗ", null, null, "Ẋ", "Ẏ", "Ḃ", "Ạ", "⸔", null, null, null, null, null, null, null,
+      "₀", "₁", "₂", "₃", "₄", "₅", "₆", "₇", "₈", "₉", null, null, null, null, null, null
+    ]
+  },
+  {
+    "name": "SpriteString",
+    "delimiter": "~",
+    "shiftType": "wh2",
+    "terminator": 202,
+    "characterMap": [
+      "A", "B", "C", "D", "E", "F", "G", "H", 
+      "I", "J", "K", "L", "M", "N", "O", "!",
+      "P", "Q", "R", "S", "T", "U", "V", "W",
+      "X", "Y", "Z", "/", "?", "-", "(", ")",
+      "a", "b", "c", "d", "e", "f", "g", "h",
+      "i", "j", "k", "l", "m", "n", "o", " ",
+      "p", "q", "r", "s", "t", "u", "v", "w",
+      "x", "y", "z", ",", ".", "'", "\"", "ˮ"
+    ]
+  },
+  {
+    "name": "WideString",
+    "delimiter": "`",
+    "shiftType": "h2",
+    "terminator": 202,
+    "greedyTerminator": true,
+    "characterMap": [
+      "♥", "Æ", "Œ", "Ē", "æ", "œ", "Ĕ", "Ú", "Ü", "ñ", "Ñ", "¡","¿", "?", "'", "▼",
+      "0", "1", "2", "3", "4", "5", "6", "7", "8", "9", ".", ",", "►", "\"", "ˮ", ":",
+      "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "!",
+      "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z", "/", "*", "-", "(", ")",
+      "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", ";",
+      "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z", "…", " ", "ç", "Ç", "ß",
+      "Ā", "ā", "Ē", "ē", "Ī", "ī", "Ō", "ō", "Ū", "ū", "Ŷ", "ŷ", "ǁ", "ǁ", "ǁ", "ǁ"
+    ]
+  }
+]

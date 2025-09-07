@@ -1,0 +1,165 @@
+.module-selector {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.module-selector h2 {
+  color: #333;
+  margin-bottom: 0.5rem;
+  font-size: 1.8rem;
+}
+
+.selector-description {
+  color: #666;
+  margin-bottom: 2rem;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.groups-container {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.module-group {
+  background: #f8f9fa;
+  border: 1px solid #e9ecef;
+  border-radius: 8px;
+  padding: 1.5rem;
+  transition: box-shadow 0.2s ease;
+}
+
+.module-group:hover {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.group-title {
+  color: #495057;
+  margin: 0 0 1rem 0;
+  font-size: 1.3rem;
+  font-weight: 600;
+  border-bottom: 2px solid #dee2e6;
+  padding-bottom: 0.5rem;
+}
+
+.options-container {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.option-label {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+  padding: 0.75rem;
+  border: 1px solid #dee2e6;
+  border-radius: 6px;
+  background: white;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.option-label:hover {
+  border-color: #646cff;
+  background: #f8f9ff;
+}
+
+.option-label:has(.option-radio:checked) {
+  border-color: #646cff;
+  background: #f0f2ff;
+  box-shadow: 0 0 0 2px rgba(100, 108, 255, 0.1);
+}
+
+.option-radio {
+  margin: 0;
+  width: 18px;
+  height: 18px;
+  accent-color: #646cff;
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+.option-content {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  flex: 1;
+}
+
+.option-name {
+  font-weight: 500;
+  color: #333;
+  font-size: 1rem;
+}
+
+.option-description {
+  font-size: 0.875rem;
+  color: #666;
+  line-height: 1.4;
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  .module-selector h2 {
+    color: #f1f3f4;
+  }
+
+  .selector-description {
+    color: #9aa0a6;
+  }
+
+  .module-group {
+    background: #2d3748;
+    border-color: #4a5568;
+  }
+
+  .group-title {
+    color: #e2e8f0;
+    border-bottom-color: #4a5568;
+  }
+
+  .option-label {
+    background: #1a202c;
+    border-color: #4a5568;
+  }
+
+  .option-label:hover {
+    background: #2d3748;
+    border-color: #646cff;
+  }
+
+  .option-label:has(.option-radio:checked) {
+    background: #2a2f3a;
+    border-color: #646cff;
+  }
+
+  .option-name {
+    color: #f1f3f4;
+  }
+
+  .option-description {
+    color: #9aa0a6;
+  }
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .module-selector {
+    padding: 1rem;
+  }
+
+  .module-selector h2 {
+    font-size: 1.5rem;
+  }
+
+  .group-title {
+    font-size: 1.2rem;
+  }
+
+  .option-label {
+    padding: 0.5rem;
+  }
+}

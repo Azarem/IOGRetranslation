@@ -1,0 +1,34 @@
+{
+  "name": "iogretranslation",
+  "version": "1.0.0",
+  "description": "Copyright 2024-2025 by GaiaLabs  \r https://github.com/Azarem/IOGRetranslation  \r https://github.com/Azarem/GaiaLabs",
+  "homepage": "https://azarem.github.io/IOGRetranslation/",
+  "bugs": {
+    "url": "https://github.com/Azarem/IOGRetranslation/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azarem/IOGRetranslation.git"
+  },
+  "license": "MIT",
+  "author": "GaiaLabs",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@gaialabs/core": "^0.1.6",
+    "@gaialabs/shared": "^0.1.2",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.1",
+    "@types/react-dom": "^19.1.1",
+    "@vitejs/plugin-react": "^5.0.2",
+    "typescript": "^5.9.2",
+    "vite": "^7.1.4"
+  }
+}

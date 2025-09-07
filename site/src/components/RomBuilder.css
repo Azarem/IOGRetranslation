@@ -1,0 +1,233 @@
+.rom-builder {
+  max-width: 600px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background: #f8f9fa;
+  border: 1px solid #e9ecef;
+  border-radius: 8px;
+}
+
+.rom-builder h3 {
+  color: #333;
+  margin: 0 0 0.5rem 0;
+  font-size: 1.5rem;
+}
+
+.builder-description {
+  color: #666;
+  margin-bottom: 1.5rem;
+  line-height: 1.5;
+}
+
+.build-status {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+  background: white;
+  border: 1px solid #dee2e6;
+  border-radius: 6px;
+}
+
+.status-info {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.95rem;
+}
+
+.status-indicator {
+  font-size: 1.1rem;
+  width: 20px;
+  text-align: center;
+}
+
+.status-indicator.ready {
+  color: #28a745;
+}
+
+.status-indicator.pending {
+  color: #ffc107;
+}
+
+.progress-container {
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+  background: white;
+  border: 1px solid #dee2e6;
+  border-radius: 6px;
+}
+
+.progress-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+.progress-stage {
+  font-weight: 600;
+  color: #495057;
+}
+
+.progress-percentage {
+  font-size: 0.9rem;
+  color: #6c757d;
+  font-family: monospace;
+}
+
+.progress-bar {
+  width: 100%;
+  height: 8px;
+  background: #e9ecef;
+  border-radius: 4px;
+  overflow: hidden;
+  margin-bottom: 0.5rem;
+}
+
+.progress-fill {
+  height: 100%;
+  background: linear-gradient(90deg, #646cff, #535bf2);
+  transition: width 0.3s ease;
+  border-radius: 4px;
+}
+
+.progress-message {
+  font-size: 0.9rem;
+  color: #6c757d;
+  font-style: italic;
+}
+
+.build-actions {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1.5rem;
+}
+
+.build-button {
+  padding: 0.75rem 2rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  min-width: 150px;
+}
+
+.build-button.ready {
+  background: #646cff;
+  color: white;
+}
+
+.build-button.ready:hover {
+  background: #535bf2;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(100, 108, 255, 0.3);
+}
+
+.build-button.disabled {
+  background: #6c757d;
+  color: #adb5bd;
+  cursor: not-allowed;
+}
+
+.build-complete {
+  text-align: center;
+  padding: 1.5rem;
+  background: #d4edda;
+  border: 1px solid #c3e6cb;
+  border-radius: 6px;
+  color: #155724;
+}
+
+.build-complete h4 {
+  margin: 0 0 0.5rem 0;
+  color: #155724;
+}
+
+.build-complete p {
+  margin: 0 0 1rem 0;
+}
+
+.download-button {
+  padding: 0.75rem 1.5rem;
+  background: #28a745;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.download-button:hover {
+  background: #218838;
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  .rom-builder {
+    background: #2d3748;
+    border-color: #4a5568;
+  }
+
+  .rom-builder h3 {
+    color: #f1f3f4;
+  }
+
+  .builder-description {
+    color: #9aa0a6;
+  }
+
+  .build-status,
+  .progress-container {
+    background: #1a202c;
+    border-color: #4a5568;
+  }
+
+  .progress-stage {
+    color: #e2e8f0;
+  }
+
+  .progress-percentage,
+  .progress-message {
+    color: #9aa0a6;
+  }
+
+  .progress-bar {
+    background: #4a5568;
+  }
+
+  .build-complete {
+    background: #1a3d2e;
+    border-color: #2a5a4a;
+    color: #9df4c4;
+  }
+
+  .build-complete h4 {
+    color: #9df4c4;
+  }
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .rom-builder {
+    margin: 1rem;
+    padding: 1rem;
+  }
+
+  .build-status {
+    padding: 0.75rem;
+  }
+
+  .progress-container {
+    padding: 0.75rem;
+  }
+
+  .build-button {
+    padding: 0.75rem 1.5rem;
+    font-size: 1rem;
+  }
+}
