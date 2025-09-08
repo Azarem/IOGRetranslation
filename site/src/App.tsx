@@ -45,7 +45,7 @@ function App() {
           notifications={notifications}
           onDismiss={dismissNotification}
         />
-        <div>
+        <div> 
           <div className="app-header">
             <h1>Illusion of Gaia: Retranslated</h1>
             <h2>ROM Patcher</h2>
