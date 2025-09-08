@@ -24,7 +24,7 @@ export default defineConfig(({ mode }) => {
 
   return {
     plugins: [react()],
-    base: '/IOGRetranslation/',
+    base: '/',
     build: {
       outDir: 'dist',
       assetsDir: 'assets',
