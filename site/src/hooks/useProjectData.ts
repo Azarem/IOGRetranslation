@@ -1,16 +1,15 @@
 import { useState, useEffect } from 'react';
-import { ProjectPayload } from '../types';
-import { SupabaseService } from '../services/supabaseService';
+import { ProjectBranchData, summaryFromSupabaseByProject } from '@gaialabs/shared'
 
 interface UseProjectDataResult {
-  projectData: ProjectPayload | null;
+  projectData: ProjectBranchData | null;
   loading: boolean;
   error: string | null;
   refetch: () => Promise<void>;
 }
 
 export function useProjectData(): UseProjectDataResult {
-  const [projectData, setProjectData] = useState<ProjectPayload | null>(null);
+  const [projectData, setProjectData] = useState<ProjectBranchData | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
@@ -18,7 +17,7 @@ export function useProjectData(): UseProjectDataResult {
     try {
       setLoading(true);
       setError(null);
-      const data = await SupabaseService.fetchProjectBranch();
+      const data = await summaryFromSupabaseByProject();
       setProjectData(data);
     } catch (err) {
       setError(err instanceof Error ? err.message : 'Failed to fetch project data');

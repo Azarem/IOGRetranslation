@@ -117,7 +117,7 @@ The application uses the following environment variables:
 ```env
 VITE_SUPABASE_URL=https://adwobxutnpmjbmhdxrzx.supabase.co/rest/v1
 VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
-VITE_SUPABASE_PROJECT_NAME=Illusion of Gaia: Retranslated
+VITE_PROJECT_NAME=Illusion of Gaia: Retranslated
 ```
 
 Create a `.env` file in the `site/` directory with these variables. The Supabase URL and API key are used to fetch project data, while the project name filters the results to the specific translation project.

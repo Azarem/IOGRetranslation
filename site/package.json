@@ -19,8 +19,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@gaialabs/core": "^0.1.6",
-    "@gaialabs/shared": "^0.1.2",
+    "@gaialabs/core": "^0.1.8",
+    "@gaialabs/shared": "^0.1.3",
     "react": "^19.1.1",
     "react-dom": "^19.1.1"
   },

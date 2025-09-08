@@ -57,12 +57,15 @@ export function RomBuilder({
       setProgress({ stage: 'Validating', progress: 10, message: 'Validating ROM and modules...' });
       
       // Create RomGenerator instance
-      const romGenerator = new RomGenerator(moduleList, romData);
+      const romGenerator = new RomGenerator();
+
+      await romGenerator.initialize();
+      await romGenerator.validateAndDownload(romData);
       
       setProgress({ stage: 'Generating', progress: 30, message: 'Generating project...' });
       
       // Generate the ROM
-      const outputRom = await romGenerator.generateProject(projectName);
+      const outputRom = await romGenerator.generateProject(moduleList);
       
       setProgress({ stage: 'Complete', progress: 100, message: 'ROM generation complete!' });
 

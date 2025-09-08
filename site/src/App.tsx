@@ -120,15 +120,15 @@ function App() {
         onDismiss={dismissNotification}
       />
       <div className="app-header">
-        <h1>Illusion of Gaia: Retranslated</h1>
+        <h1>{projectData.project.name}</h1>
         <h2>ROM Patcher</h2>
       </div>
       <div className="workflow-container">
         <div className="workflow-step">
           <div className="card">
-            <h3>📋 Version {projectData.branch.project.meta.currentVersion}</h3>
+            <h3>📋 Version {projectData.name}</h3>
             <ul>
-              {projectData.branch && projectData.branch.notes.map((note: string) => (
+              {projectData.notes && projectData.notes.map((note: string) => (
                 <li key={note}>{note}</li>
               ))}
             </ul>
@@ -137,16 +137,16 @@ function App() {
 
         <div className="workflow-step">
           <RomFilePicker
-            expectedCrc={473450688} // Expected CRC for Illusion of Gaia ROM
+            expectedCrc={projectData.project.baseRom.gameRom.crc} // Expected CRC for Illusion of Gaia ROM
             onFileValidated={handleRomFileValidated}
             onValidationError={handleRomValidationError}
           />
         </div>
 
-        {projectData.branch.modules && projectData.branch.modules.length > 0 && (
+        {projectData.modules && projectData.modules.length > 0 && (
           <div className="workflow-step">
             <ModuleSelector
-              modules={projectData.branch.modules}
+              modules={projectData.modules}
             />
           </div>
         )}
@@ -155,7 +155,7 @@ function App() {
           <div className="workflow-step">
             <RomBuilder
               romData={romData}
-              projectName={projectData.branch.project.name}
+              projectName={projectData.project.name}
               onBuildComplete={handleBuildComplete}
               onBuildError={handleBuildError}
             />
