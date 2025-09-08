@@ -27,6 +27,10 @@ jobs:
         npm ci
         
     - name: Build
+      env:
+        VITE_SUPABASE_URL: ${{ secrets.VITE_SUPABASE_URL }}
+        VITE_SUPABASE_ANON_KEY: ${{ secrets.VITE_SUPABASE_ANON_KEY }}
+        VITE_PROJECT_NAME: ${{ secrets.VITE_PROJECT_NAME }}
       run: |
         cd site
         npm run build
