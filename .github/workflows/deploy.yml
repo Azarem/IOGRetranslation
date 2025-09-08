@@ -9,23 +9,30 @@ on:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-    
+
     steps:
     - name: Checkout
       uses: actions/checkout@v4
-      
+
     - name: Setup Node.js
       uses: actions/setup-node@v4
       with:
         node-version: '20'
         cache: 'npm'
         cache-dependency-path: site/package-lock.json
-        
+
     - name: Install dependencies
       run: |
         cd site
         npm ci
-        
+
+    - name: Debug secrets availability
+      run: |
+        echo "Checking if secrets are available..."
+        echo "VITE_SUPABASE_URL secret exists: ${{ secrets.VITE_SUPABASE_URL != '' }}"
+        echo "VITE_SUPABASE_ANON_KEY secret exists: ${{ secrets.VITE_SUPABASE_ANON_KEY != '' }}"
+        echo "VITE_PROJECT_NAME secret exists: ${{ secrets.VITE_PROJECT_NAME != '' }}"
+
     - name: Build
       env:
         VITE_SUPABASE_URL: ${{ secrets.VITE_SUPABASE_URL }}
@@ -33,11 +40,38 @@ jobs:
         VITE_PROJECT_NAME: ${{ secrets.VITE_PROJECT_NAME }}
       run: |
         cd site
+        echo "Environment variables during build:"
+        echo "VITE_SUPABASE_URL is set: ${VITE_SUPABASE_URL:+YES}"
+        echo "VITE_SUPABASE_ANON_KEY is set: ${VITE_SUPABASE_ANON_KEY:+YES}"
+        echo "VITE_PROJECT_NAME is set: ${VITE_PROJECT_NAME:+YES}"
         npm run build
-        
+
+    - name: Debug environment variables
+      run: |
+        echo "Checking if environment variables were set during build..."
+        echo "VITE_SUPABASE_URL is set: ${{ secrets.VITE_SUPABASE_URL != '' }}"
+        echo "VITE_SUPABASE_ANON_KEY is set: ${{ secrets.VITE_SUPABASE_ANON_KEY != '' }}"
+        echo "VITE_PROJECT_NAME is set: ${{ secrets.VITE_PROJECT_NAME != '' }}"
+        echo "Checking built files..."
+        ls -la site/dist/
+        echo "Checking if environment variables are in built JS files..."
+        grep -r "VITE_" site/dist/assets/ || echo "No VITE_ variables found in built assets"
+
+    - name: Preserve CNAME file
+      if: github.ref == 'refs/heads/main'
+      run: |
+        if [ -f CNAME ]; then
+          echo "Copying CNAME file to dist directory..."
+          cp CNAME site/dist/
+        else
+          echo "No CNAME file found in repository root"
+        fi
+
     - name: Deploy to GitHub Pages
       if: github.ref == 'refs/heads/main'
       uses: peaceiris/actions-gh-pages@v4
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./site/dist
+        keep_files: false
+        force_orphan: true
