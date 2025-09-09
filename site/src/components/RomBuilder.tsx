@@ -1,11 +1,13 @@
 import { useState, useCallback } from 'react';
 import { RomGenerator } from '@gaialabs/core';
+import { ChunkFile, BinType } from '@gaialabs/shared';
 import { RomGenerationProgress } from '../types';
 import './RomBuilder.css';
 
 interface RomBuilderProps {
   romData: Uint8Array;
   projectName: string;
+  folderFiles: ChunkFile[];
   onBuildComplete: (romData: Uint8Array) => void;
   onBuildError: (error: string) => void;
 }
@@ -13,6 +15,7 @@ interface RomBuilderProps {
 export function RomBuilder({
   romData,
   projectName,
+  folderFiles,
   onBuildComplete,
   onBuildError
 }: RomBuilderProps) {
@@ -28,19 +31,26 @@ export function RomBuilder({
     const formData = new FormData(form);
     const selections: string[] = [];
 
-    for (const [key, value] of formData.entries()) {
+    for (const [, value] of formData.entries()) {
       // Only include non-empty values and exclude "on" values from radio buttons without proper values
       const stringValue = value as string;
       if (stringValue && stringValue !== 'on') {
         selections.push(stringValue);
       }
     }
-    
+
     return selections;
+  };
+
+  // Function to get notepad content
+  const getNotepadContent = (): string => {
+    const notepadTextarea = document.querySelector('#notepad-textarea') as HTMLTextAreaElement;
+    return notepadTextarea?.value?.trim() || '';
   };
 
   const buildRom = async () => {
     const moduleSelections = getModuleSelections();
+    const notepadContent = getNotepadContent();
 
     if (!romData || Object.keys(moduleSelections).length === 0) {
       onBuildError('ROM data and module selections are required');
@@ -53,26 +63,44 @@ export function RomBuilder({
     try {
       // Convert module selections to array format expected by RomGenerator
       const moduleList = Object.values(moduleSelections);
-      
+
       setProgress({ stage: 'Validating', progress: 10, message: 'Validating ROM and modules...' });
-      
+
       // Create RomGenerator instance
       const romGenerator = new RomGenerator();
 
       await romGenerator.initialize();
       await romGenerator.validateAndDownload(romData);
-      
+
       setProgress({ stage: 'Generating', progress: 30, message: 'Generating project...' });
-      
-      // Generate the ROM
-      const outputRom = await romGenerator.generateProject(moduleList);
-      
+
+      const additionalFiles: ChunkFile[] = [];
+
+      // Add folder files first
+      additionalFiles.push(...folderFiles);
+
+      // Create ChunkFile for notepad content if it exists
+      if (notepadContent) {
+        const notepadChunk: ChunkFile = {
+          name: '<notepad>',
+          type: BinType.Patch,
+          textData: notepadContent,
+          size: 0, // Will be calculated during processing
+          location: 0, // Will be determined during processing
+          mnemonics: [] // Will be populated during assembly
+        };
+        additionalFiles.push(notepadChunk);
+      }
+
+      // Generate the ROM with additional files (folder files + notepad)
+      const outputRom = await romGenerator.generateProject(moduleList, additionalFiles);
+
       setProgress({ stage: 'Complete', progress: 100, message: 'ROM generation complete!' });
 
       setRomOutput(outputRom);
       // Call success callback
       onBuildComplete(outputRom);
-      
+
     } catch (error) {
       console.error('ROM generation error:', error);
       const errorMessage = error instanceof Error ? error.message : 'Unknown error during ROM generation';
@@ -97,6 +125,7 @@ export function RomBuilder({
   }, [romOutput, projectName]);
 
   const moduleSelections = getModuleSelections();
+  const notepadContent = getNotepadContent();
   const canBuild = romData && Object.keys(moduleSelections).length > 0 && !isBuilding;
 
   return (
@@ -114,12 +143,26 @@ export function RomBuilder({
           </span>
           <span>ROM File: {romData ? 'Ready' : 'Not loaded'}</span>
         </div>
-        
+
         <div className="status-info">
           <span className={`status-indicator ${Object.keys(moduleSelections).length > 0 ? 'ready' : 'pending'}`}>
             {Object.keys(moduleSelections).length > 0 ? '✅' : '⏳'}
           </span>
           <span>Modules: {Object.keys(moduleSelections).length} selected</span>
+        </div>
+
+        <div className="status-info">
+          <span className={`status-indicator ${folderFiles.length > 0 ? 'ready' : 'optional'}`}>
+            {folderFiles.length > 0 ? '📁' : '📂'}
+          </span>
+          <span>Folder: {folderFiles.length > 0 ? `${folderFiles.length} .asm files` : 'No folder selected (optional)'}</span>
+        </div>
+
+        <div className="status-info">
+          <span className={`status-indicator ${notepadContent ? 'ready' : 'optional'}`}>
+            {notepadContent ? '📝' : '📄'}
+          </span>
+          <span>Notepad: {notepadContent ? 'Contains custom code' : 'Empty (optional)'}</span>
         </div>
       </div>
 

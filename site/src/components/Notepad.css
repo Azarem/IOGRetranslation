@@ -1,0 +1,123 @@
+.notepad {
+  max-width: 600px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background: #f8f9fa;
+  border: 1px solid #e9ecef;
+  border-radius: 8px;
+}
+
+.notepad h3 {
+  color: #333;
+  margin: 0 0 0.5rem 0;
+  font-size: 1.5rem;
+}
+
+.notepad-description {
+  color: #666;
+  margin-bottom: 1.5rem;
+  line-height: 1.5;
+}
+
+.notepad-content {
+  background: white;
+  border: 1px solid #dee2e6;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.notepad-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.75rem 1rem;
+  background: #f8f9fa;
+  border-bottom: 1px solid #dee2e6;
+  font-size: 0.9rem;
+}
+
+.content-info {
+  color: #666;
+  font-weight: 500;
+}
+
+.clear-button {
+  padding: 0.25rem 0.75rem;
+  background: #dc3545;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.85rem;
+  transition: background-color 0.2s ease;
+}
+
+.clear-button:hover {
+  background: #c82333;
+}
+
+.notepad-textarea {
+  width: 100%;
+  min-height: 300px;
+  padding: 1rem;
+  border: none;
+  outline: none;
+  font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+  font-size: 0.9rem;
+  line-height: 1.4;
+  resize: vertical;
+  background: white;
+  color: #333;
+}
+
+.notepad-textarea::placeholder {
+  color: #999;
+  font-style: italic;
+}
+
+.notepad-textarea:focus {
+  background: #fafbfc;
+}
+
+.notepad-status {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1rem;
+  background: #f8f9fa;
+  border-top: 1px solid #dee2e6;
+  font-size: 0.9rem;
+}
+
+.status-indicator {
+  font-size: 1rem;
+  width: 20px;
+  text-align: center;
+}
+
+.status-indicator.ready {
+  color: #28a745;
+}
+
+.status-indicator.empty {
+  color: #6c757d;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .notepad {
+    margin: 1rem;
+    padding: 1.5rem;
+  }
+  
+  .notepad-textarea {
+    min-height: 250px;
+    font-size: 0.85rem;
+  }
+  
+  .notepad-header {
+    flex-direction: column;
+    gap: 0.5rem;
+    align-items: flex-start;
+  }
+}

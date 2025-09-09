@@ -51,6 +51,10 @@
   color: #ffc107;
 }
 
+.status-indicator.optional {
+  color: #6c757d;
+}
+
 .progress-container {
   margin-bottom: 1.5rem;
   padding: 1rem;

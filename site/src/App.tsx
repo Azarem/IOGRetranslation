@@ -3,7 +3,10 @@ import { useProjectData } from './hooks/useProjectData'
 import { ModuleSelector } from './components/ModuleSelector'
 import { RomFilePicker } from './components/RomFilePicker'
 import { RomBuilder } from './components/RomBuilder'
+import { Notepad } from './components/Notepad'
+import { FolderPicker } from './components/FolderPicker'
 import { NotificationSystem, useNotifications } from './components/NotificationSystem'
+import { ChunkFile } from '@gaialabs/shared'
 import './App.css'
 
 function App() {
@@ -13,6 +16,7 @@ function App() {
   const [romData, setRomData] = useState<Uint8Array | null>(null);
   const [builtRom, setBuiltRom] = useState<Uint8Array | null>(null);
   const [buildError, setBuildError] = useState<string | null>(null);
+  const [folderFiles, setFolderFiles] = useState<ChunkFile[]>([]);
 
   const {
     notifications,
@@ -113,6 +117,21 @@ function App() {
     showError('ROM Build Failed', error);
   };
 
+  const handleFolderFilesLoaded = (files: ChunkFile[]) => {
+    setFolderFiles(files);
+    if (files.length > 0) {
+      showSuccess(
+        'Folder Scanned',
+        `Found ${files.length} .asm file${files.length !== 1 ? 's' : ''} ready for processing`
+      );
+    }
+  };
+
+  const handleFolderError = (error: string) => {
+    setFolderFiles([]);
+    showError('Folder Scan Failed', error);
+  };
+
   return (
     <>
       <NotificationSystem
@@ -153,9 +172,25 @@ function App() {
 
         {romData && (
           <div className="workflow-step">
+            <FolderPicker
+              onFilesLoaded={handleFolderFilesLoaded}
+              onError={handleFolderError}
+            />
+          </div>
+        )}
+
+        {romData && (
+          <div className="workflow-step">
+            <Notepad />
+          </div>
+        )}
+
+        {romData && (
+          <div className="workflow-step">
             <RomBuilder
               romData={romData}
               projectName={projectData.project.name}
+              folderFiles={folderFiles}
               onBuildComplete={handleBuildComplete}
               onBuildError={handleBuildError}
             />
