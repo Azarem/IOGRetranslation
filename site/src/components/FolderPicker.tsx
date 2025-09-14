@@ -80,10 +80,14 @@ export function FolderPicker({ onFilesLoaded, onError }: FolderPickerProps) {
         try {
           const content = await readFileContent(file);
           const relativePath = getRelativePath(file, baseFolderName);
+
+          const slashIx = Math.max(0, relativePath.indexOf('/'));
+          const folderName = relativePath.slice(0, slashIx).toLowerCase();
+          const type = folderName === 'asm' ? BinType.Assembly : BinType.Patch;
           
           const chunkFile: ChunkFile = {
-            name: relativePath,
-            type: BinType.Patch,
+            name: file.name.slice(0, -4),
+            type: type,
             textData: content,
             size: 0,
             location: 0,
@@ -194,6 +198,7 @@ export function FolderPicker({ onFilesLoaded, onError }: FolderPickerProps) {
                   {asmFiles.map((file, index) => (
                     <li key={index} className="file-item">
                       <span className="file-name">{file.name}</span>
+                      <span className="file-type">{file.type}</span>
                       <span className="file-size">
                         {file.textData ? `${file.textData.length} chars` : 'Empty'}
                       </span>

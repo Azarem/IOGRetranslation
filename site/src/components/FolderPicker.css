@@ -188,6 +188,11 @@
   word-break: break-all;
 }
 
+.file-type {
+  font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+  margin-right: 1rem;
+}
+
 .file-size {
   color: #666;
   font-size: 0.85rem;
