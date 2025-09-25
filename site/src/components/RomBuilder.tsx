@@ -66,8 +66,10 @@ export function RomBuilder({
 
       setProgress({ stage: 'Validating', progress: 10, message: 'Validating ROM and modules...' });
 
+      const projectName = process?.env?.PROJECT_NAME || 'Illusion of Gaia: Retranslated';
+
       // Create RomGenerator instance
-      const romGenerator = new RomGenerator();
+      const romGenerator = new RomGenerator(projectName);
 
       await romGenerator.initialize();
       await romGenerator.validateAndDownload(romData);
