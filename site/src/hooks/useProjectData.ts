@@ -13,11 +13,13 @@ export function useProjectData(): UseProjectDataResult {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
+  const projectName = process?.env?.PROJECT_NAME || 'Illusion of Gaia: Retranslated';
+
   const fetchData = async () => {
     try {
       setLoading(true);
       setError(null);
-      const data = await summaryFromSupabaseByProject();
+      const data = await summaryFromSupabaseByProject(projectName);
       setProjectData(data);
     } catch (err) {
       setError(err instanceof Error ? err.message : 'Failed to fetch project data');
