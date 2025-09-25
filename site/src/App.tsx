@@ -156,7 +156,7 @@ function App() {
 
         <div className="workflow-step">
           <RomFilePicker
-            expectedCrc={projectData.project.baseRom.gameRom.crc} // Expected CRC for Illusion of Gaia ROM
+            expectedCrc={projectData.baseRomBranch.gameRomBranch.gameRom.crc} // Expected CRC for Illusion of Gaia ROM
             onFileValidated={handleRomFileValidated}
             onValidationError={handleRomValidationError}
           />
