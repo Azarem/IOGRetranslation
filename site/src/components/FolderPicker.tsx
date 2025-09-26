@@ -1,5 +1,5 @@
 import { useState, useRef } from 'react';
-import { ChunkFile, BinType } from '@gaialabs/shared';
+import { ChunkFile, BinType, readFileAsText, readFileAsBinary } from '@gaialabs/shared';
 import './FolderPicker.css';
 
 interface FolderPickerProps {
@@ -13,34 +13,6 @@ export function FolderPicker({ onFilesLoaded, onError }: FolderPickerProps) {
   const [isScanning, setIsScanning] = useState(false);
   const [scanError, setScanError] = useState<string | null>(null);
   const folderInputRef = useRef<HTMLInputElement>(null);
-
-  const readFileContent = (file: File): Promise<string> => {
-    return new Promise((resolve, reject) => {
-      const reader = new FileReader();
-      reader.onload = (e) => {
-        const content = e.target?.result as string;
-        resolve(content || '');
-      };
-      reader.onerror = () => {
-        reject(new Error(`Failed to read file: ${file.name}`));
-      };
-      reader.readAsText(file);
-    });
-  };
-
-  const getRelativePath = (file: File, basePath: string): string => {
-    // Extract relative path from the file's webkitRelativePath
-    const fullPath = file.webkitRelativePath || file.name;
-    
-    // Remove the base folder name from the path
-    const pathParts = fullPath.split('/');
-    if (pathParts.length > 1) {
-      // Remove the first part (base folder name) and rejoin
-      return pathParts.slice(1).join('/');
-    }
-    
-    return file.name;
-  };
 
   const handleFolderSelect = async (event: React.ChangeEvent<HTMLInputElement>) => {
     const files = event.target.files;
@@ -62,50 +34,62 @@ export function FolderPicker({ onFilesLoaded, onError }: FolderPickerProps) {
       setSelectedFolder(baseFolderName);
 
       // Filter for .asm files (case-insensitive)
-      const asmFileList = Array.from(files).filter(file => 
-        file.name.toLowerCase().endsWith('.asm')
-      );
+      const chunkFiles = await Promise.all(Array.from(files).map(async (file) => {
+        //Pull out name and extension using regex
+        const matches = file.name.match(/([^\\/]+)\.([^\\/.]+)$/);
 
-      if (asmFileList.length === 0) {
-        setScanError('No .asm files found in the selected folder');
+        if(!matches || matches.length < 3) return null;
+        const [name, extension] = matches.slice(1, 3);
+        
+        const chunkFile: ChunkFile = {
+          name,
+          type: BinType.Assembly,
+          size: file.size,
+          location: 0,
+          mnemonics: []
+        };
+
+        switch(extension.toLowerCase()) {
+          case 'asm':
+            chunkFile.type = BinType.Assembly;
+            chunkFile.textData = await readFileAsText(file.name);
+            return chunkFile;
+
+          case 'txt':
+          case 'patch':
+            chunkFile.type = BinType.Patch;
+            chunkFile.textData = await readFileAsText(file.name);
+            return chunkFile;
+
+          case 'bmp': chunkFile.type = BinType.Bitmap; break;
+          case 'set': chunkFile.type = BinType.Tileset; break;
+          case 'map': chunkFile.type = BinType.Tilemap; break;
+          case 'pal': chunkFile.type = BinType.Palette; break;
+          case 'spm': chunkFile.type = BinType.Spritemap; break;
+          case 'bgm': chunkFile.type = BinType.Music; break;
+          case 'sfx': chunkFile.type = BinType.Sound; break;
+          case 'bin': chunkFile.type = BinType.Unknown; break;
+          default: return null;
+        }
+
+        chunkFile.rawData = await readFileAsBinary(file.name);
+        return chunkFile;
+      }));
+
+      const resolvedChunkFiles = chunkFiles.filter(file => !!file);
+
+      if (resolvedChunkFiles.length === 0) {
+        setScanError('No valid files found in the selected folder');
         setAsmFiles([]);
         onFilesLoaded([]);
         return;
       }
 
-      // Process each .asm file
-      const chunkFiles: ChunkFile[] = [];
-      
-      for (const file of asmFileList) {
-        try {
-          const content = await readFileContent(file);
-          const relativePath = getRelativePath(file, baseFolderName);
+      setAsmFiles(resolvedChunkFiles);
+      onFilesLoaded(resolvedChunkFiles);
 
-          const slashIx = Math.max(0, relativePath.indexOf('/'));
-          const folderName = relativePath.slice(0, slashIx).toLowerCase();
-          const type = folderName === 'asm' ? BinType.Assembly : BinType.Patch;
-          
-          const chunkFile: ChunkFile = {
-            name: file.name.slice(0, -4),
-            type: type,
-            textData: content,
-            size: 0,
-            location: 0,
-            mnemonics: []
-          };
-          
-          chunkFiles.push(chunkFile);
-        } catch (error) {
-          console.error(`Error reading file ${file.name}:`, error);
-          // Continue processing other files even if one fails
-        }
-      }
-
-      setAsmFiles(chunkFiles);
-      onFilesLoaded(chunkFiles);
-
-      if (chunkFiles.length < asmFileList.length) {
-        setScanError(`Warning: ${asmFileList.length - chunkFiles.length} files could not be read`);
+      if (resolvedChunkFiles.length < chunkFiles.length) {
+        setScanError(`Warning: ${chunkFiles.length - resolvedChunkFiles.length} files could not be read`);
       }
 
     } catch (error) {
