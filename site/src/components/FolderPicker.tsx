@@ -18,7 +18,11 @@ export function FolderPicker({ onFilesLoaded, onError, onUnshiftChanged }: Folde
   const readFileContent = (file: File, text: boolean = false): Promise<any> => {
     return new Promise((resolve, reject) => {
       const reader = new FileReader();
-      reader.onload = (e) => resolve(e.target?.result as any);
+      reader.onload = (e) =>{
+        const result = e.target?.result as any;
+        if(typeof result === 'string') resolve(result);
+        else resolve(new Uint8Array(result));
+      };
       reader.onerror = () => reject(new Error(`Failed to read file: ${file.name}`));
       if(text) reader.readAsText(file);
       else reader.readAsArrayBuffer(file);
