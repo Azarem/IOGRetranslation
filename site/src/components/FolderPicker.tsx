@@ -4,10 +4,11 @@ import './FolderPicker.css';
 
 interface FolderPickerProps {
   onFilesLoaded: (files: ChunkFile[]) => void;
+  onUnshiftChanged: (before: boolean) => void;
   onError: (error: string) => void;
 }
 
-export function FolderPicker({ onFilesLoaded, onError }: FolderPickerProps) {
+export function FolderPicker({ onFilesLoaded, onError, onUnshiftChanged }: FolderPickerProps) {
   const [selectedFolder, setSelectedFolder] = useState<string | null>(null);
   const [asmFiles, setAsmFiles] = useState<ChunkFile[]>([]);
   const [isScanning, setIsScanning] = useState(false);
@@ -84,7 +85,7 @@ export function FolderPicker({ onFilesLoaded, onError }: FolderPickerProps) {
             chunkFile.type = BinType.Patch;
             chunkFile.textData = await readFileContent(file, true);
             return chunkFile;
-
+          case 'bin':
           case 'bmp': chunkFile.type = BinType.Bitmap; break;
           case 'set': chunkFile.type = BinType.Tileset; break;
           case 'map': chunkFile.type = BinType.Tilemap; break;
@@ -92,8 +93,7 @@ export function FolderPicker({ onFilesLoaded, onError }: FolderPickerProps) {
           case 'spm': chunkFile.type = BinType.Spritemap; break;
           case 'bgm': chunkFile.type = BinType.Music; break;
           case 'sfx': chunkFile.type = BinType.Sound; break;
-          case 'bin': chunkFile.type = BinType.Unknown; break;
-          default: return null;
+          default: chunkFile.type = BinType.Unknown; break;
         }
 
         chunkFile.rawData = await readFileContent(file, false);
@@ -167,6 +167,10 @@ export function FolderPicker({ onFilesLoaded, onError }: FolderPickerProps) {
     }
   };
 
+  const handleChangeUnshift = (event: React.ChangeEvent<HTMLInputElement>) => {
+    if(onUnshiftChanged) onUnshiftChanged(event.target.checked);
+  };
+
   const handleButtonClick = () => {
     folderInputRef.current?.click();
   };
@@ -217,32 +221,35 @@ export function FolderPicker({ onFilesLoaded, onError }: FolderPickerProps) {
       {selectedFolder && !isScanning && (
         <div className="folder-status">
           <div className="status-info">
-            <span className={`status-indicator ${asmFiles.length > 0 ? 'ready' : 'empty'}`}>
-              {asmFiles.length > 0 ? '✅' : '📄'}
-            </span>
             <span>
-              Found {asmFiles.length} .asm file{asmFiles.length !== 1 ? 's' : ''}
+              Found {asmFiles.length} file{asmFiles.length !== 1 ? 's' : ''}
               {selectedFolder && ` in "${selectedFolder}"`}
             </span>
           </div>
 
           {asmFiles.length > 0 && (
-            <div className="file-list">
-              <details>
-                <summary>View discovered files ({asmFiles.length})</summary>
-                <ul className="file-list-items">
-                  {asmFiles.map((file, index) => (
-                    <li key={index} className="file-item">
-                      <span className="file-name">{file.name}</span>
-                      <span className="file-type">{file.type}</span>
-                      <span className="file-size">
-                        {file.textData ? `${file.textData.length} chars` : 'Empty'}
-                      </span>
-                    </li>
-                  ))}
-                </ul>
-              </details>
-            </div>
+            <>
+              <div className="status-info">
+                <label htmlFor="insertBeforeModules">Insert before modules</label>
+                <input type="checkbox" id="insertBeforeModules" onChange={handleChangeUnshift} />
+              </div>
+              <div className="file-list">
+                <details>
+                  <summary>View discovered files ({asmFiles.length})</summary>
+                  <ul className="file-list-items">
+                    {asmFiles.map((file, index) => (
+                      <li key={index} className="file-item">
+                        <span className="file-name">{file.name}</span>
+                        <span className="file-type">{file.type}</span>
+                        <span className="file-size">
+                          {file.textData ? `${file.textData.length} chars` : 'Empty'}
+                        </span>
+                      </li>
+                    ))}
+                  </ul>
+                </details>
+              </div>
+            </>
           )}
         </div>
       )}
