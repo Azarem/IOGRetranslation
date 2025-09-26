@@ -8,6 +8,7 @@ interface RomBuilderProps {
   romData: Uint8Array;
   projectName: string;
   folderFiles: ChunkFile[];
+  unshiftManualFiles?: boolean;
   onBuildComplete: (romData: Uint8Array) => void;
   onBuildError: (error: string) => void;
 }
@@ -16,6 +17,7 @@ export function RomBuilder({
   romData,
   projectName,
   folderFiles,
+  unshiftManualFiles = false,
   onBuildComplete,
   onBuildError
 }: RomBuilderProps) {
@@ -91,11 +93,12 @@ export function RomBuilder({
           location: 0, // Will be determined during processing
           mnemonics: [] // Will be populated during assembly
         };
-        additionalFiles.push(notepadChunk);
+        if(unshiftManualFiles) additionalFiles.unshift(notepadChunk);
+        else additionalFiles.push(notepadChunk);
       }
 
       // Generate the ROM with additional files (folder files + notepad)
-      const outputRom = await romGenerator.generateProject(moduleList, additionalFiles);
+      const outputRom = await romGenerator.generateProject(moduleList, additionalFiles, unshiftManualFiles);
 
       setProgress({ stage: 'Complete', progress: 100, message: 'ROM generation complete!' });
 

@@ -17,6 +17,7 @@ function App() {
   const [builtRom, setBuiltRom] = useState<Uint8Array | null>(null);
   const [buildError, setBuildError] = useState<string | null>(null);
   const [folderFiles, setFolderFiles] = useState<ChunkFile[]>([]);
+  const [insertBeforeModules, setInsertBeforeModules] = useState<boolean>(false);
 
   const {
     notifications,
@@ -132,6 +133,10 @@ function App() {
     showError('Folder Scan Failed', error);
   };
 
+  const handleBeforeChanged = (before: boolean) => {
+    setInsertBeforeModules(before);
+  };
+
   return (
     <>
       <NotificationSystem
@@ -175,6 +180,7 @@ function App() {
             <FolderPicker
               onFilesLoaded={handleFolderFilesLoaded}
               onError={handleFolderError}
+              onUnshiftChanged={handleBeforeChanged}
             />
           </div>
         )}
@@ -191,6 +197,7 @@ function App() {
               romData={romData}
               projectName={projectData.project.name}
               folderFiles={folderFiles}
+              unshiftManualFiles={insertBeforeModules}
               onBuildComplete={handleBuildComplete}
               onBuildError={handleBuildError}
             />
