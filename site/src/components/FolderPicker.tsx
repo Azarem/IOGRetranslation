@@ -86,11 +86,11 @@ export function FolderPicker({ onFilesLoaded, onError, onUnshiftChanged }: Folde
             chunkFile.textData = await readFileContent(file, true);
             return chunkFile;
           case 'bin':
-          case 'bmp': chunkFile.type = BinType.Bitmap; break;
-          case 'set': chunkFile.type = BinType.Tileset; break;
-          case 'map': chunkFile.type = BinType.Tilemap; break;
+          case 'bmp': chunkFile.type = BinType.Bitmap; chunkFile.compressed = false; break;
+          case 'set': chunkFile.type = BinType.Tileset; chunkFile.compressed = false; break;
+          case 'map': chunkFile.type = BinType.Tilemap; chunkFile.compressed = false; break;
+          case 'spm': chunkFile.type = BinType.Spritemap; chunkFile.compressed = false; break;
           case 'pal': chunkFile.type = BinType.Palette; break;
-          case 'spm': chunkFile.type = BinType.Spritemap; break;
           case 'bgm': chunkFile.type = BinType.Music; break;
           case 'sfx': chunkFile.type = BinType.Sound; break;
           default: chunkFile.type = BinType.Unknown; break;
