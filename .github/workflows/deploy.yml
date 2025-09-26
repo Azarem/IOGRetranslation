@@ -21,10 +21,19 @@ jobs:
         cache: 'npm'
         cache-dependency-path: site/package-lock.json
 
-    - name: Install dependencies
+    - name: Clear npm cache and install dependencies
       run: |
         cd site
+        npm cache clean --force
         npm ci
+
+    - name: Verify package versions
+      run: |
+        cd site
+        echo "Installed @gaialabs/shared version:"
+        npm ls @gaialabs/shared
+        echo "Available @gaialabs/shared version:"
+        npm view @gaialabs/shared version
 
     - name: Debug secrets availability
       run: |
