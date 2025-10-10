@@ -65,7 +65,7 @@ export function FolderPicker({ onFilesLoaded, onError, onUnshiftChanged }: Folde
       // Filter for .asm files (case-insensitive)
       const chunkFiles = await Promise.all(Array.from(files).map(async (file) => {
         //Pull out name and extension using regex
-        const matches = file.name.match(/([^\\/]+)\.([^\\/.]+)$/);
+        const matches = file.name.match(/([^\\/]+?)\.([^\\/]+)$/);
 
         if(!matches || matches.length < 3) return null;
         const [name, extension] = matches.slice(1, 3);
@@ -85,12 +85,11 @@ export function FolderPicker({ onFilesLoaded, onError, onUnshiftChanged }: Folde
             return chunkFile;
 
           case 'txt':
-          case 'patch':
+          case 'patch.asm':
             chunkFile.type = BinType.Patch;
             chunkFile.textData = await readFileContent(file, true);
             return chunkFile;
-          case 'bin':
-          case 'bmp': chunkFile.type = BinType.Bitmap; chunkFile.compressed = false; break;
+          case 'bin': chunkFile.type = BinType.Bitmap; chunkFile.compressed = false; break;
           case 'set': chunkFile.type = BinType.Tileset; chunkFile.compressed = false; break;
           case 'map': chunkFile.type = BinType.Tilemap; chunkFile.compressed = false; break;
           case 'spm': chunkFile.type = BinType.Spritemap; chunkFile.compressed = false; break;
