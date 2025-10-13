@@ -1,0 +1,777 @@
+[
+  {
+    "name": "widestring_06856E",
+    "path": "seaside_palace/sp5A_monologue.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：ぼくとリリィはムー大陸へと足をふみいれた。",
+        "thammy": "Tim: Lillie and I set foot upon the continent of Mu.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "数千年のねむりからさめた大陸はぼくらをかんげいしてくれるだろうか…",
+        "thammy": "Would the continent that was awoken from numerous millennia of sleep welcome us…?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0697C9",
+    "path": "mu/mu61_hint.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "リリィ：ねえテム。ちょっと思ったんだけどさ、",
+        "thammy": "Lillie begins to speak from your pocket.",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：ねえテム。ちょっと思ったんだけどさ、",
+        "thammy": "Lillie: Hey Tim. I was thinking a little.",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "この石像って何かを見つめてるように見えない？",
+        "thammy": "Doesn't it look like these stone statues are staring at something?",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "ほらそこにあるたからばこって２つの石像の視線が交わるところにあるよね。",
+        "thammy": "Look, the treasure box over there is where the two statues' lines of sight cross, right?",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "だったら他の石像も何かを見つめてるんじゃないかと思って。あたしの思いすごしなのかな。",
+        "thammy": "If that's the case, I was wondering if the other statues aren't also staring at something. I guess I could be overthinking it.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0698D2",
+    "path": "mu/mu62_hope_statue.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "いのりの像を見つけた！いのりの像…どこかに同じ名前の部屋がなかっただろうか…",
+        "thammy": "Found a prayer statue! Prayer statue... Wasn't there a room somewhere with the same name...?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_069975",
+    "path": "mu/mu62_hope_statue.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "いのりの像を見つけた！いのりの像…どこかに同じ名前の部屋がなかっただろうか…",
+        "thammy": "Found a prayer statue! Prayer statue… Wasn't there another room with the same name…?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0392DE",
+    "path": "chunk_038000.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "いのりの石像をささげた！",
+        "thammy": "Offered the prayer statue!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0392FB",
+    "path": "chunk_038000.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "中はからっぽだった！",
+        "thammy": "But nothing happened!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_03930B",
+    "path": "chunk_038000.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "どこからか低く不気味な声がきこえてきた…",
+        "thammy": "An eerie voice could be heard descending from somewhere...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_069BAA",
+    "path": "mu/mu63_spirits.asm",
+    "parts": [
+      {
+        "source": "Spirit",
+        "japanese": "太陽のカミよ…ラ・ムーよ…",
+        "thammy": "O god of the sun... O Ra Mu...",
+        "tone": ""
+      },
+      {
+        "source": "Spirit",
+        "japanese": "大いなる海に力をあたえたまえ…",
+        "thammy": "Bestow your power upon the great ocean...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0685D3",
+    "path": "seaside_palace/sp5A_monologue.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：あっ！さっきより水が少なくなってるっ！",
+        "thammy": "Lillie: Ah...! The water level's been reduced from what it was just now...!",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "どこからか下の段へおりられそうだねっ！！",
+        "thammy": "We can now descend to a lower level from somewhere, can't we...!?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08E2F8",
+    "path": "actors/sE6_gaia.asm",
+    "parts": [
+      {
+        "source": "Gaia",
+        "japanese": "ムー大陸はそなたが旅をはじめると同時に海面へふじょうした。",
+        "thammy": "When thou began thy journey, the Mu continent surfaced to the sea level.",
+        "tone": ""
+      },
+      {
+        "source": "Gaia",
+        "japanese": "しかし大陸の多くの部分にはまだ海水がたまっている。",
+        "thammy": "However, seawater has still accumulated on many sections of the continent.",
+        "tone": ""
+      },
+      {
+        "source": "Gaia",
+        "japanese": "この水がすべてなくなったときそなたはムー大陸の王ラ・ムーのねむる場所へたどりつくだろう。",
+        "thammy": "When all of this water has been removed, thou wilt probably arrive at the place where the Mu continent's king, Ra Mu, sleeps.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08E3A7",
+    "path": "actors/sE6_gaia.asm",
+    "parts": [
+      {
+        "source": "Gaia",
+        "japanese": "テムの力サイコスライダーは高さが低くせまい通路をとおりぬけることができる。",
+        "thammy": "With Tim's power, Psycho Slider, thou canst lower thyself and pass through narrow passages.",
+        "tone": ""
+      },
+      {
+        "source": "Gaia",
+        "japanese": "とおれる岩のすきまを見落さないようにあたりに気をくばって歩くがいい。",
+        "thammy": "Thou shouldst pay attention so not to overlook crevices that thou wouldst pass by.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08EC66",
+    "path": "actors/sE6_gaia.asm",
+    "parts": [
+      {
+        "source": "Gaia",
+        "japanese": "サイコスライダーは少年テムだけが使うことのできるちから。",
+        "thammy": "Psycho Slider is a power that only the young man, Tim, can use.",
+        "tone": ""
+      },
+      {
+        "source": "Gaia",
+        "japanese": "スライディングこうげきができるようになる。またせまい通路も通れるであろう。",
+        "thammy": "Thou art now able to do a sliding attack. Again, thou wilt also pass through narrow passages.",
+        "tone": ""
+      },
+      {
+        "source": "Gaia",
+        "japanese": "走っている最中にこうげきボタンをおすがよい。",
+        "thammy": "Thou shouldst push the attack button whilst running.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_069CB7",
+    "path": "mu/mu66_actor_069C85.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "そこはムーの人々の基場のようだった…",
+        "thammy": "It looks like this was the cemetery for Mu's people...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_069F45",
+    "path": "mu/mu66_rama_spirits.asm",
+    "parts": [
+      {
+        "source": "Ra Mu",
+        "japanese": "私はムー大陸の王ラ・ムー。肉体ははるかむかしになくしたが精神だけは生きつづけている。",
+        "thammy": "I am the king of the continent of Mu, Ra Mu.",
+        "tone": ""
+      },
+      {
+        "source": "Ra Mu",
+        "japanese": "私はムー大陸の王ラ・ムー。肉体ははるかむかしになくしたが精神だけは生きつづけている。",
+        "thammy": "Though I lost my corporeal body in the distant past, my spirit continues to live on.",
+        "tone": ""
+      },
+      {
+        "source": "Ra Mu",
+        "japanese": "さあよく目をこらしてみなさい。さまよえるたましいたちが見えるはずだ。",
+        "thammy": "Alright, strain your eyes well. The wandering souls should be visible.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_069FBE",
+    "path": "mu/mu66_rama_spirits.asm",
+    "parts": [
+      {
+        "source": "Ra Mu",
+        "japanese": "ねむりからさめたたましいたちの言葉を聞いてくるがよい。",
+        "thammy": "You should listen to the words of the souls that have awakened from their sleep.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06A0A6",
+    "path": "mu/mu66_rama_spirits.asm",
+    "parts": [
+      {
+        "source": "Spirit",
+        "japanese": "あるとき天空からひとすじの光がさしこんだ。我々は神の光だと思いひれふした。",
+        "thammy": "A beam of light once shone in from the heavens.",
+        "tone": ""
+      },
+      {
+        "source": "Spirit",
+        "japanese": "あるとき天空からひとすじの光がさしこんだ。我々は神の光だと思いひれふした。",
+        "thammy": "We thought it was the light of the gods and knelt before it.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06A0EC",
+    "path": "mu/mu66_rama_spirits.asm",
+    "parts": [
+      {
+        "source": "Spirit",
+        "japanese": "神の光を見た日から一年がすぎ我々の体に変化が起こりはじめた。",
+        "thammy": "One year after we saw the light of the gods, our bodies started to undergo a change.",
+        "tone": ""
+      },
+      {
+        "source": "Spirit",
+        "japanese": "ある者はやせほそりある者は岩のようになりまたあるものは水のように体がとけていったのだ…",
+        "thammy": "Some people became thin, some people grew to look like boulders,",
+        "tone": ""
+      },
+      {
+        "source": "Spirit",
+        "japanese": "ある者はやせほそりある者は岩のようになりまたあるものは水のように体がとけていったのだ…",
+        "thammy": "…and some people even melted away so that they looked like water...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06A154",
+    "path": "mu/mu66_rama_spirits.asm",
+    "parts": [
+      {
+        "source": "Spirit",
+        "japanese": "家族や友人が目前で化け物の姿に変化しおそいかかってくる。我々はなみだを流しながら武器をふるう…",
+        "thammy": "Our family and friends transformed to monsters before our very eyes and stormed in to attack us.",
+        "tone": ""
+      },
+      {
+        "source": "Spirit",
+        "japanese": "家族や友人が目前で化け物の姿に変化しおそいかかってくる。我々はなみだを流しながら武器をふるう…",
+        "thammy": "We were shedding tears as we raised our weapons against them...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06A1C9",
+    "path": "mu/mu66_rama_spirits.asm",
+    "parts": [
+      {
+        "source": "Spirit",
+        "japanese": "おそろしさにたえきれずここからにげ出そうと考える者も少なくない。",
+        "thammy": "We couldn't bear this awful state of affairs,",
+        "tone": ""
+      },
+      {
+        "source": "Spirit",
+        "japanese": "おそろしさにたえきれずここからにげ出そうと考える者も少なくない。",
+        "thammy": "…so there were more than a few people who thought we should escape from here.",
+        "tone": ""
+      },
+      {
+        "source": "Spirit",
+        "japanese": "しかしムー大陸は大海原の島。生きて他の場所へたどりつける保障はどこにもない…",
+        "thammy": "However, the continent of Mu is an island on the deep blue sea.",
+        "tone": ""
+      },
+      {
+        "source": "Spirit",
+        "japanese": "しかしムー大陸は大海原の島。生きて他の場所へたどりつける保障はどこにもない…",
+        "thammy": "Beyond that, there was no guarantee that we would have arrived in some other place where we could live...",
+        "tone": ""
+      },
+      {
+        "source": "Spirit",
+        "japanese": "この島には船の材料がないのだ。石で組み立ててもすぐにしずんでしまう…",
+        "thammy": "This island did not have the material for a ship.",
+        "tone": ""
+      },
+      {
+        "source": "Spirit",
+        "japanese": "この島には船の材料がないのだ。石で組み立ててもすぐにしずんでしまう…",
+        "thammy": "It would immediately sink if we had constructed it from stone...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06A19E",
+    "path": "mu/mu66_rama_spirits.asm",
+    "parts": [
+      {
+        "source": "Spirit",
+        "japanese": "こんなことが続くなら生きていることにいったい何の意味があろう…",
+        "thammy": "What meaning would there even be in going on living if it went on like this…?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06A26D",
+    "path": "mu/mu66_rama_spirits.asm",
+    "parts": [
+      {
+        "source": "Spirit",
+        "japanese": "人々は海底トンネルをほり始めた。何百年いや何千年かかるかわからない計画にのぞみをたくしてひたすらほり続ける…",
+        "thammy": "People started to dig an undersea tunnel.",
+        "tone": ""
+      },
+      {
+        "source": "Spirit",
+        "japanese": "人々は海底トンネルをほり始めた。何百年いや何千年かかるかわからない計画にのぞみをたくしてひたすらほり続ける…",
+        "thammy": "We didn't know how many centuries…",
+        "tone": ""
+      },
+      {
+        "source": "Spirit",
+        "japanese": "人々は海底トンネルをほり始めた。何百年いや何千年かかるかわからない計画にのぞみをたくしてひたすらほり続ける…",
+        "thammy": "…no, how many millennia this plan that we had entrusted our hopes into would take,",
+        "tone": ""
+      },
+      {
+        "source": "Spirit",
+        "japanese": "人々は海底トンネルをほり始めた。何百年いや何千年かかるかわからない計画にのぞみをたくしてひたすらほり続ける…",
+        "thammy": "…but they continued digging...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_069FE3",
+    "path": "mu/mu66_rama_spirits.asm",
+    "parts": [
+      {
+        "source": "Ra Mu",
+        "japanese": "人々がほり進んだ海底トンネルはこのおくにある。",
+        "thammy": "The undersea tunnel that the people had dug is inside here.",
+        "tone": ""
+      },
+      {
+        "source": "Ra Mu",
+        "japanese": "そしてこのミステリードールをもっていきなさい。",
+        "thammy": "And with that, please take this Mystery Doll.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06A36B",
+    "path": "mu/mu67_erik.asm",
+    "parts": [
+      {
+        "source": "Eric",
+        "japanese": "エリック：うわああああああん…だれか助けてえっ！！",
+        "thammy": "Eric: Waaaaaaah... Somebody saaave me...!!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0AFB45",
+    "path": "mu/mu67_vampires.asm",
+    "parts": [
+      {
+        "source": "Vampire man",
+        "japanese": "キュウケツキ男：よくミステリードールを見つけ出してくれた！",
+        "thammy": "Vampire man: You did well, finding the Mystery Doll for us!",
+        "tone": ""
+      },
+      {
+        "source": "Vampire man",
+        "japanese": "変なヤツがきゅうでんにやってきたと思っていたが…ふっ。およがせておいて正解だったよ。",
+        "thammy": "I was thinking that someone strange had turned up at the palace but…",
+        "tone": ""
+      },
+      {
+        "source": "Vampire man",
+        "japanese": "変なヤツがきゅうでんにやってきたと思っていたが…ふっ。およがせておいて正解だったよ。",
+        "thammy": "Pshaw. I was right to let you free.",
+        "tone": ""
+      },
+      {
+        "source": "Vampire woman",
+        "japanese": "キュウケツキ女：なによ。あんたはえものがやってきたとかよだれをたらしてたくせにっ！",
+        "thammy": "Vampire woman: What are you going on about?",
+        "tone": ""
+      },
+      {
+        "source": "Vampire woman",
+        "japanese": "キュウケツキ女：なによ。あんたはえものがやってきたとかよだれをたらしてたくせにっ！",
+        "thammy": "Even though you start drooling when anything that resembles prey turns up…!",
+        "tone": ""
+      },
+      {
+        "source": "Vampire woman",
+        "japanese": "ちょっと若い子がくればこれだものっ！あんたは食べることしか考えてないのっ？",
+        "thammy": "Every single time that you manage to get a hold of a few young children, you're always like that…!",
+        "tone": ""
+      },
+      {
+        "source": "Vampire woman",
+        "japanese": "ちょっと若い子がくればこれだものっ！あんたは食べることしか考えてないのっ？",
+        "thammy": "Do you think of nothing but eating…?",
+        "tone": ""
+      },
+      {
+        "source": "Vampire man",
+        "japanese": "キュウケツキ男：そういうお前だって！！",
+        "thammy": "Vampire man: You're one to talk!",
+        "tone": ""
+      },
+      {
+        "source": "Vampire man",
+        "japanese": "まあまて。今はふうふげんかをしてる場合じゃない。",
+        "thammy": "Hey, wait. Now isn't the situation to be having a lover's quarrel.",
+        "tone": ""
+      },
+      {
+        "source": "Vampire man",
+        "japanese": "まずはそのミステリードールをいただくとしよう。そこのお前！かくごしろっ！！！",
+        "thammy": "First off, let's take that Mystery Doll. You there! Prepare yourself…!!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0AFCA0",
+    "path": "mu/mu67_vampires.asm",
+    "parts": [
+      {
+        "source": "Vampire woman",
+        "japanese": "キュウケツキ女：ふんっ。あんな男死んでせいせいしたわっさあ次はお前の番っ！！かくごおしっ！！",
+        "thammy": "Vampire woman: Hmph. That man's dead; what a relief. Alright, it's your turn next...!! Get ready...!!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0AFCE4",
+    "path": "mu/mu67_vampires.asm",
+    "parts": [
+      {
+        "source": "Vampire man",
+        "japanese": "キュウケツキ男：きさまっ！よくもわが妻をっ！！ゆるさんっ！！！！",
+        "thammy": "Vampire man: You bastard…! How could you do that to my wife…!! I won't tolerate this…!!!!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06A38D",
+    "path": "mu/mu67_erik.asm",
+    "parts": [
+      {
+        "source": "Eric",
+        "japanese": "まずはばくだんをとめてよおっ！はやくはやくっ！！",
+        "thammy": "Before anything else, stop the booomb…! Hurry hurry…!!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06A4E9",
+    "path": "mu/mu67_bomb.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "ばくだんからは赤い線と青い線が２本出ているようだ…",
+        "thammy": "It seems that both a red wire and a blue wire are hanging out of the bomb...",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "どっちを切りますか？ ／ 赤いほう ／ 青いほう",
+        "thammy": "Which will you cut? Go with red Go with blue",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06A54E",
+    "path": "mu/mu67_bomb.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "赤い線を引きちぎった！",
+        "thammy": "The red wire is cut!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06A566",
+    "path": "mu/mu67_bomb.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "赤い線を引きちぎった！",
+        "thammy": "The blue wire is cut!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06A719",
+    "path": "mu/mu67_bomb.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "中はからっぽだった！",
+        "thammy": "It was a dud. I'm saved...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06A57F",
+    "path": "mu/mu67_bomb.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：どうやらばくだんは止まったみたいだった…",
+        "thammy": "Tim: It looks like the bomb stopped somehow...",
+        "tone": ""
+      },
+      {
+        "source": "Eric",
+        "japanese": "エリック：たすかったあ…",
+        "thammy": "Eric: I'm saaaved...",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "リリィ：ごめんねテム…あたしいっしょにいたのに何にもできなかった…",
+        "thammy": "Lillie begins to speak from your pocket.",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：ごめんねテム…あたしいっしょにいたのに何にもできなかった…",
+        "thammy": "Lillie: Sorry Tim… Even though I was with you, I couldn't do anything…",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "足がすくんでぜんぜん動けないし声も出ないし…テムはやっぱり男の子だよね。",
+        "thammy": "My legs froze and couldn't move at all, even my voice wouldn't come out…",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "足がすくんでぜんぜん動けないし声も出ないし…テムはやっぱり男の子だよね。",
+        "thammy": "You're a boy after all, aren't you.",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "いままで自分をしっかりしてるって思ってたけどいざとなるとこれだもん…",
+        "thammy": "I thought I was reliable until now, but this is how it is when it comes down to it...",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "………。ごめんもうしばらくポケットの中にいさせて。",
+        "thammy": "…Sorry, I'll still take up your pocket for a while.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06A3B8",
+    "path": "mu/mu67_erik.asm",
+    "parts": [
+      {
+        "source": "Eric",
+        "japanese": "エリック：テムが変身してたことはだれにも言わないでおくよ。",
+        "thammy": "Eric: I won't tell anyone that you transformed.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06A7C7",
+    "path": "mu/mu67_neil_lily.asm",
+    "parts": [
+      {
+        "source": "Neil",
+        "japanese": "ニール：テムっ！無事かっ？！",
+        "thammy": "Neil: Tim...! Are you safe...?!",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "ロブ：テムっ！リリィの姿が見あたらないけどリリィはどうしたっ？！",
+        "thammy": "Rob: Tim...! I couldn't see any sign of Lillie; how's she doin'...?!",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：ここにいるよっ。",
+        "thammy": "Lillie: I'm here…",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06AA4C",
+    "path": "mu/mu67_neil_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ:心配させてごめんね。でもテムが守ってくれたからあたしは平気っ。",
+        "thammy": "Lillie: Sorry for making you worry. But I had Tim to protect me so I'm okay…",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06AA89",
+    "path": "mu/mu67_neil_lily.asm",
+    "parts": [
+      {
+        "source": "Neil",
+        "japanese": "ニール：へえ。テムもなかなか男らしいところが出てきたじゃないか。",
+        "thammy": "Neil: Oh? Tim's turned out to be very manly too, hasn't he?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06A894",
+    "path": "mu/mu67_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：そんなのどうでもいいじゃない！",
+        "thammy": "Karen: Who cares about that!",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "それよりムー大陸からどうやって出るかを考えましょっ！",
+        "thammy": "More importantly, let's think how to get off of the continent of Mu...!",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：それならだいじょうぶ。さっきラ・ムーとかいう人からいいこと聞いちゃったもの。",
+        "thammy": "Lillie: You don't have to worry about that.",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：それならだいじょうぶ。さっきラ・ムーとかいう人からいいこと聞いちゃったもの。",
+        "thammy": "We heard something good from someone just now; they were named Ra Mu or something like that.",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "テムはムー大陸のことや海底トンネルをわたった人々のことをみんなに話した…",
+        "thammy": "Tim told everyone about the continent of Mu, the people who crossed over through the undersea tunnel, and so on...",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：悲しい話ね…",
+        "thammy": "Karen: It's a sad story, isn't it…?",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "いっしょにくらしてた人たちがはなればなれになってしかも片方は海の底なんて…",
+        "thammy": "The people who were living here together were scattered,",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "いっしょにくらしてた人たちがはなればなれになってしかも片方は海の底なんて…",
+        "thammy": "and even more so when once they arrive at the other side on the bottom of the sea…",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "ニール：とにかくその海底トンネルを通っていけば近くの大陸へ出られるってわけか。",
+        "thammy": "Neil: Anyway, if we pass through that undersea tunnel, then we should be able to get out, right?",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "ロブ：よしっ！そうと決まればさっそく出発だっ！",
+        "thammy": "Rob: Alright…! If we've decided on that, let's go immediately…!",
+        "tone": ""
+      }
+    ]
+  }
+]
+

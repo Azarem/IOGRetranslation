@@ -1,0 +1,681 @@
+[
+  {
+    "name": "widestring_0581FF",
+    "path": "gold_ship/gs2C_descent.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：これがインカの黄金船か？！",
+        "thammy": "Tim: Is this the Incan Gold Ship?!",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "おやっ？人の気配がする…",
+        "thammy": "Oh...? People are around...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0583E7",
+    "path": "gold_ship/gs2C_crew5.asm",
+    "parts": [
+      {
+        "source": "Crew Member",
+        "japanese": "わーいわーい王様がもどってきたあっ！",
+        "thammy": "Hooray! Hooray! His Majesty, the King, has returned!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_058394",
+    "path": "gold_ship/gs2C_crew4.asm",
+    "parts": [
+      {
+        "source": "Crew Member",
+        "japanese": "これは王様！よくご無事でっ！",
+        "thammy": "Ah, Your Majesty! You're safe and well...!",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：（ボクが王様だって？？？）",
+        "thammy": "Tim: (They're calling ME the King???)",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_058260",
+    "path": "gold_ship/gs2C_crew1.asm",
+    "parts": [
+      {
+        "source": "Crew Member",
+        "japanese": "王様っ！よくご無事でっ！これでやっと大海原へ出航できますよ。",
+        "thammy": "Your Majesty...! You're safe! With this, we can finally embark to the deep blue sea.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0582CC",
+    "path": "gold_ship/gs2C_crew2.asm",
+    "parts": [
+      {
+        "source": "Crew Member",
+        "japanese": "これが喜ばずにいられますかっ！長い間王様を待ったかいがありましたよっ！",
+        "thammy": "This cannot go without congratulations...! We had been waiting for a long time, but you've come...!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05834D",
+    "path": "gold_ship/gs2C_crew3.asm",
+    "parts": [
+      {
+        "source": "Crew Member",
+        "japanese": "おきさき様は船室でございます。はやくその元気なお姿を見せてあげて下さいまし。",
+        "thammy": "Her Majesty the Queen is in the cabin. Please hurry and show her how lively you look.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05870A",
+    "path": "gold_ship/gs2E_sleep.asm",
+    "parts": [
+      {
+        "source": "Crew Member",
+        "japanese": "これは王様。船内を見物なさっているのですね。",
+        "thammy": "Ah, Your Majesty. You're sightseeing on the ship's interior, right?",
+        "tone": ""
+      },
+      {
+        "source": "Crew Member",
+        "japanese": "しかし王様もおつかれのはず。船をひととおりまわったらこのベッドで少しお休みください。",
+        "thammy": "However, Your Majesty must also be tired. Once you've visited everywhere, please rest in this bed for a while.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0587A4",
+    "path": "gold_ship/gs2E_crew0.asm",
+    "parts": [
+      {
+        "source": "Crew Member",
+        "japanese": "暗ヤミにつつまれたどうくつの先にまばゆい光が見える…",
+        "thammy": "Past this cavern embraced darkness, we can see a dazzling light...",
+        "tone": ""
+      },
+      {
+        "source": "Crew Member",
+        "japanese": "あの光にみちた海原へ出航したとき我々は永遠の自由を手に入れるのだ。",
+        "thammy": "So that we could obtain eternal freedom, we departed to an ocean filled in that light.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0589DB",
+    "path": "gold_ship/gs2E_crew3.asm",
+    "parts": [
+      {
+        "source": "Incan Child",
+        "japanese": "なんでぼくたちはにげなくちゃいけないの？インカはぼくたちのお家なのに。",
+        "thammy": "Why did we have to escape? The Incan Empire was our home, and yet…",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_058940",
+    "path": "gold_ship/gs2E_crew2.asm",
+    "parts": [
+      {
+        "source": "Crew Member",
+        "japanese": "これは王様。ミステリードールはこのハコの中でございます。",
+        "thammy": "Ah, Your Majesty. The Mystery Doll is inside of this box.",
+        "tone": ""
+      },
+      {
+        "source": "Crew Member",
+        "japanese": "それにそろそろ出航の準備がととのったようですよ。",
+        "thammy": "Moreover, it seems that we should be prepared for departure soon.",
+        "tone": ""
+      },
+      {
+        "source": "Crew Member",
+        "japanese": "どうですか？見張り台にのぼってみては？出航の様子が見られますよ。",
+        "thammy": "What will you do? Will you climb the lookout tower and take a look for yourself? You'll be able to watch as we depart.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05883E",
+    "path": "gold_ship/gs2E_crew1.asm",
+    "parts": [
+      {
+        "source": "Crew Member",
+        "japanese": "おきさき様は以前王様がおくられたゆびわを今でも大切に身につけていらっしゃいます。",
+        "thammy": "Her Majesty, the Queen, has carefully put on the ring that Your Majesty had bestowed upon her previously.",
+        "tone": ""
+      },
+      {
+        "source": "Crew Member",
+        "japanese": "そうです。しんりゃく者に追われ王様とおきさき様がはなればなれになるときにおくられたゆびわです。",
+        "thammy": "Ah, that's right. Your Majesty sent the ring when you and the Queen were driven out by the invaders and were separated.",
+        "tone": ""
+      },
+      {
+        "source": "Crew Member",
+        "japanese": "おきさき様は王様のことをそれだけしたっていらっしゃるのでしょうね。",
+        "thammy": "As for the Queen, she's probably only concerned with how well Your Majesty is doing.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_058A30",
+    "path": "gold_ship/gs2E_queen.asm",
+    "parts": [
+      {
+        "source": "Incan Queen",
+        "japanese": "インカ女王：よくぞご無事でもどってくださいました。",
+        "thammy": "Incan Queen: How wonderful that you're returned safe and well for me, my darling.",
+        "tone": ""
+      },
+      {
+        "source": "Incan Queen",
+        "japanese": "あなたに言われたとおり風のミステリードールを今日まで守り続けてきましたわ。",
+        "thammy": "The Mystery Doll of the wind that you had spoken of had protected me many times until today!",
+        "tone": ""
+      },
+      {
+        "source": "Incan Queen",
+        "japanese": "あれはあなたが神からさずかった石像ですものね。",
+        "thammy": "You said it was a stone statue blessed by the gods, right?",
+        "tone": ""
+      },
+      {
+        "source": "Incan Queen",
+        "japanese": "下の倉庫のたからばこにしまってありますからご自分の目でたしかめてくださいな。",
+        "thammy": "I believe it has been placed in a treasure box in the storehouse below; please confirm it with your own eyes.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_01FEA8",
+    "path": "itemget_table_01FD24.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "ミステリードールを見つけた！",
+        "thammy": "Found a Mystery Doll!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0584BC",
+    "path": "gold_ship/gs2C_crow_crew.asm",
+    "parts": [
+      {
+        "source": "Lookout",
+        "japanese": "見張り：王様外をごらんください。船がどうくつをぬけます！",
+        "thammy": "Lookout: King, please look outside. The ship is leaving the cave!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0584FB",
+    "path": "gold_ship/gs2C_crow_crew.asm",
+    "parts": [
+      {
+        "source": "Lookout",
+        "japanese": "見張り：ずっと暗ヤミで生活をしてきた我々にとってこの海のかがやきは神の光に見えますよ。",
+        "thammy": "Lookout: We've been living in darkness for a long time. For us, the light of the gods is in the brightness of this ocean.",
+        "tone": ""
+      },
+      {
+        "source": "Lookout",
+        "japanese": "世界はこんなにも美しいのになぜしんりゃく者が生まれ自然をこわしてゆくのでしょうね。",
+        "thammy": "Although these kinds of beautiful things are in the world, I wonder why invaders are born who destroy nature?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_058759",
+    "path": "gold_ship/gs2E_sleep.asm",
+    "parts": [
+      {
+        "source": "Crew Member",
+        "japanese": "こんなみすぼらしいベッドで申しわけないんですがどうぞゆっくり休んでください。",
+        "thammy": "I'm sorry that we only have a sketchy bed like this this to offer; please, take your time and rest.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0586CC",
+    "path": "gold_ship/gs2E_sleep.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：ボクはもうれつなすいまにおそわれ深い深い夢の中へといざなわれていった。",
+        "thammy": "Tim: In a ferocious state of drowsiness, I had been lured into a deep, deep dream.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0594B8",
+    "path": "gold_ship/gs2A_shira.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：かかあさんっ！？",
+        "thammy": "Tim: M-mom...!?",
+        "tone": ""
+      },
+      {
+        "source": "Shira",
+        "japanese": "テムの母シーラ：テム。空を見てごらん…ほらすい星があんなにきれい。",
+        "thammy": "Tim's mother, Sheila: Tim. Please look at the sky... See, isn't that comet out there pretty?",
+        "tone": ""
+      },
+      {
+        "source": "Shira",
+        "japanese": "すい星はね長い長い年月をかけて地球にやってきてそしてまた遠ざかっていくの。",
+        "thammy": "Hey, about that comet. It arrives at the Earth after many, many years, then goes away again.",
+        "tone": ""
+      },
+      {
+        "source": "Shira",
+        "japanese": "あの星を不幸を呼ぶ星っていう人もいればしあわせの星と呼ぶ人もいるわ…",
+        "thammy": "Even when there are people who call it a star that summons misfortune, there are also those who call it a star of luck...",
+        "tone": ""
+      },
+      {
+        "source": "Shira",
+        "japanese": "テム。あなたはどっちだと思う？ ／ ふこうの星 ／ しあわせの星",
+        "thammy": "Tim. Which do you think it is? / Star of misfortune / Star of luck",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0595B4",
+    "path": "gold_ship/gs2A_shira.asm",
+    "parts": [
+      {
+        "source": "Shira",
+        "japanese": "そう…じゃあふこうが訪れないようにいのらなくちゃね…",
+        "thammy": "Is that how it is... Well, then I'll pray that the misfortune doesn't visit, okay…?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0595E6",
+    "path": "gold_ship/gs2A_shira.asm",
+    "parts": [
+      {
+        "source": "Shira",
+        "japanese": "テムや。私はいつでもあなたのことを見守っていますよ。",
+        "thammy": "My dear Tim. You know, I'll always be watching over you.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_058DBB",
+    "path": "gold_ship/gs2D_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：テム！",
+        "thammy": "Lillie: Tim!",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "テム！起きて！",
+        "thammy": "Tim! Get up!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05902D",
+    "path": "gold_ship/gs2D_lance.asm",
+    "parts": [
+      {
+        "source": "Rob",
+        "japanese": "ロブ：お前の様子が変だから３人でこっそり後をつけたんだ。",
+        "thammy": "Rob: Ya were actin' weird, so tha three o' us went sneakin' behind ya.",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "そしたら変な村にたどりついてさ…",
+        "thammy": "Then we ended up at a weird village...",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：ちょっとお。あたしの生まれた場所なんだから変な村なんて言わないでよっ。",
+        "thammy": "Lillie: Waaait a second. That's where I was born, so how can you call it a weird village…!?",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "ロブ：じゅうぶん変な村じゃねえかっ。目に見えない村なんてよっ。",
+        "thammy": "Rob: Ain't it weird enough...? It's a village ya can't see…",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "テム。おれたちにかくれて旅に出ようったってそうはいかないぜ。",
+        "thammy": "Tim. Don't go hidin' yer journey from us.",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "友達だったら楽しみと苦労はわかちあわなくっちゃな。",
+        "thammy": "Ya ain't friends unless ya share the fun times and the hard times.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_058DDA",
+    "path": "gold_ship/gs2D_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：テムの帰りがあんまりおそいから長老様にうらなってもらったの。",
+        "thammy": "Lillie: You were taking too long to come back, so we got a prediction from the Elder.",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "そしたら海の上を一人でさまよっているって言うんだもの。びっくりしたわよ。",
+        "thammy": "He said you were alone, roaming the sea. We were shocked!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_058BD7",
+    "path": "gold_ship/gs2B_bones.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：ここはさっきインカ人が立っていた場所だ…",
+        "thammy": "Tim: An Incan person was standing here a little bit ago...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05966E",
+    "path": "gold_ship/gs2B_seth.asm",
+    "parts": [
+      {
+        "source": "Morris",
+        "japanese": "モリス：さっき船の中できみょうな宝石を見つけたんです。これテムにあげますね。",
+        "thammy": "Morris: A little while ago I found this odd jewel inside the ship. Here, I'll give it to you, alright?",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "テムは赤い宝石をもらった！",
+        "thammy": "Tim received a Red Jewel!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0596C1",
+    "path": "gold_ship/gs2B_seth.asm",
+    "parts": [
+      {
+        "source": "Morris",
+        "japanese": "そう言えばテムに物をあげたのは初めてかも知れませんよね。大事にしてくださいね。",
+        "thammy": "Now that you mention it, this might be the first time I've given something to you. Please treasure it.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_059240",
+    "path": "gold_ship/gs2B_erik.asm",
+    "parts": [
+      {
+        "source": "Eric",
+        "japanese": "エリック：わあっ！びっくりしたっ！！",
+        "thammy": "Eric: Wah...! You surprised me...!!",
+        "tone": ""
+      },
+      {
+        "source": "Eric",
+        "japanese": "なんだテムかあ。もうおどかさないでよっ！！",
+        "thammy": "Geez, Tim. Don't scare me...!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_058C21",
+    "path": "gold_ship/gs2D_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：もどるはずのないインカ王の帰りをまちつづけて彼らは死んでいったのよね…",
+        "thammy": "Karen: They died waiting for an Incan King that they couldn't expect to return...",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "平和にくらしてた人たちの生活をこなごなにするなんてゆるせないよやっぱり…",
+        "thammy": "In the end, I can't stand that people who were living in peace had their lives shattered…",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_058B4F",
+    "path": "gold_ship/gs2D_mummy.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "きさきのミイラが静かにねむっている。",
+        "thammy": "The queen's mummy is sleeping quietly.",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "その細くて長い指には黄金のゆびわがはめられているようだ…",
+        "thammy": "A gold ring seemed to be placed on its long, slender finger...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_058E4A",
+    "path": "gold_ship/gs2D_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：この船に積みこまれた貴重な黄金細工っていうのはきっとそのゆびわのことだよね。",
+        "thammy": "Lillie: That ring must be from the golden treasures that were said to have been loaded on this boat.",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "他のどの黄金細工よりかがやいていたんじゃないかなあ。",
+        "thammy": "I wonder if it wasn't outshining the other golden artifacts.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：黄金を見つけてお金もちになろうとした人たちはこんなゆびわのために命を落としたわけね。",
+        "thammy": "Karen: The people who were trying to get rich by finding gold must have lost their lives searching for treasures like this ring, huh?",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "あたしこのゆびわもらっとこ。かわいくてなんだかすっごく気にいっちゃった。",
+        "thammy": "I'm really taking a liking to the ring; it's cute. I'm taking it.",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：あなたにはえんりょってものがないの？！のろわれても知らないからねっ！",
+        "thammy": "Lillie: Do you have no self-restraint!? After all, it might be cursed...!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_058F44",
+    "path": "gold_ship/gs2D_lily.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：ななに？",
+        "thammy": "Karen: Wh-what?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_058C8F",
+    "path": "gold_ship/gs2D_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：ななに？",
+        "thammy": "Karen: What…?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_058F53",
+    "path": "gold_ship/gs2D_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：リバイヤサンかもしれないっ！",
+        "thammy": "Lillie: That might be a Leviathan...!",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "このあたりの海には化け物みたいにおっきくてどうもうな魚がいるんだよっ！！",
+        "thammy": "There are huge, ferocious fish in the waters around here that looks like monsters...!!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05913D",
+    "path": "gold_ship/gs2D_lance.asm",
+    "parts": [
+      {
+        "source": "Rob",
+        "japanese": "ロブ：だいじょうぶかっ？",
+        "thammy": "Rob: Are ya okay...?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_059157",
+    "path": "gold_ship/gs2D_lance.asm",
+    "parts": [
+      {
+        "source": "Morris",
+        "japanese": "うわああああああああああああああっ",
+        "thammy": "Aaaaaaaaaaaaaaah...!",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "ロブ：モリスの悲鳴だっ！かんぱんの方から聞こえたぞっ！",
+        "thammy": "Rob: That's Morris screamin'...! It's comin' from tha direction of tha deck...!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0592FF",
+    "path": "gold_ship/gs2B_erik.asm",
+    "parts": [
+      {
+        "source": "Rob",
+        "japanese": "ロブ：モリスはどうしたっ？！何があったんだっ！！",
+        "thammy": "Rob: What happened to Morris...?! What was that...!!",
+        "tone": ""
+      },
+      {
+        "source": "Eric",
+        "japanese": "エリック：うえぇぇぇぇぇぇぇぇんモリスがモリスが…",
+        "thammy": "Eric: Waaaaaaaaah... Morris, he... Morris, he...",
+        "tone": ""
+      },
+      {
+        "source": "Eric",
+        "japanese": "でっかい魚が船にぶつかってきてヒック…",
+        "thammy": "A huge fish smashed into the ship and... *sniffle*...",
+        "tone": ""
+      },
+      {
+        "source": "Eric",
+        "japanese": "モルスが海の中におっこってヒック…",
+        "thammy": "Morris fell overboard... *Sniffle*...",
+        "tone": ""
+      },
+      {
+        "source": "Eric",
+        "japanese": "うわあぁぁぁぁぁんモリスが食べられちゃったようヒックヒック…",
+        "thammy": "Uwaaaaaah! It looked like it ate Morris…! *sniffle* *sniffle*",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "ロブ：な何だってっ？！",
+        "thammy": "Rob: W-what did ya say...?!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0593DA",
+    "path": "gold_ship/gs2B_erik.asm",
+    "parts": [
+      {
+        "source": "Eric",
+        "japanese": "エリック：うわああああああんまたあの魚だぁっ！ボクら食べられちゃうんだぁっ！",
+        "thammy": "Eric: Waaaaaaah! It's that fish agaaain...! It's going to eat us...!",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "ロブ：泣いてるヒマがあったら何かにつかまれっ！ふりおとされるなよっ！",
+        "thammy": "Rob: If ya have time to cry, then hold on to somethin'...! Don't let yourself get thrown off...!",
+        "tone": ""
+      }
+    ]
+  }
+]
+

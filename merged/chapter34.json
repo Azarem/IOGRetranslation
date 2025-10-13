@@ -1,0 +1,152 @@
+[
+  {
+    "name": "widestring_09811E",
+    "path": "dao/daC3_babel_travel_spirit.asm",
+    "parts": [
+      {
+        "source": "Babel Tower Spirit",
+        "japanese": "バベルの塔へもどるのだな？ ／ やめる ／ バベルの塔へもどる",
+        "thammy": "Return to the Tower of Babel? / Cancel / Return to the Tower of Babel",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_098144",
+    "path": "dao/daC3_babel_travel_spirit.asm",
+    "parts": []
+  },
+  {
+    "name": "widestring_08D5AE",
+    "path": "actors/jeweler_gem.asm",
+    "parts": [
+      {
+        "source": "Gem",
+        "japanese": "５０コ….ついに赤い宝石が５０コ集まったのか…",
+        "thammy": "50... Finally, I've gathered the 50 Red Jewels, haven't I...",
+        "tone": ""
+      },
+      {
+        "source": "Gem",
+        "japanese": "いよいよ私の秘密を話すときが来たようだな。",
+        "thammy": "It seems that, at last, the time to tell you my secret has come.",
+        "tone": ""
+      },
+      {
+        "source": "Gem",
+        "japanese": "さあついておいでっ！！",
+        "thammy": "Well, come with me...!!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08FCBE",
+    "path": "actors/sE9_mansion_intro.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "気がつくとぼくは不思議なやかたの入口にたたずんでいた。",
+        "thammy": "When I came to, I was standing at the entrance of a mysterious mansion.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08FA31",
+    "path": "actors/sEA_solid_arm.asm",
+    "parts": [
+      {
+        "source": "Solid Arm",
+        "japanese": "私のやしきへようこそ。",
+        "thammy": "Welcome to my mansion.",
+        "tone": ""
+      },
+      {
+        "source": "Solid Arm",
+        "japanese": "宝石商ジェムはカリの姿。その正体はソリッドアームというわけだ。",
+        "thammy": "Gem the jewel merchant was a temporary form. My true form is called Solid Arm.",
+        "tone": ""
+      },
+      {
+        "source": "Solid Arm",
+        "japanese": "そのむかし天空から降りたったソウルブレイダーにうちのめされ長い長いねむりについた…",
+        "thammy": "I was beaten by Soul Blader back when he descended from the heavens; after that, I slept for a long, long time...",
+        "tone": ""
+      },
+      {
+        "source": "Solid Arm",
+        "japanese": "私の力は赤い宝石にふうじられ世界中に分散していたのだ。",
+        "thammy": "My power was sealed in Red Jewels which were scattered throughout the world.",
+        "tone": ""
+      },
+      {
+        "source": "Solid Arm",
+        "japanese": "そして私は復活のためにさまざまな手をつくした。",
+        "thammy": "So, I did whatever I could to have myself resurrected.",
+        "tone": ""
+      },
+      {
+        "source": "Solid Arm",
+        "japanese": "ドレイ貿易をうらであやつっていたのもこの私。",
+        "thammy": "I was even the one on the other side of the curtain, pulling the strings of the slave trade.",
+        "tone": ""
+      },
+      {
+        "source": "Solid Arm",
+        "japanese": "ドレイの労働力を使い宝石をさがして求めていたのだがこれほどはやく力をとりもどせるとはな…",
+        "thammy": "I used slave labour to search for the jewels, but I didn't think I would take back my power so quickly...",
+        "tone": ""
+      },
+      {
+        "source": "Solid Arm",
+        "japanese": "君にはかんしゃするとともに永遠のねむりについてもらおうか！",
+        "thammy": "As my thanks to you, I'll let you rest in peace!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_00D7C2",
+    "path": "functions/death_message.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：気がつくとぼくは見覚えのある場所にたおれていた。悪い夢を見ていたのだろうか．．",
+        "thammy": "Tim: When I came to, I found that I had collapsed in a familiar place. Was I having a nightmare..?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08FBC8",
+    "path": "actors/sEA_solid_arm.asm",
+    "parts": [
+      {
+        "source": "Solid Arm",
+        "japanese": "かぼそい声が聞こえる…",
+        "thammy": "I can hear a faint voice...",
+        "tone": ""
+      },
+      {
+        "source": "Solid Arm",
+        "japanese": "またしてもやられてしまうとは..",
+        "thammy": "It has been done once again..",
+        "tone": ""
+      },
+      {
+        "source": "Solid Arm",
+        "japanese": "ソウルブレイダーも強かったがおまえはさらに強いな….",
+        "thammy": "Soul Blader was strong too, but I think you are even stronger...",
+        "tone": ""
+      },
+      {
+        "source": "Solid Arm",
+        "japanese": "この星に危険がせまっている。さあバベルの塔へもどり先を急ぐがいい…",
+        "thammy": "Danger is approaching this planet. Well, you should return to the Tower of Babel and hurry on...",
+        "tone": ""
+      }
+    ]
+  }
+]
+

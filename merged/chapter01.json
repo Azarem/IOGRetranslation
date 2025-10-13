@@ -1,0 +1,840 @@
+[
+  {
+    "name": "widestring_048AE9",
+    "path": "south_cape/sc08_priest.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "ぼくの名前はテム。",
+        "thammy": "My name is Tim.",
+        "tone": "",
+        "claude": "My name's Tim.",
+        "claude-german": "Ich heiße Tim."
+      },
+      {
+        "source": "Tim",
+        "japanese": "父さんとバベルの塔へ探険行ってからちょうど１年の月日が流れた。",
+        "thammy": "Exactly one year has passed since I went on an expedition to the Tower of Babel with my dad.",
+        "tone": "",
+        "claude": "It's been exactly one year since Dad and I went on that expedition to the Tower of Babel.",
+        "claude-german": "Es ist jetzt genau ein Jahr her, seit Dad und ich diese Expedition zum Turm von Babel unternommen haben."
+      },
+      {
+        "source": "Tim",
+        "japanese": "父さん隊員たちはそうなんしこの町へ無事にもどったのはぼくだけ…",
+        "thammy": "Of the members of my dad's team, only I was able to survive and return to this town in safety...",
+        "tone": "",
+        "claude": "Of everyone on Dad's expedition team, I was the only one who made it back to this town safely…",
+        "claude-german": "Von allen aus Dads Expeditionsteam war ich der Einzige, der es sicher zurück in diese Stadt geschafft hat…"
+      },
+      {
+        "source": "Tim",
+        "japanese": "ぼくは大きくなったら探検家になって世界中をかけめぐるつもりだ。",
+        "thammy": "When I grow up, I'm going to become an explorer, just like him, and travel around the world.",
+        "tone": "",
+        "claude": "When I grow up, I'm gonna become an explorer just like him and travel all around the world.",
+        "claude-german": "Wenn ich groß bin, werde ich ein Abenteurer wie er und reise um die ganze Welt."
+      },
+      {
+        "source": "Tim",
+        "japanese": "そうすればどこかで父さんに会えるような気がするだ…",
+        "thammy": "When that happens, I have a hunch that somewhere, I'll meet my dad again…",
+        "tone": "",
+        "claude": "I have this feeling that if I do, somewhere out there, I'll see Dad again…",
+        "claude-german": "Ich habe so ein Gefühl, dass ich Dad irgendwo da draußen wiedersehen werde…"
+      }
+    ]
+  },
+  {
+    "name": "widestring_048C01",
+    "parts": [
+      {
+        "source": "Priest",
+        "japanese": "神父：今日の授業はここまでにしましょう。",
+        "thammy": "Today's lesson ends here.",
+        "tone": "",
+        "claude": "Today's lesson ends here.",
+        "claude-german": "Die heutige Lektion endet hier."
+      },
+      {
+        "source": "Priest",
+        "japanese": "４人とも今度は残されないようにがんばるのですよ。",
+        "thammy": "The four of you do your best so that you won't have to stay behind after classes next time.",
+        "tone": "",
+        "claude": "All four of you, do your best so you won't have to stay behind after class next time.",
+        "claude-german": "Ihr vier, gebt euer Bestes, damit ihr beim nächsten Mal nicht nach dem Unterricht bleiben müsst."
+      },
+      {
+        "source": "Priest",
+        "japanese": "それから近ごろ町の外に化物が姿を見せるようになりました。遠出するときは親といっしょに行くようにしなさい。",
+        "thammy": "Furthermore, creatures resembling monsters have recently been spotted outside of town. When you leave, please be sure to have a parent accompany you.",
+        "tone": "",
+        "claude": "Furthermore, monsters have been appearing outside of town recently. When you venture far from home, be sure to have a parent accompany you.",
+        "claude-german": "Außerdem sind in letzter Zeit Monster außerhalb der Stadt gesichtet worden. Wenn ihr weit von zu Hause fortgeht, sorgt dafür, dass euch ein Elternteil begleitet."
+      }
+    ],
+    "path": "south_cape/sc08_priest.asm"
+  },
+  {
+    "name": "widestring_048C98",
+    "parts": [
+      {
+        "source": "Priest",
+        "japanese": "さあテム。お前いっしょにいのりなさい。",
+        "thammy": "Ah, Tim. Please pray with me.",
+        "tone": "",
+        "claude": "Now, Tim. Pray with me.",
+        "claude-german": "Nun, Tim. Bete mit mir."
+      },
+      {
+        "source": "Priest",
+        "japanese": "おお神よ。世界が永遠にかがやきつづけますように…",
+        "thammy": "O God… May the world continue to shine to eternity…",
+        "tone": "",
+        "claude": "O God… May the world continue to shine for all eternity…",
+        "claude-german": "O Gott… Möge die Welt für alle Ewigkeit erstrahlen…"
+      }
+    ],
+    "path": "south_cape/sc08_priest.asm"
+  },
+  {
+    "name": "widestring_048DD1",
+    "parts": [
+      {
+        "source": "Morris",
+        "japanese": "モリス：じゃ今日もいつものところでっ！",
+        "thammy": "Alright, today too, same place as always!",
+        "tone": "",
+        "claude": "Well then, today as well, at the usual place!",
+        "claude-german": "Nun denn, heute ebenfalls am gewohnten Ort!"
+      }
+    ],
+    "path": "south_cape/sc08_erik.asm"
+  },
+  {
+    "name": "widestring_048E00",
+    "parts": [
+      {
+        "source": "Eric",
+        "japanese": "エリック：ボクはいったん家に帰ってから行くよ。",
+        "thammy": "I'm gonna stop at home first, then I'll go.",
+        "tone": "",
+        "claude": "I'm gonna head home first, then I'll go.",
+        "claude-german": "Ich geh erst mal nach Hause, dann komm ich nach."
+      },
+      {
+        "source": "Eric",
+        "japanese": "早く帰んないと補習で残されたことが母ちゃんにばれちゃう…テへへ。",
+        "thammy": "If I don't go home right away, mommy's going to find out that I had to stay behind for make-up lessons again… Heh heh…",
+        "tone": "",
+        "claude": "If I don't get home quick, Mom'll find out I got held back for extra lessons again… Heh heh…",
+        "claude-german": "Wenn ich nicht schnell nach Hause komme, kriegt Mama raus, dass ich wieder zum Nachsitzen bleiben musste… Hehe…"
+      }
+    ],
+    "path": "south_cape/sc08_erik.asm"
+  },
+  {
+    "name": "widestring_048D3A",
+    "parts": [
+      {
+        "source": "Rob",
+        "japanese": "ロブ：じゃ今日もいつもの海岸のどうくつでなっ！",
+        "thammy": "Alright, to tha coastal cave today again, huh…?",
+        "tone": "",
+        "claude": "A'right, today too, at tha usual coastal cave, yeah!",
+        "claude-german": "Alles klar, heute auch wieder in der Küstenhöhle, ne!"
+      }
+    ],
+    "path": "south_cape/sc08_lance.asm"
+  },
+  {
+    "name": "widestring_08DD0B",
+    "parts": [
+      {
+        "source": "Gaia",
+        "japanese": "私は生命のみなもとガイア。今後そなたの旅を手助けするもの。",
+        "thammy": "I am the fountainhead of life, Gaia. Henceforth, I shall assist thy journey.",
+        "tone": "",
+        "claude": "I am Gaia, the wellspring of life. Henceforth, I shall aid thee in thy journey.",
+        "claude-german": "Ich bin Gaia, der Urquell des Lebens. Fortan werde ich dir auf deiner Reise beistehen."
+      },
+      {
+        "source": "Gaia",
+        "japanese": "この空間が見えるのはヤミの力が宿った者だけ。そなたはえらばれた人間なのだ。",
+        "thammy": "This area is only visible for those in whom the Power of Darkness dwells. Thou art a chosen human.",
+        "tone": "",
+        "claude": "Only those in whom the Power of Darkness dwells can see this space. Thou art a chosen one.",
+        "claude-german": "Nur jene, in denen die Macht der Finsternis wohnt, können diesen Raum sehen. Du bist ein Auserwählter."
+      },
+      {
+        "source": "Gaia",
+        "japanese": "ヤミの空間では冒険の記録を行うことができる。旅先では必ずたちよるがいい。",
+        "thammy": "In the Area of Darkness, I can record thy travel diary. Thou shouldst drop by during thy journey.",
+        "tone": "",
+        "claude": "Within this Dark Space, I can record thy adventure. Be sure to visit during thy travels.",
+        "claude-german": "In diesem Dunklen Raum kann ich dein Abenteuer aufzeichnen. Suche ihn während deiner Reisen auf."
+      }
+    ],
+    "path": "actors/sE6_gaia.asm"
+  },
+  {
+    "name": "widestring_08DDCB",
+    "parts": [
+      {
+        "source": "Gaia",
+        "japanese": "そろそろ今までの冒険を記録しておいてはどうだね？ ／ 記録する ／ 記録しない",
+        "thammy": "So, shalt thou record thy adventure 'til this point? Record / Don't record",
+        "tone": "",
+        "claude": "Wouldst thou record thy adventure thus far? / Record / Don't record",
+        "claude-german": "Möchtest du dein bisheriges Abenteuer aufzeichnen? / Aufzeichnen / Nicht aufzeichnen"
+      }
+    ],
+    "path": "actors/sE6_gaia.asm"
+  },
+  {
+    "name": "widestring_08DDFE",
+    "parts": [
+      {
+        "source": "Gaia",
+        "japanese": "記録おわった…",
+        "thammy": "Recording completed…",
+        "tone": "",
+        "claude": "Recording complete…",
+        "claude-german": "Aufzeichnung abgeschlossen…"
+      },
+      {
+        "source": "Gaia",
+        "japanese": "まだ旅をつづけるのかね？ ／ はい ／ いいえ",
+        "thammy": "Shalt thou still continue with thy journey? Yes / No",
+        "tone": "",
+        "claude": "Wilt thou continue thy journey? / Yes / No",
+        "claude-german": "Willst du deine Reise fortsetzen? / Ja / Nein"
+      }
+    ],
+    "path": "actors/sE6_gaia.asm"
+  },
+  {
+    "name": "widestring_08DE43",
+    "parts": [
+      {
+        "source": "Gaia",
+        "japanese": "ではゆくがよい。",
+        "thammy": "Then thou shouldst go.",
+        "tone": "",
+        "claude": "Then go forth.",
+        "claude-german": "Dann ziehe fort."
+      }
+    ],
+    "path": "actors/sE6_gaia.asm"
+  },
+  {
+    "name": "widestring_0484B7",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "こらっテムっ。あれほどここへ上っちゃいけないと…",
+        "thammy": "Hey, Tim… You shouldn't be coming up here…",
+        "tone": "",
+        "claude": "Hey, Tim! How many times have I told you not to come up here…",
+        "claude-german": "Hey, Tim! Wie oft habe ich dir gesagt, dass du hier nicht hochklettern sollst…"
+      },
+      {
+        "source": "Man",
+        "japanese": "お前はいろんなところから飛び降りるクセがあるからなぁ。心配でしかたないよ。トホホ。",
+        "thammy": "I know I can't stop you from jumping down from high places like these, but I can't help worrying!",
+        "tone": "",
+        "claude": "You've got that habit of jumping down from all kinds of places. I can't help worrying about you! Geez…",
+        "claude-german": "Du hast diese Angewohnheit, von allen möglichen Orten runterzuspringen. Ich kann nicht anders, als mir Sorgen zu machen! Mensch…"
+      }
+    ],
+    "path": "south_cape/sc01_roof_man.asm"
+  },
+  {
+    "name": "widestring_04923D",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "なかなか速そうな足をしてるな。走るときは進行方向のボタンをグッグーッと２回おすんだぜ。",
+        "thammy": "You seem like you've got pretty fast feet, huh. Have you tried sprinting? Give it a try sometime! Mashing the direction button twice or pressing the sprint button while walking will both work.",
+        "tone": "",
+        "claude": "You've got pretty quick legs there, huh. When you wanna run, just press the direction button twice real quick, or hit the sprint button while you're walking.",
+        "claude-german": "Du hast ziemlich flinke Beine, was? Wenn du rennen willst, drück einfach zweimal schnell hintereinander die Richtungstaste, oder drück den Sprint-Knopf während du gehst."
+      }
+    ],
+    "path": "south_cape/sc01_sprint_man.asm"
+  },
+  {
+    "name": "widestring_08D094",
+    "parts": [
+      {
+        "source": "Gem",
+        "japanese": "私は７つの海をまたにかける宝石商ジェム。",
+        "thammy": "I am Gem, a jewel merchant that travels about the seven seas.",
+        "tone": "",
+        "claude": "I am Gem, a jeweler who travels across the seven seas.",
+        "claude-german": "Ich bin Gem, ein Juwelier, der über die sieben Meere reist."
+      }
+    ],
+    "path": "actors/jeweler_gem.asm"
+  },
+  {
+    "name": "widestring_08D139",
+    "parts": [
+      {
+        "source": "Gem",
+        "japanese": "そうかい。それはごきげんよう。",
+        "thammy": "Is that so? Anyway, nice to meet you.",
+        "tone": "",
+        "claude": "Is that so? Well then, farewell for now.",
+        "claude-german": "Ist das so? Nun denn, leb wohl für den Moment."
+      },
+      {
+        "source": "Gem",
+        "japanese": "ちなみに宝石をかかげると私のところへ飛んでくることになっているからね。",
+        "thammy": "By the way, if you lift a Red Jewel, it will fly to my location, you know.",
+        "tone": "",
+        "claude": "By the way, when you hold up a Red Jewel, it will fly straight to me, you know.",
+        "claude-german": "Übrigens, wenn du einen Roten Juwel hochhältst, wird er direkt zu mir fliegen, weißt du."
+      },
+      {
+        "source": "Gem",
+        "japanese": "そして何をかくそう。私はへんそうの名人なのだ。他の町でも会うだろうが君は気づかないかも知れないよ。",
+        "thammy": "Sometimes that place may seem hidden. I am a master of disguise, after all. In other towns, you might not always recognize me.",
+        "tone": "",
+        "claude": "And I must confess—I am a master of disguise. You may encounter me in other towns, but you might not recognize me.",
+        "claude-german": "Und ich muss gestehen – ich bin ein Meister der Verkleidung. Du wirst mir in anderen Städten begegnen, aber du erkennst mich vielleicht nicht."
+      }
+    ],
+    "path": "actors/jeweler_gem.asm"
+  },
+  {
+    "name": "widestring_08D20F",
+    "parts": [
+      {
+        "source": "Gem",
+        "japanese": "うーん…これは実にいい宝石だね。大切にあずからせてもらうよ。",
+        "thammy": "Hmm… These are truly good jewels, aren't they? Please, it is important to take care of them.",
+        "tone": "",
+        "claude": "Hmm… This is quite an exquisite jewel. I shall keep it safe for you.",
+        "claude-german": "Hmm… Das ist ein ganz vorzüglicher Juwel. Ich werde ihn sicher für dich aufbewahren."
+      },
+      {
+        "source": "Gem",
+        "japanese": "これで宝石の数は全部で１コになったわけだな。",
+        "thammy": "With this, I think the number of jewels should have become [BCD:2,AB0] altogether.",
+        "tone": "",
+        "claude": "With this, you now have [BCD:2,AB0] jewels in total.",
+        "claude-german": "Damit hast du jetzt insgesamt [BCD:2,AB0] Juwelen."
+      }
+    ],
+    "path": "actors/jeweler_gem.asm"
+  },
+  {
+    "name": "widestring_08D267",
+    "parts": [
+      {
+        "source": "Gem",
+        "japanese": "リストに書かれた数だけ宝石を集めたときその品物をあげるからね。",
+        "thammy": "I will give you the commodity only when the collected jewels reach the number on the list.",
+        "tone": "",
+        "claude": "When you collect the number of jewels listed, I shall give you that item.",
+        "claude-german": "Wenn du die aufgelistete Anzahl an Juwelen gesammelt hast, werde ich dir diesen Gegenstand geben."
+      }
+    ],
+    "path": "actors/jeweler_gem.asm"
+  },
+  {
+    "name": "widestring_0485B6",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "こらこら。近ごろ町の外には化物がうろついているんだぜ。",
+        "thammy": "Hey, hey! Monsters have been seen outside of town recently!",
+        "tone": "",
+        "claude": "Hey, hey now. Monsters have been prowling around outside town lately, you know.",
+        "claude-german": "Hey, hey. In letzter Zeit treiben Monster außerhalb der Stadt ihr Unwesen, weißt du."
+      },
+      {
+        "source": "Man",
+        "japanese": "教会の神父さまから注意を受けてないのかい？むやみに町の外へでちゃダメだってこと。",
+        "thammy": "Did the priest in the church not warn you? You shouldn't thoughtlessly go outside the town.",
+        "tone": "",
+        "claude": "Didn't the priest at the church warn you all? You mustn't go wandering outside town recklessly.",
+        "claude-german": "Hat euch der Priester in der Kirche nicht gewarnt? Ihr dürft nicht einfach so aus der Stadt rauslaufen."
+      }
+    ],
+    "path": "south_cape/sc01_guard.asm"
+  },
+  {
+    "name": "widestring_0488FB",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "知り合いの天文学者が変なことをいうんだよ。この地球に向かって近づいている星があるとかってね。",
+        "thammy": "You know, an acquaintance of mine is an astronomer? He said something strange… \"A star is approaching our Earth,\" or something like that…",
+        "tone": "",
+        "claude": "An astronomer I know said something strange the other day. Something about a star approaching Earth…",
+        "claude-german": "Ein Astronom, den ich kenne, hat neulich etwas Seltsames gesagt. Irgendetwas von einem Stern, der sich der Erde nähert…"
+      }
+    ],
+    "path": "south_cape/sc01_astronomer.asm"
+  },
+  {
+    "name": "widestring_04871E",
+    "parts": [
+      {
+        "source": "Woman",
+        "japanese": "最近変な商人が多くて困っちゃう。",
+        "thammy": "I'm getting worried about all of these strange merchants we've been seeing around here lately.",
+        "tone": "",
+        "claude": "There've been so many strange merchants around lately. It's troubling.",
+        "claude-german": "In letzter Zeit sind so viele seltsame Händler unterwegs. Das ist beunruhigend."
+      },
+      {
+        "source": "Woman",
+        "japanese": "まものがあらわれるようになってみんな困ってるっていうのにそれを商売にするんだからね..",
+        "thammy": "The stories of monsters appearing outside of towns must be good for business.",
+        "tone": "",
+        "claude": "Everyone's worried about the monsters appearing, and these people are making business out of it…",
+        "claude-german": "Alle sorgen sich wegen der Monster, die auftauchen, und diese Leute machen ein Geschäft daraus…"
+      }
+    ],
+    "path": "south_cape/sc01_worried_woman.asm"
+  },
+  {
+    "name": "widestring_04BD1B",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "ここはぼくの家だ。祖母のローラがパイを焼いているのかいいにおいがただよっている。",
+        "thammy": "This is my house. Perhaps Grandmother Laura is baking a pie; a nice smell is in the air.",
+        "tone": "",
+        "claude": "This is my house. Grandma Laura must be baking a pie—I can smell something delicious in the air.",
+        "claude-german": "Das ist mein Haus. Oma Laura muss gerade einen Kuchen backen – ich kann etwas Köstliches in der Luft riechen."
+      }
+    ],
+    "path": "south_cape/sc01_house_intro.asm"
+  },
+  {
+    "name": "widestring_0499F1",
+    "parts": [
+      {
+        "source": "Laura",
+        "japanese": "ローラ：おやテム。おかえり。夕食まで時間があるから外で遊んでおいで。",
+        "thammy": "Oh, Tim. Welcome home. There's time until dinner, so go play outside.",
+        "tone": "",
+        "claude": "Oh, Tim. Welcome home, dear. There's still time before dinner, so go play outside.",
+        "claude-german": "Oh, Tim. Willkommen zu Hause, Liebling. Es ist noch Zeit bis zum Abendessen, also geh draußen spielen."
+      }
+    ],
+    "path": "south_cape/sc06_lola.asm"
+  },
+  {
+    "name": "widestring_04941D",
+    "parts": [
+      {
+        "source": "Bill",
+        "japanese": "ビル：おおおかえり。こんな時間に帰ってくるところをみるとまた残されたんじゃな。",
+        "thammy": "Ah, welcome home. There's plenty of daylight left, you should go play.",
+        "tone": "",
+        "claude": "Ah, welcome home. Coming back at this hour, I reckon they kept you after class again, eh?",
+        "claude-german": "Ah, willkommen zu Hause. Wenn du zu dieser Stunde zurückkommst, schätze ich, haben sie dich wieder nach dem Unterricht dabehalten, was?"
+      },
+      {
+        "source": "Bill",
+        "japanese": "わっはっは。結構。結構。男の子は勉強ができんでも活発なほうがたのもしいもんじゃて。",
+        "thammy": "Wahah. Splendid. Splendid. You're a boy who can't study but I hope for you to bloom vigorously.",
+        "tone": "",
+        "claude": "Bwahaha! Splendid, splendid. A boy don't need to be good at his studies—better to be lively and spirited, I always say.",
+        "claude-german": "Wahaha! Ausgezeichnet, ausgezeichnet. Ein Junge muss nicht gut in der Schule sein – besser lebhaft und unternehmungslustig, sag ich immer."
+      }
+    ],
+    "path": "south_cape/sc06_bill.asm"
+  },
+  {
+    "name": "widestring_0482D7",
+    "parts": [
+      {
+        "source": "Salesman",
+        "japanese": "セールスマン：おじさんはみんなの家をまわってまものと戦うための武器を売っているんだよ。",
+        "thammy": "This old man you're speaking to goes around to every house to sell weapons.",
+        "tone": "",
+        "claude": "I go from house to house selling weapons for fighting monsters, you see.",
+        "claude-german": "Ich gehe von Haus zu Haus und verkaufe Waffen zum Kampf gegen Monster, verstehst du."
+      },
+      {
+        "source": "Salesman",
+        "japanese": "最近はぶっそうな世の中だからね。でも子供の君に武器を売るわけにはいかないもんなぁ。",
+        "thammy": "These weapons are used for fighting demons. It's because the world's become so much more dangerous these days. But I'm still not going to go and sell weapons to a child like you.",
+        "tone": "",
+        "claude": "It's a dangerous world these days, after all. But I can't very well sell weapons to a child like you, now can I?",
+        "claude-german": "Es ist heutzutage eine gefährliche Welt, schließlich. Aber ich kann einem Kind wie dir schlecht Waffen verkaufen, oder?"
+      }
+    ],
+    "path": "south_cape/sc01_salesman.asm"
+  },
+  {
+    "name": "widestring_0491ED",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "うーんいいにおいだ。家にはカマドがないからこうしてツボで料理をするのさ。",
+        "thammy": "Well, that's a good smell. There's no stove in my home, so I cook in this pot.",
+        "tone": "",
+        "claude": "Mmm, smells good. I don't have a stove at home, so I cook in this pot instead.",
+        "claude-german": "Mmm, riecht gut. Ich habe keinen Herd zu Hause, also koche ich stattdessen in diesem Topf."
+      }
+    ],
+    "path": "south_cape/sc07_chef.asm"
+  },
+  {
+    "name": "widestring_0481D6",
+    "parts": [
+      {
+        "source": "Girl",
+        "japanese": "あたしたちっていつからこの遊びやってるんだろう..",
+        "thammy": "How long have we been playing this game…?",
+        "tone": "",
+        "claude": "I wonder how long we've been playing this game…",
+        "claude-german": "Ich frage mich, wie lange wir dieses Spiel schon spielen…"
+      }
+    ],
+    "path": "south_cape/sc01_girl3.asm"
+  },
+  {
+    "name": "widestring_04816B",
+    "parts": [
+      {
+        "source": "Girl",
+        "japanese": "しかし不思議よね。この遊びってなんでだるまさんがころんだって言うのかしら…",
+        "thammy": "But it's mysterious, huh. I wonder if this is the game called \"the Dharma doll fell down\"…",
+        "tone": "",
+        "claude": "But it's strange, isn't it? I wonder why they call this game \"Red Light, Green Light\"…",
+        "claude-german": "Aber es ist schon merkwürdig, oder? Ich frage mich, warum sie dieses Spiel \"Eins, zwei, drei – stehen bleib!\" nennen…"
+      }
+    ],
+    "path": "south_cape/sc01_girl2.asm"
+  },
+  {
+    "name": "widestring_0480FF",
+    "parts": [
+      {
+        "source": "Girl",
+        "japanese": "だるまさんが…",
+        "thammy": "The Dharma doll…",
+        "tone": "",
+        "claude": "Red light…",
+        "claude-german": "Eins, zwei, drei…"
+      }
+    ],
+    "path": "south_cape/sc01_girl1.asm"
+  },
+  {
+    "name": "widestring_048112",
+    "parts": [
+      {
+        "source": "Girl",
+        "japanese": "ころんだっ！",
+        "thammy": "…fell down!",
+        "tone": "",
+        "claude": "Green light!",
+        "claude-german": "Stehen bleib!"
+      }
+    ],
+    "path": "south_cape/sc01_girl1.asm"
+  },
+  {
+    "name": "widestring_048125",
+    "parts": [
+      {
+        "source": "Girl",
+        "japanese": "ちぇっあたしばっかり…",
+        "thammy": "Tsk, it's always me…",
+        "tone": "",
+        "claude": "Aww, it's always me…",
+        "claude-german": "Ach, immer bin ich dran…"
+      }
+    ],
+    "path": "south_cape/sc01_girl1.asm"
+  },
+  {
+    "name": "widestring_0487BF",
+    "parts": [
+      {
+        "source": "Woman",
+        "japanese": "きゃあああっ！",
+        "thammy": "Eeek…!",
+        "tone": "",
+        "claude": "Eeeek!",
+        "claude-german": "Iiih!"
+      },
+      {
+        "source": "Woman",
+        "japanese": "なんてことするんだろうねっ！この子はっ！まったくもう…",
+        "thammy": "What are you doing…!? This kid…! Good grief…",
+        "tone": "",
+        "claude": "What do you think you're doing! That child! Good grief…",
+        "claude-german": "Was fällt dir ein! Dieses Kind! Meine Güte…"
+      }
+    ],
+    "path": "south_cape/sc01_startled_woman.asm"
+  },
+  {
+    "name": "widestring_0487F5",
+    "parts": [
+      {
+        "source": "Woman",
+        "japanese": "海風でなびくあんたのかみの毛を見ているとうらやましいよ。あたしなんざこのスカーフの下は…",
+        "thammy": "When I see your hair fluttering in the sea breeze, I get jealous. Mine is under this scarf…",
+        "tone": "",
+        "claude": "I get so jealous watching your hair flutter in the sea breeze. Under this scarf, mine's…",
+        "claude-german": "Ich werde so neidisch, wenn ich sehe, wie deine Haare in der Meeresbrise flattern. Unter diesem Tuch sind meine…"
+      }
+    ],
+    "path": "south_cape/sc01_startled_woman.asm"
+  },
+  {
+    "name": "widestring_04899E",
+    "parts": [
+      {
+        "source": "Woman",
+        "japanese": "あたしゃモリスがかわいそうでしかたがないよ。",
+        "thammy": "I can't help but pity Morris.",
+        "tone": "",
+        "claude": "I can't help but feel sorry for Morris.",
+        "claude-german": "Ich kann nicht anders, als Mitleid mit Morris zu haben."
+      },
+      {
+        "source": "Woman",
+        "japanese": "毎日あんな夫婦げんかをみせられてちゃ子供もたまんないよね。",
+        "thammy": "I can't stand it when children have to see their parents quarrel every day, you know?",
+        "tone": "",
+        "claude": "Having to see his parents fight like that every day—must be unbearable for the poor child.",
+        "claude-german": "Seine Eltern jeden Tag so streiten zu sehen – das muss für das arme Kind unerträglich sein."
+      }
+    ],
+    "path": "south_cape/sc01_sympathetic_woman.asm"
+  },
+  {
+    "name": "widestring_04840F",
+    "parts": [
+      {
+        "source": "Fisherman",
+        "japanese": "場所を変えてもちっともつれやしねえ…",
+        "thammy": "Even if I change places a bit, it ain't easy to fish out…",
+        "tone": "",
+        "claude": "Even changin' spots, I still ain't catchin' nothin'…",
+        "claude-german": "Selbst wenn ich den Platz wechsle, beiß nix an…"
+      }
+    ],
+    "path": "south_cape/sc01_fisherman.asm"
+  },
+  {
+    "name": "widestring_048A48",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "モリスの家のドアを開けたとたん中からツボが飛んできたっ！",
+        "thammy": "Just as I opened the door to Morris's house, a pot came flying out…!",
+        "tone": "",
+        "claude": "The moment I opened the door to Morris's house, a pot came flying out!",
+        "claude-german": "In dem Moment, als ich die Tür zu Morris' Haus öffnete, kam ein Topf herausgeflogen!"
+      }
+    ],
+    "path": "south_cape/sc01_jar_door.asm"
+  },
+  {
+    "name": "widestring_049193",
+    "parts": [
+      {
+        "source": "Morris's Father",
+        "japanese": "モリスの父：けっ。おれがかせいだ金で酒を飲んで何が悪いってんだ！",
+        "thammy": "Hmph. What's wrong with drinking alcohol with the money I earned!?",
+        "tone": "",
+        "claude": "Bah! What's wrong with drinking with money I earned myself!",
+        "claude-german": "Pah! Was ist denn falsch daran, mit meinem selbst verdienten Geld zu trinken!"
+      }
+    ],
+    "path": "south_cape/sc05_seths_father.asm"
+  },
+  {
+    "name": "widestring_049110",
+    "parts": [
+      {
+        "source": "Morris's Mother",
+        "japanese": "モリスの母：じょうだんじゃないわよっ！あの男っ！",
+        "thammy": "It's not a joke…! That man…!",
+        "tone": "",
+        "claude": "This is no joke! That man!",
+        "claude-german": "Das ist kein Scherz! Dieser Mann!"
+      },
+      {
+        "source": "Morris's Mother",
+        "japanese": "息子のモリスがいるからがまんしてるけどそうじゃなかったらあたしはとっくに別れてるわよっ！",
+        "thammy": "Because of my son, Morris, I'm tolerating it. But if not for that, I'd have divorced him long ago…!",
+        "tone": "",
+        "claude": "I'm only putting up with it for Morris's sake! If it weren't for my son, I'd have left him ages ago!",
+        "claude-german": "Ich ertrage es nur wegen Morris! Wenn es nicht meinen Sohn gäbe, hätte ich ihn schon längst verlassen!"
+      }
+    ],
+    "path": "south_cape/sc05_seths_mother.asm"
+  },
+  {
+    "name": "widestring_04BD5F",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "ここは親友ロブの家。彼は体の弱い母親と二人でくらしている。",
+        "thammy": "Here is my close friend Rob's house. He lives here with his frail mother.",
+        "tone": "",
+        "claude": "This is my best friend Rob's house. He lives here alone with his frail mother.",
+        "claude-german": "Das ist das Haus meines besten Freundes Rob. Er lebt hier allein mit seiner kränklichen Mutter."
+      }
+    ],
+    "path": "south_cape/sc01_house_intro.asm"
+  },
+  {
+    "name": "widestring_048F19",
+    "parts": [
+      {
+        "source": "Rob's Mother",
+        "japanese": "ロブの母：あなたのお父さんとうちの人がバベルの塔で行方不明になってからもう１年がたつんだねえ。",
+        "thammy": "It's already been one year since my husband went missing with your father at the Tower of Babel, hasn't it?",
+        "tone": "",
+        "claude": "It's been a whole year now since your father and my husband went missing at the Tower of Babel…",
+        "claude-german": "Es ist nun schon ein ganzes Jahr her, seit dein Vater und mein Mann am Turm von Babel verschwunden sind…"
+      },
+      {
+        "source": "Rob's Mother",
+        "japanese": "なんだかつい昨日のような気がするよ…",
+        "thammy": "Somehow it still feels like yesterday…",
+        "tone": "",
+        "claude": "Somehow, it still feels like just yesterday…",
+        "claude-german": "Irgendwie fühlt es sich noch an wie gestern…"
+      }
+    ],
+    "path": "south_cape/sc03_lances_mother.asm"
+  },
+  {
+    "name": "widestring_04BD9B",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "ここには友人のエリックが住んでいる。",
+        "thammy": "My friend Eric lives here.",
+        "tone": "",
+        "claude": "My friend Eric lives here.",
+        "claude-german": "Mein Freund Eric wohnt hier."
+      },
+      {
+        "source": "Tim",
+        "japanese": "この家はサウスケープで一番大きい。お全持ちの家に生まれた人をぼくはうらやましく思う…",
+        "thammy": "This house is the biggest in South Cape. I feel jealous of people born to families with money…",
+        "tone": "",
+        "claude": "This house is the biggest in South Cape. I can't help feeling a little jealous of people born into wealthy families…",
+        "claude-german": "Dieses Haus ist das größte in Südkap. Ich kann nicht anders, als ein bisschen neidisch auf Menschen zu sein, die in wohlhabende Familien hineingeboren wurden…"
+      }
+    ],
+    "path": "south_cape/sc01_house_intro.asm"
+  },
+  {
+    "name": "widestring_048F9D",
+    "parts": [
+      {
+        "source": "Woman",
+        "japanese": "世の中ちょっとしたことでお全持ちにも貧ぼうにもなるのね。あーあ何かいい話がころがってないかなぁ。",
+        "thammy": "You know, a little thing about this world is that even if you have money, you could fall into poverty. Ah, I think somehow I ended up not telling a pleasant story…",
+        "tone": "",
+        "claude": "Just a small thing can make you rich or poor in this world. Sigh… I wish some good fortune would come my way…",
+        "claude-german": "In dieser Welt kann eine Kleinigkeit einen reich oder arm machen. Seufz… Ich wünschte, mir käme mal etwas Glück entgegen…"
+      }
+    ],
+    "path": "south_cape/sc04_poverty.asm"
+  },
+  {
+    "name": "widestring_048FEF",
+    "parts": [
+      {
+        "source": "Eric's Father",
+        "japanese": "エリックの父：みんなこの大きな家をうらやましがる…",
+        "thammy": "Everyone seems to be jealous of our big house…",
+        "tone": "",
+        "claude": "Everyone envies this big house of ours…",
+        "claude-german": "Alle beneiden uns um dieses große Haus…"
+      },
+      {
+        "source": "Eric's Father",
+        "japanese": "だがなんのことはないのだよ。うちはみんなよりちょっと早くこの町へひっこしてきただけなのさ。",
+        "thammy": "But it's not a big deal. It's just that our family moved to this town a bit before everyone.",
+        "tone": "",
+        "claude": "But it's nothing special, really. We just moved to this town a bit earlier than everyone else.",
+        "claude-german": "Aber es ist nichts Besonderes, wirklich. Wir sind nur etwas früher in diese Stadt gezogen als alle anderen."
+      }
+    ],
+    "path": "south_cape/sc04_eriks_father.asm"
+  },
+  {
+    "name": "widestring_04907B",
+    "parts": [
+      {
+        "source": "Eric's Mother",
+        "japanese": "エリックの母：別にせなかに火がついているわけじゃないんだよ（笑）これはおきゅうっていうのさ。",
+        "thammy": "Don't worry, my back isn't on fire, haha. This what you call \"moxibustion\".",
+        "tone": "",
+        "claude": "Don't worry, my back's not actually on fire! Haha. This is called moxibustion.",
+        "claude-german": "Keine Sorge, mein Rücken brennt nicht wirklich! Haha. Das nennt man Moxibustion."
+      },
+      {
+        "source": "Eric's Mother",
+        "japanese": "大きな家だとそうじをするだけでかたがこっとしょうがないよ…",
+        "thammy": "With a big house, even when you're just cleaning, you can't help hurting your shoulder…",
+        "tone": "",
+        "claude": "In a big house like this, just cleaning is enough to make your shoulders stiff…",
+        "claude-german": "In einem so großen Haus wird einem schon vom Putzen allein die Schulter steif…"
+      }
+    ],
+    "path": "south_cape/sc04_eriks_mother.asm"
+  },
+  {
+    "name": "widestring_0483F6",
+    "parts": [
+      {
+        "source": "Fisherman",
+        "japanese": "けっ。ちっともつれやしねえ…",
+        "thammy": "Kuh… It isn't easy to fish out, even a little…",
+        "tone": "",
+        "claude": "Bah. Still ain't catchin' a thing…",
+        "claude-german": "Pah. Beiß immer noch nix an…"
+      }
+    ],
+    "path": "south_cape/sc01_fisherman.asm"
+  },
+  {
+    "name": "widestring_048436",
+    "parts": [
+      {
+        "source": "Fisherman",
+        "japanese": "変なツボをつり上げちまったい。",
+        "thammy": "I ended up fishing out this weird pot.",
+        "tone": "",
+        "claude": "Well, I'll be… Fished up some weird pot.",
+        "claude-german": "Na so was… Hab irgendeinen komischen Topf rausgefischt."
+      }
+    ],
+    "path": "south_cape/sc01_fisherman.asm"
+  },
+  {
+    "name": "widestring_00C6A6",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "赤い宝石を見つけた！",
+        "thammy": "You found a Red Jewel!",
+        "tone": "",
+        "claude": "Found a Red Jewel!",
+        "claude-german": "Roten Juwel gefunden!"
+      }
+    ],
+    "path": "hidden_red_jewel.asm"
+  }
+]

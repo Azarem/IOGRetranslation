@@ -1,0 +1,717 @@
+[
+  {
+    "name": "widestring_059D42",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：やっと気がついたのね。みんなとはぐれちゃった…",
+        "thammy": "Karen: You finally came to, huh. We were split up from everyone...",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "体の具合はだいじょうぶ？ ／ うんへっちゃらさ ／ まだふらふらするんだ",
+        "thammy": "Are you hurt? / I'm fine / I'm still dizzy",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_059D91",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：そう。テムって回復がはやいのね。まるでとかげのしっぽみたい。",
+        "thammy": "Karen: Is that so? It seems like you recover quickly, huh. You're like a lizard's tail.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_059DCD",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：無理もないわよね。半日以上気をうしなってたんだもの。",
+        "thammy": "Karen: No wonder, right? You were unconscious for over half a day.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "ひょう流の話は本で読んだことあるけどまさか自分がそうなるなんて思ってもみなかった…",
+        "thammy": "I've read stories of being adrift in books, but I would have thought it ridiculous that it would turn out like this for me.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "災難ってとつぜんにおとずれるものなのね。",
+        "thammy": "I guess that disaster comes around suddenly, huh.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_059E6F",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：くよくよしたってしかたないわよ。",
+        "thammy": "Karen: You know, I can't help but worry.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "先のことは考えないでひょう流を楽しんじゃおっ。",
+        "thammy": "Oh, you know, if we don't think about the future, we could enjoy being adrift…",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "もうおなかぺこぺこ。お城の地下からもってきたお肉でお昼ごはんにしましょ。",
+        "thammy": "I'm starving already. Let's have the meat we took from the castle's basement for lunch.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_038DDA",
+    "path": "chunk_038000.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "ぼくらは骨つきの肉にかぶりついた。",
+        "thammy": "We bit into the bone-in meat.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "今まで食べたどんな食べ物よりおいしく感じた。",
+        "thammy": "We felt that it was the tastiest thing we had ever eaten.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_059CEB",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "ひょう流２日目",
+        "thammy": "2nd day adrift",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_059EE3",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：きれい…一日中見ててもあきないな…",
+        "thammy": "Karen: It's beautiful... Even though I'm watching it all day, I don't think I'm getting tired of it...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_059F2E",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：何てことするのよっ！魚がかわいそうじゃないっ！！",
+        "thammy": "Karen: How could you do that...! Those poor fish...!!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_059F5A",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：何ごともなく時間がだけがゆっくりと流れていった。",
+        "thammy": "Tim: Time passed slowly and uneventfully.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "カレンは一日中のんびりと魚をながめていたがボクはそれじゃ気がすまなかった。",
+        "thammy": "Karen leisurely viewed the fish all day long, but as for me, well, I was full of remorse.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "イカダの中をうろつきまわりカレンに何度も話しかけた。",
+        "thammy": "I don't know how many times I paced aimlessly around the raft and tried talking to Karen.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "一分が何時間にも感じられた。まるでのんびりとした時間の足音が聞こえてくるようだった。",
+        "thammy": "A single minute felt like hours. It felt like I could hear the footfalls of an entirely carefree time coming.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_059CF9",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "ひょう流４日目",
+        "thammy": "4th day adrift",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05A03C",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：何か予感がするの…助けがくるのかもしれないわ…",
+        "thammy": "Karen: Somehow I have a hunch... That rescue might be coming...",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "あらっ？",
+        "thammy": "Oh...?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05A074",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：何か流れてくるみたいよっ！",
+        "thammy": "Karen: It looks like something is drifting this way...!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0599FC",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "つぼの中には手紙が入っていた…それはこんな内容だった。",
+        "thammy": "Someone placed a letter into this jar... It read something like this.",
+        "tone": ""
+      },
+      {
+        "source": "Sahmuus",
+        "japanese": "ぼくらはどれい船にのせられ見知らぬ土地へ売られていくところです。",
+        "thammy": "We have been placed on a slave ship; it is heading to unfamiliar land where we will be sold.",
+        "tone": ""
+      },
+      {
+        "source": "Sahmuus",
+        "japanese": "どなたかこの手紙を読んだら助けてください… ／ サムス",
+        "thammy": "If anyone reads this letter, please save us... / Sahmuus",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05A091",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：あーあ予感がしたのにっ。",
+        "thammy": "Karen: Ah, although I had that hunch…",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "助けてくれって言われたって..こっちが助けてほしいよねぇ。",
+        "thammy": "They were saying \"save us\"... But we also want to be saved, right?",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "あーあもうお腹と背中がくっつきそうよぉ。",
+        "thammy": "Ah, I'm totally famished already…!",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：だからあのとき魚をとっておけばよかったんだ。そうすりゃ今ごろは…",
+        "thammy": "Tim: And that's why it would have been better if we had eaten some fish last time they were around.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：じゃ何にも食べないでぼくらが死んでもいいっていうのかっ？！",
+        "thammy": "Tim: Well then, are you saying it's fine if don't eat anything and die...!?",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：あんなかわいい魚殺せないわ！",
+        "thammy": "Karen: You can't kill cute fish like that!",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：だいたい生の魚なんて気持ち悪くて食べられないわよっ！",
+        "thammy": "Karen: The point is, I can't eat raw fish! It's gross!",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "それに魚だっていっしょうけんめい生きてるのよっ！",
+        "thammy": "Besides, the fish are trying as hard as they can to survive...!",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "魚だって痛いって思うのよっ！テムは魚の気持ちを考えたことあるわけっ？！",
+        "thammy": "The fish feel pain...! Do you think about how the fish feel...?!",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "そんなに食べたきゃ勝手に食べればっ！あたしは食べないからねっ！！",
+        "thammy": "If you want to eat something like that, go ahead and eat it...! Because I'm not going to...!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05A232",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：……….",
+        "thammy": "Karen: …",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：カレンはその日口をきいてくれなかった…",
+        "thammy": "Tim: That day, Karen wouldn't even give me the sound of her voice...",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "まったくおじょう様には困ったものだ。やれやれ…",
+        "thammy": "Geez, the little lady is a nuisance. Good grief...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_059D07",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "ひょう流７日目",
+        "thammy": "7th day adrift",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05A291",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：ひょう流一週間目。再び魚のむれに出会った。",
+        "thammy": "Tim: First week adrift. We came upon a school of fish for a second time.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "体力ももうげんかいだった。ボクはこれ以上食べなければ死ぬと思った…",
+        "thammy": "I'm already at the limit of my strength. I thought that if I didn't eat now, I'd die...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05A319",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：……….",
+        "thammy": "Karen: …",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05A332",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：……….",
+        "thammy": "Karen: …",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "テム…昨日はあんな言いかたしてごめんなさい…",
+        "thammy": "Tim... I'm sorry for speaking like that yesterday...",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "あたしもお魚食べてみるわ。死んじゃったらどうしようもないもんね。",
+        "thammy": "I'll try to eat a fish too. Because if I die, there's nothing more that I can do, right?",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "きらいな食べ物を食べないなんていっていられるのは平和なときだけなのよね…",
+        "thammy": "It's only in comfortable times where you're able to avoid eating foods that you dislike, huh…",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：よおし。じゃ魚をとってやる。とびっきりうまいやつをさ。",
+        "thammy": "Tim: Allllright. Well, I'll get a fish for you. The tastiest one.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05A405",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：カレンはおいしそうに魚を食べた。",
+        "thammy": "Tim: Karen ate the delicious-looking fish.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "ボクの中でカレンがちょっぴり気になる存在になってきたようだ…",
+        "thammy": "It seemed like I had come to take a tiny bit of concern about Karen...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_059D15",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "ひょう流１２日目",
+        "thammy": "12th day adrift",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05A467",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：星がきれいね…",
+        "thammy": "Karen: The stars are beautiful, huh...",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "もうちょっと背が高かったら手がとどきそうよね。",
+        "thammy": "It seems like I could touch them with my hands if I was a little taller.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "きっとリリィやロブたちも同じ星空を見てるんだろうな。",
+        "thammy": "I think Lillie, Rob and the rest must also be looking at this same starry sky.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "星とお話できればみんなのいる場所もきっとわかるのに…",
+        "thammy": "If we could talk with the stars, then we would definitely know where everyone is...",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：あそうそう最近気がついたんだけど白鳥座の近くに星が一つふえてるの。",
+        "thammy": "Karen: Oh, that's right. I noticed recently that there's one more star around the constellation of Cygnus, the swan.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "ほらあの赤い星。",
+        "thammy": "See, that red star over there.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "ねぇ。あの星にお願いごとしない？きっとかなうような気がするの。",
+        "thammy": "Hey. Won't you make a wish on that star? I feel like it will definitely come true.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "テムもちゃんと目を閉じてお願いしてね。",
+        "thammy": "Tim, you close your eyes tight and make a wish too, okay?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05A5AB",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：ボクはみんなの無事と父さんのことをいっしょうけんめいいのってみた…",
+        "thammy": "Tim: I tried praying as hard as I could for everyone's safety, and for my dad...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_059D24",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "ひょう流１８日目",
+        "thammy": "18th day adrift",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05A5E3",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：もうひょう流してから３週間近くたつのね。",
+        "thammy": "Karen: It's already nearly three weeks since we went adrift, huh?",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "テムってば少しカミの毛がのびたんじゃない？そうね２ドットくらい（笑）",
+        "thammy": "Speaking of it, Tim, hasn't your hair grown a little? Yeah, about two pixels. (Laughs)",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：そういうカレンもさ、おひめさまって感じじゃなくなったよな。",
+        "thammy": "Tim: Saying that, Karen, you don't feel like a princess anymore.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "どっかの島の女の子って言ってもわかんないと思うけど。",
+        "thammy": "I think if someone said you were a girl from some island, I wouldn't even know.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：ひっどーい！",
+        "thammy": "Karen: You're awwwfulll!",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "ななに…？あの海にいるのなに…？",
+        "thammy": "W-what...? What's out there in the water...?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05A723",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：イカダのまわりをぐるぐるまわるだけでおそってこないわね…",
+        "thammy": "Karen: They're just circling round and round the raft; they're not coming to attack...",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：しばらく様子を見てみよう。",
+        "thammy": "Tim: Let's observe the situation for a bit.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05A6EA",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：もしかしてサメ…?",
+        "thammy": "Karen: Could they be sharks...?",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "あたしたち食べられちゃうのかしら…どうしよう..テム…",
+        "thammy": "I wonder if we'll be eaten... What should we do...? Tim…",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05A770",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：わかった！この子たちお腹がすいてないのよ！",
+        "thammy": "Karen: I've got it! These little fishies aren't hungry!",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "むかしじいやに教わったの。お腹がすいてないのに生き物をおそうのは人間だけだって。",
+        "thammy": "My butler taught it to me a long time ago. Humans are the only living thing that attack when they're not hungry.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：それならボクらのやっていることは人間らしくないんだなあ。",
+        "thammy": "Tim: If that's the case, then I guess what we're doing is unusual for humans.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "死にそうになるまで魚を食べなかったもんね。",
+        "thammy": "After all, we didn't eat any of the fish until we were about to die, right?",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：そうよね。あいっちゃうみたい。サメさんさよーならぁー…",
+        "thammy": "Karen: That's how it is, huh? Ah, it looks like they're leaving. Dear sharks, farewellll...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_059D33",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "ひょう流２１日目",
+        "thammy": "21st day adrift",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05A853",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：あたしね。お城にいるときは夕日をみるのが好きだったの…",
+        "thammy": "Karen: Hey, I want to tell you something about myself. When I was at the castle, I liked to look at the setting sun...",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "お城のわたりロウカから見る夕日はすっごくすっごくきれいで…",
+        "thammy": "When I saw the setting sun from the castle's halls, it was incredibly, incredibly lovely...",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "でもね。今はきらいになっちゃった。",
+        "thammy": "But, you know. Now I've come to hate it.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "夕日がしずむと暗くてこわいヤミがやってきて…",
+        "thammy": "When the sun sets, then the gloomy, frightful darkness comes...",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "そのまま二度と朝日を見られないんじゃないかと思って..",
+        "thammy": "Because of that, I start to think that I may never be able to see the dawn again..",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "でもテムがそばにいてくれたから毎日きれいな朝の光を見られたのよね。",
+        "thammy": "But when you're near for me, I can see lovely morning light every day.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "テムが近くにいてくれると、たわいないこんな時間もなんだか楽しく感じるの。",
+        "thammy": "If you're here for me, I feel that even challenging times like these are fun somehow.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：ボクはそんなカレンに話したいことがあるはずなのになぜか言葉が出てこなかった。",
+        "thammy": "Tim: I must have wanted to say something like that to Karen, yet for some reason the words didn't come out.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "ボクはだまってうなづくだけだった…",
+        "thammy": "I only nodded and said nothing…",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05A9F9",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：とつぜんボクはひざからがくっとくずれ落ち意識が遠のいていった…",
+        "thammy": "Tim: Suddenly, my knees buckled; I collapsed and lost consciousness...",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：テムっ！テムっ！！どうしたのよっ！",
+        "thammy": "Karen: Tim...! Tim...! What's wrong...!?",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "しっかりしてよっ！あたしを一人にしないでよおっ！！",
+        "thammy": "Hold on...! Don't leave me by myself...!!",
+        "tone": ""
+      }
+    ]
+  }
+]
+

@@ -1,0 +1,531 @@
+[
+  {
+    "name": "widestring_06AB53",
+    "path": "seaside_tunnel/st68_neil.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "海底トンネルに入って５日がすぎた。",
+        "thammy": "Five days passed since we entered the undersea tunnel.",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "行けども行けども同じような景色がつづく。気が遠くなりそうだった…",
+        "thammy": "The scenery looks the same no matter how much you walk. We began to feel overwhelmed...",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "ニール：今日はこのあたりで休むとしようか。",
+        "thammy": "Neil: How about we rest here for today?",
+        "tone": ""
+      },
+      {
+        "source": "Eric",
+        "japanese": "エリック：つかれたあ。今日は１０００キロくらい歩いたかな。",
+        "thammy": "Eric: I'm exhaaausted. I think we walked about a thousand kilometres today.",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "ロブ：ばかだな。人間の足でそんなに歩けるわけねえだろっ。",
+        "thammy": "Rob: Don't be stupid. Human legs can't walk that far.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：もーうやだっ！もう旅に出てからつかれることしかないんだものっ。",
+        "thammy": "Karen: Geez, I can't stand it it...!",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：もーうやだっ！もう旅に出てからつかれることしかないんだものっ。",
+        "thammy": "This journey's been nothing but one exhausting event after another…",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：みんな同じこと思ってるんだから声にだして言わないのっ！",
+        "thammy": "Lillie: Everybody's thinking the same thing, so be quiet...!",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "それよりごはんにしよ。おなかすいちゃった。",
+        "thammy": "More importantly, let's eat. I'm hungry.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06AE70",
+    "path": "seaside_tunnel/st68_erik.asm",
+    "parts": [
+      {
+        "source": "Eric",
+        "japanese": "エリック：おしっこするんだから見にこないでよっ！",
+        "thammy": "Eric: I'm peeing, so don't come look!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06AF03",
+    "path": "seaside_tunnel/st68_lance.asm",
+    "parts": [
+      {
+        "source": "Rob",
+        "japanese": "ロブ：この地下道っていったいどこまでつづいてるんだろう…",
+        "thammy": "Rob: Where tha heck does this underground tunnel go on to...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06ACB9",
+    "path": "seaside_tunnel/st68_neil.asm",
+    "parts": [
+      {
+        "source": "Neil",
+        "japanese": "ニール：何千年もむかしにこの地下道を歩いた人たちがいたんだなあ。",
+        "thammy": "Neil: I guess that even millennia ago, there must have been people walking through this underground tunnel.",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "なんだか遠い過去を想像してると自分がちっぽけに思えてくるよ。",
+        "thammy": "I can't help but think of myself a little when I think of the distant past.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06B57D",
+    "path": "seaside_tunnel/st68_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：人間って不思議だよね…",
+        "thammy": "Lillie: Humans are mysterious, aren't we…?",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "極限じょうたいになると何が食べられて何が毒なのか一目でわかっちゃうんだもん。",
+        "thammy": "When you're pushed to the absolute limit, you might know with a glance if something is edible of it's poisonous.",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "もしかするとむかしの人ってみんなそうだったのかな。",
+        "thammy": "I wonder if it was that was for the people of the past.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06B069",
+    "path": "seaside_tunnel/st68_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：あーあステーキが食べたいっ！サラダも食べたいっ！！",
+        "thammy": "Karen: Aah, I want to eat a steak...! I want to eat a salad...!!",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "変なものばっかり食べてるからもうハダががさがさになってきちゃった…",
+        "thammy": "My skin is already turning dry because we're only eating weird things...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06B86E",
+    "path": "seaside_tunnel/st68_mushrooms.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "このキノコはトンネル内のいたるところに生えている。ぼくらのゆいいつの食料だ。",
+        "thammy": "We found these mushrooms living in this tunnel when we arrived.",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "このキノコはトンネル内のいたるところに生えている。ぼくらのゆいいつの食料だ。",
+        "thammy": "They're our only source of food.",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "昨日は焼きキノコ。おとといはゆでキノコ。",
+        "thammy": "Yesterday was fried mushrooms. The day before yesterday was boiled mushrooms.",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "さきおとといは生で食べたらおそろしくまずかった…",
+        "thammy": "When we ate them raw three days ago and they were frightfully disgusting...",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "でもぜいたくは言っていられない。生きるためにはがまんしてでもお腹に入れなくては…",
+        "thammy": "But we can't concern ourselves with luxuries like flavour.",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "でもぜいたくは言っていられない。生きるためにはがまんしてでもお腹に入れなくては…",
+        "thammy": "We're being patient in order to live, but when it comes to having an empty stomach...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06B0BC",
+    "path": "seaside_tunnel/st68_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：があああん。テムがまたキノコを見つけてきたわ…",
+        "thammy": "Karen: Oh gosh. Tim found mushrooms again...",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：死ぬよりいいと思わなきゃ。さあごはんにしよっ。",
+        "thammy": "Lillie: You have to think of it as being better than starving to death. Alright, let's eat…",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06AE88",
+    "path": "seaside_tunnel/st68_erik.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "こうしてまた一日がゆっくりとすぎていった…",
+        "thammy": "Like this, one day again passed slowly...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06B606",
+    "path": "seaside_tunnel/st68_lily.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "海底トンネルに入って８日目。ぼくはねつかれず地下水の流れを見つめていた..",
+        "thammy": "Eighth day since entering the tunnel.",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "海底トンネルに入って８日目。ぼくはねつかれず地下水の流れを見つめていた..",
+        "thammy": "Unable to sleep, I was staring at an underground water stream..",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06B661",
+    "path": "seaside_tunnel/st68_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：ねむれないの？",
+        "thammy": "Lillie: Can't sleep?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06B67B",
+    "path": "seaside_tunnel/st68_lily.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：うん。お腹がすいてさ。っていうのはじょうだんだけど。",
+        "thammy": "Tim: Yeah, it's because I'm getting hungry. …I'm kidding.",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：テムってさ。旅をつづけるうちにずいぶん変わったよね。",
+        "thammy": "Lillie: Speaking of, Tim. As our journey continues, we've changed a lot, haven't we?",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "なんだか大人っぽくなったっていうかさ。",
+        "thammy": "You could say that we've matured somehow.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：自分でもよくわかんないんだけど…",
+        "thammy": "Tim: I don't understand it well myself, but…",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "ぼくは不思議な力が使えるしそれに戦士の姿に変身するのも見たろ？",
+        "thammy": "I'm able to use mysterious powers; you've seen me transform into the form of a warrior, right?",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "ぼくの体に変化がおこったのは以前父さんとバベルのとうに探険にいった時からなんだ。",
+        "thammy": "After the expedition with my dad at the Tower of Babel, my body had changed.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "この旅でぼくの力の秘密がわかりそうな気がするんだよ。",
+        "thammy": "I have a hunch that I'll understand the secrets of my power through this journey.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "それよりリリィはなんで危険な旅についてきたわけ？",
+        "thammy": "By the way, Lillie, why did you tag along in such a dangerous journey?",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：最初は面白半分だったんだけどね。でも今はないしょ。エヘヘ。",
+        "thammy": "Lillie: At first, it was half for fun. But now it's a private matter. Ehehe.",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "明日はまたいっぱい歩かなきゃならないし…もうそろそろねなくちゃね。",
+        "thammy": "Since we won't be able to avoid a lot of walking tomorrow... I'll be going to bed soon, okay?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06AD22",
+    "path": "seaside_tunnel/st68_neil.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "海底トンネルに入って２週間。今だに出口は見えない…",
+        "thammy": "Two weeks since entering the undersea tunnel. We still can't see an exit...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06AD64",
+    "path": "seaside_tunnel/st68_neil.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：ねえねえ。ゆうべねているとき上の方から不気味な物音がしなかった？",
+        "thammy": "Karen: Hey hey. Were there eerie sounds coming from above the tunnel when we were sleeping last night?",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "ロブ：カレンはよくそんな物音に気がつくなあ…",
+        "thammy": "Rob: I think ya often notice those sort o' sounds...",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "つかれはててそれどころじゃなかったよ。",
+        "thammy": "That ain't it; ya were just getting' tired.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06B10B",
+    "path": "seaside_tunnel/st68_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：ほらっ。今も聞こえたわっ！！何かしら…あの音…",
+        "thammy": "Karen: Listen... You can hear it even now...! I wonder what it is... That sound...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06B13C",
+    "path": "seaside_tunnel/st68_kara.asm",
+    "parts": [
+      {
+        "source": "Eric",
+        "japanese": "エリック：もしかしてリバイヤサン…？",
+        "thammy": "Eric: Could it be a Leviathan...?",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：たいへんっ！！にげなくっちゃ！！！",
+        "thammy": "Karen: This is bad...!! Run away!!",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：にげるっていったいどこへにげるわけっ？！",
+        "thammy": "Lillie: You can tell us to run away, but where the heck do we run to...!?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06B195",
+    "path": "seaside_tunnel/st68_kara.asm",
+    "parts": [
+      {
+        "source": "Neil",
+        "japanese": "ニール：みんな静かにっ！！このしんどうの連続音…",
+        "thammy": "Neil: Everyone, be quiet...! This repeating vibration sound...",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "これはモールス信号だ…",
+        "thammy": "This is Morse code...",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "音の長さが言葉になっている信号で船同士が連らくをとりあうときに使われている合図なんだよ。",
+        "thammy": "When boats contact each other, they use signals where the length of sounds map up to words.",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "ちょっと解読してみるからまってくれ…",
+        "thammy": "I can try to decode a bit of it, so please wait...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06B250",
+    "path": "seaside_tunnel/st68_kara.asm",
+    "parts": [
+      {
+        "source": "Morris",
+        "japanese": "ぼくはモリス…",
+        "thammy": "I'm Morris...",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "ロブ：モリスだって？！！！",
+        "thammy": "Rob: Did ya say it's Morris?!",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：しっ。静かにっ。ニール先を続けて。",
+        "thammy": "Lillie: Shh... Be quiet... Neil's about to continue.",
+        "tone": ""
+      },
+      {
+        "source": "Morris",
+        "japanese": "ぼくはリバイヤサンに飲みこまれました….",
+        "thammy": "I was swallowed by a Leviathan...",
+        "tone": ""
+      },
+      {
+        "source": "Morris",
+        "japanese": "そして気づいた時には体がリバイヤサンの姿になっていたのです。",
+        "thammy": "And then, when I regained consciousness, my body had been transformed into the form of a Leviathan.",
+        "tone": ""
+      },
+      {
+        "source": "Morris",
+        "japanese": "このリバイヤサンという生物は海の中で生活する人間なのかもしれませんね。",
+        "thammy": "These life forms that we call Leviathans may be understood as humans that live in the sea.",
+        "tone": ""
+      },
+      {
+        "source": "Morris",
+        "japanese": "仲間のリバイヤサンの話ではすい星の光で生き物の進化がおかしくなっているとか。",
+        "thammy": "From what my fellow Leviathans say, the light of the comet distorts the evolution of living things or something like that.",
+        "tone": ""
+      },
+      {
+        "source": "Morris",
+        "japanese": "ぼくもいっしょに旅を続けたかったけど今はこんな体ですからね。",
+        "thammy": "I'd join you on your journey again, but my body's like this, so…",
+        "tone": ""
+      },
+      {
+        "source": "Morris",
+        "japanese": "どうかがんばってすい星とイセキのなぞを解き明かしてください….",
+        "thammy": "Please stay strong anyway, and bring the mysteries of the comet and the ruins to light...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06B3EC",
+    "path": "seaside_tunnel/st68_kara.asm",
+    "parts": [
+      {
+        "source": "Neil",
+        "japanese": "ニール：もう何も聞こえなくなった…",
+        "thammy": "Neil: I can't hear it anymore…",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：モリス….かわいそうに…..",
+        "thammy": "Karen: Morris... I pity him…",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "ロブ：そういえばあいつモールス信号について勉強してたもんなあ。",
+        "thammy": "Rob: Now that ya mention it, I guess that guy must have studied Morse code.",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "モリスもいきなことしてくれるじゃねえか。",
+        "thammy": "Morris has learned sophisticated things too, hadn't he.",
+        "tone": ""
+      },
+      {
+        "source": "Eric",
+        "japanese": "エリック：でもモリスは人間の姿じゃなくなっちゃたんだよっ！！",
+        "thammy": "Eric: But Morris no longer is in human form...!!",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "ニール：いやエリック。そう決めつけるのはよくないな。",
+        "thammy": "Neil: Nah, Eric. I don't think you should assume it's a bad thing.",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "人間の体が一番なんて思っているのは案外とぼくら人間だけなのかもしれないぞ。",
+        "thammy": "We may only think that the human body is the best one because we're just humans.",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "さあ。元気を出して先を急ごう！！",
+        "thammy": "Alright. Keep your spirits up and let's go ahead!!",
+        "tone": ""
+      }
+    ]
+  }
+]
+

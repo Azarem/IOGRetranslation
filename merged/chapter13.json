@@ -1,0 +1,1053 @@
+[
+  {
+    "name": "spritestring_03B2A1",
+    "path": "overworld_names.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "ダイヤモンドコースト",
+        "thammy": "Diamond Coast",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "spritestring_location_freejia",
+    "path": "overworld_names.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "花の都フリージア",
+        "thammy": "Capital of Flowers, Freesia",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05B100",
+    "path": "freejia/fr32_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：うわあすてきっ！さすが花の都っていうだけあるわよねっ！！",
+        "thammy": "Karen: Wow, it's so pretty...! Isn't it just what you'd expect a place called the Capital of Flowers to be...!!",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "こんなきれいなところに住んでる人たちはきっと心もきれいなんだろうな…",
+        "thammy": "I think that the people that live in a beautiful place like this will definitely have beautiful hearts too...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05B225",
+    "path": "freejia/fr32_guide.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "男：こりゃまたずいぶんとかわいい旅人さんだこと。今夜の宿はおきまりですか？",
+        "thammy": "Man: Hey, there's some more terribly cute travellers. Have you decided on lodging for this evening?",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：ううん。決ってないわ。それにあたしたち人をさがしてるの。",
+        "thammy": "Karen: No, we haven't decided. Beyond that, we're looking for some people.",
+        "tone": ""
+      },
+      {
+        "source": "Man",
+        "japanese": "男：それはそれは。ならうちの宿をきょ点にして人さがしをしたらどうですか？",
+        "thammy": "Man: Is that so, how about that? In that case, how about basing your manhunt inside our inn?",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：決ーまりっ！あたしもうくったくたっ！！",
+        "thammy": "Karen: It's all settled then...! I was already getting worried...!!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05B14B",
+    "path": "freejia/fr32_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：テムもそれでいいわよねっ。さっいこいこっ！！",
+        "thammy": "Karen: Tim, you're okay with this too, right...? Well, let's go, let's go...!!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05B16F",
+    "path": "freejia/fr32_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：ここの宿屋さんがそうだって。さっはいろっ！！",
+        "thammy": "Karen: That's what the innkeeper here said. Well, let's go in...!!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05B2D3",
+    "path": "freejia/fr32_guide.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "さあどうぞどうぞ。",
+        "thammy": "Well, please, come in, come in.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05C654",
+    "path": "freejia/fr39_lily_kara.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：いらっしぁいま…",
+        "thammy": "Lillie: Welco-",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "テムにカレン…？！",
+        "thammy": "Tim and Karen...?!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05C4CD",
+    "path": "freejia/fr39_lily_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：リリィ？リリィなのっ？！",
+        "thammy": "Karen: Lillie? Is that Lillie...?!",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：心配したよおっ！ひと月近くもはなればなれだったんだもんね！！",
+        "thammy": "Lillie: I was worried...! We've had been split up for nearly a month, after all!!",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "この宿屋で住みこみで働かせてもらってたんだよ。",
+        "thammy": "I'm been employed as a live-in worker for this innkeeper.",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "右のおくの部屋にロブがいるから行ってあげてよ…",
+        "thammy": "Rob is in the room on the right, so I'll go there with you...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05C571",
+    "path": "freejia/fr39_lily_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：せっかく無事に会えたっていうのにこんなのって…",
+        "thammy": "Karen: Although we were about to say that we had finally met safely, this is how it is...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05C7FA",
+    "path": "freejia/fr39_lance.asm",
+    "parts": [
+      {
+        "source": "Rob",
+        "japanese": "ロブ：自分がだれだかわからないってなんだか不思議だよ…",
+        "thammy": "Rob: They say I don't know who I am. What a mystery it is...",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "オレがだれだかわからないのにオレはなんでここにいるんだろ。",
+        "thammy": "Although I don't know who I am, why am I here?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05C67C",
+    "path": "freejia/fr39_lily_kara.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：ロブはインカ船からにげだすときに頭をうってそのまま…",
+        "thammy": "Lillie: When Rob was escaping from the Incan ship, he hit his head, and that's how...",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "お医者さんにみてもらったら一時的なきおくそうしつだって。",
+        "thammy": "The doctor he saw said that it was temporary amnesia.",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "とりあえずロブがよくなるまではこの町にいようと思うんだけど。",
+        "thammy": "Until Rob gets better, I think he'll be treated in this town, but...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05C70B",
+    "path": "freejia/fr39_lily_kara.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：それとね。エリックのすがたが夕べから見えないんだよ。",
+        "thammy": "Lillie: And more than that. I haven't seen any sign of Eric since yesterday evening.",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "どうしちゃったのかな…",
+        "thammy": "How did this happen…?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05BC00",
+    "path": "freejia/fr3B_tornado.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "別にどろぼうが入ったわけじゃないんだよ。",
+        "thammy": "Don't worry; despite what you'd think, I haven't been robbed.",
+        "tone": ""
+      },
+      {
+        "source": "Man",
+        "japanese": "こんなふうに少しはちらかっていた方が落ち着くと思わないか？",
+        "thammy": "Do you think I don't look like I'd be such a disordered person?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05CFFD",
+    "path": "freejia/fr32_locked_door.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：うちがわからカギがかかっているようだな…",
+        "thammy": "Tim: It seems like this house is locked...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05B2DC",
+    "path": "freejia/fr32_guide.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "最近この町には旅人がすっかりよりつかなくなって…商売あがったりですよ。",
+        "thammy": "This town hasn't been full of travellers recently... Business is bad.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05BA62",
+    "path": "freejia/fr38_ashamed.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "まったく２階のやつらときたら..かたみがせまいよ…オレは。",
+        "thammy": "Good grief, when those jerks on the second floor are acting like that... I… I feel inadequate.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05BB1C",
+    "path": "freejia/fr38_boyfriend.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "か彼女にゴミに入った目をとってもらってたのさ…はははははははは。",
+        "thammy": "M-my girl friend was helping me get something out of my eye... Hahahahahahahaha.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05BAC2",
+    "path": "freejia/fr38_girlfriend.asm",
+    "parts": [
+      {
+        "source": "Woman",
+        "japanese": "彼の目に入ったゴミをとってあげていたのよ。ほほほほほほほほ。",
+        "thammy": "I was just helping my boy friend take something out of his eye. Hohohohohohohoho.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05BA1D",
+    "path": "freejia/fr32_fragrance.asm",
+    "parts": [
+      {
+        "source": "Woman",
+        "japanese": "フリージアっていうのは町のしょうちょうになっている花。すてきなかおりでしょ。",
+        "thammy": "Flowers are becoming the symbol of this town we call Freesia. The town smells wonderful, right?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05BD10",
+    "path": "freejia/fr37_caution.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "悪いことは言わない。裏通りにはいかないほうが身のためだよ。",
+        "thammy": "I'm not going to lie to you. For your own sake, don't go in the side streets.",
+        "tone": ""
+      },
+      {
+        "source": "Man",
+        "japanese": "美しいバラにはトゲがあるように美しい町には裏の顔があるものさ。",
+        "thammy": "Just as there are thorns on a beautiful rose, there's another side to a beautiful town.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_gem_jewel_9",
+    "path": "actors/jeweler_gem.asm",
+    "parts": [
+      {
+        "source": "Gem",
+        "japanese": "君からは今９コの赤い宝石をあずかっているよ。",
+        "thammy": "I'm now looking after 9 Red Jewels for you.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_gem_life_force",
+    "path": "actors/jeweler_gem.asm",
+    "parts": [
+      {
+        "source": "Gem",
+        "japanese": "おっと集めた宝石が８コを越えているじゃないかっ！リストの通り命のフォースをあげることにしよう。",
+        "thammy": "Whoops, the number of jewels you've collected have passed 8, haven't they...! Going by the list, I'll give you Life Force.",
+        "tone": ""
+      },
+      {
+        "source": "Gem",
+        "japanese": "これで君の体力は一つ上がるはずだ。",
+        "thammy": "This should increase your endurance by one.",
+        "tone": ""
+      },
+      {
+        "source": "Gem",
+        "japanese": "これで宝石の数は全部で１１コになったわけだな。",
+        "thammy": "With this, I think the number of jewels should have become 11 altogether.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05B59B",
+    "path": "freejia/fr32_slap.asm",
+    "parts": [
+      {
+        "source": "Woman",
+        "japanese": "びっくりした…屋根から人がふってくるとはね。",
+        "thammy": "https://youtu.be/Aa6w3qKBVaQ",
+        "tone": ""
+      },
+      {
+        "source": "Woman",
+        "japanese": "身のちぢむようなダイビングを見せてくれたお礼にいいものをあげよう。",
+        "thammy": "Your diving act gave me goosebumps; I'm going to give you a nice reward for showing it to me.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05B60C",
+    "path": "freejia/fr32_slap.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "バシッ！！！！！！",
+        "thammy": "Thwack...!!",
+        "tone": ""
+      },
+      {
+        "source": "Woman",
+        "japanese": "このガキっ！こんどそんなあぶないマネしていみろっ！！ただじゃすまないぞっ！！！",
+        "thammy": "You brat...! Try pulling this kind of dangerous stunt next time...! I'll make you regret it...!!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05BB6F",
+    "path": "freejia/fr36_mother.asm",
+    "parts": [
+      {
+        "source": "Woman",
+        "japanese": "母親ってほんと気苦労がたえないものよ。",
+        "thammy": "What we call motherhood is being unable to hide your worries.",
+        "tone": ""
+      },
+      {
+        "source": "Woman",
+        "japanese": "悪い人に連れていかれたんじゃないかどこかでケガしてるんじゃないかとかね…",
+        "thammy": "Are they hanging around in a bad crowd, are they injured somewhere, or something like that, you know...?",
+        "tone": ""
+      },
+      {
+        "source": "Woman",
+        "japanese": "あたしのお母さんも同じように苦労をしてきたんだろうな。",
+        "thammy": "I guess that I've come to worry just like my mom.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05B42E",
+    "path": "freejia/fr32_kidnapper.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "男の声：命がおしければかえんな！！",
+        "thammy": "Man's voice: If you value your life, go home...!!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05BE24",
+    "path": "freejia/fr32_honest_life.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "ういー..ひっく…まじめに生きるのも人生。飲んで笑って生きるのも人生さね。",
+        "thammy": "Whee... *Hic*... Living your life seriously, or living your life drinking or laughing, you know?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05CFA7",
+    "path": "freejia/fr32_hp_jewel.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "HP（体力）の宝石を見つけた！",
+        "thammy": "Found a jewel of HP (endurance)!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_status_psycho_dash",
+    "path": "menu_status.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "やみのちから ／ ：サイコダッシュ ／ テムのじょうたいです ／ けっていボタンでヤミのちからのせつめいがひょうじされます",
+        "thammy": "Power of Darkness / :Psycho Dash / This is Tim's status. / An explanation of the selected Power of Darkness will be displayed with the confirm button.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05B840",
+    "path": "freejia/fr32_slaver1.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "まったくどこへいきやがった..",
+        "thammy": "Damn it, where the hell did he go..",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05B8CD",
+    "path": "freejia/fr32_slaver2.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "ドレイが一人にげだしたんだ。どこかで見かけなかったか？ ／ はい ／ いいえ",
+        "thammy": "A slave escaped. You haven't noticed him anywhere, have you? / Yes / No",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05B90C",
+    "path": "freejia/fr32_slaver2.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "なんと！その場所を教えてくれたら赤い宝石をやろう。 ／ 場所を教える ／ 笑ってごまかす",
+        "thammy": "What did you say!? If you tell me where they are, I might be so kind as to give you a Red Jewel. / Inform him / Smile and lie",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05B8F1",
+    "path": "freejia/fr32_slaver2.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "そうか。見つけたら知らせてくれよ。",
+        "thammy": "Is that so. If you find him, notify me.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05B9AF",
+    "path": "freejia/fr32_slaver2.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "しかしテムはドレイのかくれ場所を知らない。",
+        "thammy": "However, Tim doesn't know where the slave is hiding.",
+        "tone": ""
+      },
+      {
+        "source": "Man",
+        "japanese": "男：こらっ。ぼうずっ。大人をからかうんじゃないっ！！",
+        "thammy": "Man: Hey... Little boy... Don't make fun of adults...!!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05B7CA",
+    "path": "freejia/fr32_alley_guard.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "ここは子供のくるところじゃない。帰った帰った。",
+        "thammy": "This isn't a place for kids. Go home, go home.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05BDBE",
+    "path": "freejia/fr32_showman.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "火を使った芸を得意とする者でおれの右に出るヤツはいない。いいかみてろよっ！",
+        "thammy": "I do performance art with fire and I'm the best at what I do. Come on, take a look...!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05C38B",
+    "path": "freejia/fr35_slave1.asm",
+    "parts": [
+      {
+        "source": "Woman",
+        "japanese": "私たちこれから売りに出されるところ…",
+        "thammy": "After this, we're going to be taken from this place to be sold...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05C3BB",
+    "path": "freejia/fr35_slave2.asm",
+    "parts": [
+      {
+        "source": "Woman",
+        "japanese": "私物ごとを考えないようにしました。考えれば考えるほどむなしくなるだけです…",
+        "thammy": "I don't think about anything. When I think, all I can think about is dying…",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05C40E",
+    "path": "freejia/fr35_slave3.asm",
+    "parts": [
+      {
+        "source": "Woman",
+        "japanese": "私は神を信じません。もし神がいるなら世の中に身分など存在しないはず…",
+        "thammy": "I don't believe in God. If God existed, the world shouldn't have things like social status…",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05B7E6",
+    "path": "freejia/fr35_slave3.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "このガキんちょはっ！どこから入りこんだんだっ？！さあ帰れ帰れっ！！",
+        "thammy": "This brat...! Where did you come in here from...?! Alright, go home, go home...!!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05B688",
+    "path": "freejia/fr32_hotel_hint.asm",
+    "parts": [
+      {
+        "source": "Girl",
+        "japanese": "女の子：宿屋で住みこみではたらいていた男の子がドレイ商人につかまったみたいよ。",
+        "thammy": "Girl: There's a boy that worked as a live-in worker at the inn; it seems like a slave merchant detained him.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05BC6F",
+    "path": "freejia/fr3A_harborer.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "見つかったものはしかたがないな。ここにいるのは昨日にげだしたドレイだよ。",
+        "thammy": "I guess there's no way around having someone find us. The person here is the slave that escaped yesterday.",
+        "tone": ""
+      },
+      {
+        "source": "Man",
+        "japanese": "ドレイ商人たちにこのことを話すがいい。かくごの上でやったことさ。",
+        "thammy": "It's okay to tell the slave merchants. I'm more than ready.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05C32F",
+    "path": "freejia/fr3A_sympathetic.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "おねがいです！見のがして下さいっ！！",
+        "thammy": "I'm begging you! Please overlook this...!!",
+        "tone": ""
+      },
+      {
+        "source": "Man",
+        "japanese": "わたしはどうなってもいいがこの人にめいわくがかかります…",
+        "thammy": "Whatever happens to me is fine, but you'll inconvenience this person...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05B94D",
+    "path": "freejia/fr32_slaver2.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "テムはドレイのかくれている家を教えた。",
+        "thammy": "Tim informed them of the house where the slave is hiding.",
+        "tone": ""
+      },
+      {
+        "source": "Man",
+        "japanese": "男：ありがとうよ。これはお礼だ。とっといてくれ。",
+        "thammy": "Man: Hey, thanks. Here's your reward. Hang on to it.",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "テムは赤い宝石をもらった。",
+        "thammy": "Tim received a Red Jewel.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05BE6B",
+    "path": "freejia/fr32_doomsday.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "もうじききょうふの大王が天から降りてくるんだと…そして人類は死に絶えるんだと。",
+        "thammy": "\"From the sky will come a great King of Terror... Then humanity will die out.\"",
+        "tone": ""
+      },
+      {
+        "source": "Man",
+        "japanese": "だれが予言したのか知らないがウソっぱちもいいところだぜ。バカバカしくって飲まなきゃやってらんねえや。ヒック。",
+        "thammy": "I don't know where the prophesy comes from, but it's straight up lie. I can go on without drinking up that sort of hogwash. *Hic*",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05C23F",
+    "path": "freejia/fr3C_man1.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "自分が彼らの立場になったらと思うとぞっとするよ。",
+        "thammy": "I think \"what if my life turned out like theirs\" and shudder.",
+        "tone": ""
+      },
+      {
+        "source": "Man",
+        "japanese": "でも今のオレは人の気持ちを考えるより自分が生きることでせいいっぱいなんだ。",
+        "thammy": "But I'm going to put all my energy into my own survival right now rather than concerning myself with the feelings of other people.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05C2BE",
+    "path": "freejia/fr3C_man2.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "このドレイたちはちょうど君と同い年くらいだよね。",
+        "thammy": "These slaves are almost exactly the same age as you, huh?",
+        "tone": ""
+      },
+      {
+        "source": "Man",
+        "japanese": "おぼえておくんだな。世界には同い年でもこういう生活をしてる人がいるってことを。",
+        "thammy": "I guess you'll remember this. In this world, even people who are the same age as you are living like this.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05C190",
+    "path": "freejia/fr3C_slaver.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "こらぼうずっ！ここは子供のくるところじゃない！さあかえったかえった！！",
+        "thammy": "Hey boy...! This isn't a place for children! Alright, go home, go home!!",
+        "tone": ""
+      },
+      {
+        "source": "Man",
+        "japanese": "それともあんたもドレイを買いにきたっていうのかい？ ／ はい ／ いいえ",
+        "thammy": "Or, are you saying that you came to buy a slave too? / Yes / No",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05C21F",
+    "path": "freejia/fr3C_slaver.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "さあかえったかえった！！",
+        "thammy": "Well, go home, go home!!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05C1E2",
+    "path": "freejia/fr3C_slaver.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "そのどきょうが気に入った！本当に買うのかどうかは知らんが見ていきな。",
+        "thammy": "I'm starting to like your courage! I don't know if you're really buying or what, but take a look.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05BF04",
+    "path": "freejia/fr3C_imas.asm",
+    "parts": [
+      {
+        "source": "Ihmuus",
+        "japanese": "ぼくはイムス。遠くはなれた大陸から船でこの町へつれてこられました。",
+        "thammy": "I'm Ihmuus. I was brought to this town from a distant continent by ship.",
+        "tone": ""
+      },
+      {
+        "source": "Ihmuus",
+        "japanese": "ぼくらはしゅりょう民族。おなかがすくとカリをして生活してたんです。",
+        "thammy": "We're a nation of hunters; we survive by hunting when we're hungry.",
+        "tone": ""
+      },
+      {
+        "source": "Ihmuus",
+        "japanese": "このところ動物たちがつぎつぎと原因不明の病気でバタバタと死んでいって…",
+        "thammy": "Recently, all the animals are dropping dead from a disease with no known cause...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05BFDE",
+    "path": "freejia/fr3C_remus.asm",
+    "parts": [
+      {
+        "source": "Rehmuus",
+        "japanese": "ぼくはレムス動物がいなくなりぼくらは食べ物がなくなったんだ。",
+        "thammy": "I'm Rehmuus. When there were no longer any animals, we no longer had food.",
+        "tone": ""
+      },
+      {
+        "source": "Rehmuus",
+        "japanese": "そして生きるためにしかたなくドレイになったというわけさ。",
+        "thammy": "And so, having no other options, we became what you call \"slaves\" in order to survive.",
+        "tone": ""
+      },
+      {
+        "source": "Rehmuus",
+        "japanese": "ぼくらはいったいどんな人に買われてどんなところに連れていかれんだろう…",
+        "thammy": "We won't have any idea at all of what kind of person will buy us or what kind of place they'll bring us to...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05C059",
+    "path": "freejia/fr3C_remus.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "おお神よ…なぜそなたは身分というものをおつくりになられたのか？",
+        "thammy": "O God… Why did you create that thing called \"social status\"?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05C094",
+    "path": "freejia/fr3C_sam.asm",
+    "parts": [
+      {
+        "source": "Sahmuus",
+        "japanese": "ぼくはサムス。",
+        "thammy": "I'm Sahmuus.",
+        "tone": ""
+      },
+      {
+        "source": "Sahmuus",
+        "japanese": "夕べ宿屋ではたらいているエリックという男の子がぼくらを助けにきてくれたんです。",
+        "thammy": "A boy named Eric that works at the inn came to save us last night.",
+        "tone": ""
+      },
+      {
+        "source": "Sahmuus",
+        "japanese": "でもドレイ商人たちに見つかって連れていかてちゃった…",
+        "thammy": "But the slave merchants found him and took him away…",
+        "tone": ""
+      },
+      {
+        "source": "Sahmuus",
+        "japanese": "たぶん町の裏通りのはじっこの家にとじこめられているはず。どうか助けてあげてください。",
+        "thammy": "He's probably locked up in the house at the edge of the city's side street. Please save him for me somehow.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_gem_jewel_12",
+    "path": "actors/jeweler_gem.asm",
+    "parts": [
+      {
+        "source": "Gem",
+        "japanese": "これで宝石の数は全部で１２コになったわけだな。",
+        "thammy": "With this, I think the number of jewels should have become 12 altogether.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_gem_strength_force",
+    "path": "actors/jeweler_gem.asm",
+    "parts": [
+      {
+        "source": "Gem",
+        "japanese": "おっと集めた宝石が１２コを越えているじゃないかっ！リストの通り力のフォースをあげることにしよう。",
+        "thammy": "Whoops, the number of jewels you've collected have passed 12, haven't they...! Going by the list, I'll give you Strength Force.",
+        "tone": ""
+      },
+      {
+        "source": "Gem",
+        "japanese": "これで君のこうげき力は一つ上がるはずだ。",
+        "thammy": "With this, your attack power should rise by one.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_status_psycho_dash_2",
+    "path": "menu_status.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "じょうたい ／ やみのちから ／ ：サイコダッシュ ／ テムのじょうたいです ／ けっていボタンでヤミのちからのせつめいがひょうじされます。",
+        "thammy": "Status / Power of Darkness / Psycho Dash / This is Tim's status. / An explanation of the selected Power of Darkness will be displayed with the confirm button.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05B6E8",
+    "path": "freejia/fr32_creep.asm",
+    "parts": [
+      {
+        "source": "Old Man",
+        "japanese": "ほっほっほっ。よくここがわかったのぅ。",
+        "thammy": "Ho ho ho. You understand this place well, don't you?",
+        "tone": ""
+      },
+      {
+        "source": "Old Man",
+        "japanese": "どうでもいいと思っているものが実は大切なものだったりする…世の中そういうものじゃよ。",
+        "thammy": "I'm thinking it's fine one way or another, but the truth is that it might have been important enough... That's how it is in this world.",
+        "tone": ""
+      },
+      {
+        "source": "Old Man",
+        "japanese": "これはオマケじゃ。とっておきなされ。",
+        "thammy": "This is a bonus. Take it.",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "老人はテムの持ち物の中にそっと何かをいれた！",
+        "thammy": "The old man stealthily inserted something into Tim's possessions!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05B78C",
+    "path": "freejia/fr32_creep.asm",
+    "parts": [
+      {
+        "source": "Old Man",
+        "japanese": "ほっほっほっ。",
+        "thammy": "Ho ho ho…",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05B45E",
+    "path": "freejia/fr32_kidnapper.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：そこにエリックっていう男の子がいませんか？",
+        "thammy": "Tim: Isn't there a boy in there named Eric?",
+        "tone": ""
+      },
+      {
+        "source": "Man",
+        "japanese": "男の声：そんな名前は聞いたこともないな。何をしょうこにそんなことを言うんだね？",
+        "thammy": "Man's voice: I don't think I've ever heard of a name like that. Do you have any evidence that of that sort of thing?",
+        "tone": ""
+      },
+      {
+        "source": "Eric",
+        "japanese": "テムっ？その声はテムだねっ？たすけ….ボコッ",
+        "thammy": "Tim...? That voice is Tim, right...? Help m- *Twhack*",
+        "tone": ""
+      },
+      {
+        "source": "Man",
+        "japanese": "男の声：しっ…ぼうずっ静かにしないかっ…",
+        "thammy": "Man's voice: Shh... Little boy, can't you keep quiet…?",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：（しかたないドアをやぶろう..）",
+        "thammy": "Tim: (There's no way around it; I'll break down the door...)",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05CDBC",
+    "path": "freejia/fr33_erik.asm",
+    "parts": [
+      {
+        "source": "Eric",
+        "japanese": "エリック：まさかテムが助けにきてくれるなんてっ！！",
+        "thammy": "Eric: I can't believe it; you came to save me...!!",
+        "tone": ""
+      },
+      {
+        "source": "Eric",
+        "japanese": "しかしドアをやぶって入ってくるとは思わなかったよ。",
+        "thammy": "But I didn't think you'd come by breaking down the door.",
+        "tone": ""
+      },
+      {
+        "source": "Eric",
+        "japanese": "さっきの男はびっくりしてにげちゃった。",
+        "thammy": "The man from just now got surprised and escaped.",
+        "tone": ""
+      },
+      {
+        "source": "Eric",
+        "japanese": "ボクね収容所にしのびこんでドレイの３人兄弟を助けようとしたんだ。",
+        "thammy": "I snuck into a forced labour camp to save those three slave brothers.",
+        "tone": ""
+      },
+      {
+        "source": "Eric",
+        "japanese": "そしたら見つかっちゃってこんなことになっちゃって…",
+        "thammy": "Then they found me and it turned out like this...",
+        "tone": ""
+      },
+      {
+        "source": "Eric",
+        "japanese": "ドレイたちはみんなダイヤモンド鉱山で働かされているみたい。",
+        "thammy": "It looks like all of the slaves are being put to work in a diamond mine.",
+        "tone": ""
+      },
+      {
+        "source": "Eric",
+        "japanese": "場所を教えるから助けにいってあげてよ。",
+        "thammy": "I'll tell you where it is, so go and save them.",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "テムは鉱山の場所を聞いた！",
+        "thammy": "Tim learned the location of the mine!",
+        "tone": ""
+      }
+    ]
+  }
+]
+

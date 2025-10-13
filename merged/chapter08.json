@@ -1,0 +1,567 @@
+[
+  {
+    "name": "widestring_04F53C",
+    "path": "itory/it1A_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：さあ着いたわ。ここが月の種族のすみかよ。",
+        "thammy": "Lillie: Alright, we're here. This is the Race of the Moon's habitat.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04F7C1",
+    "path": "itory/it1A_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：うろうろするのは月の種族と話してからにしましょ。",
+        "thammy": "Lillie: Don't waste time; talk to the Race of the Moon, then do that.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04F7F7",
+    "path": "itory/it1A_lily.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：（インカの像を手に入れなきゃかえれないな…）",
+        "thammy": "Tim: (I can't go back without obtaining the Incan Figure, can I...)",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04F860",
+    "path": "itory/it1A_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：うろうろするのは月の種族と話してからにしましょ。",
+        "thammy": "Lillie: Don't waste time; talk to the Race of the Moon, then do that.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_09D1FC",
+    "path": "itory/it1A_moon_tribe.asm",
+    "parts": [
+      {
+        "source": "Mysterious voice",
+        "japanese": "ふしぎな声：こんばんわー、こんばんわー…お散歩ですかぁー？",
+        "thammy": "Mysterious voice: Gooood evening, gooood evening... Goooing on a stroll?",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：だれだ？！",
+        "thammy": "Tim: Who's there?!",
+        "tone": ""
+      },
+      {
+        "source": "Mysterious voice",
+        "japanese": "ふしぎな声：上よ、うえ。空気よりかるいこのカラダ。",
+        "thammy": "Mysterious voice: Look up, look up. Our bodies are lighter than air.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：ナニモノだ？！",
+        "thammy": "Tim: What are you?!",
+        "tone": ""
+      },
+      {
+        "source": "Mysterious voice",
+        "japanese": "ふしぎな声：当ててみてよ。 ／ ワタガシのしんせき ／ 鳥人間 ／ 死人のたましい",
+        "thammy": "Mysterious voice: Try to guess. / Cotton candy's relatives / Bird-people / The souls of the dead",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_09D2D0",
+    "path": "itory/it1A_moon_tribe.asm",
+    "parts": [
+      {
+        "source": "Mysterious voice",
+        "japanese": "ふしぎな声：ブーーーーーーーーーッはずれっ。実はわたくしたち月の種族。またの名をカゲといいますの。",
+        "thammy": "Mysterious voice: Bzzzzzzzzzt... Wrong…! We're actually the Race of the Moon. We're also known as Shadows.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_09D388",
+    "path": "itory/it1A_moon_tribe.asm",
+    "parts": [
+      {
+        "source": "Race of the Moon",
+        "japanese": "月の種族：すい星はすべてのはかい者。その光はすべての生物を変容させてしまうよくない光よ。",
+        "thammy": "Race of the Moon: The comet destroys everything. It's an awful light that causes all living things to transform.",
+        "tone": ""
+      },
+      {
+        "source": "Race of the Moon",
+        "japanese": "月の種族：はるかむかしひどいひどい戦争があってその兵器のなごりなのよ。",
+        "thammy": "Race of the Moon: It's the leftovers of a weapon from an awful, awful war from a long distant time.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：世界がひどくなるの？",
+        "thammy": "Tim: It makes the world awful?",
+        "tone": ""
+      },
+      {
+        "source": "Race of the Moon",
+        "japanese": "月の種族：そうとも。お利口だけどまだまだ幼いぼうや。",
+        "thammy": "Race of the Moon: Exactly! You're clever, but you're still young, little boy.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_09D30F",
+    "path": "itory/it1A_moon_tribe.asm",
+    "parts": [
+      {
+        "source": "Race of the Moon",
+        "japanese": "月の種族：光のあるところ必ずカゲがある。",
+        "thammy": "Race of the Moon: There are always shadows where there is light.",
+        "tone": ""
+      },
+      {
+        "source": "Race of the Moon",
+        "japanese": "すい星の光を一度だけあびてすっかり変わっちゃったあたしたち…",
+        "thammy": "We were transformed when the light of the comet showered on us completely just once…",
+        "tone": ""
+      },
+      {
+        "source": "Race of the Moon",
+        "japanese": "以来光のない世界でひっそりと生きるもの。",
+        "thammy": "Since then, we are beings that can live quietly in a world without light.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_09D462",
+    "path": "itory/it1A_moon_tribe.asm",
+    "parts": [
+      {
+        "source": "Race of the Moon",
+        "japanese": "わたしたちの仲間がひとりぬすまれた。",
+        "thammy": "One of our companions was stolen from us.",
+        "tone": ""
+      },
+      {
+        "source": "Race of the Moon",
+        "japanese": "行く先をごぞんじない？ ／ はい ／ いいえ",
+        "thammy": "Don't you know where to go? / I don't / I do",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_09D4AD",
+    "path": "itory/it1A_moon_tribe.asm",
+    "parts": [
+      {
+        "source": "Race of the Moon",
+        "japanese": "月の種族：あなたを追ってくるかもよ。クックククククク…",
+        "thammy": "Race of the Moon: We may come to chase you later. Mweheheheheheheh...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_09D4DC",
+    "path": "itory/it1A_moon_tribe.asm",
+    "parts": [
+      {
+        "source": "Race of the Moon",
+        "japanese": "８００年ごとのすい星の接近は今度で４回目。その力をあびるほどヤミの力は強くなる…",
+        "thammy": "The comet approaches every 800 years; this is the 4th time. The Power of Darkness becomes stronger the more its power showers down...",
+        "tone": ""
+      },
+      {
+        "source": "Race of the Moon",
+        "japanese": "今度の光でいったいなにが生まれることやら…",
+        "thammy": "What in the world will be born from its light this time…?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_09D574",
+    "path": "itory/it1A_moon_tribe.asm",
+    "parts": [
+      {
+        "source": "Race of the Moon",
+        "japanese": "月の種族：あたしたちは時をこえて永遠に生き続ける…",
+        "thammy": "Race of the Moon: We continue to live in an eternity beyond time...",
+        "tone": ""
+      },
+      {
+        "source": "Race of the Moon",
+        "japanese": "インカ王国のほろびゆく姿もこの目でしっかりと見てきたわ。",
+        "thammy": "We also personally managed to see the kingdom of the Inca as it fell into ruins.",
+        "tone": ""
+      },
+      {
+        "source": "Race of the Moon",
+        "japanese": "インカの神像はこの下のどうくつにねむっているの…わたしたちがあなたを気に入ればさしあげてもよろしくてよ。",
+        "thammy": "The Incan idol is sleeping in the cave below here... Since we've taken a liking to you, we gladly offer it to you.",
+        "tone": ""
+      },
+      {
+        "source": "Race of the Moon",
+        "japanese": "とにかくどうくつに行ってごらんなさいな。クックククククク…",
+        "thammy": "Anyhow, please go to that cave. Mweheheheheheheh...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04F575",
+    "path": "itory/it1A_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：じゃあたしここでまってるね。",
+        "thammy": "Lillie: Well, I'll be waiting here, alright?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04F941",
+    "path": "itory/it1B_trial.asm",
+    "parts": [
+      {
+        "source": "Race of the Moon",
+        "japanese": "月の種族：ここにいるのはすい星の光をあびた生物のなれの果て。",
+        "thammy": "Race of the Moon: The things are the results of the transformation that organisms undergo from being showered in the comet's light.",
+        "tone": ""
+      },
+      {
+        "source": "Race of the Moon",
+        "japanese": "もはやにくしみとはかいの心しかもたない悲しい生物。",
+        "thammy": "They are miserable beings who no longer possess anything but hatred and a desire for destruction.",
+        "tone": ""
+      },
+      {
+        "source": "Race of the Moon",
+        "japanese": "この化け物たちを４０秒以内に消し去ることができたならインカの神像をさしあげましょう。クックククククク…",
+        "thammy": "If you can exterminate these monsters within 40 seconds, we'll give you the Incan idol. Mweheheheheheheh...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04FA25",
+    "path": "itory/it1B_trial.asm",
+    "parts": [
+      {
+        "source": "Race of the Moon",
+        "japanese": "月の種族：それではインカの神像はさしあげられませんね。クックククククク…",
+        "thammy": "Race of the Moon: With that, we can't ive you Incan idol, can we? Mweheheheheheheh...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04FA65",
+    "path": "itory/it1B_trial.asm",
+    "parts": [
+      {
+        "source": "Race of the Moon",
+        "japanese": "月の種族：おやおやりっぱなぼうやだこと。クックククククク…",
+        "thammy": "Race of the Moon: Oh my, what a splendid little boy. Mweheheheheheheh...",
+        "tone": ""
+      },
+      {
+        "source": "Race of the Moon",
+        "japanese": "それではインカの神像をさしあげましょう。",
+        "thammy": "Since you've done that, we'll give you the Incan idol.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04F591",
+    "path": "itory/it1A_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：どうだった？",
+        "thammy": "Lillie: How did it go?",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "。。。。。。その顔はダメだったみたいね。",
+        "thammy": "......From your face, it looks it was no good, huh?",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "気をおとさないでもう一回がんばっておいでよ。",
+        "thammy": "Don't be discouraged; keep at it one more time.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04F5EA",
+    "path": "itory/it1A_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "インカの像Ｂを手の入れた。",
+        "thammy": "Got Incan Figure B.",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：あっその像はっ！テムってばすごいすごおぉい！",
+        "thammy": "Lillie: Ah, that figure is...! Tim, you're incredible, iiincredible!",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "これで像が２つそろったわけね。インカのイセキへ行くつもり？ ／ はい ／ いいえ",
+        "thammy": "With this, that means we've collected have two figures, right? Do you plan to go to the Incan ruins? / Yes / No",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04F68F",
+    "path": "itory/it1A_lily.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：うん。とうさんに呼ばれたんだ…",
+        "thammy": "Tim: Yeah. Because I was told to by my dad...",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "すい星の光をあびた化物たちと戦うのはちょっとこわいけど、でもとうさんが生きてるなら危険をおかしてでも会いたいんだ。",
+        "thammy": "I'm a little scared to fight with the monsters that have been showered by the light of the comet. But if Dad is alive, I'll brave even that danger because I want to meet him.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "この気持ちは両親をなくしてみなきゃわからないさ…",
+        "thammy": "I feel like I won't understand without seeing my parents...",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：やっぱり男の子ねぇ…",
+        "thammy": "Lillie: You're a boy after all, huh...",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "わかったわ。じゃイセキへ向かいましょ。",
+        "thammy": "I understand. Alright, let's head to the ruins.",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "二人はインカのイセキへ向かうのであった。",
+        "thammy": "So the two headed to the Incan ruins.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04F653",
+    "path": "itory/it1A_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：うそ。あたしわかるもん。言葉でそういってもテムは行くつもりなんでしょ。",
+        "thammy": "Lillie: That's a lie. I know it. Even if you say those words, Tim plans to go, don't you?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_09CAE5",
+    "path": "incan_ruins/ir1C_lily.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "インカのイセキ入口",
+        "thammy": "Entrance of the Incan ruins",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：ここがインカのイセキの入口。",
+        "thammy": "Lillie: Here is the entrance of the Incan ruins.",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "インカっていっても広くってね、ここはインカ伝説のナゾがかくされているっていわれる場所。",
+        "thammy": "The people we called Inca were widespread, weren't they? It's said that the mystery of Inca legend is hidden here.",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "あたしがまだちっちゃいころ長老様からこんな話を聞いたことがあるんだけど…",
+        "thammy": "I had heard a story like this from the Elder when I was little, but...",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "かつてインカがしゅうげきを受けたとき祖国をすてて新天地を求めようという計画があったらしいの。",
+        "thammy": "It seems that when the Inca were raided at one time, they were going to abandon their motherland and search for a new home.",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "しんりゃく者の目をぬすんできょだいな船が建造され、最も貴重な黄金細工とともにインカ人達が乗りこんだというわ。",
+        "thammy": "The Incan people were said to have boarded a giant ship built with the most valuable golden treasures, which attracted the invaders' attention.",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "でもねその船が出航したという記録は残ってないんだって…",
+        "thammy": "But, you know, they say that there is no remaining record of the boat's departure...",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "たぶんインカにねむる黄金船っていうのはその船のことなんでしょうね。",
+        "thammy": "That ship is probably the Gold Ship that lies with the Inca.",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "長老様はこれまでイトリー族以外の人にこの言い伝えを話したことがないはず。",
+        "thammy": "I imagine that the Elder hasn't told this legend to anyone outside the Itory clan until now.",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "長老様はテムに何をさせようとしてるんだろ…",
+        "thammy": "What is the Elder trying to have Tim do…?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_09CF19",
+    "path": "incan_ruins/ir1C_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：ひどいじゃない？！あたしをおいてけぼりにしてどこまで行こうっていうのよっ！",
+        "thammy": "Karen: Aren't you awful?! Ditching me and going off somewhere!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_09CCD0",
+    "path": "incan_ruins/ir1C_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：なんであなたがこんな場所にいるのっ！あぶないじゃない！！",
+        "thammy": "Lillie: Why are YOU in a place like this...! Isn't it dangerous!?",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：ローラおばあさまからこの場所を聞きだして何時間も待ってたのよっ！",
+        "thammy": "Karen: I head about this place from Ms. Laura and waited for hours...!",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "もうおいていかれたのかと思ったわ。せめて行き先くらい言ってくれたっていいじゃない！",
+        "thammy": "Still, I had thought that you had left me behind and went on ahead! At least she told me roughly where you were going!",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "それにテムはイセキで何かをさがしてるんでしょう？",
+        "thammy": "Anyway, Tim, you're searching for something in the ruins, right?",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "テムががんばってるのにあたしだけ村でのんびりごはんなんか食べてられないわ。",
+        "thammy": "With Tim persevering like that, I can't be the only one in the village, happily eating my meals and stuff like that.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "あたしここでテムがもどってくるのを待ってる。",
+        "thammy": "I'm waiting here for you to come back.",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：やれやれ。これだものおじょうさまは…",
+        "thammy": "Lillie: Good grief. This little lady...",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "わかった。あたしもつきあってここで待ってる。それでいいんでしょ？",
+        "thammy": "I understand. I'll also wait along with you. That's okay, right?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_09CE01",
+    "path": "incan_ruins/ir1C_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：テム。長老様の言葉をよく思い出してね。",
+        "thammy": "Lillie: Tim. Remember the words of the Elder well.",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "「遺跡の地下のラライのガケにて神の息のとどかぬところへインカの神をおさめよ。",
+        "thammy": "\"In the cliff of Rarai beneath the ruins, offer the Incan gods at the place where the breath of the gods cannot reach.",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "谷風がその者を黄金船のもとへ導くであろう。」っていう言葉、ちゃんと覚えてる？",
+        "thammy": "The wind in the valley shall guide that person to the location of the Gold Ship\". Have you carefully memorized it?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_09CF59",
+    "path": "incan_ruins/ir1C_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：どう？さがしてるものは見つかった？がんばってね。",
+        "thammy": "Karen: What are you doing? Did you find what you're looking for? Stay strong.",
+        "tone": ""
+      }
+    ]
+  }
+]
+

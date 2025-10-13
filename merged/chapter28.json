@@ -1,0 +1,447 @@
+[
+  {
+    "name": "widestring_07E77E",
+    "path": "mountain_temple/mtA0_intro.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "ケレス山の山頂付近には不思議場な所広がっていた。",
+        "thammy": "A mysterious place extended from Mount Kehres' summit.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "ぼくの何倍もあるキノコが乱立し見たこともない植物のクキが入り乱れて走っている…",
+        "thammy": "I had never seen so many mushrooms crowded together, or plant stalks tangled together...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0398FC",
+    "path": "chunk_038000.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "キノコのしずくを使ってみることにした。",
+        "thammy": "Tried using the mushroom's droplets.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_039925",
+    "path": "chunk_038000.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "しかし何もおこらなかった！",
+        "thammy": "However, nothing happened!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08D4E3",
+    "path": "actors/jeweler_gem.asm",
+    "parts": [
+      {
+        "source": "Gem",
+        "japanese": "おっと集めた宝石が３０コを越えているじゃないかっ！リストの通りダークパワーをあげることにしよう。",
+        "thammy": "Whoops, the number of jewels you've collected have passed 30, haven't they...! Going by the list, I'll give you Dark Power.",
+        "tone": ""
+      },
+      {
+        "source": "Gem",
+        "japanese": "これは私がたましいからさずかった世にも不思議な力。",
+        "thammy": "This is a mysterious, otherworldly power that I will award you from my soul.",
+        "tone": ""
+      },
+      {
+        "source": "Gem",
+        "japanese": "何でもダークフライヤーのパワーが上がるらしいのだ。",
+        "thammy": "It seems that it will raise your Dark Power.",
+        "tone": ""
+      },
+      {
+        "source": "Gem",
+        "japanese": "自分の放ったダークフライヤーが飛んでいる間にもう一度こうげきボタンをおしてみるといい。",
+        "thammy": "You should try pushing the attack button one more time after firing your Dark Fryer.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_039935",
+    "path": "chunk_038000.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "クキのとぎれた場所にキノコのしずくをそそいだ！",
+        "thammy": "Poured the mushroom's droplets at the place where the stalk ends!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08E4A4",
+    "path": "actors/sE6_gaia.asm",
+    "parts": [
+      {
+        "source": "Gaia",
+        "japanese": "フリーダンの力オーラバリアは自分のまわりにオーラの板を回転させることができる。",
+        "thammy": "Thou canst make planks of aura revolve around thee by using Friedan's power, Aura Barrier.",
+        "tone": ""
+      },
+      {
+        "source": "Gaia",
+        "japanese": "山の聖域の敵は強い。この力を使うことでたたかいはだいぶ楽になるはずだ。",
+        "thammy": "The enemies in the mountain's holy grounds are strong. It should be significantly easier to fight using this power.",
+        "tone": ""
+      },
+      {
+        "source": "Gaia",
+        "japanese": "ヤミの力オーラバリアが使えるようになった！",
+        "thammy": "It seems you can now use the Power of Darkness, Aura Barrier!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08EDF2",
+    "path": "actors/sE6_gaia.asm",
+    "parts": [
+      {
+        "source": "Gaia",
+        "japanese": "オーラバリアはヤミの戦士フリーダンだけが使えるヤミのちから。",
+        "thammy": "Aura Barrier is a Power of Darkness that is only usable by Friedan, the Warrior of Darkness.",
+        "tone": ""
+      },
+      {
+        "source": "Gaia",
+        "japanese": "この力は自分のまわりにオーラでできたバリアをはることができる。",
+        "thammy": "Thou canst create a barrier composed of thy aura around thee with this power.",
+        "tone": ""
+      },
+      {
+        "source": "Gaia",
+        "japanese": "こうげきボタンで力をためLRをこうごにおすがよい…",
+        "thammy": "Thou shouldst push L and R alternatively while holding the attack button…",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_039861",
+    "path": "chunk_038000.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "ティアポットを使ってみることにした。",
+        "thammy": "Tried using the Tearpot.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_039880",
+    "path": "chunk_038000.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "しかし何もおこらなかった！",
+        "thammy": "However, nothing happened!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07D764",
+    "path": "euro/eu92_rofsky.asm",
+    "parts": [
+      {
+        "source": "Rofski",
+        "japanese": "ロフスキー：おおそれこそティアポット…実在するものであったのか…",
+        "thammy": "Rofski: Oh, that is definitely the Tearpot... It really exists, does it…?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07D8D2",
+    "path": "euro/eu92_erasquez.asm",
+    "parts": [
+      {
+        "source": "Elazquez",
+        "japanese": "エラスケス：町のいずこからかまものの気配がただよってくる…",
+        "thammy": "Elazquez: The presence of demons is the air in this town...",
+        "tone": ""
+      },
+      {
+        "source": "Elazquez",
+        "japanese": "わしはまものが町の人にすりかわっているような気がするんじゃよ。",
+        "thammy": "I feel that demons have switched places with some of the townspeople.",
+        "tone": ""
+      },
+      {
+        "source": "Elazquez",
+        "japanese": "それは広場の往来の人かもしれんしお前の友達かもしれんしわしかもしれん。",
+        "thammy": "It might be people travelling through the plaza, it might be your friend, it might be me.",
+        "tone": ""
+      },
+      {
+        "source": "Elazquez",
+        "japanese": "お前があやしいと思う人物にティアポットを使ってみるがよい。",
+        "thammy": "You should try to use the Tearpot on characters that you think are suspicious.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_039890",
+    "path": "chunk_038000.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "神のなみだがあたりにふりそそいだ！",
+        "thammy": "The tears of the gods showered down!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07E259",
+    "path": "euro/eu95_neils_father.asm",
+    "parts": [
+      {
+        "source": "Race of the Moon",
+        "japanese": "月の種族：クックククククク…もうじきこの世界もヤミにつつまれる。",
+        "thammy": "Race of the Moon: Mweheheheheheheh... Darkness will soon envelop this world, too.",
+        "tone": ""
+      },
+      {
+        "source": "Race of the Moon",
+        "japanese": "さっきの体の持ち主は礼拝堂の地下で骨となってねむっているよ。",
+        "thammy": "The owners of the bodies we were using a moment ago have become bones sleeping in the basement of the chapel.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07E3F4",
+    "path": "euro/eu95_neil.asm",
+    "parts": [
+      {
+        "source": "Neil",
+        "japanese": "ニール：………..",
+        "thammy": "Neil: …",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "しばらく家をはなれていてやっと親のありがたさがわかったというのに…",
+        "thammy": "Even though I understood how my parents had welcomed me after I had been separated from my family...",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "テム…悪いけどしばらく一人にしておいてくれ…",
+        "thammy": "Tim... It might be inconveniencing you, but could you leave me alone for a while…?",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "ニールはそう言うとうつむいてしまった…ぼくはこんなニールを見るのは初めてだった…",
+        "thammy": "Neil hung his head as spoke... It was the first time I had ever seen Neil like this...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07DC37",
+    "path": "euro/eu96_neil.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "そして翌朝。残念な出来事が待っていた…",
+        "thammy": "However, the next morning. Unfortunate news was waiting for us...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07DC63",
+    "path": "euro/eu96_neil.asm",
+    "parts": [
+      {
+        "source": "Neil",
+        "japanese": "ニール：おはよう。みんなには心配かけたな…",
+        "thammy": "Neil: Good morning. I guess I've caused everyone to worry...",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "一晩中考えたんだけどこの会社はやっぱりぼくがつがなきゃいけないと思うんだ。",
+        "thammy": "I've been thinking about it all night, but in the end I feel like this company can't continue unless I inherit it.",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "なんとかしてドレイ貿易をやめさせたいし、それにはまずドレイ貿易を始めた会社が動くべきだと思う…",
+        "thammy": "I want to do something to stop the slave trade; I was thinking that the company that first established that slave trade should work towards it...",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "人の不幸とひきかえにお金を手に入れたってしかたがないしね。",
+        "thammy": "I guess there's no way around exchanging human misery for money.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：じゃニールは社長になるわけね？すごおおおおい！！",
+        "thammy": "Karen: So, that must mean Neil's going to become the president of the company? Cooooool!!",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "ニール：えへへ。なんだか照れちゃうな。",
+        "thammy": "Neil: Hehe. I'm feeling kind of embarrassed for some reason.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07DD70",
+    "path": "euro/eu96_neil.asm",
+    "parts": [
+      {
+        "source": "Neil",
+        "japanese": "ニール：あそれからさカレン。君をたずねてきてる人がいるんだ。むかしの恋人だって話だぜ。",
+        "thammy": "Neil: Ah, and from that, Karen. There's a person who came to visit you. You've talked before about your old sweetheart.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：えっ！！！！！！！？",
+        "thammy": "Karen: Huh...!?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07DDBF",
+    "path": "euro/eu96_neil.asm",
+    "parts": [
+      {
+        "source": "Neil",
+        "japanese": "ニール：おーい入っておいでっ！",
+        "thammy": "Neil: Hey, come in...!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07DDD2",
+    "path": "euro/eu96_neil.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：ペギーっ！！！",
+        "thammy": "Karen: Peggy...!",
+        "tone": ""
+      },
+      {
+        "source": "Peggy",
+        "japanese": "ブヒブヒッ！！",
+        "thammy": "Squee squee...!",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "どうしたのっ？！元気だった？！",
+        "thammy": "How?! Was she okay?!",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "ニール：ははは。君を追っかけてはるばる旅してきたみたいだぜ。",
+        "thammy": "Neil: Hahaha. It seems like she was chasing after you all the way.",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "リリィが水上都市で発見して送って来たのさ。ローレックの配達便を使ってね。",
+        "thammy": "Lillie discovered her in the Floating City and sent her for us. You could call it Reuleck's delivery service.",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "ぼくが旅の仲間からぬけても力強い味方が増えたろ？",
+        "thammy": "Even though I'm no longer one of your travel companions, aren't you gaining even more powerful allies?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07DEAD",
+    "path": "euro/eu96_neil.asm",
+    "parts": [
+      {
+        "source": "Neil",
+        "japanese": "ニール：みんな元気です。",
+        "thammy": "Neil: Everyone's lively.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07DB09",
+    "path": "euro/eu96_erik.asm",
+    "parts": [
+      {
+        "source": "Eric",
+        "japanese": "エリック：女の子ってつくづくわかんないよ。",
+        "thammy": "Eric: I don't understand girls at all.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07DEF9",
+    "path": "euro/eu96_neil.asm",
+    "parts": [
+      {
+        "source": "Peggy",
+        "japanese": "ブヒブヒッ",
+        "thammy": "Squee squee...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07DA3D",
+    "path": "euro/eu96_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：ここから西に向かうとアンコールワットの遺跡があるらしいわ。",
+        "thammy": "Karen: It seems that if we head to the west of here, we'd reach the ruins of Angkor Wat.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "ちょうどそのあたりがドレイたちのこきょうにあたるみたい。",
+        "thammy": "It seems that the native land of the slaves is in exactly that same place.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "さあいってみましょ！！",
+        "thammy": "Alright, let's go check it out!",
+        "tone": ""
+      }
+    ]
+  }
+]
+

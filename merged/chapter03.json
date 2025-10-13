@@ -1,0 +1,739 @@
+[
+  {
+    "name": "widestring_04BE05",
+    "path": "south_cape/sc01_house_intro.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "海岸のどうくつを出るとあたりはすっかり夕やみに染まっていた。",
+        "thammy": "Around when I left the coastal cave, the sky had been completely painted by twilight.",
+        "claude": "When I left the coastal cave, the area around me had been completely painted by the evening dusk.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08D2D0",
+    "path": "actors/jeweler_gem.asm",
+    "parts": [
+      {
+        "source": "Gem",
+        "japanese": "おっと集めた宝石が３コを越えているじゃないかっ！リストの通り薬草をあげなくては。",
+        "thammy": "Whoops, the number of jewels you've collected have passed 3, haven't they...! Going by the list, I'll give you a Medicinal Herb.",
+        "claude": "Whoops, you have collected more than three jewels! According to the list, I must give you a Medicinal Herb.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08D31A",
+    "path": "actors/jeweler_gem.asm",
+    "parts": [
+      {
+        "source": "Gem",
+        "japanese": "宝石商から薬草をもらった！",
+        "thammy": "Received a Medicinal Herb from the jewel merchant!",
+        "claude": "Received a Medicinal Herb from the jewel merchant!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04A311",
+    "path": "south_cape/sc06_hamlet.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "ブタが部屋の中をあらしているっ！",
+        "thammy": "A pig is destroying the room...!",
+        "claude": "A pig is tearing up the room!",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "しかしなんでぼくの家にブタが…",
+        "thammy": "But why is there a pig in my house…?",
+        "claude": "But why is there a pig in my house…?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04A356",
+    "path": "south_cape/sc06_hamlet.asm",
+    "parts": [
+      {
+        "source": "Hamlet",
+        "japanese": "ブヒブヒッ",
+        "thammy": "Squee squee",
+        "claude": "Squee squee",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_049EB4",
+    "path": "south_cape/sc06_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：あらあらペギーちゃん。知らない人をいじめちゃダメよ。",
+        "thammy": "Karen: Oh my, Peggy. You shouldn't bully people you don't know.",
+        "claude": "Karen: Oh my, Peggy. You mustn't bully people you don't know.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "あなた、ここの家の子？",
+        "thammy": "You, are you a child that lives in this house?",
+        "claude": "Are you the child who lives in this house?",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：むっ…そうだけど？",
+        "thammy": "Tim: Yeah... That's right, but...?",
+        "claude": "Tim: Mm… Yeah, but…?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_049F09",
+    "path": "south_cape/sc06_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：なんだかさえない身なりね。",
+        "thammy": "Karen: The way you dress looks little drab, right?",
+        "claude": "Karen: Your clothes look rather drab.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：わるかったな！",
+        "thammy": "Tim: Well, my bad!",
+        "claude": "Tim: Sorry about that!",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：お父さまは？お母さまは？いないのね。",
+        "thammy": "Karen: Where is your father? Your mother? They're not here, right?",
+        "claude": "Karen: Your father? Your mother? They're not here, are they.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_049F71",
+    "path": "south_cape/sc06_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：この絵がご両親？",
+        "thammy": "Karen: Are these your parents in this picture?",
+        "claude": "Karen: Are these your parents in this picture?",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：そうだよ。父さんは探険に行って…",
+        "thammy": "Tim: That's right. Dad went on an expedition...",
+        "claude": "Tim: That's right. Dad went on an expedition…",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_049FBC",
+    "path": "south_cape/sc06_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：知ってるわよ。オールマン探検隊でしょ、そうなんしたのよね。",
+        "thammy": "Karen: I know. it was Allman's expedition team, right? There was an accident, right.",
+        "claude": "Karen: I know. It was Allman's expedition team, wasn't it? There was an accident.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：いつかきっと帰ってくるさ。",
+        "thammy": "Tim: He's definitely coming home someday.",
+        "claude": "Tim: He'll definitely come home someday.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：おこったの？…ちがうわね。",
+        "thammy": "Karen: Are you angry? …I got it wrong, huh.",
+        "claude": "Karen: Are you angry? …No, that's not it.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "悲しませたのね、あたしったら..ごめんなさい…",
+        "thammy": "I must have made you sad, that was stupid of me... I'm sorry...",
+        "claude": "I made you sad, didn't I… How foolish of me… I'm sorry…",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04A04C",
+    "path": "south_cape/sc06_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：ところでこの家、ピアノもないのね。",
+        "thammy": "Karen: In this house, there's no piano either, right?",
+        "claude": "Karen: By the way, this house doesn't even have a piano, does it.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：ないよっ、そんなもの！でも、ローラおばあちゃんはものすごく歌がうまいんだぞ。",
+        "thammy": "Tim: There isn't anything like that! But, Grandma Laura is an amazing singer.",
+        "claude": "Tim: We don't have anything like that! But Grandma Laura is an incredible singer.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：歌なら今２階で歌ってるわよ。二人とも声が大きいのなんの。",
+        "thammy": "Karen: Speaking of singing, they're singing on the second floor right now. The two of them have loud voices.",
+        "claude": "Karen: Speaking of singing, they're singing upstairs right now. Both of them have such loud voices.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04A0D2",
+    "path": "south_cape/sc06_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：歌なら今２階で歌ってるわよ。二人とも声が大きいのなんの。",
+        "thammy": "Karen: Speaking of singing, they're singing on the second floor right now. The two of them have loud voices.",
+        "claude": "Karen: Speaking of singing, they're singing upstairs right now. Both of them have such loud voices.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_049ABB",
+    "path": "south_cape/sc06_lola.asm",
+    "parts": [
+      {
+        "source": "Laura",
+        "japanese": "ローラ：おかえりテム。あたしったらオペラを歌ってたら時の立つのもわすれて…夕ごはんできてないのよ。",
+        "thammy": "Laura: Welcome home, Tim. Silly me, I suppose that when I sing opera, I forget what time it is... Dinner isn't ready.",
+        "claude": "Laura: Welcome home, Tim. Silly me, I got so caught up singing opera that I forgot the time… Dinner isn't ready.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0494B1",
+    "path": "south_cape/sc06_bill.asm",
+    "parts": [
+      {
+        "source": "Bill",
+        "japanese": "ビル：いやはや。久びさに大声で歌ったわい。",
+        "thammy": "Bill: Oh dear. It's been a while since I've sung so loudly.",
+        "claude": "Bill: Oh my. It's been a while since I sang so loudly.",
+        "tone": ""
+      },
+      {
+        "source": "Bill",
+        "japanese": "ローラばあさんはむかし酒場の歌ひめをやっとったんじゃ。",
+        "thammy": "Your Grandma Laura was once a singer for a bar.",
+        "claude": "Grandma Laura was once a songstress at a tavern.",
+        "tone": ""
+      },
+      {
+        "source": "Bill",
+        "japanese": "わしはばあさんの美しい声と心にほれプロポーズしたんじゃよ。ふぁっふぁっふぁっ。",
+        "thammy": "Your grandma's beautiful voice impressed itself onto my heart, so I proposed. Bwahahaha.",
+        "claude": "I fell in love with your grandma's beautiful voice and heart, and proposed to her. Bwahaha.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_049A3F",
+    "path": "south_cape/sc06_lola.asm",
+    "parts": [
+      {
+        "source": "Laura",
+        "japanese": "ローラ：おーほっほほほーっ。いやだねぇおまえさん！今ごろそんなことをもちだして。",
+        "thammy": "Laura: Ohohohoho. Stop it, dear! Bringing up that kind of thing now...",
+        "claude": "Laura: Ohohohoho. Oh, stop it, dear! Bringing that up now of all times.",
+        "tone": ""
+      },
+      {
+        "source": "Laura",
+        "japanese": "そうだ！テム聞いておどろいちゃいけないよ。",
+        "thammy": "That's right! Tim, you shouldn't be shocked.",
+        "claude": "Oh! Tim, don't be too surprised at what you're about to hear.",
+        "tone": ""
+      },
+      {
+        "source": "Laura",
+        "japanese": "さっきまでここでいっしょに歌っていた女の子はね…",
+        "thammy": "There was a girl here singing with us a while ago, right...?",
+        "claude": "The girl who was singing with us just a moment ago…",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04953E",
+    "path": "south_cape/sc06_bill.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "いやーーーーーーーーーっ！！！",
+        "thammy": "Noooooooooo...!!",
+        "claude": "Noooooooo!!!",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "一階から悲鳴がひびきわたった！",
+        "thammy": "A shriek echoed from the first floor!",
+        "claude": "A shriek echoed from downstairs!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04956D",
+    "path": "south_cape/sc06_bill.asm",
+    "parts": [
+      {
+        "source": "Bill",
+        "japanese": "ビル：さっきの子の悲鳴じゃっ！！",
+        "thammy": "Bill: That shriek was from that girl from a moment ago...!!",
+        "claude": "Bill: That was that girl's shriek!!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04A3BB",
+    "path": "south_cape/sc06_main_soldier.asm",
+    "parts": [
+      {
+        "source": "Soldier",
+        "japanese": "兵士：おひめさま。さがしましたよっ！",
+        "thammy": "Soldier: Your Royal Highness. We've been searching for you!",
+        "claude": "Soldier: Your Royal Highness. We have been searching for you!",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：あんた達なんか知らないわよっ。出てってよっ！",
+        "thammy": "Karen: I don't know anyone like you... I said leave...!",
+        "claude": "Karen: I don't know any of you! Get out!",
+        "tone": ""
+      },
+      {
+        "source": "Soldier",
+        "japanese": "兵士：何をおっしゃいます。ここで達れて帰らなかったら私の首がとびますっ。",
+        "thammy": "Soldier: What are you saying? If I don't bring you home, my head's going to roll.",
+        "claude": "Soldier: What are you saying? If I don't bring you back from here, my head will roll.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04A0D7",
+    "path": "south_cape/sc06_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：人ちがいでしょっ。あたしは花売り娘のポポンゴっていうのよ。",
+        "thammy": "Karen: I think you've got the wrong person. I'm a flower girl called Popongo.",
+        "claude": "Karen: You must have the wrong person. I'm a flower girl called Popongo.",
+        "tone": ""
+      },
+      {
+        "source": "Soldier",
+        "japanese": "兵士：おひめさま！そんな真っ赤なウソにだまされると思ってるんですかっ。",
+        "thammy": "Soldier: Your Highness! Do you think I can be tricked with that kind of red-faced lie...?",
+        "claude": "Soldier: Your Highness! Do you think I will be deceived by such a blatant lie?",
+        "tone": ""
+      },
+      {
+        "source": "Soldier",
+        "japanese": "これは国王のご命令なのです。力づくでも連れて帰りますよ！",
+        "thammy": "Ultimately, this is the king's order. We're bringing you home even if we have to do it by brute force!",
+        "claude": "This is the king's order. We will bring you back even if we must use force!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04A15A",
+    "path": "south_cape/sc06_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：ウソついてごめんね。あたしはエドワード城のカレン。",
+        "thammy": "Karen: I'm sorry for lying to you. I'm Karen of Edward Castle.",
+        "claude": "Karen: I'm sorry for lying. I'm Karen of Edward Castle.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "テムって言ったかしら？あなたとは初めて会うっていう気がしないのよね。なんだかいいお友達になれそう。",
+        "thammy": "Wasn't your name Tim? I don't feel like I'm meeting with you for the first time. For some reason, I think we can become good friends.",
+        "claude": "Your name was Tim, wasn't it? I don't feel like this is our first meeting. Somehow, I think we could become good friends.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04958A",
+    "path": "south_cape/sc06_bill.asm",
+    "parts": [
+      {
+        "source": "Bill",
+        "japanese": "ビル：まったくじょうだんの好きな娘じゃよ。ふぁっふぁっふぁっ。",
+        "thammy": "Bill: Jeez, she turned out to be a girl who likes jokes. Haw haw haw.",
+        "claude": "Bill: Well now, she's quite a girl who likes her jokes. Bwahaha.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_049B18",
+    "path": "south_cape/sc06_lola.asm",
+    "parts": [
+      {
+        "source": "Laura",
+        "japanese": "ローラ：エドワード城って言えば地下に広大な水路があってね。",
+        "thammy": "Laura: Speaking of Edward Castle, it has a giant aqueduct underground.",
+        "claude": "Laura: Speaking of Edward Castle, there's a vast aqueduct underground.",
+        "tone": ""
+      },
+      {
+        "source": "Bill",
+        "japanese": "その迷宮の水路を作ったのは何をかくそうこの人なんだよテム。",
+        "thammy": "I was the person who built that that labyrinthine aqueduct, Tim.",
+        "claude": "The person who built that labyrinthine aqueduct was none other than yours truly, Tim.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：ええっ！ほんとに？",
+        "thammy": "Tim: Wha...! Really?",
+        "claude": "Tim: What! Really?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0495C9",
+    "path": "south_cape/sc06_bill.asm",
+    "parts": [
+      {
+        "source": "Bill",
+        "japanese": "ビル：わしはむかし建築家じゃったからな。",
+        "thammy": "Bill: It was because I was an architect long ago.",
+        "claude": "Bill: I was an architect long ago, you see.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0495EB",
+    "path": "south_cape/sc06_bill.asm",
+    "parts": [
+      {
+        "source": "Bill",
+        "japanese": "あの城の地下にはろうやがあってな。",
+        "thammy": "There is a jail underneath that castle.",
+        "claude": "There is a jail beneath that castle.",
+        "tone": ""
+      },
+      {
+        "source": "Bill",
+        "japanese": "しゅうじんがかんたんにぬけ出せないよう複雑なしくみになっておるのじゃよ。",
+        "thammy": "It turned into a complex structure so that it wouldn't be easy for prisoners to escape.",
+        "claude": "It has a complex design so that prisoners cannot easily escape.",
+        "tone": ""
+      },
+      {
+        "source": "Bill",
+        "japanese": "しかしわしの作ったろうやで日々人がさばかれていくのは複雑な心境じゃな…",
+        "thammy": "However, the complicated feelings of the people of the people who are sent every day to the jail that I created…",
+        "claude": "However, I have complicated feelings about people being judged day after day in the jail that I built…",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_049B82",
+    "path": "south_cape/sc06_lola.asm",
+    "parts": [
+      {
+        "source": "Laura",
+        "japanese": "ローラ：さて。かた苦しい話はやめてそろそろ夕ごはんにしましょ。",
+        "thammy": "Laura: Well, with that painful story being over with, we can have dinner now.",
+        "claude": "Laura: Well then. Let's stop with the heavy talk and have dinner.",
+        "tone": ""
+      },
+      {
+        "source": "Laura",
+        "japanese": "おいしいパイをやいたからね。さあ二人とも二階でテーブルについていておくれ。",
+        "thammy": "I've baked a delicious pie, so. Come on both of you, we're late, so go with me to the second floor.",
+        "claude": "I've baked a delicious pie. Come now, both of you, sit down at the table upstairs.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_049685",
+    "path": "south_cape/sc06_bill.asm",
+    "parts": [
+      {
+        "source": "Bill",
+        "japanese": "ビル：なあテム。近ごろローラばあさんの料理っておかしなものばかりだと思わんか？",
+        "thammy": "Bill: Hey Tim. Don't you think Grandma Laura's only been cooking weird things lately?",
+        "claude": "Bill: Say, Tim. Don't you think Grandma Laura has only been cooking strange things lately?",
+        "tone": ""
+      },
+      {
+        "source": "Bill",
+        "japanese": "夕べはミソごはん。その前はサシミのカレーあえじゃ。食べるほうはたまらんわい…",
+        "thammy": "Last night was miso rice. Before that, sashimi curry. I can't stand eating like this...",
+        "claude": "Last night was miso rice. Before that, sashimi mixed with curry. For those of us eating it, it's unbearable…",
+        "tone": ""
+      },
+      {
+        "source": "Bill",
+        "japanese": "人は年老いてどうにもならん問題が身のまわりにあるとボケ始めると言うが、",
+        "thammy": "They say that when people have grown old and can't help but questions their own lives, they've started to go senile, but,",
+        "claude": "They say that when people grow old and have problems around them that they can't solve, they start to go senile, but",
+        "tone": ""
+      },
+      {
+        "source": "Bill",
+        "japanese": "ばあさんは何かわしらに言えないなやみをかかえとるんじゃなかろうか…",
+        "thammy": "somehow your grandma probably cannot bear the troubles we can't speak of...",
+        "claude": "I wonder if your grandma is carrying some worry that she can't tell us about…",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04A4CC",
+    "path": "south_cape/sc06_monologue.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：結局夕ごはんはホイップクリームのたっぷりのったミートパイだった…",
+        "thammy": "Tim: Ultimately, we had meat pies topped with lots of whipped cream for dinner...",
+        "claude": "Tim: In the end, dinner was meat pie topped with lots of whipped cream…",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "ボクは一切れしか食べなかったけどビルおじいちゃんはがんばって三切れも食べていた。",
+        "thammy": "I only ate one slice, but Grandpa Bill endured and even ate three slices.",
+        "claude": "I only ate one slice, but Grandpa Bill worked hard and ate three slices.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "そしてその夜ボクは夢を見た。カレンといっしょに世界中を旅している夢だった..",
+        "thammy": "Then, that night, I had a dream. A dream that I was going on a journey around the world with Karen..",
+        "claude": "That night, I had a dream. I was traveling around the world with Karen…",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04A582",
+    "path": "south_cape/sc06_monologue.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "そしてよく朝。たいへんな出来事が起ころうとしていた…",
+        "thammy": "Then, the next morning. A terrible affair was arising...",
+        "claude": "And then, the next morning. A terrible event was about to unfold…",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_049828",
+    "path": "south_cape/sc06_bill.asm",
+    "parts": [
+      {
+        "source": "Bill",
+        "japanese": "ビル：おはよう。今朝もローラばあさんのパイをたべさせられたよ…トホホ",
+        "thammy": "Bill: Good morning. This morning we had Grandma Laura's pie again... Ugh...",
+        "claude": "Bill: Good morning. This morning I had to eat Grandma Laura's pie again… Oh dear…",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_049BE5",
+    "path": "south_cape/sc06_lola.asm",
+    "parts": [
+      {
+        "source": "Laura",
+        "japanese": "ローラ：おはようテム。お前にエドワード国王から手紙が届いているよ。",
+        "thammy": "Laura: Good morning, Tim. A letter has arrived for you from King Edward.",
+        "claude": "Laura: Good morning, Tim. A letter has arrived for you from King Edward.",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "手紙にはこんなことが書かれていた。",
+        "thammy": "Something like this was written in the letter.",
+        "claude": "The letter said this:",
+        "tone": ""
+      },
+      {
+        "source": "Letter",
+        "japanese": "オールマンの所持品である水しょうの指輪をエドワード城まで持参されたし。 ／ 国王エドワード",
+        "thammy": "Bring the crystal ring from Allman's personal possessions to Edward castle. / King Edward",
+        "claude": "Bring the Crystal Ring from Allman's possessions to Edward Castle. / King Edward",
+        "tone": ""
+      },
+      {
+        "source": "Laura",
+        "japanese": "ローラ：この手紙を見たときからなんだか悪い虫がさわぐんだよ。",
+        "thammy": "Laura: From the moment I saw this letter, I've been ticked off somehow.",
+        "claude": "Laura: Ever since I saw this letter, I've had a bad feeling.",
+        "tone": ""
+      },
+      {
+        "source": "Laura",
+        "japanese": "そうだ。テム。おまじないを一つ教えておくわ。困ったときにこのメロディーをふけばきっとのりきれるからね。",
+        "thammy": "Ah, that's it! Tim. I'll teach you a good luck charm. If you whistle this when you're worried, you can definitely get through.",
+        "claude": "Laura: I know. Tim, let me teach you a charm. When you're in trouble, play this melody on your flute and you'll surely get through it.",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "ローラは不思議なメロディを口ずさんだ。",
+        "thammy": "Laura hummed a mysterious melody.",
+        "claude": "Laura hummed a mysterious melody.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_049D29",
+    "path": "south_cape/sc06_lola.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "それはすてきなメロディだった。",
+        "thammy": "That was a charming melody.",
+        "claude": "It was a lovely melody.",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "はじめて聞いたはずなのになんだかとってもなつかしい感じがした。",
+        "thammy": "Although I must have been hearing it for the first time, somehow I was experiencing a very nostalgic feeling.",
+        "claude": "Even though I should have been hearing it for the first time, somehow it felt very nostalgic.",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "ローラのメロディをおぼえた！",
+        "thammy": "You learned Laura's Melody!",
+        "claude": "Learned Laura's Melody!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_049D94",
+    "path": "south_cape/sc06_lola.asm",
+    "parts": [
+      {
+        "source": "Laura",
+        "japanese": "ローラ：気をつけていくんだよ。",
+        "thammy": "Laura: Go, and be careful.",
+        "claude": "Laura: Be careful now.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04977F",
+    "path": "south_cape/sc06_bill.asm",
+    "parts": [
+      {
+        "source": "Bill",
+        "japanese": "ビル：水しょうの指輪…うーむ聞いたこともないな。",
+        "thammy": "Bill: Crystal Ring... Uhh, I don't think I've even heard of that.",
+        "claude": "Bill: Crystal Ring… Hmm, I don't think I've ever heard of it.",
+        "tone": ""
+      },
+      {
+        "source": "Bill",
+        "japanese": "お前の父オールマンの残した荷物にもそんなものはなかったし…",
+        "thammy": "There wasn't anything like that in the luggage your dad, Allman, left behind, either...",
+        "claude": "There wasn't anything like that among your father Allman's belongings either…",
+        "tone": ""
+      },
+      {
+        "source": "Bill",
+        "japanese": "とにかくエドワード城へ行ってみたらどうじゃ？昨日のおひめ様にも会えるしの。ふぁっふぁっふぁっ。",
+        "thammy": "Anyhow, will you try to go to Edward castle? You may be able to meet the princess from yesterday. Bwahahaha.",
+        "claude": "In any case, why don't you go to Edward Castle? You'll be able to see yesterday's princess too. Bwahaha.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04B3DF",
+    "path": "south_cape/sc02_lance.asm",
+    "parts": [
+      {
+        "source": "Rob",
+        "japanese": "ロブ：今日教会の勉強も休みだし..何か面白いことねえかなあ。",
+        "thammy": "Rob: Today's a holiday from lessons at church too.. Guess there's nothin' interesting goin' on.",
+        "claude": "Rob: Today's a day off from lessons at church too… Wonder if there's anythin' interestin' goin' on.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_048612",
+    "path": "south_cape/sc01_guard.asm",
+    "parts": [
+      {
+        "source": "Guard",
+        "japanese": "えっ？エドワード国王に呼び出されて城へ行くって？じゃ気をつけていくんだよ。",
+        "thammy": "Huh? You say that King Edward summoned for you to go to the castle? Well, go and take care.",
+        "claude": "Huh? You've been summoned by King Edward to go to the castle? Well, be careful.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_048647",
+    "path": "south_cape/sc01_guard.asm",
+    "parts": [
+      {
+        "source": "Guard",
+        "japanese": "気をつけてな。",
+        "thammy": "Take care, huh?",
+        "claude": "Be careful.",
+        "tone": ""
+      }
+    ]
+  }
+]
+
+

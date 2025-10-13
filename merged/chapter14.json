@@ -1,0 +1,477 @@
+[
+  {
+    "name": "widestring_05F9DE",
+    "path": "diamond_mine/dm3E_intro.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：鉱山の中は不気味なまでに静まりかえっている。",
+        "thammy": "Tim: It had fallen to an eerie silence inside of the mine.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "どうくつのおくの方からときおり聞こえるドレイたちの悲鳴に背筋が寒くなった…",
+        "thammy": "But the screams of the slaves could sometimes be heard from the direction of the cave's depths, sending shivers down my spine…",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05D6BE",
+    "path": "diamond_mine/dm3F_elevator_sign.asm",
+    "parts": [
+      {
+        "source": "Sign",
+        "japanese": "（リフトのり場入り口）リフトにはそこのとびらより向かうこと。",
+        "thammy": "(Entrance to lift platform) Head to the gate there if you're going to the lift.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05D676",
+    "path": "diamond_mine/dm3F_elevator_door.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "このとびらにはカギ穴がひとつついているようだ。",
+        "thammy": "There seems to be one keyhole on this gate.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0AA97D",
+    "path": "diamond_mine/dm3F_laborer.asm",
+    "parts": [
+      {
+        "source": "Slave",
+        "japanese": "この鉱山には私もふくめて８人のドレイが働かされています。どうか助けてあげて下さい。",
+        "thammy": "Myself included, there are eight slaves working in this mine. Please save them somehow.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0AA791",
+    "path": "diamond_mine/dm3F_laborer.asm",
+    "parts": [
+      {
+        "source": "Slave",
+        "japanese": "ドレイ：お願いです！このくさりを切ってください！！",
+        "thammy": "Slave: I'm begging you! Please cut this chain!!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0AA874",
+    "path": "diamond_mine/dm3F_laborer.asm",
+    "parts": [
+      {
+        "source": "Slave",
+        "japanese": "助けてくれてありがとう。おれいにいいことを教える。",
+        "thammy": "Thank you for saving me. To show my thanks, I'll tell you something good.",
+        "tone": ""
+      },
+      {
+        "source": "Slave",
+        "japanese": "この鉱山にはかくされた部屋があってその入り口はカベと見分けがつきません。",
+        "thammy": "This mine has hidden rooms; their entrances aren't distinct from the walls.",
+        "tone": ""
+      },
+      {
+        "source": "Slave",
+        "japanese": "ですがカベのすきまからふきこむ風に気をくばれば見つけられるって話です。",
+        "thammy": "But a draft blows out of the cracks in the entrances; they say that if you can find them if you pay attention.",
+        "tone": ""
+      },
+      {
+        "source": "Slave",
+        "japanese": "もっともあなたのようなさらさらのカミならなびくからすぐわかるでしょうね。",
+        "thammy": "Although, with flowing hair like yours, you'll probably know immediately when it starts to flutter, huh?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05D819",
+    "path": "diamond_mine/dm40_trapped_slave.asm",
+    "parts": [
+      {
+        "source": "Slave",
+        "japanese": "ありがとうございます。落ばんで生きうめになっていたんです…",
+        "thammy": "Thank you very much. I was buried alive in a cave-in...",
+        "tone": ""
+      },
+      {
+        "source": "Slave",
+        "japanese": "もうちょっとおそかったらどうなっていたことか…",
+        "thammy": "How would it have turned out if you came just a bit later...",
+        "tone": ""
+      },
+      {
+        "source": "Slave",
+        "japanese": "私からのほんの気持ちをプレゼントさせてください。後で宝石商さんのところへ赤い宝石を３つ送っておきますね。",
+        "thammy": "Please take a modest present from me. I'll send 3 Red Jewel to Mr. Jewel Merchant's location later, okay?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08E1EE",
+    "path": "actors/sE6_gaia.asm",
+    "parts": [
+      {
+        "source": "Gaia",
+        "japanese": "私は生命のみなもとガイア。そなたにひとつ助言をあたえようと思う。",
+        "thammy": "I am the fountainhead of life, Gaia. I think that I will bestow upon thee one suggestion.",
+        "tone": ""
+      },
+      {
+        "source": "Gaia",
+        "japanese": "フリーダンの力ダークフライヤーはつるぎのとどかない場所にいる敵をたおすことができるのだ。",
+        "thammy": "Enemies that thy sword cannot reach can be defeated with Friedan's power, Dark Fryer.",
+        "tone": ""
+      },
+      {
+        "source": "Gaia",
+        "japanese": "敵をすべてたおしていけば必ず道はひらけるものだ。",
+        "thammy": "If thou defeat all enemies, the road can always be opened.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08ED6D",
+    "path": "actors/sE6_gaia.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "ヤミの力ダークフライヤーが使えるようになった！",
+        "thammy": "Became able to use the Power of Darkness, Dark Fryer!",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "ダークフライヤーはヤミの戦士フリーダンだけが使えるヤミのちから。",
+        "thammy": "Dark Fryer is a Power of Darkness that is only usable by Friedan, the Warrior of Darkness.",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "オーラのパワーを放ち遠くはなれた敵を焼きつくすことができるのだ。こうげきボタンで力をためて使うがよい…",
+        "thammy": "By shooting aura power, thou canst incinerate enemies that are far from thee. Thou canst charge up with the attack button...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0AA811",
+    "path": "diamond_mine/dm3F_laborer.asm",
+    "parts": [
+      {
+        "source": "Slave",
+        "japanese": "ダイヤモンド鉱山の深部にもはたらかされている人たちがいます。",
+        "thammy": "There are people who have been put to work even in the depths of the diamond mine.",
+        "tone": ""
+      },
+      {
+        "source": "Slave",
+        "japanese": "このカギを使ってどうか助けてあげて下さい。",
+        "thammy": "Please use this key and save them somehow.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0AA85C",
+    "path": "diamond_mine/dm3F_laborer.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "リフトのカギを手にいれた！",
+        "thammy": "Got the lift key!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05D696",
+    "path": "diamond_mine/dm3F_elevator_door.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "リフトのり場のカギを使った！",
+        "thammy": "Used the lift platform key!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05D593",
+    "path": "diamond_mine/dm44_cell_door.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "カギ穴が二つついているようだ。",
+        "thammy": "There seems to be two keyholes on this gate.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05D4EB",
+    "path": "diamond_mine/dm45_key.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "鉱山のカギを見つけた！",
+        "thammy": "Found the key to the mine!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0AA7B4",
+    "path": "diamond_mine/dm3F_laborer.asm",
+    "parts": [
+      {
+        "source": "Slave",
+        "japanese": "ドレイ：あありがとう！！このご恩は決して忘れませんよ。",
+        "thammy": "Slave: T-thank you!! I will never forget this favour.",
+        "tone": ""
+      },
+      {
+        "source": "Slave",
+        "japanese": "このカギをもっていって下さい。",
+        "thammy": "Please take this key.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0AA7EF",
+    "path": "diamond_mine/dm3F_laborer.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "鉱山のカギを手にいれた！",
+        "thammy": "Got a mine key!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05D5AC",
+    "path": "diamond_mine/dm44_cell_door.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "カギを二つとも開けないととびらは開きそうにないな…",
+        "thammy": "I guess the door most likely can't be opened if both the locks aren't both unlocked...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05D5D1",
+    "path": "diamond_mine/dm44_cell_door.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "カギは二つとももっている…カギ穴にさしこんでみますか？ ／ はい ／ いいえ",
+        "thammy": "You're holding both keys... Will you try inserting them into the keyholes? / Yes / No",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05D5FF",
+    "path": "diamond_mine/dm44_cell_door.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "カギが不気味な音をたててまわった。",
+        "thammy": "The keys made an eerie sound as they turned.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05D193",
+    "path": "diamond_mine/dm47_remus.asm",
+    "parts": [
+      {
+        "source": "Rehmuus",
+        "japanese": "レムス ／ どうかくさりを切って下さいっ！",
+        "thammy": "Rehmuus / Please cut the chain somehow...!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05D1AE",
+    "path": "diamond_mine/dm47_remus.asm",
+    "parts": [
+      {
+        "source": "Rehmuus",
+        "japanese": "レムス：ありがとう。ぼくらのこきょうの村は海をこえたはるか遠くの場所。",
+        "thammy": "Rehmuus: Thank you. We were born in a village from a distant, far away place across the ocean.",
+        "tone": ""
+      },
+      {
+        "source": "Rehmuus",
+        "japanese": "もしおとずれることがあったら村人たちの力になってあげてください。",
+        "thammy": "If you ever visit there, please help the villagers.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05D0C9",
+    "path": "diamond_mine/dm47_imas.asm",
+    "parts": [
+      {
+        "source": "Ihmuus",
+        "japanese": "イムス：どうかくさりを切って下さいっ！",
+        "thammy": "Ihmuus: Please cut the chain somehow...!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05D0E3",
+    "path": "diamond_mine/dm47_imas.asm",
+    "parts": [
+      {
+        "source": "Ihmuus",
+        "japanese": "イムス：ありがとう。ぼくらのこきょうでは生き物がみなおかしくなってきているんです。",
+        "thammy": "Ihmuus: Thank you. In the village where we were born, something strange is happening to all the animals.",
+        "tone": ""
+      },
+      {
+        "source": "Ihmuus",
+        "japanese": "石に変わってしまう人や原因不明の病気で死ぬ人も後をたちません…",
+        "thammy": "Afterward, we found that other strange things were happening; people turning to stone, even people dying from unknown diseases...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05D2C0",
+    "path": "diamond_mine/dm47_sam.asm",
+    "parts": [
+      {
+        "source": "Sahmuus",
+        "japanese": "サムス ／ どうかくさりを切って下さいっ！",
+        "thammy": "Sahmuus / Please cut the chain somehow...!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05D2DA",
+    "path": "diamond_mine/dm47_sam.asm",
+    "parts": [
+      {
+        "source": "Sahmuus",
+        "japanese": "サムス ／ ありがとう。",
+        "thammy": "Sahmuus / Thank you.",
+        "tone": ""
+      },
+      {
+        "source": "Sahmuus",
+        "japanese": "エリックくんから聞きましたがあなたたちの仲間がきおくそうしつになっているそうですね。",
+        "thammy": "I heard it from Eric; one of your companions is suffering from amnesia, right?",
+        "tone": ""
+      },
+      {
+        "source": "Sahmuus",
+        "japanese": "ぼくらの部族に伝わるむかしを思い出す歌があります。この歌を聞かせてあげて下さい。",
+        "thammy": "There is a song that has been passed down in our tribe since long ago which aids memory. Please listen this song.",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "サムスは不思議なメロディを口ずさんだ。",
+        "thammy": "Sahmuus hummed a mysterious melody.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05D40C",
+    "path": "diamond_mine/dm47_sam.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "思い出のメロディをおぼえた！",
+        "thammy": "Learned the Melody of Memories!",
+        "tone": ""
+      },
+      {
+        "source": "Sahmuus",
+        "japanese": "サムス：ひとつお願いがあるんですが…",
+        "thammy": "Sahmuus: I do have one request...",
+        "tone": ""
+      },
+      {
+        "source": "Sahmuus",
+        "japanese": "あなたと出会えた思い出にろうごくのカギと風のメロディをいただいていいですよね。",
+        "thammy": "I would gladly take the prison key so that I can remember meeting you.",
+        "tone": ""
+      },
+      {
+        "source": "Sahmuus",
+        "japanese": "きっと今後使うことはないはずですから。",
+        "thammy": "I expect that you probably won't be using it from now, after all.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05D377",
+    "path": "diamond_mine/dm47_sam.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "思い出のメロディをおぼえた！",
+        "thammy": "Learned the Melody of Memories!",
+        "tone": ""
+      },
+      {
+        "source": "Sahmuus",
+        "japanese": "サムス：ひとつお願いがあるんですが…",
+        "thammy": "Sahmuus: I do have one request...",
+        "tone": ""
+      },
+      {
+        "source": "Sahmuus",
+        "japanese": "あなたと出会えた思い出にろうごくのカギと風のメロディをいただいていいですよね。",
+        "thammy": "I would gladly take the prison key and Wind's Melody so that I can remember meeting you.",
+        "tone": ""
+      },
+      {
+        "source": "Sahmuus",
+        "japanese": "きっと今後使うことはないはずですから。",
+        "thammy": "I expect that you probably won't be using them from now, after all.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05D48E",
+    "path": "diamond_mine/dm47_sam.asm",
+    "parts": [
+      {
+        "source": "Sahmuus",
+        "japanese": "あなたのことは一生忘れませんよ。",
+        "thammy": "I won't forget you for my entire life.",
+        "tone": ""
+      }
+    ]
+  }
+]
+

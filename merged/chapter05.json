@@ -1,0 +1,772 @@
+[
+  {
+    "name": "widestring_04D42F",
+    "path": "edward_castle/ec0B_cell.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：なぜぼくはこんな目に会わなければならないのだろう。",
+        "thammy": "Tim: If I wasn't seeing it with my own eyes, I probably wouldn't believe it.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "そしてぼくはこれからどうなってしまうのだろう。",
+        "thammy": "I wonder what will become of me now.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "とにかくここからぬけ出す方法を考えなくては…。",
+        "thammy": "Anyhow, if I don't think of a way out of here...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04DBF1",
+    "path": "edward_castle/ec0B_ball.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：この鉄球にはだれかがつながれていたんだろうな…",
+        "thammy": "Tim: I guess someone was probably chained to this iron ball...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04DB62",
+    "path": "edward_castle/ec0B_moss.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：このコケは数え切れないほどのしゅうじんたちを見てきたんだろうな…",
+        "thammy": "Tim: This moss must have seen countless prisoners...",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "彼らもこのコケを心のささえにしてくらしていたのかもしれない…",
+        "thammy": "They might have gotten moral support from living with this moss too...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04DB2D",
+    "path": "edward_castle/ec0B_door.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：カギがかかっている…",
+        "thammy": "Tim: There's a lock here...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04D60A",
+    "path": "edward_castle/ec0B_cell.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "天井にあいた穴から兵士の低い声がひびく。",
+        "thammy": "A soldier's deep voice echoes from a hole opened in the ceiling.",
+        "tone": ""
+      },
+      {
+        "source": "Soldier",
+        "japanese": "今日の配給のパンだ。水はコケでもすするんだな。",
+        "thammy": "This is today's ration of bread. I guess that even moss drinks water.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04D37A",
+    "path": "edward_castle/ec0B_cell.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "テムはパンをちょっぴりかじってみた。",
+        "thammy": "Tim tried to nibble a bit of the bread.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "それはカチカチにかたまっていて今まで食べたどんな食べ物よりもおいしくなかった。",
+        "thammy": "It had become hard; it was the worst thing I had ever tasted until then.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "ローラおばあちゃんのパイがなぜかひどくなつかしく感じられた…",
+        "thammy": "I sorely missed Grandma Laura's pies for some reason...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04D679",
+    "path": "edward_castle/ec0B_cell.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "時がゆっくりと流れてゆきやがて長い長い一日が終った。",
+        "thammy": "Time flowed damningly slow; one long, long day ended.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "しゅうじんのやり場のない気持ちが痛いほどわかってしまう…。",
+        "thammy": "To a painful degree, I had come to understand that a prisoner has no emotional outlet….",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "ここをぬけだす方法も見つからぬままぼくは浅いねむりについた。",
+        "thammy": "At that time, still trying to find a way to escape, I fell into a light sleep.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04D732",
+    "path": "edward_castle/ec0B_cell.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "うつろな耳に笛からなつかしい声がひびく…",
+        "thammy": "From my flute, a voice I had longed to hear echoed through the silence that had filled my ears...",
+        "tone": ""
+      },
+      {
+        "source": "Flute",
+        "japanese": "笛：テム…。",
+        "thammy": "Flute: Tim…",
+        "tone": ""
+      },
+      {
+        "source": "Flute",
+        "japanese": "笛：わたしはおまえの父だ、テム。",
+        "thammy": "Flute: Tim, this is your father.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04D78A",
+    "path": "edward_castle/ec0B_cell.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：父さん…？",
+        "thammy": "Tim: Dad...?",
+        "tone": ""
+      },
+      {
+        "source": "Flute",
+        "japanese": "笛：大きくなったなあかわいいぼうずだったのに。",
+        "thammy": "Flute: I guess you're all grown up. Although you were a cute lad.",
+        "tone": ""
+      },
+      {
+        "source": "Flute",
+        "japanese": "ローラおばあちゃんのパイはおいしいかい？",
+        "thammy": "Are Grandma Laura's pies delicious?",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：父さん！どこにいるの？！",
+        "thammy": "Tim: Dad! Where are you?!",
+        "tone": ""
+      },
+      {
+        "source": "Flute",
+        "japanese": "笛：今は言えない…",
+        "thammy": "Flute: I can't tell you that now...",
+        "tone": ""
+      },
+      {
+        "source": "Flute",
+        "japanese": "おまえに一つたのみがある。聞いてくれるか？ ／ はい、お父さんのたのみなら ／ いやだ、ボクを見すてたくせに！",
+        "thammy": "I have something to ask of you. Will you listen to it for me? / Yes, since it's you, Dad / No, you abandoned me!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04D87D",
+    "path": "edward_castle/ec0B_cell.asm",
+    "parts": [
+      {
+        "source": "Flute",
+        "japanese": "笛：どうか、お父さんを手助けにきてほしい…。",
+        "thammy": "Flute: I want you to come to help me somehow…",
+        "tone": ""
+      },
+      {
+        "source": "Flute",
+        "japanese": "わたしもまえにこのろうやにつながれていたことがあるのだ。ほら左がわのカベを見なさい。",
+        "thammy": "I was also a prisoner here earlier. Hey, please look at the wall on the left side.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04D8D2",
+    "path": "edward_castle/ec0B_cell.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：…これは？",
+        "thammy": "Tim: ...What's this?",
+        "tone": ""
+      },
+      {
+        "source": "Flute",
+        "japanese": "笛：ビルおじいちゃんからなにか聞いてないかい？",
+        "thammy": "Flute: Did you not hear something from Grandpa Bill?",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：おじいちゃん？建築家だったんでしょ？..",
+        "thammy": "Tim: My grandpa? He was an architect, right..?",
+        "tone": ""
+      },
+      {
+        "source": "Flute",
+        "japanese": "笛：おじいちゃんはね、その石の秘密を知っているのだ。",
+        "thammy": "Flute: Your grandpa, he knew the secret of those stones.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：石のひみつ…？",
+        "thammy": "Tim: The stones' secret...?",
+        "tone": ""
+      },
+      {
+        "source": "Flute",
+        "japanese": "笛：おまえはこれから少しだけこわい目にあうことになるよ。",
+        "thammy": "Flute: The situations that you're going to face from now on are going on be a little bit scary.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：こわいこと…？",
+        "thammy": "Tim: Scary situations...?",
+        "tone": ""
+      },
+      {
+        "source": "Flute",
+        "japanese": "笛：敵が残した石を拾いなさい。そこにはすい星のちからがふくまれている。",
+        "thammy": "Flute: Pick up the stones left by the enemies. The power of the comet is contained in them.",
+        "tone": ""
+      },
+      {
+        "source": "Flute",
+        "japanese": "そのちからはきっとおまえに味方するだろう…",
+        "thammy": "That power will definitely be your ally...",
+        "tone": ""
+      },
+      {
+        "source": "Flute",
+        "japanese": "そして世界中の遺跡をめぐりミステリードールとよばれる人形をさがしなさい。",
+        "thammy": "Then, search for the puppets called \"Mystery Dolls\" which are hidden in the ruins spread around the world.",
+        "tone": ""
+      },
+      {
+        "source": "Flute",
+        "japanese": "すい星が近くなればなるほどまものの力は強くなる…",
+        "thammy": "The demons will become more powerful as the comet becomes closer…",
+        "tone": ""
+      },
+      {
+        "source": "Flute",
+        "japanese": "テム…時間がない…急ぐのだ…まずはインカの遺跡へ…",
+        "thammy": "Tim... There's no time... So hurry... First, to the Inca's ruins...",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "笛の声はだんだん小さくなりやがて聞こえなくなった。",
+        "thammy": "Sadly, the flute's voice gradually become quiet until it could no longer be heard.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04D4A5",
+    "path": "edward_castle/ec0B_cell.asm",
+    "parts": [
+      {
+        "source": "Pig",
+        "japanese": "ブーブー",
+        "thammy": "Squee squee!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04D4B1",
+    "path": "edward_castle/ec0B_cell.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：このブタはたしかカレンのペットだっけ…",
+        "thammy": "Tim: If my memory is right, this pig is Karen's pet...",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "おや？しっぽに手紙とカギがくくりつけてある…。",
+        "thammy": "Oh? A letter and key are tied in a bundle at its tail...",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "手紙はこんな内容だった。",
+        "thammy": "These were the contents of the letter.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "「テムがろうやに入れられたって聞いてビックリしちゃった。",
+        "thammy": "\"It surprised me that you were placed in the prison.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "お父様にくってかかったけどあたしの言うことなんかちっとも聞いてくれないの…。",
+        "thammy": "Father's gotten angry, but he doesn't listen, whatever I say…",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "あたしもうこんなところにいるのはいやっ。今夜城をぬけ出すことにする。",
+        "thammy": "I can't stand being here anymore... Tonight, I will escape the castle.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "テムもこれで自由になってねっ。」",
+        "thammy": "And from that, you will also be freed...\"",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04D5F4",
+    "path": "edward_castle/ec0B_cell.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "ろうごくのカギを手に入れた！",
+        "thammy": "Got the jail key!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_03861F",
+    "path": "chunk_038000.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "ろうごくのカギをさしこむとにぶい音とともに鉄のとびらが開いていった。",
+        "thammy": "When you inserted the key to the jail, the gate opened with a dull sound.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04DC5E",
+    "path": "edward_castle/ec0B_guard.asm",
+    "parts": [
+      {
+        "source": "Prisoner",
+        "japanese": "私は人の手助けは受けん。自分の力で出てみせる…",
+        "thammy": "I won't accept anyone's help. I'll show you that I can get out by my own power...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08DE96",
+    "path": "actors/sE6_gaia.asm",
+    "parts": [
+      {
+        "source": "Gaia",
+        "japanese": "私は生命のみなもとガイア。そなたにひとつ助言をあたえようと思う。",
+        "thammy": "I am the fountainhead of life, Gaia. I think that I shall bestow upon thee one suggestion.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08DED3",
+    "path": "actors/sE6_gaia.asm",
+    "parts": [
+      {
+        "source": "Gaia",
+        "japanese": "一定地域の敵をすべてたおすと能力の上がる宝石があらわれる。そなたはそれで強くなってゆく。",
+        "thammy": "When thou defeat all of the enemies in a set area, jewels that will increase thy abilities will appear. Thou willst become stronger with them.",
+        "tone": ""
+      },
+      {
+        "source": "Gaia",
+        "japanese": "敵の場所はスタートポタンをおせばわかるはず。まものはさがしだしてでも残さずたおしてゆくことだ…",
+        "thammy": "If thou press the start button, thou shouldst divine the location of the enemy. Use it when thou art searching for demons that remain undefeated...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04DCBD",
+    "path": "edward_castle/ec0C_force_hint.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：そうか…自分のいる地域の敵を全部たおすとこの宝石があらわれるんだな…",
+        "thammy": "Tim: Ah, that's right... I think when I defeat all of the enemies in the area I'm in, these jewels appear...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_09AA02",
+    "path": "edward_castle/ec0E_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "いたいっ！何するのよっ！！",
+        "thammy": "That hurts...! What are you doing...!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_09AA1B",
+    "path": "edward_castle/ec0E_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "早くこっちに来なさいよっ！まものにやられちゃうじゃないっ！",
+        "thammy": "Hurry, come this way...! You won't be hurt by the demons...!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0A89BF",
+    "path": "edward_castle/ec0F_rusty_switch.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "かたくておしこめないっ！さびついているようだな…",
+        "thammy": "I can't press it down very much...! It looks like it's rusted...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04DD20",
+    "path": "edward_castle/ec10_dp_hint_spirit.asm",
+    "parts": [
+      {
+        "source": "Spirit",
+        "japanese": "敵をたおしたときにあらわれる銀色にきらめくヤミの玉。",
+        "thammy": "A glittering silver ball of darkness that appears when enemies are defeated.",
+        "tone": ""
+      },
+      {
+        "source": "Spirit",
+        "japanese": "これを１００コ集めればいのちのもとが一つふえる…",
+        "thammy": "If you collect 100 of them, your Source of Life will increase by one...",
+        "tone": ""
+      },
+      {
+        "source": "Spirit",
+        "japanese": "たとえ敵にやられても遠くはなれた場所までもどることはなくなるのだ…",
+        "thammy": "Even if you are defeated by an enemy, you won't be sent very far...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_09BC51",
+    "path": "edward_castle/ec11_flower.asm",
+    "parts": [
+      {
+        "source": "Blooming Flower",
+        "japanese": "片すみにさく花：笛をふいてごらん…あのメロディをふいてごらん…",
+        "thammy": "Blooming Flower: Please play your flute... Please play that melody...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_038517",
+    "path": "chunk_038000.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "赤い宝石をかかげた！",
+        "thammy": "Raised the Red Jewel!",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "赤い宝石は宝石商ジェムのところへ一すじの光となって飛んでいった！",
+        "thammy": "The Red Jewel became a ray of light and flew to Gem, the jewel merchant's, location!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_038C76",
+    "path": "chunk_038000.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "ローラから教わったメロディーを静かにふきはじめた。",
+        "thammy": "He quietly started playing the melody that Laura had taught him.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_038CDB",
+    "path": "chunk_038000.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "ローラから教わったメロディーを静かにふきはじめた。",
+        "thammy": "He quietly started playing the melody that Laura had taught him.",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "しかし何も起こらなかった。",
+        "thammy": "But nothing happened.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_038D17",
+    "path": "chunk_038000.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "するとどこからともなく声が聞こえてきた…",
+        "thammy": "When it was done, a voice could suddenly be heard from somewhere...",
+        "tone": ""
+      },
+      {
+        "source": "Mysterious Voice",
+        "japanese": "不思議な声：右側にあるスイッチの前へいってちょうだい。",
+        "thammy": "Mysterious voice: Please go in front of the switch on the right side of the room.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_09BE70",
+    "path": "edward_castle/ec11_countdown.asm",
+    "parts": [
+      {
+        "source": "Mysterious Voice",
+        "japanese": "不思議な声：このスイッチはね２つ同時におさないとトビラが開かないの。",
+        "thammy": "Mysterious voice: The door won't open unless two people hit this switch at the same time.",
+        "tone": ""
+      },
+      {
+        "source": "Mysterious Voice",
+        "japanese": "あたしがかけ声をかけるからそれにあわせてスイッチをおしてね。",
+        "thammy": "Match the timing with my count and push the switch.",
+        "tone": ""
+      },
+      {
+        "source": "Mysterious Voice",
+        "japanese": "１２３のタイミングだからね。まちがえないでね。",
+        "thammy": "The timing will be 1-2-3, alright? Don't get it wrong.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_09BD58",
+    "path": "edward_castle/ec11_button_voice.asm",
+    "parts": [
+      {
+        "source": "Mysterious Voice",
+        "japanese": "ちょっとぉ！同時におさなきゃダメだって言ったでしょ！",
+        "thammy": "Hold on! Didn't I say we have to press them simultaneously?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_09BD92",
+    "path": "edward_castle/ec11_button_voice.asm",
+    "parts": [
+      {
+        "source": "Mysterious Voice",
+        "japanese": "やったぁ！トビラが開いたわよっ！",
+        "thammy": "Alright! The door opened...!",
+        "tone": ""
+      },
+      {
+        "source": "Mysterious Voice",
+        "japanese": "さあ先へ行って！",
+        "thammy": "Okay, go on ahead!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08DE4D",
+    "path": "actors/sE6_gaia.asm",
+    "parts": [
+      {
+        "source": "Gaia",
+        "japanese": "そなたはけがをしているようだな。目をつぶって静かにしているがよい。",
+        "thammy": "It seems that you're injured, huh. Come on, close your eyes and be still…",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08E98A",
+    "path": "actors/sE6_gaia.asm",
+    "parts": [
+      {
+        "source": "Gaia",
+        "japanese": "そなたの姿はかりの姿。となりにたたずむ石像の前に立ってみるがいい。",
+        "thammy": "Thy form is a temporary one. Thou shouldst try standing in front of the statue that is beside me.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08F157",
+    "path": "actors/sE6_gaia.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "テムの頭の中で、声がこだまする。",
+        "thammy": "A voice echoed inside of Tim's head.",
+        "tone": ""
+      },
+      {
+        "source": "Friedan",
+        "japanese": "テムよ。私はこの時がくるのをずっと待ち続けていた。",
+        "thammy": "O Tim. I have long been laying in wait for this time to come.",
+        "tone": ""
+      },
+      {
+        "source": "Friedan",
+        "japanese": "私の名はフリーダン。時をこえて生き続けるもの。",
+        "thammy": "My name is Friedan. I am something that exists beyond time.",
+        "tone": ""
+      },
+      {
+        "source": "Friedan",
+        "japanese": "今後テムの旅を手助けさせてもらうつもりだ。私のことは時がくれば自然とわかるであろう…",
+        "thammy": "From here on, I intend to assist on your journey. When the time for me has come, then by nature, you will know it ...",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "やがてテムの意識はだんだん遠のいていった…",
+        "thammy": "Tim's consciousness gradually receded...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_09C06C",
+    "path": "edward_castle/ec13_lily.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "敵の気配が消えテムの変身が解けてゆく…",
+        "thammy": "The presence of enemies disappeared; Tim's transformation is cleared away...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_09C0A8",
+    "path": "edward_castle/ec13_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "少女：見ーちゃった！しかしおっどろいた！あたしみたいに変身できる人がいるんだね。",
+        "thammy": "Girl: I saaaw you! But you surprised me! You're a person that can transform like me, huh.",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "あたしはリリィ。花の精に守られてくらすイトリー族の女の子。",
+        "thammy": "I'm Lillie. I'm a girl from the Itory clan, which is protected by flower fairies.",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "ところであなた…私たちにしか聞こえないメロディーをどうしてしってるの？",
+        "thammy": "Why do you know the melody that nobody but us has heard?",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：ローラおばあちゃんから教わったんだよ。本当に困ったときにふけって。",
+        "thammy": "Tim: I learned it from Grandma Laura. I play it when I'm really worried.",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：ローラおばあちゃんにはとんでもない味のパイをごちそうになった。",
+        "thammy": "Lillie: I had been treated to Grandma Laura's terrible tasting pies.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：おばあさんを知ってるの！？",
+        "thammy": "Tim: You know my Grandma!?",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：ウフフ…じつはローラにたのまれてあなたをたすけにきたんだもん！",
+        "thammy": "Lillie: Hehe... The truth is, Laura requested that I come save you!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_09C226",
+    "path": "edward_castle/ec13_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：あっ。長老さまが呼んでる…あたし行かなくちゃ。",
+        "thammy": "Lillie: Ah... The Elder is calling... I have to go.",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：あとできっとまた会えるわ。じゃあネ、テム！",
+        "thammy": "Lillie: We'll definitely meet again later. See you, Tim!",
+        "tone": ""
+      }
+    ]
+  }
+]
+
+

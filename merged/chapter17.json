@@ -1,0 +1,429 @@
+[
+  {
+    "name": "widestring_05E8F7",
+    "path": "nazca/na4B_neil.asm",
+    "parts": [
+      {
+        "source": "Neil",
+        "japanese": "ニール：遠い道のりだったけどみんなよくがんばったな。",
+        "thammy": "Neil: It was a long walk, but I think everyone held up well.",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "ここがナスカの地上絵の中で最も有名なコンドルの絵だよ。聞いたことくらいはあるだろう？",
+        "thammy": "This is the most famous image of the Nazca lines, the condor. You've at least heard of it, right?",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "古代人たちはいったい何のためにこんなものをえがいたのか今だにわかってないんだ。",
+        "thammy": "We still don't know why in the world the people of ancient times drew things like this.",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "まあ何にせよここへくるたびスケールのでかさにはあっとうされるよ。",
+        "thammy": "Well, anyhow. Even if you travel here, the scale of the area can overwhelm you.",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "まずはみんなも自分の足で歩いて見てくるといいさ。",
+        "thammy": "Before anything else, everyone may want take a look by themselves first.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05F0C8",
+    "path": "nazca/na4B_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：すごいよねえ。古代の人って。どうやって書いたんだろ…",
+        "thammy": "Lillie: Awesome, aren't they? The people from ancient times. How could they have drawn these…?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05EF2D",
+    "path": "nazca/na4B_lance.asm",
+    "parts": [
+      {
+        "source": "Rob",
+        "japanese": "ロブ：おれこないだまで毎日学校へかよって勉強したりあそんだりしてたんだよな。",
+        "thammy": "Rob: I suppose that until tha other day, I've been spendin' all o' my days doin' things like commutin' to and from school, studyin', and playin'.",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "自分がここにいることは夢なんじゃないかって思うことがあるよ…",
+        "thammy": "I couldn't even dream that I'd be here…",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05F278",
+    "path": "nazca/na4B_erik.asm",
+    "parts": [
+      {
+        "source": "Eric",
+        "japanese": "エリック：なんだかこわいや…ニールのそばにいよっと。",
+        "thammy": "Eric: I'm scared for some reason... I'll be close to Neil.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05E9F0",
+    "path": "nazca/na4B_neil.asm",
+    "parts": [
+      {
+        "source": "Neil",
+        "japanese": "ニール：はっはっは。そうあせらずみんなといっしょに見物しておいで。",
+        "thammy": "Neil: Ha ha ha. Don't rush like that. Go sightseeing with everyone first.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05EDA1",
+    "path": "nazca/na4B_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：なんだかこうしてみると運動会の白線みたい。",
+        "thammy": "Karen: If you look at it like this, it looks kind of like the white lines on a school playground on track and field day.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "案外古代ナスカ人たちはここで１００M走をやっていたりしてね。",
+        "thammy": "Surprisingly, the ancient Nazca people were doing the 100-meter dash here, weren't they?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05F0FE",
+    "path": "nazca/na4B_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：このところどころにころがっている石ってなんだか不自然じゃない？",
+        "thammy": "Lillie: Isn't it somehow natural how these stones are scattered around?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05EE15",
+    "path": "nazca/na4B_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：ここがちょうどコンドルのお腹のあたりよね。ほったら卵でも出てこないかな。",
+        "thammy": "Karen: This is exactly where the condor's stomach would be, isn't it? Don't you think that if you dig here, you'll find eggs or something like that?",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "じょじょうだんよ（笑）本気にしてさがしまわらないでよ。",
+        "thammy": "I-I'm joking. (Laughs) I'm not really going to search for them.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05F349",
+    "path": "nazca/na4B_spirit.asm",
+    "parts": [
+      {
+        "source": "Spirit",
+        "japanese": "クッククククク….",
+        "thammy": "Mweheheheheheh…",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05ED60",
+    "path": "nazca/na4B_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：こんな風に自然のキャンバスの上に思いっきりおっきい絵をかいたら気持ちいいんだろうなあ。",
+        "thammy": "Karen: It probably feels great to draw a huge picture on a natural canvas like this, being able to feel the wind, having nothing else to distract you.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05F29F",
+    "path": "nazca/na4B_erik.asm",
+    "parts": [
+      {
+        "source": "Eric",
+        "japanese": "エリック：何がおこるんだろう…ワクワクしちゃうなあ。",
+        "thammy": "Eric: What's going to happen…? I'm getting excited.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05F2C7",
+    "path": "nazca/na4B_erik.asm",
+    "parts": [
+      {
+        "source": "Eric",
+        "japanese": "エリック：何がおこるんだろう…ワクワクしちゃうなあ。",
+        "thammy": "Eric: What's going to happen…? I'm getting excited.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05EA25",
+    "path": "nazca/na4B_neil.asm",
+    "parts": [
+      {
+        "source": "Neil",
+        "japanese": "ニール：さーてみんなもどったところで本題に入ろう。",
+        "thammy": "Neil: Aaallright, now that everyone's back, let's get to the main question.",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "テムの言うミステリードールはこの平原のどこかにあるってわけだろ？",
+        "thammy": "The thing that Tim was calling a Mystery Doll is probably going to be somewhere in this plain, right?",
+        "tone": ""
+      },
+      {
+        "source": "Eric",
+        "japanese": "エリック：さっき地上絵を見てたとき思ったんだけど、",
+        "thammy": "Eric: The thought came to me when I was looking at the drawing on the ground just now;",
+        "tone": ""
+      },
+      {
+        "source": "Eric",
+        "japanese": "このコンドルの絵ってなんとなく白鳥の形に見えないかなあ？",
+        "thammy": "don't you think that you can kind of see the form of a swan in this condor image?",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "ニール：なるほどっ！それは気づかなかったっ！！",
+        "thammy": "Neil: That's it...! You've figured it out...!!",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "われわれはあの星のならびを白鳥にたとえているけどナスカの古代人たちにとってはコンドルだったのかもしれない…",
+        "thammy": "We've been comparing the arrangement of the stars in that constellation to a swan, but as far as the ancient people of Nazca were concerned, it might have been a condor.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05F148",
+    "path": "nazca/na4B_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：あーーーーーーーーーーっ！！わかったっ！！！！！",
+        "thammy": "Lillie: Aaaaaaaaaaah...!! I've got it...!!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05F160",
+    "path": "nazca/na4B_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "見て見てっ！この地面にある石の場所っ！！",
+        "thammy": "Look, look...! The location of the stones on the surface of the ground...!!",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "これってぜったい白鳥座の星の位置だよお！",
+        "thammy": "They're definitely in the positions of the stars in the constellation of Cygnus...!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05EB2E",
+    "path": "nazca/na4B_neil.asm",
+    "parts": [
+      {
+        "source": "Neil",
+        "japanese": "ニール：なるほどっ！白鳥座の星の数は９コ。石の数もたしかに９コだ…",
+        "thammy": "Neil: That's it...! There are nine stars in the constellation of Cygnus, and there are also nine stones...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05EB94",
+    "path": "nazca/na4B_neil.asm",
+    "parts": [
+      {
+        "source": "Neil",
+        "japanese": "すると最近見え始めたっていう赤い星の場所は…？",
+        "thammy": "In that case, where would the red star that we've started seeing recently be...?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05EBE5",
+    "path": "nazca/na4B_neil.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：いやまてよ。白鳥座の下の方だったはずだ…",
+        "thammy": "Tim: No, wait. It should be underneath the constellation of Cygnus...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05EC0E",
+    "path": "nazca/na4B_neil.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：そうだっ！ちょうど左足の関節のあたりだ！",
+        "thammy": "Tim: That's it...! It would be right in the joint of the left leg!",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "ニール：よしっ！その左足の部分を調べてみよう！",
+        "thammy": "Neil: Alright...! Let's try to examine that part of the left leg!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05F1C3",
+    "path": "nazca/na4B_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：星座の中にナゾがかくされてるなんてなんだかロマンチックだね。",
+        "thammy": "Lillie: A mystery hidden in a constellation; it's really romantic somehow, isn't it?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05EF98",
+    "path": "nazca/na4B_lance.asm",
+    "parts": [
+      {
+        "source": "Rob",
+        "japanese": "ロブ：今まで探険家や考古学者たちがとけなかったナゾをおれたちが今あかそうとしてるんだよな..",
+        "thammy": "Rob: I wonder if we're now revealin' a mystery that hasn't been solved yet by explorers and archaeologists..",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05EE7C",
+    "path": "nazca/na4B_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：こんなにドキドキするようなことをたいけんできるなんて…",
+        "thammy": "Karen: My heart is pounding at being able to experience something like this...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05EC5B",
+    "path": "nazca/na4B_neil.asm",
+    "parts": [
+      {
+        "source": "Neil",
+        "japanese": "ニール：たまにはこういうのもいいな。発明してるときみたいにドキドキするよ。",
+        "thammy": "Neil: I think things like this are nice on occasion. My heart is pounding like when I'm inventing.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05E6C0",
+    "path": "nazca/na4B_buried_tile.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "砂のなかに何かタイルのようなものがうまっている…",
+        "thammy": "Something like a tile is buried in the sand...",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "テムのフエがふれたとたん何かごうおんがとどろきはじめた！",
+        "thammy": "As Tim's flute touched it, something started to roar!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05E721",
+    "path": "nazca/na4B_buried_tile.asm",
+    "parts": [
+      {
+        "source": "Neil",
+        "japanese": "ニール：テムっ！まだ調べるな！何があるかわからないぞっ！！",
+        "thammy": "Neil: Tim...! Don't investigate it yet! We don't know whether there's something there...!!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05E753",
+    "path": "nazca/na4B_buried_tile.asm",
+    "parts": [
+      {
+        "source": "Eric",
+        "japanese": "エリック：わあっ！上から何かでっかいものがおりてくるようっ！！！",
+        "thammy": "Eric: Wah...! It looks like something huge is descending from above us...!!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05E774",
+    "path": "nazca/na4B_buried_tile.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：きゃあっ！テムっ！！テムーーーーーーーーーーっ！！！",
+        "thammy": "Karen: Aah...! Tim...!! Tiiiiiiiiiiim...!!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05E811",
+    "path": "nazca/na4B_buried_tile.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：ナスカ平原は広いらしいしあまり遠くへ行かないほうがいいな…",
+        "thammy": "Tim: Since the Nazca plain seems to be wide, I guess I shouldn't go very far...",
+        "tone": ""
+      }
+    ]
+  }
+]
+

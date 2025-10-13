@@ -1,0 +1,714 @@
+[
+  {
+    "name": "widestring_08C259",
+    "path": "pyramid/pyCD_explorer.asm",
+    "parts": [
+      {
+        "source": "Explorer",
+        "japanese": "探険家：遺跡には人の進入をこばもうとするトラップが点在する。",
+        "thammy": "Explorer: Traps are scattered through the ruins to prevent people from entering.",
+        "tone": ""
+      },
+      {
+        "source": "Explorer",
+        "japanese": "この部屋には音に反応するしかけがあるという話だ…まちがっても大きな音をたてるな。",
+        "thammy": "There's a story that says this room has a mechanism that reacts to sound... Don't make any loud noises, even by mistake.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08F4B1",
+    "path": "actors/sE6_gaia.asm",
+    "parts": [
+      {
+        "source": "Shadow",
+        "japanese": "頭の中で声がこだまする。",
+        "thammy": "A voice echoes in your head.",
+        "tone": ""
+      },
+      {
+        "source": "Shadow",
+        "japanese": "私はこの時がくるのをずっと待ち続けていた。",
+        "thammy": "I have been waiting all of this time for this moment to come.",
+        "tone": ""
+      },
+      {
+        "source": "Shadow",
+        "japanese": "私こそすい星の光を使って作り出された究極の戦士シャドウ。",
+        "thammy": "Make no mistake. I am Shadow; the ultimate warrior, produced by the comet's light.",
+        "tone": ""
+      },
+      {
+        "source": "Shadow",
+        "japanese": "私の体には形がない…人の意識だけが進化するとこの体になると思えばいい。",
+        "thammy": "My body is formless... You may think of it as what a human becomes when only their consciousness evolves.",
+        "tone": ""
+      },
+      {
+        "source": "Shadow",
+        "japanese": "今地球に近づいているすい星も形をもたない意識体。",
+        "thammy": "The comet that is now nearing the Earth is also a formless body of pure consciousness.",
+        "tone": ""
+      },
+      {
+        "source": "Shadow",
+        "japanese": "はめつをもたらすすい星に立ち向かえるのはこの私の体だけであろう。",
+        "thammy": "Only my body can oppose the destruction-bringing comet.",
+        "tone": ""
+      },
+      {
+        "source": "Shadow",
+        "japanese": "さあ目を閉じるがいい…",
+        "thammy": "Well, you should close your eyes...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08E66C",
+    "path": "actors/sE6_gaia.asm",
+    "parts": [
+      {
+        "source": "Gaia",
+        "japanese": "私は生命のみなもとガイア。そなたのヤミの力はアンコールワットの寺院にてさらに強いものとなった。",
+        "thammy": "I am the fountainhead of life, Gaia. Thy Power of Darkness has grown even stronger since thou wert at the temple of Angkor Wat.",
+        "tone": ""
+      },
+      {
+        "source": "Gaia",
+        "japanese": "右がわの石像の前に立てばさらに強力なヤミの戦士シャドウへとその姿を変えることができよう。",
+        "thammy": "Shouldst thou stand in front of the statue to the right, thou canst change into Shadow, a more powerful Warrior of Darkness.",
+        "tone": ""
+      },
+      {
+        "source": "Gaia",
+        "japanese": "そして私はそなたにアイテムをひとつあたえたいと思う。",
+        "thammy": "Thus, I want to bestow an item upon thee.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08E7E7",
+    "path": "actors/sE6_gaia.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "オーラの玉を手に入れた！",
+        "thammy": "Got the Ball of Aura!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08E722",
+    "path": "actors/sE6_gaia.asm",
+    "parts": [
+      {
+        "source": "Gaia",
+        "japanese": "オーラのたまはシャドウの心。シャドウがこれをかかげるとその体は水のように変化する。",
+        "thammy": "The Ball of Aura is Shadow's heart. Shadow's body changes to be like water if they raise it.",
+        "tone": ""
+      },
+      {
+        "source": "Gaia",
+        "japanese": "現在知られているピラミッドは地表のほんの一部分。そのほとんどは地下にねむっているのだ。",
+        "thammy": "The Pyramid as it is now known, the Pyramid as seen on the surface, is in reality only one part of the whole. Most of it is sleeping underground.",
+        "tone": ""
+      },
+      {
+        "source": "Gaia",
+        "japanese": "さあシャドウへと姿を変え地下へ進むがよい。",
+        "thammy": "Well, thou shouldst transform into Shadow and head underground.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08B70D",
+    "path": "pyramid/pyCC_entrance_portal.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "青い光の中にはピラミッドの入口がぼんやりと写っている… ／ やめておく ／ 中に飛びこむ",
+        "thammy": "The Pyramid's entrance is vaguely reflected in the blue light... / Leave it be / Jump inside",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08B74B",
+    "path": "pyramid/pyCC_entrance_portal.asm",
+    "parts": []
+  },
+  {
+    "name": "widestring_08C7C9",
+    "path": "pyramid/pyDA_lithograph1.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "かべにおさめられた石版がある。これがダオの町で聞いたヒエログリフという文字か..？",
+        "thammy": "An engraved slate is stored in the wall. Is this the form of writing called \"hieroglyph\" that I heard of in Dao..?",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "この石版ははずしてもっていくことにしよう。",
+        "thammy": "You removed the engraved slate and took it with you.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08C831",
+    "path": "pyramid/pyDA_lithograph1.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "ヒエログリフの石版を手に入れた！",
+        "thammy": "Got the engraved hieroglyphic slate!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08C88C",
+    "path": "pyramid/pyDA_lithograph2.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "かべにおさめられた石版がある。これがダオの町で聞いたヒエログリフという文字か..？",
+        "thammy": "An engraved slate is stored in the wall. Is this the form of writing called \"hieroglyph\" that I heard of in Dao..?",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "この石版ははずしてもっていくことにしよう。",
+        "thammy": "You removed the engraved slate and took it with you.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08C934",
+    "path": "pyramid/pyDA_lithograph3.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "かべにおさめられた石版がある。これがダオの町で聞いたヒエログリフという文字か..？",
+        "thammy": "An engraved slate is stored in the wall. Is this the form of writing called \"hieroglyph\" that I heard of in Dao..?",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "この石版ははずしてもっていくことにしよう。",
+        "thammy": "You removed the engraved slate and took it with you.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08C9DC",
+    "path": "pyramid/pyDA_lithograph4.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "かべにおさめられた石版がある。これがダオの町で聞いたヒエログリフという文字か..？",
+        "thammy": "An engraved slate is stored in the wall. Is this the form of writing called \"hieroglyph\" that I heard of in Dao..?",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "この石版ははずしてもっていくことにしよう。",
+        "thammy": "You removed the engraved slate and took it with you.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08CA84",
+    "path": "pyramid/pyDA_lithograph5.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "かべにおさめられた石版がある。これがダオの町で聞いたヒエログリフという文字か..？",
+        "thammy": "An engraved slate is stored in the wall. Is this the form of writing called \"hieroglyph\" that I heard of in Dao..?",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "この石版ははずしてもっていくことにしよう。",
+        "thammy": "You removed the engraved slate and took it with you.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08CB2C",
+    "path": "pyramid/pyDA_lithograph6.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "かべにおさめられた石版がある。これがダオの町で聞いたヒエログリフという文字か..？",
+        "thammy": "An engraved slate is stored in the wall. Is this the form of writing called \"hieroglyph\" that I heard of in Dao..?",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "この石版ははずしてもっていくことにしよう。",
+        "thammy": "You removed the engraved slate and took it with you.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_039C8B",
+    "path": "chunk_038000.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "ヒエログリフ板をはめこむ場所がない…",
+        "thammy": "There's no place to insert the hieroglyph slate...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08BA11",
+    "path": "pyramid/pyCD_jackal.asm",
+    "parts": [
+      {
+        "source": "Jackal",
+        "japanese": "おとなしくそこから左へ向かって歩けっ！！",
+        "thammy": "Be a good boy and stand to the left..!!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08BA36",
+    "path": "pyramid/pyCD_jackal.asm",
+    "parts": [
+      {
+        "source": "Jackal",
+        "japanese": "左へ向かって歩けと言っているんだっ！！",
+        "thammy": "I said, stand to the left..!!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08BA5A",
+    "path": "pyramid/pyCD_jackal.asm",
+    "parts": [
+      {
+        "source": "Jackal",
+        "japanese": "ようしそれでいい。そのままじっとしていろっ！！",
+        "thammy": "Alright, that's good. Stay still just like that...!!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08BA7D",
+    "path": "pyramid/pyCD_jackal.asm",
+    "parts": [
+      {
+        "source": "Black Panther",
+        "japanese": "ブラックパンサー：お前さんの行動の一部始終を見せてもらったよ。",
+        "thammy": "Black Panther: You, sir, have been showing me everything you've done from start to finish.",
+        "tone": ""
+      },
+      {
+        "source": "Black Panther",
+        "japanese": "何千年も前にすい星の光を使ったバイオ技術があったと聞くが…まさかお前がそうだとはな。",
+        "thammy": "I hear that you have biotechnology from millennia ago that uses the light of the comet... You're something unbelievable, aren't you?",
+        "tone": ""
+      },
+      {
+        "source": "Black Panther",
+        "japanese": "その変身の力をもてばどんなものでも手に入る。そしてどんな人間でもひれふすだろう。",
+        "thammy": "You could get whatever you wanted if you had that shapeshifting power. Humans would kneel before you.",
+        "tone": ""
+      },
+      {
+        "source": "Black Panther",
+        "japanese": "エドワード国王がやっきになって動くのも無理はない…",
+        "thammy": "Even if King Edward started to act out of desperation, it's not without reason...",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：お父さまがそんなことを？！",
+        "thammy": "Karen: Father's behind this?!",
+        "tone": ""
+      },
+      {
+        "source": "Black Panther",
+        "japanese": "ブラックパンサー：そうだ！国王なんてしょせんそんなもんさ。",
+        "thammy": "Black Panther: That's right! It's the king behind it in the end.",
+        "tone": ""
+      },
+      {
+        "source": "Black Panther",
+        "japanese": "力を手に入れるためには手段をえらばない。",
+        "thammy": "He'll use any means necessary to gain power.",
+        "tone": ""
+      },
+      {
+        "source": "Black Panther",
+        "japanese": "ひょっとするとおれのような殺し屋よりもざんこくかもな。くっくっく。",
+        "thammy": "Maybe he's even crueler than an assassin like me. Mweheheh.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：やめてよっ！そんな話！！",
+        "thammy": "Karen: Stop it...! Don't say that kind of thing!!",
+        "tone": ""
+      },
+      {
+        "source": "Black Panther",
+        "japanese": "ブラックパンサー：まあどちらにしろおれは金がもらえればそれでいいのさ。",
+        "thammy": "Black Panther: Well, whatever he does, I'm fine as long as I get paid.",
+        "tone": ""
+      },
+      {
+        "source": "Black Panther",
+        "japanese": "さあいっしょにエドワード城まできてもらおうか。",
+        "thammy": "Now, if you'll come to Edward Castle with me.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08BC55",
+    "path": "pyramid/pyCD_jackal.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "テムの頭の中で声がささやく…",
+        "thammy": "A voice whispers in Tim's head...",
+        "tone": ""
+      },
+      {
+        "source": "Voice",
+        "japanese": "テム…笛を吹くんだ..テム…",
+        "thammy": "Tim... Play the flute... Tim...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08BCBC",
+    "path": "pyramid/pyCD_jackal.asm",
+    "parts": [
+      {
+        "source": "Black Panther",
+        "japanese": "ブラックパンサー：それ以上前へ出るとこのナイフが動きだすぜ…",
+        "thammy": "Black Panther: If you go any further than that, this knife here is going to move...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08BC9F",
+    "path": "pyramid/pyCD_jackal.asm",
+    "parts": []
+  },
+  {
+    "name": "widestring_08BCF2",
+    "path": "pyramid/pyCD_jackal.asm",
+    "parts": [
+      {
+        "source": "Black Panther",
+        "japanese": "ブラックパンサー：うおああああああああ！！！！！！",
+        "thammy": "Black Panther: Uwhaaaaaaaagh!!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08BD16",
+    "path": "pyramid/pyCD_jackal.asm",
+    "parts": [
+      {
+        "source": "Jackal",
+        "japanese": "カレン…カレ….",
+        "thammy": "Karen... Kare...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08BE66",
+    "path": "pyramid/pyCD_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：テム….",
+        "thammy": "Karen: Tim…",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "なんでみんな殺しあわなくちゃならないの..？",
+        "thammy": "Why can't everyone help but kill each other..?",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "あたし…もう…",
+        "thammy": "I... Still...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08BEA9",
+    "path": "pyramid/pyCD_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：ごめんなさい…とりみだしちゃって…",
+        "thammy": "Karen: I'm sorry... I lost my composure...",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "テムは世界を救うためにがんばっているんだもんね。",
+        "thammy": "I'm persevering so that you can save the world, you know?",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "最初旅にでたときはお父さんをさがしにいくはずだったのに…",
+        "thammy": "Although Dad must have been searching for me when I started out on this journey...",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "何だかたいへんなことになってきちゃったわよね…",
+        "thammy": "Somehow things have become terrible, haven't they...",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "でもあたし。この旅についてきたことをこうかいしてないよ。",
+        "thammy": "But, as for me, I'm not regretting coming along on this journey.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "さあ行ってきて。５つ目のミステリードールをさがしに….",
+        "thammy": "Well, I'll see you later. Search for the 5th Mystery Doll…",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08BF8F",
+    "path": "pyramid/pyCD_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "さっきのテムの吹いたメロディがブラックパンサーのそう送曲になったのね…",
+        "thammy": "The song that you played just now turned out to be Black Panther's funeral dirge, didn't it...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_039BA5",
+    "path": "chunk_038000.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "タイルがはまりそうなくぼみが６つならんでいる。",
+        "thammy": "There are 6 indentations that seem like tiles could fit in.",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "どこにはめますか？ ／ 左から１番目 ／ 左から２番目 ／ 左から３番目 ／ 左から４番目 ／ 左から５番目 ／ 左から６番目",
+        "thammy": "Where will you insert it? / 1st from the left / 2nd from the left / 3rd from the left / 4th from the left / 5th from the left / 6th from the left",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_039C39",
+    "path": "chunk_038000.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "ヒエログリフ板をくぼみにはめた！",
+        "thammy": "Inserted the hieroglyph slate into the indentation!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08CCC4",
+    "path": "pyramid/pyCD_puzzle.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "何もおこらない…ならべ方をまちがえたんだろうか？もう一度最初からやってみよう。",
+        "thammy": "Nothing happened... Could you have made a mistake with the arrangement? Try doing it once more from the beginning.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08CD0B",
+    "path": "pyramid/pyCD_puzzle.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "むっ…入口の向こうで何か音がしたぞ！",
+        "thammy": "Wow... Some kind of sound came from just past the entrance!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08CDDA",
+    "path": "pyramid/pyCC_portal.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "青い光の中にはミイラ化したピラミッドの女王が写っている.. ／ やめておく ／ 中に飛びこむ",
+        "thammy": "The mummified queen of the Pyramid is projected in the blue light.. / Leave it alone / Jump inside",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08CE10",
+    "path": "pyramid/pyCC_portal.asm",
+    "parts": []
+  },
+  {
+    "name": "widestring_08CE60",
+    "path": "pyramid/pyDD_mystic_statue.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "ピラミッドの守り神をたおすとしかばねからミステリードールが見つかった！！",
+        "thammy": "After you defeated the Pyramid's guardian god, you found a Mystery Doll from their corpse!!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08BFC7",
+    "path": "pyramid/pyCD_kara.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "笛から声が聞こえてきた！エドワード城のろうやで聞いた声と同じだった…",
+        "thammy": "You could hear a voice from your flute! It was the same voice that you heard at Edward Castle's prison...",
+        "tone": ""
+      },
+      {
+        "source": "Flute",
+        "japanese": "笛：これまでよくがんばったね。テム。",
+        "thammy": "Flute: You've managed to stay strong, haven't you, Tim.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：とうさん？！",
+        "thammy": "Tim: Dad?!",
+        "tone": ""
+      },
+      {
+        "source": "Flute",
+        "japanese": "私は今バベルの塔にいる。５つのミステリードールをもってバベルの塔へきなさい。",
+        "thammy": "I'm now at the Tower of Babel. Please take the five Mystery Dolls and come here.",
+        "tone": ""
+      },
+      {
+        "source": "Flute",
+        "japanese": "お前がこれまで集めてきた人形は人類存亡のカギをにぎっている。",
+        "thammy": "The puppets that you had collected until now are holding the key to the fate of mankind; whether humanity lives or dies.",
+        "tone": ""
+      },
+      {
+        "source": "Flute",
+        "japanese": "すい星が近づいている…テム..はやくはや.く…",
+        "thammy": "The comet is approaching... Tim... Hurry, hurr. y...",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "やがて笛の声は遠くなってゆき聞こえなくなった…",
+        "thammy": "The flute's voice ultimately faded away until it could no long be heard...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08C127",
+    "path": "pyramid/pyCD_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：あたしたちの知らないところで何かたいへんなことが起きているみたいね….",
+        "thammy": "Karen: It seems like something terrible is happening at a place we don't know, huh…",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：どうしよう…いきなりバベルの塔へこいっていわれてもあそこは大海原の小さい島だし…",
+        "thammy": "Tim: What do we do…? Even if he suddenly told us to come to the Tower of Babel, going out to a little island on the deep blue sea…",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：ニールってねまた飛行機を作ったんですって。",
+        "thammy": "Karen: Hey, you know, Neil says that made an aeroplane again.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "さばくの町へは飛行機できてるみたいなの。まずは町へもどってみましょ。",
+        "thammy": "It seems that the aeroplane is being brought to the desert town. First of all, let's try returning to Dao.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08A73C",
+    "path": "dao/daC8_neil.asm",
+    "parts": [
+      {
+        "source": "Neil",
+        "japanese": "ニール：そうか….やっぱりどうしても行くんだな？",
+        "thammy": "Neil: Is that so... I guess that you're ultimately going no matter what?",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "お前はむかしから言い出したらきかないヤツだったからな。",
+        "thammy": "If you had said that from a long time ago, I'd say that you were just a jerk that doesn't listen.",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "わかった。じゃあテムをバベルの塔まで送ってその足でカレンとエリックをサウスケープへ送ることにしよう。",
+        "thammy": "I understand. Well, I'll send Karen and Eric to South Cape after I send you to the Tower of Babel.",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "今度はたぶん落ちないはずだから安心してくれ。",
+        "thammy": "We probably won't fall this time, so please relax.",
+        "tone": ""
+      }
+    ]
+  }
+]
+

@@ -1,0 +1,669 @@
+[
+  {
+    "name": "widestring_08A4EF",
+    "path": "dao/daC4_kara.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "さばくの中にぽつんとたたずむ町。ぼくらはダオにやってきた。",
+        "thammy": "We arrived at Dao, a town that stands alone in the desert.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08A580",
+    "path": "dao/daC4_erik.asm",
+    "parts": [
+      {
+        "source": "Eric",
+        "japanese": "エリック：こんな砂あらしじゃあ目がいたくって外もあるけないよ。",
+        "thammy": "Eric: This kind of sandstorm hurts my eyes. I can't even walk outside.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08A51E",
+    "path": "dao/daC4_kara.asm",
+    "parts": [
+      {
+        "source": "Kara",
+        "japanese": "カレン：ドレイ商人のアジトって言われるほど悪名高い町のはずなのに何だかそんな感じがしないわよね。",
+        "thammy": "Karen: For a town that people call a hideout for slave merchants, it somehow doesn't feel like you'd expect an infamous town to feel, does it?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08B1EF",
+    "path": "dao/daC3_luggage_man.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "あんたひょっとしてテムさんかい？ ／ はい ／ いいえ",
+        "thammy": "Are you, by chance, Mr. Tim? / Yes / No",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08B27F",
+    "path": "dao/daC3_luggage_man.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "そうか…荷物が届いているんだがなあ。困った困った…",
+        "thammy": "Is that so...? But I've received a package for him, you know. How vexing, how vexing...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08B21A",
+    "path": "dao/daC3_luggage_man.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "こりゃちょうどよかった！ビルとローラって人から手紙と荷物が届いているんだ。受けとってくんな。",
+        "thammy": "Alright, perfect! I'm delivering a letter and package from people called Bill and Laura.",
+        "tone": ""
+      },
+      {
+        "source": "Man",
+        "japanese": "",
+        "thammy": "Take them.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08B2B2",
+    "path": "dao/daC3_luggage_man.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "どうやら持ち物がいっぱいのようだな。どこかで荷物をへらしておいで。",
+        "thammy": "It seems like your inventory is full. Dump your luggage somewhere.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08B25A",
+    "path": "dao/daC3_luggage_man.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "手紙と父の手帳を手に入れた！",
+        "thammy": "Got the letter and your father's notepad!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08B1CD",
+    "path": "dao/daC3_luggage_man.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "この家は遠くからはるばるやってくる商人のための宿だよ。",
+        "thammy": "This house is an inn for merchants that have come from far away.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_039D0E",
+    "path": "chunk_038000.asm",
+    "parts": [
+      {
+        "source": "Laura",
+        "japanese": "元気でやっていますか？ニールから連らくを受けダオにいるらしいとのことなので手紙を出してみました。",
+        "thammy": "Are you doing well? Neil informed us that you seem to be in Dao, so I thought I'd try sending you a letter.",
+        "tone": ""
+      },
+      {
+        "source": "Laura",
+        "japanese": "わけはだいたい聞きましたよ。お前がひとまわり成長して帰ってくるのをおじいさんと楽しみにしています。",
+        "thammy": "We heard the gist of the story. Your grandfather and I are looking forward to seeing you come back one size bigger.",
+        "tone": ""
+      },
+      {
+        "source": "Laura",
+        "japanese": "そうそう。お前の父オールマンの荷物を調べていたらピラミッドのことが書かれた手帳がでてきたの。",
+        "thammy": "Oh, that's right. We were examining Allman, your father's, luggage. He had written notes about the Pyramid.",
+        "tone": ""
+      },
+      {
+        "source": "Laura",
+        "japanese": "何かの役にたつかもしれないのでいっしょに送ることにします。ではくれぐれも体に気をつけて。 ／ ビル／ローラ",
+        "thammy": "I don't know if it's going to be helpful but I'm sending it along. Well then, make sure to take care of yourself. / Bill/Laura",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_039E1A",
+    "path": "chunk_038000.asm",
+    "parts": [
+      {
+        "source": "Allman",
+        "japanese": "私は古代文字ヒエログリフの解読についに成功した。これはおそらく世界で初めてのことであろう。",
+        "thammy": "I was finally successful in deciphering the ancient characters, the hieroglyphs.",
+        "tone": ""
+      },
+      {
+        "source": "Allman",
+        "japanese": "",
+        "thammy": "This might be the first time in the world they've been translated.",
+        "tone": ""
+      },
+      {
+        "source": "Allman",
+        "japanese": "このもくしろくによればピラミッドには人類の歴史のとてつもないなぞをとくカギがかくされていることになるのだ。",
+        "thammy": "According to the Book of Revelation, the Pyramid hides the key which can unravel the monumental mysteries of human history.",
+        "tone": ""
+      },
+      {
+        "source": "Allman",
+        "japanese": "𓅰𓊾𓂍𓀮𓅀𓃋 ／ このヒエログリフは冒頭の一文で「太陽神が地平線よりのぼる」という意味をもつ。",
+        "thammy": "𓅰𓊾𓂍𓀮𓅀𓃋 / The first sentence at the beginning of this hieroglyph means \"the sun god rises from the horizon.\"",
+        "tone": ""
+      },
+      {
+        "source": "Allman",
+        "japanese": "私はピラミッドへ足を運びこれと同じ文字板を発見した。そして…",
+        "thammy": "When I progressed to the Pyramid, I discovered plates with the same characters as these. Then...",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "ページはここでやぶられている。",
+        "thammy": "The pages are torn here.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08A819",
+    "path": "dao/daC3_man1.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "ここはさばくの町ダオ。こんなところにふつうの子供がいるなんてめずらしいなあ。",
+        "thammy": "This is the desert town, Dao. I think it's rare to see a normal child in this kind of place.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08A61D",
+    "path": "dao/daC8_neil.asm",
+    "parts": [
+      {
+        "source": "Neil",
+        "japanese": "ニール：テムっ！！！まさかこんなところで会うとは思わなかったよ！",
+        "thammy": "Neil: Tim...!! I'm in shock; I can't believe that I'd meet you somewhere like this!",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "ニールっ！どうしたの？社長になったんじゃないの？！",
+        "thammy": "Neil... How did I run into you here? Didn't you become the president of Reuleck?",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "ニール：ははは。ドレイ貿易のかわりにコショウを輸入できないかと思ってね。",
+        "thammy": "Neil: Hahaha. I was wondering if we couldn't import black pepper as a substitute for the slave trade, you know?",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "こうしてダオまではるばるやってきたのさ。",
+        "thammy": "That brought me all the way to Dao.",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "この近くにはピラミッドがある。ミステリードールとやらがそこにあるんじゃないか？",
+        "thammy": "The Pyramid is in this vicinity. Couldn't a Mystery Doll be there?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08A700",
+    "path": "dao/daC8_neil.asm",
+    "parts": [
+      {
+        "source": "Neil",
+        "japanese": "ドレイ貿易のかわりにコショウを輸入できないかと思ってね。こうしてダオまではるばるやってきたのさ。",
+        "thammy": "I was wondering if we couldn't import black pepper as a substitute for the slave trade, you know? That brought me all the way to Dao.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08A8B7",
+    "path": "dao/daC3_merchant.asm",
+    "parts": [
+      {
+        "source": "Trader",
+        "japanese": "商人：今日はいい買い物をしたなあ。こんなすばらしいじゅうたんは見たことがないよ。うん。",
+        "thammy": "Trader: I think I did some good shopping today. I've never seen a rug as wonderful as this. Yeah.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08AC11",
+    "path": "dao/daC3_kruk1.asm",
+    "parts": [
+      {
+        "source": "Kruk",
+        "japanese": "キューイキューイ",
+        "thammy": "Kyuui kyuui",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08AC3D",
+    "path": "dao/daC3_kruk2.asm",
+    "parts": [
+      {
+        "source": "Kruk",
+        "japanese": "キューイキューイ",
+        "thammy": "Kyuui kyuui",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08AB11",
+    "path": "dao/daC3_moving_kruk.asm",
+    "parts": [
+      {
+        "source": "Kruk",
+        "japanese": "",
+        "thammy": "",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08AED4",
+    "path": "dao/daC6_snake_panic.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "ヘビを使った面白いゲームをやっていかないか？ ／ はい ／ いいえ",
+        "thammy": "Do you want to play a fun game using these snakes? / Yes / No",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08AEF7",
+    "path": "dao/daC6_snake_panic.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "それは残念。気がむいたらきてくれよ。",
+        "thammy": "That's regrettable. If you feel like it, come back.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08AF16",
+    "path": "dao/daC6_snake_panic.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "ルールはかんたん。出てくるヘビを一分間に何ひきたたけるかをきそうんだ。",
+        "thammy": "The rules are simple. The snakes come out of the jars, and you compete on how many you can strike in one minute.",
+        "tone": ""
+      },
+      {
+        "source": "Man",
+        "japanese": "じゃあどれでも好きなツボをたたいてくれ。そのときがスタートだっ！！",
+        "thammy": "Alright, hit whichever jar you like. When you do that, we'll start...!!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08AF94",
+    "path": "dao/daC6_snake_panic.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "おいおい。ずいぶんとよゆうがあるんだな。",
+        "thammy": "Whoa, whoa. I guess this guy's very complacent.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08B052",
+    "path": "dao/daC6_snake_panic.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "うひゃあ９３ひきとはなかなか強者だね。",
+        "thammy": "Whoa, a score of 93! You're very strong, huh?",
+        "tone": ""
+      },
+      {
+        "source": "Man",
+        "japanese": "じゃあしょうひんとして赤い宝石を２コあげることにしよう。",
+        "thammy": "Alright, I'll give you two Red Jewels as a prize.",
+        "tone": ""
+      },
+      {
+        "source": "Man",
+        "japanese": "宝石商さんのところに送っておくからね。",
+        "thammy": "I'll send them to the jewel merchant for you, alright?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08B025",
+    "path": "dao/daC6_snake_panic.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "はいっ！そこまでっ！！君のたたいた数は９１ひき。またちょうせんしてくれよっ！",
+        "thammy": "Okay...! Time to stop...! The number you struck were 91. Please play again!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08B0B3",
+    "path": "dao/daC6_snake_panic.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "",
+        "thammy": "",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08AB34",
+    "path": "dao/daC3_freedom_man.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "最近ドレイ貿易廃止の動きがでているみたいだ。",
+        "thammy": "It seems that recently a movement's arisen to abolish the slave trade.",
+        "tone": ""
+      },
+      {
+        "source": "Man",
+        "japanese": "なんでもローレック株式会社の社長が自らその運動をはじめたようだぜ。",
+        "thammy": "It seems that the Reuleck Corporation's president started that movement himself.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08AB99",
+    "path": "dao/daC3_carpet_man.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "ここはコショウなどの調味料とじゅうたんが特産品の町さ。",
+        "thammy": "The specialities in this town are spices such as black pepper as well as carpets.",
+        "tone": ""
+      },
+      {
+        "source": "Man",
+        "japanese": "エドワード城のじゅうたんもこの町で４０年のさい月をかけて織られたっていう話だ。",
+        "thammy": "It's said that even the carpets in Edward Castle were woven in this town for 40 years.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08ACE0",
+    "path": "dao/daC3_jackal_girl.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "少女はだまって一枚の紙をさしだした。",
+        "thammy": "The girl was silent and held out a paper.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08AD0C",
+    "path": "dao/daC3_jackal_girl.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "そこにはなんと黒いヒョウの絵がえがかれている！",
+        "thammy": "A picture of a black panther is drawn there!",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "ぼくはせすじが寒くなった。",
+        "thammy": "A shiver ran down my spine.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "これはぼくらを追いつめたというブラックパンサーのけい告だろうか…",
+        "thammy": "Could the Black Panther that was supposed to be tracking us have given this as a warning…?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08AE0E",
+    "path": "dao/daC3_training_man.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "スネークパニックはやったかい？ぼくはまだ修行中の身なのさ。",
+        "thammy": "Have you played Snake Panic? I'm still preparing myself spiritually.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08B34E",
+    "path": "dao/daC3_treasure_man.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "この近くにはでっけえピラミッドがたってるぜ。",
+        "thammy": "There's a huge Pyramid in this vicinity.",
+        "tone": ""
+      },
+      {
+        "source": "Man",
+        "japanese": "探険家たちが財宝を求めて何人もやってきたがまだ見つけた者はいないようだ。",
+        "thammy": "Many explorers have come in search of treasure, but there is still no one that has found it.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08A99F",
+    "path": "dao/daC7_explorer1.asm",
+    "parts": [
+      {
+        "source": "Explorer",
+        "japanese": "ピラミッドはきょだいな石のかたまりだっていうのになぜ砂の中にしずまないのか..おれは不思議でしょうがねえよ。",
+        "thammy": "How does the Pyramid not sink into the sand even though it's a bunch of huge stones... It's a mystery to me, I guess.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08AAAC",
+    "path": "dao/daC7_explorer3.asm",
+    "parts": [
+      {
+        "source": "Explorer",
+        "japanese": "おれたちゃ探険家さ。ピラミッドにお宝がねむっていると聞いてやってきたんだが…",
+        "thammy": "We're explorers. We came here because we had heard that there's treasure sleeping in the Pyramid, but...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08A9EE",
+    "path": "dao/daC7_explorer2.asm",
+    "parts": [
+      {
+        "source": "Explorer",
+        "japanese": "この地域には不思議な言い伝えがあるんだよ。",
+        "thammy": "There's a mysterious legend in this region.",
+        "tone": ""
+      },
+      {
+        "source": "Explorer",
+        "japanese": "「ピラミッドは死者の場所。肉体をこえた者だけがその中に足をふみ入れる資格がある」",
+        "thammy": "\"The Pyramid is a place for the dead. Only those who have surpassed their corporeal bodies are qualified to step inside.\"",
+        "tone": ""
+      },
+      {
+        "source": "Explorer",
+        "japanese": "これがその言葉だそうだ…ピラミッドはきょだいな基。死ななきゃ中に入れないってことなのだろうか？うーむ。",
+        "thammy": "If it's as those words say... The Pyramid has a giant foundation. Perhaps you can't go inside unless you're dead? Uum.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08B3BC",
+    "path": "dao/daC5_slaver.asm",
+    "parts": [
+      {
+        "source": "Slaver",
+        "japanese": "この女たちはじゅうたんを織っているのさ。",
+        "thammy": "These women are weaving carpets.",
+        "tone": ""
+      },
+      {
+        "source": "Slaver",
+        "japanese": "これは織り上がるまでになんと４０年近いさい月がかかる。",
+        "thammy": "It takes them up to 40 years to weave them.",
+        "tone": ""
+      },
+      {
+        "source": "Slaver",
+        "japanese": "子供のころからその作業を始め遊ぶヒマもなく働き続け完成時には中年を過ぎている女。",
+        "thammy": "They start manufacturing them from childhood, without even having playtime. They continue to work. When they are finished, they will be women who passed into middle age.",
+        "tone": ""
+      },
+      {
+        "source": "Slaver",
+        "japanese": "ぼうず覚えておくんだな。こんな運命の下に生まれる人もいるってことを。",
+        "thammy": "Remember this, boy. There are people who are born to a fate like this too.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08B4C3",
+    "path": "dao/daC5_weaver.asm",
+    "parts": [
+      {
+        "source": "Weaver",
+        "japanese": "どうやら言葉が通じないようだ。ただもくもくと作業を続けている。",
+        "thammy": "It seems that they may not speak your language. But their work continues silently.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08B4F0",
+    "path": "dao/daC5_weaver.asm",
+    "parts": [
+      {
+        "source": "Weaver",
+        "japanese": "どうやら言葉が通じないようだ。ただもくもくと作業を続けている。",
+        "thammy": "It seems that they may not speak your language. But their work continues silently.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08B51D",
+    "path": "dao/daC5_weaver.asm",
+    "parts": [
+      {
+        "source": "Weaver",
+        "japanese": "どうやら言葉が通じないようだ。ただもくもくと作業を続けている。",
+        "thammy": "It seems that they may not speak your language. But their work continues silently.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08B54A",
+    "path": "dao/daC5_weaver.asm",
+    "parts": [
+      {
+        "source": "Weaver",
+        "japanese": "どうやら言葉が通じないようだ。ただもくもくと作業を続けている。",
+        "thammy": "It seems that they may not speak your language. But their work continues silently.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08AC92",
+    "path": "dao/daC3_prisoner.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "どうやら言葉が通じないようだ。少年は目で何かをうったえようとしている…",
+        "thammy": "It seems like he may not speak your language. It seems like the boy is trying to petition to you about something with his eyes...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08B307",
+    "path": "dao/daC3_slaver.asm",
+    "parts": [
+      {
+        "source": "Slaver",
+        "japanese": "おらおら。見せ物じゃないんだぞっ！！あっちへいったいった！",
+        "thammy": "Hey hey. This isn't a show...! Go over there, go!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08A91E",
+    "path": "dao/daC9_businessman.asm",
+    "parts": [
+      {
+        "source": "Businessman",
+        "japanese": "はるばるこの町までドレイを買いにきたものの…",
+        "thammy": "People come all the way to this town to buy slaves...",
+        "tone": ""
+      },
+      {
+        "source": "Businessman",
+        "japanese": "いざ取り引きとなるとなんだかふんぎりがつかないんだ。やっぱり人に値段はつけられないよなあ…",
+        "thammy": "Now that it comes down to actually making a purchase, I somehow haven't been able to decide. In the end, I guess that there's no price on human life...",
+        "tone": ""
+      }
+    ]
+  }
+]
+

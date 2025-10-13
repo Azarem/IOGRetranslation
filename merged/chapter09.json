@@ -1,0 +1,303 @@
+[
+  {
+    "name": "widestring_09D04C",
+    "path": "incan_ruins/ir1D_monologue.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：インカのラライのガケにはすさまじい風がふきあれていた。",
+        "thammy": "Tim: At the Incan Cliffs of Rarai, a dreadful wind raged.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "これが長老の言っていた神の息なのだろうか…",
+        "thammy": "Could this be the breath of the gods that the Elder spoke of…?",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "このガケのどこかに風のない場所がひっそりとねむっているのだろう。ボクは胸の高なりを感じた。",
+        "thammy": "A place without wind is probably waiting quietly somewhere on this cliff. I felt it throbbing in my chest.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_03865D",
+    "path": "chunk_038000.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "そこにはろうごくのカギを使うカギ穴がない。",
+        "thammy": "There's no hole there to use the prison key in.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_038746",
+    "path": "chunk_038000.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "この像にインカの秘密がかくされているのだろうか．．？",
+        "thammy": "Could the secrets of the Inca be hidden in this statue..?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_03893E",
+    "path": "chunk_038000.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "このあたりにはひし型のブロックをはめこむ穴が見あたらないようだ。",
+        "thammy": "It seems that you couldn't find a hole to insert the water caltrop shaped block into around here.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_03897C",
+    "path": "chunk_038000.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "タイルにひし型のブロックをはめこんだ！",
+        "thammy": "Inserted the water caltrop shaped block into the tile!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_09C7AE",
+    "path": "incan_ruins/ir26_bones.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "インカの黄金船を求めた探険家だろうか…？",
+        "thammy": "Could this have been an explorer seeking the Incan Gold Ship...?",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "白骨化したその手にはお守りのようなものがにぎられている。中には紙きれが入っておりこんなことが書かれていた。",
+        "thammy": "Their skeletonized hand is grasping what looks like an amulet. Inside, in a weaving with a piece of paper, something like this is written.",
+        "tone": ""
+      },
+      {
+        "source": "Written Note",
+        "japanese": "お父さん死なないでね。 ／ ナナ ／ 黄金船を見つけたら、クルックを買おうね。 ／ サーバス",
+        "thammy": "Dad, don't die, alright? / Nana / If you find the Gold Ship, buy a Krook, okay? / Savvas",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_09C285",
+    "path": "incan_ruins/ir1D_bones.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "遺体の近くの地面に何かかかれているようだ…",
+        "thammy": "It seems like something is laying on the ground around the corpse...",
+        "tone": ""
+      },
+      {
+        "source": "Written Message",
+        "japanese": "あの黄金像さえ動かせれば先へ進むことができたのに…",
+        "thammy": "If I could just move those gold statues, I could advance ahead..",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_09C410",
+    "path": "incan_ruins/ir1F_gold_tile.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "この黄金のユカをふむと何か音がするようだ…",
+        "thammy": "It seems like if I step on the golden floor tiles, something makes a sound...",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "黄金のユカは４つ….何か重りにできるものはないだろうか…",
+        "thammy": "There are four golden floors tiles... Isn't the anything that can act as a weight...?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08DE4D",
+    "path": "actors/sE6_gaia.asm",
+    "parts": [
+      {
+        "source": "Gaia",
+        "japanese": "きずついているようだね。さあ目を閉じてじっとして…",
+        "thammy": "You're injured, aren't you? Come on, close your eyes and be still...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_09C5D5",
+    "path": "incan_ruins/ir1D_wind_melody.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "谷風が何かのメロディーをかなでている。まるでインカの石像が歌っているようだ…",
+        "thammy": "The wind of the valley is playing some melody. It's as if the Incan statues are singing...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_09C614",
+    "path": "incan_ruins/ir1D_wind_melody.asm",
+    "parts": [
+      {
+        "source": "System",
+        "japanese": "風のメロディーを覚えた！",
+        "thammy": "Memorized the Wind's Melody!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_09C8B3",
+    "path": "incan_ruins/ir28_bones.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "トラップにかかって命を落としたんだ….",
+        "thammy": "So he lost his life to the dangling trap...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_09C90D",
+    "path": "incan_ruins/ir26_journal_bones.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "遺体は何か手帳のようなものをもっているようだ…",
+        "thammy": "The corpse seems to be holding something like a notebook...",
+        "tone": ""
+      },
+      {
+        "source": "Written Text",
+        "japanese": "インカについてわかったこと",
+        "thammy": "Learnings on the Inca:",
+        "tone": ""
+      },
+      {
+        "source": "Written Text",
+        "japanese": "インカ地方には文字が存在しなかった。そのため人々は音で言い伝えを後世に残したようである。",
+        "thammy": "Writing does not exist in the Incan region. For that reason, it seems that sound is used to preserve legends for future generations.",
+        "tone": ""
+      },
+      {
+        "source": "Written Text",
+        "japanese": "私はインカの谷風がメロディをかなでていることに気がつきその解読に成功した。",
+        "thammy": "I noticed that that the wind in the Incan valley plays a melody; I've succeeded at decoding it.",
+        "tone": ""
+      },
+      {
+        "source": "Written Text",
+        "japanese": "「黄金のしきつめられた部屋にてわれをとなえよ…」谷風がかなでるメロディをそこで吹けということだろうか…",
+        "thammy": "\"Recite it in the room tiled in gold…\" If you were there and played the melody of the wind in the valley...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_038A46",
+    "path": "chunk_038000.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "笛の音があたりにこだまし黄金のブロックが光りはじめた！",
+        "thammy": "A golden block began to shine in the area where the flute's sound was echoing!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08DFEE",
+    "path": "actors/sE6_gaia.asm",
+    "parts": [
+      {
+        "source": "Gaia",
+        "japanese": "このあとそなたはとてつもなくきょだいな敵と戦うことになろう。",
+        "thammy": "Next, thou will enter into a battle with an absurdly giant enemy.",
+        "tone": ""
+      },
+      {
+        "source": "Gaia",
+        "japanese": "この敵はダメージを受けると頭から何本もの光のすじを放ってくる。",
+        "thammy": "This enemy emits light rays from its head when it receives damage.",
+        "tone": ""
+      },
+      {
+        "source": "Gaia",
+        "japanese": "ダメージをあたえたらすぐさま敵の後方にひなんすることだ。",
+        "thammy": "Immediately take refuge behind the enemy if you deal damage.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_038772",
+    "path": "chunk_038000.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "さいだんの形と像の形が合わないようだ。",
+        "thammy": "The shape of the altar and the figure don't seem to match.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0386BE",
+    "path": "chunk_038000.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "さいだんにインカの像Ａをささげた。",
+        "thammy": "Offered Incan Figure A on the altar.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0387D4",
+    "path": "chunk_038000.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "さいだんにインカの像Bをささげた。",
+        "thammy": "Offered Incan Figure B at the altar.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_09CFED",
+    "path": "incan_ruins/ir29_transform.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "まものの気配が消えテムの変身が解けてゆく…",
+        "thammy": "Having erased all presence of demons, Tim may release his transformation…",
+        "tone": ""
+      }
+    ]
+  }
+]
+

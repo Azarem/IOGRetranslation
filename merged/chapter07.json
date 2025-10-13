@@ -1,0 +1,932 @@
+[
+  {
+    "name": "widestring_04E3D5",
+    "path": "itory/it15_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：ここがあたしの村。っていっても家も何にもなくてびっくりしたでしょ？",
+        "thammy": "Lillie: This is my village. Even though I said it, you're still surprised that there are no houses, right?",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "テム。エドワード城の地下であたしを呼んだときのメロディをふいてみてくれる？",
+        "thammy": "Tim. Can you try playing for me the melody from when I called out to you in the in the basement of Edward Castle?",
+        "tone": "",
+        "claude": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04E440",
+    "path": "itory/it15_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：テム。どこにいくの？ここでメロディをふいてよっ。",
+        "thammy": "Lillie: Tim. Where are you going? Play the melody here…",
+        "tone": "",
+        "claude": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_038CA0",
+    "path": "chunk_038000.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "メロディーは風にのって草原中にひろがっていった。",
+        "thammy": "The melody rode on the wind and was spread throughout the prairie.",
+        "tone": "",
+        "claude": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04E46F",
+    "path": "itory/it15_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：おどろいた？",
+        "thammy": "Lillie: Did it surprise you?",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "このイトリー村には結界があってふつうの人には見えないの。",
+        "thammy": "Normally people can't see our Itory village because it has a barrier.",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "しかしおじょうさまにも困ったものよねぇ…",
+        "thammy": "Anyway, the little lady was suffering, wasn't she...?",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "山道じゃ足が痛いだののどがかわいただのって耳がおかしくなりそうだったわ。",
+        "thammy": "On the mountain road, I felt like I was going crazy with hearing \"my feet are hurting\" and \"I'm thirsty\".",
+        "tone": "",
+        "claude": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04E124",
+    "path": "itory/it15_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：しょうがないでしょ。本当に足が痛かったんだから。",
+        "thammy": "Karen: I can't help that. After all, my feet really were hurting.",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：まあいいわ。とにかくついてきてちょうだい。あたしの家に案内するから。",
+        "thammy": "Lillie: Well, I think that's okay. Anyway, please come with me. I'll guide you to my house.",
+        "tone": "",
+        "claude": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04DF96",
+    "path": "itory/it16_song_woman.asm",
+    "parts": [
+      {
+        "source": "Woman",
+        "japanese": "かつてこの地に住んでいたインカ人たちは文字というものをもたない民族だったわ。",
+        "thammy": "The Incans that once lived on this land were a people without a written language.",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Woman",
+        "japanese": "彼らのいいつたえは音という形でのこっているの。",
+        "thammy": "Their legends were passed down through sound.",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Woman",
+        "japanese": "なにげないメロディにもちゃんと意味があるってことね。",
+        "thammy": "They say that there are intentional meanings even in melodies that are sung thoughtlessly.",
+        "tone": "",
+        "claude": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04E033",
+    "path": "itory/it15_friendly_woman.asm",
+    "parts": [
+      {
+        "source": "Woman",
+        "japanese": "この村にはリリィと同い年くらいの子がいないのよ。なかよくしてやってね。",
+        "thammy": "There aren't any children around Lillie's age in this village. Please be good friends with her, alright?",
+        "tone": "",
+        "claude": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04F11E",
+    "path": "itory/it15_lola.asm",
+    "parts": [
+      {
+        "source": "Laura",
+        "japanese": "ローラ：テム！テム！こっちよ！",
+        "thammy": "Laura: Tim! Tim! This way!",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Bill",
+        "japanese": "ビル：無事だったのか、よかったよかった…",
+        "thammy": "Bill: So you were safe; good, good...",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Laura",
+        "japanese": "ローラ：あたしたちとてもこわい目にあったのよ！",
+        "thammy": "Laura: We saw some very frightening sights!",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Laura",
+        "japanese": "ブラックパンサーとかいう男が兵士をおおぜいつれてやってきて…",
+        "thammy": "A man called Black Panther came taking a large crowd of soldiers with him...",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Bill",
+        "japanese": "ビル：あやうく殺されるとこじゃった！",
+        "thammy": "Bill: We were almost killed!",
+        "tone": "",
+        "claude": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04F1BA",
+    "path": "itory/it15_lola.asm",
+    "parts": [
+      {
+        "source": "Laura",
+        "japanese": "ローラ：おじいさんったらオタオタしちゃって。",
+        "thammy": "Laura: Bill, oh my...",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Laura",
+        "japanese": "あたしの毒リンゴパイで兵士たちのオナカをこわしてやったのさ。",
+        "thammy": "I upset the soldiers' stomachs with my poison apple pie.",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Laura",
+        "japanese": "そのあいだにやっとこにげだしたんだよ。",
+        "thammy": "We barely escaped in that moment.",
+        "tone": "",
+        "claude": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04F210",
+    "path": "itory/it15_lola.asm",
+    "parts": [
+      {
+        "source": "Laura",
+        "japanese": "ローラ：そうそう。リリィ、ご苦労様でした。それにカレンひめさままでごいっしょとは。",
+        "thammy": "Laura: Oh, that's right. Lillie, thank you for your work. Come inside with Princess Karen.",
+        "tone": "",
+        "claude": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04E53C",
+    "path": "itory/it15_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：だってさあ勝手についてくるんだもん。",
+        "thammy": "Lillie: Well then, follow me if you'd like.",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "テム。この家があたしの家なの。村を見物したければしてもいいけどあとでここへもどってきてね。",
+        "thammy": "Tim. This house is mine. But if you want to sightsee around the village before you come back, that's okay.",
+        "tone": "",
+        "claude": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04E175",
+    "path": "itory/it15_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：リリィまってよ。あたしも行くわ。",
+        "thammy": "Karen: Wait, Lillie. I'll go too.",
+        "tone": "",
+        "claude": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04DDC7",
+    "path": "itory/it18_warning_man.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "多くの人々がインカの黄金を求めてこの地へやってきたよ。",
+        "thammy": "Many people come to this land in search of Incan gold.",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Man",
+        "japanese": "だがインカの遺跡へ足をふみいれた者は結局もどってこなかったな…",
+        "thammy": "However, I guess that those who trespass into Incan ruins haven't returned...",
+        "tone": "",
+        "claude": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04DE81",
+    "path": "itory/it18_warning_woman.asm",
+    "parts": [
+      {
+        "source": "Woman",
+        "japanese": "遺跡は古代人たちのおはか。なぜそっとしておいてあげないのでしょう…",
+        "thammy": "The ruins the grave of an ancient people. Shouldn't we leave it alone...?",
+        "tone": "",
+        "claude": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04DEC9",
+    "path": "itory/it15_fable_man.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "ここはそのむかし世界がほろびかけたとき救世主があらわれた場所といわれています。",
+        "thammy": "It's said around here that when the world of old was falling into ruin, a saviour appeared.",
+        "tone": "",
+        "claude": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04DF22",
+    "path": "itory/it15_fable_woman.asm",
+    "parts": [
+      {
+        "source": "Woman",
+        "japanese": "このところ世界中の町で原因不明の病気にかかる人や行方不明者が増えているみたい…",
+        "thammy": "Back then, things like the spread of mysterious illnesses without known causes or disappearances seemed to be increasing in towns around the world…",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Woman",
+        "japanese": "この星がいつまでも平和でありますように。",
+        "thammy": "I hope that there is peace on this planet forever.",
+        "tone": "",
+        "claude": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08DF80",
+    "path": "actors/sE6_gaia.asm",
+    "parts": [
+      {
+        "source": "Gaia",
+        "japanese": "テムの力サイコダッシュはカベや障害物をはかいすることができる。",
+        "thammy": "Thy power, Psycho Dash, can destroy such things as walls and obstacles.",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Gaia",
+        "japanese": "あたりにはつねに気をくばりあやしい場所を見つけたらはかいできないかためすことだ。",
+        "thammy": "Try it on suspicious places thou have noticed which thou cannot destroy.",
+        "tone": "",
+        "claude": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08EB68",
+    "path": "actors/sE6_gaia.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "ヤミの力サイコダッシュが使えるようになった！",
+        "thammy": "Became able to use the Power of Darkness, Psycho Dash!",
+        "tone": "",
+        "claude": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08EB85",
+    "path": "actors/sE6_gaia.asm",
+    "parts": [
+      {
+        "source": "Gaia",
+        "japanese": "サイコダッシュは少年テムだけが使うことのできるちから。",
+        "thammy": "The Psycho Dash is a power that only Tim, the young boy, can use.",
+        "tone": "",
+        "claude": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08EBDF",
+    "path": "actors/sE6_gaia.asm",
+    "parts": [
+      {
+        "source": "Gaia",
+        "japanese": "体当たりこうげきで障害物やくずれやすいカベをはかいすることができるのだ。",
+        "thammy": "With a body check attack thou canst easily crush things like obstacles and destructible walls.",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Gaia",
+        "japanese": "こうげきボタンでちからをためて使うがよい…",
+        "thammy": "Thou shouldst charge up using the attack button...",
+        "tone": "",
+        "claude": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04DE32",
+    "path": "itory/it15_running_man.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "そこの坂をかけおりてそのまま走っていってごらん。きっとびっくりするよ。",
+        "thammy": "Try running down that hill over there. You'll definitely be surprised.",
+        "tone": "",
+        "claude": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04E1F6",
+    "path": "itory/it17_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：しゃくだけどすてきな村ね。風がさわやかできもちいい…",
+        "thammy": "Karen: It's a charming village, right? The wind feels nice and refreshing...",
+        "tone": "",
+        "claude": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04E62C",
+    "path": "itory/it17_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：長老様は花畑の中よ。もう何才だかわからないくらいお年寄りだけどとても物知りなの。会ってみたら？",
+        "thammy": "Lillie: The Elder is in the flower field. I don't know how old he is, but he's a very knowledgeable person. Do you want to try and meet him?",
+        "tone": "",
+        "claude": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04F249",
+    "path": "itory/it15_lola.asm",
+    "parts": [
+      {
+        "source": "Laura",
+        "japanese": "ローラ：なんだかイヤな予感がするんですよ。",
+        "thammy": "Laura: Somehow I had an unpleasant hunch.",
+        "tone": "",
+        "claude": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04EFAE",
+    "path": "itory/it15_bill.asm",
+    "parts": [
+      {
+        "source": "Bill",
+        "japanese": "ビル：さあさ、長老さまに会うがいい。きっと何か知っておられるから。",
+        "thammy": "Bill: Go on, you should meet with the Elder. He definitely knows something, after all.",
+        "tone": "",
+        "claude": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04E9FF",
+    "path": "itory/it15_elder.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "テムの後ろからかぼそい声が聞こえてきた…",
+        "thammy": "Tim could hear a feeble voice from behind him…",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Mysterious voice",
+        "japanese": "不思議な声：よくきた、テム…",
+        "thammy": "Mysterious voice: It was good that you came, Tim...",
+        "tone": "",
+        "claude": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04EA45",
+    "path": "itory/it15_elder.asm",
+    "parts": [
+      {
+        "source": "Elder",
+        "japanese": "長老：ここじゃ、ここじゃ。花の中じゃよ。あまりに長生きしすぎてな。",
+        "thammy": "Elder: Here, I'm over here. I'm in the flowers. I've extended my life too long.",
+        "tone": "",
+        "claude": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04EA77",
+    "path": "itory/it15_elder.asm",
+    "parts": [
+      {
+        "source": "Elder",
+        "japanese": "長老：こうやって花の精たちに守ってもらわないと生きておれんのじゃ。",
+        "thammy": "Elder: If the flower fairies aren't giving me their protection like this, I won't be able to survive.",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Elder",
+        "japanese": "ところでおまえは父親によく似ておるのう。",
+        "thammy": "While we're talking, you look so much like your parents.",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Elder",
+        "japanese": "おまえの父親がこの村にやってきたのがきのうのことのようだ。",
+        "thammy": "It seems like yesterday that your father came to our village.",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：とうさんが…",
+        "thammy": "Tim: My dad came to your...",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Elder",
+        "japanese": "長老：おまえのかあさん..つまりおまえの祖父母ビルとローラの一人娘シーラはたいそうな美人でな。",
+        "thammy": "Elder: Your mother... Putting in briefly. Sheila, your grandparents Bill and Laura's daughter, was an extremely beautiful woman.",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Elder",
+        "japanese": "おまえの父親は一目ぼれしてこの村からうばっていってしまったのじゃ。",
+        "thammy": "Your father fell in love at first sight and stole her from this village.",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Elder",
+        "japanese": "イトリー族の者はみな不思議な力をもっているが、シーラはとりわけその力が強かった。",
+        "thammy": "Everyone in the Itory clan holds a mysterious power, but Sheila had a power that was stronger than any of ours.",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Elder",
+        "japanese": "この村に結界をはって外から見えなくしたのもあの娘だったがおまえの父さんはいともたやすく入ってきおった。",
+        "thammy": "She even erected the barrier that renders this village invisible from the outside, but your father came inside very easily.",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Elder",
+        "japanese": "思えば、あの男も不思議な人間じゃった…",
+        "thammy": "When I think about it, that man was also a mysterious human being...",
+        "tone": "",
+        "claude": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04EC46",
+    "path": "itory/it15_elder.asm",
+    "parts": [
+      {
+        "source": "Elder",
+        "japanese": "それで、おまえは父によばれたのじゃな？ ／ はい ／ いいえ",
+        "thammy": "That being said, were you summoned by your father? / Yes / No",
+        "tone": "",
+        "claude": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04EC76",
+    "path": "itory/it15_elder.asm",
+    "parts": [
+      {
+        "source": "Elder",
+        "japanese": "長老：何？よばれていないと。。では悪いしるしはマチガイだったのか…",
+        "thammy": "Elder: What? If you weren't summoned.. Then was the bad mark a mistake...?",
+        "tone": "",
+        "claude": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04ECAB",
+    "path": "itory/it15_elder.asm",
+    "parts": [
+      {
+        "source": "Elder",
+        "japanese": "長老：なるほど…ではローラの予感はあたったのか。",
+        "thammy": "Elder: I understand... Well, Laura's hunch was right, wasn't it.",
+        "tone": "",
+        "claude": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04ECCB",
+    "path": "itory/it15_elder.asm",
+    "parts": [
+      {
+        "source": "Elder",
+        "japanese": "で、ゆくつもりなのか？ ／ はい ／ いいえ",
+        "thammy": "So, do you intend to go? / Yes / No",
+        "tone": "",
+        "claude": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04ECEC",
+    "path": "itory/it15_elder.asm",
+    "parts": [
+      {
+        "source": "Elder",
+        "japanese": "長老：なんと。父親に似ずおとなしい子じゃのう。",
+        "thammy": "Elder: What. Unlike your father, you're a meek child.",
+        "tone": "",
+        "claude": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04ED19",
+    "path": "itory/it15_elder.asm",
+    "parts": [
+      {
+        "source": "Elder",
+        "japanese": "長老：よかろう。ならばおまえにこの村に伝わるインカの神像をたくすことにしよう。",
+        "thammy": "Elder: Very well. In that case, I will entrust you with the Incan idol that is handed down in this village.",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Elder",
+        "japanese": "インカのなぞをとくカギとなる２体の神像…それらは数百年の間人の手にふれておらぬ。",
+        "thammy": "The two idols will be the key to unravel the mysteries of the Inca... They have passed through human hands for many hundreds of years.",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Elder",
+        "japanese": "神像のひとつはこの下のどうくつに安置されておる。ちえをふりしぼって手に入れるがよい。",
+        "thammy": "One idol is enshrined in the cave below. Muster up your wisdom and you may take it.",
+        "tone": "",
+        "claude": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04EDF4",
+    "path": "itory/it15_elder.asm",
+    "parts": [
+      {
+        "source": "Elder",
+        "japanese": "長老：おおっそれこそインカの神像！よくぞ見つけ出した！",
+        "thammy": "Elder: Oh...! That's definitely the Incan idol! Wonderful; you've discovered it!",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Elder",
+        "japanese": "おまえはインカのナゾをとくためにこの世に生まれたのかもしれんな…",
+        "thammy": "I think you might have been born to discover the mysteries of the Inca…",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Elder",
+        "japanese": "ではこの村に伝わる伝説をひとつおしえよう。",
+        "thammy": "Anyway, I'll teach you a legend that is handed down in this village.",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Elder",
+        "japanese": "遺跡の地下の「ラライのガケ」にて神の息のとどかぬところへインカの神をおさめよ。",
+        "thammy": "At the \"Cliff of Rarai\", underground beneath the ruin. Offer the Incan gods where the breath of the gods does not reach.",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Elder",
+        "japanese": "谷風がその者を黄金の船のもとへ導くであろう。",
+        "thammy": "The valley wind will guide you to the location of the golden ship.",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Elder",
+        "japanese": "わかったかな？ ／ はい ／ いいえ",
+        "thammy": "Did you understand that? / Yes / No",
+        "tone": "",
+        "claude": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04EF23",
+    "path": "itory/it15_elder.asm",
+    "parts": [
+      {
+        "source": "Elder",
+        "japanese": "長老：もう一つは月の種族がもつと言われておる。",
+        "thammy": "Elder: It is said that one more is held by the Race of the Moon.",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Elder",
+        "japanese": "そこへはリリィに道案内してもらうがよい。気をつけてな。",
+        "thammy": "Lillie will show you the way there. Be careful.",
+        "tone": "",
+        "claude": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04F277",
+    "path": "itory/it15_lola.asm",
+    "parts": [
+      {
+        "source": "Laura",
+        "japanese": "ローラ：この村にはむかしからいい伝えがあってね、",
+        "thammy": "Laura: Hey, there was a nice legend in this village from long ago,",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Laura",
+        "japanese": "善なる心をもってヤミの力あやつる子供が現われ、世界を救うために旅立つだろう．．",
+        "thammy": "A child with a virtuous heart that wields the Power of Darkness will appear, and embark to save the world…",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Laura",
+        "japanese": "その者が現われるとき、きょだいなすい星が地のふちをかすめ大いなるヤミの力が復活するであろう…",
+        "thammy": "When they appear, a great Power of Darkness will revive to graze the edge of the Earth with a gigantic comet...",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Laura",
+        "japanese": "これがイトリー族に伝わる言葉なんだよ。",
+        "thammy": "These are the words handed down through the Itory clan.",
+        "tone": "",
+        "claude": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04EFDF",
+    "path": "itory/it15_bill.asm",
+    "parts": [
+      {
+        "source": "Bill",
+        "japanese": "ビル：長老さまはまだお元気だったかい？",
+        "thammy": "Bill: Was the Elder still doing well?",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Bill",
+        "japanese": "ところでエドワード城の地下でまものとたたかったとき銀色にかがやく石をひろわなかったかい？",
+        "thammy": "By the way, when you were fighting demons in Edward Castle's basement, didn't you gather shining silver stones?",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Bill",
+        "japanese": "あの石には不思議な力があってな",
+        "thammy": "I think those stones have a mysterious power.",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Bill",
+        "japanese": "１００ためると敵にやられてもすぐ近くの場所でふとわれにかえるんだそうじゃ。",
+        "thammy": "It seems that if you amass 100 of them, you will immediately come to your senses at a nearby place after being killed by an enemy.",
+        "tone": "",
+        "claude": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04E6E6",
+    "path": "itory/it17_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：え？月の種族？",
+        "thammy": "Lillie: Huh? The Race of the Moon?",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "うん知ってるよ。種族っていうよりカゲのような不思議な生命体ね。",
+        "thammy": "Yeah, I know them. They're mysterious lifeforms that better resemble shadows rather than a race.",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "この近くの高い高い山の頂上が彼らのすみかになってるんだけど。",
+        "thammy": "They dwell on the summit of a tall, tall mountain nearby, but...",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "行ってみる？ ／ うん行ってみたい ／ やっぱりやめとく",
+        "thammy": "…do you want to try going there? / Yeah, I want to go / Actually, nevermind",
+        "tone": "",
+        "claude": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04E78B",
+    "path": "itory/it17_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：そうね。彼らをおこらすと命がないって言うし。やめといたほうがいいかもね。",
+        "thammy": "Lillie: Is that so. After all, they say that those who anger them lose their lives. Maybe it's better if you don't, right?",
+        "tone": "",
+        "claude": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04E778",
+    "path": "itory/it17_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：わかった。じゃ案内するね。",
+        "thammy": "Lillie: I understand. Well, I'll guide you.",
+        "tone": "",
+        "claude": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04E223",
+    "path": "itory/it17_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：あたしもいくっ！月の種族って見てみたいわ。",
+        "thammy": "Karen: I'm going too...! I want to try seeing the Race of the Moon.",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "せっかくきゅうくつなお城をぬけだせたんですもの。何でも見たり聞いたりしたいの。",
+        "thammy": "I want to experiencing things with my own eyes and ears, especially since I was just barely able to escape the castle.",
+        "tone": "",
+        "claude": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04E7C9",
+    "path": "itory/it17_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：だーめっ！おじょうさまには危険すぎるもん。",
+        "thammy": "Lillie: You can't...! It's too dangerous for a little lady like you.",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "テムにめいわくかけたくなかったらここでおとなしくまってて。",
+        "thammy": "If you don't want to bother Tim, wait here obediently.",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：ふんっ。なによっ。あたしばっかりのけものにして。",
+        "thammy": "Karen: Hmph... Why… I'm the only one being left out.",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "ローラおばあさまとお話してるからいいわよっ！いーーーーだっ！！！",
+        "thammy": "It'll talk to Mrs. Laura, so it's okay! It's fiiiine...!!",
+        "tone": "",
+        "claude": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04E869",
+    "path": "itory/it17_lily.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：あーあすねちゃった…",
+        "thammy": "Tim: Oh no, she's pouting...",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：わがままなおじょうさまにはいい薬よ。",
+        "thammy": "Lillie: It's just what the doctor ordered for a selfish little lady.",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "さあ山道がたいへんだけどがんばっていきましょ。",
+        "thammy": "Alright, the mountain road is difficult, but let's tough it out.",
+        "tone": "",
+        "claude": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "こうしてテムとリリィは月の種族の住む山の頂上へと向かうのであった。",
+        "thammy": "Like this, Tim and Lillie headed to the summit where the Race of the Moon live.",
+        "tone": "",
+        "claude": ""
+      }
+    ]
+  }
+]
+

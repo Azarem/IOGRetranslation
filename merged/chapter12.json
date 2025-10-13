@@ -1,0 +1,237 @@
+[
+  {
+    "name": "widestring_05ABC6",
+    "path": "diamond_coast/dc31_rescuer.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "男の声：もうそろそろ起こしてもだいじょうぶだろう。",
+        "thammy": "Man's voice: He should be getting up about now; he should be fine.",
+        "tone": ""
+      },
+      {
+        "source": "Man",
+        "japanese": "ビタミンCもじゅうぶんとらせたし体のつかれも回復しているはずだ。",
+        "thammy": "If he takes enough vitamin C he should even get over his fatigue.",
+        "tone": ""
+      },
+      {
+        "source": "Man",
+        "japanese": "これはかい血病といってね長期間ビタミンCをとらないとかかる病気なんだよ。",
+        "thammy": "This is what you call \"scurvy\", you know.",
+        "tone": ""
+      },
+      {
+        "source": "Man",
+        "japanese": "この病気がもっとひどくなると血がダメになりヒフの色がどす黒くなってくる。",
+        "thammy": "If you don't take vitamin C for a long time you're going to contract the disease.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：ふうん….",
+        "thammy": "Karen: Ugh...",
+        "tone": ""
+      },
+      {
+        "source": "Man",
+        "japanese": "かの有名な探険家コロンブスの一行だってかかった病気だ。気にすることはないさ。",
+        "thammy": "The famous explorer Columbus's troop once contracted the disease.",
+        "tone": ""
+      },
+      {
+        "source": "Man",
+        "japanese": "かの有名な探険家コロンブスの一行だってかかった病気だ。気にすることはないさ。",
+        "thammy": "It's not something to concern yourself about.",
+        "tone": ""
+      },
+      {
+        "source": "Man",
+        "japanese": "この病気がもっとひどくなると血がダメになりヒフの色がどす黒くなってくる。",
+        "thammy": "If the disease gets worse, your blood goes bad and your skin darkens.",
+        "tone": ""
+      },
+      {
+        "source": "Man",
+        "japanese": "歯ぐきから血が止まらなくなり、やがて体がくさって….",
+        "thammy": "You bleed from the gums, and soon enough, your body withers…",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：やめてよっ！！そんなこわい話聞きたくないわっ",
+        "thammy": "Karen: Stop it! I don't want to hear a scary story like that!",
+        "tone": ""
+      },
+      {
+        "source": "Man",
+        "japanese": "男：はははは。まあ無事でなによりだ。",
+        "thammy": "Man: Hahahaha. Well, more importantly, he's safe.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：でもおじさんって物知りなのね。本当にありがとう。",
+        "thammy": "But, sir, you really know a lot, huh? I'm really grateful.",
+        "tone": ""
+      },
+      {
+        "source": "Man",
+        "japanese": "礼なら外にいる犬に言ってくれ。あいつが君たちのイカダを発見して私を海につれだしたんだからな。",
+        "thammy": "If you're going to thank someone, thank the dog outside.",
+        "tone": ""
+      },
+      {
+        "source": "Man",
+        "japanese": "礼なら外にいる犬に言ってくれ。あいつが君たちのイカダを発見して私を海につれだしたんだからな。",
+        "thammy": "After all, they found you two while I was taking them out.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05ADAE",
+    "path": "diamond_coast/dc31_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：テム！テムっ！！目を覚ましてっ！！！",
+        "thammy": "Karen: Tim! Tim...!! Wake up...!!",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "陸地に陸地についたのよっ！！あたしたち助かったのよっ！！！",
+        "thammy": "It's land, we've reached land! We've been saved...!!",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：うううん…",
+        "thammy": "Tim: U-uugh...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05AE00",
+    "path": "diamond_coast/dc31_kara.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：はっカレン…？ここはいったい…？",
+        "thammy": "Tim: Huh... Karen...? Where in the world are we?",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：あたしたちを助けてくれた親切なおじさんのおうち。",
+        "thammy": "Karen: The house of a gentleman that saved us.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "まったくテムったらねぞうが悪いんだからっ。",
+        "thammy": "Good grief, Tim, you've got bad sleeping posture…",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "病人だっていうのにおふとんをかけてもかけてもはいじゃうんだもの。",
+        "thammy": "You're supposed to be a sick person and cling to the sheets,",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "病人だっていうのにおふとんをかけてもかけてもはいじゃうんだもの。",
+        "thammy": "but you're laying on your side like a baby.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05AEA3",
+    "path": "diamond_coast/dc31_rescuer.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "男：ここはオークランドの南のはずれ。",
+        "thammy": "Man: This is the southern outskirts of Oakland.",
+        "tone": ""
+      },
+      {
+        "source": "Man",
+        "japanese": "ここから半日くらい北へ向かうと花の都フリージアがある。",
+        "thammy": "If you head northward for about half a day, there's the Capital of Flowers, Freesia.",
+        "tone": ""
+      },
+      {
+        "source": "Man",
+        "japanese": "はぐれた仲間をさがすならまずは大きな町へ行ってみることだな。",
+        "thammy": "I think if you're searching for your friends you were split from,",
+        "tone": ""
+      },
+      {
+        "source": "Man",
+        "japanese": "はぐれた仲間をさがすならまずは大きな町へ行ってみることだな。",
+        "thammy": "You should try doing it in a big city.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05AF2F",
+    "path": "diamond_coast/dc31_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：とにかくそのフリージアっていう町へいってみましょ。",
+        "thammy": "Karen: Anyhow, let's try going to that city called Freesia.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "あたし犬にお礼いってくる。じゅんびができたらきてね。",
+        "thammy": "I'm going to go give my thanks to the dog. If you're ready you can come talk to me, alright?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05AA91",
+    "path": "diamond_coast/dc30_dog.asm",
+    "parts": [
+      {
+        "source": "Dog",
+        "japanese": "わんわんっ！",
+        "thammy": "Woof woof...!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05AADD",
+    "path": "diamond_coast/dc30_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：この犬ターボっていう名前なんですって。かしこそうな犬よね。",
+        "thammy": "Karen: He said this dog's name is Turbo. They seem like a smart dog, huh.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "さあ行きましょう。きっとリリィやロブ、エリックたちと会えるわよ。",
+        "thammy": "Alright, let's go. We'll definitely find Lillie, Rob and Eric.",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "こうして二人は花の都フリージアヘ向かう…",
+        "thammy": "Like this, the two head to the Capital of Flowers, Freesia.",
+        "tone": ""
+      }
+    ]
+  }
+]
+

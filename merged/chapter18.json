@@ -1,0 +1,243 @@
+[
+  {
+    "name": "widestring_05FA59",
+    "path": "diamond_mine/dm3E_intro.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：ナスカの上空には不思議な庭園がうかんでいた…",
+        "thammy": "Tim: A mysterious garden was floating in the skies above Nazca...",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "地上ではニールたちが右往左往しているのが米つぶのように見える。",
+        "thammy": "Neil and the others on the ground looked like grains of rice as they ran about every which way.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "ナスカの地上絵はこの空中庭園のための飛行場だったのだろうか？",
+        "thammy": "Could the Nazca lines possibly have been an airfield for this midair garden?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05F371",
+    "path": "sky_garden/sg4C_spirits.asm",
+    "parts": [
+      {
+        "source": "Race of the Moon",
+        "japanese": "月の種族：また会ったわね。クッククク。こんなところまでうろうろと元気なぼうやだこと。",
+        "thammy": "Race of the Moon: We meet again, huh? Mweheheheh. If you're hanging around a place like this, you must be a vigorous little boy.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05F3C9",
+    "path": "sky_garden/sg4C_spirits.asm",
+    "parts": [
+      {
+        "source": "Race of the Moon",
+        "japanese": "月の種族：この空中庭園はあたしたちののりもの。",
+        "thammy": "Race of the Moon: This mid-air garden is our vehicle.",
+        "tone": ""
+      },
+      {
+        "source": "Race of the Moon",
+        "japanese": "４つの地域に安置される４つのクリスタルボール。時計まわりにめぐって手に入れることね。クッククク…",
+        "thammy": "Four crystal balls are enshrined in the four areas. Go around clockwise and you can get them all. Mweheheheh...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05F46E",
+    "path": "sky_garden/sg4C_spirits.asm",
+    "parts": [
+      {
+        "source": "Race of the Moon",
+        "japanese": "月の種族：空中庭園の裏と表。ガケからとびおりればそこはもうさかさまの世界…",
+        "thammy": "Race of the Moon: The midair garden's underside and its surface. If you jump down from a cliff, there's still an inverted world is there...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05F71C",
+    "path": "sky_garden/sg52_switch.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "このタイルをふむと何か音がするようだ…",
+        "thammy": "When you step on this tile, something makes a sound...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0ACF0E",
+    "path": "sky_garden/sg55_mystic_statue.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "きょだいな鳥をたおすとしかばねからミステリードールが見つかった！！",
+        "thammy": "After defeating the huge bird, you found a Mystery Doll in its corpse!!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0ACF4A",
+    "path": "sky_garden/sg55_mystic_statue.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "プロペラ音とともに拡声器からニールのさけび声がひびく！",
+        "thammy": "Through the sound of a propeller, Neil's voice echoes from a megaphone!",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "ニール：テムーっ！地上が近いぞーっ！！！！！",
+        "thammy": "Neil: Tiiim...! You're getting too close to the grouuund...!!",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "エアプレインで受けとめるからそこから飛びおりるんだっ！！",
+        "thammy": "I'll catch you in my aeroplane, so jump down...!!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06805C",
+    "path": "seaside_palace/sp58_missed_flight.asm",
+    "parts": [
+      {
+        "source": "Neil",
+        "japanese": "ニール：しまったあっ！このぼくがミスするとはっ！！",
+        "thammy": "Neil: Draaat...! I… I missed...!!",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：ニールのばかばかばかばかっ！テムが死んじゃうっ！！！",
+        "thammy": "Karen: Neil you dumb dumb dumb dummy...! Tim's going to die...!!",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "ロブ：ニール！まだ地上までもう少しあるっ！もう一回だっ！！",
+        "thammy": "Rob: Neil! There's still a little more time before he hits the ground..! Do it one more time...!!",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "ニール：よおし！今度こそは見てろっ！！！",
+        "thammy": "Neil: Alright! This time for sure, you'll see...!!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_068230",
+    "path": "seaside_palace/sp58_red_eye.asm",
+    "parts": [
+      {
+        "source": "Neil",
+        "japanese": "ニール：しかしあぶないところだった…",
+        "thammy": "Neil: That was dangerous...",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：くすんくすん…",
+        "thammy": "Karen *Sniffle* *Sniffle*...",
+        "tone": ""
+      },
+      {
+        "source": "Eric",
+        "japanese": "エリック：ヒックヒックぐすっ…",
+        "thammy": "Eric: *Sob* *Sob* *Sob*",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "ロブ：カレンもエリックも泣くなよ。テムは助かったんだからさ。",
+        "thammy": "Rob: Karen and Eric, stop cryin'. We saved Tim, after all.",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：しっかしニールってすごいよね。こんなもの作っちゃうんだもん。",
+        "thammy": "Lillie: By the waaay, Neil's amazing, isn't he? Having made a thing like this.",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "ニール：はっは。そんなにほめないでくれよ。",
+        "thammy": "Neil: Haha. Please don't praise me like that.",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "それよりこのまま次のイセキまで送ってあげよう。",
+        "thammy": "Anyway, I'll take you to the next ruin with this.",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "例の白鳥座の形から言うとムー大陸のはずだ。",
+        "thammy": "If we go by the precedent of the ruins mapping up to the shape of the constellation of Cygnus, the next ruin should be the continent of Mu.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06834A",
+    "path": "seaside_palace/sp58_red_eye.asm",
+    "parts": [
+      {
+        "source": "Neil",
+        "japanese": "ニール：さあ海へでるぞっ！！",
+        "thammy": "Neil: Alright, out to the ocean...!!",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "この大海原のどこかにムー大陸がねむっているはずだ。",
+        "thammy": "The continent of Mu should be sleeping somewhere in this deep blue sea.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0683EB",
+    "path": "seaside_palace/sp58_monologue.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：ぼくらはききいっぱつでエアプレインからにげだした…",
+        "thammy": "Tim: We barely ejected from the aeroplane...",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "ニールはすごい発明家だが彼の作品にはいつもどこかしらぬけているところがある…",
+        "thammy": "Neil is an amazing inventor but his products are always missing something...",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "かんぺきな人間なんてどこにもいないのかもしれないとぼくは思った。",
+        "thammy": "It occurred to me that a prefect person may not exist anywhere.",
+        "tone": ""
+      }
+    ]
+  }
+]
+

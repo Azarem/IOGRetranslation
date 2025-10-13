@@ -1,0 +1,639 @@
+[
+  {
+    "name": "widestring_0881E2",
+    "path": "native_village/nvAC_kara.asm",
+    "parts": [
+      {
+        "source": "Kara",
+        "japanese": "カレン：熱帯地方だけあってすごい暑さよね…",
+        "thammy": "Karen: It can get amazingly hot around the tropics, huh...",
+        "tone": ""
+      },
+      {
+        "source": "Eric",
+        "japanese": "エリック：世界がゆがんで見えるし目もかすんできちゃったよう…",
+        "thammy": "Eric: I'm even seeing the world as warped; everything looks hazy...",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：しかたないなあ。今日はこの村にとめてもらおうか。",
+        "thammy": "Tim: I guess it can't be helped. Today, should we stay in this village?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_088020",
+    "path": "native_village/nvAC_bones.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "まだ風化していない…最近白骨化した死体のようだな。",
+        "thammy": "It still isn't significantly weathered... It seems like a recently skeletonized corpse.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08826B",
+    "path": "native_village/nvAC_bones.asm",
+    "parts": [
+      {
+        "source": "Kara",
+        "japanese": "カレン：なんだか不気味ね…人っ子一人いないしガイコツが転がっているし…",
+        "thammy": "Karen: It's a little ominous, isn't it…? There isn't a single person here but skeletons are lying around...",
+        "tone": ""
+      },
+      {
+        "source": "Kara",
+        "japanese": "とりあえず家の中へ入ってみましょうか？",
+        "thammy": "Not to distract from that; shall we enter a house and take a look inside?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0892E4",
+    "path": "native_village/nvAE_stone_girl1.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "少女の石像がひっそりとたたずんでいる。",
+        "thammy": "Statues of girls are standing quietly.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0893BF",
+    "path": "native_village/nvAE_stone_girl2.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "少女の石像がひっそりとたたずんでいる。",
+        "thammy": "Statues of girls are standing quietly.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0894B3",
+    "path": "native_village/nvAE_stone_girl3.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "少女の石像がひっそりとたたずんでいる。",
+        "thammy": "Statues of girls are standing quietly.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_088B32",
+    "path": "native_village/nvAD_kara.asm",
+    "parts": [
+      {
+        "source": "Kara",
+        "japanese": "カレン：だれもいないわね…すてられた村なのかしら…？",
+        "thammy": "Karen: No one's here, huh... I wonder if it's an abandoned village...?",
+        "tone": ""
+      },
+      {
+        "source": "Eric",
+        "japanese": "エリック：ちょうどいいじゃない。勝手に休ませてもらっちゃお。",
+        "thammy": "Eric: It's just right for us, isn't it? We can rest as much as we like.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_088BD8",
+    "path": "native_village/nvAD_erik.asm",
+    "parts": [
+      {
+        "source": "Eric",
+        "japanese": "エリック：もうへとへとだあ。ぼくはきっと１００時間くらい起きないと思うよ。",
+        "thammy": "Eric: I'm already exhausted. I don't think I'll get up for a hundred hours.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_088C47",
+    "path": "native_village/nvAD_hamlet.asm",
+    "parts": [
+      {
+        "source": "Hamlet",
+        "japanese": "ブヒブヒッ",
+        "thammy": "Squee squee…",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_088B8B",
+    "path": "native_village/nvAD_hamlet.asm",
+    "parts": [
+      {
+        "source": "Kara",
+        "japanese": "カレン：今日はもう休みましょ。",
+        "thammy": "Karen: Let's try to rest for today.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0882C7",
+    "path": "native_village/nvAD_hamlet.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "旅のつかれから一行は深いねむりに落ちた…",
+        "thammy": "We were tired from the journey, so the party fell into a deep sleep...",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "それからしばらくして…",
+        "thammy": "And then, after a while...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08830F",
+    "path": "native_village/nvAD_hamlet.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：むにゃ…ペギーかい…？もう少しねかせてくれないか..",
+        "thammy": "Tim: Mrrrm... Peggy...? Let me sleep a little more...",
+        "tone": ""
+      },
+      {
+        "source": "Kara",
+        "japanese": "カレン：ううん…ちょっとテム…変なとこさわんないでよ…",
+        "thammy": "Karen: Ugh... Wait a second, Tim... Don't touch me in weird places...",
+        "tone": ""
+      },
+      {
+        "source": "Kara",
+        "japanese": "カレン：ハッ！だれっ？あなたたちっ？！",
+        "thammy": "Karen: Huh...! Who...? Who are you...?!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08839D",
+    "path": "native_village/nvAD_hamlet.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "彼らはどうやら人食い人種のようだった…",
+        "thammy": "It seemed like they could have been a cannibal tribe...",
+        "tone": ""
+      },
+      {
+        "source": "Kara",
+        "japanese": "カレン：見て。あの子供たち。あんなガリガリにやせちゃって..",
+        "thammy": "Karen: Look. Those children. They've become all skin and bones...",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：そうか…花の都でドレイの少年が言ってたっけ。",
+        "thammy": "Tim: That's right... Isn't that what the slave boy in the Capital of Flowers was saying?",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "こきょうでは食料が不足してるって…",
+        "thammy": "In his hometown, there's a food shortage...",
+        "tone": ""
+      },
+      {
+        "source": "Kara",
+        "japanese": "カレン：そのへんに転がっていた骨は食料になった人の亡きがらなのね。",
+        "thammy": "Karen: I guess those mysterious bones that were scattered around were the remains of people who they had eaten, aren't they?",
+        "tone": ""
+      },
+      {
+        "source": "Eric",
+        "japanese": "エリック：うわーん。やっぱりぼくら食べられちゃうんだあっ！！",
+        "thammy": "Eric: Waah. They're going to eat usss...!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0887C6",
+    "path": "native_village/nvAD_hamlet.asm",
+    "parts": [
+      {
+        "source": "Kara",
+        "japanese": "カレン：ペギー…そんな悲しそうな目をして…",
+        "thammy": "Karen: Peggy... Making sad-looking eyes like that...",
+        "tone": ""
+      },
+      {
+        "source": "Kara",
+        "japanese": "もうすぐあなたともみんなともお別れなのよ…",
+        "thammy": "Could it be that you're parting with everyone soon...?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_088811",
+    "path": "native_village/nvAD_hamlet.asm",
+    "parts": [
+      {
+        "source": "Kara",
+        "japanese": "カレン：きゃあああーーーーーーーーーっ！！ペギーっ！ペギーーーっ！！",
+        "thammy": "Karen: Eeeeeeeeeeeeeek...!! Peggy...! Peggyyy...!!",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：ペギー…どうして…",
+        "thammy": "Tim: Peggy... Why…?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08885C",
+    "path": "native_village/nvAC_hamlet.asm",
+    "parts": [
+      {
+        "source": "Eric",
+        "japanese": "エリック：うわーん…ペギー…自分だけ先に死んじゃってずるいよ…",
+        "thammy": "Eric: Waah... Peggy... You snuck ahead and died before us...",
+        "tone": ""
+      },
+      {
+        "source": "Kara",
+        "japanese": "カレン：ペギー…ヒック..ヒック….",
+        "thammy": "Karen: Peggy... Sob.. Sob…",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08890E",
+    "path": "native_village/nvAC_hamlet.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "頭の中に聞き覚えのある声が話しかけてきた。",
+        "thammy": "Inside our heads, a voice that I was familiar with before began to speak to us.",
+        "tone": ""
+      },
+      {
+        "source": "Tim's Mother",
+        "japanese": "みんなお聞きなさい。ペギーは自らの意志で村人たちの食料となったのです。",
+        "thammy": "Everyone, please listen. Peggy became food for the villagers by her own personal decision.",
+        "tone": ""
+      },
+      {
+        "source": "Tim's Mother",
+        "japanese": "いっぴきの子ブタが数人の村人を救うために行動を起こしました。",
+        "thammy": "One piglet acted to save several villagers.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：もしかしてかあさん…？",
+        "thammy": "Tim: Could you be my mom...?",
+        "tone": ""
+      },
+      {
+        "source": "Tim's Mother",
+        "japanese": "テム…そしてこの場にいるみんな…世界にヤミがせまっています。",
+        "thammy": "Tim... And everyone that's come this far... Darkness is approaching the world.",
+        "tone": ""
+      },
+      {
+        "source": "Tim's Mother",
+        "japanese": "今度はあなたたちが力を合わせこの星を救う番なのですよ。",
+        "thammy": "Now it's your turn to put your powers together and save this planet.",
+        "tone": ""
+      },
+      {
+        "source": "Tim's Mother",
+        "japanese": "そしてテム。ミステリードールを集めバベルの塔へむかいなさい…",
+        "thammy": "So Tim, please collect the Mystery Dolls and head to the Tower of Babel",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_088EDC",
+    "path": "native_village/nvAC_staring_man.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "男はテムの目をじっと見つめている…",
+        "thammy": "The man is staring motionlessly into your eyes...",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "見つめ返しますか？ ／ はい ／ いいえ",
+        "thammy": "Stare back? / Yes / No",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_088F15",
+    "path": "native_village/nvAC_staring_man.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "男はまるでひとみのおくの自分を見つめているようだ…",
+        "thammy": "It seems like man is staring at himself within your eyes…",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "おたがい言葉はわからないが何かが芽生えたような気がした。",
+        "thammy": "You couldn't understand each other's language, but you could feel the buds of understanding sprout.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_088F71",
+    "path": "native_village/nvAC_staring_man.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "男はさびしそうな顔をした…",
+        "thammy": "The man's face seems lonely...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_088CE0",
+    "path": "native_village/nvAC_hand_man.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "男はおずおずと手をさしのべた…",
+        "thammy": "The man holds out a trembling hand...",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "手をにぎり返しますか？ ／ はい ／ いいえ",
+        "thammy": "Grasp his hand in return? / Yes / No",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_088D1F",
+    "path": "native_village/nvAC_hand_man.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "おたがい言葉はわからないが何かが通じあったような気がした。",
+        "thammy": "You couldn't understand each other, but you felt that something seemed to have been communicated.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_088D54",
+    "path": "native_village/nvAC_hand_man.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "男は悲しそうな顔をした…",
+        "thammy": "The man's face seems lonely...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_088DDE",
+    "path": "native_village/nvAC_dumpling_man.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "男は何かちっぽけな食べ物をさしだした…",
+        "thammy": "The man holds out a tiny piece of food...",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "食べてみますか？ ／ はい ／ いいえ",
+        "thammy": "Try to eat it? / Yes / No",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_088E0F",
+    "path": "native_village/nvAC_dumpling_man.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "虫をダンゴ状にした食べ物のようだった…",
+        "thammy": "It seemed like it was made of bugs and pressed into the shape of a dumpling...",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "胸にこみ上げてくるものがあったが何かが通じあったような気がした。",
+        "thammy": "It made you nauseated, but you felt that something seemed to have been communicated.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_088E72",
+    "path": "native_village/nvAC_dumpling_man.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "男は悲しそうな顔をした…",
+        "thammy": "The man seemed to make a sad-looking face...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_088FE1",
+    "path": "native_village/nvAC_map_kid.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "少年は北東の方角を指さしている…",
+        "thammy": "The boy points to the northeast...",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "地図を見せてみますか？ ／ はい ／ いいえ",
+        "thammy": "Try showing him your map? / Yes / No",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08901E",
+    "path": "native_village/nvAC_map_kid.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "",
+        "thammy": "The boy drew a picture of a Buddhist temple on the map!",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "言葉はわからないが少年はこの寺院へ行ってほしいのだろう…",
+        "thammy": "You don't understand his language, but the boy probably wants to go to this Buddhist temple...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_089078",
+    "path": "native_village/nvAC_map_kid.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "少年はさびしそうな顔をした…",
+        "thammy": "The boy made a lonely-seeming face...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_089126",
+    "path": "native_village/nvAC_beckon_kid.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "少年はテムのそでをひっぱった。どこかへ連れていきたいのだろう。",
+        "thammy": "The boy pulls on your sleeve. He probably wants to take you somewhere.",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "ついていきますか？ ／ はい ／ いいえ",
+        "thammy": "Go along? / Yes / No",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_089178",
+    "path": "native_village/nvAC_beckon_kid.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "少年はほほえんで手まねきした。",
+        "thammy": "The boy smiled and beckoned with his hand.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_089190",
+    "path": "native_village/nvAC_beckon_kid.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "少年はさびしそうな顔をした…",
+        "thammy": "The boy made a lonely-seeming face...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0891A2",
+    "path": "native_village/nvAC_beckon_kid.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "少年はガイ骨にむかって目になみだをためている…",
+        "thammy": "The boy is facing the skeleton with tears welling in his eyes...",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "このガイ骨は肉親だったのか？それとも友達だったのだろうか？",
+        "thammy": "Was this skeleton a blood relative? Or could they have been a friend?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0888AD",
+    "path": "native_village/nvAC_beckon_kid.asm",
+    "parts": [
+      {
+        "source": "Hamlet",
+        "japanese": "ブヒブヒッ",
+        "thammy": "Squee squee...",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "という声ももう二度と聞くことはできない…",
+        "thammy": "You can't ever hear the voice which made that sound again...",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "ペギーからはこうばしいかおりがただよっている。",
+        "thammy": "A savoury scent is floating from Peggy.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0885DC",
+    "path": "native_village/nvAC_erik.asm",
+    "parts": [
+      {
+        "source": "Eric",
+        "japanese": "エリック：人食い人種って人を見つけると食べちゃうおそろしい人たちかと思ってた。",
+        "thammy": "Eric: When we found this so-called cannibal tribe, I had thought they must be terrifying people to eat other humans.",
+        "tone": ""
+      },
+      {
+        "source": "Eric",
+        "japanese": "生きるためには同じ種族でもとも食いする…人間ってやっぱり動物なんだなあ…",
+        "thammy": "Even though they were of the same tribe, they had to eat their friends in order to survive... I guess that humans are animals after all...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0884FB",
+    "path": "native_village/nvAC_erik.asm",
+    "parts": [
+      {
+        "source": "Kara",
+        "japanese": "カレン：食べられるために自分から火に飛びこむなんて…",
+        "thammy": "Karen: How could she leap into the fire so that she could be eaten…?",
+        "tone": ""
+      },
+      {
+        "source": "Kara",
+        "japanese": "ペギー…なんてやさしい子なの…",
+        "thammy": "Peggy... What a kind child...",
+        "tone": ""
+      }
+    ]
+  }
+]
+

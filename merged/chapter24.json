@@ -1,0 +1,1089 @@
+[
+  {
+    "name": "widestring_0780B6",
+    "path": "watermia/wa78_intro.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "ぼくらは水上都市ウォータミアにやってきた。イカダの上に家がたちならびそれは美しい町だった。",
+        "thammy": "We arrived at the Floating City, Watermia. It was a beautiful town made up of rows of houses that were built on rafts.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "町の人々も親切でぼくらはルークという青年の家にとめてもらうことになった。",
+        "thammy": "Since the townspeople are nice too, we ended up being given accommodations in the house of a friendly young man named Luke.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_078139",
+    "path": "watermia/wa78_intro.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "そしてここがルークの家。彼は漁師をやっている好青年だ。",
+        "thammy": "And here is Luke's house. He's a kind gentleman who works as fisherman.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "遠洋航海で長期間海に出るためその間家を使わせてもらうことになったというわけだ。",
+        "thammy": "He was going out for a long time on an ocean voyage, so he said that we should use his house in the meantime.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07A613",
+    "path": "watermia/wa79_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：ウォータミアはすごくきれいな町だけどちょっといやなうわさを耳にしたの…",
+        "thammy": "Karen: Watermia is an amazingly pretty town, but I've heard some unpleasant gossip...",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "人の命をもてあそぶとか…なんだとか…",
+        "thammy": "Something like playing with people's lives... What was it…?",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "花の都もそうだったけど美しいものには必ず裏の顔があるのかしら…",
+        "thammy": "I wonder if without exception, beautiful things always have another side.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "花の都もそうだったけど美しいものには必ず裏の顔があるのかしら…",
+        "thammy": "It was like that with the Capital of Flowers...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07A475",
+    "path": "watermia/wa79_erik.asm",
+    "parts": [
+      {
+        "source": "Eric",
+        "japanese": "エリック：えへへ。さっきいいもの見つけちゃった。",
+        "thammy": "Eric: Eheheh. I found something good just now.",
+        "tone": ""
+      },
+      {
+        "source": "Eric",
+        "japanese": "そとへ出てこの家の裏側を調べてごらんよ。ちょっとばかり良心がとがめるけどね…",
+        "thammy": "Take a look behind this house. It'll might hurt your conscience a little, but hey...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07A92F",
+    "path": "watermia/wa79_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：ロブはねなんか町の中でだれか知っている人を見かけたんだって。",
+        "thammy": "Lillie: Hey, by the way, Rob noticed someone he knows in town.",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "でその人をさがしに行ったみたいだよ。",
+        "thammy": "And it looks like he went looking for them.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07A217",
+    "path": "watermia/wa79_neil.asm",
+    "parts": [
+      {
+        "source": "Neil",
+        "japanese": "ニール：このイカダの家は新たな発明のヒントになりそうだなあ…",
+        "thammy": "Neil: These houses on rafts are inspiring me for a new invention...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07879B",
+    "path": "watermia/wa78_men.asm",
+    "parts": [
+      {
+        "source": "Luke",
+        "japanese": "ルーク：やあ。家は気に入ってくれたかい？ぼくが航海にでてるあいだは自由に使ってくれよ。",
+        "thammy": "Luke: Yo. Are you taking a liking to the house? You're free to use it when I go out on my voyage.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_079C19",
+    "path": "watermia/wa78_diary.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "カレンの日記がかくしてある…読みますか？ ／ はい ／ いいえ",
+        "thammy": "Karen hid her diary here... Read it? / Yes / No",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_079C4A",
+    "path": "watermia/wa78_diary.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "そうだな。勝手に読むのも気がとがめるしやめておこう…",
+        "thammy": "I guess that's how it is. I'd feel guilty even if's just selfishly reading it, so I'll pass...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_079C81",
+    "path": "watermia/wa78_diary.asm",
+    "parts": [
+      {
+        "source": "Karen (diary)",
+        "japanese": "X月X日 ／ 長い長い道のりだったけど水の都ウォータミアへやっとたどり着いた。",
+        "thammy": "Day X of month X / It's been a long long road, but we finally arrived the Capital of Water, Watermia.",
+        "tone": ""
+      },
+      {
+        "source": "Karen (diary)",
+        "japanese": "とちゅうのどがカラカラだったけどがまんしたし、くつずれができたけどハンカチで包帯をしてがんばったわ。",
+        "thammy": "I was thirsty along the way, but I endured it. I was developing blisters inside my shoes, but I did my best to bandage them with a handkerchief.",
+        "tone": ""
+      },
+      {
+        "source": "Karen (diary)",
+        "japanese": "前だったら文句ばっかり言ってたかもしれないけど言わなかった。あたしってこの旅でずいぶん変わったと思う…",
+        "thammy": "Maybe I would have just complained before, but I didn't say anything now. I think I've changed dramatically with this journey...",
+        "tone": ""
+      },
+      {
+        "source": "Karen (diary)",
+        "japanese": "だれかのためにいっしょうけんめいになれる今の自分がちょっぴり気に入っているの。",
+        "thammy": "I've become used to putting in my full effort for the sake of a certain someone. I'm taking a bit of a liking to who I am now.",
+        "tone": ""
+      },
+      {
+        "source": "Karen (diary)",
+        "japanese": "さっき町の人からこんな言い伝えを聞いちゃった。",
+        "thammy": "I just heard from a townsperson about a legend that's spoken of here.",
+        "tone": ""
+      },
+      {
+        "source": "Karen (diary)",
+        "japanese": "「満月の夜にハスの葉の上でおいのりすると好きな人が自分にふりむいてくれる…",
+        "thammy": "\"If you make wish while riding a lotus leaf on a full moon night, the person you like will take a close look at you…\"",
+        "tone": ""
+      },
+      {
+        "source": "Karen (diary)",
+        "japanese": "すてきな言い伝えよね。そのうちためしてみよっかな…",
+        "thammy": "It's a wonderful legend, isn't it? Can't I can try it out soon...?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_079AEF",
+    "path": "watermia/wa78_kruk.asm",
+    "parts": [
+      {
+        "source": "Kruk",
+        "japanese": "キューイキューイ",
+        "thammy": "Kyuui kyuui",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_078CC5",
+    "path": "watermia/wa78_children.asm",
+    "parts": [
+      {
+        "source": "Savvas",
+        "japanese": "サーバス：ぼくのお父さんは探険家なんだ。もうじき黄金の船を見つけて来るんだよっ！！",
+        "thammy": "Savvas: My dad is an explorer.",
+        "tone": ""
+      },
+      {
+        "source": "Savvas",
+        "japanese": "サーバス：ぼくのお父さんは探険家なんだ。もうじき黄金の船を見つけて来るんだよっ！！",
+        "thammy": "He's going to come back to us soon, right after he discovers the golden ship...!!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_078A26",
+    "path": "watermia/wa78_women.asm",
+    "parts": [
+      {
+        "source": "Nana",
+        "japanese": "ナナ：お父さんの最後の手紙を受けとってからもう半年も音さたがないの…",
+        "thammy": "Nana: We haven't heard news from our dad even though it's already been half a year since we received his last letter...",
+        "tone": ""
+      },
+      {
+        "source": "Nana",
+        "japanese": "無事だといいのだけれど…",
+        "thammy": "It'll be fine so long as he's safe, but...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07A0A7",
+    "path": "watermia/wa78_crazy_man.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "２年前頭のおかしいじいさんがこの町へやってきたんだ。それ以来バベルの塔がどうとか変なことを口走ってばかりさ。",
+        "thammy": "An insane old man arrived in this town two years ago.",
+        "tone": ""
+      },
+      {
+        "source": "Man",
+        "japanese": "２年前頭のおかしいじいさんがこの町へやってきたんだ。それ以来バベルの塔がどうとか変なことを口走ってばかりさ。",
+        "thammy": "He's only blabbering strange things about the tower of Babel and stuff like that since then.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_078C59",
+    "path": "watermia/wa78_children.asm",
+    "parts": [
+      {
+        "source": "Child",
+        "japanese": "子供：前に万里の長城に行ったときヘビにかまれたんだ…",
+        "thammy": "Child: A snake bit me when I went to the Great Wall of China before...",
+        "tone": ""
+      },
+      {
+        "source": "Child",
+        "japanese": "このあたりのヘビは一度かみつくとなかなかはなさないんだよ。",
+        "thammy": "If the snakes around here land their teeth on you even once, they won't easily let go.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_078C12",
+    "path": "watermia/wa78_children.asm",
+    "parts": [
+      {
+        "source": "Child",
+        "japanese": "子供：ヘビにかまれたらめちゃくちゃに走りまわればいいのさ。そしたらポロっと落っこちるよ。",
+        "thammy": "Child: If a snake bites you, run in circles randomly. If you do that they'll plop off.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0782BD",
+    "path": "watermia/wa78_centipede_man.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "男：万里の長城にはサンドファンガーっていうでっけえむかでが生息してるって話だ。",
+        "thammy": "Man: They say that a giant centipede called Sand Fanger inhabits the Great Wall of China.",
+        "tone": ""
+      },
+      {
+        "source": "Man",
+        "japanese": "そいつの体液はどんな病気も直す力があるらしいぜ。",
+        "thammy": "It seems that its bodily fluids have the power to cure any kind of disease.",
+        "tone": ""
+      },
+      {
+        "source": "Man",
+        "japanese": "漢方薬の原料には不気味なもんが多いけど虫の生き血だけは飲みたかねえなあ…",
+        "thammy": "Chinese herbal medicine uses a lot of weird things as ingredients but I don't think I'd drink just insect lifeblood...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_078D02",
+    "path": "watermia/wa78_children.asm",
+    "parts": [
+      {
+        "source": "Child",
+        "japanese": "子供：いいことを教えてあげる。",
+        "thammy": "Child: I'll teach you something good.",
+        "tone": ""
+      },
+      {
+        "source": "Child",
+        "japanese": "とばく場の右の裏手でしばらく待っててごらん。ハスの葉がやってくるよ。",
+        "thammy": "Try waiting behind the gambling house, on the right side. A lotus leaf will arrive.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_078B73",
+    "path": "watermia/wa78_women.asm",
+    "parts": [
+      {
+        "source": "Woman",
+        "japanese": "頭のおかしいおじいさんってすごいしらがだけど本当はまだ若いんですって。",
+        "thammy": "The so-called \"crazy old man\" has amazingly white hair but is actually still young.",
+        "tone": ""
+      },
+      {
+        "source": "Woman",
+        "japanese": "何かよっぽどこわいめに会ったのかしら…",
+        "thammy": "I wonder if he saw something that was extremely frightening...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0788E0",
+    "path": "watermia/wa78_men.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "この町のおくの家には頭がおかしくなっちまったじいさんが住んでるよ。",
+        "thammy": "An old man who went insane lives in a house deep in this town.",
+        "tone": ""
+      },
+      {
+        "source": "Man",
+        "japanese": "なんでもオールマン探険隊のバベルの塔調査に参加してただとか何だとか。",
+        "thammy": "I'm not sure, but I think he participated in the survey of the Tower of Babel by Allman expedition team or something that like that.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07842C",
+    "path": "watermia/wa78_moving_woman.asm",
+    "parts": [
+      {
+        "source": "Woman",
+        "japanese": "女：ここはウォータミア。家はみんなイカダの上だからひっこしなんて楽なものよ。",
+        "thammy": "Woman: This is Watermia. It's really easy to move because everyone's houses are on rafts.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_078AF8",
+    "path": "watermia/wa78_women.asm",
+    "parts": [
+      {
+        "source": "Woman",
+        "japanese": "女：もうじき赤ちゃんが生まれるの。うちの人ったら楽しみにしちゃってはりきって仕事をしてるわ。",
+        "thammy": "Woman: I'm going to have a baby soon.",
+        "tone": ""
+      },
+      {
+        "source": "Woman",
+        "japanese": "女：もうじき赤ちゃんが生まれるの。うちの人ったら楽しみにしちゃってはりきって仕事をしてるわ。",
+        "thammy": "My husband ended up looking forward to it, so he's diligently working away to support us.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_078E01",
+    "path": "watermia/wa7D_glass_opponent.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "男：ゴホッゴホッなーにちょっとカゼをひいただけさ。",
+        "thammy": "Man: *cough* *cough* Wh-what? I've only caught a little cold.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0785C9",
+    "path": "watermia/wa78_men.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "男：ここはウォータミア。家はみんなイカダの上だからひっこしなんて楽なもんさ。",
+        "thammy": "Man: This is Watermia. It's easy to move because everyone's houses are on rafts.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0784CF",
+    "path": "watermia/wa78_water_kid.asm",
+    "parts": [
+      {
+        "source": "Child",
+        "japanese": "子供：ぼくたちはこの水を飲んでこの水でごはんを作ってこの水でせんたくをするんだ。",
+        "thammy": "Child: We drink this water, we cook our rice in this water, we wash our clothes with this water.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0789C7",
+    "path": "watermia/wa78_women.asm",
+    "parts": [
+      {
+        "source": "Woman",
+        "japanese": "水は同じ場所にとどまっていないわ。たえまなく動いて自分をきれいにしようとするの。",
+        "thammy": "Water doesn't remain in one place. It beautifully moves itself without pause.",
+        "tone": ""
+      },
+      {
+        "source": "Woman",
+        "japanese": "わたしたちも水のように生きたいものね…",
+        "thammy": "We want to live like water too, you know…?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07876E",
+    "path": "watermia/wa78_men.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "このハスの葉は定員オーバーだよ。乗るなら他をあたってくれ。",
+        "thammy": "This lotus leaf is over capacity. Get another if you want to ride one.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_078607",
+    "path": "watermia/wa78_men.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "男：この動物はクルックって言うんだ。",
+        "thammy": "Man: This animal is called a Krook.",
+        "tone": ""
+      },
+      {
+        "source": "Man",
+        "japanese": "長期間飲まず食わずでも生きていられるから砂ばくをわたるのにちょうどいいんだよ。",
+        "thammy": "It's perfect for crossing the desert because it can survive for a long time without drinking or eating.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_078674",
+    "path": "watermia/wa78_men.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "男：ここはとばく場。子供なのにこんなところへくるとはよっぽどお金に困ってるんだな..",
+        "thammy": "Man: This is a gambling house.",
+        "tone": ""
+      },
+      {
+        "source": "Man",
+        "japanese": "男：ここはとばく場。子供なのにこんなところへくるとはよっぽどお金に困ってるんだな..",
+        "thammy": "I guess you must be really trouble for money if you're coming to a place like this even though you're a child...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_078ABA",
+    "path": "watermia/wa78_women.asm",
+    "parts": [
+      {
+        "source": "Woman",
+        "japanese": "見てのとおりお酒の飲みくらべよ。どっちがかつかかけてるの。",
+        "thammy": "As you can see, this is a drinking contest. We're gambling on who will win.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_078881",
+    "path": "watermia/wa78_men.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "人生なんてかけごとと同じさ。ちょっと判断をまちがえればじごくへの道をまっさかさまだ。",
+        "thammy": "It's just like gambling with human life.",
+        "tone": ""
+      },
+      {
+        "source": "Man",
+        "japanese": "人生なんてかけごとと同じさ。ちょっと判断をまちがえればじごくへの道をまっさかさまだ。",
+        "thammy": "If they make a little mistake in their judgement, they're sent headfirst down the road to hell.",
+        "tone": ""
+      },
+      {
+        "source": "Man",
+        "japanese": "人間それを無意識のうちにやってるもんさね。",
+        "thammy": "It's something that humans do within their unconscious mind, isn't it?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_078A73",
+    "path": "watermia/wa78_women.asm",
+    "parts": [
+      {
+        "source": "Woman",
+        "japanese": "人の命ってそんなかんたんなものじゃないはず。",
+        "thammy": "Human life isn't something easy.",
+        "tone": ""
+      },
+      {
+        "source": "Woman",
+        "japanese": "つまらないかけごとで命をそまつにしないようにね。",
+        "thammy": "Make sure not to throw your life away with worthless gambling.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0787DA",
+    "path": "watermia/wa78_men.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "もし大きな金が欲しいのならこの建物の裏側にうかんでいるイカダへ行ってみるんだな。",
+        "thammy": "You can try going to the raft floating behind this building if you want to make big money.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07881B",
+    "path": "watermia/wa78_men.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "少しばかりの金をかけても大きな金は手に入らないものさ。",
+        "thammy": "You can get a lot of money even if you only bet a little.",
+        "tone": ""
+      },
+      {
+        "source": "Man",
+        "japanese": "もし命をかける気があるならばく大な財産が手に入るかもな。",
+        "thammy": "I guess if you're willing to bet your life, you can get fabulously rich.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07A188",
+    "path": "watermia/wa7B_competitor_right.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "うーんうーん",
+        "thammy": "Ugh, ugh...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07A132",
+    "path": "watermia/wa7B_competitor_left.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "うおーーーーーっ！まだまだいけるぞっ！！！",
+        "thammy": "Raaaaaagh...! I can still keep going...!!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07B3C2",
+    "path": "watermia/wa7A_lances_father.asm",
+    "parts": [
+      {
+        "source": "Rob's father",
+        "japanese": "ロブの父：ぼくねこないだおともだちとたんけんにいったの。こわかったけどたのしかったあ。",
+        "thammy": "Rob's father: Hey, didja know? I just I went exploring with my friends. It was scary, but fuuun!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07AB82",
+    "path": "watermia/wa7A_lance.asm",
+    "parts": [
+      {
+        "source": "Rob",
+        "japanese": "ロブ：テムまってくれ。おれもいくよ。",
+        "thammy": "Rob: Tim... Don't ya remember this guy...?",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "ロブ：テムまってくれ。おれもいくよ。",
+        "thammy": "That's right, it's my old man.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07ABC4",
+    "path": "watermia/wa7A_lance.asm",
+    "parts": [
+      {
+        "source": "Rob",
+        "japanese": "ロブ：どうやら頭をやられちまっているみたいだ…",
+        "thammy": "Rob: It looks like he may have injured his head...",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "行方不明のおやじにやっと会えたと思ったらこれだもんな..",
+        "thammy": "I was thinkin' that I had finally met my missing old man, but I guess this is how it is...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07AC08",
+    "path": "watermia/wa7A_lance.asm",
+    "parts": [
+      {
+        "source": "Rob",
+        "japanese": "ロブ：テムまってくれ。おれもいくよ。",
+        "thammy": "Rob: Tim, wait. I'm going too.",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "今日はこれからリリィのたんじょう日パーティーだしな。暗くなっちゃいられないさ。",
+        "thammy": "It's Lillie's birthday party after this, ain't it. We can't be gloomy today.",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "さあ部屋へもどろうぜ。",
+        "thammy": "Alright, let's head back ta our room.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07AD31",
+    "path": "watermia/wa79_lance.asm",
+    "parts": [
+      {
+        "source": "Rob",
+        "japanese": "ロブ：さあみんなそろったところでリリィのたんじょう日を祝うとしようか。",
+        "thammy": "Rob: Alright, with everyone present, let's try ta celebrate Lillie's birthday.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07A974",
+    "path": "watermia/wa79_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：えっ？えっ？みんなあたしのたんじょう日を覚えててくれたの…？",
+        "thammy": "Lillie: Wha...? Wha...? Everyone remembered my birthday...?",
+        "tone": ""
+      },
+      {
+        "source": "Eric",
+        "japanese": "エリック：あたりまえじゃない！",
+        "thammy": "Eric: Isn't it obvious?",
+        "tone": ""
+      },
+      {
+        "source": "Eric",
+        "japanese": "びっくりさせようと思ってみんなでないしょにしてたんだ。",
+        "thammy": "We thought we'd surprise you so we kept it a secret.",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "ニール：ほらカレン。あれをもっておいで。",
+        "thammy": "Neil: Hey Karen. Bring that out now.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07A6AF",
+    "path": "watermia/wa79_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：はいっ。バースディケーキ！ニールが作ってくれたの。",
+        "thammy": "Karen: Got it... It's a birthday cake!",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：はいっ。バースディケーキ！ニールが作ってくれたの。",
+        "thammy": "Neil made it.",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "ニール：ははは。ケーキを作ったのは初めてさ。",
+        "thammy": "Neil: Hahaha. It's my first time making a cake.",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "飛行機を作るよりずっとむずかしかったよ。",
+        "thammy": "It was definitely harder than making an aeroplane.",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：ありがとう…みんな…",
+        "thammy": "Lillie: Thank you... Everyone...",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "あたし今日は世界でいちばんしあわせな女の子かも。",
+        "thammy": "Today, I might be the happiest girl in the world.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "こうしてリリィのささやかなたんじょう日パーティーははじまった。",
+        "thammy": "This is how Lillie's modest birthday party began.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "そしてパーティーが終わるころ..",
+        "thammy": "Then, when the party was nearly over...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07AD63",
+    "path": "watermia/wa79_lance.asm",
+    "parts": [
+      {
+        "source": "Rob",
+        "japanese": "ロブ：リリィさあ。ちょっと話があるんだけどいいかな？",
+        "thammy": "Rob: Lillie, hey. I have a little somethin' ta say ta ya; is that okay?",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "先に外で待ってる。",
+        "thammy": "I'll be waitin' outside.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07A9F2",
+    "path": "watermia/wa79_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：？？なんだろ？いったい…",
+        "thammy": "Lillie: Huh? What in the world is that about…?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07AA09",
+    "path": "watermia/wa79_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：ごめんね。ちょっといってくる。",
+        "thammy": "Lillie: Sorry. I'll head out for a bit.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07B277",
+    "path": "watermia/wa7F_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：なあに？",
+        "thammy": "Lillie: What is it?",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "いつものロブらしくないよ。なんだかかしこまっちゃってさ。",
+        "thammy": "You don't seem like your usual self. You're acting humble somehow.",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "ロブ：そうだろ。おれも自分が自分じゃないみたいだよ。",
+        "thammy": "Rob: I guess that's true. I don't seem like myself ta me, either.",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "これたんじょう日のプレゼント。いろいろ考えたんだけど気に入ってもらえるかな？",
+        "thammy": "Here's a birthday present. I thought o' various things, but I think this yer favourite, ain't it?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07B2E4",
+    "path": "watermia/wa7F_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：わあ。すごおおい。バラの花たばだっ！",
+        "thammy": "Lillie: Wow! This is amaaazing! It's a bouquet of roses...!",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "つぼみのバラ…これから花が開くところなんだね。",
+        "thammy": "Rosebuds... These will bloom into flowers, won't they?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07B329",
+    "path": "watermia/wa7F_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：すてきなかおり…",
+        "thammy": "Lillie: They have a wonderful aroma...",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "ありがとう。すっごくうれしい…",
+        "thammy": "Thank you. I'm aaamazingly happy...",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "ロブ：それからさ…プレゼントといっしょにどうしても伝えたい言葉があるんだ…",
+        "thammy": "Rob: Also… There are words I want ta convey ta ya together with tha present, any way I can.",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：なあに？",
+        "thammy": "Lillie: What?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07B0A2",
+    "path": "watermia/wa7F_lance.asm",
+    "parts": [
+      {
+        "source": "Rob",
+        "japanese": "ロブ：うん。早口言葉なんかよりずっとむずかしい言葉なんだけど…",
+        "thammy": "Rob: Yeah. Tha words are much more difficult than tongue twisters and stuff like that, but...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07B0E1",
+    "path": "watermia/wa7F_lance.asm",
+    "parts": [
+      {
+        "source": "Rob",
+        "japanese": "ロブ：リリィ…君のことが好きだ…",
+        "thammy": "Rob: Lillie... I care about ya a lot...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07B108",
+    "path": "watermia/wa7F_lance.asm",
+    "parts": [
+      {
+        "source": "Rob",
+        "japanese": "ロブ：すぐ返事をしてくれなくてもいい…",
+        "thammy": "Rob: It's okay if ya don't reply immediately…",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "でもさ自分の気持ちを伝えておきたかったんだ…",
+        "thammy": "But I wanted ta convey my own feelings ta ya...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07B158",
+    "path": "watermia/wa7F_lance.asm",
+    "parts": [
+      {
+        "source": "Rob",
+        "japanese": "ロブ：リリィ！まってくれっ！！",
+        "thammy": "Rob: Lillie! Please wait...!!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07B174",
+    "path": "watermia/wa7F_lance.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：そんな事件があったなんてぼくらはちっとも知らなかった。",
+        "thammy": "Tim: We didn't know that an incident like that had happened at all.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "その日リリィは部屋へもどってこなかった…",
+        "thammy": "Lillie didn't come back to our room that day...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07A79C",
+    "path": "watermia/wa79_kara.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：そして翌朝….",
+        "thammy": "Tim: Then, the following morning…",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "目がさめたときロブの姿も消えていた…",
+        "thammy": "When my eyes opened, there was no sign of Rob...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07A7E2",
+    "path": "watermia/wa79_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：ロブとリリィどうしたのかしら。心配よね…",
+        "thammy": "Karen: I wonder what happened to Rob and Lillie. I'm worried...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_039514",
+    "path": "chunk_038000.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "ロブのてがみ ／ ロブからのテムにあてられたてがみ。",
+        "thammy": "Rob's letter / A letter from Rob addressed to Tim.",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "ロブの手紙を開いた。",
+        "thammy": "Opened Rob's letter.",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "ロブ：おれはちょっと万里の長城まで行ってくる。",
+        "thammy": "Rob: I'm going ta tha Great Wall o' China fer a little bit.",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "みんなにはないしょのつもりだったけどテムにだけは伝えておこうと思う…",
+        "thammy": "I had intended ta keep this a secret from everyone, but I thought I'd only tell you...",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "テムの荷物の中にこの手紙を入れとくけど気づいてくれたかな。テムはにぶいからな。",
+        "thammy": "I'll put this letter in yer luggage, but I wonder if you'll notice. I think yer pretty dumb, after all.",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "町の人の話からおやじの病気を直す方法がわかったんだ…万里の長城にその薬があるらしい。",
+        "thammy": "I learned a method ta cure my old man's disease from tha townspeople's stories...",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "町の人の話からおやじの病気を直す方法がわかったんだ…万里の長城にその薬があるらしい。",
+        "thammy": "It seems like that medicine is at tha Great Wall o' China.",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "道のりは長いけどマラソンでもするつもりで行ってくるよ。心配しないでくれ。",
+        "thammy": "Tha path is long, but I'll just run it like a marathon and be right back. Don't worry.",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "追しん：あそうそう…リリィにふられちまったよ。",
+        "thammy": "P.S.: Ah, that's right, I nearly forgot... Lillie ended up turnin' me down.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07927C",
+    "path": "watermia/wa78_glass_game.asm",
+    "parts": [
+      {
+        "source": "Man",
+        "japanese": "命をかけた人生最大のかけごとロシアングラスは毎月満月の夜に行われるのさ。",
+        "thammy": "Every month on a full moon night, people play Russian glass.",
+        "tone": ""
+      },
+      {
+        "source": "Man",
+        "japanese": "命をかけた人生最大のかけごとロシアングラスは毎月満月の夜に行われるのさ。",
+        "thammy": "It's the ultimate form of gambling where you bet your very life.",
+        "tone": ""
+      },
+      {
+        "source": "Man",
+        "japanese": "でもぼうやはまだ若い。わざわざ命をすてることはないと思うけどな。",
+        "thammy": "But you're still young, little boy. I definitely don't think you should be throwing your life away.",
+        "tone": ""
+      }
+    ]
+  }
+]
+

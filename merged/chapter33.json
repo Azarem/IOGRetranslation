@@ -1,0 +1,477 @@
+[
+  {
+    "name": "widestring_0981F4",
+    "path": "babel_tower/btDC_plane_jumping.asm",
+    "parts": [
+      {
+        "source": "Neil",
+        "japanese": "ニール：さあそろそろ着くぞ。テム。おやじさんによろしくな。",
+        "thammy": "Neil: Well, we're about to arrive. Tim. I guess I should give my regards to your dad.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：ありがとう。ニールもりっぱな社長になってよね。",
+        "thammy": "Tim: Thank you. You've become an outstanding company president too, haven't you, Neil?",
+        "tone": ""
+      },
+      {
+        "source": "Eric",
+        "japanese": "エリック：あーあ。これでしばらくテムと会えなくなるんだなあ。",
+        "thammy": "Eric: Aah. From here on, I guess we won't be able to meet with you for a while.",
+        "tone": ""
+      },
+      {
+        "source": "Eric",
+        "japanese": "用がすんだらさっさとサウスケープの町にもどっておいでよ。",
+        "thammy": "When you're finished with what you have to do, come back to South Cape right away.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：サンキュ。ぼくもみんなと旅ができて楽しかった。",
+        "thammy": "Tim: Thanks. I had fun going on a journey with all of you too.",
+        "tone": ""
+      },
+      {
+        "source": "Eric",
+        "japanese": "エリック：この旅でみんな何かを見つけたよね。",
+        "thammy": "Eric: Everyone found something on this journey, haven't they?",
+        "tone": ""
+      },
+      {
+        "source": "Eric",
+        "japanese": "ロブはリリィと出会ったし行方不明の父さんとも再会した。",
+        "thammy": "Rob encountered Lillie, and met again with his missing father.",
+        "tone": ""
+      },
+      {
+        "source": "Eric",
+        "japanese": "ニールは親の会社をつぐことを心に決めたし、",
+        "thammy": "Neil set his heart on succeeding his parents' company.",
+        "tone": ""
+      },
+      {
+        "source": "Eric",
+        "japanese": "カレンは生まれてはじめてお城の外の世界を自分の足で見て回ったんだよね。",
+        "thammy": "For the first time since she was born, Karen saw the world outside of the castle and travelled it with her own two feet.",
+        "tone": ""
+      },
+      {
+        "source": "Eric",
+        "japanese": "ぼくもこの場をかりてひとつ。何と夜中に一人でおしっこにいけるようになりましたっ！",
+        "thammy": "I've done one thing to make use of this opportunity, too. It seems like I've become able to go pee by myself at night...!",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "ニール：ははは。エリックらしいや。",
+        "thammy": "Neil: Hahaha. Typical Eric.",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "ところでカレンはさっきから何にも話さないな。",
+        "thammy": "By the way, I don't think Karen has said anything yet.",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "テムとしばらく会えなくなるんだぞ。別れのあいさつくらいしとけよ。",
+        "thammy": "You won't be able to meet with Tim for a while. It's almost a parting statement.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：うん。そうね…",
+        "thammy": "Karen: Yeah. That's how it is, isn't it...",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "ニール：おっと話しているうちにバベルの塔はすぐそこだ。",
+        "thammy": "Neil: Oops, as I've been talking, we've come up to the Tower of Babel right here.",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "さあテム。パラシュートの準備はいいかっ？いくぞっ！",
+        "thammy": "Alright, Tim. Is your parachute ready...? Let's go...!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0984B1",
+    "path": "babel_tower/btDC_plane_jumping.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "そしてぼくは１年半ぶりにバベルの塔へ降り立とうとしている…",
+        "thammy": "And so, after a year and a half, I'm going to be standing in the Tower of Babel once again…",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_099914",
+    "path": "babel_tower/btDE_monologue.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "バベルの塔は静まりかえっている。まるでこの一年半の間時の流れが止まっていたみたいだった…",
+        "thammy": "The Tower of Babel was silent. It was as if time had stopped for the past year and a half...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_099952",
+    "path": "babel_tower/btDE_monologue.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "ぼくのもっている笛はここで発見されたんだっけ。",
+        "thammy": "If I recall, the flute that I'm holding was discovered here.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_099A70",
+    "path": "babel_tower/btDF_crystal_ring.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "笛から何かはずれてころがったみたいだ…..",
+        "thammy": "It seems that something broke off from my flute…",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_099A91",
+    "path": "babel_tower/btDF_crystal_ring.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "ここれはエドワード国王がこだわっていたすいしょうの指輪！",
+        "thammy": "T-this is the Crystal Ring that King Edward was obsessed with!",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "笛のかざりかと思っていたけどこんなところにかくされていたなんて…",
+        "thammy": "I had thought it was a decoration on the flute, but it was hidden here...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_099AE4",
+    "path": "babel_tower/btDF_crystal_ring.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "すいしょうの指輪を手に入れた！",
+        "thammy": "Got the Crystal Ring!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_039F35",
+    "path": "chunk_038000.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "これこそエドワード国王がさがしていたすいしょうの指輪だ。",
+        "thammy": "This is definitely the Crystal Ring that King Edward was searching for.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_099F1B",
+    "path": "babel_tower/btDF_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "まって….",
+        "thammy": "Wait…",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_099F2A",
+    "path": "babel_tower/btDF_kara.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：カレン！！！？",
+        "thammy": "Tim: Karen!?",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：ごめんなさい…今別れたらなんだか二度と会えないような気がして..",
+        "thammy": "Karen: I'm sorry... When we had been separated just now, I somehow had a feeling that we wouldn't meet again..",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：でもカレンはどうしてここへ入ってこられたんだろう？",
+        "thammy": "Tim: But Karen, how did you manage to come in here?",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "このクリスタルリングがなくちゃここへはこられないはずなのに…",
+        "thammy": "You shouldn't have been able to come without this Crystal Ring...",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：もしかするとこのゆびわのせいかしら…ほらインカの黄金船で見つけたじゃない？",
+        "thammy": "Karen: I wonder, could it be this ring that did it…? See, we found it at the Gold Ship of the Inca, didn't we?",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "このすいしょうの指輪の色はダークブルー…",
+        "thammy": "This Crystal Ring's colour is dark blue...",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "カレンの持っている指輪はライトブルーなのか…",
+        "thammy": "The ring that Karen is holding is light blue, isn't it...",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "もしかするとこれが光とヤミっていうことなのかな。",
+        "thammy": "I guess that maybe this is what you call light and darkness.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：わかったよ…何がおこるかわからないしぼくのそばからはなれるなよ。",
+        "thammy": "Tim: I understand... I don't know what will happen, but don't leave my side.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_099B8F",
+    "path": "babel_tower/btDF_spirits.asm",
+    "parts": [
+      {
+        "source": "Spirit",
+        "japanese": "あのすい星から放たれている強れつな光は生物の成長に大きなえいきょうをあたえる。",
+        "thammy": "The comet emits an intense light that has a large influence on how living things develop.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_099C95",
+    "path": "babel_tower/btDF_spirits.asm",
+    "parts": [
+      {
+        "source": "Spirit",
+        "japanese": "生き物は長い長い年月をかけて進化してきた。",
+        "thammy": "Living things evolved to this point over many, many years.",
+        "tone": ""
+      },
+      {
+        "source": "Spirit",
+        "japanese": "三葉虫から魚が生まれはちゅう類ほにゅう類をへて人類が生まれた。",
+        "thammy": "Trilobites gave birth to fish; reptiles, mammals gave birth to humanity.",
+        "tone": ""
+      },
+      {
+        "source": "Spirit",
+        "japanese": "そして人類はこの先さらに進化を続けていくことだろう。",
+        "thammy": "And humanity will continuously evolve more and more from here.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_099D16",
+    "path": "babel_tower/btDF_spirits.asm",
+    "parts": [
+      {
+        "source": "Spirit",
+        "japanese": "すい星は太古の時代から神の星とよばれまたあくまの星ともよばれてきた。",
+        "thammy": "From ancient times, the comet has been called both a star of the gods and a star of the devil.",
+        "tone": ""
+      },
+      {
+        "source": "Spirit",
+        "japanese": "だが今地球に近づいているすい星はあくまの星….",
+        "thammy": "But the comet that is now approaching the Earth is the star of the devil…",
+        "tone": ""
+      },
+      {
+        "source": "Spirit",
+        "japanese": "あの星は高度な意識をもち地球を自分の思い通りに進化させてきたのだ…",
+        "thammy": "That star is highly conscious, and it manipulates the Earth's evolution according to its own will...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_099C1E",
+    "path": "babel_tower/btDF_spirits.asm",
+    "parts": [
+      {
+        "source": "Spirit",
+        "japanese": "このバベルの塔の内部は時間の進みかたがちがう…通常の何百倍ものスピードで時が流れてゆく….",
+        "thammy": "The way time advances is different inside of the Tower of Babel... Time flows with hundreds of times its normal speed.",
+        "tone": ""
+      },
+      {
+        "source": "Spirit",
+        "japanese": "ここで生きていられるとはあんたらふつうの人間じゃないね…",
+        "thammy": "If you can survive here, you two aren't normal humans, are you…?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_099DE5",
+    "path": "babel_tower/btDF_spirits.asm",
+    "parts": [
+      {
+        "source": "Spirit",
+        "japanese": "そこの部屋には進化の光を使って作られた化け物がねむっている。上の階へいくのなら彼らをねむらせてやることだ…",
+        "thammy": "In the room there, monsters made using the light of evolution are sleeping. If you're going to the floor above, lay them to rest...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0986E1",
+    "path": "babel_tower/btDE_kara_missing.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "おやカレンがいない…どこへいったんだ…？",
+        "thammy": "Oh, Karen isn't here... Where did she go...?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_099866",
+    "path": "babel_tower/btE2_brought_back.asm",
+    "parts": [
+      {
+        "source": "Spirit",
+        "japanese": "お前はこの地球を救うためによみがえった人間。さあ上の階へ運んであげよう。",
+        "thammy": "You are a human revived to save the Earth. Alright, I'll carry you to the floor above.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_09974E",
+    "path": "babel_tower/btE1_comet_soon.asm",
+    "parts": [
+      {
+        "source": "Spirit",
+        "japanese": "もうまもなくすい星が地球のすぐ横を通過する。さあそれまでにバベルの塔の頂上へ…",
+        "thammy": "The comet will pass by the Earth's immediate vicinity soon. Well, until then, to the Tower of Babel's peak...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_098577",
+    "path": "babel_tower/btE3_kara.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：カレンっ！どこにいってたんだよっ！！",
+        "thammy": "Tim: Karen...! Where did you go...!?",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：きゅうけつきの女の人がやってきて話があるっていうから…",
+        "thammy": "Karen: It was because the vampire woman showed up, and we talked...",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "あの人永遠に死ぬことのできない体なんですって…",
+        "thammy": "She said that her body cannot die for all of eternity...",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "すい星さえなくなればやすらかなねむりにつけるって言ってたわ。",
+        "thammy": "But she could rest in peace if only the comet were to vanish.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_098053",
+    "path": "babel_tower/btE3_dao_travel_spirit.asm",
+    "parts": [
+      {
+        "source": "Spirit",
+        "japanese": "この先に進むとお前はもう後もどりできなくなる…",
+        "thammy": "If you advance from this point, you will no longer be able to return...",
+        "tone": ""
+      },
+      {
+        "source": "Spirit",
+        "japanese": "ダオの町へもどりたいなら運んであげるがどうする？ ／ やめる ／ ダオの町へもどる",
+        "thammy": "I'll transport you if you want to return to Dao, but what will you do? / Cancel / Return to Dao",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08E853",
+    "path": "actors/sE6_gaia.asm",
+    "parts": [
+      {
+        "source": "Gaia",
+        "japanese": "すい星が近づいている…そして最後のたたかいの時が近づいている…",
+        "thammy": "The comet is approaching... So the final battle is approaching..",
+        "tone": ""
+      },
+      {
+        "source": "Gaia",
+        "japanese": "そなたとこうして話すのもこの場所が最後になろう。",
+        "thammy": "This will even be the last time that I talk with thee like this.",
+        "tone": ""
+      },
+      {
+        "source": "Gaia",
+        "japanese": "そなたの力はすい星ダークガイアに戦いをいどめるまでによみがえり、すばらしいヤミの戦士に成長した。",
+        "thammy": "Thy power has revived to the point where it rivals the comet, Dark Gaia; thou hast grown into a magnificent Warrior of Darkness.",
+        "tone": ""
+      },
+      {
+        "source": "Gaia",
+        "japanese": "光の戦士と心が一つになったときシャドウのもつゆいいつの力ファイアバードがよみがえる。",
+        "thammy": "When thy heart becomes one with the Warrior of Light, Firebird will be revived; the power that only Shadow holds.",
+        "tone": ""
+      },
+      {
+        "source": "Gaia",
+        "japanese": "この星をもとの姿にもどせるのはそなただけ。私はすべてののぞみをそなたにたくそう…",
+        "thammy": "Thou alone canst restore this planet to its original form. I will entrust all my hopes to thee...",
+        "tone": ""
+      }
+    ]
+  }
+]
+

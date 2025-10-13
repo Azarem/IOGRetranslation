@@ -1,0 +1,578 @@
+[
+  {
+    "name": "widestring_06D5ED",
+    "path": "angel_village/av70_hidden_passage.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "かべのすきまから風がふきこんでいるようだ。",
+        "thammy": "It seems like wind is blowing in from a crack in the wall.",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "なんとかくしつうろを見つけた！",
+        "thammy": "Found a hidden passage!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06D66C",
+    "path": "angel_village/av70_crawlspace.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "入り口がせまくて通れない！",
+        "thammy": "The entrance is small; you can't pass though!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06D2FF",
+    "path": "angel_village/av74_kara.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：カレンの絵だ。彼女はこの中にすいこまれてしまったのか…",
+        "thammy": "Tim: A picture of Karen. Has she been absorbed into this…?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06CEF2",
+    "path": "angel_village/av74_ishtar.asm",
+    "parts": [
+      {
+        "source": "Ishtar",
+        "japanese": "イシタル：カレンとかいう娘をつれもどしにきたのじゃな。",
+        "thammy": "Ishtar: You came to take back that girl, haven't you? She was named Karen or something.",
+        "tone": ""
+      },
+      {
+        "source": "Ishtar",
+        "japanese": "ならばこの先の部屋へゆくがいい。すべてのなぞをとくことができたなら娘をかえしてやろう。",
+        "thammy": "You should go to the rooms ahead of here in that case. If you can solve all of the mysteries, I'll restore that girl to normal.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06DC97",
+    "path": "angel_village/av75_apprentice.asm",
+    "parts": [
+      {
+        "source": "Ishtar's apprentice",
+        "japanese": "イシタルの弟子：ここを通るのは手前の部屋のなぞをといてからだ。",
+        "thammy": "Ishtar's apprentice: You can pass when you solve the mystery of the room before you.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06D83E",
+    "path": "angel_village/av75_voice_doors.asm",
+    "parts": [
+      {
+        "source": "Ishtar",
+        "japanese": "イシタルの声がひびく。",
+        "thammy": "Ishtar's voice echoes.",
+        "tone": ""
+      },
+      {
+        "source": "Ishtar",
+        "japanese": "そうあせるでない。左のとびらから順番に開けてゆくのじゃ。",
+        "thammy": "Don't be impatient like that. Open them in order from the left door.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06DA14",
+    "path": "angel_village/av75_voice_rooms.asm",
+    "parts": [
+      {
+        "source": "Ishtar",
+        "japanese": "イシタルの声がひびく。",
+        "thammy": "Ishtar's voice echoes.",
+        "tone": ""
+      },
+      {
+        "source": "Ishtar",
+        "japanese": "その部屋の様子をじっくりと覚えるのじゃ。",
+        "thammy": "Carefully memorize the state of that room.",
+        "tone": ""
+      },
+      {
+        "source": "Ishtar",
+        "japanese": "完ぺきに覚えたと思ったら部屋からでるがよい。",
+        "thammy": "When you think you have it completely memorized you may leave the room.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06DA6B",
+    "path": "angel_village/av75_voice_rooms.asm",
+    "parts": [
+      {
+        "source": "Ishtar",
+        "japanese": "イシタルの声がひびく。",
+        "thammy": "Ishtar's voice echoes.",
+        "tone": ""
+      },
+      {
+        "source": "Ishtar",
+        "japanese": "前の部屋とちがっている場所を示すのじゃ。",
+        "thammy": "Indicate the place that differs from the previous room before you.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06DAF0",
+    "path": "angel_village/av75_voice_rooms.asm",
+    "parts": [
+      {
+        "source": "Ishtar",
+        "japanese": "正解じゃ！！つぼの色が変わっていたというわけじゃな。",
+        "thammy": "That's correct!! You've noticed that the jar's colour was different, haven't you.",
+        "tone": ""
+      },
+      {
+        "source": "Ishtar",
+        "japanese": "よかろう。次の部屋へ進むがよい。",
+        "thammy": "Very good. You may advance to the next room.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06D87B",
+    "path": "angel_village/av75_voice_doors.asm",
+    "parts": [
+      {
+        "source": "Ishtar",
+        "japanese": "イシタルの声がひびく。",
+        "thammy": "Ishtar's voice echoes.",
+        "tone": ""
+      },
+      {
+        "source": "Ishtar",
+        "japanese": "そのとびらはすでに開けたはず。もう開く必要はない。",
+        "thammy": "That door was already been opened. It isn't necessary to open it again.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06DB2C",
+    "path": "angel_village/av75_voice_rooms.asm",
+    "parts": [
+      {
+        "source": "Ishtar",
+        "japanese": "正解じゃ！",
+        "thammy": "That's correct!",
+        "tone": ""
+      },
+      {
+        "source": "Ishtar",
+        "japanese": "よかろう。次の部屋へ進むがよい。",
+        "thammy": "Very good. You may advance to the next room.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06DB4F",
+    "path": "angel_village/av75_voice_rooms.asm",
+    "parts": [
+      {
+        "source": "Ishtar",
+        "japanese": "正解じゃ！！なんとたからばこの中身がちがっているというわけじゃな。",
+        "thammy": "That's correct!! You've realized that the treasure chest's contents are different, haven't you.",
+        "tone": ""
+      },
+      {
+        "source": "Ishtar",
+        "japanese": "よかろう。次の部屋へ進むがよい。",
+        "thammy": "Very good. You may advance to the next room.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06DB9F",
+    "path": "angel_village/av75_voice_rooms.asm",
+    "parts": [
+      {
+        "source": "Ishtar",
+        "japanese": "正解じゃ！！風がふいておったためお前のカミはなびいていたんじゃな。",
+        "thammy": "That's correct!! Your hair was fluttering because the wind was blowing, wasn't it.",
+        "tone": ""
+      },
+      {
+        "source": "Ishtar",
+        "japanese": "お前はわしのテストにみごとパスした。さあもどってくるがよい。",
+        "thammy": "You have passed my tests splendidly. Alright, you may return.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06CF5E",
+    "path": "angel_village/av74_ishtar.asm",
+    "parts": [
+      {
+        "source": "Ishtar",
+        "japanese": "イシタル：わしはお前がくるのをまっておったんじゃよ。",
+        "thammy": "Ishtar: I had been waiting for you to come.",
+        "tone": ""
+      },
+      {
+        "source": "Ishtar",
+        "japanese": "まほうのこなを絵にふりかけ心のこもったくちづけをしてやるがよい。",
+        "thammy": "You should sprinkle this magic powder over the picture of that girl, then give it a heartfelt kiss.",
+        "tone": ""
+      },
+      {
+        "source": "Ishtar",
+        "japanese": "お前が本気であの娘を想ったとき何かがおこるはず。まあいずれわかることじゃろう。",
+        "thammy": "Something should happen if you truly feel for that girl. Well, you'll probably understand eventually.",
+        "tone": ""
+      },
+      {
+        "source": "Ishtar",
+        "japanese": "わしは自分で自画像をかいた。もうじき絵と同化する…",
+        "thammy": "I painted my own self-portrait. I will soon be assimilated into the picture...",
+        "tone": ""
+      },
+      {
+        "source": "Ishtar",
+        "japanese": "あのこを…大切に守ってやるのじゃぞ…",
+        "thammy": "That girl... Protect her carefully...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06D039",
+    "path": "angel_village/av74_ishtar.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "…………",
+        "thammy": "…",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06D278",
+    "path": "angel_village/av74_kara.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：まずはまほうのこなをかけなくては…",
+        "thammy": "Tim: I need to sprinkle the magic powder to start with...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0393C5",
+    "path": "chunk_038000.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "まほうのこなを使ってみることにした。",
+        "thammy": "Tried using the magic powder.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0393FA",
+    "path": "chunk_038000.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "カレンの絵にまほうのこなをふりかけた！",
+        "thammy": "Sprinkled the magic powder on the picture of Karen!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06D2A4",
+    "path": "angel_village/av74_kara.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：おねがいだ。カレン…もとのすがたにもどってくれ…",
+        "thammy": "Tim: I'm begging you. Karen... Please return to your original form...",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "テムはカレンの絵に心のこもったくちづけをした….",
+        "thammy": "Tim placed a heartfelt kiss on Karen's picture...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06D339",
+    "path": "angel_village/av74_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：テム…..勝手なことしてごめんなさい…",
+        "thammy": "Karen: Tim... I'm sorry for being selfish...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06D364",
+    "path": "angel_village/av74_kara.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：ああ悪いよっ！ものすごく悪いよっ！！！",
+        "thammy": "Tim: Agh, you've been terrible...! You've been incredibly bad...!!",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "人にめいわくかけるのもいいかげんにしろよなっ！！",
+        "thammy": "Are you so irresponsible that you're willing to cause trouble for other people...!?",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：…………",
+        "thammy": "Karen: …",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06D3CC",
+    "path": "angel_village/av74_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：うわああああああああああん。ヒック…ぐすっ…",
+        "thammy": "Karen: Waaaaaaaaaaah! *Sob*... *Sniff*...",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "あたし…ヒック自分でも何やってるのか..わかんないの…ぐすっ…",
+        "thammy": "I... *Sob* I don't even know.. why I'm doing it myself... *Sniff*...",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "お城にいるときはね…自分のほしいものは何だって手に入ってた…",
+        "thammy": "The thing is, when I was in the castle... I got everything that I wanted...",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "でも旅先ではぜんぜんちがうんだもの…",
+        "thammy": "But since I've been on this journey, it's been totally different...",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：あたりまえだろっ！何でも自分の思いどおりになるとおもったらおおまちがいだっ！！",
+        "thammy": "Tim: Isn't it obvious...!? When you're only thinking of yourself, you're in trouble when things get serious…!!",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：ちがうのっ！",
+        "thammy": "Karen: That's not it...!",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "遠くにいても近く感じて近くにいても遠く感じるものがあることを知ったの…",
+        "thammy": "Even when you're far away, I feel that you're close, and even when you're close to me I feel that you're far away...",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "テムがわかってくれなければそれでいい…",
+        "thammy": "If you don't understand, that's fine...",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "でもあたし今日のことは一生忘れないと思う…",
+        "thammy": "But I don't think I'll forget what happened today for the rest of my life...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06C568",
+    "path": "angel_village/av6A_erik.asm",
+    "parts": [
+      {
+        "source": "Neil",
+        "japanese": "ニール：カレン！心配したぞっ！！",
+        "thammy": "Neil: Karen! I was worried...!!",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：なんであんたはいつも一人でつっぱしるのよっ！！",
+        "thammy": "Lillie: Why do you always run around by yourself...!?",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "みんなの気持ちを考えたことあるわけっ？！",
+        "thammy": "Don't you have any concern for anyone else...!?",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：そのへんのことならテムにさんざんおこられたわよ。",
+        "thammy": "Karen: If you're talking about that, Tim already scolded me.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "というわけでみなさん本当にごめんなさいっ！ペコリっ。",
+        "thammy": "Because of that, I sincerely apologize to everyone...! *Bow*…",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "ニール：まあ本人もわかっているみたいだしその辺でゆるしてやれよ。",
+        "thammy": "Neil: Well, it seems that even the perpetrator understands the matter, so I can tolerate it.",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "ところでここから３日ほど南へ進んだところに水上都市があるらしいんだ。",
+        "thammy": "Anyway, it seems that if we proceed about three days to the south, you get to the Floating City.",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "とりあえずそこに行ってみようと思うんだ。出発の準備ができたら言ってくれ。",
+        "thammy": "I think we'll try to leave right away. Talk to me when you're prepared to leave.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06C6A0",
+    "path": "angel_village/av6A_erik.asm",
+    "parts": [
+      {
+        "source": "Eric",
+        "japanese": "エリック：あそういえばさ。ぼくだ天使の町の中で赤い宝石らしきものを見かけたよ。",
+        "thammy": "Eric: Ah, speaking of that. In the fallen angels' village, I noticed something that looked like a Red Jewel.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06C10D",
+    "path": "angel_village/av6A_neil.asm",
+    "parts": [
+      {
+        "source": "Neil",
+        "japanese": "ニール：出発してもいいのかい？ ／ いいよ ／ ちょっとまって",
+        "thammy": "Neil: Is it okay to go? / Yes / Wait a bit",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06C136",
+    "path": "angel_village/av6A_neil.asm",
+    "parts": [
+      {
+        "source": "Neil",
+        "japanese": "ニール：なにも急ぐことはないさ。ゆっくり用をすませておいで。",
+        "thammy": "Neil: Don't rush things. Take your time finishing your business.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06C2F8",
+    "path": "angel_village/av6A_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：カレンの様子がなんか変なんだよね…",
+        "thammy": "Lillie: Karen seems to be strange somehow, doesn't she…?",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "カレンと何かあったの？あたしのカンはするどいんだから。",
+        "thammy": "I have a sense about these things; was something wrong with Karen?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06BFBE",
+    "path": "angel_village/av6A_lance.asm",
+    "parts": [
+      {
+        "source": "Rob",
+        "japanese": "ロブ：リリィは水上都市でたん生日を向えることになるんだよな…",
+        "thammy": "Rob: I suppose that Lillie's birthday will come when we're in the Floatin' City…",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06C417",
+    "path": "angel_village/av6A_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：水上都市ってねイカダの上にたくさん家がたってるんだって。",
+        "thammy": "Karen: You know, they say that there are a lot of houses built on rafts in the place that they call the Floating City.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "なんだかロマンチックよね。楽しみだなっ。",
+        "thammy": "It's kind of romantic, isn't it? I think it's fun…",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_06C15C",
+    "path": "angel_village/av6A_neil.asm",
+    "parts": [
+      {
+        "source": "Neil",
+        "japanese": "ニール：水上都市はかなり暑いところにあるらしい。",
+        "thammy": "Neil: It seems that the Floating CIty is a considerably hot place.",
+        "tone": ""
+      },
+      {
+        "source": "Neil",
+        "japanese": "みんな日射病にならないよう気をつけるんだぞ。",
+        "thammy": "Everyone mustn't get heatstroke, so take care.",
+        "tone": ""
+      }
+    ]
+  }
+]

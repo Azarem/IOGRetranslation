@@ -1,0 +1,561 @@
+[
+  {
+    "name": "widestring_089807",
+    "path": "ankor_wat/awB0_intro.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "原住民の村落から３日ほどジャングルを分け入るとそこにはきょ大な寺院がたたずんでいた。",
+        "thammy": "If you push through the jungle from the aboriginal's village for at most three days, you're met with a gigantic temple.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08A027",
+    "path": "ankor_wat/awB6_bones.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "失われた時のみりょくにとりつかれた探険家のなれの果てだろうか…？",
+        "thammy": "Could this be what remains of a lost explorer that was enchanted by this lost history?",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "おや？何か手帳のようなものがにぎられているようだ… ／ 読んでみる ／ やめておく",
+        "thammy": "Oh? They're clutching something like a notebook... / Try to read it / Leave it be",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08A096",
+    "path": "ankor_wat/awB6_bones.asm",
+    "parts": [
+      {
+        "source": "Explorer",
+        "japanese": "我々はジャングルを分けいり原住民の村落へたどりついた。言葉は通じないが親切な村人はとまっていけと手招きしてくれる。",
+        "thammy": "We pushed through the jungle and managed to arrive at an aboriginal village. We couldn't speak their language, but we stayed with a generous villager, and they beckoned to us.",
+        "tone": ""
+      },
+      {
+        "source": "Explorer",
+        "japanese": "よく朝目覚めてみると私と隊長のフリーゼルしかいないではないか…",
+        "thammy": "When we awoke the next morning, we saw that there was no one left but the troop leader Friesel and myself...",
+        "tone": ""
+      },
+      {
+        "source": "Explorer",
+        "japanese": "そこは何と人食い人種の村であったのだ！",
+        "thammy": "It was the village of a cannibal tribe!",
+        "tone": ""
+      },
+      {
+        "source": "Explorer",
+        "japanese": "骨になった仲間を横目ににげだした隊長と私は、ジャングルをさまよい続けそしてアンコールワットを発見した。",
+        "thammy": "The troop leader and I took a sidelong glance at bones that our comrades had been reduced to and escaped. We kept wandering; then we discovered Angkor Wat.",
+        "tone": ""
+      },
+      {
+        "source": "Explorer",
+        "japanese": "ここには神がすみ永遠の命が手に入るといううわさだったが目にうつったのはまものの姿だけであった…",
+        "thammy": "There were rumours that said that there are gods living here who had obtained eternal life, but all that our eyes could see were the figures of demons...",
+        "tone": ""
+      },
+      {
+        "source": "Explorer",
+        "japanese": "そして今私も仲間のもとへ旅立とうとしている…私がこの世からいなくなって悲しむ人はいるのだろうか..？",
+        "thammy": "So now I'll be departing to be by my comrades' sides too... I'll be leaving this world and I won't exist anymore. Is there anyone mourning me?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08E540",
+    "path": "actors/sE6_gaia.asm",
+    "parts": [
+      {
+        "source": "Gaia",
+        "japanese": "フリーダンの力アースクエイカーはじしんをおこしあたりの敵をしばらくの間動けなくすることができるのだ。",
+        "thammy": "Friedan's power Earthquaker cause an earthquake; the enemies in that area aren't able to move for a while.",
+        "tone": ""
+      },
+      {
+        "source": "Gaia",
+        "japanese": "ヤミの力アースクエイカーが使えるようになった！",
+        "thammy": "Became able to use the Power of Darkness, Earthquaker!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08EE8B",
+    "path": "actors/sE6_gaia.asm",
+    "parts": [
+      {
+        "source": "Gaia",
+        "japanese": "アースクエイカーはヤミの戦士フリーダンだけが使えるヤミのちから。",
+        "thammy": "Earthquaker is a Power of Darkness that can only be used by the Friedan, the Warrior of Darkness.",
+        "tone": ""
+      },
+      {
+        "source": "Gaia",
+        "japanese": "これはじしんをおこして敵をしばらくの間動けなくすることできる。",
+        "thammy": "This causes an earthquake and enemies are unable to move for a while.",
+        "tone": ""
+      },
+      {
+        "source": "Gaia",
+        "japanese": "飛びおりている最中にこうげきボタンをおすがよい…",
+        "thammy": "Thou shouldst try pushing the attack button during a descending leap.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08A289",
+    "path": "ankor_wat/awBA_bones.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "わきに何か日記のようなものが落ちている… ／ 読んでみる ／ やめておく",
+        "thammy": "Something that looks like a journal has fallen under their arm... / Try to read it / Leave it be",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08A2EC",
+    "path": "ankor_wat/awBA_bones.asm",
+    "parts": [
+      {
+        "source": "Friesel",
+        "japanese": "アンコールワット調査記録 ／ フリーゼル",
+        "thammy": "Angkor Wat examination record / Friesel",
+        "tone": ""
+      },
+      {
+        "source": "Friesel",
+        "japanese": "アンコールワットは神が住むとうわさされる寺院である。",
+        "thammy": "Angkor Wat is a temple where gods are said to live.",
+        "tone": ""
+      },
+      {
+        "source": "Friesel",
+        "japanese": "私はついに本堂までたどりつきその２階で光の間にはばまれた。",
+        "thammy": "I finally arrived at the main building; in the second floor is an area filled with light.",
+        "tone": ""
+      },
+      {
+        "source": "Friesel",
+        "japanese": "最上階で神に会見するにはここを通らねばならないのだがあまりに光が強く通路がまったく見えない。",
+        "thammy": "You have to pass through there to meet with the gods at the highest floor, but I can't; the light in the passage is too strong to be able to see anything.",
+        "tone": ""
+      },
+      {
+        "source": "Friesel",
+        "japanese": "かつて神に会うために黒すいしょうで作ったメガネが使われていたという言い伝えもある。",
+        "thammy": "There is also a legend that glasses made from black quartz were once used to meet with the gods.",
+        "tone": ""
+      },
+      {
+        "source": "Friesel",
+        "japanese": "私は本堂へと続く参道の付近でいっしゅん地面に黒光りするものを見かけたがまものにはばまれその場を後にせざるをえなかった。",
+        "thammy": "I momentarily caught sight of a shining black thing on the ground when I was around the central hall leading down to the main building. But demons were in my way, so I had to escape.",
+        "tone": ""
+      },
+      {
+        "source": "Friesel",
+        "japanese": "もしかするとあれが言い伝えのメガネだったのかもしれない…",
+        "thammy": "Perhaps the legendary glasses were there...",
+        "tone": ""
+      },
+      {
+        "source": "Friesel",
+        "japanese": "ここまで来ながら残念だ…私の子供がこの意志をついでくれることをいのって…",
+        "thammy": "It's a shame that it turned out this way even though I came all the way here... I pray that my child follows in my footsteps...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_089A65",
+    "path": "ankor_wat/awBC_blinding_light.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "この階に足を一歩ふみいれると空中をふゆうしているクリスタルが発光しはじめたっ！！",
+        "thammy": "When you took your first step onto this floor, the crystals that were floating in midair began to glow!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08E58B",
+    "path": "actors/sE6_gaia.asm",
+    "parts": [
+      {
+        "source": "Gaia",
+        "japanese": "ここアンコールワットはさまよえる寺院。",
+        "thammy": "Angkor Wat is a wandering temple.",
+        "tone": ""
+      },
+      {
+        "source": "Gaia",
+        "japanese": "ジャングルの中にひっそりとたたずみ人が近づくとその姿をかくすと言われる…",
+        "thammy": "It is said that its form hides in the jungle when people approach and quietly stand still…",
+        "tone": ""
+      },
+      {
+        "source": "Gaia",
+        "japanese": "そしてこの最上階でそなたは自分がなぜ旅をしているのか知ることになるだろう。",
+        "thammy": "And on the highest floor, thou shalt probably come to know why thou art on this journey.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_089FBB",
+    "path": "ankor_wat/awBA_glasses.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "地面に何か光る物がうもれている。",
+        "thammy": "There's something shiny buried in the ground.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_089FDC",
+    "path": "ankor_wat/awBA_glasses.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "黒すいしょうのめがねを見つけた！",
+        "thammy": "Found the black quartz glasses!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_039984",
+    "path": "chunk_038000.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "黒いすいしょうで作られためがねだ。これならかなりの光もしゃだんできそうだな…。",
+        "thammy": "These are glasses made of black quartz. It seems that even intense light can be blocked with these...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_089B8B",
+    "path": "ankor_wat/awBF_spirit_guide.asm",
+    "parts": [
+      {
+        "source": "Spirit Guide",
+        "japanese": "テム…私はそなたがくるのを何千年もの間まっていたのだよ。",
+        "thammy": "Tim... For thousands of years, I have waited for thy arrival.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：君は..？だれだい…？",
+        "thammy": "Tim: Who…? Are you..?",
+        "tone": ""
+      },
+      {
+        "source": "Spirit Guide",
+        "japanese": "私は夢を見ているのさ。夢を続けているうちに時が流れやがてこんな体になったんだよ。",
+        "thammy": "I'm dreaming. Yet time still flows as I dream, and my body became like this.",
+        "tone": ""
+      },
+      {
+        "source": "Spirit Guide",
+        "japanese": "これからそなたに不思議な映像を見せようと思う。目をとじなさい。",
+        "thammy": "I shall show thee a mysterious image. Close thine eyes.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_089C5B",
+    "path": "ankor_wat/awBF_spirit_guide.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：今のは？いったい何？",
+        "thammy": "Tim: What the….? What I just saw…",
+        "tone": ""
+      },
+      {
+        "source": "Spirit Guide",
+        "japanese": "新しい世界だよ…",
+        "thammy": "It's the new world...",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：あの世界は灰色ばっかりじゃないか…",
+        "thammy": "Tim: There was nothing but grey in that world, was there…?",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "世界っていうのは青い水があって緑の山があって茶色の大地が広がっているもんじゃないの？",
+        "thammy": "Isn't the world something that's covered in blue water, green mountains, and brown earth?",
+        "tone": ""
+      },
+      {
+        "source": "Spirit Guide",
+        "japanese": "あの世界はこれからそなたがもたらすのだ…",
+        "thammy": "Thou shalt now bring about that world...",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：ぼくが？あんなぶきみな世界を？！",
+        "thammy": "Tim: I'm going to...? An unsettling world like that?!",
+        "tone": ""
+      },
+      {
+        "source": "Spirit Guide",
+        "japanese": "木々がそびえたつビルの群れに川の流れが車の流れにかわっただけのこと…",
+        "thammy": "In place of the trees, there will only be swarms of high-rise buildings. In the place of flowing rivers, there will only be the flows of automobile traffic...",
+        "tone": ""
+      },
+      {
+        "source": "Spirit Guide",
+        "japanese": "人はどんな世界にいても自分が幸せだと思えば幸せなのだよ。",
+        "thammy": "Whichever kind of world a person is in, if they think they're happy, they're happy.",
+        "tone": ""
+      },
+      {
+        "source": "Spirit Guide",
+        "japanese": "さあ原住民の村落へもどり石に変わってしまった人をもとにもどしてあげなさい。",
+        "thammy": "Well, please return to the aboriginals' village. Restore the people who have been turned to stone back to their original forms.",
+        "tone": ""
+      },
+      {
+        "source": "Spirit Guide",
+        "japanese": "灰色にそまった人たちを自然のままに解放してあげなさい。",
+        "thammy": "Please return the people who have been changed to grey back to their natural state.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_089E2E",
+    "path": "ankor_wat/awBF_spirit_guide.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "まばゆい光がやむとぼくは何ごともなかったかのようにたたずんでいた。",
+        "thammy": "When the dazzling light was gone, I was standing around as if nothing had happened.",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "そして手にはゴーゴンの花がしっかりとにぎられているのだった…",
+        "thammy": "But I found that the Gorgon's flower was being grasped in my hand..",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_089EE0",
+    "path": "ankor_wat/awBF_spirit_guide.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "ゴーゴンの花を手に入れた！",
+        "thammy": "Got the Gorgon's flower!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_039A35",
+    "path": "chunk_038000.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "ゴーゴンの花をながめた…しかし何もおこらなかった！",
+        "thammy": "Gazed at the Gorgon's flower... However, nothing happened!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0884A4",
+    "path": "native_village/nvAC_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：子供たちに言葉を一つ教わっちゃった。",
+        "thammy": "Karen: The children taught me a word.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "ラマポーっていうのがこの地域でこんにちはっていう意味みたい。",
+        "thammy": "It seems that \"ramapou\" means \"hello\" in this region.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_039A63",
+    "path": "chunk_038000.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "ゴーゴンの花びらを一枚石像の口に入れた！",
+        "thammy": "Put one Gorgon's petal into the statue's mouth!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_089351",
+    "path": "native_village/nvAE_stone_girl1.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "言葉が通じないようだ…",
+        "thammy": "It seems that she doesn't speak your language...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_089415",
+    "path": "native_village/nvAE_stone_girl2.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "言葉が通じないようだ…",
+        "thammy": "It seems that she doesn't speak your language...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_089509",
+    "path": "native_village/nvAE_stone_girl3.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "言葉が通じないようだ…",
+        "thammy": "It seems that she doesn't speak your language...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0895C9",
+    "path": "native_village/nvAE_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：今さっきこの村の人たちと身ぶり手ぶりでお話してたのね。",
+        "thammy": "Karen: Just now, I was speaking with the people of this village with gestures, right.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "そしたらね。森に動物がもどってきたみたい。これでみんな共食いすることもなくなるわよね。",
+        "thammy": "Based on that, it seems like the animals are returning in the forest. Everyone can stop cannibalizing each other with this, can't they?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08942A",
+    "path": "native_village/nvAE_stone_girl2.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "少女はだまって赤い宝石をさしだした。おれいのつもりなのだろう..",
+        "thammy": "The girl is silent and holds out a Red Jewel. She probably intends it as thanks..",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "テムは赤い宝石を手に入れた！",
+        "thammy": "Tim got a Red Jewel!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_089778",
+    "path": "native_village/nvAE_erik.asm",
+    "parts": [
+      {
+        "source": "Eric",
+        "japanese": "エリック：この村が食料不足なのにつけこんだドレイ商人たちは子供たちを連れ去ったんだって。",
+        "thammy": "Eric: They say that even though this village is facing a food shortage, slave merchants were taking advantage and kidnapped children.",
+        "tone": ""
+      },
+      {
+        "source": "Eric",
+        "japanese": "ひどい話だよね。",
+        "thammy": "It's an awful story, isn't it?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08963C",
+    "path": "native_village/nvAE_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "ドレイ商人たちは北西の町からやってきて村人を連れていくみたいなの。",
+        "thammy": "It seems that slave merchants arrived from a town in the northwest and were taking villagers away from here.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "食べ物がなくて困っているところにつけこんで子供たちを買っていくなんてゆるせない！",
+        "thammy": "I can't tolerate them taking advantage and selling children when there's no food and the people are suffering!",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "ねえそのドレイ商人の町へいってみない？ ／ うん行こう！ ／ ちょっとまって",
+        "thammy": "Heeey, won't we try going to that slave merchant town? / Yeah, let's go! / Wait a bit",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0896F9",
+    "path": "native_village/nvAE_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "じゃあ行く準備ができたらここへもどってきてね。",
+        "thammy": "Well, when you're ready to go, come back here, alright?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08971E",
+    "path": "native_village/nvAE_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "さあしゅっぱあつ！！",
+        "thammy": "Alright, heaaading out!!",
+        "tone": ""
+      }
+    ]
+  }
+]
+

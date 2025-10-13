@@ -1,0 +1,495 @@
+[
+  {
+    "name": "widestring_04BE87",
+    "path": "south_cape/sc02_entry.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "この海岸のどうくつはぼくらの第２の家と言ってもおかしくはない。",
+        "thammy": "It might be strange, but we even call this coastal cave our second home.",
+        "claude": "It wouldn't be strange to call this coastal cave our second home.",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "教会での授業が終った後はたいていここに集まり日がくれるまで語り合う。",
+        "thammy": "Usually, we meet here after our lesson at church is finished and chat until it gets dark.",
+        "claude": "After lessons at the church end, we usually gather here and talk until the sun goes down.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04BF35",
+    "path": "south_cape/sc02_entry.asm",
+    "parts": [
+      {
+        "source": "Rob",
+        "japanese": "ロブ：なんだよテム。おそかったじゃんかっ。",
+        "thammy": "Rob: What's up, Tim? Late, ain't ya…",
+        "claude": "Rob: What's up, Tim? You're late, ain't ya.",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "今モリスとブラックジャックの勝負をしてるんだ。ちょっと待ってくれ。",
+        "thammy": "I'm playin' a match o' blackjack with Morris right now. Wait a sec.",
+        "claude": "I'm playin' a game o' blackjack with Morris right now. Just wait a sec.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04B1CB",
+    "path": "south_cape/sc02_lance.asm",
+    "parts": [
+      {
+        "source": "Rob",
+        "japanese": "ロブ：なんだよテム。おそかったじゃんかっ。",
+        "thammy": "Rob: What's up, Tim? Late, ain't ya…",
+        "claude": "Rob: What's up, Tim? You're late, ain't ya.",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "今モリスとブラックジャックの勝負をしてるんだ。ちょっと待ってくれ。",
+        "thammy": "I'm playin' a match o' blackjack with Morris right now. Wait a sec.",
+        "claude": "I'm playin' a game o' blackjack with Morris right now. Just wait a sec.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04B5B6",
+    "path": "south_cape/sc02_seth.asm",
+    "parts": [
+      {
+        "source": "Morris",
+        "japanese": "モリス：あははっ。またぼくの勝ちに決ってますよ。",
+        "thammy": "Morris: Ahaha... It turns out that I win again.",
+        "claude": "Morris: Ahaha. It is decided that I win again.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04B9AF",
+    "path": "south_cape/sc02_erik.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "とつぜん。血相をかえたエリックがとびこんできた！",
+        "thammy": "Suddenly, Eric burst in with a strange expression on his face!",
+        "claude": "Suddenly, Eric came bursting in with a frantic look on his face!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04B9F2",
+    "path": "south_cape/sc02_erik.asm",
+    "parts": [
+      {
+        "source": "Eric",
+        "japanese": "エリック：はぁはぁ…ニュースっ！大ニュースだあっ！",
+        "thammy": "Eric: Huff, huff... News...! It's biiig news...!",
+        "claude": "Eric: Huff, huff... News! Big news!",
+        "tone": ""
+      },
+      {
+        "source": "Eric",
+        "japanese": "エドワード城の王女が行方不明になったんだってっ！なんでもこの町へきたらしいよ！",
+        "thammy": "I heard that Edward Castle's princess has gone missing! Supposedly she seems to be heading to this town!",
+        "claude": "I heard that Edward Castle's princess has gone missing! Apparently she came to this town!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04BA55",
+    "path": "south_cape/sc02_erik.asm",
+    "parts": [
+      {
+        "source": "Rob",
+        "japanese": "ロブ：なんだよ。そんなにあわてて飛びこんでくるからもっとすごいことが起こったのかと思ったぜ。",
+        "thammy": "Rob: What? With ya bargin' in here like that, I thought somethin' cooler happened.",
+        "claude": "Rob: What? With ya burstin' in here like that, I thought somethin' more excitin' happened.",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "それに王女ってあのわがまま娘のカレンだろ。あんなヤツのどこがいいんだっ？",
+        "thammy": "Besides, that \"princess\" is that selfish girl Karen, yeah? Who cares where someone like that is?",
+        "claude": "Besides, that princess is that spoiled brat Karen, right? Who cares where someone like that is?",
+        "tone": ""
+      },
+      {
+        "source": "Eric",
+        "japanese": "エリック：そりゃそうだけど王女をさがすためにこの町へ兵士たちがやってくるよ。",
+        "thammy": "Eric: Well, there's that, but soldiers are going to come to this town to search for the princess.",
+        "claude": "Eric: Well sure, but soldiers are going to come to this town to search for the princess.",
+        "tone": ""
+      },
+      {
+        "source": "Eric",
+        "japanese": "エドワード城の兵士ってかっこいいじゃない？ぼくはそれが見たいだけだい。",
+        "thammy": "Aren't Edward Castle's soldiers cool? I just want to look at them.",
+        "claude": "Eric: Aren't Edward Castle's soldiers cool? I just want to see them.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04B210",
+    "path": "south_cape/sc02_lance.asm",
+    "parts": [
+      {
+        "source": "Rob",
+        "japanese": "ロブ：テムも、そんなところにいないでエリックのとなりの席に行けよ。",
+        "thammy": "Rob: Oy, Tim, don't hang around there. Go sit next to Eric.",
+        "claude": "Rob: Hey Tim, don't just stand there. Go sit next to Eric.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04B612",
+    "path": "south_cape/sc02_seth.asm",
+    "parts": [
+      {
+        "source": "Morris",
+        "japanese": "モリス：ぼくは女性にはきょうみありませんね。本を読んでた方が楽しいですよ。",
+        "thammy": "Morris: I have no interest in girls. Reading books is more fun.",
+        "claude": "Morris: I have no interest in girls. Reading books is more enjoyable.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04BB59",
+    "path": "south_cape/sc02_erik.asm",
+    "parts": [
+      {
+        "source": "Eric",
+        "japanese": "エリック：ちぇっ。みんなびっくりするかと思ったのに…",
+        "thammy": "Eric: Guh. And I had been thinking that maybe everyone would be surprised...",
+        "claude": "Eric: Tch. And I thought everyone would be surprised…",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04B652",
+    "path": "south_cape/sc02_seth.asm",
+    "parts": [
+      {
+        "source": "Morris",
+        "japanese": "モリス：さてみんなそろったし今日は何をしましょうか？",
+        "thammy": "Morris: Alright, since everyone's here, what are we doing today?",
+        "claude": "Morris: Well, since everyone is here, what shall we do today?",
+        "tone": ""
+      },
+      {
+        "source": "Eric",
+        "japanese": "エリック：ぼくはテムのふしぎな力が見たいなあ。",
+        "thammy": "Eric: I think I want to see Tim's mysterious powers.",
+        "claude": "Eric: I want to see Tim's mysterious power.",
+        "tone": ""
+      },
+      {
+        "source": "Eric",
+        "japanese": "ほらいつか見せてくれたじゃない？手をつかわないで物をうごかすやつ。",
+        "thammy": "Look, he showed it to us the other day, didn't he? The guy can move things without using his hands.",
+        "claude": "You know, you showed us before, right? That thing where you move objects without using your hands.",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "ロブ：たしかこのどうくつのすみっこにある石像を動かしたんだよな。",
+        "thammy": "Rob: If I'm rememberin', I think he moved tha stone statue in this cavern's nook.",
+        "claude": "Rob: If I remember right, ya moved that stone statue in tha corner of this cave.",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "テム。もう一回見せてくれよっ。",
+        "thammy": "Tim. Show us one more time.",
+        "claude": "Tim. Show us one more time.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04BB89",
+    "path": "south_cape/sc02_erik.asm",
+    "parts": [
+      {
+        "source": "Eric",
+        "japanese": "エリック：こないだははなれたところから石像を動かしたんだよね。",
+        "thammy": "Eric: Recently, you moved the stone statue without being near it, right?",
+        "claude": "Eric: The other day you moved the stone statue from far away, right?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04B23F",
+    "path": "south_cape/sc02_lance.asm",
+    "parts": [
+      {
+        "source": "Rob",
+        "japanese": "ロブ：たしか笛をバトンみたいにまわしてひきよせんだよな。",
+        "thammy": "Rob: I think ya spun yer flute like a baton and pulled it towards ya.",
+        "claude": "Rob: I think ya spun yer flute like a baton and pulled it towards ya.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04B72B",
+    "path": "south_cape/sc02_seth.asm",
+    "parts": [
+      {
+        "source": "Morris",
+        "japanese": "モリス：石像の方をむいてLRボタンをおすんですよね。",
+        "thammy": "Morris: Face the stone statue and press the L or R button.",
+        "claude": "Morris: You face the stone statue and press the L or R button, correct?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04B75D",
+    "path": "south_cape/sc02_seth.asm",
+    "parts": [
+      {
+        "source": "Rob",
+        "japanese": "ロブ：おおっ！うごいたああああっ！！",
+        "thammy": "Rob: Whoa..! It moooooved..!!",
+        "claude": "Rob: Whoa! It moooooved!!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04B27E",
+    "path": "south_cape/sc02_lance.asm",
+    "parts": [
+      {
+        "source": "Rob",
+        "japanese": "ロブ：よし。今度はトランプ当てをやってもらおうぜ。",
+        "thammy": "Rob: Alright. This time, do tha card reveal fer us.",
+        "claude": "Rob: Alright. Now let's have ya do tha card guessin' trick.",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "オレが４枚のカードを裏返しにおくからダイヤのエースだと思うものを拾いあげてくれ。",
+        "thammy": "From tha four cards I'm placin' face down, raise and show us one if ya think it's tha ace o' diamonds.",
+        "claude": "I'm gonna place four cards face down, so pick up tha one ya think is tha ace o' diamonds.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04B2F0",
+    "path": "south_cape/sc02_lance.asm",
+    "parts": [
+      {
+        "source": "Rob",
+        "japanese": "ロブ：さあ。ダイヤのエースだと思うものを拾ってくれ。",
+        "thammy": "Rob: Come on. Find tha one that ya think is tha ace o' diamonds.",
+        "claude": "Rob: Come on. Pick up tha one ya think is tha ace o' diamonds.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04BBB6",
+    "path": "south_cape/sc02_erik.asm",
+    "parts": [
+      {
+        "source": "Eric",
+        "japanese": "エリック：いいなあ。ぼくもそんな力が使えたらなあ…",
+        "thammy": "Eric: I think it would be nice. If I could also use a power like that…",
+        "claude": "Eric: That's so cool. I wish I could use a power like that too…",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04B77C",
+    "path": "south_cape/sc02_seth.asm",
+    "parts": [
+      {
+        "source": "Morris",
+        "japanese": "モリス：何回見てもすごいですねっ。",
+        "thammy": "Morris: No matter how many times you see it, it's still cool, isn't it...?",
+        "claude": "Morris: No matter how many times I see it, it is still amazing.",
+        "tone": ""
+      },
+      {
+        "source": "Morris",
+        "japanese": "しかし机とかは動かないのになんでその石像だけは動くんでしょう…",
+        "thammy": "However, I wonder why things like the desk don't move, and only the stone statue moves...",
+        "claude": "However, I wonder why things like the desk do not move, yet only that stone statue does…",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04B00F",
+    "path": "south_cape/sc02_card.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "テムはカードを拾いあげた。",
+        "thammy": "Tim found the card and raised it.",
+        "claude": "Tim picked up a card.",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "それはまぎれもなくダイヤのエースだった！！",
+        "thammy": "Surely enough, it was the ace of diamonds!!",
+        "claude": "It was unmistakably the ace of diamonds!!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04B328",
+    "path": "south_cape/sc02_lance.asm",
+    "parts": [
+      {
+        "source": "Rob",
+        "japanese": "ロブ：おおっ。あたったあっ！！",
+        "thammy": "Rob: Ah... He got it..!",
+        "claude": "Rob: Whoa! He got it!!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04BC16",
+    "path": "south_cape/sc02_erik.asm",
+    "parts": [
+      {
+        "source": "Eric",
+        "japanese": "エリック：ふぅ。言葉も出ないよ…",
+        "thammy": "Eric: Phew. I'm speechless…",
+        "claude": "Eric: Wow. I'm speechless…",
+        "tone": ""
+      },
+      {
+        "source": "Eric",
+        "japanese": "ねぇ。モリス。こういうのをチョウノウリョクって言うんでしょ？",
+        "thammy": "Hey. Morris. You call this sort of thing \"extrasensory perception\", right?",
+        "claude": "Hey, Morris. This kind of thing is called extrasensory perception, right?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04B7DE",
+    "path": "south_cape/sc02_seth.asm",
+    "parts": [
+      {
+        "source": "Morris",
+        "japanese": "モリス：チョウノウリョクっていうのはですね。",
+        "thammy": "Morris: You call it \"extrasensory perception\", huh?",
+        "claude": "Morris: Extrasensory perception is, you see,",
+        "tone": ""
+      },
+      {
+        "source": "Morris",
+        "japanese": "言葉のとおり人間の能力を越えた力…",
+        "thammy": "The word means a sense that goes beyond the human senses...",
+        "claude": "just as the word implies, a power that goes beyond human abilities…",
+        "tone": ""
+      },
+      {
+        "source": "Morris",
+        "japanese": "人間の感覚っていうのは見て感じること、",
+        "thammy": "What we call the human senses are the sense of sight,",
+        "claude": "The human senses are what we feel by seeing,",
+        "tone": ""
+      },
+      {
+        "source": "Morris",
+        "japanese": "聞いて感じること、",
+        "thammy": "the sense of hearing,",
+        "claude": "what we feel by hearing,",
+        "tone": ""
+      },
+      {
+        "source": "Morris",
+        "japanese": "味わって感じること、",
+        "thammy": "the sense of taste,",
+        "claude": "what we feel by tasting,",
+        "tone": ""
+      },
+      {
+        "source": "Morris",
+        "japanese": "においをかいで感じること、",
+        "thammy": "the sense of smell,",
+        "claude": "what we feel by smelling,",
+        "tone": ""
+      },
+      {
+        "source": "Morris",
+        "japanese": "さわって感じること、の５つだって言われています。",
+        "thammy": "and the sense of touch; it's what we call these five..",
+        "claude": "and what we feel by touching. It is said that there are five of these.",
+        "tone": ""
+      },
+      {
+        "source": "Morris",
+        "japanese": "チョウノウリョクっていうのは６番目の力なんじゃないかとぼくは思っているんですけどね。",
+        "thammy": "I'm not sure, but I'm thinking that what you call extrasensory perception is a sixth sense.",
+        "claude": "I believe that extrasensory perception is a sixth power, you see.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04B344",
+    "path": "south_cape/sc02_lance.asm",
+    "parts": [
+      {
+        "source": "Rob",
+        "japanese": "ロブ：学者モリスの言うことはむずかしくてオレにはよくわかんねーや。",
+        "thammy": "Rob: I don't understand tha things that Morris tha scholar says all that well.",
+        "claude": "Rob: Tha things scholar Morris says are too hard for me to understand.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04B386",
+    "path": "south_cape/sc02_lance.asm",
+    "parts": [
+      {
+        "source": "Rob",
+        "japanese": "ロブ：モリス。カード出したついでにもうひと勝負しようぜ。",
+        "thammy": "Rob: Morris. Take out tha cards; we'll have one more match next.",
+        "claude": "Rob: Morris. Since we got tha cards out, let's have one more match.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04B3AD",
+    "path": "south_cape/sc02_lance.asm",
+    "parts": [
+      {
+        "source": "Rob",
+        "japanese": "ロブ：おれはモリスともうひと勝負したら帰ることにするよ。",
+        "thammy": "Rob: I'll play another match or so with Morris and then go home.",
+        "claude": "Rob: I'll have one more match with Morris and then head home.",
+        "tone": ""
+      }
+    ]
+  }
+]
+

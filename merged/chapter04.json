@@ -1,0 +1,572 @@
+[
+  {
+    "name": "widestring_04C115",
+    "path": "edward_castle/ec0A_left_guard.asm",
+    "parts": [
+      {
+        "source": "Soldier",
+        "japanese": "兵士：ここはエドワード王の城。国王にえっけんにきたのなら名をなのられよ。",
+        "thammy": "Soldier: This is King Edward's castle. If you came to have an audience with the king, state your name.",
+        "tone": "",
+        "claude": "Soldier: This is King Edward's castle. If you've come for an audience with His Majesty, state your name."
+      },
+      {
+        "source": "Narrator",
+        "japanese": "テムは門番にエドワード王の手紙を見せた。",
+        "thammy": "Tim showed King Edward's letter to the doormen.",
+        "tone": "",
+        "claude": "Tim showed the gatekeeper King Edward's letter."
+      },
+      {
+        "source": "Soldier",
+        "japanese": "兵士：国王のお客様でしたか。大変失礼いたしました。どうぞお入り下さい。",
+        "thammy": "Soldier: You're a guest of the king? Excuse our discourtesy. Please enter.",
+        "tone": "",
+        "claude": "Soldier: A guest of His Majesty? My deepest apologies for the discourtesy. Please, do enter."
+      }
+    ]
+  },
+  {
+    "name": "widestring_04C229",
+    "path": "edward_castle/ec0A_right_guard.asm",
+    "parts": [
+      {
+        "source": "Guard",
+        "japanese": "ここはエドワード国王の城。くれぐれもそそうのないようにな。それでなくても国王はきびしいお方なんだから。",
+        "thammy": "This is King Edward's castle. We sincerely hope you avoid blunders, as the king is a rather strict gentleman.",
+        "tone": "",
+        "claude": "This is King Edward's castle. Mind you commit no blunders. His Majesty is an exacting man even at the best of times."
+      }
+    ]
+  },
+  {
+    "name": "widestring_04C067",
+    "path": "edward_castle/ec0A_right_guard.asm",
+    "parts": [
+      {
+        "source": "Guard",
+        "japanese": "ここはエドワード国王の城です。国王と会見するならば２階へ上がってください。",
+        "thammy": "This is King Edward's castle. If you're having an audience with the king, ascend to the upper floor.",
+        "tone": "",
+        "claude": "This is King Edward's castle. If you've an audience with His Majesty, you must ascend to the second floor."
+      }
+    ]
+  },
+  {
+    "name": "widestring_04C34B",
+    "path": "edward_castle/ec0A_stair_guard.asm",
+    "parts": [
+      {
+        "source": "Guard",
+        "japanese": "エドワード国王は朝食をとられているところだ。今しばらくしてからくるがよい。",
+        "thammy": "King Edward is having breakfast. Please come back shortly.",
+        "tone": "",
+        "claude": "King Edward is presently taking his breakfast. You would do well to return shortly."
+      }
+    ]
+  },
+  {
+    "name": "widestring_04C271",
+    "path": "edward_castle/ec0A_stair_guard.asm",
+    "parts": [
+      {
+        "source": "Guard",
+        "japanese": "しっ。声をたてるなよ。さぼっているのがバレるだろっ。",
+        "thammy": "Shh… Don't raise your voice. You're going to give away that I'm skipping work…",
+        "tone": "",
+        "claude": "Shh... Keep your voice down. You'll give away that I'm slacking off here..."
+      }
+    ]
+  },
+  {
+    "name": "widestring_04C2C2",
+    "path": "edward_castle/ec0A_stair_guard.asm",
+    "parts": [
+      {
+        "source": "Guard",
+        "japanese": "しっ。声をたてるなよ。さぼっているのがバレるだろっ。",
+        "thammy": "Shh… Don't raise your voice. You're going to give away that I'm skipping work…",
+        "tone": "",
+        "claude": "Shh... Keep your voice down. You'll give away that I'm slacking off here..."
+      }
+    ]
+  },
+  {
+    "name": "widestring_04C299",
+    "path": "edward_castle/ec0A_stair_guard.asm",
+    "parts": [
+      {
+        "source": "Guard",
+        "japanese": "そのかわり君には赤い宝石を一つあげるから。",
+        "thammy": "I'll give you a Red Jewel instead, so…",
+        "tone": "",
+        "claude": "Tell you what—I'll give you a Red Jewel to keep this between us, alright?"
+      }
+    ]
+  },
+  {
+    "name": "widestring_04D1BE",
+    "path": "edward_castle/ec0A_prison_guard.asm",
+    "parts": [
+      {
+        "source": "Soldier",
+        "japanese": "兵士：この先は地下のろうや。一般人が立ち入る場所ではない。",
+        "thammy": "Soldier: Ahead of here is the underground jail. Ordinary people can't trespass there.",
+        "tone": "",
+        "claude": "Soldier: Beyond here lies the dungeon. No place for common folk to tread."
+      }
+    ]
+  },
+  {
+    "name": "widestring_04C818",
+    "path": "edward_castle/ec0A_stair_maid.asm",
+    "parts": [
+      {
+        "source": "Maid",
+        "japanese": "あなたテムさんね。エドワード国王によびだされたんでしょ？",
+        "thammy": "You're Tim, huh. Weren't you summoned to King Edward?",
+        "tone": "",
+        "claude": "You're Tim, aren't you? His Majesty summoned you here?"
+      },
+      {
+        "source": "Maid",
+        "japanese": "何だか国王はいらついてるの。気をつけてね。",
+        "thammy": "Somehow the king is making me uncomfortable. Be careful.",
+        "tone": "",
+        "claude": "The King's been in a foul temper lately. You be careful now."
+      }
+    ]
+  },
+  {
+    "name": "widestring_04C8CA",
+    "path": "edward_castle/ec0A_shy_guard.asm",
+    "parts": [
+      {
+        "source": "Guard",
+        "japanese": "ぼぼくは君のことが…",
+        "thammy": "I… I… the thing with you is…",
+        "tone": "",
+        "claude": "I-I... you're the one who..."
+      }
+    ]
+  },
+  {
+    "name": "widestring_04C8FB",
+    "path": "edward_castle/ec0A_caring_maid.asm",
+    "parts": [
+      {
+        "source": "Maid",
+        "japanese": "まあこの人ったらてれちゃって…",
+        "thammy": "Jeez, this guy is so darn shy…",
+        "tone": "",
+        "claude": "Oh my, he's gotten all flustered..."
+      },
+      {
+        "source": "Maid",
+        "japanese": "でも世界中のどこかには必ず自分を思ってくれている人がいるものなのね…。",
+        "thammy": "But, you know, having someone somewhere in the world that's always thinking of you…",
+        "tone": "",
+        "claude": "But somewhere in this wide world, there's always someone thinking of you... isn't that something?"
+      }
+    ]
+  },
+  {
+    "name": "widestring_04CA0D",
+    "path": "edward_castle/ec0A_kara_guard.asm",
+    "parts": [
+      {
+        "source": "Soldier",
+        "japanese": "兵士：ここはひめさまのお部屋。見知らぬ者を通すわけにはいかん。",
+        "thammy": "Soldier: This is Her Majesty the princess' room, so strangers cannot pass.",
+        "tone": "",
+        "claude": "Soldier: This is Her Highness the Princess's chamber. No strangers may pass."
+      }
+    ]
+  },
+  {
+    "name": "widestring_04CC6E",
+    "path": "edward_castle/ec0A_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：だあれ？",
+        "thammy": "Karen: Who's that?",
+        "tone": "",
+        "claude": "Karen: Who is it?"
+      }
+    ]
+  },
+  {
+    "name": "widestring_04CC84",
+    "path": "edward_castle/ec0A_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：お客さま？",
+        "thammy": "Karen: Do I have a guest?",
+        "tone": "",
+        "claude": "Karen: A visitor?"
+      }
+    ]
+  },
+  {
+    "name": "widestring_04CA41",
+    "path": "edward_castle/ec0A_kara.asm",
+    "parts": [
+      {
+        "source": "Soldier",
+        "japanese": "兵士：うすよごれた平民の少年です。",
+        "thammy": "Soldier: It's a somewhat dirtied commoner boy.",
+        "tone": "",
+        "claude": "Soldier: A rather grubby commoner boy, Your Highness."
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：ぼくだよ、カレン！",
+        "thammy": "Tim: It's me, Karen!",
+        "tone": "",
+        "claude": "Tim: It's me, Karen!"
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：あ…その声は…",
+        "thammy": "Karen: Ah... That voice is...",
+        "tone": "",
+        "claude": "Karen: Oh... that voice..."
+      },
+      {
+        "source": "Karen",
+        "japanese": "通しなさい。さもないとあんたのむかしのあだ名をバラすわよ。",
+        "thammy": "Please let him pass. Or else I'll expose your old nickname.",
+        "tone": "",
+        "claude": "Let him through. Or I'll tell everyone your childhood nickname."
+      },
+      {
+        "source": "Soldier",
+        "japanese": "兵士：うわッ。そ、それだけはごかんべんを！どうぞお通りください。",
+        "thammy": "Soldier: Eek…! F-forgive me for that! Please, go ahead.",
+        "tone": "",
+        "claude": "Soldier: Gah...! N-not that! I beg you! Please, go right through."
+      }
+    ]
+  },
+  {
+    "name": "widestring_04CAE1",
+    "path": "edward_castle/ec0A_kara.asm",
+    "parts": [
+      {
+        "source": "Guard",
+        "japanese": "まいったなぁ…ブツブツ",
+        "thammy": "I guess I'm beaten… *Grumble*…",
+        "tone": "",
+        "claude": "She's got me there... *grumble grumble*..."
+      }
+    ]
+  },
+  {
+    "name": "widestring_04CC96",
+    "path": "edward_castle/ec0A_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：あなたはきのうの…",
+        "thammy": "Karen: You're... from yesterday...",
+        "tone": "",
+        "claude": "Karen: You're the one from yesterday..."
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：エドワード国王に水しょうの指輪を持ってくるように言われたんだけどさ…",
+        "thammy": "Tim: I was told to bring a Crystal Ring to King Edward, but...",
+        "tone": "",
+        "claude": "Tim: King Edward told me to bring him the Crystal Ring, but..."
+      }
+    ]
+  },
+  {
+    "name": "widestring_04CCE4",
+    "path": "edward_castle/ec0A_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：ひどい！ひどいっ！ひっどーいっ！",
+        "thammy": "Karen: He's awful! Awful...! Awwwfuuul!",
+        "tone": "",
+        "claude": "Karen: That's terrible! Terrible! Absolutely terrible!"
+      },
+      {
+        "source": "Karen",
+        "japanese": "またお父様は他人の大切な物を取り上げようとしてるのねっ！",
+        "thammy": "So it seems like Father's taking away the things that are important to someone else again...!",
+        "tone": "",
+        "claude": "Father's trying to take away something precious from someone else again!"
+      },
+      {
+        "source": "Karen",
+        "japanese": "あたしもねちょっとお城をぬけだしたらおしおきでここから出してくれないのよ！",
+        "thammy": "Even for me, you know? When I slip out of the castle for a bit, doesn't he punish me?",
+        "tone": "",
+        "claude": "And me? Just for slipping out of the castle once, he locked me in here as punishment!"
+      },
+      {
+        "source": "Karen",
+        "japanese": "でもこのところお城のふんいきがちょっとおかしいの。",
+        "thammy": "But lately the atmosphere in this castle has been a little funny.",
+        "tone": "",
+        "claude": "But lately... something's been wrong with this castle."
+      },
+      {
+        "source": "Karen",
+        "japanese": "お母さまったら殺し屋までやとったのよ。うす気味悪いわ…",
+        "thammy": "I mean, gosh, my mother even hired an assassin. I think it's pretty creepy...",
+        "tone": "",
+        "claude": "Mother even hired an assassin. It's... frightening..."
+      }
+    ]
+  },
+  {
+    "name": "widestring_04CB20",
+    "path": "edward_castle/ec0A_kara.asm",
+    "parts": [
+      {
+        "source": "Soldier",
+        "japanese": "兵士：おひめさま、もうそろそろ…",
+        "thammy": "Soldier: Your Majesty, it's about time...",
+        "tone": "",
+        "claude": "Soldier: Your Highness, it's time..."
+      }
+    ]
+  },
+  {
+    "name": "widestring_04CDC0",
+    "path": "edward_castle/ec0A_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：ねえテム。あたしとっても不安なの。父も母も人が変わったみたい。",
+        "thammy": "Karen: Hey Tim. I'm very anxious. Dad and Mom seem like they're different people now.",
+        "tone": "",
+        "claude": "Karen: Tim... I'm so frightened. Mother and Father—they're like different people now."
+      },
+      {
+        "source": "Karen",
+        "japanese": "おねがい、わたしをたすけて。どうかここから連れだして！おねがい….",
+        "thammy": "I'm begging you, help me. Take me out of here somehow! Please…",
+        "tone": "",
+        "claude": "Please, help me. Get me out of here somehow! Please..."
+      },
+      {
+        "source": "Soldier",
+        "japanese": "兵士：おひめさま…",
+        "thammy": "Soldier: Your Majesty...",
+        "tone": "",
+        "claude": "Soldier: Your Highness..."
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：おねがい、きっときてね、テム。",
+        "thammy": "Karen: Please. You're definitely going to come for me, right, Tim?",
+        "tone": "",
+        "claude": "Karen: Please... you will come for me, won't you, Tim?"
+      }
+    ]
+  },
+  {
+    "name": "widestring_04CAF5",
+    "path": "edward_castle/ec0A_kara.asm",
+    "parts": [
+      {
+        "source": "Guard",
+        "japanese": "さあ用がすんだら帰った帰った！",
+        "thammy": "Alright, your business is done. Go home! Go home!",
+        "tone": "",
+        "claude": "Right, your visit's over. Out you go! Move along!"
+      },
+      {
+        "source": "Guard",
+        "japanese": "それっ！",
+        "thammy": "Haiyah!",
+        "tone": "",
+        "claude": "Out!"
+      }
+    ]
+  },
+  {
+    "name": "widestring_04C7BF",
+    "path": "edward_castle/ec0A_bed_maid.asm",
+    "parts": [
+      {
+        "source": "Maid",
+        "japanese": "近ごろ殺し屋がやとわれたの。国王はいったい何を考えているのかしら…",
+        "thammy": "The king hired an assassin recently. I wonder what in the world he's thinking...",
+        "tone": "",
+        "claude": "An assassin was hired recently. What on earth could His Majesty be thinking...?"
+      }
+    ]
+  },
+  {
+    "name": "widestring_04C379",
+    "path": "edward_castle/ec0A_bed_maid.asm",
+    "parts": [
+      {
+        "source": "Guard",
+        "japanese": "この先はえっけん室。国王に会見するならこの階段を登るがよい。",
+        "thammy": "Ahead of here is the audience room. If you're meeting with the king, you may ascend these stairs.",
+        "tone": "",
+        "claude": "Beyond here is the audience chamber. If you seek an audience with His Majesty, ascend these stairs."
+      }
+    ]
+  },
+  {
+    "name": "widestring_04C5D9",
+    "path": "edward_castle/ec0A_door_guard.asm",
+    "parts": [
+      {
+        "source": "Soldier",
+        "japanese": "兵士：テムさんですね。お待ちしておりました。さあエドワード国王のところへ。",
+        "thammy": "Soldier: It's Tim, right? We've been waiting for you. Alright, go to King Edward.",
+        "tone": "",
+        "claude": "Soldier: You're Tim, yes? We've been expecting you. Come, His Majesty awaits."
+      }
+    ]
+  },
+  {
+    "name": "widestring_04C66F",
+    "path": "edward_castle/ec0A_throne_guards.asm",
+    "parts": [
+      {
+        "source": "Soldier",
+        "japanese": "兵士：会見ならばうろうろせずに国王に話しかけよ。",
+        "thammy": "Soldier: If you're here for an audience, don't loiter. Address the king instead.",
+        "tone": "",
+        "claude": "Soldier: If you're here for an audience, stop wandering about. Address His Majesty directly."
+      }
+    ]
+  },
+  {
+    "name": "widestring_04C58D",
+    "path": "edward_castle/ec0A_edwina.asm",
+    "parts": [
+      {
+        "source": "Queen Edward",
+        "japanese": "エドワード王后：あなたに手紙を送ったのは国王よ。あの人に話しかけてちょうだい。",
+        "thammy": "Queen Edward: The king is the one who sent you the letter. Please speak to the person over there.",
+        "tone": "",
+        "claude": "Queen Edward: The King sent for you. Address His Majesty, if you please."
+      }
+    ]
+  },
+  {
+    "name": "widestring_04C40E",
+    "path": "edward_castle/ec0A_edward.asm",
+    "parts": [
+      {
+        "source": "King Edward",
+        "japanese": "エドワード国王：お前がテムと申すか？さえない身なりをしておるな。",
+        "thammy": "King Edward: YOU'RE Tim? You're dressed rather drab, I'd think.",
+        "tone": "",
+        "claude": "King Edward: So thou art Tim? What a shabby creature thou art."
+      },
+      {
+        "source": "King Edward",
+        "japanese": "さてさっそくだが水しょうの指輪はもってきたか？ ／ はい ／ いいえ",
+        "thammy": "Well, let's get on with it. Did you bring the Crystal Ring? / Yes / No",
+        "tone": "",
+        "claude": "Now then, let us proceed. Hast thou brought the Crystal Ring? / Yes / No"
+      }
+    ]
+  },
+  {
+    "name": "widestring_04C460",
+    "path": "edward_castle/ec0A_edward.asm",
+    "parts": [
+      {
+        "source": "King Edward",
+        "japanese": "よかろう。なかなか素直な子じゃな。さ指輪を出すがよい。",
+        "thammy": "Very good. A very obedient child, aren't you. Well, you should show me the ring.",
+        "tone": "",
+        "claude": "Very well. An obedient child, I see. Now, present the ring."
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：。。。。。。。。。。。。。",
+        "thammy": "Tim: .............",
+        "tone": "",
+        "claude": "Tim: ............."
+      },
+      {
+        "source": "King Edward",
+        "japanese": "エドワード国王：む？お前は今わしにうそをついたなっ！？",
+        "thammy": "King Edward: Ungh? Did you just lie to me!?",
+        "tone": "",
+        "claude": "Hrm? Dost thou dare lie to me?!"
+      }
+    ]
+  },
+  {
+    "name": "widestring_04C4D5",
+    "path": "edward_castle/ec0A_edward.asm",
+    "parts": [
+      {
+        "source": "King Edward",
+        "japanese": "よくもまあぬけぬけとそんなことが言えたものだなっ！！",
+        "thammy": "How dare you shamelessly say something like that...!?",
+        "tone": "",
+        "claude": "What insolence! To stand before me and speak such brazen lies!"
+      }
+    ]
+  },
+  {
+    "name": "widestring_04C4FB",
+    "path": "edward_castle/ec0A_edward.asm",
+    "parts": [
+      {
+        "source": "King Edward",
+        "japanese": "まあそんなことだろうと思ったわ！さあ。兵士ども！こいつをろうやへブチこめえっ！",
+        "thammy": "I knew you didn't have it! Well. Soldiers! Throw him in the prison!",
+        "tone": "",
+        "claude": "I knew as much! Guards! Cast this wretch into the dungeon!"
+      },
+      {
+        "source": "King Edward",
+        "japanese": "そしてテムの家へゆき指輪をさがしだすのじゃ！",
+        "thammy": "Then go search Tim's house for the Crystal Ring!",
+        "tone": "",
+        "claude": "And send men to search his home for the ring!"
+      }
+    ]
+  },
+  {
+    "name": "widestring_04C556",
+    "path": "edward_castle/ec0A_edward.asm",
+    "parts": [
+      {
+        "source": "Soldier",
+        "japanese": "兵士：はっ！ただいま！",
+        "thammy": "Soldier: Yes, sir! Right away!",
+        "tone": "",
+        "claude": "Soldier: Yes, Sire! At once!"
+      }
+    ]
+  },
+  {
+    "name": "widestring_04C76A",
+    "path": "edward_castle/ec0A_edward.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：おばさん！たすけてっ！",
+        "thammy": "Tim: Old lady! Help me...!",
+        "tone": "",
+        "claude": "Tim: Ma'am! Help me!"
+      },
+      {
+        "source": "Queen Edward",
+        "japanese": "エドワード王后：オバサンですってっ？！！！",
+        "thammy": "Queen Edward: Did you say \"OLD LADY\"...?!",
+        "tone": "",
+        "claude": "Queen Edward: \"MA'AM\"?!"
+      }
+    ]
+  }
+]

@@ -1,0 +1,363 @@
+[
+  {
+    "name": "widestring_07B550",
+    "path": "great_wall/gw82_trail_intro.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "ロブの足どりを追ってぼくは万里の長城へやってきた。",
+        "thammy": "Rob's tracks led me to the Great Wall of China.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "わたりロウカは地平線のかなたまで果てしなく続いている…",
+        "thammy": "The passageway continued without end beyond the horizon...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07B611",
+    "path": "great_wall/gw82_necklace_stone.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "きれいな小石がおちている。",
+        "thammy": "A pretty pebble has fallen.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "ハッ！これはロブがリリィのために作っていたネックレスの一部だ…",
+        "thammy": "Aha! This is a part of the necklace that Rob made for Lillie...",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "ネックレスの石をひろいあげた。",
+        "thammy": "You picked up the necklace's stone for him.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07B6FF",
+    "path": "great_wall/gw83_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "まって！！",
+        "thammy": "Wait!!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07B709",
+    "path": "great_wall/gw83_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：ロブをさがしに行くんでしょ？",
+        "thammy": "Lillie: You're going to search for Rob, right?",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "あたしもいっしょにいくっ！！",
+        "thammy": "I'm going too...!!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07B731",
+    "path": "great_wall/gw83_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：えへへ。こうしてテムのポケットをかりるのも久しぶりだよね。",
+        "thammy": "Lillie: Eheheh. It's been a long time since I've borrowed your pocket like this, huh?",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "さ行こっ。",
+        "thammy": "Alright, let's go…",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08E428",
+    "path": "actors/sE6_gaia.asm",
+    "parts": [
+      {
+        "source": "Gaia",
+        "japanese": "テムの力スピンダッシュはその反動を使って坂をのぼったりジャンプしたりすることができる。",
+        "thammy": "Tim's power Spin Dash can jump to ascend slopes that are too sleep to climb.",
+        "tone": ""
+      },
+      {
+        "source": "Gaia",
+        "japanese": "ここ万里の長城は坂が多い。いろんな場所でためしてみることだ。",
+        "thammy": "There are many hills here in the Great Wall of China. Try attempting it in various places.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08ECEA",
+    "path": "actors/sE6_gaia.asm",
+    "parts": [
+      {
+        "source": "Gaia",
+        "japanese": "スピンダッシュは少年テムだけが使うことのできるちから。",
+        "thammy": "Spin Dash is a power that only Tim, the boy, can use.",
+        "tone": ""
+      },
+      {
+        "source": "Gaia",
+        "japanese": "自分が高速回転し敵をはじき飛ばすことができる。その反動を利用して坂をかけあがることもできるであろう。",
+        "thammy": "Thine own high-speed rotation can send enemies flying. Thou can run up hills that use recoil.",
+        "tone": ""
+      },
+      {
+        "source": "Gaia",
+        "japanese": "こうげきボタンで力をためLRをこうごにおすがよい…",
+        "thammy": "Thou shouldst alternate between L and R while holding the attack button…",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_0B80B5",
+    "path": "great_wall/gw8A_sand_fanger.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "サンドファンガーをたおすとしかばねからミステリードールが見つかった！！",
+        "thammy": "After you defeated Sand Fanger, you found a Mystery Doll from its corpse!!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07B824",
+    "path": "great_wall/gw8B_lance_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：ロブのばかっ！心配したじゃないっ！！",
+        "thammy": "Lillie: Rob, you idiot…You had me worried...!!",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "まものに殺されちゃったらどうするのよっ！！",
+        "thammy": "What would you do if the demons killed you...!!",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "ロブ：みんなに心配かけたのは悪かったと思ってる。",
+        "thammy": "Rob: It's my bad fer worryin' everyone.",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "でもおやじの病気を直す薬が手に入ったんだ。",
+        "thammy": "But I obtained medicine ta cure my old man's illness.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07BB89",
+    "path": "great_wall/gw8B_lance_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：もう…ロブは自分勝手なんだから…",
+        "thammy": "Lillie: Geez… He's selfish, after all...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07B8AD",
+    "path": "great_wall/gw8B_lance_lily.asm",
+    "parts": [
+      {
+        "source": "Rob",
+        "japanese": "ロブ：あっその石は…",
+        "thammy": "Rob: Ah, those stones are...",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：この石ころをたどってきたらここについたんだ。石はロブに返すよ。ほらっ。",
+        "thammy": "Tim: We arrived here when we followed these pebbles. I'll return the stones to you. Here you go…",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "ロブが小声でささやく…",
+        "thammy": "Rob whispered...",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "ロブ：テム…ちょっとの間だけリリィと２人にしてくれないか？",
+        "thammy": "Rob: Tim... Won't ya leave me with Lillie fer just a little bit?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07B960",
+    "path": "great_wall/gw8B_lance_lily.asm",
+    "parts": [
+      {
+        "source": "Rob",
+        "japanese": "ロブ：この石のおかげでおれは助かったんだよな…",
+        "thammy": "Rob: I was saved with tha help o' these stones...",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "実はこれリリィのために作ったネックレスだったんだ…",
+        "thammy": "Tha truth is, I made this fer ya...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07B9B1",
+    "path": "great_wall/gw8B_lance_lily.asm",
+    "parts": [
+      {
+        "source": "Rob",
+        "japanese": "ロブ：ネックレスの石がずいぶん少なくなっちゃったけど受けとってくれないか？",
+        "thammy": "Rob: Tha stones in tha necklace ended up bein' awfully small, but won't ya take it fer me?",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "ロブはネックレスをつなぎ直しそっとリリィの首にかけた…",
+        "thammy": "Rob gently affixed the necklace onto Lillie's neck..",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07BBB0",
+    "path": "great_wall/gw8B_lance_lily.asm",
+    "parts": [
+      {
+        "source": "Rob",
+        "japanese": "ロブ：あっ…",
+        "thammy": "Rob: Ah…",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：今度はにげないから…",
+        "thammy": "Lillie: I won't run away this time...",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "このあいだはとつぜんのことだからびっくりしてどうしていいかわからなかったの…",
+        "thammy": "The last time I did this, I wasn't expecting what you did. I was surprised and didn't know what I should do...",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "今はロブにこんな顔を見られたくないだけ。",
+        "thammy": "But right now, I just don't want you to be able to see my face.",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "うれしくってなみだがあふれてくるんだもの…",
+        "thammy": "I'm so happy that my tears are flooding out...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07BC42",
+    "path": "great_wall/gw8B_lance_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：ロブにはね..はじめて会ったときから何かちがうものを感じてたよ…",
+        "thammy": "Lillie: Rob.. From the time when we first met, I felt something that was different...",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "そしてその何かが今わかったような気がするの…",
+        "thammy": "But now I have a feel that I understand what that something is...",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "このあいだの返事…させてもらうね…",
+        "thammy": "The reply I had for you back then... The reply that I wanted to give you...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07BCAA",
+    "path": "great_wall/gw8B_lance_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：あたしもロブのことが好き…",
+        "thammy": "Lillie: I care about you, too...",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "ずっといっしょにいられたらいいね…",
+        "thammy": "It would be nice if we could always be together, wouldn't it…?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_07BA2E",
+    "path": "great_wall/gw8B_lance_lily.asm",
+    "parts": [
+      {
+        "source": "Rob",
+        "japanese": "ロブ：いやっほーっ！！こんな気分ってはじめてだっ！！",
+        "thammy": "Rob: Yahoo...!! This is tha first time ever I've felt like this...!!",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "学校が夏休みになったときの１００万倍くらいうれしいよっ！",
+        "thammy": "I'm almost a million times as happy as I am at the start of summer vacation...!",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：くすっ。あたしもおんなじ気持ち。",
+        "thammy": "Lillie: Tee hee... I feel the saaame way.",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "さあ町にもどりましょ。きっとみんな心配してるよ。",
+        "thammy": "Alright, let's return to town. Everyone must be worried.",
+        "tone": ""
+      }
+    ]
+  }
+]
+

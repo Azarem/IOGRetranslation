@@ -1,0 +1,213 @@
+[
+  {
+    "name": "widestring_05CB93",
+    "path": "freejia/fr39_erik.asm",
+    "parts": [
+      {
+        "source": "Eric",
+        "japanese": "エリック：テムたちと無事に再会できたっていうのにうれしなみだも出てこないや。",
+        "thammy": "Eric: Even though you could say I was able to reunite with all of you, I'm not crying tears of joy.",
+        "tone": ""
+      },
+      {
+        "source": "Eric",
+        "japanese": "ぼくのなみだってばかれちゃったのかなぁ…",
+        "thammy": "I suppose that I've run out of tears…",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05C85E",
+    "path": "freejia/fr39_lance.asm",
+    "parts": [
+      {
+        "source": "Rob",
+        "japanese": "ロブ：ここはどこなんだろう…",
+        "thammy": "Rob: Where is this...?",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：なんだかとってもなつかしい感じがするわ…",
+        "thammy": "Karen: Somehow I'm feeling very nostalgic...",
+        "tone": ""
+      },
+      {
+        "source": "Eric",
+        "japanese": "エリック：まるでお母さんのおなかの中にいるような感じ…",
+        "thammy": "Eric: I feel as if I'm in my mom's tummy...",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：生まれてから今までに起こったことや出会った人たちがつぎつぎと頭にうかんでくる…",
+        "thammy": "Lillie: All of the people that I've ever met and all of the events I've ever experienced from when I was born are floating to the surface of my mind one by one…",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "ロブ：おれはサウスケープの町で育った",
+        "thammy": "Rob: I was raised in tha town o' South Cape",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "そしておやじは探険にいったままもどってこなかったんだっけ…",
+        "thammy": "But didn't my old man go out on an expedition and not come back...?",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "自分の中でいちばん大きい存在がなくなってどうしていいかわからなかったなあ…",
+        "thammy": "Tha largest existence within me had passed on, and I suppose that I didn't know what to do…",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：あたしはお父さまが他の国へ兵隊を使ってせめていくのがたまらなかった。",
+        "thammy": "Karen: I couldn't stand my father invading other countries with his troops.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "人が死ぬのって大変なことよね。",
+        "thammy": "It's a terrible thing when people die, isn't it?",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "何年もかけてつみあげてきたものがいっしゅんでなくなっちゃうんだもの。",
+        "thammy": "Years of life which had they had built up are reduced to nothingness in an instant.",
+        "tone": ""
+      },
+      {
+        "source": "Eric",
+        "japanese": "エリック：モリスもやっぱり死んじゃったのかな…？",
+        "thammy": "Eric: I wonder if Morris ultimately has died too...?",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：人っていやなことを忘れられるから生きていけるんだよね…",
+        "thammy": "Lillie: They say that people can forget unpleasant things in order to survive, don't they…?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05CA69",
+    "path": "freejia/fr39_lance.asm",
+    "parts": [
+      {
+        "source": "Rob",
+        "japanese": "ロブ：あれ？おれ今まで何してたんだろう。",
+        "thammy": "Rob: Huh? What have I been doin' until now?",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "それにみんなどうしたんだ？",
+        "thammy": "Why are ya all over there?",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：ロブ！きおくがもどったんだっ！",
+        "thammy": "Lillie: Rob! You've got your memory back...!",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：もう！心配したんだからあ！！",
+        "thammy": "Karen: Geez! You know, we were worried about you!!",
+        "tone": ""
+      },
+      {
+        "source": "Eric",
+        "japanese": "エリック：どうなることかと思ったようっ。",
+        "thammy": "Eric: I had no idea what was going to happen…",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05CAEC",
+    "path": "freejia/fr39_lance.asm",
+    "parts": [
+      {
+        "source": "Rob",
+        "japanese": "ロブ：みんなに心配かけちゃったな。でも今度だれかが同じ立場になったらかんびょうするからさ。",
+        "thammy": "Rob: I guess I made everyone worry. But if someone else ends up in tha same position next time, I'll take care of them.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05C597",
+    "path": "freejia/fr39_lily_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：なんだかなみだが出てきちゃった。",
+        "thammy": "Karen: I'm crying for some reason.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05C74D",
+    "path": "freejia/fr39_lily_kara.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：旅をするとほんといろんなけいけんするね…",
+        "thammy": "Lillie: You really have varied experiences if you go on a journey...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_05CBF7",
+    "path": "freejia/fr39_erik.asm",
+    "parts": [
+      {
+        "source": "Eric",
+        "japanese": "エリック：あのさ。近くの森にかわり者の発明家がいるらしいんだけど行ってみない？",
+        "thammy": "Eric: You know what. There is apparently an eccentric inventor in a nearby forest; won't you try to meet him?",
+        "tone": ""
+      },
+      {
+        "source": "Eric",
+        "japanese": "ニールっていう名前の人らしいんだけど…",
+        "thammy": "Apparently it's a person named Neil, but...",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：ニールだって？！！！",
+        "thammy": "Tim: You said it's Neil?!",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "それ行方不明になっているボクのいとこと同じ名前じゃないかっ！！",
+        "thammy": "My cousin went missing; he had the same name...!!",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "いとこのニールも発明家で大空を鳥のようにまうエアプレインっていうのり物まで発明したんだ。",
+        "thammy": "My cousin Neil is also an inventor. He invented a vehicle that can fly through the big blue sky like a bird; it's called an aeroplane.",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "そしてテムたち一行は森の中の発明家の家へ向かうのであった。",
+        "thammy": "Thus, Tim's party headed to the house of the inventor in the forest.",
+        "tone": ""
+      }
+    ]
+  }
+]
+

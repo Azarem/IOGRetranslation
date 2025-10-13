@@ -1,0 +1,730 @@
+[
+  {
+    "name": "widestring_04C3B4",
+    "path": "edward_castle/ec0A_stair_guard.asm",
+    "parts": [
+      {
+        "source": "Guard",
+        "japanese": "うつらうつら…",
+        "thammy": "Zzz...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04C2E9",
+    "path": "edward_castle/ec0A_right_guard.asm",
+    "parts": [
+      {
+        "source": "Guard",
+        "japanese": "うつらうつら…",
+        "thammy": "Zzz...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04C0AF",
+    "path": "edward_castle/ec0A_left_guard.asm",
+    "parts": [
+      {
+        "source": "Guard",
+        "japanese": "あっ。お前はっ！",
+        "thammy": "Ah... You...!",
+        "tone": ""
+      },
+      {
+        "source": "Guard",
+        "japanese": "よくあのろうやからぬけ出せたものだな…。",
+        "thammy": "I think there were frequent escapes from that prison…",
+        "tone": ""
+      },
+      {
+        "source": "Guard",
+        "japanese": "悪いことは言わん。この城から早くにげるんだな。エドワード王に見つかったらただごとじゃすまないぜ。",
+        "thammy": "I didn't say it was a bad thing. Escape from this castle quickly. I'm sorry that you were found by King Edward.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04C85A",
+    "path": "edward_castle/ec0A_stair_maid.asm",
+    "parts": [
+      {
+        "source": "Maid",
+        "japanese": "カレンさまをつれてお城をぬけ出すんでしょ？",
+        "thammy": "You're taking Miss Karen when you escape, right?",
+        "tone": ""
+      },
+      {
+        "source": "Maid",
+        "japanese": "王様に見つからないように…そしておひめさまを守ってあげてね。",
+        "thammy": "I'm hoping that His Majesty the King won't find you... So, you'll protect Her Majesty the Princess, right?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04CB3F",
+    "path": "edward_castle/ec0A_kara_guard.asm",
+    "parts": [
+      {
+        "source": "Soldier",
+        "japanese": "兵士：すぴーすぴー…",
+        "thammy": "Soldier: Zzz...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04CFDB",
+    "path": "edward_castle/ec0A_kara.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：（いやカレンを連れ出すなら今のうちだな…）",
+        "thammy": "Tim: (No, if I'm going to take Karen away, now's the time...)",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04CE4A",
+    "path": "edward_castle/ec0A_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：やっぱりきてくれたのね！どうもありがとう。",
+        "thammy": "Karen: You came for me after all! Thank you very much.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "外の兵隊さん、ねてたでしょう？じつは彼のむかしのあだ名、鼻ちょうちんっていうのよ。今もねむってばっかり。",
+        "thammy": "That soldier outside, he was sleeping, right? The truth is, he used to be nicknamed \"Snot Bubble\" a long time ago. He's sleeping even now.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：きみのコブタがきてくれて…",
+        "thammy": "Tim: Your piglet came for me...",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：ぺぎーっていうの。かわいいでしょう？",
+        "thammy": "Karen: It's named Peggy. Cute, right?",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：とってもかしこい子よ。ちょっとばかり不思議な力もあるし…",
+        "thammy": "Karen: It's a very smart piglet. It's even got a little bit of a mysterious power…",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "さあ、わたしをここから連れだして！",
+        "thammy": "Alright, take me out of here!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04D012",
+    "path": "edward_castle/ec0A_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：あそうだっ！長旅になるかもしれないし食べ物を持っていきましょ。",
+        "thammy": "Karen: Ah, that's right...! Since it might be a long journey, let's take some food.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "地下室へいってくれない？",
+        "thammy": "Won't you go to the basement for me?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04D114",
+    "path": "edward_castle/ec0A_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：たしかこのあたりのタルに食べ物が入っているの。",
+        "thammy": "Karen: If I recall correctly, food is put in the barrels around here.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04D141",
+    "path": "edward_castle/ec0A_barrel_roast.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "骨つきのくんせい肉を手に入れた！",
+        "thammy": "Got bone-in smoked meat!",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：これで準備オッケー！さあ兵隊さんに見つからないうちにいきましょ！",
+        "thammy": "Karen: With this, the preparations are complete. Alright, let's go before we're found by the soldiers!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_038D85",
+    "path": "chunk_038000.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "骨つきのくんせい肉をちょっぴりかじってみた。",
+        "thammy": "Tried to nibble the bone-in smoked meat a little bit.",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "それは今まで食べたことのないような不思議な味がした。いったい何の肉だろう…",
+        "thammy": "I had never eaten anything with anything like this mysterious taste. I wonder what in the world kind of meat this is...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04D069",
+    "path": "edward_castle/ec0A_kara.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：さあ。いよいよ出発ね。",
+        "thammy": "Karen: Alright. We're finally heading out, huh?",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "まずはテムの家へ行ってみましょ。ローラおばあさまやビルおじいさまのことが心配だわ。",
+        "thammy": "First, let's try to go to your house. You must be worried about the Mrs. Laura and Mr. Bill.",
+        "tone": ""
+      },
+      {
+        "source": "Narrator",
+        "japanese": "二人はテムの家へと足をはやめた。",
+        "thammy": "The two hurried to Tim's house.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04AF7F",
+    "path": "south_cape/sc06_kara_return.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：（いや手がかりはきっと家の中にあるはずだ…）",
+        "thammy": "Tim: (No, there must definitely be a clue in the house...)",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04A746",
+    "path": "south_cape/sc06_kara_return.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：うわっ！なんだよこのあれようは…",
+        "thammy": "Tim: Wah...! What in the… Why does it look like this…",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04A766",
+    "path": "south_cape/sc06_kara_return.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：ひどい….！いったいだれがこんなことを…",
+        "thammy": "Karen: This is awful...! Who could have done something like this…",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：おじいちゃんとおばあちゃんは！？",
+        "thammy": "Tim: What about Grandma and Grandpa!?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04A7A8",
+    "path": "south_cape/sc06_kara_return.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：ビルおじいさまーっ！",
+        "thammy": "Karen: Mr. Biiill...!",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：ローラおばあちーゃん！",
+        "thammy": "Tim: Grandma Lauuura!",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：あたし２階を見てくるっ！",
+        "thammy": "Karen: I'll just quickly look on the second floor…!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04A7E1",
+    "path": "south_cape/sc06_kara_return.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：きゃーーーーーーッ！！！きて！たすけて！テム！た、たいへん、たいへんよ！",
+        "thammy": "Karen: Eeeeeeek...!! Come here! Help! Tim! It's, it's a disaster, a disaster!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04A81F",
+    "path": "south_cape/sc06_kara_return.asm",
+    "parts": [
+      {
+        "source": "Tim",
+        "japanese": "テム：どうしたの！？",
+        "thammy": "Tim: What happened!?",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：このかべを見て！このしるし、黒いヒョウのマーク..ブラックパンサーがきたんだわ！",
+        "thammy": "Karen: Look at this wall! This emblem, the mark of a leopard with black fur.. That means Black Panther came here!",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：ブラックパンサーって…？",
+        "thammy": "Tim: \"Black Panther\"...?",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：最近お母さまがやとった殺し屋よ！",
+        "thammy": "Karen: The assassin that my mother hired recently!",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "しつっこくて暗くてふきつな男なの。",
+        "thammy": "He's a tenacious, morbid, sinister man.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "一度こいつにねらわれたらもう、おしまい…人の命なんてなんとも思わない男よ！",
+        "thammy": "If he has someone in his sights once, it's already over... He's a man that with no concern whatsoever about things like human life!",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：じゃあおじいちゃんとおばあちゃんは..",
+        "thammy": "Tim: Then, Grandpa and Grandma..",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04AC0C",
+    "path": "south_cape/sc06_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：ご安心あれ、おふたりさん。",
+        "thammy": "Lillie: You don't have to worry, you two.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：あ。君はさっきの…",
+        "thammy": "Tim: Ah. It's you, from a while ago...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04A945",
+    "path": "south_cape/sc06_kara_return.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：あなただあれ！？",
+        "thammy": "Karen: Who are youuu!?",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：テムのお友達よーだ。",
+        "thammy": "Lillie: Iii'm Tim's friend.",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：リリィ、きみはなにか知ってるの？",
+        "thammy": "Tim: Lillie, do you know something?",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：だいじょうぶ。ビルおじいちゃんもローラおばあちゃんも無事だよ。",
+        "thammy": "Lillie: It's okay. Grandpa Bill and Grandma Laura are safe too.",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "あたしの村にかくれてる。",
+        "thammy": "They're hiding in my village.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：あなたの村？",
+        "thammy": "Karen: Your village?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04AC45",
+    "path": "south_cape/sc06_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：イトリー族の村。",
+        "thammy": "Lillie: The village of the Itory clan.",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：そんな村、きいたこともないわ！",
+        "thammy": "Karen: I haven't even heard of a village like that!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04AC77",
+    "path": "south_cape/sc06_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：当然よ。あたしの村には結界がはってあってふつうの人間には見えやしないもんんねっ。",
+        "thammy": "Lillie: Naturally! There's a barrier put up in my village so that normal humans can't see it, you know...?",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：さあ行こっ。テム！",
+        "thammy": "Lillie: Alright, let's go, Tim!",
+        "tone": ""
+      },
+      {
+        "source": "Tim",
+        "japanese": "テム：うん！",
+        "thammy": "Tim: Sure!",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：あたしもついて行く！",
+        "thammy": "Karen: I'm coming along too!",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：おひめさまにはキケンだよっ。",
+        "thammy": "Lillie: Your Majesty would be in danger…",
+        "tone": ""
+      },
+      {
+        "source": "Karen",
+        "japanese": "カレン：絶対について行くもん！これであたしほんとに自由になれるのねっ！！",
+        "thammy": "Karen: I'm definitely coming along with you! That way, I can truly become free...!!",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：これだものおじょうさまったら。",
+        "thammy": "Lillie: That's just how it is, little lady.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04A9D7",
+    "path": "south_cape/sc06_kara_return.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "この先何かすてきなことが待っているような気がするわ。",
+        "thammy": "I feel like some lovely experiences are awaiting us.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04AD69",
+    "path": "south_cape/sc06_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：あたしの村へ行くまえに町のみんなに会ってきたら？",
+        "thammy": "Lillie: Are you going to go and meet with everyone before going to my village?",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "しばらくここへはもどってこられないかもしれないわよ。",
+        "thammy": "It might be a while before we can come back.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04ADCA",
+    "path": "south_cape/sc06_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：えっ？もういいの？ちょっとは町のようすをながめてきたら？",
+        "thammy": "Lillie: Huh...? Are you done already? Or are you going to check on the state of the town for a bit?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_048CDB",
+    "path": "south_cape/sc08_priest.asm",
+    "parts": [
+      {
+        "source": "Priest",
+        "japanese": "なんですか。テム。人の顔をしげしげと見て…",
+        "thammy": "What's the matter, Tim? You're looking at people's faces so closely...",
+        "tone": ""
+      },
+      {
+        "source": "Priest",
+        "japanese": "また何かたくらんでるんじゃないでしょうね…",
+        "thammy": "You're probably scheming something again, huh...?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_08D332",
+    "path": "actors/jeweler_gem.asm",
+    "parts": [
+      {
+        "source": "Gem",
+        "japanese": "おっと集めた宝石が５コを越えているじゃないかっ！リストの通り守りのフォースをあげることにしよう。",
+        "thammy": "Whoops, the number of jewels you've collected have passed 5, haven't they...! Going by the list, I'll give you Protection Force.",
+        "tone": ""
+      },
+      {
+        "source": "Gem",
+        "japanese": "これで君のぼうぎょ力は一つ上がるはずだ。",
+        "thammy": "With that, your defensive power should rise by one.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04B5ED",
+    "path": "south_cape/sc02_seth.asm",
+    "parts": [
+      {
+        "source": "Morris",
+        "japanese": "ちぇっあたしばかり…",
+        "thammy": "Ugh, it's always me…",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04B40D",
+    "path": "south_cape/sc02_lance.asm",
+    "parts": [
+      {
+        "source": "Rob",
+        "japanese": "ロブ：どうしたんだ？テム。うかない顔して。",
+        "thammy": "Rob: What's tha matter, Tim? Ya got a sad face.",
+        "tone": ""
+      },
+      {
+        "source": "Rob",
+        "japanese": "何かおれたちに言えないなやみでもあるのか？",
+        "thammy": "Ya havin' some problems that ya can't tell us about?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04BBDA",
+    "path": "south_cape/sc02_erik.asm",
+    "parts": [
+      {
+        "source": "Eric",
+        "japanese": "エリック：どうしたの？何かいつものテムとちがうよ。",
+        "thammy": "Eric: What's wrong? You're different than usual.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04ADFE",
+    "path": "south_cape/sc06_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：旅立つ決心はできたわけね？／はい／いいえ",
+        "thammy": "Lillie: Have you decided to head out? / Yes / No",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04AE24",
+    "path": "south_cape/sc06_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：そうね。じゃ旅立つ心がまえができたらここへもどってきて。",
+        "thammy": "Lillie: Is that so. Well, some back here when you're in the mind to set out.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04AE61",
+    "path": "south_cape/sc06_lily.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：この先何かすてきなことが待っているような気がする。",
+        "thammy": "Karen: I feel like some lovely experiences are ahead of us.",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：いいえこれからが苦労の連続だわきっと…。ふうぅっ…。",
+        "thammy": "Lillie: No, from here, there will definitely be a lot of difficulties... *Sigh*...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04A9F8",
+    "path": "south_cape/sc06_kara_return.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：いちいちたてつくわねえ。",
+        "thammy": "Karen: But we'll stand against them one by one, right?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04AEC1",
+    "path": "south_cape/sc06_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：そっちこそお城の外へ出たことがあるの？",
+        "thammy": "Lillie: It'll be like that for sure; have you ever been outside the castle?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04AA0D",
+    "path": "south_cape/sc06_kara_return.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：なによフーテン娘！",
+        "thammy": "Karen: What a crazy girl!",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04AEF7",
+    "path": "south_cape/sc06_lily.asm",
+    "parts": [
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：なんですって、世間知らずっ！",
+        "thammy": "Lillie: What did you say, you sheltered...!",
+        "tone": ""
+      },
+      {
+        "source": "Lillie",
+        "japanese": "リリィ：テムはあたしのおともだち。わかったわね？",
+        "thammy": "Lillie: Tim's my friend. You understand that, right?",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04AA20",
+    "path": "south_cape/sc06_kara_return.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：あら、テムはあたしのおともだちよね？！ ／ うん、もちろんさ ／ よくわかんねえやし…",
+        "thammy": "Karen: Ah, you're my friend, right?! / Yeah, of course / I can't so easily know you that well...",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04AA7D",
+    "path": "south_cape/sc06_kara_return.asm",
+    "parts": [
+      {
+        "source": "Karen",
+        "japanese": "カレン：うれしいわ、テム。さあさ、手をつないで行きましょ。",
+        "thammy": "Karen: I'm glad, Tim. Come on, let's hold hands as we go.",
+        "tone": ""
+      }
+    ]
+  },
+  {
+    "name": "widestring_04AAAD",
+    "path": "south_cape/sc06_kara_return.asm",
+    "parts": [
+      {
+        "source": "Narrator",
+        "japanese": "こうして３人はリリィの村へと向かうのであった。",
+        "thammy": "Like this, the three headed to Lillie's village.",
+        "tone": ""
+      }
+    ]
+  }
+]
+
+
