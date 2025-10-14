@@ -7,55 +7,64 @@
         "source": "Narrator",
         "japanese": "海底トンネルに入って５日がすぎた。",
         "thammy": "Five days passed since we entered the undersea tunnel.",
-        "tone": ""
+        "tone": "",
+        "claude": "Five days had passed since we entered the undersea tunnel."
       },
       {
         "source": "Narrator",
         "japanese": "行けども行けども同じような景色がつづく。気が遠くなりそうだった…",
         "thammy": "The scenery looks the same no matter how much you walk. We began to feel overwhelmed...",
-        "tone": ""
+        "tone": "",
+        "claude": "No matter how far we walked, the same scenery continued. It felt like we might lose our minds..."
       },
       {
         "source": "Neil",
         "japanese": "ニール：今日はこのあたりで休むとしようか。",
         "thammy": "Neil: How about we rest here for today?",
-        "tone": ""
+        "tone": "",
+        "claude": "Neil: How about we rest around here for today?"
       },
       {
         "source": "Eric",
         "japanese": "エリック：つかれたあ。今日は１０００キロくらい歩いたかな。",
         "thammy": "Eric: I'm exhaaausted. I think we walked about a thousand kilometres today.",
-        "tone": ""
+        "tone": "",
+        "claude": "Eric: I'm exhausted. I wonder if we walked about a thousand kilometers today."
       },
       {
         "source": "Rob",
         "japanese": "ロブ：ばかだな。人間の足でそんなに歩けるわけねえだろっ。",
         "thammy": "Rob: Don't be stupid. Human legs can't walk that far.",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob: Don't be stupid. There's no way human legs can walk that far."
       },
       {
         "source": "Karen",
         "japanese": "カレン：もーうやだっ！もう旅に出てからつかれることしかないんだものっ。",
-        "thammy": "Karen: Geez, I can't stand it it...!",
-        "tone": ""
+        "thammy": "Geez, I can't stand it it...!",
+        "tone": "",
+        "claude": "Karen: I can't take this anymore! Ever since we left on this journey, it's been nothing but exhausting things!"
       },
       {
         "source": "Karen",
         "japanese": "カレン：もーうやだっ！もう旅に出てからつかれることしかないんだものっ。",
         "thammy": "This journey's been nothing but one exhausting event after another…",
-        "tone": ""
+        "tone": "",
+        "claude": ""
       },
       {
         "source": "Lillie",
         "japanese": "リリィ：みんな同じこと思ってるんだから声にだして言わないのっ！",
         "thammy": "Lillie: Everybody's thinking the same thing, so be quiet...!",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: Everyone's thinking the same thing, so don't say it out loud!"
       },
       {
         "source": "Lillie",
         "japanese": "それよりごはんにしよ。おなかすいちゃった。",
         "thammy": "More importantly, let's eat. I'm hungry.",
-        "tone": ""
+        "tone": "",
+        "claude": "More importantly, let's eat. I'm hungry."
       }
     ]
   },
@@ -67,7 +76,8 @@
         "source": "Eric",
         "japanese": "エリック：おしっこするんだから見にこないでよっ！",
         "thammy": "Eric: I'm peeing, so don't come look!",
-        "tone": ""
+        "tone": "",
+        "claude": "Eric: I'm going pee, so don't come look!"
       }
     ]
   },
@@ -79,7 +89,8 @@
         "source": "Rob",
         "japanese": "ロブ：この地下道っていったいどこまでつづいてるんだろう…",
         "thammy": "Rob: Where tha heck does this underground tunnel go on to...",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob: I wonder where the heck this tunnel goes on to..."
       }
     ]
   },
@@ -91,13 +102,15 @@
         "source": "Neil",
         "japanese": "ニール：何千年もむかしにこの地下道を歩いた人たちがいたんだなあ。",
         "thammy": "Neil: I guess that even millennia ago, there must have been people walking through this underground tunnel.",
-        "tone": ""
+        "tone": "",
+        "claude": "Neil: There were people walking through this tunnel thousands of years ago."
       },
       {
         "source": "Neil",
         "japanese": "なんだか遠い過去を想像してると自分がちっぽけに思えてくるよ。",
         "thammy": "I can't help but think of myself a little when I think of the distant past.",
-        "tone": ""
+        "tone": "",
+        "claude": "Somehow, when I imagine the distant past, I start to feel really small."
       }
     ]
   },
@@ -109,19 +122,22 @@
         "source": "Lillie",
         "japanese": "リリィ：人間って不思議だよね…",
         "thammy": "Lillie: Humans are mysterious, aren't we…?",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: Humans are amazing, aren't they...?"
       },
       {
         "source": "Lillie",
         "japanese": "極限じょうたいになると何が食べられて何が毒なのか一目でわかっちゃうんだもん。",
-        "thammy": "When you're pushed to the absolute limit, you might know with a glance if something is edible of it's poisonous.",
-        "tone": ""
+        "thammy": "Lillie: When you're pushed to the absolute limit, you might know with a glance if something is edible of it's poisonous.",
+        "tone": "",
+        "claude": "When you're pushed to the absolute limit, you can tell at a glance what's edible and what's poison."
       },
       {
         "source": "Lillie",
         "japanese": "もしかするとむかしの人ってみんなそうだったのかな。",
         "thammy": "I wonder if it was that was for the people of the past.",
-        "tone": ""
+        "tone": "",
+        "claude": "I wonder if all the people of the past were like that."
       }
     ]
   },
@@ -133,13 +149,15 @@
         "source": "Karen",
         "japanese": "カレン：あーあステーキが食べたいっ！サラダも食べたいっ！！",
         "thammy": "Karen: Aah, I want to eat a steak...! I want to eat a salad...!!",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: I want to eat steak! I want to eat salad too!!"
       },
       {
         "source": "Karen",
         "japanese": "変なものばっかり食べてるからもうハダががさがさになってきちゃった…",
         "thammy": "My skin is already turning dry because we're only eating weird things...",
-        "tone": ""
+        "tone": "",
+        "claude": "My skin's already getting all dry because we're only eating weird things..."
       }
     ]
   },
@@ -151,37 +169,43 @@
         "source": "Narrator",
         "japanese": "このキノコはトンネル内のいたるところに生えている。ぼくらのゆいいつの食料だ。",
         "thammy": "We found these mushrooms living in this tunnel when we arrived.",
-        "tone": ""
+        "tone": "",
+        "claude": "These mushrooms are growing all over the tunnel. They're our only food source."
       },
       {
         "source": "Narrator",
         "japanese": "このキノコはトンネル内のいたるところに生えている。ぼくらのゆいいつの食料だ。",
         "thammy": "They're our only source of food.",
-        "tone": ""
+        "tone": "",
+        "claude": ""
       },
       {
         "source": "Narrator",
         "japanese": "昨日は焼きキノコ。おとといはゆでキノコ。",
         "thammy": "Yesterday was fried mushrooms. The day before yesterday was boiled mushrooms.",
-        "tone": ""
+        "tone": "",
+        "claude": "Yesterday was grilled mushrooms. The day before was boiled mushrooms."
       },
       {
         "source": "Narrator",
         "japanese": "さきおとといは生で食べたらおそろしくまずかった…",
         "thammy": "When we ate them raw three days ago and they were frightfully disgusting...",
-        "tone": ""
+        "tone": "",
+        "claude": "Three days ago we ate them raw and they were horribly disgusting..."
       },
       {
         "source": "Narrator",
         "japanese": "でもぜいたくは言っていられない。生きるためにはがまんしてでもお腹に入れなくては…",
         "thammy": "But we can't concern ourselves with luxuries like flavour.",
-        "tone": ""
+        "tone": "",
+        "claude": "But we can't complain about luxuries. To survive, we have to force ourselves to eat them..."
       },
       {
         "source": "Narrator",
         "japanese": "でもぜいたくは言っていられない。生きるためにはがまんしてでもお腹に入れなくては…",
         "thammy": "We're being patient in order to live, but when it comes to having an empty stomach...",
-        "tone": ""
+        "tone": "",
+        "claude": ""
       }
     ]
   },
@@ -193,13 +217,15 @@
         "source": "Karen",
         "japanese": "カレン：があああん。テムがまたキノコを見つけてきたわ…",
         "thammy": "Karen: Oh gosh. Tim found mushrooms again...",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: Noooo. Tim found mushrooms again..."
       },
       {
         "source": "Lillie",
         "japanese": "リリィ：死ぬよりいいと思わなきゃ。さあごはんにしよっ。",
         "thammy": "Lillie: You have to think of it as being better than starving to death. Alright, let's eat…",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: You have to think it's better than dying. Come on, let's eat."
       }
     ]
   },
@@ -211,7 +237,8 @@
         "source": "Narrator",
         "japanese": "こうしてまた一日がゆっくりとすぎていった…",
         "thammy": "Like this, one day again passed slowly...",
-        "tone": ""
+        "tone": "",
+        "claude": "And so another day slowly passed..."
       }
     ]
   },
@@ -223,13 +250,15 @@
         "source": "Narrator",
         "japanese": "海底トンネルに入って８日目。ぼくはねつかれず地下水の流れを見つめていた..",
         "thammy": "Eighth day since entering the tunnel.",
-        "tone": ""
+        "tone": "",
+        "claude": "Day eight in the undersea tunnel. I couldn't sleep and was staring at the flow of underground water.."
       },
       {
         "source": "Narrator",
         "japanese": "海底トンネルに入って８日目。ぼくはねつかれず地下水の流れを見つめていた..",
         "thammy": "Unable to sleep, I was staring at an underground water stream..",
-        "tone": ""
+        "tone": "",
+        "claude": ""
       }
     ]
   },
@@ -241,7 +270,8 @@
         "source": "Lillie",
         "japanese": "リリィ：ねむれないの？",
         "thammy": "Lillie: Can't sleep?",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: Can't sleep?"
       }
     ]
   },
@@ -253,61 +283,71 @@
         "source": "Tim",
         "japanese": "テム：うん。お腹がすいてさ。っていうのはじょうだんだけど。",
         "thammy": "Tim: Yeah, it's because I'm getting hungry. …I'm kidding.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Yeah. I'm hungry... Just kidding, though."
       },
       {
         "source": "Lillie",
         "japanese": "リリィ：テムってさ。旅をつづけるうちにずいぶん変わったよね。",
         "thammy": "Lillie: Speaking of, Tim. As our journey continues, we've changed a lot, haven't we?",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: Tim, you know... You've changed a lot as the journey's gone on, haven't you?"
       },
       {
         "source": "Lillie",
         "japanese": "なんだか大人っぽくなったっていうかさ。",
         "thammy": "You could say that we've matured somehow.",
-        "tone": ""
+        "tone": "",
+        "claude": "You've gotten more mature somehow."
       },
       {
         "source": "Tim",
         "japanese": "テム：自分でもよくわかんないんだけど…",
         "thammy": "Tim: I don't understand it well myself, but…",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: I don't really understand it myself..."
       },
       {
         "source": "Tim",
         "japanese": "ぼくは不思議な力が使えるしそれに戦士の姿に変身するのも見たろ？",
         "thammy": "I'm able to use mysterious powers; you've seen me transform into the form of a warrior, right?",
-        "tone": ""
+        "tone": "",
+        "claude": "I can use mysterious powers, and you've seen me transform into that warrior form, right?"
       },
       {
         "source": "Tim",
         "japanese": "ぼくの体に変化がおこったのは以前父さんとバベルのとうに探険にいった時からなんだ。",
         "thammy": "After the expedition with my dad at the Tower of Babel, my body had changed.",
-        "tone": ""
+        "tone": "",
+        "claude": "The changes to my body started when I went on that expedition to the Tower of Babel with Dad."
       },
       {
         "source": "Tim",
         "japanese": "この旅でぼくの力の秘密がわかりそうな気がするんだよ。",
         "thammy": "I have a hunch that I'll understand the secrets of my power through this journey.",
-        "tone": ""
+        "tone": "",
+        "claude": "I feel like I might understand the secret of my power through this journey."
       },
       {
         "source": "Tim",
         "japanese": "それよりリリィはなんで危険な旅についてきたわけ？",
         "thammy": "By the way, Lillie, why did you tag along in such a dangerous journey?",
-        "tone": ""
+        "tone": "",
+        "claude": "More importantly, why did you come along on such a dangerous journey?"
       },
       {
         "source": "Lillie",
         "japanese": "リリィ：最初は面白半分だったんだけどね。でも今はないしょ。エヘヘ。",
         "thammy": "Lillie: At first, it was half for fun. But now it's a private matter. Ehehe.",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: At first it was half for fun. But now it's a secret. Ehehe."
       },
       {
         "source": "Lillie",
         "japanese": "明日はまたいっぱい歩かなきゃならないし…もうそろそろねなくちゃね。",
         "thammy": "Since we won't be able to avoid a lot of walking tomorrow... I'll be going to bed soon, okay?",
-        "tone": ""
+        "tone": "",
+        "claude": "We have to walk a lot again tomorrow... so I should get to sleep soon."
       }
     ]
   },
@@ -319,7 +359,8 @@
         "source": "Narrator",
         "japanese": "海底トンネルに入って２週間。今だに出口は見えない…",
         "thammy": "Two weeks since entering the undersea tunnel. We still can't see an exit...",
-        "tone": ""
+        "tone": "",
+        "claude": "Two weeks in the undersea tunnel. Still no exit in sight..."
       }
     ]
   },
@@ -331,19 +372,22 @@
         "source": "Karen",
         "japanese": "カレン：ねえねえ。ゆうべねているとき上の方から不気味な物音がしなかった？",
         "thammy": "Karen: Hey hey. Were there eerie sounds coming from above the tunnel when we were sleeping last night?",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: Hey, hey. Didn't you hear eerie sounds coming from above while we were sleeping last night?"
       },
       {
         "source": "Rob",
         "japanese": "ロブ：カレンはよくそんな物音に気がつくなあ…",
         "thammy": "Rob: I think ya often notice those sort o' sounds...",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob: You sure notice those kinds of sounds a lot..."
       },
       {
         "source": "Rob",
         "japanese": "つかれはててそれどころじゃなかったよ。",
         "thammy": "That ain't it; ya were just getting' tired.",
-        "tone": ""
+        "tone": "",
+        "claude": "I was too exhausted to notice anything like that."
       }
     ]
   },
@@ -355,7 +399,8 @@
         "source": "Karen",
         "japanese": "カレン：ほらっ。今も聞こえたわっ！！何かしら…あの音…",
         "thammy": "Karen: Listen... You can hear it even now...! I wonder what it is... That sound...",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: There! I heard it again!! I wonder what it is... That sound..."
       }
     ]
   },
@@ -367,19 +412,22 @@
         "source": "Eric",
         "japanese": "エリック：もしかしてリバイヤサン…？",
         "thammy": "Eric: Could it be a Leviathan...?",
-        "tone": ""
+        "tone": "",
+        "claude": "Eric: Could it be a Leviathan...?"
       },
       {
         "source": "Karen",
         "japanese": "カレン：たいへんっ！！にげなくっちゃ！！！",
         "thammy": "Karen: This is bad...!! Run away!!",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: This is terrible!! We have to run!!!"
       },
       {
         "source": "Lillie",
         "japanese": "リリィ：にげるっていったいどこへにげるわけっ？！",
         "thammy": "Lillie: You can tell us to run away, but where the heck do we run to...!?",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: Run where, exactly?!"
       }
     ]
   },
@@ -391,25 +439,29 @@
         "source": "Neil",
         "japanese": "ニール：みんな静かにっ！！このしんどうの連続音…",
         "thammy": "Neil: Everyone, be quiet...! This repeating vibration sound...",
-        "tone": ""
+        "tone": "",
+        "claude": "Neil: Everyone, quiet!! This repeating vibration sound..."
       },
       {
         "source": "Neil",
         "japanese": "これはモールス信号だ…",
         "thammy": "This is Morse code...",
-        "tone": ""
+        "tone": "",
+        "claude": "This is Morse code..."
       },
       {
         "source": "Neil",
         "japanese": "音の長さが言葉になっている信号で船同士が連らくをとりあうときに使われている合図なんだよ。",
         "thammy": "When boats contact each other, they use signals where the length of sounds map up to words.",
-        "tone": ""
+        "tone": "",
+        "claude": "It's a signal where the length of sounds becomes words—ships use it to communicate with each other."
       },
       {
         "source": "Neil",
         "japanese": "ちょっと解読してみるからまってくれ…",
         "thammy": "I can try to decode a bit of it, so please wait...",
-        "tone": ""
+        "tone": "",
+        "claude": "Let me try to decode it, so wait a moment..."
       }
     ]
   },
@@ -421,55 +473,64 @@
         "source": "Morris",
         "japanese": "ぼくはモリス…",
         "thammy": "I'm Morris...",
-        "tone": ""
+        "tone": "",
+        "claude": "I am Morris..."
       },
       {
         "source": "Rob",
         "japanese": "ロブ：モリスだって？！！！",
         "thammy": "Rob: Did ya say it's Morris?!",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob: Did you say Morris?!"
       },
       {
         "source": "Lillie",
         "japanese": "リリィ：しっ。静かにっ。ニール先を続けて。",
         "thammy": "Lillie: Shh... Be quiet... Neil's about to continue.",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: Shh. Quiet. Neil, keep going."
       },
       {
         "source": "Morris",
         "japanese": "ぼくはリバイヤサンに飲みこまれました….",
         "thammy": "I was swallowed by a Leviathan...",
-        "tone": ""
+        "tone": "",
+        "claude": "I was swallowed by a Leviathan...."
       },
       {
         "source": "Morris",
         "japanese": "そして気づいた時には体がリバイヤサンの姿になっていたのです。",
         "thammy": "And then, when I regained consciousness, my body had been transformed into the form of a Leviathan.",
-        "tone": ""
+        "tone": "",
+        "claude": "And when I came to, my body had become that of a Leviathan."
       },
       {
         "source": "Morris",
         "japanese": "このリバイヤサンという生物は海の中で生活する人間なのかもしれませんね。",
         "thammy": "These life forms that we call Leviathans may be understood as humans that live in the sea.",
-        "tone": ""
+        "tone": "",
+        "claude": "These creatures called Leviathans might be humans who live in the sea."
       },
       {
         "source": "Morris",
         "japanese": "仲間のリバイヤサンの話ではすい星の光で生き物の進化がおかしくなっているとか。",
         "thammy": "From what my fellow Leviathans say, the light of the comet distorts the evolution of living things or something like that.",
-        "tone": ""
+        "tone": "",
+        "claude": "According to my fellow Leviathans, the comet's light is distorting the evolution of living things."
       },
       {
         "source": "Morris",
         "japanese": "ぼくもいっしょに旅を続けたかったけど今はこんな体ですからね。",
         "thammy": "I'd join you on your journey again, but my body's like this, so…",
-        "tone": ""
+        "tone": "",
+        "claude": "I wanted to continue the journey with you, but my body is like this now."
       },
       {
         "source": "Morris",
         "japanese": "どうかがんばってすい星とイセキのなぞを解き明かしてください….",
         "thammy": "Please stay strong anyway, and bring the mysteries of the comet and the ruins to light...",
-        "tone": ""
+        "tone": "",
+        "claude": "Please do your best to solve the mysteries of the comet and the ruins...."
       }
     ]
   },
@@ -481,51 +542,58 @@
         "source": "Neil",
         "japanese": "ニール：もう何も聞こえなくなった…",
         "thammy": "Neil: I can't hear it anymore…",
-        "tone": ""
+        "tone": "",
+        "claude": "Neil: I can't hear anything anymore..."
       },
       {
         "source": "Karen",
         "japanese": "カレン：モリス….かわいそうに…..",
         "thammy": "Karen: Morris... I pity him…",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: Morris... Poor thing....."
       },
       {
         "source": "Rob",
         "japanese": "ロブ：そういえばあいつモールス信号について勉強してたもんなあ。",
         "thammy": "Rob: Now that ya mention it, I guess that guy must have studied Morse code.",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob: Come to think of it, that guy studied Morse code."
       },
       {
         "source": "Rob",
         "japanese": "モリスもいきなことしてくれるじゃねえか。",
         "thammy": "Morris has learned sophisticated things too, hadn't he.",
-        "tone": ""
+        "tone": "",
+        "claude": "Morris did something pretty smart there."
       },
       {
         "source": "Eric",
         "japanese": "エリック：でもモリスは人間の姿じゃなくなっちゃたんだよっ！！",
         "thammy": "Eric: But Morris no longer is in human form...!!",
-        "tone": ""
+        "tone": "",
+        "claude": "Eric: But Morris isn't in human form anymore!!"
       },
       {
         "source": "Neil",
         "japanese": "ニール：いやエリック。そう決めつけるのはよくないな。",
         "thammy": "Neil: Nah, Eric. I don't think you should assume it's a bad thing.",
-        "tone": ""
+        "tone": "",
+        "claude": "Neil: No, Eric. It's not good to jump to conclusions like that."
       },
       {
         "source": "Neil",
         "japanese": "人間の体が一番なんて思っているのは案外とぼくら人間だけなのかもしれないぞ。",
         "thammy": "We may only think that the human body is the best one because we're just humans.",
-        "tone": ""
+        "tone": "",
+        "claude": "Thinking the human body is best might just be something we humans think, you know."
       },
       {
         "source": "Neil",
         "japanese": "さあ。元気を出して先を急ごう！！",
         "thammy": "Alright. Keep your spirits up and let's go ahead!!",
-        "tone": ""
+        "tone": "",
+        "claude": "Come on. Cheer up and let's keep moving!!"
       }
     ]
   }
 ]
-

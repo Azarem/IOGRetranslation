@@ -7,85 +7,99 @@
         "source": "Man",
         "japanese": "男の声：もうそろそろ起こしてもだいじょうぶだろう。",
         "thammy": "Man's voice: He should be getting up about now; he should be fine.",
-        "tone": ""
+        "tone": "",
+        "claude": "Man's voice: He should be ready to wake up now."
       },
       {
         "source": "Man",
         "japanese": "ビタミンCもじゅうぶんとらせたし体のつかれも回復しているはずだ。",
         "thammy": "If he takes enough vitamin C he should even get over his fatigue.",
-        "tone": ""
+        "tone": "",
+        "claude": "I've given him plenty of vitamin C, so his body should be recovering from the fatigue."
       },
       {
         "source": "Man",
         "japanese": "これはかい血病といってね長期間ビタミンCをとらないとかかる病気なんだよ。",
         "thammy": "This is what you call \"scurvy\", you know.",
-        "tone": ""
+        "tone": "",
+        "claude": "This is called scurvy—a disease you get from not taking vitamin C for a long time."
       },
       {
         "source": "Man",
         "japanese": "この病気がもっとひどくなると血がダメになりヒフの色がどす黒くなってくる。",
         "thammy": "If you don't take vitamin C for a long time you're going to contract the disease.",
-        "tone": ""
+        "tone": "",
+        "claude": "If the disease gets worse, the blood goes bad and the skin turns dark."
       },
       {
         "source": "Karen",
         "japanese": "カレン：ふうん….",
         "thammy": "Karen: Ugh...",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: Hmm..."
       },
       {
         "source": "Man",
         "japanese": "かの有名な探険家コロンブスの一行だってかかった病気だ。気にすることはないさ。",
         "thammy": "The famous explorer Columbus's troop once contracted the disease.",
-        "tone": ""
+        "tone": "",
+        "claude": "Even the famous explorer Columbus and his crew got this disease. Nothing to worry about."
       },
       {
         "source": "Man",
         "japanese": "かの有名な探険家コロンブスの一行だってかかった病気だ。気にすることはないさ。",
         "thammy": "It's not something to concern yourself about.",
-        "tone": ""
+        "tone": "",
+        "claude": "Even the famous explorer Columbus and his crew got this disease. Nothing to worry about."
       },
       {
         "source": "Man",
         "japanese": "この病気がもっとひどくなると血がダメになりヒフの色がどす黒くなってくる。",
         "thammy": "If the disease gets worse, your blood goes bad and your skin darkens.",
-        "tone": ""
+        "tone": "",
+        "claude": "If the disease gets worse, the blood goes bad and the skin turns dark."
       },
       {
         "source": "Man",
         "japanese": "歯ぐきから血が止まらなくなり、やがて体がくさって….",
         "thammy": "You bleed from the gums, and soon enough, your body withers…",
-        "tone": ""
+        "tone": "",
+        "claude": "You start bleeding from the gums, and eventually your body rots..."
       },
       {
         "source": "Karen",
         "japanese": "カレン：やめてよっ！！そんなこわい話聞きたくないわっ",
         "thammy": "Karen: Stop it! I don't want to hear a scary story like that!",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: Stop it!! I don't want to hear such scary things!"
       },
       {
         "source": "Man",
         "japanese": "男：はははは。まあ無事でなによりだ。",
         "thammy": "Man: Hahahaha. Well, more importantly, he's safe.",
-        "tone": ""
+        "tone": "",
+        "claude": "Man: Hahahaha. Well, what matters most is that he's safe."
       },
       {
         "source": "Karen",
         "japanese": "カレン：でもおじさんって物知りなのね。本当にありがとう。",
         "thammy": "But, sir, you really know a lot, huh? I'm really grateful.",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: But you really know a lot, sir. Thank you so much."
       },
       {
         "source": "Man",
         "japanese": "礼なら外にいる犬に言ってくれ。あいつが君たちのイカダを発見して私を海につれだしたんだからな。",
         "thammy": "If you're going to thank someone, thank the dog outside.",
-        "tone": ""
+        "tone": "",
+        "claude": "If you want to thank someone, thank the dog outside. He's the one who found your raft and led me to the sea."
       },
       {
         "source": "Man",
         "japanese": "礼なら外にいる犬に言ってくれ。あいつが君たちのイカダを発見して私を海につれだしたんだからな。",
         "thammy": "After all, they found you two while I was taking them out.",
-        "tone": ""
+        "tone": "",
+        "claude": "If you want to thank someone, thank the dog outside. He's the one who found your raft and led me to the sea."
       }
     ]
   },
@@ -97,19 +111,22 @@
         "source": "Karen",
         "japanese": "カレン：テム！テムっ！！目を覚ましてっ！！！",
         "thammy": "Karen: Tim! Tim...!! Wake up...!!",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: Tim! Tim!! Wake up!!!"
       },
       {
         "source": "Karen",
         "japanese": "陸地に陸地についたのよっ！！あたしたち助かったのよっ！！！",
         "thammy": "It's land, we've reached land! We've been saved...!!",
-        "tone": ""
+        "tone": "",
+        "claude": "We've reached land!! We're saved!!!"
       },
       {
         "source": "Tim",
         "japanese": "テム：うううん…",
         "thammy": "Tim: U-uugh...",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Unh..."
       }
     ]
   },
@@ -121,31 +138,36 @@
         "source": "Tim",
         "japanese": "テム：はっカレン…？ここはいったい…？",
         "thammy": "Tim: Huh... Karen...? Where in the world are we?",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Huh... Karen...? Where are we...?"
       },
       {
         "source": "Karen",
         "japanese": "カレン：あたしたちを助けてくれた親切なおじさんのおうち。",
         "thammy": "Karen: The house of a gentleman that saved us.",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: In the house of the kind man who saved us."
       },
       {
         "source": "Karen",
         "japanese": "まったくテムったらねぞうが悪いんだからっ。",
         "thammy": "Good grief, Tim, you've got bad sleeping posture…",
-        "tone": ""
+        "tone": "",
+        "claude": "Good grief, Tim, you're such a restless sleeper."
       },
       {
         "source": "Karen",
         "japanese": "病人だっていうのにおふとんをかけてもかけてもはいじゃうんだもの。",
         "thammy": "You're supposed to be a sick person and cling to the sheets,",
-        "tone": ""
+        "tone": "",
+        "claude": "You're supposed to be sick, but you kept kicking off the blanket no matter how many times I put it back on."
       },
       {
         "source": "Karen",
         "japanese": "病人だっていうのにおふとんをかけてもかけてもはいじゃうんだもの。",
         "thammy": "but you're laying on your side like a baby.",
-        "tone": ""
+        "tone": "",
+        "claude": "You're supposed to be sick, but you kept kicking off the blanket no matter how many times I put it back on."
       }
     ]
   },
@@ -157,25 +179,29 @@
         "source": "Man",
         "japanese": "男：ここはオークランドの南のはずれ。",
         "thammy": "Man: This is the southern outskirts of Oakland.",
-        "tone": ""
+        "tone": "",
+        "claude": "Man: This is the southern edge of Oakland."
       },
       {
         "source": "Man",
         "japanese": "ここから半日くらい北へ向かうと花の都フリージアがある。",
         "thammy": "If you head northward for about half a day, there's the Capital of Flowers, Freesia.",
-        "tone": ""
+        "tone": "",
+        "claude": "If you head north for about half a day, you'll reach Freesia, the Capital of Flowers."
       },
       {
         "source": "Man",
         "japanese": "はぐれた仲間をさがすならまずは大きな町へ行ってみることだな。",
         "thammy": "I think if you're searching for your friends you were split from,",
-        "tone": ""
+        "tone": "",
+        "claude": "If you're looking for companions you got separated from, you should try a big city first."
       },
       {
         "source": "Man",
         "japanese": "はぐれた仲間をさがすならまずは大きな町へ行ってみることだな。",
         "thammy": "You should try doing it in a big city.",
-        "tone": ""
+        "tone": "",
+        "claude": "If you're looking for companions you got separated from, you should try a big city first."
       }
     ]
   },
@@ -187,13 +213,15 @@
         "source": "Karen",
         "japanese": "カレン：とにかくそのフリージアっていう町へいってみましょ。",
         "thammy": "Karen: Anyhow, let's try going to that city called Freesia.",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: Anyway, let's go to that city called Freesia."
       },
       {
         "source": "Karen",
         "japanese": "あたし犬にお礼いってくる。じゅんびができたらきてね。",
         "thammy": "I'm going to go give my thanks to the dog. If you're ready you can come talk to me, alright?",
-        "tone": ""
+        "tone": "",
+        "claude": "I'm going to thank the dog. Come find me when you're ready, okay?"
       }
     ]
   },
@@ -205,7 +233,8 @@
         "source": "Dog",
         "japanese": "わんわんっ！",
         "thammy": "Woof woof...!",
-        "tone": ""
+        "tone": "",
+        "claude": "Woof woof!"
       }
     ]
   },
@@ -217,19 +246,22 @@
         "source": "Karen",
         "japanese": "カレン：この犬ターボっていう名前なんですって。かしこそうな犬よね。",
         "thammy": "Karen: He said this dog's name is Turbo. They seem like a smart dog, huh.",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: Apparently this dog's name is Turbo. He seems really smart, doesn't he?"
       },
       {
         "source": "Karen",
         "japanese": "さあ行きましょう。きっとリリィやロブ、エリックたちと会えるわよ。",
         "thammy": "Alright, let's go. We'll definitely find Lillie, Rob and Eric.",
-        "tone": ""
+        "tone": "",
+        "claude": "Come on, let's go. I'm sure we'll find Lillie, Rob, and Eric."
       },
       {
         "source": "Narrator",
         "japanese": "こうして二人は花の都フリージアヘ向かう…",
         "thammy": "Like this, the two head to the Capital of Flowers, Freesia.",
-        "tone": ""
+        "tone": "",
+        "claude": "And so, the two set off for Freesia, the Capital of Flowers..."
       }
     ]
   }

@@ -7,7 +7,8 @@
         "source": "Narrator",
         "japanese": "ダイヤモンドコースト",
         "thammy": "Diamond Coast",
-        "tone": ""
+        "tone": "",
+        "claude": "Diamond Coast"
       }
     ]
   },
@@ -19,7 +20,8 @@
         "source": "Narrator",
         "japanese": "花の都フリージア",
         "thammy": "Capital of Flowers, Freesia",
-        "tone": ""
+        "tone": "",
+        "claude": "Freejia, Capital of Flowers"
       }
     ]
   },
@@ -31,13 +33,15 @@
         "source": "Karen",
         "japanese": "カレン：うわあすてきっ！さすが花の都っていうだけあるわよねっ！！",
         "thammy": "Karen: Wow, it's so pretty...! Isn't it just what you'd expect a place called the Capital of Flowers to be...!!",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: Wow, how lovely! It really lives up to being the Capital of Flowers!!"
       },
       {
         "source": "Karen",
         "japanese": "こんなきれいなところに住んでる人たちはきっと心もきれいなんだろうな…",
         "thammy": "I think that the people that live in a beautiful place like this will definitely have beautiful hearts too...",
-        "tone": ""
+        "tone": "",
+        "claude": "I bet the people who live in such a beautiful place have beautiful hearts too..."
       }
     ]
   },
@@ -49,25 +53,29 @@
         "source": "Man",
         "japanese": "男：こりゃまたずいぶんとかわいい旅人さんだこと。今夜の宿はおきまりですか？",
         "thammy": "Man: Hey, there's some more terribly cute travellers. Have you decided on lodging for this evening?",
-        "tone": ""
+        "tone": "",
+        "claude": "Man: Well now, what adorable travelers. Have you decided where you're staying tonight?"
       },
       {
         "source": "Karen",
         "japanese": "カレン：ううん。決ってないわ。それにあたしたち人をさがしてるの。",
         "thammy": "Karen: No, we haven't decided. Beyond that, we're looking for some people.",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: No, we haven't. Besides, we're looking for some people."
       },
       {
         "source": "Man",
         "japanese": "男：それはそれは。ならうちの宿をきょ点にして人さがしをしたらどうですか？",
         "thammy": "Man: Is that so, how about that? In that case, how about basing your manhunt inside our inn?",
-        "tone": ""
+        "tone": "",
+        "claude": "Man: Is that so? Then how about using our inn as your base while you search?"
       },
       {
         "source": "Karen",
         "japanese": "カレン：決ーまりっ！あたしもうくったくたっ！！",
         "thammy": "Karen: It's all settled then...! I was already getting worried...!!",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: It's settled then! I'm already exhausted!!"
       }
     ]
   },
@@ -79,7 +87,8 @@
         "source": "Karen",
         "japanese": "カレン：テムもそれでいいわよねっ。さっいこいこっ！！",
         "thammy": "Karen: Tim, you're okay with this too, right...? Well, let's go, let's go...!!",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: That's fine with you too, right Tim? Come on, let's go!!"
       }
     ]
   },
@@ -91,7 +100,8 @@
         "source": "Karen",
         "japanese": "カレン：ここの宿屋さんがそうだって。さっはいろっ！！",
         "thammy": "Karen: That's what the innkeeper here said. Well, let's go in...!!",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: This is the inn he mentioned. Come on, let's go in!!"
       }
     ]
   },
@@ -103,7 +113,8 @@
         "source": "Man",
         "japanese": "さあどうぞどうぞ。",
         "thammy": "Well, please, come in, come in.",
-        "tone": ""
+        "tone": "",
+        "claude": "Please, come in, come in."
       }
     ]
   },
@@ -115,13 +126,15 @@
         "source": "Lillie",
         "japanese": "リリィ：いらっしぁいま…",
         "thammy": "Lillie: Welco-",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: Welco—"
       },
       {
         "source": "Lillie",
         "japanese": "テムにカレン…？！",
         "thammy": "Tim and Karen...?!",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim and Karen...?!"
       }
     ]
   },
@@ -133,25 +146,29 @@
         "source": "Karen",
         "japanese": "カレン：リリィ？リリィなのっ？！",
         "thammy": "Karen: Lillie? Is that Lillie...?!",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: Lillie? Is that you?!"
       },
       {
         "source": "Lillie",
         "japanese": "リリィ：心配したよおっ！ひと月近くもはなればなれだったんだもんね！！",
         "thammy": "Lillie: I was worried...! We've had been split up for nearly a month, after all!!",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: I was so worried!! We were separated for almost a whole month!!"
       },
       {
         "source": "Lillie",
         "japanese": "この宿屋で住みこみで働かせてもらってたんだよ。",
         "thammy": "I'm been employed as a live-in worker for this innkeeper.",
-        "tone": ""
+        "tone": "",
+        "claude": "I've been working here as a live-in helper at the inn."
       },
       {
         "source": "Lillie",
         "japanese": "右のおくの部屋にロブがいるから行ってあげてよ…",
         "thammy": "Rob is in the room on the right, so I'll go there with you...",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob's in the room on the right, so go see him..."
       }
     ]
   },
@@ -163,7 +180,8 @@
         "source": "Karen",
         "japanese": "カレン：せっかく無事に会えたっていうのにこんなのって…",
         "thammy": "Karen: Although we were about to say that we had finally met safely, this is how it is...",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: We finally met up safely, but this is..."
       }
     ]
   },
@@ -175,13 +193,15 @@
         "source": "Rob",
         "japanese": "ロブ：自分がだれだかわからないってなんだか不思議だよ…",
         "thammy": "Rob: They say I don't know who I am. What a mystery it is...",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob: Not knowing who you are is kind of strange..."
       },
       {
         "source": "Rob",
         "japanese": "オレがだれだかわからないのにオレはなんでここにいるんだろ。",
         "thammy": "Although I don't know who I am, why am I here?",
-        "tone": ""
+        "tone": "",
+        "claude": "Even though I don't know who I am, why am I here?"
       }
     ]
   },
@@ -193,19 +213,22 @@
         "source": "Lillie",
         "japanese": "リリィ：ロブはインカ船からにげだすときに頭をうってそのまま…",
         "thammy": "Lillie: When Rob was escaping from the Incan ship, he hit his head, and that's how...",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: When Rob escaped from the Incan ship, he hit his head and stayed that way..."
       },
       {
         "source": "Lillie",
         "japanese": "お医者さんにみてもらったら一時的なきおくそうしつだって。",
         "thammy": "The doctor he saw said that it was temporary amnesia.",
-        "tone": ""
+        "tone": "",
+        "claude": "When I had a doctor look at him, he said it's temporary amnesia."
       },
       {
         "source": "Lillie",
         "japanese": "とりあえずロブがよくなるまではこの町にいようと思うんだけど。",
         "thammy": "Until Rob gets better, I think he'll be treated in this town, but...",
-        "tone": ""
+        "tone": "",
+        "claude": "I'm planning to stay in this town until Rob gets better, but..."
       }
     ]
   },
@@ -217,13 +240,15 @@
         "source": "Lillie",
         "japanese": "リリィ：それとね。エリックのすがたが夕べから見えないんだよ。",
         "thammy": "Lillie: And more than that. I haven't seen any sign of Eric since yesterday evening.",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: And you know what, I haven't seen Eric since last night."
       },
       {
         "source": "Lillie",
         "japanese": "どうしちゃったのかな…",
         "thammy": "How did this happen…?",
-        "tone": ""
+        "tone": "",
+        "claude": "I wonder what happened..."
       }
     ]
   },
@@ -235,13 +260,15 @@
         "source": "Man",
         "japanese": "別にどろぼうが入ったわけじゃないんだよ。",
         "thammy": "Don't worry; despite what you'd think, I haven't been robbed.",
-        "tone": ""
+        "tone": "",
+        "claude": "It's not like I've been robbed or anything."
       },
       {
         "source": "Man",
         "japanese": "こんなふうに少しはちらかっていた方が落ち着くと思わないか？",
         "thammy": "Do you think I don't look like I'd be such a disordered person?",
-        "tone": ""
+        "tone": "",
+        "claude": "Don't you think it's more relaxing when things are a little messy like this?"
       }
     ]
   },
@@ -253,7 +280,8 @@
         "source": "Tim",
         "japanese": "テム：うちがわからカギがかかっているようだな…",
         "thammy": "Tim: It seems like this house is locked...",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: It seems like it's locked from the inside..."
       }
     ]
   },
@@ -265,7 +293,8 @@
         "source": "Man",
         "japanese": "最近この町には旅人がすっかりよりつかなくなって…商売あがったりですよ。",
         "thammy": "This town hasn't been full of travellers recently... Business is bad.",
-        "tone": ""
+        "tone": "",
+        "claude": "Travelers have completely stopped coming to this town lately... Business has dried up."
       }
     ]
   },
@@ -277,7 +306,8 @@
         "source": "Man",
         "japanese": "まったく２階のやつらときたら..かたみがせまいよ…オレは。",
         "thammy": "Good grief, when those jerks on the second floor are acting like that... I… I feel inadequate.",
-        "tone": ""
+        "tone": "",
+        "claude": "Good grief, those guys on the second floor... It makes me feel so inadequate..."
       }
     ]
   },
@@ -289,7 +319,8 @@
         "source": "Man",
         "japanese": "か彼女にゴミに入った目をとってもらってたのさ…はははははははは。",
         "thammy": "M-my girl friend was helping me get something out of my eye... Hahahahahahahaha.",
-        "tone": ""
+        "tone": "",
+        "claude": "M-my girlfriend was just helping me get something out of my eye... Hahahahahahahaha."
       }
     ]
   },
@@ -301,7 +332,8 @@
         "source": "Woman",
         "japanese": "彼の目に入ったゴミをとってあげていたのよ。ほほほほほほほほ。",
         "thammy": "I was just helping my boy friend take something out of his eye. Hohohohohohohoho.",
-        "tone": ""
+        "tone": "",
+        "claude": "I was just helping my boyfriend get something out of his eye. Hohohohohohohoho."
       }
     ]
   },
@@ -313,7 +345,8 @@
         "source": "Woman",
         "japanese": "フリージアっていうのは町のしょうちょうになっている花。すてきなかおりでしょ。",
         "thammy": "Flowers are becoming the symbol of this town we call Freesia. The town smells wonderful, right?",
-        "tone": ""
+        "tone": "",
+        "claude": "Freesia is the flower that's become the town's symbol. Lovely fragrance, isn't it?"
       }
     ]
   },
@@ -325,13 +358,15 @@
         "source": "Man",
         "japanese": "悪いことは言わない。裏通りにはいかないほうが身のためだよ。",
         "thammy": "I'm not going to lie to you. For your own sake, don't go in the side streets.",
-        "tone": ""
+        "tone": "",
+        "claude": "I'm telling you this for your own good. Stay away from the back alleys."
       },
       {
         "source": "Man",
         "japanese": "美しいバラにはトゲがあるように美しい町には裏の顔があるものさ。",
         "thammy": "Just as there are thorns on a beautiful rose, there's another side to a beautiful town.",
-        "tone": ""
+        "tone": "",
+        "claude": "Just as a beautiful rose has thorns, a beautiful town has a dark side."
       }
     ]
   },
@@ -343,7 +378,8 @@
         "source": "Gem",
         "japanese": "君からは今９コの赤い宝石をあずかっているよ。",
         "thammy": "I'm now looking after 9 Red Jewels for you.",
-        "tone": ""
+        "tone": "",
+        "claude": "I'm holding 9 Red Jewels for you right now."
       }
     ]
   },
@@ -355,19 +391,22 @@
         "source": "Gem",
         "japanese": "おっと集めた宝石が８コを越えているじゃないかっ！リストの通り命のフォースをあげることにしよう。",
         "thammy": "Whoops, the number of jewels you've collected have passed 8, haven't they...! Going by the list, I'll give you Life Force.",
-        "tone": ""
+        "tone": "",
+        "claude": "Well now, you've collected more than 8 jewels! According to my list, I'll give you a Life Force."
       },
       {
         "source": "Gem",
         "japanese": "これで君の体力は一つ上がるはずだ。",
         "thammy": "This should increase your endurance by one.",
-        "tone": ""
+        "tone": "",
+        "claude": "This should increase your HP by one."
       },
       {
         "source": "Gem",
         "japanese": "これで宝石の数は全部で１１コになったわけだな。",
         "thammy": "With this, I think the number of jewels should have become 11 altogether.",
-        "tone": ""
+        "tone": "",
+        "claude": "So that makes 11 jewels altogether."
       }
     ]
   },
@@ -379,13 +418,15 @@
         "source": "Woman",
         "japanese": "びっくりした…屋根から人がふってくるとはね。",
         "thammy": "https://youtu.be/Aa6w3qKBVaQ",
-        "tone": ""
+        "tone": "",
+        "claude": "What a surprise... A person falling from the roof."
       },
       {
         "source": "Woman",
         "japanese": "身のちぢむようなダイビングを見せてくれたお礼にいいものをあげよう。",
         "thammy": "Your diving act gave me goosebumps; I'm going to give you a nice reward for showing it to me.",
-        "tone": ""
+        "tone": "",
+        "claude": "As a reward for showing me such a hair-raising dive, I'll give you something nice."
       }
     ]
   },
@@ -397,13 +438,15 @@
         "source": "Narrator",
         "japanese": "バシッ！！！！！！",
         "thammy": "Thwack...!!",
-        "tone": ""
+        "tone": "",
+        "claude": "*Thwack!!*"
       },
       {
         "source": "Woman",
         "japanese": "このガキっ！こんどそんなあぶないマネしていみろっ！！ただじゃすまないぞっ！！！",
         "thammy": "You brat...! Try pulling this kind of dangerous stunt next time...! I'll make you regret it...!!",
-        "tone": ""
+        "tone": "",
+        "claude": "You brat! Try pulling a dangerous stunt like that again! You won't get off so easy!!!"
       }
     ]
   },
@@ -415,19 +458,22 @@
         "source": "Woman",
         "japanese": "母親ってほんと気苦労がたえないものよ。",
         "thammy": "What we call motherhood is being unable to hide your worries.",
-        "tone": ""
+        "tone": "",
+        "claude": "Being a mother really means endless worries."
       },
       {
         "source": "Woman",
         "japanese": "悪い人に連れていかれたんじゃないかどこかでケガしてるんじゃないかとかね…",
         "thammy": "Are they hanging around in a bad crowd, are they injured somewhere, or something like that, you know...?",
-        "tone": ""
+        "tone": "",
+        "claude": "Wondering if they've been taken by bad people, or if they're hurt somewhere, things like that..."
       },
       {
         "source": "Woman",
         "japanese": "あたしのお母さんも同じように苦労をしてきたんだろうな。",
         "thammy": "I guess that I've come to worry just like my mom.",
-        "tone": ""
+        "tone": "",
+        "claude": "I suppose my own mother went through the same worries."
       }
     ]
   },
@@ -439,7 +485,8 @@
         "source": "Man",
         "japanese": "男の声：命がおしければかえんな！！",
         "thammy": "Man's voice: If you value your life, go home...!!",
-        "tone": ""
+        "tone": "",
+        "claude": "Man's voice: If you value your life, get lost!!"
       }
     ]
   },
@@ -451,7 +498,8 @@
         "source": "Man",
         "japanese": "ういー..ひっく…まじめに生きるのも人生。飲んで笑って生きるのも人生さね。",
         "thammy": "Whee... *Hic*... Living your life seriously, or living your life drinking or laughing, you know?",
-        "tone": ""
+        "tone": "",
+        "claude": "Whee... *Hic*... Living seriously is life. Living while drinking and laughing is also life."
       }
     ]
   },
@@ -463,7 +511,8 @@
         "source": "Narrator",
         "japanese": "HP（体力）の宝石を見つけた！",
         "thammy": "Found a jewel of HP (endurance)!",
-        "tone": ""
+        "tone": "",
+        "claude": "Found a Jewel of HP!"
       }
     ]
   },
@@ -475,7 +524,8 @@
         "source": "Narrator",
         "japanese": "やみのちから ／ ：サイコダッシュ ／ テムのじょうたいです ／ けっていボタンでヤミのちからのせつめいがひょうじされます",
         "thammy": "Power of Darkness / :Psycho Dash / This is Tim's status. / An explanation of the selected Power of Darkness will be displayed with the confirm button.",
-        "tone": ""
+        "tone": "",
+        "claude": "Power of Darkness / Psycho Dash / This is Tim's status. / Press the confirm button to view an explanation of the Power of Darkness."
       }
     ]
   },
@@ -487,7 +537,8 @@
         "source": "Man",
         "japanese": "まったくどこへいきやがった..",
         "thammy": "Damn it, where the hell did he go..",
-        "tone": ""
+        "tone": "",
+        "claude": "Where the hell did he go..."
       }
     ]
   },
@@ -499,7 +550,8 @@
         "source": "Man",
         "japanese": "ドレイが一人にげだしたんだ。どこかで見かけなかったか？ ／ はい ／ いいえ",
         "thammy": "A slave escaped. You haven't noticed him anywhere, have you? / Yes / No",
-        "tone": ""
+        "tone": "",
+        "claude": "A slave escaped. You haven't seen him anywhere, have you? / Yes / No"
       }
     ]
   },
@@ -511,7 +563,8 @@
         "source": "Man",
         "japanese": "なんと！その場所を教えてくれたら赤い宝石をやろう。 ／ 場所を教える ／ 笑ってごまかす",
         "thammy": "What did you say!? If you tell me where they are, I might be so kind as to give you a Red Jewel. / Inform him / Smile and lie",
-        "tone": ""
+        "tone": "",
+        "claude": "What! If you tell me where he is, I'll give you a Red Jewel. / Tell him / Play dumb"
       }
     ]
   },
@@ -523,7 +576,8 @@
         "source": "Man",
         "japanese": "そうか。見つけたら知らせてくれよ。",
         "thammy": "Is that so. If you find him, notify me.",
-        "tone": ""
+        "tone": "",
+        "claude": "I see. If you find him, let me know."
       }
     ]
   },
@@ -535,13 +589,15 @@
         "source": "Narrator",
         "japanese": "しかしテムはドレイのかくれ場所を知らない。",
         "thammy": "However, Tim doesn't know where the slave is hiding.",
-        "tone": ""
+        "tone": "",
+        "claude": "However, Tim doesn't know where the slave is hiding."
       },
       {
         "source": "Man",
         "japanese": "男：こらっ。ぼうずっ。大人をからかうんじゃないっ！！",
         "thammy": "Man: Hey... Little boy... Don't make fun of adults...!!",
-        "tone": ""
+        "tone": "",
+        "claude": "Man: Hey, kid! Don't mess with adults!!"
       }
     ]
   },
@@ -553,7 +609,8 @@
         "source": "Man",
         "japanese": "ここは子供のくるところじゃない。帰った帰った。",
         "thammy": "This isn't a place for kids. Go home, go home.",
-        "tone": ""
+        "tone": "",
+        "claude": "This isn't a place for kids. Go on, get out of here."
       }
     ]
   },
@@ -565,7 +622,8 @@
         "source": "Man",
         "japanese": "火を使った芸を得意とする者でおれの右に出るヤツはいない。いいかみてろよっ！",
         "thammy": "I do performance art with fire and I'm the best at what I do. Come on, take a look...!",
-        "tone": ""
+        "tone": "",
+        "claude": "No one's better at fire tricks than me. Watch this!"
       }
     ]
   },
@@ -577,7 +635,8 @@
         "source": "Woman",
         "japanese": "私たちこれから売りに出されるところ…",
         "thammy": "After this, we're going to be taken from this place to be sold...",
-        "tone": ""
+        "tone": "",
+        "claude": "We're about to be sold..."
       }
     ]
   },
@@ -589,7 +648,8 @@
         "source": "Woman",
         "japanese": "私物ごとを考えないようにしました。考えれば考えるほどむなしくなるだけです…",
         "thammy": "I don't think about anything. When I think, all I can think about is dying…",
-        "tone": ""
+        "tone": "",
+        "claude": "I try not to think about anything. The more I think, the more hopeless everything feels..."
       }
     ]
   },
@@ -601,7 +661,8 @@
         "source": "Woman",
         "japanese": "私は神を信じません。もし神がいるなら世の中に身分など存在しないはず…",
         "thammy": "I don't believe in God. If God existed, the world shouldn't have things like social status…",
-        "tone": ""
+        "tone": "",
+        "claude": "I don't believe in God. If God existed, there wouldn't be things like social classes in this world..."
       }
     ]
   },
@@ -613,7 +674,8 @@
         "source": "Man",
         "japanese": "このガキんちょはっ！どこから入りこんだんだっ？！さあ帰れ帰れっ！！",
         "thammy": "This brat...! Where did you come in here from...?! Alright, go home, go home...!!",
-        "tone": ""
+        "tone": "",
+        "claude": "This brat! Where did you sneak in from?! Go on, get out!!"
       }
     ]
   },
@@ -625,7 +687,8 @@
         "source": "Girl",
         "japanese": "女の子：宿屋で住みこみではたらいていた男の子がドレイ商人につかまったみたいよ。",
         "thammy": "Girl: There's a boy that worked as a live-in worker at the inn; it seems like a slave merchant detained him.",
-        "tone": ""
+        "tone": "",
+        "claude": "Girl: I heard the boy working at the inn was captured by slave merchants."
       }
     ]
   },
@@ -637,13 +700,15 @@
         "source": "Man",
         "japanese": "見つかったものはしかたがないな。ここにいるのは昨日にげだしたドレイだよ。",
         "thammy": "I guess there's no way around having someone find us. The person here is the slave that escaped yesterday.",
-        "tone": ""
+        "tone": "",
+        "claude": "Well, you found us. This is the slave who escaped yesterday."
       },
       {
         "source": "Man",
         "japanese": "ドレイ商人たちにこのことを話すがいい。かくごの上でやったことさ。",
         "thammy": "It's okay to tell the slave merchants. I'm more than ready.",
-        "tone": ""
+        "tone": "",
+        "claude": "Go ahead and tell the slave merchants. I knew what I was getting into."
       }
     ]
   },
@@ -655,13 +720,15 @@
         "source": "Man",
         "japanese": "おねがいです！見のがして下さいっ！！",
         "thammy": "I'm begging you! Please overlook this...!!",
-        "tone": ""
+        "tone": "",
+        "claude": "Please! I'm begging you, look the other way!!"
       },
       {
         "source": "Man",
         "japanese": "わたしはどうなってもいいがこの人にめいわくがかかります…",
         "thammy": "Whatever happens to me is fine, but you'll inconvenience this person...",
-        "tone": ""
+        "tone": "",
+        "claude": "I don't care what happens to me, but this person will suffer..."
       }
     ]
   },
@@ -673,19 +740,22 @@
         "source": "Narrator",
         "japanese": "テムはドレイのかくれている家を教えた。",
         "thammy": "Tim informed them of the house where the slave is hiding.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim told him where the slave is hiding."
       },
       {
         "source": "Man",
         "japanese": "男：ありがとうよ。これはお礼だ。とっといてくれ。",
         "thammy": "Man: Hey, thanks. Here's your reward. Hang on to it.",
-        "tone": ""
+        "tone": "",
+        "claude": "Man: Thanks. Here's your reward. Keep it."
       },
       {
         "source": "Narrator",
         "japanese": "テムは赤い宝石をもらった。",
         "thammy": "Tim received a Red Jewel.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim received a Red Jewel."
       }
     ]
   },
@@ -697,13 +767,15 @@
         "source": "Man",
         "japanese": "もうじききょうふの大王が天から降りてくるんだと…そして人類は死に絶えるんだと。",
         "thammy": "\"From the sky will come a great King of Terror... Then humanity will die out.\"",
-        "tone": ""
+        "tone": "",
+        "claude": "\"From the sky will come the great King of Terror... And humanity will perish.\""
       },
       {
         "source": "Man",
         "japanese": "だれが予言したのか知らないがウソっぱちもいいところだぜ。バカバカしくって飲まなきゃやってらんねえや。ヒック。",
         "thammy": "I don't know where the prophesy comes from, but it's straight up lie. I can go on without drinking up that sort of hogwash. *Hic*",
-        "tone": ""
+        "tone": "",
+        "claude": "I don't know who made that prophecy, but it's complete nonsense. So ridiculous I can't stand it without drinking. *Hic*"
       }
     ]
   },
@@ -715,13 +787,15 @@
         "source": "Man",
         "japanese": "自分が彼らの立場になったらと思うとぞっとするよ。",
         "thammy": "I think \"what if my life turned out like theirs\" and shudder.",
-        "tone": ""
+        "tone": "",
+        "claude": "It makes me shudder to think of being in their position."
       },
       {
         "source": "Man",
         "japanese": "でも今のオレは人の気持ちを考えるより自分が生きることでせいいっぱいなんだ。",
         "thammy": "But I'm going to put all my energy into my own survival right now rather than concerning myself with the feelings of other people.",
-        "tone": ""
+        "tone": "",
+        "claude": "But right now, I've got all I can handle just trying to survive myself."
       }
     ]
   },
@@ -733,13 +807,15 @@
         "source": "Man",
         "japanese": "このドレイたちはちょうど君と同い年くらいだよね。",
         "thammy": "These slaves are almost exactly the same age as you, huh?",
-        "tone": ""
+        "tone": "",
+        "claude": "These slaves are about the same age as you."
       },
       {
         "source": "Man",
         "japanese": "おぼえておくんだな。世界には同い年でもこういう生活をしてる人がいるってことを。",
         "thammy": "I guess you'll remember this. In this world, even people who are the same age as you are living like this.",
-        "tone": ""
+        "tone": "",
+        "claude": "Remember this. There are people your age in this world living like this."
       }
     ]
   },
@@ -751,13 +827,15 @@
         "source": "Man",
         "japanese": "こらぼうずっ！ここは子供のくるところじゃない！さあかえったかえった！！",
         "thammy": "Hey boy...! This isn't a place for children! Alright, go home, go home!!",
-        "tone": ""
+        "tone": "",
+        "claude": "Hey, kid! This isn't a place for children! Go on, get out of here!!"
       },
       {
         "source": "Man",
         "japanese": "それともあんたもドレイを買いにきたっていうのかい？ ／ はい ／ いいえ",
         "thammy": "Or, are you saying that you came to buy a slave too? / Yes / No",
-        "tone": ""
+        "tone": "",
+        "claude": "Or are you saying you came to buy a slave? / Yes / No"
       }
     ]
   },
@@ -769,7 +847,8 @@
         "source": "Man",
         "japanese": "さあかえったかえった！！",
         "thammy": "Well, go home, go home!!",
-        "tone": ""
+        "tone": "",
+        "claude": "Go on, get out!!"
       }
     ]
   },
@@ -781,7 +860,8 @@
         "source": "Man",
         "japanese": "そのどきょうが気に入った！本当に買うのかどうかは知らんが見ていきな。",
         "thammy": "I'm starting to like your courage! I don't know if you're really buying or what, but take a look.",
-        "tone": ""
+        "tone": "",
+        "claude": "I like your nerve! I don't know if you're really buying, but take a look around."
       }
     ]
   },
@@ -793,19 +873,22 @@
         "source": "Ihmuus",
         "japanese": "ぼくはイムス。遠くはなれた大陸から船でこの町へつれてこられました。",
         "thammy": "I'm Ihmuus. I was brought to this town from a distant continent by ship.",
-        "tone": ""
+        "tone": "",
+        "claude": "I'm Ihmuus. I was brought to this town by ship from a far-off continent."
       },
       {
         "source": "Ihmuus",
         "japanese": "ぼくらはしゅりょう民族。おなかがすくとカリをして生活してたんです。",
         "thammy": "We're a nation of hunters; we survive by hunting when we're hungry.",
-        "tone": ""
+        "tone": "",
+        "claude": "We're a hunting people. We lived by hunting when we were hungry."
       },
       {
         "source": "Ihmuus",
         "japanese": "このところ動物たちがつぎつぎと原因不明の病気でバタバタと死んでいって…",
         "thammy": "Recently, all the animals are dropping dead from a disease with no known cause...",
-        "tone": ""
+        "tone": "",
+        "claude": "Recently, the animals started dying one after another from some unknown disease..."
       }
     ]
   },
@@ -817,19 +900,22 @@
         "source": "Rehmuus",
         "japanese": "ぼくはレムス動物がいなくなりぼくらは食べ物がなくなったんだ。",
         "thammy": "I'm Rehmuus. When there were no longer any animals, we no longer had food.",
-        "tone": ""
+        "tone": "",
+        "claude": "I'm Rehmuus. When the animals disappeared, we had no food."
       },
       {
         "source": "Rehmuus",
         "japanese": "そして生きるためにしかたなくドレイになったというわけさ。",
         "thammy": "And so, having no other options, we became what you call \"slaves\" in order to survive.",
-        "tone": ""
+        "tone": "",
+        "claude": "So to survive, we had no choice but to become slaves."
       },
       {
         "source": "Rehmuus",
         "japanese": "ぼくらはいったいどんな人に買われてどんなところに連れていかれんだろう…",
         "thammy": "We won't have any idea at all of what kind of person will buy us or what kind of place they'll bring us to...",
-        "tone": ""
+        "tone": "",
+        "claude": "We have no idea what kind of person will buy us or where we'll be taken..."
       }
     ]
   },
@@ -841,7 +927,8 @@
         "source": "Man",
         "japanese": "おお神よ…なぜそなたは身分というものをおつくりになられたのか？",
         "thammy": "O God… Why did you create that thing called \"social status\"?",
-        "tone": ""
+        "tone": "",
+        "claude": "O God... Why did you create such a thing as social classes?"
       }
     ]
   },
@@ -853,25 +940,29 @@
         "source": "Sahmuus",
         "japanese": "ぼくはサムス。",
         "thammy": "I'm Sahmuus.",
-        "tone": ""
+        "tone": "",
+        "claude": "I'm Sahmuus."
       },
       {
         "source": "Sahmuus",
         "japanese": "夕べ宿屋ではたらいているエリックという男の子がぼくらを助けにきてくれたんです。",
         "thammy": "A boy named Eric that works at the inn came to save us last night.",
-        "tone": ""
+        "tone": "",
+        "claude": "Last night, a boy named Eric who works at the inn came to rescue us."
       },
       {
         "source": "Sahmuus",
         "japanese": "でもドレイ商人たちに見つかって連れていかてちゃった…",
         "thammy": "But the slave merchants found him and took him away…",
-        "tone": ""
+        "tone": "",
+        "claude": "But the slave merchants found him and took him away..."
       },
       {
         "source": "Sahmuus",
         "japanese": "たぶん町の裏通りのはじっこの家にとじこめられているはず。どうか助けてあげてください。",
         "thammy": "He's probably locked up in the house at the edge of the city's side street. Please save him for me somehow.",
-        "tone": ""
+        "tone": "",
+        "claude": "He's probably locked up in a house at the edge of the back alley. Please save him."
       }
     ]
   },
@@ -883,7 +974,8 @@
         "source": "Gem",
         "japanese": "これで宝石の数は全部で１２コになったわけだな。",
         "thammy": "With this, I think the number of jewels should have become 12 altogether.",
-        "tone": ""
+        "tone": "",
+        "claude": "So that makes 12 jewels altogether."
       }
     ]
   },
@@ -895,13 +987,15 @@
         "source": "Gem",
         "japanese": "おっと集めた宝石が１２コを越えているじゃないかっ！リストの通り力のフォースをあげることにしよう。",
         "thammy": "Whoops, the number of jewels you've collected have passed 12, haven't they...! Going by the list, I'll give you Strength Force.",
-        "tone": ""
+        "tone": "",
+        "claude": "Well now, you've collected more than 12 jewels! According to my list, I'll give you a Strength Force."
       },
       {
         "source": "Gem",
         "japanese": "これで君のこうげき力は一つ上がるはずだ。",
         "thammy": "With this, your attack power should rise by one.",
-        "tone": ""
+        "tone": "",
+        "claude": "This should increase your attack power by one."
       }
     ]
   },
@@ -913,7 +1007,8 @@
         "source": "Narrator",
         "japanese": "じょうたい ／ やみのちから ／ ：サイコダッシュ ／ テムのじょうたいです ／ けっていボタンでヤミのちからのせつめいがひょうじされます。",
         "thammy": "Status / Power of Darkness / Psycho Dash / This is Tim's status. / An explanation of the selected Power of Darkness will be displayed with the confirm button.",
-        "tone": ""
+        "tone": "",
+        "claude": "Status / Power of Darkness / Psycho Dash / This is Tim's status. / Press the confirm button to view an explanation of the Power of Darkness."
       }
     ]
   },
@@ -925,25 +1020,29 @@
         "source": "Old Man",
         "japanese": "ほっほっほっ。よくここがわかったのぅ。",
         "thammy": "Ho ho ho. You understand this place well, don't you?",
-        "tone": ""
+        "tone": "",
+        "claude": "Ho ho ho. You found this place well."
       },
       {
         "source": "Old Man",
         "japanese": "どうでもいいと思っているものが実は大切なものだったりする…世の中そういうものじゃよ。",
         "thammy": "I'm thinking it's fine one way or another, but the truth is that it might have been important enough... That's how it is in this world.",
-        "tone": ""
+        "tone": "",
+        "claude": "Things you think don't matter often turn out to be important... That's how the world works."
       },
       {
         "source": "Old Man",
         "japanese": "これはオマケじゃ。とっておきなされ。",
         "thammy": "This is a bonus. Take it.",
-        "tone": ""
+        "tone": "",
+        "claude": "This is a little extra. Keep it."
       },
       {
         "source": "Narrator",
         "japanese": "老人はテムの持ち物の中にそっと何かをいれた！",
         "thammy": "The old man stealthily inserted something into Tim's possessions!",
-        "tone": ""
+        "tone": "",
+        "claude": "The old man quietly slipped something into Tim's belongings!"
       }
     ]
   },
@@ -955,7 +1054,8 @@
         "source": "Old Man",
         "japanese": "ほっほっほっ。",
         "thammy": "Ho ho ho…",
-        "tone": ""
+        "tone": "",
+        "claude": "Ho ho ho..."
       }
     ]
   },
@@ -967,31 +1067,36 @@
         "source": "Tim",
         "japanese": "テム：そこにエリックっていう男の子がいませんか？",
         "thammy": "Tim: Isn't there a boy in there named Eric?",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Is there a boy named Eric in there?"
       },
       {
         "source": "Man",
         "japanese": "男の声：そんな名前は聞いたこともないな。何をしょうこにそんなことを言うんだね？",
         "thammy": "Man's voice: I don't think I've ever heard of a name like that. Do you have any evidence that of that sort of thing?",
-        "tone": ""
+        "tone": "",
+        "claude": "Man's voice: Never heard of anyone by that name. What proof do you have?"
       },
       {
         "source": "Eric",
         "japanese": "テムっ？その声はテムだねっ？たすけ….ボコッ",
         "thammy": "Tim...? That voice is Tim, right...? Help m- *Twhack*",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim? Is that you? Help— *Thwack*"
       },
       {
         "source": "Man",
         "japanese": "男の声：しっ…ぼうずっ静かにしないかっ…",
         "thammy": "Man's voice: Shh... Little boy, can't you keep quiet…?",
-        "tone": ""
+        "tone": "",
+        "claude": "Man's voice: Quiet, kid...!"
       },
       {
         "source": "Tim",
         "japanese": "テム：（しかたないドアをやぶろう..）",
         "thammy": "Tim: (There's no way around it; I'll break down the door...)",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: (There's no choice. I'll have to break down the door...)"
       }
     ]
   },
@@ -1003,51 +1108,58 @@
         "source": "Eric",
         "japanese": "エリック：まさかテムが助けにきてくれるなんてっ！！",
         "thammy": "Eric: I can't believe it; you came to save me...!!",
-        "tone": ""
+        "tone": "",
+        "claude": "Eric: I can't believe you came to save me!!"
       },
       {
         "source": "Eric",
         "japanese": "しかしドアをやぶって入ってくるとは思わなかったよ。",
         "thammy": "But I didn't think you'd come by breaking down the door.",
-        "tone": ""
+        "tone": "",
+        "claude": "But I didn't think you'd break down the door."
       },
       {
         "source": "Eric",
         "japanese": "さっきの男はびっくりしてにげちゃった。",
         "thammy": "The man from just now got surprised and escaped.",
-        "tone": ""
+        "tone": "",
+        "claude": "That guy got scared and ran away."
       },
       {
         "source": "Eric",
         "japanese": "ボクね収容所にしのびこんでドレイの３人兄弟を助けようとしたんだ。",
         "thammy": "I snuck into a forced labour camp to save those three slave brothers.",
-        "tone": ""
+        "tone": "",
+        "claude": "I snuck into the labor camp to try and save those three slave brothers."
       },
       {
         "source": "Eric",
         "japanese": "そしたら見つかっちゃってこんなことになっちゃって…",
         "thammy": "Then they found me and it turned out like this...",
-        "tone": ""
+        "tone": "",
+        "claude": "But they found me and this happened..."
       },
       {
         "source": "Eric",
         "japanese": "ドレイたちはみんなダイヤモンド鉱山で働かされているみたい。",
         "thammy": "It looks like all of the slaves are being put to work in a diamond mine.",
-        "tone": ""
+        "tone": "",
+        "claude": "It looks like the slaves are all being forced to work in a diamond mine."
       },
       {
         "source": "Eric",
         "japanese": "場所を教えるから助けにいってあげてよ。",
         "thammy": "I'll tell you where it is, so go and save them.",
-        "tone": ""
+        "tone": "",
+        "claude": "I'll tell you where it is, so please go save them."
       },
       {
         "source": "Narrator",
         "japanese": "テムは鉱山の場所を聞いた！",
         "thammy": "Tim learned the location of the mine!",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim learned the location of the mine!"
       }
     ]
   }
 ]
-

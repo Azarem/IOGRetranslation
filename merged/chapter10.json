@@ -7,13 +7,15 @@
         "source": "Tim",
         "japanese": "テム：これがインカの黄金船か？！",
         "thammy": "Tim: Is this the Incan Gold Ship?!",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: So this is the Incan Gold Ship...?!"
       },
       {
         "source": "Tim",
         "japanese": "おやっ？人の気配がする…",
         "thammy": "Oh...? People are around...",
-        "tone": ""
+        "tone": "",
+        "claude": "Wait...? I sense people nearby..."
       }
     ]
   },
@@ -25,7 +27,8 @@
         "source": "Crew Member",
         "japanese": "わーいわーい王様がもどってきたあっ！",
         "thammy": "Hooray! Hooray! His Majesty, the King, has returned!",
-        "tone": ""
+        "tone": "",
+        "claude": "Hooray! Hooray! His Majesty the King has returned!"
       }
     ]
   },
@@ -37,13 +40,15 @@
         "source": "Crew Member",
         "japanese": "これは王様！よくご無事でっ！",
         "thammy": "Ah, Your Majesty! You're safe and well...!",
-        "tone": ""
+        "tone": "",
+        "claude": "Your Majesty! You've returned safely!"
       },
       {
         "source": "Tim",
         "japanese": "テム：（ボクが王様だって？？？）",
         "thammy": "Tim: (They're calling ME the King???)",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: (They think I'm the king...???)"
       }
     ]
   },
@@ -55,7 +60,8 @@
         "source": "Crew Member",
         "japanese": "王様っ！よくご無事でっ！これでやっと大海原へ出航できますよ。",
         "thammy": "Your Majesty...! You're safe! With this, we can finally embark to the deep blue sea.",
-        "tone": ""
+        "tone": "",
+        "claude": "Your Majesty! You've returned safely! At last, we can set sail for the great ocean."
       }
     ]
   },
@@ -67,7 +73,8 @@
         "source": "Crew Member",
         "japanese": "これが喜ばずにいられますかっ！長い間王様を待ったかいがありましたよっ！",
         "thammy": "This cannot go without congratulations...! We had been waiting for a long time, but you've come...!",
-        "tone": ""
+        "tone": "",
+        "claude": "How could we not rejoice! It was worth waiting so long for Your Majesty's return!"
       }
     ]
   },
@@ -79,7 +86,8 @@
         "source": "Crew Member",
         "japanese": "おきさき様は船室でございます。はやくその元気なお姿を見せてあげて下さいまし。",
         "thammy": "Her Majesty the Queen is in the cabin. Please hurry and show her how lively you look.",
-        "tone": ""
+        "tone": "",
+        "claude": "Her Majesty the Queen is in the cabin. Please hurry and let her see that you are well."
       }
     ]
   },
@@ -91,13 +99,15 @@
         "source": "Crew Member",
         "japanese": "これは王様。船内を見物なさっているのですね。",
         "thammy": "Ah, Your Majesty. You're sightseeing on the ship's interior, right?",
-        "tone": ""
+        "tone": "",
+        "claude": "Ah, Your Majesty. You're touring the ship, aren't you?"
       },
       {
         "source": "Crew Member",
         "japanese": "しかし王様もおつかれのはず。船をひととおりまわったらこのベッドで少しお休みください。",
         "thammy": "However, Your Majesty must also be tired. Once you've visited everywhere, please rest in this bed for a while.",
-        "tone": ""
+        "tone": "",
+        "claude": "However, Your Majesty must be tired as well. Once you've finished looking around the ship, please rest in this bed for a while."
       }
     ]
   },
@@ -109,13 +119,15 @@
         "source": "Crew Member",
         "japanese": "暗ヤミにつつまれたどうくつの先にまばゆい光が見える…",
         "thammy": "Past this cavern embraced darkness, we can see a dazzling light...",
-        "tone": ""
+        "tone": "",
+        "claude": "Beyond this cavern shrouded in darkness, we can see a dazzling light..."
       },
       {
         "source": "Crew Member",
         "japanese": "あの光にみちた海原へ出航したとき我々は永遠の自由を手に入れるのだ。",
         "thammy": "So that we could obtain eternal freedom, we departed to an ocean filled in that light.",
-        "tone": ""
+        "tone": "",
+        "claude": "When we sail forth to that ocean filled with light, we shall obtain eternal freedom."
       }
     ]
   },
@@ -127,7 +139,8 @@
         "source": "Incan Child",
         "japanese": "なんでぼくたちはにげなくちゃいけないの？インカはぼくたちのお家なのに。",
         "thammy": "Why did we have to escape? The Incan Empire was our home, and yet…",
-        "tone": ""
+        "tone": "",
+        "claude": "Why did we have to run away? The Incan Empire was our home..."
       }
     ]
   },
@@ -139,19 +152,22 @@
         "source": "Crew Member",
         "japanese": "これは王様。ミステリードールはこのハコの中でございます。",
         "thammy": "Ah, Your Majesty. The Mystery Doll is inside of this box.",
-        "tone": ""
+        "tone": "",
+        "claude": "Your Majesty, the Mystery Doll is inside this box."
       },
       {
         "source": "Crew Member",
         "japanese": "それにそろそろ出航の準備がととのったようですよ。",
         "thammy": "Moreover, it seems that we should be prepared for departure soon.",
-        "tone": ""
+        "tone": "",
+        "claude": "And it appears the preparations for departure are nearly complete."
       },
       {
         "source": "Crew Member",
         "japanese": "どうですか？見張り台にのぼってみては？出航の様子が見られますよ。",
         "thammy": "What will you do? Will you climb the lookout tower and take a look for yourself? You'll be able to watch as we depart.",
-        "tone": ""
+        "tone": "",
+        "claude": "What do you say? Would you like to climb the lookout tower? You'll be able to watch us depart."
       }
     ]
   },
@@ -163,19 +179,22 @@
         "source": "Crew Member",
         "japanese": "おきさき様は以前王様がおくられたゆびわを今でも大切に身につけていらっしゃいます。",
         "thammy": "Her Majesty, the Queen, has carefully put on the ring that Your Majesty had bestowed upon her previously.",
-        "tone": ""
+        "tone": "",
+        "claude": "Her Majesty the Queen still wears the ring Your Majesty gave her, treasuring it always."
       },
       {
         "source": "Crew Member",
         "japanese": "そうです。しんりゃく者に追われ王様とおきさき様がはなればなれになるときにおくられたゆびわです。",
         "thammy": "Ah, that's right. Your Majesty sent the ring when you and the Queen were driven out by the invaders and were separated.",
-        "tone": ""
+        "tone": "",
+        "claude": "Yes, the ring you gave her when the invaders drove you apart."
       },
       {
         "source": "Crew Member",
         "japanese": "おきさき様は王様のことをそれだけしたっていらっしゃるのでしょうね。",
         "thammy": "As for the Queen, she's probably only concerned with how well Your Majesty is doing.",
-        "tone": ""
+        "tone": "",
+        "claude": "Her Majesty the Queen must hold you so dear in her heart."
       }
     ]
   },
@@ -187,25 +206,29 @@
         "source": "Incan Queen",
         "japanese": "インカ女王：よくぞご無事でもどってくださいました。",
         "thammy": "Incan Queen: How wonderful that you're returned safe and well for me, my darling.",
-        "tone": ""
+        "tone": "",
+        "claude": "Incan Queen: How wonderful that you have returned safely to me."
       },
       {
         "source": "Incan Queen",
         "japanese": "あなたに言われたとおり風のミステリードールを今日まで守り続けてきましたわ。",
         "thammy": "The Mystery Doll of the wind that you had spoken of had protected me many times until today!",
-        "tone": ""
+        "tone": "",
+        "claude": "As you instructed, I have kept the Mystery Doll of the Wind safe until this day."
       },
       {
         "source": "Incan Queen",
         "japanese": "あれはあなたが神からさずかった石像ですものね。",
         "thammy": "You said it was a stone statue blessed by the gods, right?",
-        "tone": ""
+        "tone": "",
+        "claude": "It's the stone statue blessed to you by the gods, isn't it?"
       },
       {
         "source": "Incan Queen",
         "japanese": "下の倉庫のたからばこにしまってありますからご自分の目でたしかめてくださいな。",
         "thammy": "I believe it has been placed in a treasure box in the storehouse below; please confirm it with your own eyes.",
-        "tone": ""
+        "tone": "",
+        "claude": "It's stored in a treasure chest in the hold below. Please go and see it for yourself."
       }
     ]
   },
@@ -217,7 +240,8 @@
         "source": "Narrator",
         "japanese": "ミステリードールを見つけた！",
         "thammy": "Found a Mystery Doll!",
-        "tone": ""
+        "tone": "",
+        "claude": "Found a Mystery Doll!"
       }
     ]
   },
@@ -229,7 +253,8 @@
         "source": "Lookout",
         "japanese": "見張り：王様外をごらんください。船がどうくつをぬけます！",
         "thammy": "Lookout: King, please look outside. The ship is leaving the cave!",
-        "tone": ""
+        "tone": "",
+        "claude": "Lookout: Your Majesty, look outside! The ship is leaving the cavern!"
       }
     ]
   },
@@ -241,13 +266,15 @@
         "source": "Lookout",
         "japanese": "見張り：ずっと暗ヤミで生活をしてきた我々にとってこの海のかがやきは神の光に見えますよ。",
         "thammy": "Lookout: We've been living in darkness for a long time. For us, the light of the gods is in the brightness of this ocean.",
-        "tone": ""
+        "tone": "",
+        "claude": "Lookout: For us who have lived so long in darkness, this radiance of the ocean looks like divine light."
       },
       {
         "source": "Lookout",
         "japanese": "世界はこんなにも美しいのになぜしんりゃく者が生まれ自然をこわしてゆくのでしょうね。",
         "thammy": "Although these kinds of beautiful things are in the world, I wonder why invaders are born who destroy nature?",
-        "tone": ""
+        "tone": "",
+        "claude": "When the world is so beautiful, why do invaders arise who destroy nature?"
       }
     ]
   },
@@ -259,7 +286,8 @@
         "source": "Crew Member",
         "japanese": "こんなみすぼらしいベッドで申しわけないんですがどうぞゆっくり休んでください。",
         "thammy": "I'm sorry that we only have a sketchy bed like this this to offer; please, take your time and rest.",
-        "tone": ""
+        "tone": "",
+        "claude": "I apologize that this bed is so humble, but please, rest well."
       }
     ]
   },
@@ -271,7 +299,8 @@
         "source": "Tim",
         "japanese": "テム：ボクはもうれつなすいまにおそわれ深い深い夢の中へといざなわれていった。",
         "thammy": "Tim: In a ferocious state of drowsiness, I had been lured into a deep, deep dream.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Overwhelming drowsiness washed over me, and I was drawn into a deep, deep dream..."
       }
     ]
   },
@@ -283,31 +312,36 @@
         "source": "Tim",
         "japanese": "テム：かかあさんっ！？",
         "thammy": "Tim: M-mom...!?",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: M-Mom...!?"
       },
       {
         "source": "Shira",
         "japanese": "テムの母シーラ：テム。空を見てごらん…ほらすい星があんなにきれい。",
         "thammy": "Tim's mother, Sheila: Tim. Please look at the sky... See, isn't that comet out there pretty?",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim's mother, Shira: Tim, look at the sky... See how beautiful the comet is."
       },
       {
         "source": "Shira",
         "japanese": "すい星はね長い長い年月をかけて地球にやってきてそしてまた遠ざかっていくの。",
         "thammy": "Hey, about that comet. It arrives at the Earth after many, many years, then goes away again.",
-        "tone": ""
+        "tone": "",
+        "claude": "You see, the comet travels for many, many years to reach Earth, and then it moves away again."
       },
       {
         "source": "Shira",
         "japanese": "あの星を不幸を呼ぶ星っていう人もいればしあわせの星と呼ぶ人もいるわ…",
         "thammy": "Even when there are people who call it a star that summons misfortune, there are also those who call it a star of luck...",
-        "tone": ""
+        "tone": "",
+        "claude": "Some people call it a star that brings misfortune, while others call it a star of happiness..."
       },
       {
         "source": "Shira",
         "japanese": "テム。あなたはどっちだと思う？ ／ ふこうの星 ／ しあわせの星",
         "thammy": "Tim. Which do you think it is? / Star of misfortune / Star of luck",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim, which do you think it is? / Star of misfortune / Star of happiness"
       }
     ]
   },
@@ -319,7 +353,8 @@
         "source": "Shira",
         "japanese": "そう…じゃあふこうが訪れないようにいのらなくちゃね…",
         "thammy": "Is that how it is... Well, then I'll pray that the misfortune doesn't visit, okay…?",
-        "tone": ""
+        "tone": "",
+        "claude": "I see... Then I must pray that misfortune doesn't come..."
       }
     ]
   },
@@ -331,7 +366,8 @@
         "source": "Shira",
         "japanese": "テムや。私はいつでもあなたのことを見守っていますよ。",
         "thammy": "My dear Tim. You know, I'll always be watching over you.",
-        "tone": ""
+        "tone": "",
+        "claude": "Dear Tim, I'll always be watching over you."
       }
     ]
   },
@@ -343,13 +379,15 @@
         "source": "Lillie",
         "japanese": "リリィ：テム！",
         "thammy": "Lillie: Tim!",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: Tim!"
       },
       {
         "source": "Lillie",
         "japanese": "テム！起きて！",
         "thammy": "Tim! Get up!",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim! Wake up!"
       }
     ]
   },
@@ -361,37 +399,43 @@
         "source": "Rob",
         "japanese": "ロブ：お前の様子が変だから３人でこっそり後をつけたんだ。",
         "thammy": "Rob: Ya were actin' weird, so tha three o' us went sneakin' behind ya.",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob: You were acting weird, so the three of us secretly followed you."
       },
       {
         "source": "Rob",
         "japanese": "そしたら変な村にたどりついてさ…",
         "thammy": "Then we ended up at a weird village...",
-        "tone": ""
+        "tone": "",
+        "claude": "Then we ended up at this weird village..."
       },
       {
         "source": "Lillie",
         "japanese": "リリィ：ちょっとお。あたしの生まれた場所なんだから変な村なんて言わないでよっ。",
         "thammy": "Lillie: Waaait a second. That's where I was born, so how can you call it a weird village…!?",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: Wait a second! That's where I was born, so don't call it a weird village!"
       },
       {
         "source": "Rob",
         "japanese": "ロブ：じゅうぶん変な村じゃねえかっ。目に見えない村なんてよっ。",
         "thammy": "Rob: Ain't it weird enough...? It's a village ya can't see…",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob: It's plenty weird! An invisible village and all."
       },
       {
         "source": "Rob",
         "japanese": "テム。おれたちにかくれて旅に出ようったってそうはいかないぜ。",
         "thammy": "Tim. Don't go hidin' yer journey from us.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim, trying to go on a journey without telling us won't work."
       },
       {
         "source": "Rob",
         "japanese": "友達だったら楽しみと苦労はわかちあわなくっちゃな。",
         "thammy": "Ya ain't friends unless ya share the fun times and the hard times.",
-        "tone": ""
+        "tone": "",
+        "claude": "If we're friends, we've got to share the good times and the hard times."
       }
     ]
   },
@@ -403,13 +447,15 @@
         "source": "Lillie",
         "japanese": "リリィ：テムの帰りがあんまりおそいから長老様にうらなってもらったの。",
         "thammy": "Lillie: You were taking too long to come back, so we got a prediction from the Elder.",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: You were taking so long to come back, so we asked the Elder to divine your whereabouts."
       },
       {
         "source": "Lillie",
         "japanese": "そしたら海の上を一人でさまよっているって言うんだもの。びっくりしたわよ。",
         "thammy": "He said you were alone, roaming the sea. We were shocked!",
-        "tone": ""
+        "tone": "",
+        "claude": "He said you were wandering the ocean alone! We were so surprised!"
       }
     ]
   },
@@ -421,7 +467,8 @@
         "source": "Tim",
         "japanese": "テム：ここはさっきインカ人が立っていた場所だ…",
         "thammy": "Tim: An Incan person was standing here a little bit ago...",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: An Incan was standing here just moments ago..."
       }
     ]
   },
@@ -433,13 +480,15 @@
         "source": "Morris",
         "japanese": "モリス：さっき船の中できみょうな宝石を見つけたんです。これテムにあげますね。",
         "thammy": "Morris: A little while ago I found this odd jewel inside the ship. Here, I'll give it to you, alright?",
-        "tone": ""
+        "tone": "",
+        "claude": "Morris: I found this strange jewel on the ship earlier. Here, I'll give it to you."
       },
       {
         "source": "Narrator",
         "japanese": "テムは赤い宝石をもらった！",
         "thammy": "Tim received a Red Jewel!",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim received a Red Jewel!"
       }
     ]
   },
@@ -451,7 +500,8 @@
         "source": "Morris",
         "japanese": "そう言えばテムに物をあげたのは初めてかも知れませんよね。大事にしてくださいね。",
         "thammy": "Now that you mention it, this might be the first time I've given something to you. Please treasure it.",
-        "tone": ""
+        "tone": "",
+        "claude": "Come to think of it, this might be the first time I've given you something. Please take care of it."
       }
     ]
   },
@@ -463,13 +513,15 @@
         "source": "Eric",
         "japanese": "エリック：わあっ！びっくりしたっ！！",
         "thammy": "Eric: Wah...! You surprised me...!!",
-        "tone": ""
+        "tone": "",
+        "claude": "Eric: Wah! You scared me!!"
       },
       {
         "source": "Eric",
         "japanese": "なんだテムかあ。もうおどかさないでよっ！！",
         "thammy": "Geez, Tim. Don't scare me...!",
-        "tone": ""
+        "tone": "",
+        "claude": "Oh, it's just you, Tim. Don't scare me like that!!"
       }
     ]
   },
@@ -481,13 +533,15 @@
         "source": "Karen",
         "japanese": "カレン：もどるはずのないインカ王の帰りをまちつづけて彼らは死んでいったのよね…",
         "thammy": "Karen: They died waiting for an Incan King that they couldn't expect to return...",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: They kept waiting for an Incan King who would never return, and then they died..."
       },
       {
         "source": "Karen",
         "japanese": "平和にくらしてた人たちの生活をこなごなにするなんてゆるせないよやっぱり…",
         "thammy": "In the end, I can't stand that people who were living in peace had their lives shattered…",
-        "tone": ""
+        "tone": "",
+        "claude": "I really can't forgive how they shattered the lives of people who were living peacefully..."
       }
     ]
   },
@@ -499,13 +553,15 @@
         "source": "Narrator",
         "japanese": "きさきのミイラが静かにねむっている。",
         "thammy": "The queen's mummy is sleeping quietly.",
-        "tone": ""
+        "tone": "",
+        "claude": "The queen's mummy lies in quiet slumber."
       },
       {
         "source": "Narrator",
         "japanese": "その細くて長い指には黄金のゆびわがはめられているようだ…",
         "thammy": "A gold ring seemed to be placed on its long, slender finger...",
-        "tone": ""
+        "tone": "",
+        "claude": "On her long, slender finger rests a golden ring..."
       }
     ]
   },
@@ -517,31 +573,36 @@
         "source": "Lillie",
         "japanese": "リリィ：この船に積みこまれた貴重な黄金細工っていうのはきっとそのゆびわのことだよね。",
         "thammy": "Lillie: That ring must be from the golden treasures that were said to have been loaded on this boat.",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: The precious Incan goldwork loaded on this ship must be that ring, right?"
       },
       {
         "source": "Lillie",
         "japanese": "他のどの黄金細工よりかがやいていたんじゃないかなあ。",
         "thammy": "I wonder if it wasn't outshining the other golden artifacts.",
-        "tone": ""
+        "tone": "",
+        "claude": "It probably shone brighter than any other goldwork."
       },
       {
         "source": "Karen",
         "japanese": "カレン：黄金を見つけてお金もちになろうとした人たちはこんなゆびわのために命を落としたわけね。",
         "thammy": "Karen: The people who were trying to get rich by finding gold must have lost their lives searching for treasures like this ring, huh?",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: So the people who tried to get rich by finding gold lost their lives for a ring like this."
       },
       {
         "source": "Karen",
         "japanese": "あたしこのゆびわもらっとこ。かわいくてなんだかすっごく気にいっちゃった。",
         "thammy": "I'm really taking a liking to the ring; it's cute. I'm taking it.",
-        "tone": ""
+        "tone": "",
+        "claude": "I'll take this ring. It's so cute, I really like it."
       },
       {
         "source": "Lillie",
         "japanese": "リリィ：あなたにはえんりょってものがないの？！のろわれても知らないからねっ！",
         "thammy": "Lillie: Do you have no self-restraint!? After all, it might be cursed...!",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: Don't you have any sense of restraint?! Don't blame me if you get cursed!"
       }
     ]
   },
@@ -553,7 +614,8 @@
         "source": "Karen",
         "japanese": "カレン：ななに？",
         "thammy": "Karen: Wh-what?",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: Wh-what?"
       }
     ]
   },
@@ -565,7 +627,8 @@
         "source": "Karen",
         "japanese": "カレン：ななに？",
         "thammy": "Karen: What…?",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: What...?"
       }
     ]
   },
@@ -577,13 +640,15 @@
         "source": "Lillie",
         "japanese": "リリィ：リバイヤサンかもしれないっ！",
         "thammy": "Lillie: That might be a Leviathan...!",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: It might be a Leviathan!"
       },
       {
         "source": "Lillie",
         "japanese": "このあたりの海には化け物みたいにおっきくてどうもうな魚がいるんだよっ！！",
         "thammy": "There are huge, ferocious fish in the waters around here that looks like monsters...!!",
-        "tone": ""
+        "tone": "",
+        "claude": "There are huge, ferocious fish in these waters that look like monsters!!"
       }
     ]
   },
@@ -595,7 +660,8 @@
         "source": "Rob",
         "japanese": "ロブ：だいじょうぶかっ？",
         "thammy": "Rob: Are ya okay...?",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob: You okay?!"
       }
     ]
   },
@@ -607,13 +673,15 @@
         "source": "Morris",
         "japanese": "うわああああああああああああああっ",
         "thammy": "Aaaaaaaaaaaaaaah...!",
-        "tone": ""
+        "tone": "",
+        "claude": "Aaaaaaaaaaaaaaah!"
       },
       {
         "source": "Rob",
         "japanese": "ロブ：モリスの悲鳴だっ！かんぱんの方から聞こえたぞっ！",
         "thammy": "Rob: That's Morris screamin'...! It's comin' from tha direction of tha deck...!",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob: That's Morris's scream! It came from the deck!"
       }
     ]
   },
@@ -625,37 +693,43 @@
         "source": "Rob",
         "japanese": "ロブ：モリスはどうしたっ？！何があったんだっ！！",
         "thammy": "Rob: What happened to Morris...?! What was that...!!",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob: What happened to Morris?! What's going on?!!"
       },
       {
         "source": "Eric",
         "japanese": "エリック：うえぇぇぇぇぇぇぇぇんモリスがモリスが…",
         "thammy": "Eric: Waaaaaaaaah... Morris, he... Morris, he...",
-        "tone": ""
+        "tone": "",
+        "claude": "Eric: Waaaaaaaaah! Morris... Morris..."
       },
       {
         "source": "Eric",
         "japanese": "でっかい魚が船にぶつかってきてヒック…",
         "thammy": "A huge fish smashed into the ship and... *sniffle*...",
-        "tone": ""
+        "tone": "",
+        "claude": "A huge fish crashed into the ship and... *hic*..."
       },
       {
         "source": "Eric",
         "japanese": "モルスが海の中におっこってヒック…",
         "thammy": "Morris fell overboard... *Sniffle*...",
-        "tone": ""
+        "tone": "",
+        "claude": "Morris fell into the ocean and... *hic*..."
       },
       {
         "source": "Eric",
         "japanese": "うわあぁぁぁぁぁんモリスが食べられちゃったようヒックヒック…",
         "thammy": "Uwaaaaaah! It looked like it ate Morris…! *sniffle* *sniffle*",
-        "tone": ""
+        "tone": "",
+        "claude": "Waaaaaaah! It looked like it ate Morris! *hic* *hic*..."
       },
       {
         "source": "Rob",
         "japanese": "ロブ：な何だってっ？！",
         "thammy": "Rob: W-what did ya say...?!",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob: Wh-what did you say?!"
       }
     ]
   },
@@ -667,13 +741,15 @@
         "source": "Eric",
         "japanese": "エリック：うわああああああんまたあの魚だぁっ！ボクら食べられちゃうんだぁっ！",
         "thammy": "Eric: Waaaaaaah! It's that fish agaaain...! It's going to eat us...!",
-        "tone": ""
+        "tone": "",
+        "claude": "Eric: Waaaaaaah! It's that fish again! It's going to eat us!"
       },
       {
         "source": "Rob",
         "japanese": "ロブ：泣いてるヒマがあったら何かにつかまれっ！ふりおとされるなよっ！",
         "thammy": "Rob: If ya have time to cry, then hold on to somethin'...! Don't let yourself get thrown off...!",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob: If you've got time to cry, grab onto something! Don't get thrown off!"
       }
     ]
   }

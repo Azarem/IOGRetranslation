@@ -459,3 +459,4 @@ The underlying theme - that perfection doesn't exist, but flawed humans can acco
 
 This represents the game's core philosophy: ancient cosmic mysteries are solved not by perfect heroes but by flawed people working together, mixing humor and humanity with wonder and danger.
 
+

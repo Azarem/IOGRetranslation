@@ -7,7 +7,8 @@
         "source": "Guard",
         "japanese": "うつらうつら…",
         "thammy": "Zzz...",
-        "tone": ""
+        "tone": "",
+        "claude": "Zzz..."
       }
     ]
   },
@@ -19,7 +20,8 @@
         "source": "Guard",
         "japanese": "うつらうつら…",
         "thammy": "Zzz...",
-        "tone": ""
+        "tone": "",
+        "claude": "Zzz..."
       }
     ]
   },
@@ -31,19 +33,22 @@
         "source": "Guard",
         "japanese": "あっ。お前はっ！",
         "thammy": "Ah... You...!",
-        "tone": ""
+        "tone": "",
+        "claude": "Ah! You!"
       },
       {
         "source": "Guard",
         "japanese": "よくあのろうやからぬけ出せたものだな…。",
         "thammy": "I think there were frequent escapes from that prison…",
-        "tone": ""
+        "tone": "",
+        "claude": "You escaped from that dungeon..."
       },
       {
         "source": "Guard",
         "japanese": "悪いことは言わん。この城から早くにげるんだな。エドワード王に見つかったらただごとじゃすまないぜ。",
         "thammy": "I didn't say it was a bad thing. Escape from this castle quickly. I'm sorry that you were found by King Edward.",
-        "tone": ""
+        "tone": "",
+        "claude": "Listen to me—flee this castle now. If King Edward finds you, it won't end well."
       }
     ]
   },
@@ -55,13 +60,15 @@
         "source": "Maid",
         "japanese": "カレンさまをつれてお城をぬけ出すんでしょ？",
         "thammy": "You're taking Miss Karen when you escape, right?",
-        "tone": ""
+        "tone": "",
+        "claude": "You're taking Lady Karen with you, aren't you?"
       },
       {
         "source": "Maid",
         "japanese": "王様に見つからないように…そしておひめさまを守ってあげてね。",
         "thammy": "I'm hoping that His Majesty the King won't find you... So, you'll protect Her Majesty the Princess, right?",
-        "tone": ""
+        "tone": "",
+        "claude": "Don't let His Majesty find you... And please, protect the Princess."
       }
     ]
   },
@@ -73,7 +80,8 @@
         "source": "Soldier",
         "japanese": "兵士：すぴーすぴー…",
         "thammy": "Soldier: Zzz...",
-        "tone": ""
+        "tone": "",
+        "claude": "Soldier: Zzz..."
       }
     ]
   },
@@ -85,7 +93,8 @@
         "source": "Tim",
         "japanese": "テム：（いやカレンを連れ出すなら今のうちだな…）",
         "thammy": "Tim: (No, if I'm going to take Karen away, now's the time...)",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: (Now's the time to get Karen out...)"
       }
     ]
   },
@@ -97,37 +106,43 @@
         "source": "Karen",
         "japanese": "カレン：やっぱりきてくれたのね！どうもありがとう。",
         "thammy": "Karen: You came for me after all! Thank you very much.",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: You came! Thank you!"
       },
       {
         "source": "Karen",
         "japanese": "外の兵隊さん、ねてたでしょう？じつは彼のむかしのあだ名、鼻ちょうちんっていうのよ。今もねむってばっかり。",
         "thammy": "That soldier outside, he was sleeping, right? The truth is, he used to be nicknamed \"Snot Bubble\" a long time ago. He's sleeping even now.",
-        "tone": ""
+        "tone": "",
+        "claude": "The guard outside was asleep, wasn't he? His childhood nickname was \"Snot Bubble.\" He's always sleeping!"
       },
       {
         "source": "Tim",
         "japanese": "テム：きみのコブタがきてくれて…",
         "thammy": "Tim: Your piglet came for me...",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Your pig came to help..."
       },
       {
         "source": "Karen",
         "japanese": "カレン：ぺぎーっていうの。かわいいでしょう？",
         "thammy": "Karen: It's named Peggy. Cute, right?",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: That's Peggy. Isn't she cute?"
       },
       {
         "source": "Karen",
         "japanese": "カレン：とってもかしこい子よ。ちょっとばかり不思議な力もあるし…",
         "thammy": "Karen: It's a very smart piglet. It's even got a little bit of a mysterious power…",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: She's very clever. And she has a bit of mysterious power..."
       },
       {
         "source": "Karen",
         "japanese": "さあ、わたしをここから連れだして！",
         "thammy": "Alright, take me out of here!",
-        "tone": ""
+        "tone": "",
+        "claude": "Now, get me out of here!"
       }
     ]
   },
@@ -139,13 +154,15 @@
         "source": "Karen",
         "japanese": "カレン：あそうだっ！長旅になるかもしれないし食べ物を持っていきましょ。",
         "thammy": "Karen: Ah, that's right...! Since it might be a long journey, let's take some food.",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: Oh! We might be traveling for a while. Let's bring food."
       },
       {
         "source": "Karen",
         "japanese": "地下室へいってくれない？",
         "thammy": "Won't you go to the basement for me?",
-        "tone": ""
+        "tone": "",
+        "claude": "Could you go to the cellar?"
       }
     ]
   },
@@ -157,7 +174,8 @@
         "source": "Karen",
         "japanese": "カレン：たしかこのあたりのタルに食べ物が入っているの。",
         "thammy": "Karen: If I recall correctly, food is put in the barrels around here.",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: There should be food in the barrels around here."
       }
     ]
   },
@@ -169,13 +187,15 @@
         "source": "Narrator",
         "japanese": "骨つきのくんせい肉を手に入れた！",
         "thammy": "Got bone-in smoked meat!",
-        "tone": ""
+        "tone": "",
+        "claude": "Received Smoked Meat!"
       },
       {
         "source": "Karen",
         "japanese": "カレン：これで準備オッケー！さあ兵隊さんに見つからないうちにいきましょ！",
         "thammy": "Karen: With this, the preparations are complete. Alright, let's go before we're found by the soldiers!",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: We're all set! Now let's go before the guards find us!"
       }
     ]
   },
@@ -187,13 +207,15 @@
         "source": "Narrator",
         "japanese": "骨つきのくんせい肉をちょっぴりかじってみた。",
         "thammy": "Tried to nibble the bone-in smoked meat a little bit.",
-        "tone": ""
+        "tone": "",
+        "claude": "Took a small bite of the smoked meat."
       },
       {
         "source": "Narrator",
         "japanese": "それは今まで食べたことのないような不思議な味がした。いったい何の肉だろう…",
         "thammy": "I had never eaten anything with anything like this mysterious taste. I wonder what in the world kind of meat this is...",
-        "tone": ""
+        "tone": "",
+        "claude": "It had a strange taste unlike anything Tim had eaten before. What kind of meat could this be...?"
       }
     ]
   },
@@ -205,19 +227,22 @@
         "source": "Karen",
         "japanese": "カレン：さあ。いよいよ出発ね。",
         "thammy": "Karen: Alright. We're finally heading out, huh?",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: Well then. Time to go!"
       },
       {
         "source": "Karen",
         "japanese": "まずはテムの家へ行ってみましょ。ローラおばあさまやビルおじいさまのことが心配だわ。",
         "thammy": "First, let's try to go to your house. You must be worried about the Mrs. Laura and Mr. Bill.",
-        "tone": ""
+        "tone": "",
+        "claude": "First let's go to your house. I'm worried about Grandma Laura and Grandpa Bill."
       },
       {
         "source": "Narrator",
         "japanese": "二人はテムの家へと足をはやめた。",
         "thammy": "The two hurried to Tim's house.",
-        "tone": ""
+        "tone": "",
+        "claude": "The two hurried toward Tim's home."
       }
     ]
   },
@@ -229,7 +254,8 @@
         "source": "Tim",
         "japanese": "テム：（いや手がかりはきっと家の中にあるはずだ…）",
         "thammy": "Tim: (No, there must definitely be a clue in the house...)",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: (There must be some clue inside the house...)"
       }
     ]
   },
@@ -241,7 +267,8 @@
         "source": "Tim",
         "japanese": "テム：うわっ！なんだよこのあれようは…",
         "thammy": "Tim: Wah...! What in the… Why does it look like this…",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: What—! What happened here?!"
       }
     ]
   },
@@ -253,13 +280,15 @@
         "source": "Karen",
         "japanese": "カレン：ひどい….！いったいだれがこんなことを…",
         "thammy": "Karen: This is awful...! Who could have done something like this…",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: This is terrible...! Who could have done this?"
       },
       {
         "source": "Tim",
         "japanese": "テム：おじいちゃんとおばあちゃんは！？",
         "thammy": "Tim: What about Grandma and Grandpa!?",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Grandma! Grandpa!"
       }
     ]
   },
@@ -271,19 +300,22 @@
         "source": "Karen",
         "japanese": "カレン：ビルおじいさまーっ！",
         "thammy": "Karen: Mr. Biiill...!",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: Grandpa Biiiill!"
       },
       {
         "source": "Tim",
         "japanese": "テム：ローラおばあちーゃん！",
         "thammy": "Tim: Grandma Lauuura!",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Grandma Lauuura!"
       },
       {
         "source": "Karen",
         "japanese": "カレン：あたし２階を見てくるっ！",
         "thammy": "Karen: I'll just quickly look on the second floor…!",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: I'll check upstairs!"
       }
     ]
   },
@@ -295,7 +327,8 @@
         "source": "Karen",
         "japanese": "カレン：きゃーーーーーーッ！！！きて！たすけて！テム！た、たいへん、たいへんよ！",
         "thammy": "Karen: Eeeeeeek...!! Come here! Help! Tim! It's, it's a disaster, a disaster!",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: Aaaaaaaah!! Tim! Help! Come quick! It's terrible!"
       }
     ]
   },
@@ -307,43 +340,50 @@
         "source": "Tim",
         "japanese": "テム：どうしたの！？",
         "thammy": "Tim: What happened!?",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: What is it?!"
       },
       {
         "source": "Karen",
         "japanese": "カレン：このかべを見て！このしるし、黒いヒョウのマーク..ブラックパンサーがきたんだわ！",
         "thammy": "Karen: Look at this wall! This emblem, the mark of a leopard with black fur.. That means Black Panther came here!",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: Look at this wall! This mark—the black panther... It's the Black Panther! He was here!"
       },
       {
         "source": "Tim",
         "japanese": "テム：ブラックパンサーって…？",
         "thammy": "Tim: \"Black Panther\"...?",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Black Panther...?"
       },
       {
         "source": "Karen",
         "japanese": "カレン：最近お母さまがやとった殺し屋よ！",
         "thammy": "Karen: The assassin that my mother hired recently!",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: The assassin Mother hired!"
       },
       {
         "source": "Karen",
         "japanese": "しつっこくて暗くてふきつな男なの。",
         "thammy": "He's a tenacious, morbid, sinister man.",
-        "tone": ""
+        "tone": "",
+        "claude": "He's relentless, cruel, and sinister."
       },
       {
         "source": "Karen",
         "japanese": "一度こいつにねらわれたらもう、おしまい…人の命なんてなんとも思わない男よ！",
         "thammy": "If he has someone in his sights once, it's already over... He's a man that with no concern whatsoever about things like human life!",
-        "tone": ""
+        "tone": "",
+        "claude": "Once he has a target, it's over... He cares nothing for human life!"
       },
       {
         "source": "Tim",
         "japanese": "テム：じゃあおじいちゃんとおばあちゃんは..",
         "thammy": "Tim: Then, Grandpa and Grandma..",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Then Grandma and Grandpa..."
       }
     ]
   },
@@ -355,13 +395,15 @@
         "source": "Lillie",
         "japanese": "リリィ：ご安心あれ、おふたりさん。",
         "thammy": "Lillie: You don't have to worry, you two.",
-        "tone": ""
+        "tone": "",
+        "claude": "Lilly: Don't worry, you two."
       },
       {
         "source": "Tim",
         "japanese": "テム：あ。君はさっきの…",
         "thammy": "Tim: Ah. It's you, from a while ago...",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Oh! You're from before..."
       }
     ]
   },
@@ -373,37 +415,43 @@
         "source": "Karen",
         "japanese": "カレン：あなただあれ！？",
         "thammy": "Karen: Who are youuu!?",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: Who are yoouuu?!"
       },
       {
         "source": "Lillie",
         "japanese": "リリィ：テムのお友達よーだ。",
         "thammy": "Lillie: Iii'm Tim's friend.",
-        "tone": ""
+        "tone": "",
+        "claude": "Lilly: I'm Tim's friiend."
       },
       {
         "source": "Tim",
         "japanese": "テム：リリィ、きみはなにか知ってるの？",
         "thammy": "Tim: Lillie, do you know something?",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Lilly, do you know what happened?"
       },
       {
         "source": "Lillie",
         "japanese": "リリィ：だいじょうぶ。ビルおじいちゃんもローラおばあちゃんも無事だよ。",
         "thammy": "Lillie: It's okay. Grandpa Bill and Grandma Laura are safe too.",
-        "tone": ""
+        "tone": "",
+        "claude": "Lilly: It's okay. Grandpa Bill and Grandma Laura are safe."
       },
       {
         "source": "Lillie",
         "japanese": "あたしの村にかくれてる。",
         "thammy": "They're hiding in my village.",
-        "tone": ""
+        "tone": "",
+        "claude": "They're hiding in my village."
       },
       {
         "source": "Karen",
         "japanese": "カレン：あなたの村？",
         "thammy": "Karen: Your village?",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: Your village?"
       }
     ]
   },
@@ -415,13 +463,15 @@
         "source": "Lillie",
         "japanese": "リリィ：イトリー族の村。",
         "thammy": "Lillie: The village of the Itory clan.",
-        "tone": ""
+        "tone": "",
+        "claude": "Lilly: The Itory village."
       },
       {
         "source": "Karen",
         "japanese": "カレン：そんな村、きいたこともないわ！",
         "thammy": "Karen: I haven't even heard of a village like that!",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: I've never heard of such a place!"
       }
     ]
   },
@@ -433,43 +483,50 @@
         "source": "Lillie",
         "japanese": "リリィ：当然よ。あたしの村には結界がはってあってふつうの人間には見えやしないもんんねっ。",
         "thammy": "Lillie: Naturally! There's a barrier put up in my village so that normal humans can't see it, you know...?",
-        "tone": ""
+        "tone": "",
+        "claude": "Lilly: Of course! My village has a barrier around it. Ordinary people can't see it!"
       },
       {
         "source": "Lillie",
         "japanese": "リリィ：さあ行こっ。テム！",
         "thammy": "Lillie: Alright, let's go, Tim!",
-        "tone": ""
+        "tone": "",
+        "claude": "Lilly: Come on, let's go, Tim!"
       },
       {
         "source": "Tim",
         "japanese": "テム：うん！",
         "thammy": "Tim: Sure!",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Yeah!"
       },
       {
         "source": "Karen",
         "japanese": "カレン：あたしもついて行く！",
         "thammy": "Karen: I'm coming along too!",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: I'm coming too!"
       },
       {
         "source": "Lillie",
         "japanese": "リリィ：おひめさまにはキケンだよっ。",
         "thammy": "Lillie: Your Majesty would be in danger…",
-        "tone": ""
+        "tone": "",
+        "claude": "Lilly: It'll be dangerous for a princess."
       },
       {
         "source": "Karen",
         "japanese": "カレン：絶対について行くもん！これであたしほんとに自由になれるのねっ！！",
         "thammy": "Karen: I'm definitely coming along with you! That way, I can truly become free...!!",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: I'm definitely coming! Finally, I'll truly be free!!"
       },
       {
         "source": "Lillie",
         "japanese": "リリィ：これだものおじょうさまったら。",
         "thammy": "Lillie: That's just how it is, little lady.",
-        "tone": ""
+        "tone": "",
+        "claude": "Lilly: Well, aren't you stubborn, princess."
       }
     ]
   },
@@ -481,7 +538,8 @@
         "source": "Karen",
         "japanese": "この先何かすてきなことが待っているような気がするわ。",
         "thammy": "I feel like some lovely experiences are awaiting us.",
-        "tone": ""
+        "tone": "",
+        "claude": "I feel like something wonderful is waiting for us!"
       }
     ]
   },
@@ -493,13 +551,15 @@
         "source": "Lillie",
         "japanese": "リリィ：あたしの村へ行くまえに町のみんなに会ってきたら？",
         "thammy": "Lillie: Are you going to go and meet with everyone before going to my village?",
-        "tone": ""
+        "tone": "",
+        "claude": "Lilly: Want to see everyone in town before we leave?"
       },
       {
         "source": "Lillie",
         "japanese": "しばらくここへはもどってこられないかもしれないわよ。",
         "thammy": "It might be a while before we can come back.",
-        "tone": ""
+        "tone": "",
+        "claude": "We might not be back for a while."
       }
     ]
   },
@@ -511,7 +571,8 @@
         "source": "Lillie",
         "japanese": "リリィ：えっ？もういいの？ちょっとは町のようすをながめてきたら？",
         "thammy": "Lillie: Huh...? Are you done already? Or are you going to check on the state of the town for a bit?",
-        "tone": ""
+        "tone": "",
+        "claude": "Lilly: What, already? Don't you want to look around town a bit?"
       }
     ]
   },
@@ -523,13 +584,15 @@
         "source": "Priest",
         "japanese": "なんですか。テム。人の顔をしげしげと見て…",
         "thammy": "What's the matter, Tim? You're looking at people's faces so closely...",
-        "tone": ""
+        "tone": "",
+        "claude": "What is it, Tim? Why are you staring at everyone?"
       },
       {
         "source": "Priest",
         "japanese": "また何かたくらんでるんじゃないでしょうね…",
         "thammy": "You're probably scheming something again, huh...?",
-        "tone": ""
+        "tone": "",
+        "claude": "You're not plotting something again, are you?"
       }
     ]
   },
@@ -541,13 +604,15 @@
         "source": "Gem",
         "japanese": "おっと集めた宝石が５コを越えているじゃないかっ！リストの通り守りのフォースをあげることにしよう。",
         "thammy": "Whoops, the number of jewels you've collected have passed 5, haven't they...! Going by the list, I'll give you Protection Force.",
-        "tone": ""
+        "tone": "",
+        "claude": "Oh! You've collected more than 5 jewels! According to my list, I'll give you the Defense upgrade."
       },
       {
         "source": "Gem",
         "japanese": "これで君のぼうぎょ力は一つ上がるはずだ。",
         "thammy": "With that, your defensive power should rise by one.",
-        "tone": ""
+        "tone": "",
+        "claude": "Your defense will increase by one."
       }
     ]
   },
@@ -557,9 +622,10 @@
     "parts": [
       {
         "source": "Morris",
-        "japanese": "ちぇっあたしばかり…",
-        "thammy": "Ugh, it's always me…",
-        "tone": ""
+        "japanese": "",
+        "thammy": "",
+        "tone": "",
+        "claude": ""
       }
     ]
   },
@@ -571,13 +637,15 @@
         "source": "Rob",
         "japanese": "ロブ：どうしたんだ？テム。うかない顔して。",
         "thammy": "Rob: What's tha matter, Tim? Ya got a sad face.",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob: What's wrong, Tim? You look down."
       },
       {
         "source": "Rob",
         "japanese": "何かおれたちに言えないなやみでもあるのか？",
         "thammy": "Ya havin' some problems that ya can't tell us about?",
-        "tone": ""
+        "tone": "",
+        "claude": "Got troubles you can't tell us about?"
       }
     ]
   },
@@ -589,7 +657,8 @@
         "source": "Eric",
         "japanese": "エリック：どうしたの？何かいつものテムとちがうよ。",
         "thammy": "Eric: What's wrong? You're different than usual.",
-        "tone": ""
+        "tone": "",
+        "claude": "Eric: What's wrong? You seem different today."
       }
     ]
   },
@@ -601,7 +670,8 @@
         "source": "Lillie",
         "japanese": "リリィ：旅立つ決心はできたわけね？／はい／いいえ",
         "thammy": "Lillie: Have you decided to head out? / Yes / No",
-        "tone": ""
+        "tone": "",
+        "claude": "Lilly: Ready to go? / Yes / No"
       }
     ]
   },
@@ -613,7 +683,8 @@
         "source": "Lillie",
         "japanese": "リリィ：そうね。じゃ旅立つ心がまえができたらここへもどってきて。",
         "thammy": "Lillie: Is that so. Well, some back here when you're in the mind to set out.",
-        "tone": ""
+        "tone": "",
+        "claude": "Lilly: Okay. Come back when you're ready to leave."
       }
     ]
   },
@@ -625,13 +696,15 @@
         "source": "Karen",
         "japanese": "カレン：この先何かすてきなことが待っているような気がする。",
         "thammy": "Karen: I feel like some lovely experiences are ahead of us.",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: I feel like something wonderful is waiting for us!"
       },
       {
         "source": "Lillie",
         "japanese": "リリィ：いいえこれからが苦労の連続だわきっと…。ふうぅっ…。",
         "thammy": "Lillie: No, from here, there will definitely be a lot of difficulties... *Sigh*...",
-        "tone": ""
+        "tone": "",
+        "claude": "Lilly: No, it's going to be one hardship after another... *sigh*..."
       }
     ]
   },
@@ -643,7 +716,8 @@
         "source": "Karen",
         "japanese": "カレン：いちいちたてつくわねえ。",
         "thammy": "Karen: But we'll stand against them one by one, right?",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: You always have to argue, don't you?"
       }
     ]
   },
@@ -655,7 +729,8 @@
         "source": "Lillie",
         "japanese": "リリィ：そっちこそお城の外へ出たことがあるの？",
         "thammy": "Lillie: It'll be like that for sure; have you ever been outside the castle?",
-        "tone": ""
+        "tone": "",
+        "claude": "Lilly: Have you ever even left the castle before?"
       }
     ]
   },
@@ -667,7 +742,8 @@
         "source": "Karen",
         "japanese": "カレン：なによフーテン娘！",
         "thammy": "Karen: What a crazy girl!",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: What a rude girl!"
       }
     ]
   },
@@ -679,13 +755,15 @@
         "source": "Lillie",
         "japanese": "リリィ：なんですって、世間知らずっ！",
         "thammy": "Lillie: What did you say, you sheltered...!",
-        "tone": ""
+        "tone": "",
+        "claude": "Lilly: Excuse me? You spoiled princess!"
       },
       {
         "source": "Lillie",
         "japanese": "リリィ：テムはあたしのおともだち。わかったわね？",
         "thammy": "Lillie: Tim's my friend. You understand that, right?",
-        "tone": ""
+        "tone": "",
+        "claude": "Lilly: Tim is MY friend. Got it?"
       }
     ]
   },
@@ -697,7 +775,8 @@
         "source": "Karen",
         "japanese": "カレン：あら、テムはあたしのおともだちよね？！ ／ うん、もちろんさ ／ よくわかんねえやし…",
         "thammy": "Karen: Ah, you're my friend, right?! / Yeah, of course / I can't so easily know you that well...",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: Tim, you're MY friend, right?! / Yeah, of course / I don't know..."
       }
     ]
   },
@@ -709,7 +788,8 @@
         "source": "Karen",
         "japanese": "カレン：うれしいわ、テム。さあさ、手をつないで行きましょ。",
         "thammy": "Karen: I'm glad, Tim. Come on, let's hold hands as we go.",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: I'm so happy, Tim! Come on, let's hold hands!"
       }
     ]
   },
@@ -721,7 +801,8 @@
         "source": "Narrator",
         "japanese": "こうして３人はリリィの村へと向かうのであった。",
         "thammy": "Like this, the three headed to Lillie's village.",
-        "tone": ""
+        "tone": "",
+        "claude": "And so the three companions set out for Lilly's village."
       }
     ]
   }

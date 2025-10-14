@@ -7,19 +7,22 @@
         "source": "Tim",
         "japanese": "テム：なぜぼくはこんな目に会わなければならないのだろう。",
         "thammy": "Tim: If I wasn't seeing it with my own eyes, I probably wouldn't believe it.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Why must I endure this?"
       },
       {
         "source": "Tim",
         "japanese": "そしてぼくはこれからどうなってしまうのだろう。",
         "thammy": "I wonder what will become of me now.",
-        "tone": ""
+        "tone": "",
+        "claude": "What will become of me now?"
       },
       {
         "source": "Tim",
         "japanese": "とにかくここからぬけ出す方法を考えなくては…。",
         "thammy": "Anyhow, if I don't think of a way out of here...",
-        "tone": ""
+        "tone": "",
+        "claude": "Somehow, I must find a way to escape from here..."
       }
     ]
   },
@@ -31,7 +34,8 @@
         "source": "Tim",
         "japanese": "テム：この鉄球にはだれかがつながれていたんだろうな…",
         "thammy": "Tim: I guess someone was probably chained to this iron ball...",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Someone was chained to this iron ball once..."
       }
     ]
   },
@@ -43,13 +47,15 @@
         "source": "Tim",
         "japanese": "テム：このコケは数え切れないほどのしゅうじんたちを見てきたんだろうな…",
         "thammy": "Tim: This moss must have seen countless prisoners...",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: This moss must have witnessed countless prisoners..."
       },
       {
         "source": "Tim",
         "japanese": "彼らもこのコケを心のささえにしてくらしていたのかもしれない…",
         "thammy": "They might have gotten moral support from living with this moss too...",
-        "tone": ""
+        "tone": "",
+        "claude": "Perhaps they, too, found solace in this moss..."
       }
     ]
   },
@@ -61,7 +67,8 @@
         "source": "Tim",
         "japanese": "テム：カギがかかっている…",
         "thammy": "Tim: There's a lock here...",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: It's locked..."
       }
     ]
   },
@@ -73,13 +80,15 @@
         "source": "Narrator",
         "japanese": "天井にあいた穴から兵士の低い声がひびく。",
         "thammy": "A soldier's deep voice echoes from a hole opened in the ceiling.",
-        "tone": ""
+        "tone": "",
+        "claude": "A soldier's low voice echoes from a hole in the ceiling."
       },
       {
         "source": "Soldier",
         "japanese": "今日の配給のパンだ。水はコケでもすするんだな。",
         "thammy": "This is today's ration of bread. I guess that even moss drinks water.",
-        "tone": ""
+        "tone": "",
+        "claude": "Here's today's bread. For water, lick the moss."
       }
     ]
   },
@@ -91,19 +100,22 @@
         "source": "Narrator",
         "japanese": "テムはパンをちょっぴりかじってみた。",
         "thammy": "Tim tried to nibble a bit of the bread.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim tried to take a small bite of the bread."
       },
       {
         "source": "Tim",
         "japanese": "それはカチカチにかたまっていて今まで食べたどんな食べ物よりもおいしくなかった。",
         "thammy": "It had become hard; it was the worst thing I had ever tasted until then.",
-        "tone": ""
+        "tone": "",
+        "claude": "It was hard as stone—the most wretched thing I'd ever tasted."
       },
       {
         "source": "Tim",
         "japanese": "ローラおばあちゃんのパイがなぜかひどくなつかしく感じられた…",
         "thammy": "I sorely missed Grandma Laura's pies for some reason...",
-        "tone": ""
+        "tone": "",
+        "claude": "For some reason, I found myself desperately missing Grandma Laura's pies..."
       }
     ]
   },
@@ -115,19 +127,22 @@
         "source": "Tim",
         "japanese": "時がゆっくりと流れてゆきやがて長い長い一日が終った。",
         "thammy": "Time flowed damningly slow; one long, long day ended.",
-        "tone": ""
+        "tone": "",
+        "claude": "Time passed with agonizing slowness. One long, long day finally ended."
       },
       {
         "source": "Tim",
         "japanese": "しゅうじんのやり場のない気持ちが痛いほどわかってしまう…。",
         "thammy": "To a painful degree, I had come to understand that a prisoner has no emotional outlet….",
-        "tone": ""
+        "tone": "",
+        "claude": "I understood, painfully, a prisoner's helpless despair..."
       },
       {
         "source": "Tim",
         "japanese": "ここをぬけだす方法も見つからぬままぼくは浅いねむりについた。",
         "thammy": "At that time, still trying to find a way to escape, I fell into a light sleep.",
-        "tone": ""
+        "tone": "",
+        "claude": "Still unable to find a way to escape, I fell into an uneasy sleep."
       }
     ]
   },
@@ -139,19 +154,22 @@
         "source": "Narrator",
         "japanese": "うつろな耳に笛からなつかしい声がひびく…",
         "thammy": "From my flute, a voice I had longed to hear echoed through the silence that had filled my ears...",
-        "tone": ""
+        "tone": "",
+        "claude": "Through the hollow silence, a familiar voice echoed from the flute..."
       },
       {
-        "source": "Flute",
+        "source": "Allman",
         "japanese": "笛：テム…。",
         "thammy": "Flute: Tim…",
-        "tone": ""
+        "tone": "",
+        "claude": "Flute: Tim..."
       },
       {
-        "source": "Flute",
+        "source": "Allman",
         "japanese": "笛：わたしはおまえの父だ、テム。",
         "thammy": "Flute: Tim, this is your father.",
-        "tone": ""
+        "tone": "",
+        "claude": "Flute: Tim, I am your father."
       }
     ]
   },
@@ -163,37 +181,43 @@
         "source": "Tim",
         "japanese": "テム：父さん…？",
         "thammy": "Tim: Dad...?",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Father...?"
       },
       {
-        "source": "Flute",
+        "source": "Allman",
         "japanese": "笛：大きくなったなあかわいいぼうずだったのに。",
         "thammy": "Flute: I guess you're all grown up. Although you were a cute lad.",
-        "tone": ""
+        "tone": "",
+        "claude": "Flute: You've grown so much. You were such a small boy..."
       },
       {
-        "source": "Flute",
+        "source": "Allman",
         "japanese": "ローラおばあちゃんのパイはおいしいかい？",
         "thammy": "Are Grandma Laura's pies delicious?",
-        "tone": ""
+        "tone": "",
+        "claude": "Are Grandma Laura's pies as good as ever?"
       },
       {
         "source": "Tim",
         "japanese": "テム：父さん！どこにいるの？！",
         "thammy": "Tim: Dad! Where are you?!",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Father! Where are you?!"
       },
       {
-        "source": "Flute",
+        "source": "Allman",
         "japanese": "笛：今は言えない…",
         "thammy": "Flute: I can't tell you that now...",
-        "tone": ""
+        "tone": "",
+        "claude": "Flute: I cannot tell you that now..."
       },
       {
-        "source": "Flute",
+        "source": "Allman",
         "japanese": "おまえに一つたのみがある。聞いてくれるか？ ／ はい、お父さんのたのみなら ／ いやだ、ボクを見すてたくせに！",
         "thammy": "I have something to ask of you. Will you listen to it for me? / Yes, since it's you, Dad / No, you abandoned me!",
-        "tone": ""
+        "tone": "",
+        "claude": "I have something to ask of you. Will you hear me? / Yes, Father / No! You abandoned me!"
       }
     ]
   },
@@ -202,16 +226,18 @@
     "path": "edward_castle/ec0B_cell.asm",
     "parts": [
       {
-        "source": "Flute",
+        "source": "Allman",
         "japanese": "笛：どうか、お父さんを手助けにきてほしい…。",
         "thammy": "Flute: I want you to come to help me somehow…",
-        "tone": ""
+        "tone": "",
+        "claude": "Flute: Please... come to my aid..."
       },
       {
-        "source": "Flute",
+        "source": "Allman",
         "japanese": "わたしもまえにこのろうやにつながれていたことがあるのだ。ほら左がわのカベを見なさい。",
         "thammy": "I was also a prisoner here earlier. Hey, please look at the wall on the left side.",
-        "tone": ""
+        "tone": "",
+        "claude": "I, too, was once imprisoned in this very cell. Look—the left wall."
       }
     ]
   },
@@ -223,79 +249,92 @@
         "source": "Tim",
         "japanese": "テム：…これは？",
         "thammy": "Tim: ...What's this?",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: ...What is this?"
       },
       {
-        "source": "Flute",
+        "source": "Allman",
         "japanese": "笛：ビルおじいちゃんからなにか聞いてないかい？",
         "thammy": "Flute: Did you not hear something from Grandpa Bill?",
-        "tone": ""
+        "tone": "",
+        "claude": "Flute: Has Grandpa Bill told you anything?"
       },
       {
         "source": "Tim",
         "japanese": "テム：おじいちゃん？建築家だったんでしょ？..",
         "thammy": "Tim: My grandpa? He was an architect, right..?",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Grandpa? He was an architect, wasn't he?"
       },
       {
-        "source": "Flute",
+        "source": "Allman",
         "japanese": "笛：おじいちゃんはね、その石の秘密を知っているのだ。",
         "thammy": "Flute: Your grandpa, he knew the secret of those stones.",
-        "tone": ""
+        "tone": "",
+        "claude": "Flute: Your grandfather knows the secret of these stones."
       },
       {
         "source": "Tim",
         "japanese": "テム：石のひみつ…？",
         "thammy": "Tim: The stones' secret...?",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: The secret... of the stones?"
       },
       {
-        "source": "Flute",
+        "source": "Allman",
         "japanese": "笛：おまえはこれから少しだけこわい目にあうことになるよ。",
         "thammy": "Flute: The situations that you're going to face from now on are going on be a little bit scary.",
-        "tone": ""
+        "tone": "",
+        "claude": "Flute: You will face frightening trials ahead."
       },
       {
         "source": "Tim",
         "japanese": "テム：こわいこと…？",
         "thammy": "Tim: Scary situations...?",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Frightening...?"
       },
       {
-        "source": "Flute",
+        "source": "Allman",
         "japanese": "笛：敵が残した石を拾いなさい。そこにはすい星のちからがふくまれている。",
         "thammy": "Flute: Pick up the stones left by the enemies. The power of the comet is contained in them.",
-        "tone": ""
+        "tone": "",
+        "claude": "Flute: Gather the stones left by your enemies. They contain the power of the comet."
       },
       {
-        "source": "Flute",
+        "source": "Allman",
         "japanese": "そのちからはきっとおまえに味方するだろう…",
         "thammy": "That power will definitely be your ally...",
-        "tone": ""
+        "tone": "",
+        "claude": "That power will become your ally..."
       },
       {
-        "source": "Flute",
+        "source": "Allman",
         "japanese": "そして世界中の遺跡をめぐりミステリードールとよばれる人形をさがしなさい。",
         "thammy": "Then, search for the puppets called \"Mystery Dolls\" which are hidden in the ruins spread around the world.",
-        "tone": ""
+        "tone": "",
+        "claude": "Then journey to the ruins scattered across the world and seek the figures called Mystery Dolls."
       },
       {
-        "source": "Flute",
+        "source": "Allman",
         "japanese": "すい星が近くなればなるほどまものの力は強くなる…",
         "thammy": "The demons will become more powerful as the comet becomes closer…",
-        "tone": ""
+        "tone": "",
+        "claude": "As the comet draws near, the demons will grow stronger..."
       },
       {
-        "source": "Flute",
+        "source": "Allman",
         "japanese": "テム…時間がない…急ぐのだ…まずはインカの遺跡へ…",
         "thammy": "Tim... There's no time... So hurry... First, to the Inca's ruins...",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim... there is no time... make haste... first, to the Incan ruins..."
       },
       {
         "source": "Narrator",
         "japanese": "笛の声はだんだん小さくなりやがて聞こえなくなった。",
         "thammy": "Sadly, the flute's voice gradually become quiet until it could no longer be heard.",
-        "tone": ""
+        "tone": "",
+        "claude": "The voice from the flute grew fainter... and faded into silence."
       }
     ]
   },
@@ -307,7 +346,8 @@
         "source": "Pig",
         "japanese": "ブーブー",
         "thammy": "Squee squee!",
-        "tone": ""
+        "tone": "",
+        "claude": "Oink oink!"
       }
     ]
   },
@@ -319,43 +359,50 @@
         "source": "Tim",
         "japanese": "テム：このブタはたしかカレンのペットだっけ…",
         "thammy": "Tim: If my memory is right, this pig is Karen's pet...",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: This pig... isn't it Karen's pet?"
       },
       {
         "source": "Tim",
         "japanese": "おや？しっぽに手紙とカギがくくりつけてある…。",
         "thammy": "Oh? A letter and key are tied in a bundle at its tail...",
-        "tone": ""
+        "tone": "",
+        "claude": "Wait—there's a letter and a key tied to its tail..."
       },
       {
         "source": "Narrator",
         "japanese": "手紙はこんな内容だった。",
         "thammy": "These were the contents of the letter.",
-        "tone": ""
+        "tone": "",
+        "claude": "The letter read:"
       },
       {
         "source": "Karen",
         "japanese": "「テムがろうやに入れられたって聞いてビックリしちゃった。",
         "thammy": "\"It surprised me that you were placed in the prison.",
-        "tone": ""
+        "tone": "",
+        "claude": "\"I was shocked to hear they threw you in the dungeon."
       },
       {
         "source": "Karen",
         "japanese": "お父様にくってかかったけどあたしの言うことなんかちっとも聞いてくれないの…。",
         "thammy": "Father's gotten angry, but he doesn't listen, whatever I say…",
-        "tone": ""
+        "tone": "",
+        "claude": "I confronted Father, but he won't listen to a word I say..."
       },
       {
         "source": "Karen",
         "japanese": "あたしもうこんなところにいるのはいやっ。今夜城をぬけ出すことにする。",
         "thammy": "I can't stand being here anymore... Tonight, I will escape the castle.",
-        "tone": ""
+        "tone": "",
+        "claude": "I can't bear to stay here anymore. Tonight, I'm escaping from the castle."
       },
       {
         "source": "Karen",
         "japanese": "テムもこれで自由になってねっ。」",
         "thammy": "And from that, you will also be freed...\"",
-        "tone": ""
+        "tone": "",
+        "claude": "Use this to get free, too!\""
       }
     ]
   },
@@ -367,7 +414,8 @@
         "source": "Narrator",
         "japanese": "ろうごくのカギを手に入れた！",
         "thammy": "Got the jail key!",
-        "tone": ""
+        "tone": "",
+        "claude": "Received the Prison Key!"
       }
     ]
   },
@@ -379,7 +427,8 @@
         "source": "Narrator",
         "japanese": "ろうごくのカギをさしこむとにぶい音とともに鉄のとびらが開いていった。",
         "thammy": "When you inserted the key to the jail, the gate opened with a dull sound.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim inserted the Prison Key. With a heavy groan, the iron door swung open."
       }
     ]
   },
@@ -391,7 +440,8 @@
         "source": "Prisoner",
         "japanese": "私は人の手助けは受けん。自分の力で出てみせる…",
         "thammy": "I won't accept anyone's help. I'll show you that I can get out by my own power...",
-        "tone": ""
+        "tone": "",
+        "claude": "I'll accept no help. I'll escape by my own strength..."
       }
     ]
   },
@@ -403,7 +453,8 @@
         "source": "Gaia",
         "japanese": "私は生命のみなもとガイア。そなたにひとつ助言をあたえようと思う。",
         "thammy": "I am the fountainhead of life, Gaia. I think that I shall bestow upon thee one suggestion.",
-        "tone": ""
+        "tone": "",
+        "claude": "I am Gaia, fountainhead of life. I shall bestow upon thee one counsel."
       }
     ]
   },
@@ -415,13 +466,15 @@
         "source": "Gaia",
         "japanese": "一定地域の敵をすべてたおすと能力の上がる宝石があらわれる。そなたはそれで強くなってゆく。",
         "thammy": "When thou defeat all of the enemies in a set area, jewels that will increase thy abilities will appear. Thou willst become stronger with them.",
-        "tone": ""
+        "tone": "",
+        "claude": "When thou defeate all enemies in a given region, jewels shall appear to increase thy powers. Thus shalt thou grow stronger."
       },
       {
         "source": "Gaia",
         "japanese": "敵の場所はスタートポタンをおせばわかるはず。まものはさがしだしてでも残さずたおしてゆくことだ…",
         "thammy": "If thou press the start button, thou shouldst divine the location of the enemy. Use it when thou art searching for demons that remain undefeated...",
-        "tone": ""
+        "tone": "",
+        "claude": "Press the Start button to divine the location of thine enemies. Seek them out—leave none standing..."
       }
     ]
   },
@@ -433,7 +486,8 @@
         "source": "Tim",
         "japanese": "テム：そうか…自分のいる地域の敵を全部たおすとこの宝石があらわれるんだな…",
         "thammy": "Tim: Ah, that's right... I think when I defeat all of the enemies in the area I'm in, these jewels appear...",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: I see... these jewels appear when I defeat all the enemies in an area..."
       }
     ]
   },
@@ -445,7 +499,8 @@
         "source": "Lillie",
         "japanese": "いたいっ！何するのよっ！！",
         "thammy": "That hurts...! What are you doing...!",
-        "tone": ""
+        "tone": "",
+        "claude": "Ow! What're you doing?!"
       }
     ]
   },
@@ -457,7 +512,8 @@
         "source": "Lillie",
         "japanese": "早くこっちに来なさいよっ！まものにやられちゃうじゃないっ！",
         "thammy": "Hurry, come this way...! You won't be hurt by the demons...!",
-        "tone": ""
+        "tone": "",
+        "claude": "Hurry up and come here! The demons will get you!"
       }
     ]
   },
@@ -469,7 +525,8 @@
         "source": "Tim",
         "japanese": "かたくておしこめないっ！さびついているようだな…",
         "thammy": "I can't press it down very much...! It looks like it's rusted...",
-        "tone": ""
+        "tone": "",
+        "claude": "It's too stiff! Must be rusted..."
       }
     ]
   },
@@ -481,19 +538,22 @@
         "source": "Spirit",
         "japanese": "敵をたおしたときにあらわれる銀色にきらめくヤミの玉。",
         "thammy": "A glittering silver ball of darkness that appears when enemies are defeated.",
-        "tone": ""
+        "tone": "",
+        "claude": "The silvery orbs of darkness that appear when enemies fall..."
       },
       {
         "source": "Spirit",
         "japanese": "これを１００コ集めればいのちのもとが一つふえる…",
         "thammy": "If you collect 100 of them, your Source of Life will increase by one...",
-        "tone": ""
+        "tone": "",
+        "claude": "Gather one hundred, and thy life essence shall increase..."
       },
       {
         "source": "Spirit",
         "japanese": "たとえ敵にやられても遠くはなれた場所までもどることはなくなるのだ…",
         "thammy": "Even if you are defeated by an enemy, you won't be sent very far...",
-        "tone": ""
+        "tone": "",
+        "claude": "Even if struck down, thou shalt not be sent far..."
       }
     ]
   },
@@ -505,7 +565,8 @@
         "source": "Blooming Flower",
         "japanese": "片すみにさく花：笛をふいてごらん…あのメロディをふいてごらん…",
         "thammy": "Blooming Flower: Please play your flute... Please play that melody...",
-        "tone": ""
+        "tone": "",
+        "claude": "Flower: Play the flute... play that melody..."
       }
     ]
   },
@@ -517,13 +578,15 @@
         "source": "Narrator",
         "japanese": "赤い宝石をかかげた！",
         "thammy": "Raised the Red Jewel!",
-        "tone": ""
+        "tone": "",
+        "claude": "Held up the Red Jewel!"
       },
       {
         "source": "Narrator",
         "japanese": "赤い宝石は宝石商ジェムのところへ一すじの光となって飛んでいった！",
         "thammy": "The Red Jewel became a ray of light and flew to Gem, the jewel merchant's, location!",
-        "tone": ""
+        "tone": "",
+        "claude": "The Red Jewel flew to Gem the jeweler as a beam of light!"
       }
     ]
   },
@@ -535,7 +598,8 @@
         "source": "Narrator",
         "japanese": "ローラから教わったメロディーを静かにふきはじめた。",
         "thammy": "He quietly started playing the melody that Laura had taught him.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim began softly playing the melody Laura taught him."
       }
     ]
   },
@@ -547,13 +611,15 @@
         "source": "Narrator",
         "japanese": "ローラから教わったメロディーを静かにふきはじめた。",
         "thammy": "He quietly started playing the melody that Laura had taught him.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim began softly playing the melody Laura taught him."
       },
       {
         "source": "Narrator",
         "japanese": "しかし何も起こらなかった。",
         "thammy": "But nothing happened.",
-        "tone": ""
+        "tone": "",
+        "claude": "But nothing happened."
       }
     ]
   },
@@ -565,13 +631,15 @@
         "source": "Narrator",
         "japanese": "するとどこからともなく声が聞こえてきた…",
         "thammy": "When it was done, a voice could suddenly be heard from somewhere...",
-        "tone": ""
+        "tone": "",
+        "claude": "Then a voice echoed from somewhere..."
       },
       {
         "source": "Mysterious Voice",
         "japanese": "不思議な声：右側にあるスイッチの前へいってちょうだい。",
         "thammy": "Mysterious voice: Please go in front of the switch on the right side of the room.",
-        "tone": ""
+        "tone": "",
+        "claude": "Mysterious Voice: Go stand in front of the switch on the right."
       }
     ]
   },
@@ -583,19 +651,22 @@
         "source": "Mysterious Voice",
         "japanese": "不思議な声：このスイッチはね２つ同時におさないとトビラが開かないの。",
         "thammy": "Mysterious voice: The door won't open unless two people hit this switch at the same time.",
-        "tone": ""
+        "tone": "",
+        "claude": "Mysterious Voice: These two switches have to be pressed at the same time to open the door."
       },
       {
         "source": "Mysterious Voice",
         "japanese": "あたしがかけ声をかけるからそれにあわせてスイッチをおしてね。",
         "thammy": "Match the timing with my count and push the switch.",
-        "tone": ""
+        "tone": "",
+        "claude": "I'll count it off. Press your switch when I say so, okay?"
       },
       {
         "source": "Mysterious Voice",
         "japanese": "１２３のタイミングだからね。まちがえないでね。",
         "thammy": "The timing will be 1-2-3, alright? Don't get it wrong.",
-        "tone": ""
+        "tone": "",
+        "claude": "On three, got it? Don't mess it up!"
       }
     ]
   },
@@ -607,7 +678,8 @@
         "source": "Mysterious Voice",
         "japanese": "ちょっとぉ！同時におさなきゃダメだって言ったでしょ！",
         "thammy": "Hold on! Didn't I say we have to press them simultaneously?",
-        "tone": ""
+        "tone": "",
+        "claude": "Hey! Didn't I say at the same time?!"
       }
     ]
   },
@@ -619,13 +691,15 @@
         "source": "Mysterious Voice",
         "japanese": "やったぁ！トビラが開いたわよっ！",
         "thammy": "Alright! The door opened...!",
-        "tone": ""
+        "tone": "",
+        "claude": "Yes! The door opened!"
       },
       {
         "source": "Mysterious Voice",
         "japanese": "さあ先へ行って！",
         "thammy": "Okay, go on ahead!",
-        "tone": ""
+        "tone": "",
+        "claude": "Now hurry, go on!"
       }
     ]
   },
@@ -637,7 +711,8 @@
         "source": "Gaia",
         "japanese": "そなたはけがをしているようだな。目をつぶって静かにしているがよい。",
         "thammy": "It seems that you're injured, huh. Come on, close your eyes and be still…",
-        "tone": ""
+        "tone": "",
+        "claude": "Thou art injured. Close thine eyes and rest..."
       }
     ]
   },
@@ -649,7 +724,8 @@
         "source": "Gaia",
         "japanese": "そなたの姿はかりの姿。となりにたたずむ石像の前に立ってみるがいい。",
         "thammy": "Thy form is a temporary one. Thou shouldst try standing in front of the statue that is beside me.",
-        "tone": ""
+        "tone": "",
+        "claude": "Thy form is but temporary. Stand before the statue beside me."
       }
     ]
   },
@@ -661,31 +737,36 @@
         "source": "Narrator",
         "japanese": "テムの頭の中で、声がこだまする。",
         "thammy": "A voice echoed inside of Tim's head.",
-        "tone": ""
+        "tone": "",
+        "claude": "A voice echoed within Tim's mind."
       },
       {
         "source": "Friedan",
         "japanese": "テムよ。私はこの時がくるのをずっと待ち続けていた。",
         "thammy": "O Tim. I have long been laying in wait for this time to come.",
-        "tone": ""
+        "tone": "",
+        "claude": "O Tim. I have awaited this moment for so long."
       },
       {
         "source": "Friedan",
         "japanese": "私の名はフリーダン。時をこえて生き続けるもの。",
         "thammy": "My name is Friedan. I am something that exists beyond time.",
-        "tone": ""
+        "tone": "",
+        "claude": "I am Freedan. I exist beyond time itself."
       },
       {
         "source": "Friedan",
         "japanese": "今後テムの旅を手助けさせてもらうつもりだ。私のことは時がくれば自然とわかるであろう…",
         "thammy": "From here on, I intend to assist on your journey. When the time for me has come, then by nature, you will know it ...",
-        "tone": ""
+        "tone": "",
+        "claude": "I shall aid thee on thy journey. When the time comes, thou shalt understand..."
       },
       {
         "source": "Narrator",
         "japanese": "やがてテムの意識はだんだん遠のいていった…",
         "thammy": "Tim's consciousness gradually receded...",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim's consciousness slowly faded..."
       }
     ]
   },
@@ -697,7 +778,8 @@
         "source": "Narrator",
         "japanese": "敵の気配が消えテムの変身が解けてゆく…",
         "thammy": "The presence of enemies disappeared; Tim's transformation is cleared away...",
-        "tone": ""
+        "tone": "",
+        "claude": "The enemy's presence faded. Tim's transformation dissolved..."
       }
     ]
   },
@@ -709,43 +791,50 @@
         "source": "Lillie",
         "japanese": "少女：見ーちゃった！しかしおっどろいた！あたしみたいに変身できる人がいるんだね。",
         "thammy": "Girl: I saaaw you! But you surprised me! You're a person that can transform like me, huh.",
-        "tone": ""
+        "tone": "",
+        "claude": "Girl: I saaaw that! Wow, you surprised me! You can transform just like me!"
       },
       {
         "source": "Lillie",
         "japanese": "あたしはリリィ。花の精に守られてくらすイトリー族の女の子。",
         "thammy": "I'm Lillie. I'm a girl from the Itory clan, which is protected by flower fairies.",
-        "tone": ""
+        "tone": "",
+        "claude": "I'm Lilly. I'm from the Itory Tribe—we live under the protection of flower spirits."
       },
       {
         "source": "Lillie",
         "japanese": "ところであなた…私たちにしか聞こえないメロディーをどうしてしってるの？",
         "thammy": "Why do you know the melody that nobody but us has heard?",
-        "tone": ""
+        "tone": "",
+        "claude": "But you... how do you know a melody that only we can hear?"
       },
       {
         "source": "Tim",
         "japanese": "テム：ローラおばあちゃんから教わったんだよ。本当に困ったときにふけって。",
         "thammy": "Tim: I learned it from Grandma Laura. I play it when I'm really worried.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Grandma Laura taught it to me. She said to play it when I'm in real trouble."
       },
       {
         "source": "Lillie",
         "japanese": "リリィ：ローラおばあちゃんにはとんでもない味のパイをごちそうになった。",
         "thammy": "Lillie: I had been treated to Grandma Laura's terrible tasting pies.",
-        "tone": ""
+        "tone": "",
+        "claude": "Lilly: Grandma Laura made me try her awful pies!"
       },
       {
         "source": "Tim",
         "japanese": "テム：おばあさんを知ってるの！？",
         "thammy": "Tim: You know my Grandma!?",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: You know Grandma?!"
       },
       {
         "source": "Lillie",
         "japanese": "リリィ：ウフフ…じつはローラにたのまれてあなたをたすけにきたんだもん！",
         "thammy": "Lillie: Hehe... The truth is, Laura requested that I come save you!",
-        "tone": ""
+        "tone": "",
+        "claude": "Lilly: Hehe... Actually, Laura asked me to come help you!"
       }
     ]
   },
@@ -757,13 +846,15 @@
         "source": "Lillie",
         "japanese": "リリィ：あっ。長老さまが呼んでる…あたし行かなくちゃ。",
         "thammy": "Lillie: Ah... The Elder is calling... I have to go.",
-        "tone": ""
+        "tone": "",
+        "claude": "Lilly: Oh! The Elder's calling... I have to go."
       },
       {
         "source": "Lillie",
         "japanese": "リリィ：あとできっとまた会えるわ。じゃあネ、テム！",
         "thammy": "Lillie: We'll definitely meet again later. See you, Tim!",
-        "tone": ""
+        "tone": "",
+        "claude": "Lilly: We'll see each other again! Bye, Tim!"
       }
     ]
   }

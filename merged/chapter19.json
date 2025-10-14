@@ -7,13 +7,15 @@
         "source": "Tim",
         "japanese": "テム：気がつくとぼくはきみょうなきゅうでんの中にたたずんでいた。",
         "thammy": "Tim: When I regained consciousness, I was standing in a bizarre palace.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: When I came to, I was standing in a strange palace."
       },
       {
         "source": "Tim",
         "japanese": "パラシュートが着水してからのきおくがまったくなかった…みんなは無事だろうか。",
         "thammy": "I didn't have any memories from after the parachutes landed in the water... But maybe everyone's safe.",
-        "tone": ""
+        "tone": "",
+        "claude": "I had no memory of anything after the parachute landed in the water... I wonder if everyone's safe."
       }
     ]
   },
@@ -25,7 +27,8 @@
         "source": "Tim",
         "japanese": "テム：何か変だな。さわってもダメージを受ける気配もないし…",
         "thammy": "Tim: This is something strange, isn't it? Even though I touched the enemy, I haven't taken any damage...",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Something's strange. Even though I touched it, I don't seem to be taking any damage..."
       }
     ]
   },
@@ -37,7 +40,8 @@
         "source": "Tim",
         "japanese": "テム：おや？右の部屋から人の気配がする…",
         "thammy": "Tim: Oh? I feel a human presence from the room to the right...",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Huh? I can sense someone in the room to the right..."
       }
     ]
   },
@@ -49,7 +53,8 @@
         "source": "Tim",
         "japanese": "テム：おや？どこからかかぼそい声が聞こえるみたいだ…",
         "thammy": "Tim: Oh? I can hear a weak voice coming from somewhere...",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Huh? I can hear a faint voice coming from somewhere..."
       }
     ]
   },
@@ -61,13 +66,15 @@
         "source": "Mysterious voice",
         "japanese": "不思議な声：ここはキュウケツキの住むきゅうでん…",
         "thammy": "Mysterious voice: Vampires live in this place...",
-        "tone": ""
+        "tone": "",
+        "claude": "Mysterious voice: This is a palace... where vampires dwell..."
       },
       {
         "source": "Mysterious voice",
         "japanese": "このきゅうでんの血の泉はまものを次々と作り出し…",
         "thammy": "The fountain of blood in this palace produces demons one by one..",
-        "tone": ""
+        "tone": "",
+        "claude": "The fountain of blood in this palace... creates demons one after another..."
       }
     ]
   },
@@ -79,7 +86,8 @@
         "source": "Tim",
         "japanese": "テム：おや？左の部屋から人の気配がする…",
         "thammy": "Tim: Oh? I feel a human presence from the room to the left...",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Huh? I can sense someone in the room to the left..."
       }
     ]
   },
@@ -91,7 +99,8 @@
         "source": "Eric",
         "japanese": "エリック：ここはどこ？くらいよ…さみしいよ…おかあさんたすけて…",
         "thammy": "Eric: Where is this? It's bleak... It's lonely... Mom, help me...",
-        "tone": ""
+        "tone": "",
+        "claude": "Eric: Where am I? It's so dark... I'm scared... Mom, help me..."
       }
     ]
   },
@@ -103,13 +112,15 @@
         "source": "Mysterious voice",
         "japanese": "不思議な声：きゅうでんの一番下の階には血の泉がある…",
         "thammy": "Mysterious voice: The fountain of blood is on the lowest floor of the palace...",
-        "tone": ""
+        "tone": "",
+        "claude": "Mysterious voice: On the lowest floor of the palace... there is a fountain of blood..."
       },
       {
         "source": "Mysterious voice",
         "japanese": "そこにあの石を…はやくは.や..く…",
         "thammy": "There… With that stone... Hurry, hur.rrr..ry...",
-        "tone": ""
+        "tone": "",
+        "claude": "Take that stone there... Hurr.y, hur..ry..."
       }
     ]
   },
@@ -121,7 +132,8 @@
         "source": "Lillie",
         "japanese": "リリィ：わあっ！！！",
         "thammy": "Lillie: Waah...!!",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: Waaah!!!"
       }
     ]
   },
@@ -133,13 +145,15 @@
         "source": "Lillie",
         "japanese": "リリィ：もう…びっくりさせないでよっ！！",
         "thammy": "Lillie: Geez... Don't surprise me...!!",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: Geez... Don't startle me like that!!"
       },
       {
         "source": "Lillie",
         "japanese": "しんぞうがのどから飛び出したらテムのせいだからねっ！！",
         "thammy": "My heart nearly jumped out of my chest because of you, you know...!!",
-        "tone": ""
+        "tone": "",
+        "claude": "If my heart flies out of my throat, it'll be your fault, you know!!"
       }
     ]
   },
@@ -151,25 +165,29 @@
         "source": "Lillie",
         "japanese": "リリィ：さっき他の部屋でエリックを見かけたんだけど何か変でさ。",
         "thammy": "Lillie: I happened to see Eric in the other room just a bit ago, but there was something strange.",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: I saw Eric in another room earlier, but something was really strange."
       },
       {
         "source": "Lillie",
         "japanese": "体が半分とうめいで向こうがわがすけて見えるし、",
         "thammy": "Since his body was half transparent, I could see through to the other side of the room.",
-        "tone": ""
+        "tone": "",
+        "claude": "His body was half transparent, and I could see right through to the other side."
       },
       {
         "source": "Lillie",
         "japanese": "それに話しかけてもたましいをぬきとられたみたいにまるで意識がないの…",
         "thammy": "Even if I talked to him, it seemed like his soul was stolen; his entire consciousness is gone...",
-        "tone": ""
+        "tone": "",
+        "claude": "And when I tried talking to him, it was like his soul had been stolen—he had no awareness at all..."
       },
       {
         "source": "Lillie",
         "japanese": "とにかくいっしょに行動しよ。何がおこるかわからないし。",
         "thammy": "Anyhow, let's work together. After all, we don't know what's going on.",
-        "tone": ""
+        "tone": "",
+        "claude": "Anyway, let's stick together. We don't know what might happen."
       }
     ]
   },
@@ -181,7 +199,8 @@
         "source": "Lillie",
         "japanese": "リリィ：テムのポケットをちょっとかりるね。",
         "thammy": "Lillie: I'll borrow your pocket, alright?",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: I'm gonna borrow your pocket for a bit, okay?"
       }
     ]
   },
@@ -193,7 +212,8 @@
         "source": "Lillie",
         "japanese": "リリィ：さ。行こっ。",
         "thammy": "Lillie: Alright. Let's go….",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: Alright. Let's go."
       }
     ]
   },
@@ -205,7 +225,8 @@
         "source": "Mysterious voice",
         "japanese": "不思議な声：じょうか石はかんおけの中に…",
         "thammy": "Mysterious voice: The purification stone in the coffin...",
-        "tone": ""
+        "tone": "",
+        "claude": "Mysterious voice: The purification stone... is in the coffin..."
       }
     ]
   },
@@ -217,7 +238,8 @@
         "source": "Karen",
         "japanese": "カレン：テム….どこ？どこにいるの…？？",
         "thammy": "Karen: Tim... Where? Where are you...??",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: Tim... Where? Where are you...??"
       }
     ]
   },
@@ -229,25 +251,29 @@
         "source": "Tim",
         "japanese": "テム：かんおけのふたは開きそうにないな…",
         "thammy": "Tim: Isn't there an opening in the coffin...?",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: The coffin lid doesn't look like it'll open..."
       },
       {
         "source": "Narrator",
         "japanese": "ポケットの中からリリィが話しかけてきた。",
         "thammy": "Lillie started talking from Tim's pocket.",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie called out from inside my pocket."
       },
       {
         "source": "Lillie",
         "japanese": "リリィ：ちょっとまって。このかんおけって穴があいてるじゃない？",
         "thammy": "Lillie: Wait a moment. This coffin doesn't open?",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: Wait a sec. Doesn't this coffin have a hole in it?"
       },
       {
         "source": "Lillie",
         "japanese": "あたしなら穴から中に入れそうだよね。見てこよっか？",
         "thammy": "I can open it if I go into the hole. Shall I take a look?",
-        "tone": ""
+        "tone": "",
+        "claude": "I could probably fit through that hole and get inside, right? Should I take a look?"
       }
     ]
   },
@@ -259,7 +285,8 @@
         "source": "Lillie",
         "japanese": "リリィ：変なの…このかんおけって内側にカギがついてるよ。どうりで開かないわけだよね。",
         "thammy": "Lillie: That's strange... There's a lock inside this coffin. No wonder it doesn't open, huh?",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: That's weird... This coffin has a lock on the inside. No wonder it won't open, huh?"
       }
     ]
   },
@@ -271,19 +298,22 @@
         "source": "Narrator",
         "japanese": "ポケットの中からリリィが話しかけてきた。",
         "thammy": "Lillie started talking from Tim's pocket.",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie called out from inside my pocket."
       },
       {
         "source": "Lillie",
         "japanese": "リリィ：このかんおけって穴があいてるじゃない？",
         "thammy": "Lillie: This coffin doesn't open?",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: Doesn't this coffin have a hole in it?"
       },
       {
         "source": "Lillie",
         "japanese": "あたしなら穴から中に入れそうだよね。見てこよっか？",
         "thammy": "I can open it if I go into the hole. Shall I take a look?",
-        "tone": ""
+        "tone": "",
+        "claude": "I could probably fit through that hole and get inside, right? Should I take a look?"
       }
     ]
   },
@@ -295,7 +325,8 @@
         "source": "Lillie",
         "japanese": "リリィ：かんおけの中で変な石を見つけちゃった。",
         "thammy": "Lillie: I discovered this weird rock in the coffin.",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: I found a strange stone inside the coffin."
       }
     ]
   },
@@ -307,7 +338,8 @@
         "source": "Narrator",
         "japanese": "じょうか石を手に入れた！",
         "thammy": "Got the purification stone!",
-        "tone": ""
+        "tone": "",
+        "claude": "Received the purification stone!"
       }
     ]
   },
@@ -319,7 +351,8 @@
         "source": "Narrator",
         "japanese": "じょうか石をかかげた！",
         "thammy": "Held up the purification stone!",
-        "tone": ""
+        "tone": "",
+        "claude": "Held up the purification stone!"
       }
     ]
   },
@@ -331,7 +364,8 @@
         "source": "Narrator",
         "japanese": "しかし何もおこらなかった！",
         "thammy": "However, nothing happened!",
-        "tone": ""
+        "tone": "",
+        "claude": "But nothing happened!"
       }
     ]
   },
@@ -343,7 +377,8 @@
         "source": "Neil",
         "japanese": "ニール：うーんうーん。",
         "thammy": "Neil: Ungh, ungh.",
-        "tone": ""
+        "tone": "",
+        "claude": "Neil: Ungh, ungh."
       }
     ]
   },
@@ -355,7 +390,8 @@
         "source": "Rob",
         "japanese": "ロブ：うーんうーん。",
         "thammy": "Rob: Ungh, ungh.",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob: Ungh, ungh."
       }
     ]
   },
@@ -367,13 +403,15 @@
         "source": "Lillie",
         "japanese": "リリィ：あっ！血でできた泉だ…",
         "thammy": "Lillie: Ah...! It's a fountain made of blood...",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: Ah! It's a fountain made of blood..."
       },
       {
         "source": "Lillie",
         "japanese": "こことさっきの石が何か関係してるのかな…？",
         "thammy": "I wonder if this is somehow related to that rock we just picked up?",
-        "tone": ""
+        "tone": "",
+        "claude": "I wonder if this place has something to do with that stone we found...?"
       }
     ]
   },
@@ -385,7 +423,8 @@
         "source": "Narrator",
         "japanese": "石はしだいにかがやきをまし泉の中へと消えていった…",
         "thammy": "The stone grew brighter and immediately disappeared into the fountain...",
-        "tone": ""
+        "tone": "",
+        "claude": "The stone gradually grew brighter and disappeared into the fountain..."
       }
     ]
   },
@@ -397,25 +436,29 @@
         "source": "Man",
         "japanese": "助かったぜぼうずっ！ありがとよっ！！",
         "thammy": "You saved me, boy! Thank you...!!",
-        "tone": ""
+        "tone": "",
+        "claude": "You saved me, kid! Thanks!!"
       },
       {
         "source": "Man",
         "japanese": "おれはフリージアの町からこのきゅうでんへ連れてこられてまものに変えられてたんだ…",
         "thammy": "They brought me to this place from Freesia and turned me into a demon...",
-        "tone": ""
+        "tone": "",
+        "claude": "I was brought here from the town of Freesia and turned into a demon..."
       },
       {
         "source": "Narrator",
         "japanese": "リリィがポケットの中から話しかけてきた。",
         "thammy": "Lillie speaks from inside your pocket.",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie spoke up from inside my pocket."
       },
       {
         "source": "Lillie",
         "japanese": "えーっ！じゃさっきのまものたちはみんな人間だったわけ…？",
         "thammy": "What...!? So the demons that we were seeing just now were humans...?",
-        "tone": ""
+        "tone": "",
+        "claude": "What?! So all those demons we saw were actually human...?"
       }
     ]
   },
@@ -427,13 +470,15 @@
         "source": "Woman",
         "japanese": "さっき殺されるしゅんかんっていうのを味わったわ。死ぬことがあれほどおそろしいものだとは…",
         "thammy": "I got a taste of what it's like to die just now. Having an experience even that close to death is a terrifying thing...",
-        "tone": ""
+        "tone": "",
+        "claude": "I just experienced what it's like to face the moment of death. I never knew dying could be so terrifying..."
       },
       {
         "source": "Woman",
         "japanese": "あなたは何も知らなかったんだから罪はないけれど私たちが食料にしている動物たちもあんな気分を味わってるのかしら。",
         "thammy": "It isn't your fault because you didn't know what was going on, but I wonder if the animals we eat for food also feel that sensation.",
-        "tone": ""
+        "tone": "",
+        "claude": "You didn't know, so it's not your fault, but... I wonder if the animals we use for food feel that same terror."
       }
     ]
   },
@@ -445,13 +490,15 @@
         "source": "Man",
         "japanese": "おれたちゃもとドレイ商人。人身売買の罪でつかまって…",
         "thammy": "We were originally slave merchants. Arrested for the crime of human trafficking...",
-        "tone": ""
+        "tone": "",
+        "claude": "We used to be slave traders. We were arrested for human trafficking..."
       },
       {
         "source": "Man",
         "japanese": "でも役人の連中はおれたちをキュウケツキに売りとばしやがった！もう何も信じられねえよ…",
         "thammy": "But a damned group of bureaucrats sold us off to vampires! I still can't believe it...",
-        "tone": ""
+        "tone": "",
+        "claude": "But those bastard officials turned around and sold us to vampires! I can't trust anyone anymore..."
       }
     ]
   },
@@ -463,7 +510,8 @@
         "source": "Man",
         "japanese": "やれやれ…美人の女のさそいにのってついてきたらこのザマだ…",
         "thammy": "Good grief... A beautiful woman invited me here and I ended up in this fantastic mess.",
-        "tone": ""
+        "tone": "",
+        "claude": "Good grief... A beautiful woman invited me along and look where I ended up..."
       }
     ]
   },
@@ -475,7 +523,8 @@
         "source": "Woman",
         "japanese": "素敵な男がさそいをかけるからついてきたの…もう男なんて信じないっ！",
         "thammy": "A handsome man asked me to come, so I came here... I still can't believe men!",
-        "tone": ""
+        "tone": "",
+        "claude": "A handsome man invited me here, so I followed him... I'll never trust men again!"
       }
     ]
   },
@@ -487,7 +536,8 @@
         "source": "Man",
         "japanese": "このカンオケでねおきしてるのはまぎれもなくキュウケツキ。やつらはとんでもねえことをたくらんでやがる…",
         "thammy": "There's no doubt about it; vampires sleep and wake in these coffins. Those bastards are planning things too horrible to imagine...",
-        "tone": ""
+        "tone": "",
+        "claude": "There's no doubt that vampires sleep and wake in these coffins. Those bastards are planning something terrible..."
       }
     ]
   },
@@ -499,13 +549,15 @@
         "source": "Man",
         "japanese": "このきゅうでんに住んでいるのはキュウケツキの夫婦です。",
         "thammy": "A vampire husband and wife couple live in this palace.",
-        "tone": ""
+        "tone": "",
+        "claude": "A vampire couple lives in this palace."
       },
       {
         "source": "Man",
         "japanese": "いたるところから人間をつれてきてまものに変え労働力として使うっているんですよ…",
         "thammy": "Humans are brought here from all over and transformed into demons to be used as a workforce...",
-        "tone": ""
+        "tone": "",
+        "claude": "They bring humans here from all over, transform them into demons, and use them as a labor force..."
       }
     ]
   },
@@ -517,7 +569,8 @@
         "source": "Woman",
         "japanese": "このきゅうでんはまぼろしの土地ムー大陸へとつながっているの。キュウケツキの夫婦はそこで何かをさがしてるみたい…",
         "thammy": "This palace is tied to the fantastical grounds of the continent of Mu. The vampire couple seems to be searching for something there...",
-        "tone": ""
+        "tone": "",
+        "claude": "This palace is connected to the phantom land of the continent of Mu. The vampire couple seems to be searching for something there..."
       }
     ]
   },
@@ -529,7 +582,8 @@
         "source": "Man",
         "japanese": "おれたちゃまものに変わりかけのところだったから助かったがあんたがくるのがあと一歩おそかったらと思うと…",
         "thammy": "Imagine if you were one step later in rescuing us from being transformed into demons...",
-        "tone": ""
+        "tone": "",
+        "claude": "We were only halfway transformed, so you saved us, but if you'd been just a step later..."
       }
     ]
   },
@@ -541,7 +595,8 @@
         "source": "Woman",
         "japanese": "キュウケツキの夫婦の話を立聞きしたんだけどムー大陸にはミステリードールとかいう人形がねむっているらしいわ…",
         "thammy": "I was eavesdropping on the vampire couple talking; it seems like a puppet called a Mystery Doll or something like that is sleeping at the continent of Mu...",
-        "tone": ""
+        "tone": "",
+        "claude": "I overheard the vampire couple talking—apparently there's a doll called the Mystery Doll sleeping somewhere on the continent of Mu..."
       }
     ]
   },
@@ -553,7 +608,8 @@
         "source": "Man",
         "japanese": "キュウケツキの女からカギを一個かっぱらったんだ。もっていきな。",
         "thammy": "I snatched a key from the vampire woman. Bring it with you.",
-        "tone": ""
+        "tone": "",
+        "claude": "I swiped a key from the vampire woman. Here, take it."
       }
     ]
   },
@@ -565,7 +621,8 @@
         "source": "Narrator",
         "japanese": "海底きゅうでんのカギを手に入れた！",
         "thammy": "Got the seabed palace key!",
-        "tone": ""
+        "tone": "",
+        "claude": "Received the Seabed Palace Key!"
       }
     ]
   },
@@ -577,7 +634,8 @@
         "source": "Man",
         "japanese": "きゅうでんの最上階にはムー大陸へつづく通路があるらしいぜ。",
         "thammy": "It seems like there is a passage that leads to the continent of Mu at the highest floor of the palace.",
-        "tone": ""
+        "tone": "",
+        "claude": "I hear there's a passage to the continent of Mu on the palace's top floor."
       }
     ]
   },
@@ -589,7 +647,8 @@
         "source": "Man",
         "japanese": "こんな海のまんなかにおきざりになっておれたちゃ今後どうすりゃいいんだ…",
         "thammy": "What should we do after left in the middle of the sea like this…?",
-        "tone": ""
+        "tone": "",
+        "claude": "What are we supposed to do now, stuck in the middle of the ocean like this...?"
       }
     ]
   },
@@ -601,7 +660,8 @@
         "source": "Woman",
         "japanese": "みんなでこのきゅうでんをのっとって住んじゃうっていうのはどうかしら？",
         "thammy": "What will happen to everyone who was abducted and brought to this palace?",
-        "tone": ""
+        "tone": "",
+        "claude": "What if we all just took over this palace and lived here?"
       }
     ]
   },
@@ -613,7 +673,8 @@
         "source": "Narrator",
         "japanese": "きゅうでんのカギを使ってみることにした。",
         "thammy": "Tried using the palace key.",
-        "tone": ""
+        "tone": "",
+        "claude": "Used the palace key."
       }
     ]
   },
@@ -625,13 +686,15 @@
         "source": "Narrator",
         "japanese": "ポケットのリリィが話しかけてきた。",
         "thammy": "Lillie begins to speak from your pocket.",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie spoke up from inside my pocket."
       },
       {
         "source": "Lillie",
         "japanese": "この先にまぼろしの大陸ムーが広がっているんだね。",
         "thammy": "The passage ahead of here leads to the fantastic continent of Mu, right?",
-        "tone": ""
+        "tone": "",
+        "claude": "So the phantom continent of Mu lies ahead, huh?"
       }
     ]
   },
@@ -643,13 +706,15 @@
         "source": "Narrator",
         "japanese": "ポケットの中からリリィが話しかけてきた。",
         "thammy": "Lillie begins to speak from your pocket.",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie called out from inside my pocket."
       },
       {
         "source": "Lillie",
         "japanese": "リリィ：長い通路だよね….これほんとにムー大陸につづいてるのかな…",
         "thammy": "Lillie: It's a long passage, huh... I wonder if this really goes on to the continent of Mu...",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: It's a long passage, huh... I wonder if this really leads to the continent of Mu..."
       }
     ]
   }

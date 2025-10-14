@@ -7,19 +7,22 @@
         "source": "Tim",
         "japanese": "テム：インカのラライのガケにはすさまじい風がふきあれていた。",
         "thammy": "Tim: At the Incan Cliffs of Rarai, a dreadful wind raged.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: A fierce wind raged at the Incan Cliffs of Larai."
       },
       {
         "source": "Tim",
         "japanese": "これが長老の言っていた神の息なのだろうか…",
         "thammy": "Could this be the breath of the gods that the Elder spoke of…?",
-        "tone": ""
+        "tone": "",
+        "claude": "Could this be the breath of the gods that the Elder spoke of..."
       },
       {
         "source": "Tim",
         "japanese": "このガケのどこかに風のない場所がひっそりとねむっているのだろう。ボクは胸の高なりを感じた。",
         "thammy": "A place without wind is probably waiting quietly somewhere on this cliff. I felt it throbbing in my chest.",
-        "tone": ""
+        "tone": "",
+        "claude": "Somewhere on this cliff, a place without wind must be waiting quietly. I felt my heart racing."
       }
     ]
   },
@@ -31,7 +34,8 @@
         "source": "Narrator",
         "japanese": "そこにはろうごくのカギを使うカギ穴がない。",
         "thammy": "There's no hole there to use the prison key in.",
-        "tone": ""
+        "tone": "",
+        "claude": "There's no keyhole to use the Prison Key in."
       }
     ]
   },
@@ -43,7 +47,8 @@
         "source": "Tim",
         "japanese": "この像にインカの秘密がかくされているのだろうか．．？",
         "thammy": "Could the secrets of the Inca be hidden in this statue..?",
-        "tone": ""
+        "tone": "",
+        "claude": "I wonder if the secrets of the Inca are hidden in this statue...?"
       }
     ]
   },
@@ -55,7 +60,8 @@
         "source": "Narrator",
         "japanese": "このあたりにはひし型のブロックをはめこむ穴が見あたらないようだ。",
         "thammy": "It seems that you couldn't find a hole to insert the water caltrop shaped block into around here.",
-        "tone": ""
+        "tone": "",
+        "claude": "There doesn't seem to be a hole around here to insert the diamond-shaped block into."
       }
     ]
   },
@@ -67,7 +73,8 @@
         "source": "Narrator",
         "japanese": "タイルにひし型のブロックをはめこんだ！",
         "thammy": "Inserted the water caltrop shaped block into the tile!",
-        "tone": ""
+        "tone": "",
+        "claude": "Inserted the diamond-shaped block into the tile!"
       }
     ]
   },
@@ -79,19 +86,22 @@
         "source": "Tim",
         "japanese": "インカの黄金船を求めた探険家だろうか…？",
         "thammy": "Could this have been an explorer seeking the Incan Gold Ship...?",
-        "tone": ""
+        "tone": "",
+        "claude": "Was this an explorer seeking the Incan Gold Ship...?"
       },
       {
         "source": "Tim",
         "japanese": "白骨化したその手にはお守りのようなものがにぎられている。中には紙きれが入っておりこんなことが書かれていた。",
         "thammy": "Their skeletonized hand is grasping what looks like an amulet. Inside, in a weaving with a piece of paper, something like this is written.",
-        "tone": ""
+        "tone": "",
+        "claude": "The skeletal hand is clutching something that looks like an amulet. Inside is a piece of paper with this written on it."
       },
       {
         "source": "Written Note",
         "japanese": "お父さん死なないでね。 ／ ナナ ／ 黄金船を見つけたら、クルックを買おうね。 ／ サーバス",
         "thammy": "Dad, don't die, alright? / Nana / If you find the Gold Ship, buy a Krook, okay? / Savvas",
-        "tone": ""
+        "tone": "",
+        "claude": "Dad, don't die, okay? / Nana / When you find the Gold Ship, buy a Kruk, okay? / Savvas"
       }
     ]
   },
@@ -103,13 +113,15 @@
         "source": "Tim",
         "japanese": "遺体の近くの地面に何かかかれているようだ…",
         "thammy": "It seems like something is laying on the ground around the corpse...",
-        "tone": ""
+        "tone": "",
+        "claude": "Something seems to be written on the ground near the remains..."
       },
       {
         "source": "Written Message",
         "japanese": "あの黄金像さえ動かせれば先へ進むことができたのに…",
         "thammy": "If I could just move those gold statues, I could advance ahead..",
-        "tone": ""
+        "tone": "",
+        "claude": "If only I could move those golden statues, I could have gone forward..."
       }
     ]
   },
@@ -121,13 +133,15 @@
         "source": "Tim",
         "japanese": "この黄金のユカをふむと何か音がするようだ…",
         "thammy": "It seems like if I step on the golden floor tiles, something makes a sound...",
-        "tone": ""
+        "tone": "",
+        "claude": "It seems like stepping on these golden floor tiles makes a sound..."
       },
       {
         "source": "Tim",
         "japanese": "黄金のユカは４つ….何か重りにできるものはないだろうか…",
         "thammy": "There are four golden floors tiles... Isn't the anything that can act as a weight...?",
-        "tone": ""
+        "tone": "",
+        "claude": "There are four golden floor tiles... I wonder if there's anything that could act as a weight..."
       }
     ]
   },
@@ -139,7 +153,8 @@
         "source": "Gaia",
         "japanese": "きずついているようだね。さあ目を閉じてじっとして…",
         "thammy": "You're injured, aren't you? Come on, close your eyes and be still...",
-        "tone": ""
+        "tone": "",
+        "claude": "You're injured, aren't you? Come now, close your eyes and be still..."
       }
     ]
   },
@@ -151,7 +166,8 @@
         "source": "Narrator",
         "japanese": "谷風が何かのメロディーをかなでている。まるでインカの石像が歌っているようだ…",
         "thammy": "The wind of the valley is playing some melody. It's as if the Incan statues are singing...",
-        "tone": ""
+        "tone": "",
+        "claude": "The valley wind is playing a melody. It's as if the Incan statues are singing..."
       }
     ]
   },
@@ -163,7 +179,8 @@
         "source": "System",
         "japanese": "風のメロディーを覚えた！",
         "thammy": "Memorized the Wind's Melody!",
-        "tone": ""
+        "tone": "",
+        "claude": "Learned the Wind Melody!"
       }
     ]
   },
@@ -175,7 +192,8 @@
         "source": "Tim",
         "japanese": "トラップにかかって命を落としたんだ….",
         "thammy": "So he lost his life to the dangling trap...",
-        "tone": ""
+        "tone": "",
+        "claude": "They fell into a trap and lost their life..."
       }
     ]
   },
@@ -187,31 +205,36 @@
         "source": "Tim",
         "japanese": "遺体は何か手帳のようなものをもっているようだ…",
         "thammy": "The corpse seems to be holding something like a notebook...",
-        "tone": ""
+        "tone": "",
+        "claude": "The remains seem to be holding something like a notebook..."
       },
       {
         "source": "Written Text",
         "japanese": "インカについてわかったこと",
         "thammy": "Learnings on the Inca:",
-        "tone": ""
+        "tone": "",
+        "claude": "What I've Learned About the Inca"
       },
       {
         "source": "Written Text",
         "japanese": "インカ地方には文字が存在しなかった。そのため人々は音で言い伝えを後世に残したようである。",
         "thammy": "Writing does not exist in the Incan region. For that reason, it seems that sound is used to preserve legends for future generations.",
-        "tone": ""
+        "tone": "",
+        "claude": "No written language existed in the Incan region. For that reason, it appears that the people preserved their legends for future generations through sound."
       },
       {
         "source": "Written Text",
         "japanese": "私はインカの谷風がメロディをかなでていることに気がつきその解読に成功した。",
         "thammy": "I noticed that that the wind in the Incan valley plays a melody; I've succeeded at decoding it.",
-        "tone": ""
+        "tone": "",
+        "claude": "I discovered that the wind in the Incan valley plays a melody, and I succeeded in decoding it."
       },
       {
         "source": "Written Text",
         "japanese": "「黄金のしきつめられた部屋にてわれをとなえよ…」谷風がかなでるメロディをそこで吹けということだろうか…",
         "thammy": "\"Recite it in the room tiled in gold…\" If you were there and played the melody of the wind in the valley...",
-        "tone": ""
+        "tone": "",
+        "claude": "\"Recite it in the room tiled with gold...\" Could this mean to play the melody that the valley wind performs...?"
       }
     ]
   },
@@ -223,7 +246,8 @@
         "source": "Narrator",
         "japanese": "笛の音があたりにこだまし黄金のブロックが光りはじめた！",
         "thammy": "A golden block began to shine in the area where the flute's sound was echoing!",
-        "tone": ""
+        "tone": "",
+        "claude": "The sound of the flute echoed all around, and the golden blocks began to glow!"
       }
     ]
   },
@@ -235,19 +259,22 @@
         "source": "Gaia",
         "japanese": "このあとそなたはとてつもなくきょだいな敵と戦うことになろう。",
         "thammy": "Next, thou will enter into a battle with an absurdly giant enemy.",
-        "tone": ""
+        "tone": "",
+        "claude": "Next, thou shall battle an enormously massive foe."
       },
       {
         "source": "Gaia",
         "japanese": "この敵はダメージを受けると頭から何本もの光のすじを放ってくる。",
         "thammy": "This enemy emits light rays from its head when it receives damage.",
-        "tone": ""
+        "tone": "",
+        "claude": "When this foe receives damage, it will release many rays of light from its head."
       },
       {
         "source": "Gaia",
         "japanese": "ダメージをあたえたらすぐさま敵の後方にひなんすることだ。",
         "thammy": "Immediately take refuge behind the enemy if you deal damage.",
-        "tone": ""
+        "tone": "",
+        "claude": "After dealing damage, thou must immediately take refuge behind the foe."
       }
     ]
   },
@@ -259,7 +286,8 @@
         "source": "Narrator",
         "japanese": "さいだんの形と像の形が合わないようだ。",
         "thammy": "The shape of the altar and the figure don't seem to match.",
-        "tone": ""
+        "tone": "",
+        "claude": "The shape of the altar and the statue don't seem to match."
       }
     ]
   },
@@ -271,7 +299,8 @@
         "source": "Narrator",
         "japanese": "さいだんにインカの像Ａをささげた。",
         "thammy": "Offered Incan Figure A on the altar.",
-        "tone": ""
+        "tone": "",
+        "claude": "Offered Incan Statue A at the altar."
       }
     ]
   },
@@ -283,7 +312,8 @@
         "source": "Narrator",
         "japanese": "さいだんにインカの像Bをささげた。",
         "thammy": "Offered Incan Figure B at the altar.",
-        "tone": ""
+        "tone": "",
+        "claude": "Offered Incan Statue B at the altar."
       }
     ]
   },
@@ -295,7 +325,8 @@
         "source": "Narrator",
         "japanese": "まものの気配が消えテムの変身が解けてゆく…",
         "thammy": "Having erased all presence of demons, Tim may release his transformation…",
-        "tone": ""
+        "tone": "",
+        "claude": "The presence of demons faded, and Tim's transformation began to fade away..."
       }
     ]
   }

@@ -8,14 +8,14 @@
         "japanese": "リリィ：ここがあたしの村。っていっても家も何にもなくてびっくりしたでしょ？",
         "thammy": "Lillie: This is my village. Even though I said it, you're still surprised that there are no houses, right?",
         "tone": "",
-        "claude": ""
+        "claude": "Lillie: This is my village. Even though I just said that, you're surprised there aren't any houses, right?"
       },
       {
         "source": "Lillie",
         "japanese": "テム。エドワード城の地下であたしを呼んだときのメロディをふいてみてくれる？",
         "thammy": "Tim. Can you try playing for me the melody from when I called out to you in the in the basement of Edward Castle?",
         "tone": "",
-        "claude": ""
+        "claude": "Tim. Can you play the melody from when you answered my call in Edward Castle's basement?"
       }
     ]
   },
@@ -28,7 +28,7 @@
         "japanese": "リリィ：テム。どこにいくの？ここでメロディをふいてよっ。",
         "thammy": "Lillie: Tim. Where are you going? Play the melody here…",
         "tone": "",
-        "claude": ""
+        "claude": "Lillie: Tim. Where are you going? Play the melody here!"
       }
     ]
   },
@@ -41,7 +41,7 @@
         "japanese": "メロディーは風にのって草原中にひろがっていった。",
         "thammy": "The melody rode on the wind and was spread throughout the prairie.",
         "tone": "",
-        "claude": ""
+        "claude": "The melody rode on the wind and spread across the grasslands."
       }
     ]
   },
@@ -54,28 +54,28 @@
         "japanese": "リリィ：おどろいた？",
         "thammy": "Lillie: Did it surprise you?",
         "tone": "",
-        "claude": ""
+        "claude": "Lillie: Surprised?"
       },
       {
         "source": "Lillie",
         "japanese": "このイトリー村には結界があってふつうの人には見えないの。",
         "thammy": "Normally people can't see our Itory village because it has a barrier.",
         "tone": "",
-        "claude": ""
+        "claude": "Itory Village has a barrier around it, so ordinary people can't see it."
       },
       {
         "source": "Lillie",
         "japanese": "しかしおじょうさまにも困ったものよねぇ…",
         "thammy": "Anyway, the little lady was suffering, wasn't she...?",
         "tone": "",
-        "claude": ""
+        "claude": "But honestly, that little lady was quite the handful, wasn't she..."
       },
       {
         "source": "Lillie",
         "japanese": "山道じゃ足が痛いだののどがかわいただのって耳がおかしくなりそうだったわ。",
         "thammy": "On the mountain road, I felt like I was going crazy with hearing \"my feet are hurting\" and \"I'm thirsty\".",
         "tone": "",
-        "claude": ""
+        "claude": "On the mountain path, it was \"my feet hurt\" and \"I'm thirsty\" - I thought my ears were going to fall off."
       }
     ]
   },
@@ -88,14 +88,14 @@
         "japanese": "カレン：しょうがないでしょ。本当に足が痛かったんだから。",
         "thammy": "Karen: I can't help that. After all, my feet really were hurting.",
         "tone": "",
-        "claude": ""
+        "claude": "Karen: I couldn't help it. My feet really did hurt."
       },
       {
         "source": "Lillie",
         "japanese": "リリィ：まあいいわ。とにかくついてきてちょうだい。あたしの家に案内するから。",
         "thammy": "Lillie: Well, I think that's okay. Anyway, please come with me. I'll guide you to my house.",
         "tone": "",
-        "claude": ""
+        "claude": "Lillie: Well, fine. Anyway, come with me. I'll show you to my house."
       }
     ]
   },
@@ -108,21 +108,21 @@
         "japanese": "かつてこの地に住んでいたインカ人たちは文字というものをもたない民族だったわ。",
         "thammy": "The Incans that once lived on this land were a people without a written language.",
         "tone": "",
-        "claude": ""
+        "claude": "The Incans who once lived in this land were a people without written language."
       },
       {
         "source": "Woman",
         "japanese": "彼らのいいつたえは音という形でのこっているの。",
         "thammy": "Their legends were passed down through sound.",
         "tone": "",
-        "claude": ""
+        "claude": "Their legends have been passed down in the form of sound."
       },
       {
         "source": "Woman",
         "japanese": "なにげないメロディにもちゃんと意味があるってことね。",
         "thammy": "They say that there are intentional meanings even in melodies that are sung thoughtlessly.",
         "tone": "",
-        "claude": ""
+        "claude": "Even melodies that seem simple carry true meaning, you see."
       }
     ]
   },
@@ -135,7 +135,7 @@
         "japanese": "この村にはリリィと同い年くらいの子がいないのよ。なかよくしてやってね。",
         "thammy": "There aren't any children around Lillie's age in this village. Please be good friends with her, alright?",
         "tone": "",
-        "claude": ""
+        "claude": "There aren't any other children Lillie's age in this village. Please be good friends with her, alright?"
       }
     ]
   },
@@ -148,35 +148,35 @@
         "japanese": "ローラ：テム！テム！こっちよ！",
         "thammy": "Laura: Tim! Tim! This way!",
         "tone": "",
-        "claude": ""
+        "claude": "Laura: Tim! Tim! Over here!"
       },
       {
         "source": "Bill",
         "japanese": "ビル：無事だったのか、よかったよかった…",
         "thammy": "Bill: So you were safe; good, good...",
         "tone": "",
-        "claude": ""
+        "claude": "Bill: So yer safe. Thank goodness, thank goodness..."
       },
       {
         "source": "Laura",
         "japanese": "ローラ：あたしたちとてもこわい目にあったのよ！",
         "thammy": "Laura: We saw some very frightening sights!",
         "tone": "",
-        "claude": ""
+        "claude": "Laura: We had such a frightening experience!"
       },
       {
         "source": "Laura",
         "japanese": "ブラックパンサーとかいう男が兵士をおおぜいつれてやってきて…",
         "thammy": "A man called Black Panther came taking a large crowd of soldiers with him...",
         "tone": "",
-        "claude": ""
+        "claude": "A man called Black Panther came with a whole army of soldiers..."
       },
       {
         "source": "Bill",
         "japanese": "ビル：あやうく殺されるとこじゃった！",
         "thammy": "Bill: We were almost killed!",
         "tone": "",
-        "claude": ""
+        "claude": "Bill: We were nearly done for!"
       }
     ]
   },
@@ -189,21 +189,21 @@
         "japanese": "ローラ：おじいさんったらオタオタしちゃって。",
         "thammy": "Laura: Bill, oh my...",
         "tone": "",
-        "claude": ""
+        "claude": "Laura: Bill was so flustered."
       },
       {
         "source": "Laura",
         "japanese": "あたしの毒リンゴパイで兵士たちのオナカをこわしてやったのさ。",
         "thammy": "I upset the soldiers' stomachs with my poison apple pie.",
         "tone": "",
-        "claude": ""
+        "claude": "I gave the soldiers quite the stomachache with my special apple pie."
       },
       {
         "source": "Laura",
         "japanese": "そのあいだにやっとこにげだしたんだよ。",
         "thammy": "We barely escaped in that moment.",
         "tone": "",
-        "claude": ""
+        "claude": "We just barely managed to escape while they were... indisposed."
       }
     ]
   },
@@ -216,7 +216,7 @@
         "japanese": "ローラ：そうそう。リリィ、ご苦労様でした。それにカレンひめさままでごいっしょとは。",
         "thammy": "Laura: Oh, that's right. Lillie, thank you for your work. Come inside with Princess Karen.",
         "tone": "",
-        "claude": ""
+        "claude": "Laura: Oh yes. Lillie, thank you for your hard work. And you even brought Princess Karen with you."
       }
     ]
   },
@@ -229,14 +229,14 @@
         "japanese": "リリィ：だってさあ勝手についてくるんだもん。",
         "thammy": "Lillie: Well then, follow me if you'd like.",
         "tone": "",
-        "claude": ""
+        "claude": "Lillie: Well, she just came along on her own!"
       },
       {
         "source": "Lillie",
         "japanese": "テム。この家があたしの家なの。村を見物したければしてもいいけどあとでここへもどってきてね。",
         "thammy": "Tim. This house is mine. But if you want to sightsee around the village before you come back, that's okay.",
         "tone": "",
-        "claude": ""
+        "claude": "Tim. This is my house. If you want to look around the village first, that's fine, but come back here later, okay?"
       }
     ]
   },
@@ -249,7 +249,7 @@
         "japanese": "カレン：リリィまってよ。あたしも行くわ。",
         "thammy": "Karen: Wait, Lillie. I'll go too.",
         "tone": "",
-        "claude": ""
+        "claude": "Karen: Wait, Lillie. I'm coming too."
       }
     ]
   },
@@ -262,14 +262,14 @@
         "japanese": "多くの人々がインカの黄金を求めてこの地へやってきたよ。",
         "thammy": "Many people come to this land in search of Incan gold.",
         "tone": "",
-        "claude": ""
+        "claude": "Many people have come to this land seeking Incan gold."
       },
       {
         "source": "Man",
         "japanese": "だがインカの遺跡へ足をふみいれた者は結局もどってこなかったな…",
         "thammy": "However, I guess that those who trespass into Incan ruins haven't returned...",
         "tone": "",
-        "claude": ""
+        "claude": "But those who entered the Incan ruins never came back..."
       }
     ]
   },
@@ -282,7 +282,7 @@
         "japanese": "遺跡は古代人たちのおはか。なぜそっとしておいてあげないのでしょう…",
         "thammy": "The ruins the grave of an ancient people. Shouldn't we leave it alone...?",
         "tone": "",
-        "claude": ""
+        "claude": "The ruins are a grave for the ancient people. Why can't they just leave it in peace...?"
       }
     ]
   },
@@ -295,7 +295,7 @@
         "japanese": "ここはそのむかし世界がほろびかけたとき救世主があらわれた場所といわれています。",
         "thammy": "It's said around here that when the world of old was falling into ruin, a saviour appeared.",
         "tone": "",
-        "claude": ""
+        "claude": "It is said that in the distant past, when the world was on the brink of ruin, a savior appeared in this very place."
       }
     ]
   },
@@ -308,14 +308,14 @@
         "japanese": "このところ世界中の町で原因不明の病気にかかる人や行方不明者が増えているみたい…",
         "thammy": "Back then, things like the spread of mysterious illnesses without known causes or disappearances seemed to be increasing in towns around the world…",
         "tone": "",
-        "claude": ""
+        "claude": "Lately, it seems people with mysterious illnesses and disappearances have been increasing in towns all over the world..."
       },
       {
         "source": "Woman",
         "japanese": "この星がいつまでも平和でありますように。",
         "thammy": "I hope that there is peace on this planet forever.",
         "tone": "",
-        "claude": ""
+        "claude": "May this world remain at peace forever."
       }
     ]
   },
@@ -328,14 +328,14 @@
         "japanese": "テムの力サイコダッシュはカベや障害物をはかいすることができる。",
         "thammy": "Thy power, Psycho Dash, can destroy such things as walls and obstacles.",
         "tone": "",
-        "claude": ""
+        "claude": "Thy power, Psycho Dash, can destroy walls and obstacles."
       },
       {
         "source": "Gaia",
         "japanese": "あたりにはつねに気をくばりあやしい場所を見つけたらはかいできないかためすことだ。",
         "thammy": "Try it on suspicious places thou have noticed which thou cannot destroy.",
         "tone": "",
-        "claude": ""
+        "claude": "Be ever mindful of thy surroundings, and when thou findest a suspicious place, try to destroy it."
       }
     ]
   },
@@ -348,7 +348,7 @@
         "japanese": "ヤミの力サイコダッシュが使えるようになった！",
         "thammy": "Became able to use the Power of Darkness, Psycho Dash!",
         "tone": "",
-        "claude": ""
+        "claude": "Learned the Power of Darkness: Psycho Dash!"
       }
     ]
   },
@@ -361,7 +361,7 @@
         "japanese": "サイコダッシュは少年テムだけが使うことのできるちから。",
         "thammy": "The Psycho Dash is a power that only Tim, the young boy, can use.",
         "tone": "",
-        "claude": ""
+        "claude": "Psycho Dash is a power that only thou, young Tim, canst wield."
       }
     ]
   },
@@ -374,14 +374,14 @@
         "japanese": "体当たりこうげきで障害物やくずれやすいカベをはかいすることができるのだ。",
         "thammy": "With a body check attack thou canst easily crush things like obstacles and destructible walls.",
         "tone": "",
-        "claude": ""
+        "claude": "With a charging attack, thou canst destroy obstacles and crumbling walls."
       },
       {
         "source": "Gaia",
         "japanese": "こうげきボタンでちからをためて使うがよい…",
         "thammy": "Thou shouldst charge up using the attack button...",
         "tone": "",
-        "claude": ""
+        "claude": "Charge thy power with the attack button and release it..."
       }
     ]
   },
@@ -394,7 +394,7 @@
         "japanese": "そこの坂をかけおりてそのまま走っていってごらん。きっとびっくりするよ。",
         "thammy": "Try running down that hill over there. You'll definitely be surprised.",
         "tone": "",
-        "claude": ""
+        "claude": "Try running down that slope over there and just keep going. You'll be surprised!"
       }
     ]
   },
@@ -407,7 +407,7 @@
         "japanese": "カレン：しゃくだけどすてきな村ね。風がさわやかできもちいい…",
         "thammy": "Karen: It's a charming village, right? The wind feels nice and refreshing...",
         "tone": "",
-        "claude": ""
+        "claude": "Karen: It's annoying to admit, but it's a lovely village. The wind feels so refreshing..."
       }
     ]
   },
@@ -420,7 +420,7 @@
         "japanese": "リリィ：長老様は花畑の中よ。もう何才だかわからないくらいお年寄りだけどとても物知りなの。会ってみたら？",
         "thammy": "Lillie: The Elder is in the flower field. I don't know how old he is, but he's a very knowledgeable person. Do you want to try and meet him?",
         "tone": "",
-        "claude": ""
+        "claude": "Lillie: The Elder is in the flower garden. He's so old I don't even know how many years he's lived, but he's incredibly wise. Want to meet him?"
       }
     ]
   },
@@ -433,7 +433,7 @@
         "japanese": "ローラ：なんだかイヤな予感がするんですよ。",
         "thammy": "Laura: Somehow I had an unpleasant hunch.",
         "tone": "",
-        "claude": ""
+        "claude": "Laura: I have a bad feeling about something..."
       }
     ]
   },
@@ -446,7 +446,7 @@
         "japanese": "ビル：さあさ、長老さまに会うがいい。きっと何か知っておられるから。",
         "thammy": "Bill: Go on, you should meet with the Elder. He definitely knows something, after all.",
         "tone": "",
-        "claude": ""
+        "claude": "Bill: Go on now, meet with the Elder. He's bound to know something."
       }
     ]
   },
@@ -459,14 +459,14 @@
         "japanese": "テムの後ろからかぼそい声が聞こえてきた…",
         "thammy": "Tim could hear a feeble voice from behind him…",
         "tone": "",
-        "claude": ""
+        "claude": "A faint voice called out from behind Tim..."
       },
       {
         "source": "Mysterious voice",
         "japanese": "不思議な声：よくきた、テム…",
         "thammy": "Mysterious voice: It was good that you came, Tim...",
         "tone": "",
-        "claude": ""
+        "claude": "Mysterious voice: Well come, Tim..."
       }
     ]
   },
@@ -479,7 +479,7 @@
         "japanese": "長老：ここじゃ、ここじゃ。花の中じゃよ。あまりに長生きしすぎてな。",
         "thammy": "Elder: Here, I'm over here. I'm in the flowers. I've extended my life too long.",
         "tone": "",
-        "claude": ""
+        "claude": "Elder: Here, here I am. Within the flowers. I have lived far too long..."
       }
     ]
   },
@@ -492,63 +492,63 @@
         "japanese": "長老：こうやって花の精たちに守ってもらわないと生きておれんのじゃ。",
         "thammy": "Elder: If the flower fairies aren't giving me their protection like this, I won't be able to survive.",
         "tone": "",
-        "claude": ""
+        "claude": "Elder: Without the protection of the flower spirits, I can no longer survive."
       },
       {
         "source": "Elder",
         "japanese": "ところでおまえは父親によく似ておるのう。",
         "thammy": "While we're talking, you look so much like your parents.",
         "tone": "",
-        "claude": ""
+        "claude": "But tell me, thou dost resemble thy father greatly."
       },
       {
         "source": "Elder",
         "japanese": "おまえの父親がこの村にやってきたのがきのうのことのようだ。",
         "thammy": "It seems like yesterday that your father came to our village.",
         "tone": "",
-        "claude": ""
+        "claude": "It seems but yesterday that thy father came to this village."
       },
       {
         "source": "Tim",
         "japanese": "テム：とうさんが…",
         "thammy": "Tim: My dad came to your...",
         "tone": "",
-        "claude": ""
+        "claude": "Tim: My dad..."
       },
       {
         "source": "Elder",
         "japanese": "長老：おまえのかあさん..つまりおまえの祖父母ビルとローラの一人娘シーラはたいそうな美人でな。",
         "thammy": "Elder: Your mother... Putting in briefly. Sheila, your grandparents Bill and Laura's daughter, was an extremely beautiful woman.",
         "tone": "",
-        "claude": ""
+        "claude": "Elder: Thy mother... that is to say, Sheila, the only daughter of thy grandparents Bill and Laura, was a woman of extraordinary beauty."
       },
       {
         "source": "Elder",
         "japanese": "おまえの父親は一目ぼれしてこの村からうばっていってしまったのじゃ。",
         "thammy": "Your father fell in love at first sight and stole her from this village.",
         "tone": "",
-        "claude": ""
+        "claude": "Thy father fell in love at first sight and spirited her away from this village."
       },
       {
         "source": "Elder",
         "japanese": "イトリー族の者はみな不思議な力をもっているが、シーラはとりわけその力が強かった。",
         "thammy": "Everyone in the Itory clan holds a mysterious power, but Sheila had a power that was stronger than any of ours.",
         "tone": "",
-        "claude": ""
+        "claude": "All of the Itory Clan possess mysterious powers, but Sheila's power was especially strong."
       },
       {
         "source": "Elder",
         "japanese": "この村に結界をはって外から見えなくしたのもあの娘だったがおまえの父さんはいともたやすく入ってきおった。",
         "thammy": "She even erected the barrier that renders this village invisible from the outside, but your father came inside very easily.",
         "tone": "",
-        "claude": ""
+        "claude": "'Twas she who erected the barrier that conceals this village from the outside world, yet thy father entered with great ease."
       },
       {
         "source": "Elder",
         "japanese": "思えば、あの男も不思議な人間じゃった…",
         "thammy": "When I think about it, that man was also a mysterious human being...",
         "tone": "",
-        "claude": ""
+        "claude": "When I think upon it, he too was a most mysterious soul..."
       }
     ]
   },
@@ -561,7 +561,7 @@
         "japanese": "それで、おまえは父によばれたのじゃな？ ／ はい ／ いいえ",
         "thammy": "That being said, were you summoned by your father? / Yes / No",
         "tone": "",
-        "claude": ""
+        "claude": "Elder: So then, wast thou summoned by thy father? / Yes / No"
       }
     ]
   },
@@ -574,7 +574,7 @@
         "japanese": "長老：何？よばれていないと。。では悪いしるしはマチガイだったのか…",
         "thammy": "Elder: What? If you weren't summoned.. Then was the bad mark a mistake...?",
         "tone": "",
-        "claude": ""
+        "claude": "Elder: What? Thou wast not summoned... Then were the ill omens mistaken...?"
       }
     ]
   },
@@ -587,7 +587,7 @@
         "japanese": "長老：なるほど…ではローラの予感はあたったのか。",
         "thammy": "Elder: I understand... Well, Laura's hunch was right, wasn't it.",
         "tone": "",
-        "claude": ""
+        "claude": "Elder: I see... Then Laura's premonition was true."
       }
     ]
   },
@@ -600,7 +600,7 @@
         "japanese": "で、ゆくつもりなのか？ ／ はい ／ いいえ",
         "thammy": "So, do you intend to go? / Yes / No",
         "tone": "",
-        "claude": ""
+        "claude": "Elder: And dost thou intend to go? / Yes / No"
       }
     ]
   },
@@ -613,7 +613,7 @@
         "japanese": "長老：なんと。父親に似ずおとなしい子じゃのう。",
         "thammy": "Elder: What. Unlike your father, you're a meek child.",
         "tone": "",
-        "claude": ""
+        "claude": "Elder: What? Unlike thy father, thou art a timid child."
       }
     ]
   },
@@ -626,21 +626,21 @@
         "japanese": "長老：よかろう。ならばおまえにこの村に伝わるインカの神像をたくすことにしよう。",
         "thammy": "Elder: Very well. In that case, I will entrust you with the Incan idol that is handed down in this village.",
         "tone": "",
-        "claude": ""
+        "claude": "Elder: Very well. Then I shall entrust thee with the Incan statue that has been handed down in this village."
       },
       {
         "source": "Elder",
         "japanese": "インカのなぞをとくカギとなる２体の神像…それらは数百年の間人の手にふれておらぬ。",
         "thammy": "The two idols will be the key to unravel the mysteries of the Inca... They have passed through human hands for many hundreds of years.",
         "tone": "",
-        "claude": ""
+        "claude": "Two divine statues hold the key to unlocking the mysteries of the Inca... They have not been touched by human hands for many hundreds of years."
       },
       {
         "source": "Elder",
         "japanese": "神像のひとつはこの下のどうくつに安置されておる。ちえをふりしぼって手に入れるがよい。",
         "thammy": "One idol is enshrined in the cave below. Muster up your wisdom and you may take it.",
         "tone": "",
-        "claude": ""
+        "claude": "One of the statues is enshrined in the cave beneath this place. Summon all thy wisdom and claim it."
       }
     ]
   },
@@ -653,42 +653,42 @@
         "japanese": "長老：おおっそれこそインカの神像！よくぞ見つけ出した！",
         "thammy": "Elder: Oh...! That's definitely the Incan idol! Wonderful; you've discovered it!",
         "tone": "",
-        "claude": ""
+        "claude": "Elder: Oh! That is indeed the Incan statue! Well done in finding it!"
       },
       {
         "source": "Elder",
         "japanese": "おまえはインカのナゾをとくためにこの世に生まれたのかもしれんな…",
         "thammy": "I think you might have been born to discover the mysteries of the Inca…",
         "tone": "",
-        "claude": ""
+        "claude": "Thou mayest have been born into this world to unravel the mysteries of the Inca..."
       },
       {
         "source": "Elder",
         "japanese": "ではこの村に伝わる伝説をひとつおしえよう。",
         "thammy": "Anyway, I'll teach you a legend that is handed down in this village.",
         "tone": "",
-        "claude": ""
+        "claude": "Now then, I shall teach thee a legend that has been handed down in this village."
       },
       {
         "source": "Elder",
         "japanese": "遺跡の地下の「ラライのガケ」にて神の息のとどかぬところへインカの神をおさめよ。",
         "thammy": "At the \"Cliff of Rarai\", underground beneath the ruin. Offer the Incan gods where the breath of the gods does not reach.",
         "tone": "",
-        "claude": ""
+        "claude": "At the Cliff of Larai, deep beneath the ruins, place the Incan gods where the breath of the gods cannot reach."
       },
       {
         "source": "Elder",
         "japanese": "谷風がその者を黄金の船のもとへ導くであろう。",
         "thammy": "The valley wind will guide you to the location of the golden ship.",
         "tone": "",
-        "claude": ""
+        "claude": "The valley wind shall guide thee unto the golden ship."
       },
       {
         "source": "Elder",
         "japanese": "わかったかな？ ／ はい ／ いいえ",
         "thammy": "Did you understand that? / Yes / No",
         "tone": "",
-        "claude": ""
+        "claude": "Dost thou understand? / Yes / No"
       }
     ]
   },
@@ -701,14 +701,14 @@
         "japanese": "長老：もう一つは月の種族がもつと言われておる。",
         "thammy": "Elder: It is said that one more is held by the Race of the Moon.",
         "tone": "",
-        "claude": ""
+        "claude": "Elder: The other is said to be held by the Tribe of the Moon."
       },
       {
         "source": "Elder",
         "japanese": "そこへはリリィに道案内してもらうがよい。気をつけてな。",
         "thammy": "Lillie will show you the way there. Be careful.",
         "tone": "",
-        "claude": ""
+        "claude": "Have Lillie guide thee there. Take care, child."
       }
     ]
   },
@@ -721,28 +721,28 @@
         "japanese": "ローラ：この村にはむかしからいい伝えがあってね、",
         "thammy": "Laura: Hey, there was a nice legend in this village from long ago,",
         "tone": "",
-        "claude": ""
+        "claude": "Laura: This village has an ancient legend passed down through the generations..."
       },
       {
         "source": "Laura",
         "japanese": "善なる心をもってヤミの力あやつる子供が現われ、世界を救うために旅立つだろう．．",
         "thammy": "A child with a virtuous heart that wields the Power of Darkness will appear, and embark to save the world…",
         "tone": "",
-        "claude": ""
+        "claude": "\"A child with a pure heart who wields the Power of Darkness shall appear, and depart on a journey to save the world...\""
       },
       {
         "source": "Laura",
         "japanese": "その者が現われるとき、きょだいなすい星が地のふちをかすめ大いなるヤミの力が復活するであろう…",
         "thammy": "When they appear, a great Power of Darkness will revive to graze the edge of the Earth with a gigantic comet...",
         "tone": "",
-        "claude": ""
+        "claude": "\"When that one appears, a great comet shall graze the edge of the Earth, and a mighty Power of Darkness shall be reborn...\""
       },
       {
         "source": "Laura",
         "japanese": "これがイトリー族に伝わる言葉なんだよ。",
         "thammy": "These are the words handed down through the Itory clan.",
         "tone": "",
-        "claude": ""
+        "claude": "These are the words handed down through the Itory Clan."
       }
     ]
   },
@@ -755,28 +755,28 @@
         "japanese": "ビル：長老さまはまだお元気だったかい？",
         "thammy": "Bill: Was the Elder still doing well?",
         "tone": "",
-        "claude": ""
+        "claude": "Bill: Was the Elder still in good health?"
       },
       {
         "source": "Bill",
         "japanese": "ところでエドワード城の地下でまものとたたかったとき銀色にかがやく石をひろわなかったかい？",
         "thammy": "By the way, when you were fighting demons in Edward Castle's basement, didn't you gather shining silver stones?",
         "tone": "",
-        "claude": ""
+        "claude": "By the way, when ye were fighting monsters in Edward Castle's dungeon, didn't ye pick up some shining silvery stones?"
       },
       {
         "source": "Bill",
         "japanese": "あの石には不思議な力があってな",
         "thammy": "I think those stones have a mysterious power.",
         "tone": "",
-        "claude": ""
+        "claude": "Those stones have a mysterious power, ye see."
       },
       {
         "source": "Bill",
         "japanese": "１００ためると敵にやられてもすぐ近くの場所でふとわれにかえるんだそうじゃ。",
         "thammy": "It seems that if you amass 100 of them, you will immediately come to your senses at a nearby place after being killed by an enemy.",
         "tone": "",
-        "claude": ""
+        "claude": "They say if ye collect 100 of 'em, even if an enemy does ye in, ye'll come to yer senses at a nearby spot."
       }
     ]
   },
@@ -789,28 +789,28 @@
         "japanese": "リリィ：え？月の種族？",
         "thammy": "Lillie: Huh? The Race of the Moon?",
         "tone": "",
-        "claude": ""
+        "claude": "Lillie: Huh? The Tribe of the Moon?"
       },
       {
         "source": "Lillie",
         "japanese": "うん知ってるよ。種族っていうよりカゲのような不思議な生命体ね。",
         "thammy": "Yeah, I know them. They're mysterious lifeforms that better resemble shadows rather than a race.",
         "tone": "",
-        "claude": ""
+        "claude": "Yeah, I know about them. They're more like mysterious shadow creatures than a tribe, really."
       },
       {
         "source": "Lillie",
         "japanese": "この近くの高い高い山の頂上が彼らのすみかになってるんだけど。",
         "thammy": "They dwell on the summit of a tall, tall mountain nearby, but...",
         "tone": "",
-        "claude": ""
+        "claude": "They live at the top of a really, really tall mountain near here, but..."
       },
       {
         "source": "Lillie",
         "japanese": "行ってみる？ ／ うん行ってみたい ／ やっぱりやめとく",
         "thammy": "…do you want to try going there? / Yeah, I want to go / Actually, nevermind",
         "tone": "",
-        "claude": ""
+        "claude": "Want to go see them? / Yeah, I want to go / On second thought, no"
       }
     ]
   },
@@ -823,7 +823,7 @@
         "japanese": "リリィ：そうね。彼らをおこらすと命がないって言うし。やめといたほうがいいかもね。",
         "thammy": "Lillie: Is that so. After all, they say that those who anger them lose their lives. Maybe it's better if you don't, right?",
         "tone": "",
-        "claude": ""
+        "claude": "Lillie: Yeah, probably smart. They say if you anger them, you'll lose your life. Maybe it's better not to go."
       }
     ]
   },
@@ -836,7 +836,7 @@
         "japanese": "リリィ：わかった。じゃ案内するね。",
         "thammy": "Lillie: I understand. Well, I'll guide you.",
         "tone": "",
-        "claude": ""
+        "claude": "Lillie: Okay. I'll show you the way."
       }
     ]
   },
@@ -849,14 +849,14 @@
         "japanese": "カレン：あたしもいくっ！月の種族って見てみたいわ。",
         "thammy": "Karen: I'm going too...! I want to try seeing the Race of the Moon.",
         "tone": "",
-        "claude": ""
+        "claude": "Karen: I'm going too! I want to see the Tribe of the Moon!"
       },
       {
         "source": "Karen",
         "japanese": "せっかくきゅうくつなお城をぬけだせたんですもの。何でも見たり聞いたりしたいの。",
         "thammy": "I want to experiencing things with my own eyes and ears, especially since I was just barely able to escape the castle.",
         "tone": "",
-        "claude": ""
+        "claude": "I finally escaped that suffocating castle. I want to see and hear everything I can!"
       }
     ]
   },
@@ -869,28 +869,28 @@
         "japanese": "リリィ：だーめっ！おじょうさまには危険すぎるもん。",
         "thammy": "Lillie: You can't...! It's too dangerous for a little lady like you.",
         "tone": "",
-        "claude": ""
+        "claude": "Lillie: No way! It's way too dangerous for a little lady!"
       },
       {
         "source": "Lillie",
         "japanese": "テムにめいわくかけたくなかったらここでおとなしくまってて。",
         "thammy": "If you don't want to bother Tim, wait here obediently.",
         "tone": "",
-        "claude": ""
+        "claude": "If you don't want to be a bother to Tim, just wait here quietly."
       },
       {
         "source": "Karen",
         "japanese": "カレン：ふんっ。なによっ。あたしばっかりのけものにして。",
         "thammy": "Karen: Hmph... Why… I'm the only one being left out.",
         "tone": "",
-        "claude": ""
+        "claude": "Karen: Hmph! What's the big idea?! You're leaving me out again!"
       },
       {
         "source": "Karen",
         "japanese": "ローラおばあさまとお話してるからいいわよっ！いーーーーだっ！！！",
         "thammy": "It'll talk to Mrs. Laura, so it's okay! It's fiiiine...!!",
         "tone": "",
-        "claude": ""
+        "claude": "Fine! I'll just talk with Grandma Laura instead! So there!!!"
       }
     ]
   },
@@ -903,28 +903,28 @@
         "japanese": "テム：あーあすねちゃった…",
         "thammy": "Tim: Oh no, she's pouting...",
         "tone": "",
-        "claude": ""
+        "claude": "Tim: Aw, now she's sulking..."
       },
       {
         "source": "Lillie",
         "japanese": "リリィ：わがままなおじょうさまにはいい薬よ。",
         "thammy": "Lillie: It's just what the doctor ordered for a selfish little lady.",
         "tone": "",
-        "claude": ""
+        "claude": "Lillie: It's good medicine for a spoiled little lady."
       },
       {
         "source": "Lillie",
         "japanese": "さあ山道がたいへんだけどがんばっていきましょ。",
         "thammy": "Alright, the mountain road is difficult, but let's tough it out.",
         "tone": "",
-        "claude": ""
+        "claude": "Come on, the mountain path is rough, but let's do our best!"
       },
       {
         "source": "Narrator",
         "japanese": "こうしてテムとリリィは月の種族の住む山の頂上へと向かうのであった。",
         "thammy": "Like this, Tim and Lillie headed to the summit where the Race of the Moon live.",
         "tone": "",
-        "claude": ""
+        "claude": "And so, Tim and Lillie set out for the mountain peak where the Tribe of the Moon dwells."
       }
     ]
   }

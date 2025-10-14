@@ -7,13 +7,15 @@
         "source": "Tim",
         "japanese": "テム：鉱山の中は不気味なまでに静まりかえっている。",
         "thammy": "Tim: It had fallen to an eerie silence inside of the mine.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: The mine had fallen eerily silent."
       },
       {
         "source": "Tim",
         "japanese": "どうくつのおくの方からときおり聞こえるドレイたちの悲鳴に背筋が寒くなった…",
         "thammy": "But the screams of the slaves could sometimes be heard from the direction of the cave's depths, sending shivers down my spine…",
-        "tone": ""
+        "tone": "",
+        "claude": "The screams of slaves I occasionally heard from deep in the cave made my spine go cold..."
       }
     ]
   },
@@ -25,7 +27,8 @@
         "source": "Sign",
         "japanese": "（リフトのり場入り口）リフトにはそこのとびらより向かうこと。",
         "thammy": "(Entrance to lift platform) Head to the gate there if you're going to the lift.",
-        "tone": ""
+        "tone": "",
+        "claude": "(Lift Platform Entrance) To reach the lift, proceed through the gate."
       }
     ]
   },
@@ -37,7 +40,8 @@
         "source": "Narrator",
         "japanese": "このとびらにはカギ穴がひとつついているようだ。",
         "thammy": "There seems to be one keyhole on this gate.",
-        "tone": ""
+        "tone": "",
+        "claude": "This gate appears to have one keyhole."
       }
     ]
   },
@@ -49,7 +53,8 @@
         "source": "Slave",
         "japanese": "この鉱山には私もふくめて８人のドレイが働かされています。どうか助けてあげて下さい。",
         "thammy": "Myself included, there are eight slaves working in this mine. Please save them somehow.",
-        "tone": ""
+        "tone": "",
+        "claude": "Including me, eight slaves have been put to work in this mine. Please help them."
       }
     ]
   },
@@ -61,7 +66,8 @@
         "source": "Slave",
         "japanese": "ドレイ：お願いです！このくさりを切ってください！！",
         "thammy": "Slave: I'm begging you! Please cut this chain!!",
-        "tone": ""
+        "tone": "",
+        "claude": "Slave: Please! Cut this chain!!"
       }
     ]
   },
@@ -73,25 +79,29 @@
         "source": "Slave",
         "japanese": "助けてくれてありがとう。おれいにいいことを教える。",
         "thammy": "Thank you for saving me. To show my thanks, I'll tell you something good.",
-        "tone": ""
+        "tone": "",
+        "claude": "Thank you for freeing me. As thanks, I'll tell you something useful."
       },
       {
         "source": "Slave",
         "japanese": "この鉱山にはかくされた部屋があってその入り口はカベと見分けがつきません。",
         "thammy": "This mine has hidden rooms; their entrances aren't distinct from the walls.",
-        "tone": ""
+        "tone": "",
+        "claude": "This mine has hidden rooms, and their entrances are indistinguishable from the walls."
       },
       {
         "source": "Slave",
         "japanese": "ですがカベのすきまからふきこむ風に気をくばれば見つけられるって話です。",
         "thammy": "But a draft blows out of the cracks in the entrances; they say that if you can find them if you pay attention.",
-        "tone": ""
+        "tone": "",
+        "claude": "But they say you can find them if you pay attention to the drafts blowing through the cracks."
       },
       {
         "source": "Slave",
         "japanese": "もっともあなたのようなさらさらのカミならなびくからすぐわかるでしょうね。",
         "thammy": "Although, with flowing hair like yours, you'll probably know immediately when it starts to flutter, huh?",
-        "tone": ""
+        "tone": "",
+        "claude": "Though with silky hair like yours, it'll flutter right away, so you'll probably notice immediately."
       }
     ]
   },
@@ -103,19 +113,22 @@
         "source": "Slave",
         "japanese": "ありがとうございます。落ばんで生きうめになっていたんです…",
         "thammy": "Thank you very much. I was buried alive in a cave-in...",
-        "tone": ""
+        "tone": "",
+        "claude": "Thank you so much. I was buried alive in a cave-in..."
       },
       {
         "source": "Slave",
         "japanese": "もうちょっとおそかったらどうなっていたことか…",
         "thammy": "How would it have turned out if you came just a bit later...",
-        "tone": ""
+        "tone": "",
+        "claude": "If you'd been just a bit later, I don't know what would have happened..."
       },
       {
         "source": "Slave",
         "japanese": "私からのほんの気持ちをプレゼントさせてください。後で宝石商さんのところへ赤い宝石を３つ送っておきますね。",
         "thammy": "Please take a modest present from me. I'll send 3 Red Jewel to Mr. Jewel Merchant's location later, okay?",
-        "tone": ""
+        "tone": "",
+        "claude": "Please let me give you a small token of my thanks. I'll send 3 Red Jewels to the jeweler later."
       }
     ]
   },
@@ -127,19 +140,22 @@
         "source": "Gaia",
         "japanese": "私は生命のみなもとガイア。そなたにひとつ助言をあたえようと思う。",
         "thammy": "I am the fountainhead of life, Gaia. I think that I will bestow upon thee one suggestion.",
-        "tone": ""
+        "tone": "",
+        "claude": "I am Gaia, the fountainhead of life. I shall bestow upon thee one counsel."
       },
       {
         "source": "Gaia",
         "japanese": "フリーダンの力ダークフライヤーはつるぎのとどかない場所にいる敵をたおすことができるのだ。",
         "thammy": "Enemies that thy sword cannot reach can be defeated with Friedan's power, Dark Fryer.",
-        "tone": ""
+        "tone": "",
+        "claude": "Friedan's power, Dark Friar, can defeat enemies that thy sword cannot reach."
       },
       {
         "source": "Gaia",
         "japanese": "敵をすべてたおしていけば必ず道はひらけるものだ。",
         "thammy": "If thou defeat all enemies, the road can always be opened.",
-        "tone": ""
+        "tone": "",
+        "claude": "If thou defeatest all enemies, the path shall surely open."
       }
     ]
   },
@@ -151,19 +167,22 @@
         "source": "Narrator",
         "japanese": "ヤミの力ダークフライヤーが使えるようになった！",
         "thammy": "Became able to use the Power of Darkness, Dark Fryer!",
-        "tone": ""
+        "tone": "",
+        "claude": "Can now use the Power of Darkness: Dark Friar!"
       },
       {
         "source": "Narrator",
         "japanese": "ダークフライヤーはヤミの戦士フリーダンだけが使えるヤミのちから。",
         "thammy": "Dark Fryer is a Power of Darkness that is only usable by Friedan, the Warrior of Darkness.",
-        "tone": ""
+        "tone": "",
+        "claude": "Dark Friar is a Power of Darkness that only Friedan, the Dark Knight, can use."
       },
       {
         "source": "Narrator",
         "japanese": "オーラのパワーを放ち遠くはなれた敵を焼きつくすことができるのだ。こうげきボタンで力をためて使うがよい…",
         "thammy": "By shooting aura power, thou canst incinerate enemies that are far from thee. Thou canst charge up with the attack button...",
-        "tone": ""
+        "tone": "",
+        "claude": "It releases aura power to incinerate distant enemies. Charge thy power with the attack button..."
       }
     ]
   },
@@ -175,13 +194,15 @@
         "source": "Slave",
         "japanese": "ダイヤモンド鉱山の深部にもはたらかされている人たちがいます。",
         "thammy": "There are people who have been put to work even in the depths of the diamond mine.",
-        "tone": ""
+        "tone": "",
+        "claude": "There are people forced to work even in the depths of the diamond mine."
       },
       {
         "source": "Slave",
         "japanese": "このカギを使ってどうか助けてあげて下さい。",
         "thammy": "Please use this key and save them somehow.",
-        "tone": ""
+        "tone": "",
+        "claude": "Please use this key and help them."
       }
     ]
   },
@@ -193,7 +214,8 @@
         "source": "Narrator",
         "japanese": "リフトのカギを手にいれた！",
         "thammy": "Got the lift key!",
-        "tone": ""
+        "tone": "",
+        "claude": "Got the Lift Key!"
       }
     ]
   },
@@ -205,7 +227,8 @@
         "source": "Narrator",
         "japanese": "リフトのり場のカギを使った！",
         "thammy": "Used the lift platform key!",
-        "tone": ""
+        "tone": "",
+        "claude": "Used the Lift Key!"
       }
     ]
   },
@@ -217,7 +240,8 @@
         "source": "Narrator",
         "japanese": "カギ穴が二つついているようだ。",
         "thammy": "There seems to be two keyholes on this gate.",
-        "tone": ""
+        "tone": "",
+        "claude": "This gate appears to have two keyholes."
       }
     ]
   },
@@ -229,7 +253,8 @@
         "source": "Narrator",
         "japanese": "鉱山のカギを見つけた！",
         "thammy": "Found the key to the mine!",
-        "tone": ""
+        "tone": "",
+        "claude": "Found a Mine Key!"
       }
     ]
   },
@@ -241,13 +266,15 @@
         "source": "Slave",
         "japanese": "ドレイ：あありがとう！！このご恩は決して忘れませんよ。",
         "thammy": "Slave: T-thank you!! I will never forget this favour.",
-        "tone": ""
+        "tone": "",
+        "claude": "Slave: Th-thank you!! I'll never forget this kindness."
       },
       {
         "source": "Slave",
         "japanese": "このカギをもっていって下さい。",
         "thammy": "Please take this key.",
-        "tone": ""
+        "tone": "",
+        "claude": "Please take this key."
       }
     ]
   },
@@ -259,7 +286,8 @@
         "source": "Narrator",
         "japanese": "鉱山のカギを手にいれた！",
         "thammy": "Got a mine key!",
-        "tone": ""
+        "tone": "",
+        "claude": "Got a Mine Key!"
       }
     ]
   },
@@ -271,7 +299,8 @@
         "source": "Tim",
         "japanese": "カギを二つとも開けないととびらは開きそうにないな…",
         "thammy": "I guess the door most likely can't be opened if both the locks aren't both unlocked...",
-        "tone": ""
+        "tone": "",
+        "claude": "The door probably won't open unless I unlock both locks..."
       }
     ]
   },
@@ -283,7 +312,8 @@
         "source": "Narrator",
         "japanese": "カギは二つとももっている…カギ穴にさしこんでみますか？ ／ はい ／ いいえ",
         "thammy": "You're holding both keys... Will you try inserting them into the keyholes? / Yes / No",
-        "tone": ""
+        "tone": "",
+        "claude": "You have both keys... Insert them into the keyholes? / Yes / No"
       }
     ]
   },
@@ -295,7 +325,8 @@
         "source": "Narrator",
         "japanese": "カギが不気味な音をたててまわった。",
         "thammy": "The keys made an eerie sound as they turned.",
-        "tone": ""
+        "tone": "",
+        "claude": "The keys turned with an eerie sound."
       }
     ]
   },
@@ -307,7 +338,8 @@
         "source": "Rehmuus",
         "japanese": "レムス ／ どうかくさりを切って下さいっ！",
         "thammy": "Rehmuus / Please cut the chain somehow...!",
-        "tone": ""
+        "tone": "",
+        "claude": "Rehmuus / Please, cut this chain!"
       }
     ]
   },
@@ -319,13 +351,15 @@
         "source": "Rehmuus",
         "japanese": "レムス：ありがとう。ぼくらのこきょうの村は海をこえたはるか遠くの場所。",
         "thammy": "Rehmuus: Thank you. We were born in a village from a distant, far away place across the ocean.",
-        "tone": ""
+        "tone": "",
+        "claude": "Rehmuus: Thank you. Our home village is far away, across the ocean."
       },
       {
         "source": "Rehmuus",
         "japanese": "もしおとずれることがあったら村人たちの力になってあげてください。",
         "thammy": "If you ever visit there, please help the villagers.",
-        "tone": ""
+        "tone": "",
+        "claude": "If you ever visit there, please help the villagers."
       }
     ]
   },
@@ -337,7 +371,8 @@
         "source": "Ihmuus",
         "japanese": "イムス：どうかくさりを切って下さいっ！",
         "thammy": "Ihmuus: Please cut the chain somehow...!",
-        "tone": ""
+        "tone": "",
+        "claude": "Ihmuus: Please, cut this chain!"
       }
     ]
   },
@@ -349,13 +384,15 @@
         "source": "Ihmuus",
         "japanese": "イムス：ありがとう。ぼくらのこきょうでは生き物がみなおかしくなってきているんです。",
         "thammy": "Ihmuus: Thank you. In the village where we were born, something strange is happening to all the animals.",
-        "tone": ""
+        "tone": "",
+        "claude": "Ihmuus: Thank you. In our home village, all the animals have been acting strangely."
       },
       {
         "source": "Ihmuus",
         "japanese": "石に変わってしまう人や原因不明の病気で死ぬ人も後をたちません…",
         "thammy": "Afterward, we found that other strange things were happening; people turning to stone, even people dying from unknown diseases...",
-        "tone": ""
+        "tone": "",
+        "claude": "There are people turning to stone and people dying from mysterious diseases one after another..."
       }
     ]
   },
@@ -367,7 +404,8 @@
         "source": "Sahmuus",
         "japanese": "サムス ／ どうかくさりを切って下さいっ！",
         "thammy": "Sahmuus / Please cut the chain somehow...!",
-        "tone": ""
+        "tone": "",
+        "claude": "Sahmuus / Please, cut this chain!"
       }
     ]
   },
@@ -379,25 +417,29 @@
         "source": "Sahmuus",
         "japanese": "サムス ／ ありがとう。",
         "thammy": "Sahmuus / Thank you.",
-        "tone": ""
+        "tone": "",
+        "claude": "Sahmuus / Thank you."
       },
       {
         "source": "Sahmuus",
         "japanese": "エリックくんから聞きましたがあなたたちの仲間がきおくそうしつになっているそうですね。",
         "thammy": "I heard it from Eric; one of your companions is suffering from amnesia, right?",
-        "tone": ""
+        "tone": "",
+        "claude": "I heard from Eric that one of your companions has lost their memory."
       },
       {
         "source": "Sahmuus",
         "japanese": "ぼくらの部族に伝わるむかしを思い出す歌があります。この歌を聞かせてあげて下さい。",
         "thammy": "There is a song that has been passed down in our tribe since long ago which aids memory. Please listen this song.",
-        "tone": ""
+        "tone": "",
+        "claude": "Our tribe has a song passed down from long ago that helps people remember. Please let them hear this song."
       },
       {
         "source": "Narrator",
         "japanese": "サムスは不思議なメロディを口ずさんだ。",
         "thammy": "Sahmuus hummed a mysterious melody.",
-        "tone": ""
+        "tone": "",
+        "claude": "Sahmuus hummed a mysterious melody."
       }
     ]
   },
@@ -409,25 +451,29 @@
         "source": "Narrator",
         "japanese": "思い出のメロディをおぼえた！",
         "thammy": "Learned the Melody of Memories!",
-        "tone": ""
+        "tone": "",
+        "claude": "Learned the Melody of Memories!"
       },
       {
         "source": "Sahmuus",
         "japanese": "サムス：ひとつお願いがあるんですが…",
         "thammy": "Sahmuus: I do have one request...",
-        "tone": ""
+        "tone": "",
+        "claude": "Sahmuus: I have one request..."
       },
       {
         "source": "Sahmuus",
         "japanese": "あなたと出会えた思い出にろうごくのカギと風のメロディをいただいていいですよね。",
         "thammy": "I would gladly take the prison key so that I can remember meeting you.",
-        "tone": ""
+        "tone": "",
+        "claude": "As a memento of meeting you, may I have the prison key? I won't be using it anymore, after all."
       },
       {
         "source": "Sahmuus",
         "japanese": "きっと今後使うことはないはずですから。",
         "thammy": "I expect that you probably won't be using it from now, after all.",
-        "tone": ""
+        "tone": "",
+        "claude": "You probably won't need it anymore, after all."
       }
     ]
   },
@@ -439,25 +485,29 @@
         "source": "Narrator",
         "japanese": "思い出のメロディをおぼえた！",
         "thammy": "Learned the Melody of Memories!",
-        "tone": ""
+        "tone": "",
+        "claude": "Learned the Melody of Memories!"
       },
       {
         "source": "Sahmuus",
         "japanese": "サムス：ひとつお願いがあるんですが…",
         "thammy": "Sahmuus: I do have one request...",
-        "tone": ""
+        "tone": "",
+        "claude": "Sahmuus: I have one request..."
       },
       {
         "source": "Sahmuus",
         "japanese": "あなたと出会えた思い出にろうごくのカギと風のメロディをいただいていいですよね。",
         "thammy": "I would gladly take the prison key and Wind's Melody so that I can remember meeting you.",
-        "tone": ""
+        "tone": "",
+        "claude": "As a memento of meeting you, may I have the prison key and Wind's Melody?"
       },
       {
         "source": "Sahmuus",
         "japanese": "きっと今後使うことはないはずですから。",
         "thammy": "I expect that you probably won't be using them from now, after all.",
-        "tone": ""
+        "tone": "",
+        "claude": "You probably won't need them anymore, after all."
       }
     ]
   },
@@ -469,7 +519,8 @@
         "source": "Sahmuus",
         "japanese": "あなたのことは一生忘れませんよ。",
         "thammy": "I won't forget you for my entire life.",
-        "tone": ""
+        "tone": "",
+        "claude": "I'll never forget you."
       }
     ]
   }

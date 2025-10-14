@@ -303,3 +303,8 @@ The key is maintaining tonal whiplash as intentional - this beautiful place has 
 
 Tim's narration maintains composure throughout, but other characters show full emotional range. Preserve their vulnerability, their awkwardness, their fear, their joy - without editorial distance or modern irony that would undercut genuine feeling.
 
+
+
+
+
+

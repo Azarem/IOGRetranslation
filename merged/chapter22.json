@@ -7,13 +7,15 @@
         "source": "Neil",
         "japanese": "ニール：ようやくついたな。結局海底トンネルを一カ月近く歩いたんだなあ…",
         "thammy": "Neil: I guess we've finally arrived. I think we were walking in the undersea tunnel for about a month in the end...",
-        "tone": ""
+        "tone": "",
+        "claude": "Neil: We've finally made it. In the end, we must have walked through that undersea tunnel for close to a month..."
       },
       {
         "source": "Rob",
         "japanese": "ロブ：あれ？立てふだがあるぜ。",
         "thammy": "Rob: Huh? There's a bulletin board.",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob: Huh? There's a sign over there."
       }
     ]
   },
@@ -25,25 +27,29 @@
         "source": "Rob",
         "japanese": "ロブ：なになに？だ天使族？旅人はこの部屋を使ってください？",
         "thammy": "Rob: Let's see here. Fallen angel clan? Travelers, please use this room?",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob: What's this say? Fallen Angel Clan? Travelers, please use this room?"
       },
       {
         "source": "Neil",
         "japanese": "ニール：だ天使族っていうのはこんなところに住んでいたのか..",
         "thammy": "Neil: So the people living in this place are called the fallen angel clan..",
-        "tone": ""
+        "tone": "",
+        "claude": "Neil: So this is where the Fallen Angel Clan lives..."
       },
       {
         "source": "Neil",
         "japanese": "ニール：彼らは自分から人に会いたがらないっていうからな。",
         "thammy": "Neil: I guess they put up that sign because they don't want to meet people themselves.",
-        "tone": ""
+        "tone": "",
+        "claude": "Neil: I've heard they prefer not to meet people directly."
       },
       {
         "source": "Neil",
         "japanese": "まずはその部屋で休ませてもらうとするか…",
         "thammy": "Before anything else, shall we try to get some rest in that room…?",
-        "tone": ""
+        "tone": "",
+        "claude": "Let's rest in that room first..."
       }
     ]
   },
@@ -55,7 +61,8 @@
         "source": "Lillie",
         "japanese": "リリィ：テム。行こっ。",
         "thammy": "Lillie: Tim. Let's go…",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: Tim. Let's go."
       }
     ]
   },
@@ -67,19 +74,22 @@
         "source": "Karen",
         "japanese": "カレン：何が\"テム行こっ\"よっ！",
         "thammy": "Karen: What is this \"Tim, let's go\"...!",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: What's with this \"Tim, let's go\"?!"
       },
       {
         "source": "Karen",
         "japanese": "テムもテムよ。でれでれしちゃってさ。",
         "thammy": "You too, Tim! You're flirting.",
-        "tone": ""
+        "tone": "",
+        "claude": "And you too, Tim! You're all googly-eyed over her."
       },
       {
         "source": "Karen",
         "japanese": "あたし一人であたりを見物してくる！ついてこないでよっ！！",
         "thammy": "I'm going sightseeing alone! Don't come with me...!!",
-        "tone": ""
+        "tone": "",
+        "claude": "I'm going to look around by myself! Don't follow me!!"
       }
     ]
   },
@@ -91,13 +101,15 @@
         "source": "Lillie",
         "japanese": "リリィ：何をカリカリしてるんだか…",
         "thammy": "Lillie: What is she so touchy about...",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: What's she so irritated about..."
       },
       {
         "source": "Rob",
         "japanese": "ロブ：まあいつものおじょうさまの気まぐれさ。ほっとくんだな。",
         "thammy": "Rob: Geez, always tha fickle little lady. Leave her alone, I guess.",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob: Just the little lady bein' fickle as usual. Best to leave her alone."
       }
     ]
   },
@@ -109,7 +121,8 @@
         "source": "Sign",
         "japanese": "旅人の方はこちらの部屋をお使い下さい。 ／ だ天使族",
         "thammy": "Travelers, please use this room. / Fallen angel clan",
-        "tone": ""
+        "tone": "",
+        "claude": "Travelers, please use this room. / Fallen Angel Clan"
       }
     ]
   },
@@ -121,7 +134,8 @@
         "source": "Sign",
         "japanese": "だ天使の町入口",
         "thammy": "Entrance to fallen angel's town",
-        "tone": ""
+        "tone": "",
+        "claude": "Entrance to the Fallen Angel Village"
       }
     ]
   },
@@ -133,25 +147,29 @@
         "source": "Rob",
         "japanese": "ロブ：テム。お前に一つそうだんがあるんだけどさ。",
         "thammy": "Rob: Tim. Tha thing is, I've got somethin' to discuss with ya...",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob: Tim. There's somethin' I wanna talk to ya about."
       },
       {
         "source": "Rob",
         "japanese": "言いにくいんだけどおれリリィのことを好きになっちまったみたいなんだ…",
         "thammy": "I hate to say it, but it seems like I've developed feelin's for Lillie...",
-        "tone": ""
+        "tone": "",
+        "claude": "It's hard to say, but... I think I've fallen for Lillie..."
       },
       {
         "source": "Rob",
         "japanese": "夢だって彼女の夢ばっかりだし..気づくとリリィのことを目で追ってるんだよ。",
         "thammy": "Even when I dream, I only dream o' her... Before I knew it, she had caught my eye.",
-        "tone": ""
+        "tone": "",
+        "claude": "Even my dreams are all about her... Before I know it, I'm watchin' her every move."
       },
       {
         "source": "Rob",
         "japanese": "おれらしくないと思ってるだろ？ ／ うんっ ／ そんなことないさ",
         "thammy": "Ya think that's not like me, right? / Yeah... / That isn't true",
-        "tone": ""
+        "tone": "",
+        "claude": "Ya think that's not like me, right? / Yeah... / Not at all"
       }
     ]
   },
@@ -163,7 +181,8 @@
         "source": "Tim",
         "japanese": "テム：そうだね。ロブからそんな話がでてくるとは思ってもみなかったよ。",
         "thammy": "Tim: That's right. I've never thought that you'd be saying things like that.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: That's true. I never thought I'd hear something like that from you, Rob."
       }
     ]
   },
@@ -175,25 +194,29 @@
         "source": "Tim",
         "japanese": "テム：でもこれだけ長い間いっしょにいるんだもの。恋をしても不自然じゃないさ。",
         "thammy": "Tim: But by you've spent a lot of time together by now. It wouldn't be unnatural even to be in love with her.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: But we've been together for such a long time. It's not unnatural to fall in love."
       },
       {
         "source": "Rob",
         "japanese": "ロブ：それでさ。もうじきリリィの１５才のたんじょう日がくるらしいんだ。",
         "thammy": "Rob: Speakin' o' that. It seems like Lillie's fifteenth birthday is comin' up soon.",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob: So listen. Lillie's fifteenth birthday's comin' up soon."
       },
       {
         "source": "Rob",
         "japanese": "そのときプレゼントといっしょにおれの気持ちを話したいんだけどお前ならどれがいいとおもう？",
         "thammy": "I want to tell her my feelin's with a present then, but what do ya think I should go with?",
-        "tone": ""
+        "tone": "",
+        "claude": "I wanna tell her how I feel then, along with a present. What do ya think would be best?"
       },
       {
         "source": "Rob",
         "japanese": "きれいな花たば ／ すてきなネックレス ／ あまーいキス",
         "thammy": "A pretty bouquet / A wonderful necklace / A tender kiss",
-        "tone": ""
+        "tone": "",
+        "claude": "A beautiful bouquet / A nice necklace / A sweet kiss"
       }
     ]
   },
@@ -205,13 +228,15 @@
         "source": "Tim",
         "japanese": "テム：花たばをもらってうれしくない女の子はいないと思うよ。",
         "thammy": "Tim: I don't think there's a girl out there who wouldn't be happy to get a bouquet of flowers.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: I don't think there's a girl who wouldn't be happy to receive flowers."
       },
       {
         "source": "Rob",
         "japanese": "ロブ：やっぱりそうだよな。じゃあ花ことばで告白って意味のつぼみのバラを送ってみるかなあ。",
         "thammy": "Rob: I guess that's expected. Well, I think I can try to communicate a love confession through tha language of flowers; rosebuds.",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob: Yeah, I figured. Then maybe I'll give her a rosebud—in the language of flowers, it means confession."
       }
     ]
   },
@@ -223,19 +248,22 @@
         "source": "Tim",
         "japanese": "テム：やっぱりふだん身につけられるものがいいんじゃない？",
         "thammy": "Tim: Of course, shouldn't it be something that she regularly wears?",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Something she can wear every day would be best, don't you think?"
       },
       {
         "source": "Tim",
         "japanese": "それを見るたびにロブのこと思い出すわけだしさ。",
         "thammy": "Because whenever she sees it, she'll think about how Rob is doing.",
-        "tone": ""
+        "tone": "",
+        "claude": "Every time she looks at it, she'll think of you."
       },
       {
         "source": "Rob",
         "japanese": "ロブ：なるほどなあ。じゃあきれいな石でもさがしてネックレスをつくってみるよ。",
         "thammy": "Rob: Ah, I get it. Well then, I'll try searching for pretty stones or something like that and making a necklace.",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob: I see what ya mean. Then I'll find a pretty stone and make her a necklace."
       }
     ]
   },
@@ -247,13 +275,15 @@
         "source": "Tim",
         "japanese": "テム：本当に好きならこれしかないだろ？",
         "thammy": "Tim: If you truly like her there's nothing else but this, right?",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: If you really love her, there's only one choice, right?"
       },
       {
         "source": "Rob",
         "japanese": "ロブ：いきなりだいたんすぎるような気もするけどお前がそういうならやってみるか…",
         "thammy": "Rob: I feel like doing that all of a sudden would be too bold, but if you say so, should I try it...?",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob: Feels a bit too bold right off the bat, but if ya say so, I'll give it a shot..."
       }
     ]
   },
@@ -265,13 +295,15 @@
         "source": "Rob",
         "japanese": "ロブ：そうだんにのってくれてサンキュ。",
         "thammy": "Rob: Thanks fer lending me yer advice.",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob: Thanks for hearin' me out."
       },
       {
         "source": "Rob",
         "japanese": "自分なりに考えてみるよ。もつべきものは友だちだなあ。",
         "thammy": "I'll try to think of it in my own way. Good friends are nice to have, ain't they.",
-        "tone": ""
+        "tone": "",
+        "claude": "I'll think about it on my own too. It's good to have friends, ya know."
       }
     ]
   },
@@ -283,7 +315,8 @@
         "source": "Lillie",
         "japanese": "リリィ：だ天使族ってこんな暗い所でくらしてるんだね。気がめいっちゃいそう…",
         "thammy": "Lillie: The people that call themselves the fallen angel clan live in a gloomy place like this, huh. It's seems depressing…",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: The Fallen Angel Clan lives in such a dark place. It seems so depressing..."
       }
     ]
   },
@@ -295,7 +328,8 @@
         "source": "Eric",
         "japanese": "エリック：太陽の光ってすっごく明るかったんだなあ。いつも見てるのに気づかなかった。",
         "thammy": "Eric: Sunlight is iiincredibly bright. Even though I've always had it around, I hadn't noticed.",
-        "tone": ""
+        "tone": "",
+        "claude": "Eric: Sunlight is reeally bright. Even though I see it all the time, I never noticed."
       }
     ]
   },
@@ -307,7 +341,8 @@
         "source": "Neil",
         "japanese": "ニール：だ天使族こそがムーの人々の子孫じゃないかとぼくは思っているのさ。",
         "thammy": "Neil: I had been thinking, mustn't the fallen angel clan be the descendants of the Mu people?",
-        "tone": ""
+        "tone": "",
+        "claude": "Neil: I've been thinking—the Fallen Angel Clan must be descendants of the people of Mu."
       }
     ]
   },
@@ -319,7 +354,8 @@
         "source": "Fallen Angel Villager",
         "japanese": "ここはだ天使の町。我々は体が弱く太陽の光さえも長時間あびると死んでしまうのだ。",
         "thammy": "This is the fallen angels' village. Our bodies are weak; we'd die even if we were in the sunlight for too long.",
-        "tone": ""
+        "tone": "",
+        "claude": "This is the Fallen Angel Village. Our bodies are frail—even sunlight would kill us if we were exposed too long."
       }
     ]
   },
@@ -331,7 +367,8 @@
         "source": "Fallen Angel Villager",
         "japanese": "ここはだ天使の町。我々は体が弱く太陽の光さえも長時間あびると死んでしまうのだ。",
         "thammy": "This is the fallen angels' village. Our bodies are weak; we'd die even if we were in the sunlight for too long.",
-        "tone": ""
+        "tone": "",
+        "claude": "This is the Fallen Angel Village. Our bodies are frail—even sunlight would kill us if we were exposed too long."
       }
     ]
   },
@@ -343,7 +380,8 @@
         "source": "Fallen Angel Villager",
         "japanese": "ここはだ天使の町。我々は体が弱く太陽の光さえも長時間あびると死んでしまうのだ。",
         "thammy": "This is the fallen angels' village. Our bodies are weak; we'd die even if we were in the sunlight for too long.",
-        "tone": ""
+        "tone": "",
+        "claude": "This is the Fallen Angel Village. Our bodies are frail—even sunlight would kill us if we were exposed too long."
       }
     ]
   },
@@ -355,7 +393,8 @@
         "source": "Fallen Angel Villager",
         "japanese": "ここはだ天使の町。我々は体が弱く太陽の光さえも長時間あびると死んでしまうのだ。",
         "thammy": "This is the fallen angels' village. Our bodies are weak; we'd die even if we were in the sunlight for too long.",
-        "tone": ""
+        "tone": "",
+        "claude": "This is the Fallen Angel Village. Our bodies are frail—even sunlight would kill us if we were exposed too long."
       }
     ]
   },
@@ -367,7 +406,8 @@
         "source": "Fallen Angel Villager",
         "japanese": "人間が進化した形があたしたちだっていう話もあるわ。",
         "thammy": "There are stories that say we evolved from humans.",
-        "tone": ""
+        "tone": "",
+        "claude": "There are also stories that say we're an evolved form of humans."
       }
     ]
   },
@@ -379,13 +419,15 @@
         "source": "Fallen Angel Villager",
         "japanese": "さっきカレンとかいう人間の女の子がきたわよ。",
         "thammy": "A short time ago, a human girl came here; her name was Karen or something like that.",
-        "tone": ""
+        "tone": "",
+        "claude": "A human girl named Karen or something came through here earlier."
       },
       {
         "source": "Fallen Angel Villager",
         "japanese": "イシタルっていう画家に美しさをほめられて彼のアトリエへ行ったみたいね。",
         "thammy": "It seems that she went to the studio of the artist, Ishtar. His paintings are praised for their beauty, you know?",
-        "tone": ""
+        "tone": "",
+        "claude": "It seems a painter named Ishtar praised her beauty and she went to his studio."
       }
     ]
   },
@@ -397,31 +439,36 @@
         "source": "Fallen Angel Villager",
         "japanese": "アトリエへの道順を教えるからしっかり覚えてね。",
         "thammy": "I'll teach you the route to the studio, so remember it, alright?",
-        "tone": ""
+        "tone": "",
+        "claude": "I'll tell you how to reach the studio, so remember carefully."
       },
       {
         "source": "Fallen Angel Villager",
         "japanese": "まずは風について行くの。これはたいまつの火がなびく方向を見ていればわかるはず。",
         "thammy": "First of all, follow the wind. You'll understand if you look at which direction the flames of the torches are bending in.",
-        "tone": ""
+        "tone": "",
+        "claude": "First, follow the wind. You can tell which way by watching the direction the torch flames bend."
       },
       {
         "source": "Fallen Angel Villager",
         "japanese": "暗ヤミの通路をとおって強風の吹きあれる場所をぬけていくとそのうちたきの音が聞こえる場所にでるわ。",
         "thammy": "You can hear the sound of a waterfall where the strong wind storms through the dark passage.",
-        "tone": ""
+        "tone": "",
+        "claude": "Go through the dark passage and past where the strong winds blow, and eventually you'll reach a place where you can hear a waterfall."
       },
       {
         "source": "Fallen Angel Villager",
         "japanese": "そしたらたきの音がもっとも大きく聞こえるところをしらべてごらんなさい。",
         "thammy": "Subsequently, please examine the area where the waterfall's sound is the loudest.",
-        "tone": ""
+        "tone": "",
+        "claude": "Then search for the place where the waterfall sounds loudest."
       },
       {
         "source": "Fallen Angel Villager",
         "japanese": "その先がイシタルのアトリエ。気をつけてね。",
         "thammy": "Ishtar's studio is beyond there. Be careful, alright?",
-        "tone": ""
+        "tone": "",
+        "claude": "Ishtar's studio is beyond that point. Be careful."
       }
     ]
   },
@@ -433,7 +480,8 @@
         "source": "Fallen Angel Villager",
         "japanese": "これは人間たちのごらくの一つでダンスというもの。",
         "thammy": "This is something called \"dance\"; a way that humans amuse themselves.",
-        "tone": ""
+        "tone": "",
+        "claude": "This is called \"dance\"—one of the ways humans entertain themselves."
       }
     ]
   },
@@ -445,7 +493,8 @@
         "source": "Fallen Angel Villager",
         "japanese": "人間の感情に近づきたくてこうして毎日おどってくらしても何も変わることはない…",
         "thammy": "We want to get closer to human emotions, so we dance like this every day. Even so, nothing changes...",
-        "tone": ""
+        "tone": "",
+        "claude": "We want to understand human emotions, so we dance like this every day, but nothing changes..."
       }
     ]
   },
@@ -457,13 +506,15 @@
         "source": "Fallen Angel Villager",
         "japanese": "そこのカベにかかっている絵はイシタルという画家がかいたものさ。",
         "thammy": "The picture attached to that wall was painted by an artist called Ishtar.",
-        "tone": ""
+        "tone": "",
+        "claude": "That painting on the wall was done by a painter named Ishtar."
       },
       {
         "source": "Fallen Angel Villager",
         "japanese": "ただ彼の絵のモデルになった人はその後行方不明になるんだ…",
         "thammy": "However, the models for his pictures go missing afterward...",
-        "tone": ""
+        "tone": "",
+        "claude": "But the people who model for his paintings disappear afterward..."
       }
     ]
   },
@@ -475,13 +526,15 @@
         "source": "Fallen Angel Villager",
         "japanese": "イシタルは無表情の私たちを人間味あふれた顔にえがいてくれる。",
         "thammy": "Though we lack emotions, Ishtar draws us overflowing with human kindness.",
-        "tone": ""
+        "tone": "",
+        "claude": "Ishtar paints us expressionless ones with faces full of humanity."
       },
       {
         "source": "Fallen Angel Villager",
         "japanese": "その後自分がどうなるかわからなくてもえがいてほしいという人が後をたたないわ。",
         "thammy": "There is no end to the people who want Ishtar to draw them even though they don't know what will happen to them afterward.",
-        "tone": ""
+        "tone": "",
+        "claude": "People keep wanting him to paint them, even though they don't know what will happen to them afterward."
       }
     ]
   },
@@ -493,7 +546,8 @@
         "source": "Fallen Angel Villager",
         "japanese": "私といっしょにおどっていた人は今はそこの絵の中。",
         "thammy": "The person who was my dance partner is now inside of that painting.",
-        "tone": ""
+        "tone": "",
+        "claude": "The person who used to dance with me is inside that painting now."
       }
     ]
   },
@@ -505,13 +559,15 @@
         "source": "Fallen Angel Villager",
         "japanese": "我々がいつの時代からここに住みはじめたのかはわかりません。",
         "thammy": "We don't know from what era we started living here.",
-        "tone": ""
+        "tone": "",
+        "claude": "We don't know when we started living here."
       },
       {
         "source": "Fallen Angel Villager",
         "japanese": "でも海を見るとなぜかむねが苦しくなるんですよ。",
         "thammy": "But our chests hurt for some reason when we see the ocean.",
-        "tone": ""
+        "tone": "",
+        "claude": "But for some reason, when we see the ocean, our chests ache."
       }
     ]
   },
@@ -523,13 +579,15 @@
         "source": "Fallen Angel Villager",
         "japanese": "私たちには感情がない…",
         "thammy": "We have no emotions...",
-        "tone": ""
+        "tone": "",
+        "claude": "We have no emotions..."
       },
       {
         "source": "Fallen Angel Villager",
         "japanese": "生まれてからこれまで笑ったこともないしなみだを流したこともない。ただ毎日を生きるだけ…",
         "thammy": "We never laugh or cry from the day we are born. In our lives, every day is the same...",
-        "tone": ""
+        "tone": "",
+        "claude": "Since we were born, we've never laughed or shed tears. We simply live each day..."
       }
     ]
   },
@@ -541,13 +599,15 @@
         "source": "Woman playing the harp",
         "japanese": "ハープひきの女：音楽は何よりの心の薬。",
         "thammy": "Woman playing the harp: Music is the greatest medicine for the soul.",
-        "tone": ""
+        "tone": "",
+        "claude": "Woman playing the harp: Music is the best medicine for the heart."
       },
       {
         "source": "Woman playing the harp",
         "japanese": "すてきな曲を聞けばどんな病気でもよくなるものよ。",
         "thammy": "No matter what disease you face, you will become well if you hear a wonderful composition.",
-        "tone": ""
+        "tone": "",
+        "claude": "If you hear a wonderful song, any illness will improve."
       }
     ]
   },
@@ -559,19 +619,22 @@
         "source": "Gem",
         "japanese": "おっと集めた宝石が２０コを越えているじゃないかっ！リストの通りサイコパワーをあげることにしよう。",
         "thammy": "Whoops, the number of jewels you've collected have passed 20, haven't they...! Going by the list, I'll give you Psycho Power.",
-        "tone": ""
+        "tone": "",
+        "claude": "Gem: Oh my! You've collected more than 20 gems! According to the list, I'll give you Psycho Power."
       },
       {
         "source": "Gem",
         "japanese": "これは私がたましいからさずかった世にも不思議な力。",
         "thammy": "This is a mysterious, otherworldly power that I will award you from my soul.",
-        "tone": ""
+        "tone": "",
+        "claude": "This is a wondrous, mysterious power I was granted by a soul."
       },
       {
         "source": "Gem",
         "japanese": "何でもサイコダッシュのこうげき力が上がるらしいのだ。",
         "thammy": "It seems like the Psycho Dash's attack power rose.",
-        "tone": ""
+        "tone": "",
+        "claude": "Apparently it increases the attack power of your Psycho Dash."
       }
     ]
   },
@@ -583,7 +646,8 @@
         "source": "Fallen Angel Villager",
         "japanese": "私はちょうこく家。死ぬまでにこの石像を１０００体作るつもりだよ…",
         "thammy": "I'm a sculptor. Before I die, I intend to make a thousand of these statues...",
-        "tone": ""
+        "tone": "",
+        "claude": "I'm a sculptor. I plan to make a thousand of these statues before I die..."
       }
     ]
   },
@@ -595,7 +659,8 @@
         "source": "Tim",
         "japanese": "テム：たましいをぬかれたようにまるで意識がない…",
         "thammy": "Tim: They have no consciousness, as if their soul had been removed...",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: They have no consciousness at all, as if their souls were taken..."
       }
     ]
   },
@@ -607,7 +672,8 @@
         "source": "Fallen Angel Villager",
         "japanese": "画家のイシタルのことを知っているか？ ／ はい ／ いいえ",
         "thammy": "Do you know the painter, Ishtar? / Yes / No",
-        "tone": ""
+        "tone": "",
+        "claude": "Do you know the painter Ishtar? / Yes / No"
       }
     ]
   },
@@ -619,7 +685,8 @@
         "source": "Fallen Angel Villager",
         "japanese": "ならばみんなの話をもう少し聞いてくるがいい。",
         "thammy": "In that case, you should listen a little more to what everyone has to say.",
-        "tone": ""
+        "tone": "",
+        "claude": "Then you should go listen to what the others have to say."
       }
     ]
   },
@@ -631,19 +698,22 @@
         "source": "Fallen Angel Villager",
         "japanese": "画家イシタルのアトリエはこのトビラの向こうがわ。",
         "thammy": "The studio of Ishtar, the painter, is on the other side of this door.",
-        "tone": ""
+        "tone": "",
+        "claude": "The painter Ishtar's studio is on the other side of this door."
       },
       {
         "source": "Fallen Angel Villager",
         "japanese": "だがこの先にはにくしみとはかいの心しかもたない生物がうごめいているのだ。",
         "thammy": "But there are creatures with nothing but hatred and a desire for destruction that are squirming from beyond this point.",
-        "tone": ""
+        "tone": "",
+        "claude": "But beyond this point, creatures with hearts filled only with hatred and destruction are lurking."
       },
       {
         "source": "Fallen Angel Villager",
         "japanese": "それでもゆくというのならとびらを開けるがいい。",
         "thammy": "If you say you still want to go despite that, you may open the door.",
-        "tone": ""
+        "tone": "",
+        "claude": "If you still wish to go, you may open the door."
       }
     ]
   }

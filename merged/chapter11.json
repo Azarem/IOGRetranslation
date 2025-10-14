@@ -7,13 +7,15 @@
         "source": "Karen",
         "japanese": "カレン：やっと気がついたのね。みんなとはぐれちゃった…",
         "thammy": "Karen: You finally came to, huh. We were split up from everyone...",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: You finally woke up. We got separated from everyone..."
       },
       {
         "source": "Karen",
         "japanese": "体の具合はだいじょうぶ？ ／ うんへっちゃらさ ／ まだふらふらするんだ",
         "thammy": "Are you hurt? / I'm fine / I'm still dizzy",
-        "tone": ""
+        "tone": "",
+        "claude": "How are you feeling? / I'm fine / I'm still dizzy"
       }
     ]
   },
@@ -25,7 +27,8 @@
         "source": "Karen",
         "japanese": "カレン：そう。テムって回復がはやいのね。まるでとかげのしっぽみたい。",
         "thammy": "Karen: Is that so? It seems like you recover quickly, huh. You're like a lizard's tail.",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: I see. You recover quickly, huh. Like a lizard's tail."
       }
     ]
   },
@@ -37,19 +40,22 @@
         "source": "Karen",
         "japanese": "カレン：無理もないわよね。半日以上気をうしなってたんだもの。",
         "thammy": "Karen: No wonder, right? You were unconscious for over half a day.",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: No wonder, right? You were unconscious for over half a day."
       },
       {
         "source": "Tim",
         "japanese": "ひょう流の話は本で読んだことあるけどまさか自分がそうなるなんて思ってもみなかった…",
         "thammy": "I've read stories of being adrift in books, but I would have thought it ridiculous that it would turn out like this for me.",
-        "tone": ""
+        "tone": "",
+        "claude": "I've read about being adrift in books, but never thought it would actually happen to me..."
       },
       {
         "source": "Tim",
         "japanese": "災難ってとつぜんにおとずれるものなのね。",
         "thammy": "I guess that disaster comes around suddenly, huh.",
-        "tone": ""
+        "tone": "",
+        "claude": "I guess disaster strikes suddenly."
       }
     ]
   },
@@ -61,19 +67,22 @@
         "source": "Karen",
         "japanese": "カレン：くよくよしたってしかたないわよ。",
         "thammy": "Karen: You know, I can't help but worry.",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: There's no use worrying about it."
       },
       {
         "source": "Karen",
         "japanese": "先のことは考えないでひょう流を楽しんじゃおっ。",
         "thammy": "Oh, you know, if we don't think about the future, we could enjoy being adrift…",
-        "tone": ""
+        "tone": "",
+        "claude": "Let's not think about what's ahead and just enjoy being adrift."
       },
       {
         "source": "Karen",
         "japanese": "もうおなかぺこぺこ。お城の地下からもってきたお肉でお昼ごはんにしましょ。",
         "thammy": "I'm starving already. Let's have the meat we took from the castle's basement for lunch.",
-        "tone": ""
+        "tone": "",
+        "claude": "I'm already starving. Let's have the meat we brought from the castle basement for lunch."
       }
     ]
   },
@@ -85,13 +94,15 @@
         "source": "Tim",
         "japanese": "ぼくらは骨つきの肉にかぶりついた。",
         "thammy": "We bit into the bone-in meat.",
-        "tone": ""
+        "tone": "",
+        "claude": "We bit into the meat on the bone."
       },
       {
         "source": "Tim",
         "japanese": "今まで食べたどんな食べ物よりおいしく感じた。",
         "thammy": "We felt that it was the tastiest thing we had ever eaten.",
-        "tone": ""
+        "tone": "",
+        "claude": "It tasted better than any food we'd ever eaten."
       }
     ]
   },
@@ -103,7 +114,8 @@
         "source": "Narrator",
         "japanese": "ひょう流２日目",
         "thammy": "2nd day adrift",
-        "tone": ""
+        "tone": "",
+        "claude": "2nd day adrift"
       }
     ]
   },
@@ -115,7 +127,8 @@
         "source": "Karen",
         "japanese": "カレン：きれい…一日中見ててもあきないな…",
         "thammy": "Karen: It's beautiful... Even though I'm watching it all day, I don't think I'm getting tired of it...",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: It's beautiful... I could watch this all day and never get tired of it..."
       }
     ]
   },
@@ -127,7 +140,8 @@
         "source": "Karen",
         "japanese": "カレン：何てことするのよっ！魚がかわいそうじゃないっ！！",
         "thammy": "Karen: How could you do that...! Those poor fish...!!",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: How could you do that! Those poor fish!!"
       }
     ]
   },
@@ -139,25 +153,29 @@
         "source": "Tim",
         "japanese": "テム：何ごともなく時間がだけがゆっくりと流れていった。",
         "thammy": "Tim: Time passed slowly and uneventfully.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Nothing happened—time just slowly drifted by."
       },
       {
         "source": "Tim",
         "japanese": "カレンは一日中のんびりと魚をながめていたがボクはそれじゃ気がすまなかった。",
         "thammy": "Karen leisurely viewed the fish all day long, but as for me, well, I was full of remorse.",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen spent the whole day leisurely watching the fish, but I couldn't settle for that."
       },
       {
         "source": "Tim",
         "japanese": "イカダの中をうろつきまわりカレンに何度も話しかけた。",
         "thammy": "I don't know how many times I paced aimlessly around the raft and tried talking to Karen.",
-        "tone": ""
+        "tone": "",
+        "claude": "I paced around the raft and talked to Karen over and over."
       },
       {
         "source": "Tim",
         "japanese": "一分が何時間にも感じられた。まるでのんびりとした時間の足音が聞こえてくるようだった。",
         "thammy": "A single minute felt like hours. It felt like I could hear the footfalls of an entirely carefree time coming.",
-        "tone": ""
+        "tone": "",
+        "claude": "A single minute felt like hours. It was as if I could hear the footsteps of time itself, slow and unhurried."
       }
     ]
   },
@@ -169,7 +187,8 @@
         "source": "Narrator",
         "japanese": "ひょう流４日目",
         "thammy": "4th day adrift",
-        "tone": ""
+        "tone": "",
+        "claude": "4th day adrift"
       }
     ]
   },
@@ -181,13 +200,15 @@
         "source": "Karen",
         "japanese": "カレン：何か予感がするの…助けがくるのかもしれないわ…",
         "thammy": "Karen: Somehow I have a hunch... That rescue might be coming...",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: I have a feeling about something... Maybe help is coming..."
       },
       {
         "source": "Karen",
         "japanese": "あらっ？",
         "thammy": "Oh...?",
-        "tone": ""
+        "tone": "",
+        "claude": "Huh...?"
       }
     ]
   },
@@ -199,7 +220,8 @@
         "source": "Karen",
         "japanese": "カレン：何か流れてくるみたいよっ！",
         "thammy": "Karen: It looks like something is drifting this way...!",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: Something's drifting this way!"
       }
     ]
   },
@@ -211,19 +233,22 @@
         "source": "Narrator",
         "japanese": "つぼの中には手紙が入っていた…それはこんな内容だった。",
         "thammy": "Someone placed a letter into this jar... It read something like this.",
-        "tone": ""
+        "tone": "",
+        "claude": "There was a letter inside the jar... It read something like this."
       },
       {
         "source": "Sahmuus",
         "japanese": "ぼくらはどれい船にのせられ見知らぬ土地へ売られていくところです。",
         "thammy": "We have been placed on a slave ship; it is heading to unfamiliar land where we will be sold.",
-        "tone": ""
+        "tone": "",
+        "claude": "We've been loaded onto a slave ship, and we're being taken to an unknown land where we'll be sold."
       },
       {
         "source": "Sahmuus",
         "japanese": "どなたかこの手紙を読んだら助けてください… ／ サムス",
         "thammy": "If anyone reads this letter, please save us... / Sahmuus",
-        "tone": ""
+        "tone": "",
+        "claude": "If anyone reads this letter, please help us... / Sahmuus"
       }
     ]
   },
@@ -235,61 +260,71 @@
         "source": "Karen",
         "japanese": "カレン：あーあ予感がしたのにっ。",
         "thammy": "Karen: Ah, although I had that hunch…",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: Ugh, and I had that feeling too..."
       },
       {
         "source": "Karen",
         "japanese": "助けてくれって言われたって..こっちが助けてほしいよねぇ。",
         "thammy": "They were saying \"save us\"... But we also want to be saved, right?",
-        "tone": ""
+        "tone": "",
+        "claude": "They're asking for help... but we're the ones who need saving, right?"
       },
       {
         "source": "Karen",
         "japanese": "あーあもうお腹と背中がくっつきそうよぉ。",
         "thammy": "Ah, I'm totally famished already…!",
-        "tone": ""
+        "tone": "",
+        "claude": "Ugh, I'm so hungry my stomach's practically touching my back."
       },
       {
         "source": "Tim",
         "japanese": "テム：だからあのとき魚をとっておけばよかったんだ。そうすりゃ今ごろは…",
         "thammy": "Tim: And that's why it would have been better if we had eaten some fish last time they were around.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: That's why we should've caught those fish back then. If we had, right now we'd—"
       },
       {
         "source": "Tim",
         "japanese": "テム：じゃ何にも食べないでぼくらが死んでもいいっていうのかっ？！",
         "thammy": "Tim: Well then, are you saying it's fine if don't eat anything and die...!?",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: So you're saying it's okay if we don't eat anything and die?!"
       },
       {
         "source": "Karen",
         "japanese": "カレン：あんなかわいい魚殺せないわ！",
         "thammy": "Karen: You can't kill cute fish like that!",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: I can't kill those cute fish!"
       },
       {
         "source": "Karen",
         "japanese": "カレン：だいたい生の魚なんて気持ち悪くて食べられないわよっ！",
         "thammy": "Karen: The point is, I can't eat raw fish! It's gross!",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: Besides, raw fish is disgusting! I can't eat that!"
       },
       {
         "source": "Karen",
         "japanese": "それに魚だっていっしょうけんめい生きてるのよっ！",
         "thammy": "Besides, the fish are trying as hard as they can to survive...!",
-        "tone": ""
+        "tone": "",
+        "claude": "And the fish are trying their hardest to live too!"
       },
       {
         "source": "Karen",
         "japanese": "魚だって痛いって思うのよっ！テムは魚の気持ちを考えたことあるわけっ？！",
         "thammy": "The fish feel pain...! Do you think about how the fish feel...?!",
-        "tone": ""
+        "tone": "",
+        "claude": "Fish feel pain too! Have you ever thought about how the fish feel?!"
       },
       {
         "source": "Karen",
         "japanese": "そんなに食べたきゃ勝手に食べればっ！あたしは食べないからねっ！！",
         "thammy": "If you want to eat something like that, go ahead and eat it...! Because I'm not going to...!",
-        "tone": ""
+        "tone": "",
+        "claude": "If you want to eat them so badly, go ahead! But I'm not eating them!!"
       }
     ]
   },
@@ -301,19 +336,22 @@
         "source": "Karen",
         "japanese": "カレン：……….",
         "thammy": "Karen: …",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: ..."
       },
       {
         "source": "Tim",
         "japanese": "テム：カレンはその日口をきいてくれなかった…",
         "thammy": "Tim: That day, Karen wouldn't even give me the sound of her voice...",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: That day, Karen wouldn't speak to me..."
       },
       {
         "source": "Tim",
         "japanese": "まったくおじょう様には困ったものだ。やれやれ…",
         "thammy": "Geez, the little lady is a nuisance. Good grief...",
-        "tone": ""
+        "tone": "",
+        "claude": "Geez, the princess sure is something. Good grief..."
       }
     ]
   },
@@ -325,7 +363,8 @@
         "source": "Narrator",
         "japanese": "ひょう流７日目",
         "thammy": "7th day adrift",
-        "tone": ""
+        "tone": "",
+        "claude": "7th day adrift"
       }
     ]
   },
@@ -337,13 +376,15 @@
         "source": "Tim",
         "japanese": "テム：ひょう流一週間目。再び魚のむれに出会った。",
         "thammy": "Tim: First week adrift. We came upon a school of fish for a second time.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: One week adrift. We came across another school of fish."
       },
       {
         "source": "Tim",
         "japanese": "体力ももうげんかいだった。ボクはこれ以上食べなければ死ぬと思った…",
         "thammy": "I'm already at the limit of my strength. I thought that if I didn't eat now, I'd die...",
-        "tone": ""
+        "tone": "",
+        "claude": "My strength was at its limit. I thought if I didn't eat something soon, I'd die..."
       }
     ]
   },
@@ -355,7 +396,8 @@
         "source": "Karen",
         "japanese": "カレン：……….",
         "thammy": "Karen: …",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: ..."
       }
     ]
   },
@@ -367,31 +409,36 @@
         "source": "Karen",
         "japanese": "カレン：……….",
         "thammy": "Karen: …",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: ..."
       },
       {
         "source": "Karen",
         "japanese": "テム…昨日はあんな言いかたしてごめんなさい…",
         "thammy": "Tim... I'm sorry for speaking like that yesterday...",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim... I'm sorry for what I said yesterday..."
       },
       {
         "source": "Karen",
         "japanese": "あたしもお魚食べてみるわ。死んじゃったらどうしようもないもんね。",
         "thammy": "I'll try to eat a fish too. Because if I die, there's nothing more that I can do, right?",
-        "tone": ""
+        "tone": "",
+        "claude": "I'll try eating fish too. If we die, there's nothing we can do, right?"
       },
       {
         "source": "Karen",
         "japanese": "きらいな食べ物を食べないなんていっていられるのは平和なときだけなのよね…",
         "thammy": "It's only in comfortable times where you're able to avoid eating foods that you dislike, huh…",
-        "tone": ""
+        "tone": "",
+        "claude": "Only when times are peaceful can you afford not to eat things you don't like, huh..."
       },
       {
         "source": "Tim",
         "japanese": "テム：よおし。じゃ魚をとってやる。とびっきりうまいやつをさ。",
         "thammy": "Tim: Allllright. Well, I'll get a fish for you. The tastiest one.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Alright. I'll catch a fish for you. The tastiest one I can find."
       }
     ]
   },
@@ -403,13 +450,15 @@
         "source": "Tim",
         "japanese": "テム：カレンはおいしそうに魚を食べた。",
         "thammy": "Tim: Karen ate the delicious-looking fish.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Karen ate the fish—it looked delicious."
       },
       {
         "source": "Tim",
         "japanese": "ボクの中でカレンがちょっぴり気になる存在になってきたようだ…",
         "thammy": "It seemed like I had come to take a tiny bit of concern about Karen...",
-        "tone": ""
+        "tone": "",
+        "claude": "It seemed like Karen was becoming someone I cared about, at least a little..."
       }
     ]
   },
@@ -421,7 +470,8 @@
         "source": "Narrator",
         "japanese": "ひょう流１２日目",
         "thammy": "12th day adrift",
-        "tone": ""
+        "tone": "",
+        "claude": "12th day adrift"
       }
     ]
   },
@@ -433,49 +483,57 @@
         "source": "Karen",
         "japanese": "カレン：星がきれいね…",
         "thammy": "Karen: The stars are beautiful, huh...",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: The stars are beautiful..."
       },
       {
         "source": "Karen",
         "japanese": "もうちょっと背が高かったら手がとどきそうよね。",
         "thammy": "It seems like I could touch them with my hands if I was a little taller.",
-        "tone": ""
+        "tone": "",
+        "claude": "If I were just a little taller, it feels like I could reach them."
       },
       {
         "source": "Karen",
         "japanese": "きっとリリィやロブたちも同じ星空を見てるんだろうな。",
         "thammy": "I think Lillie, Rob and the rest must also be looking at this same starry sky.",
-        "tone": ""
+        "tone": "",
+        "claude": "I bet Lillie and Rob are looking at the same sky right now."
       },
       {
         "source": "Karen",
         "japanese": "星とお話できればみんなのいる場所もきっとわかるのに…",
         "thammy": "If we could talk with the stars, then we would definitely know where everyone is...",
-        "tone": ""
+        "tone": "",
+        "claude": "If we could talk to the stars, we'd know where everyone is..."
       },
       {
         "source": "Karen",
         "japanese": "カレン：あそうそう最近気がついたんだけど白鳥座の近くに星が一つふえてるの。",
         "thammy": "Karen: Oh, that's right. I noticed recently that there's one more star around the constellation of Cygnus, the swan.",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: Oh, that's right. I noticed recently—there's a new star near the constellation Cygnus."
       },
       {
         "source": "Karen",
         "japanese": "ほらあの赤い星。",
         "thammy": "See, that red star over there.",
-        "tone": ""
+        "tone": "",
+        "claude": "See? That red star."
       },
       {
         "source": "Karen",
         "japanese": "ねぇ。あの星にお願いごとしない？きっとかなうような気がするの。",
         "thammy": "Hey. Won't you make a wish on that star? I feel like it will definitely come true.",
-        "tone": ""
+        "tone": "",
+        "claude": "Hey. Want to make a wish on that star? I feel like it'll come true."
       },
       {
         "source": "Karen",
         "japanese": "テムもちゃんと目を閉じてお願いしてね。",
         "thammy": "Tim, you close your eyes tight and make a wish too, okay?",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim, you close your eyes and make a wish too, okay?"
       }
     ]
   },
@@ -487,7 +545,8 @@
         "source": "Tim",
         "japanese": "テム：ボクはみんなの無事と父さんのことをいっしょうけんめいいのってみた…",
         "thammy": "Tim: I tried praying as hard as I could for everyone's safety, and for my dad...",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: I prayed as hard as I could—for everyone's safety, and for my dad..."
       }
     ]
   },
@@ -499,7 +558,8 @@
         "source": "Narrator",
         "japanese": "ひょう流１８日目",
         "thammy": "18th day adrift",
-        "tone": ""
+        "tone": "",
+        "claude": "18th day adrift"
       }
     ]
   },
@@ -511,37 +571,43 @@
         "source": "Karen",
         "japanese": "カレン：もうひょう流してから３週間近くたつのね。",
         "thammy": "Karen: It's already nearly three weeks since we went adrift, huh?",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: It's been almost three weeks since we went adrift."
       },
       {
         "source": "Karen",
         "japanese": "テムってば少しカミの毛がのびたんじゃない？そうね２ドットくらい（笑）",
         "thammy": "Speaking of it, Tim, hasn't your hair grown a little? Yeah, about two pixels. (Laughs)",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim, hasn't your hair grown a bit? Yeah, about two pixels. (Laughs)"
       },
       {
         "source": "Tim",
         "japanese": "テム：そういうカレンもさ、おひめさまって感じじゃなくなったよな。",
         "thammy": "Tim: Saying that, Karen, you don't feel like a princess anymore.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: You know, Karen, you don't really seem like a princess anymore."
       },
       {
         "source": "Tim",
         "japanese": "どっかの島の女の子って言ってもわかんないと思うけど。",
         "thammy": "I think if someone said you were a girl from some island, I wouldn't even know.",
-        "tone": ""
+        "tone": "",
+        "claude": "If someone said you were just some island girl, I'd probably believe them."
       },
       {
         "source": "Karen",
         "japanese": "カレン：ひっどーい！",
         "thammy": "Karen: You're awwwfulll!",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: That's awwwful!"
       },
       {
         "source": "Karen",
         "japanese": "ななに…？あの海にいるのなに…？",
         "thammy": "W-what...? What's out there in the water...?",
-        "tone": ""
+        "tone": "",
+        "claude": "W-wait... What's that in the water...?"
       }
     ]
   },
@@ -553,13 +619,15 @@
         "source": "Karen",
         "japanese": "カレン：イカダのまわりをぐるぐるまわるだけでおそってこないわね…",
         "thammy": "Karen: They're just circling round and round the raft; they're not coming to attack...",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: They're just circling around the raft... They're not attacking..."
       },
       {
         "source": "Tim",
         "japanese": "テム：しばらく様子を見てみよう。",
         "thammy": "Tim: Let's observe the situation for a bit.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Let's watch them for a while."
       }
     ]
   },
@@ -571,13 +639,15 @@
         "source": "Karen",
         "japanese": "カレン：もしかしてサメ…?",
         "thammy": "Karen: Could they be sharks...?",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: Are those... sharks...?"
       },
       {
         "source": "Karen",
         "japanese": "あたしたち食べられちゃうのかしら…どうしよう..テム…",
         "thammy": "I wonder if we'll be eaten... What should we do...? Tim…",
-        "tone": ""
+        "tone": "",
+        "claude": "Are we going to be eaten...? What should we do... Tim..."
       }
     ]
   },
@@ -589,31 +659,36 @@
         "source": "Karen",
         "japanese": "カレン：わかった！この子たちお腹がすいてないのよ！",
         "thammy": "Karen: I've got it! These little fishies aren't hungry!",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: I've got it! They're not hungry!"
       },
       {
         "source": "Karen",
         "japanese": "むかしじいやに教わったの。お腹がすいてないのに生き物をおそうのは人間だけだって。",
         "thammy": "My butler taught it to me a long time ago. Humans are the only living thing that attack when they're not hungry.",
-        "tone": ""
+        "tone": "",
+        "claude": "My butler told me a long time ago—humans are the only creatures that attack when they're not hungry."
       },
       {
         "source": "Tim",
         "japanese": "テム：それならボクらのやっていることは人間らしくないんだなあ。",
         "thammy": "Tim: If that's the case, then I guess what we're doing is unusual for humans.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Then I guess what we're doing isn't very human-like."
       },
       {
         "source": "Tim",
         "japanese": "死にそうになるまで魚を食べなかったもんね。",
         "thammy": "After all, we didn't eat any of the fish until we were about to die, right?",
-        "tone": ""
+        "tone": "",
+        "claude": "We didn't eat any fish until we were practically dying, after all."
       },
       {
         "source": "Karen",
         "japanese": "カレン：そうよね。あいっちゃうみたい。サメさんさよーならぁー…",
         "thammy": "Karen: That's how it is, huh? Ah, it looks like they're leaving. Dear sharks, farewellll...",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: That's right. Oh, looks like they're leaving. Goodbye, sharks..."
       }
     ]
   },
@@ -625,7 +700,8 @@
         "source": "Narrator",
         "japanese": "ひょう流２１日目",
         "thammy": "21st day adrift",
-        "tone": ""
+        "tone": "",
+        "claude": "21st day adrift"
       }
     ]
   },
@@ -637,55 +713,64 @@
         "source": "Karen",
         "japanese": "カレン：あたしね。お城にいるときは夕日をみるのが好きだったの…",
         "thammy": "Karen: Hey, I want to tell you something about myself. When I was at the castle, I liked to look at the setting sun...",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: You know... When I was at the castle, I loved watching the sunset..."
       },
       {
         "source": "Karen",
         "japanese": "お城のわたりロウカから見る夕日はすっごくすっごくきれいで…",
         "thammy": "When I saw the setting sun from the castle's halls, it was incredibly, incredibly lovely...",
-        "tone": ""
+        "tone": "",
+        "claude": "The sunset from the castle corridor was so, so beautiful..."
       },
       {
         "source": "Karen",
         "japanese": "でもね。今はきらいになっちゃった。",
         "thammy": "But, you know. Now I've come to hate it.",
-        "tone": ""
+        "tone": "",
+        "claude": "But now... I've come to hate it."
       },
       {
         "source": "Karen",
         "japanese": "夕日がしずむと暗くてこわいヤミがやってきて…",
         "thammy": "When the sun sets, then the gloomy, frightful darkness comes...",
-        "tone": ""
+        "tone": "",
+        "claude": "When the sun sets, the dark, frightening night comes..."
       },
       {
         "source": "Karen",
         "japanese": "そのまま二度と朝日を見られないんじゃないかと思って..",
         "thammy": "Because of that, I start to think that I may never be able to see the dawn again..",
-        "tone": ""
+        "tone": "",
+        "claude": "And I start to think... that I might never see the sunrise again..."
       },
       {
         "source": "Karen",
         "japanese": "でもテムがそばにいてくれたから毎日きれいな朝の光を見られたのよね。",
         "thammy": "But when you're near for me, I can see lovely morning light every day.",
-        "tone": ""
+        "tone": "",
+        "claude": "But because you were here with me, I've been able to see the beautiful morning light every day."
       },
       {
         "source": "Karen",
         "japanese": "テムが近くにいてくれると、たわいないこんな時間もなんだか楽しく感じるの。",
         "thammy": "If you're here for me, I feel that even challenging times like these are fun somehow.",
-        "tone": ""
+        "tone": "",
+        "claude": "When you're near me, even these difficult times feel... fun somehow."
       },
       {
         "source": "Tim",
         "japanese": "テム：ボクはそんなカレンに話したいことがあるはずなのになぜか言葉が出てこなかった。",
         "thammy": "Tim: I must have wanted to say something like that to Karen, yet for some reason the words didn't come out.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: I should have had something to say to Karen, but for some reason, the words wouldn't come."
       },
       {
         "source": "Tim",
         "japanese": "ボクはだまってうなづくだけだった…",
         "thammy": "I only nodded and said nothing…",
-        "tone": ""
+        "tone": "",
+        "claude": "I just nodded silently..."
       }
     ]
   },
@@ -697,19 +782,22 @@
         "source": "Tim",
         "japanese": "テム：とつぜんボクはひざからがくっとくずれ落ち意識が遠のいていった…",
         "thammy": "Tim: Suddenly, my knees buckled; I collapsed and lost consciousness...",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Suddenly, my knees gave out—I collapsed and everything went dark..."
       },
       {
         "source": "Karen",
         "japanese": "カレン：テムっ！テムっ！！どうしたのよっ！",
         "thammy": "Karen: Tim...! Tim...! What's wrong...!?",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: Tim! Tim!! What's wrong!?"
       },
       {
         "source": "Karen",
         "japanese": "しっかりしてよっ！あたしを一人にしないでよおっ！！",
         "thammy": "Hold on...! Don't leave me by myself...!!",
-        "tone": ""
+        "tone": "",
+        "claude": "Stay with me! Don't leave me alone!!"
       }
     ]
   }

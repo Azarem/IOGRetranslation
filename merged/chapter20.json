@@ -7,12 +7,14 @@
         "source": "Tim",
         "japanese": "テム：ぼくとリリィはムー大陸へと足をふみいれた。",
         "thammy": "Tim: Lillie and I set foot upon the continent of Mu.",
+        "claude": "Lillie and I set foot on the continent of Mu.",
         "tone": ""
       },
       {
         "source": "Tim",
         "japanese": "数千年のねむりからさめた大陸はぼくらをかんげいしてくれるだろうか…",
         "thammy": "Would the continent that was awoken from numerous millennia of sleep welcome us…?",
+        "claude": "I wonder if the continent, awakened from thousands of years of sleep, will welcome us...",
         "tone": ""
       }
     ]
@@ -25,30 +27,35 @@
         "source": "Narrator",
         "japanese": "リリィ：ねえテム。ちょっと思ったんだけどさ、",
         "thammy": "Lillie begins to speak from your pocket.",
+        "claude": "Lillie speaks from your pocket.",
         "tone": ""
       },
       {
         "source": "Lillie",
         "japanese": "リリィ：ねえテム。ちょっと思ったんだけどさ、",
         "thammy": "Lillie: Hey Tim. I was thinking a little.",
+        "claude": "Lillie: Hey, Tim. I was just thinking...",
         "tone": ""
       },
       {
         "source": "Lillie",
         "japanese": "この石像って何かを見つめてるように見えない？",
         "thammy": "Doesn't it look like these stone statues are staring at something?",
+        "claude": "Doesn't it look like these statues are staring at something?",
         "tone": ""
       },
       {
         "source": "Lillie",
         "japanese": "ほらそこにあるたからばこって２つの石像の視線が交わるところにあるよね。",
         "thammy": "Look, the treasure box over there is where the two statues' lines of sight cross, right?",
+        "claude": "Look, that treasure chest over there is right where the two statues' gazes meet, isn't it?",
         "tone": ""
       },
       {
         "source": "Lillie",
         "japanese": "だったら他の石像も何かを見つめてるんじゃないかと思って。あたしの思いすごしなのかな。",
         "thammy": "If that's the case, I was wondering if the other statues aren't also staring at something. I guess I could be overthinking it.",
+        "claude": "So I was thinking maybe the other statues are staring at something too. Maybe I'm just overthinking it, though.",
         "tone": ""
       }
     ]
@@ -61,6 +68,7 @@
         "source": "Narrator",
         "japanese": "いのりの像を見つけた！いのりの像…どこかに同じ名前の部屋がなかっただろうか…",
         "thammy": "Found a prayer statue! Prayer statue... Wasn't there a room somewhere with the same name...?",
+        "claude": "Found a prayer statue! Prayer statue... Wasn't there a room with the same name somewhere...?",
         "tone": ""
       }
     ]
@@ -73,6 +81,7 @@
         "source": "Narrator",
         "japanese": "いのりの像を見つけた！いのりの像…どこかに同じ名前の部屋がなかっただろうか…",
         "thammy": "Found a prayer statue! Prayer statue… Wasn't there another room with the same name…?",
+        "claude": "Found a prayer statue! Prayer statue... Wasn't there another room with the same name...?",
         "tone": ""
       }
     ]
@@ -85,6 +94,7 @@
         "source": "Narrator",
         "japanese": "いのりの石像をささげた！",
         "thammy": "Offered the prayer statue!",
+        "claude": "Offered the prayer statue!",
         "tone": ""
       }
     ]
@@ -97,6 +107,7 @@
         "source": "Narrator",
         "japanese": "中はからっぽだった！",
         "thammy": "But nothing happened!",
+        "claude": "It was empty inside!",
         "tone": ""
       }
     ]
@@ -109,6 +120,7 @@
         "source": "Narrator",
         "japanese": "どこからか低く不気味な声がきこえてきた…",
         "thammy": "An eerie voice could be heard descending from somewhere...",
+        "claude": "A low, eerie voice could be heard from somewhere...",
         "tone": ""
       }
     ]
@@ -121,12 +133,14 @@
         "source": "Spirit",
         "japanese": "太陽のカミよ…ラ・ムーよ…",
         "thammy": "O god of the sun... O Ra Mu...",
+        "claude": "O god of the sun... O Ra Mu...",
         "tone": ""
       },
       {
         "source": "Spirit",
         "japanese": "大いなる海に力をあたえたまえ…",
         "thammy": "Bestow your power upon the great ocean...",
+        "claude": "Grant your power to the great ocean...",
         "tone": ""
       }
     ]
@@ -139,12 +153,14 @@
         "source": "Lillie",
         "japanese": "リリィ：あっ！さっきより水が少なくなってるっ！",
         "thammy": "Lillie: Ah...! The water level's been reduced from what it was just now...!",
+        "claude": "Lillie: Ah! The water level went down!!",
         "tone": ""
       },
       {
         "source": "Lillie",
         "japanese": "どこからか下の段へおりられそうだねっ！！",
         "thammy": "We can now descend to a lower level from somewhere, can't we...!?",
+        "claude": "We can probably get to a lower level from somewhere now!!",
         "tone": ""
       }
     ]
@@ -157,18 +173,21 @@
         "source": "Gaia",
         "japanese": "ムー大陸はそなたが旅をはじめると同時に海面へふじょうした。",
         "thammy": "When thou began thy journey, the Mu continent surfaced to the sea level.",
+        "claude": "The continent of Mu surfaced to the sea when thou began thy journey.",
         "tone": ""
       },
       {
         "source": "Gaia",
         "japanese": "しかし大陸の多くの部分にはまだ海水がたまっている。",
         "thammy": "However, seawater has still accumulated on many sections of the continent.",
+        "claude": "However, seawater still pools in many parts of the continent.",
         "tone": ""
       },
       {
         "source": "Gaia",
         "japanese": "この水がすべてなくなったときそなたはムー大陸の王ラ・ムーのねむる場所へたどりつくだろう。",
         "thammy": "When all of this water has been removed, thou wilt probably arrive at the place where the Mu continent's king, Ra Mu, sleeps.",
+        "claude": "When all this water is gone, thou shalt reach the place where Ra Mu, king of Mu, sleeps.",
         "tone": ""
       }
     ]
@@ -181,12 +200,14 @@
         "source": "Gaia",
         "japanese": "テムの力サイコスライダーは高さが低くせまい通路をとおりぬけることができる。",
         "thammy": "With Tim's power, Psycho Slider, thou canst lower thyself and pass through narrow passages.",
+        "claude": "Tim's power, Psycho Slider, allows thee to crouch low and pass through narrow passages.",
         "tone": ""
       },
       {
         "source": "Gaia",
         "japanese": "とおれる岩のすきまを見落さないようにあたりに気をくばって歩くがいい。",
         "thammy": "Thou shouldst pay attention so not to overlook crevices that thou wouldst pass by.",
+        "claude": "Walk with care so as not to overlook crevices in the rock that thou canst pass through.",
         "tone": ""
       }
     ]
@@ -199,18 +220,21 @@
         "source": "Gaia",
         "japanese": "サイコスライダーは少年テムだけが使うことのできるちから。",
         "thammy": "Psycho Slider is a power that only the young man, Tim, can use.",
+        "claude": "Psycho Slider is a power that only the boy Tim can use.",
         "tone": ""
       },
       {
         "source": "Gaia",
         "japanese": "スライディングこうげきができるようになる。またせまい通路も通れるであろう。",
         "thammy": "Thou art now able to do a sliding attack. Again, thou wilt also pass through narrow passages.",
+        "claude": "Thou canst now perform a sliding attack. Thou wilt also be able to pass through narrow passages.",
         "tone": ""
       },
       {
         "source": "Gaia",
         "japanese": "走っている最中にこうげきボタンをおすがよい。",
         "thammy": "Thou shouldst push the attack button whilst running.",
+        "claude": "Press the attack button whilst running.",
         "tone": ""
       }
     ]
@@ -223,6 +247,7 @@
         "source": "Tim",
         "japanese": "そこはムーの人々の基場のようだった…",
         "thammy": "It looks like this was the cemetery for Mu's people...",
+        "claude": "It looked like a graveyard for the people of Mu...",
         "tone": ""
       }
     ]
@@ -235,18 +260,21 @@
         "source": "Ra Mu",
         "japanese": "私はムー大陸の王ラ・ムー。肉体ははるかむかしになくしたが精神だけは生きつづけている。",
         "thammy": "I am the king of the continent of Mu, Ra Mu.",
+        "claude": "I am Ra Mu, king of the continent of Mu.",
         "tone": ""
       },
       {
         "source": "Ra Mu",
         "japanese": "私はムー大陸の王ラ・ムー。肉体ははるかむかしになくしたが精神だけは生きつづけている。",
         "thammy": "Though I lost my corporeal body in the distant past, my spirit continues to live on.",
+        "claude": "I lost my body in the distant past, but my spirit lives on.",
         "tone": ""
       },
       {
         "source": "Ra Mu",
         "japanese": "さあよく目をこらしてみなさい。さまよえるたましいたちが見えるはずだ。",
         "thammy": "Alright, strain your eyes well. The wandering souls should be visible.",
+        "claude": "Now, look carefully. You should see the wandering souls.",
         "tone": ""
       }
     ]
@@ -259,6 +287,7 @@
         "source": "Ra Mu",
         "japanese": "ねむりからさめたたましいたちの言葉を聞いてくるがよい。",
         "thammy": "You should listen to the words of the souls that have awakened from their sleep.",
+        "claude": "Go and listen to the words of the souls awakened from their sleep.",
         "tone": ""
       }
     ]
@@ -271,12 +300,14 @@
         "source": "Spirit",
         "japanese": "あるとき天空からひとすじの光がさしこんだ。我々は神の光だと思いひれふした。",
         "thammy": "A beam of light once shone in from the heavens.",
+        "claude": "One day, a beam of light shone down from the heavens.",
         "tone": ""
       },
       {
         "source": "Spirit",
         "japanese": "あるとき天空からひとすじの光がさしこんだ。我々は神の光だと思いひれふした。",
         "thammy": "We thought it was the light of the gods and knelt before it.",
+        "claude": "We thought it was the light of the gods and prostrated ourselves before it.",
         "tone": ""
       }
     ]
@@ -289,18 +320,21 @@
         "source": "Spirit",
         "japanese": "神の光を見た日から一年がすぎ我々の体に変化が起こりはじめた。",
         "thammy": "One year after we saw the light of the gods, our bodies started to undergo a change.",
+        "claude": "A year passed after we saw the light of the gods, and our bodies began to change.",
         "tone": ""
       },
       {
         "source": "Spirit",
         "japanese": "ある者はやせほそりある者は岩のようになりまたあるものは水のように体がとけていったのだ…",
         "thammy": "Some people became thin, some people grew to look like boulders,",
+        "claude": "Some wasted away, some became like stone,",
         "tone": ""
       },
       {
         "source": "Spirit",
         "japanese": "ある者はやせほそりある者は岩のようになりまたあるものは水のように体がとけていったのだ…",
         "thammy": "…and some people even melted away so that they looked like water...",
+        "claude": "and others melted away like water...",
         "tone": ""
       }
     ]
@@ -313,12 +347,14 @@
         "source": "Spirit",
         "japanese": "家族や友人が目前で化け物の姿に変化しおそいかかってくる。我々はなみだを流しながら武器をふるう…",
         "thammy": "Our family and friends transformed to monsters before our very eyes and stormed in to attack us.",
+        "claude": "Our families and friends transformed into monsters before our eyes and attacked us.",
         "tone": ""
       },
       {
         "source": "Spirit",
         "japanese": "家族や友人が目前で化け物の姿に変化しおそいかかってくる。我々はなみだを流しながら武器をふるう…",
         "thammy": "We were shedding tears as we raised our weapons against them...",
+        "claude": "We raised our weapons against them, tears streaming down our faces...",
         "tone": ""
       }
     ]
@@ -331,36 +367,42 @@
         "source": "Spirit",
         "japanese": "おそろしさにたえきれずここからにげ出そうと考える者も少なくない。",
         "thammy": "We couldn't bear this awful state of affairs,",
+        "claude": "Many of us could not bear this horror",
         "tone": ""
       },
       {
         "source": "Spirit",
         "japanese": "おそろしさにたえきれずここからにげ出そうと考える者も少なくない。",
         "thammy": "…so there were more than a few people who thought we should escape from here.",
+        "claude": "and thought to flee from this place.",
         "tone": ""
       },
       {
         "source": "Spirit",
         "japanese": "しかしムー大陸は大海原の島。生きて他の場所へたどりつける保障はどこにもない…",
         "thammy": "However, the continent of Mu is an island on the deep blue sea.",
+        "claude": "But the continent of Mu is an island in the vast ocean.",
         "tone": ""
       },
       {
         "source": "Spirit",
         "japanese": "しかしムー大陸は大海原の島。生きて他の場所へたどりつける保障はどこにもない…",
         "thammy": "Beyond that, there was no guarantee that we would have arrived in some other place where we could live...",
+        "claude": "There was no guarantee we would reach another land alive...",
         "tone": ""
       },
       {
         "source": "Spirit",
         "japanese": "この島には船の材料がないのだ。石で組み立ててもすぐにしずんでしまう…",
         "thammy": "This island did not have the material for a ship.",
+        "claude": "This island had no wood for building ships.",
         "tone": ""
       },
       {
         "source": "Spirit",
         "japanese": "この島には船の材料がないのだ。石で組み立ててもすぐにしずんでしまう…",
         "thammy": "It would immediately sink if we had constructed it from stone...",
+        "claude": "A ship built from stone would only sink...",
         "tone": ""
       }
     ]
@@ -373,6 +415,7 @@
         "source": "Spirit",
         "japanese": "こんなことが続くなら生きていることにいったい何の意味があろう…",
         "thammy": "What meaning would there even be in going on living if it went on like this…?",
+        "claude": "What meaning could there be in living if this continued...?",
         "tone": ""
       }
     ]
@@ -385,24 +428,28 @@
         "source": "Spirit",
         "japanese": "人々は海底トンネルをほり始めた。何百年いや何千年かかるかわからない計画にのぞみをたくしてひたすらほり続ける…",
         "thammy": "People started to dig an undersea tunnel.",
+        "claude": "The people began to dig an undersea tunnel.",
         "tone": ""
       },
       {
         "source": "Spirit",
         "japanese": "人々は海底トンネルをほり始めた。何百年いや何千年かかるかわからない計画にのぞみをたくしてひたすらほり続ける…",
         "thammy": "We didn't know how many centuries…",
+        "claude": "We did not know how many centuries...",
         "tone": ""
       },
       {
         "source": "Spirit",
         "japanese": "人々は海底トンネルをほり始めた。何百年いや何千年かかるかわからない計画にのぞみをたくしてひたすらほり続ける…",
         "thammy": "…no, how many millennia this plan that we had entrusted our hopes into would take,",
+        "claude": "no, how many millennia it would take, but we entrusted our hope to this plan",
         "tone": ""
       },
       {
         "source": "Spirit",
         "japanese": "人々は海底トンネルをほり始めた。何百年いや何千年かかるかわからない計画にのぞみをたくしてひたすらほり続ける…",
         "thammy": "…but they continued digging...",
+        "claude": "and kept digging...",
         "tone": ""
       }
     ]
@@ -415,12 +462,14 @@
         "source": "Ra Mu",
         "japanese": "人々がほり進んだ海底トンネルはこのおくにある。",
         "thammy": "The undersea tunnel that the people had dug is inside here.",
+        "claude": "The undersea tunnel the people dug lies within.",
         "tone": ""
       },
       {
         "source": "Ra Mu",
         "japanese": "そしてこのミステリードールをもっていきなさい。",
         "thammy": "And with that, please take this Mystery Doll.",
+        "claude": "And take this Mystery Doll with you.",
         "tone": ""
       }
     ]
@@ -433,6 +482,7 @@
         "source": "Eric",
         "japanese": "エリック：うわああああああん…だれか助けてえっ！！",
         "thammy": "Eric: Waaaaaaah... Somebody saaave me...!!",
+        "claude": "Eric: Waaaaaaaaah... Somebody help meee!!",
         "tone": ""
       }
     ]
@@ -445,60 +495,70 @@
         "source": "Vampire man",
         "japanese": "キュウケツキ男：よくミステリードールを見つけ出してくれた！",
         "thammy": "Vampire man: You did well, finding the Mystery Doll for us!",
+        "claude": "Vampire man: Well done finding the Mystery Doll for us!",
         "tone": ""
       },
       {
         "source": "Vampire man",
         "japanese": "変なヤツがきゅうでんにやってきたと思っていたが…ふっ。およがせておいて正解だったよ。",
         "thammy": "I was thinking that someone strange had turned up at the palace but…",
+        "claude": "I thought some odd fellow had wandered into the palace, but...",
         "tone": ""
       },
       {
         "source": "Vampire man",
         "japanese": "変なヤツがきゅうでんにやってきたと思っていたが…ふっ。およがせておいて正解だったよ。",
         "thammy": "Pshaw. I was right to let you free.",
+        "claude": "Heh. I was right to let you roam free.",
         "tone": ""
       },
       {
         "source": "Vampire woman",
         "japanese": "キュウケツキ女：なによ。あんたはえものがやってきたとかよだれをたらしてたくせにっ！",
         "thammy": "Vampire woman: What are you going on about?",
+        "claude": "Vampire woman: What are you talking about?",
         "tone": ""
       },
       {
         "source": "Vampire woman",
         "japanese": "キュウケツキ女：なによ。あんたはえものがやってきたとかよだれをたらしてたくせにっ！",
         "thammy": "Even though you start drooling when anything that resembles prey turns up…!",
+        "claude": "You were drooling the moment prey showed up!",
         "tone": ""
       },
       {
         "source": "Vampire woman",
         "japanese": "ちょっと若い子がくればこれだものっ！あんたは食べることしか考えてないのっ？",
         "thammy": "Every single time that you manage to get a hold of a few young children, you're always like that…!",
+        "claude": "Every time a young one shows up, you're like this!",
         "tone": ""
       },
       {
         "source": "Vampire woman",
         "japanese": "ちょっと若い子がくればこれだものっ！あんたは食べることしか考えてないのっ？",
         "thammy": "Do you think of nothing but eating…?",
+        "claude": "Do you ever think about anything besides eating?!",
         "tone": ""
       },
       {
         "source": "Vampire man",
         "japanese": "キュウケツキ男：そういうお前だって！！",
         "thammy": "Vampire man: You're one to talk!",
+        "claude": "Vampire man: You're one to talk!!",
         "tone": ""
       },
       {
         "source": "Vampire man",
         "japanese": "まあまて。今はふうふげんかをしてる場合じゃない。",
         "thammy": "Hey, wait. Now isn't the situation to be having a lover's quarrel.",
+        "claude": "Wait, wait. Now's not the time for a marital spat.",
         "tone": ""
       },
       {
         "source": "Vampire man",
         "japanese": "まずはそのミステリードールをいただくとしよう。そこのお前！かくごしろっ！！！",
         "thammy": "First off, let's take that Mystery Doll. You there! Prepare yourself…!!",
+        "claude": "First, we'll be taking that Mystery Doll. You there! Prepare yourself!!!",
         "tone": ""
       }
     ]
@@ -511,6 +571,7 @@
         "source": "Vampire woman",
         "japanese": "キュウケツキ女：ふんっ。あんな男死んでせいせいしたわっさあ次はお前の番っ！！かくごおしっ！！",
         "thammy": "Vampire woman: Hmph. That man's dead; what a relief. Alright, it's your turn next...!! Get ready...!!",
+        "claude": "Vampire woman: Hmph. Good riddance to that man. Now it's your turn!! Get ready!!",
         "tone": ""
       }
     ]
@@ -523,6 +584,7 @@
         "source": "Vampire man",
         "japanese": "キュウケツキ男：きさまっ！よくもわが妻をっ！！ゆるさんっ！！！！",
         "thammy": "Vampire man: You bastard…! How could you do that to my wife…!! I won't tolerate this…!!!!",
+        "claude": "Vampire man: You bastard! How dare you kill my wife!! I'll never forgive you!!!!",
         "tone": ""
       }
     ]
@@ -535,6 +597,7 @@
         "source": "Eric",
         "japanese": "まずはばくだんをとめてよおっ！はやくはやくっ！！",
         "thammy": "Before anything else, stop the booomb…! Hurry hurry…!!",
+        "claude": "Stop the bomb first! Hurry, hurry!!",
         "tone": ""
       }
     ]
@@ -547,12 +610,14 @@
         "source": "Tim",
         "japanese": "ばくだんからは赤い線と青い線が２本出ているようだ…",
         "thammy": "It seems that both a red wire and a blue wire are hanging out of the bomb...",
+        "claude": "There appears to be a red wire and a blue wire coming out of the bomb...",
         "tone": ""
       },
       {
         "source": "Narrator",
         "japanese": "どっちを切りますか？ ／ 赤いほう ／ 青いほう",
         "thammy": "Which will you cut? Go with red Go with blue",
+        "claude": "Which will you cut? / Red wire / Blue wire",
         "tone": ""
       }
     ]
@@ -565,6 +630,7 @@
         "source": "Narrator",
         "japanese": "赤い線を引きちぎった！",
         "thammy": "The red wire is cut!",
+        "claude": "You cut the red wire!",
         "tone": ""
       }
     ]
@@ -577,6 +643,7 @@
         "source": "Narrator",
         "japanese": "赤い線を引きちぎった！",
         "thammy": "The blue wire is cut!",
+        "claude": "You cut the blue wire!",
         "tone": ""
       }
     ]
@@ -589,6 +656,7 @@
         "source": "Narrator",
         "japanese": "中はからっぽだった！",
         "thammy": "It was a dud. I'm saved...",
+        "claude": "It was empty inside!",
         "tone": ""
       }
     ]
@@ -601,48 +669,56 @@
         "source": "Tim",
         "japanese": "テム：どうやらばくだんは止まったみたいだった…",
         "thammy": "Tim: It looks like the bomb stopped somehow...",
+        "claude": "Tim: It looks like the bomb stopped...",
         "tone": ""
       },
       {
         "source": "Eric",
         "japanese": "エリック：たすかったあ…",
         "thammy": "Eric: I'm saaaved...",
+        "claude": "Eric: I'm saaaved...",
         "tone": ""
       },
       {
         "source": "Narrator",
         "japanese": "リリィ：ごめんねテム…あたしいっしょにいたのに何にもできなかった…",
         "thammy": "Lillie begins to speak from your pocket.",
+        "claude": "Lillie speaks from your pocket.",
         "tone": ""
       },
       {
         "source": "Lillie",
         "japanese": "リリィ：ごめんねテム…あたしいっしょにいたのに何にもできなかった…",
         "thammy": "Lillie: Sorry Tim… Even though I was with you, I couldn't do anything…",
+        "claude": "Lillie: Sorry, Tim... Even though I was with you, I couldn't do anything at all...",
         "tone": ""
       },
       {
         "source": "Lillie",
         "japanese": "足がすくんでぜんぜん動けないし声も出ないし…テムはやっぱり男の子だよね。",
         "thammy": "My legs froze and couldn't move at all, even my voice wouldn't come out…",
+        "claude": "My legs froze up and I couldn't move at all, and I couldn't even speak...",
         "tone": ""
       },
       {
         "source": "Lillie",
         "japanese": "足がすくんでぜんぜん動けないし声も出ないし…テムはやっぱり男の子だよね。",
         "thammy": "You're a boy after all, aren't you.",
+        "claude": "You really are a boy, aren't you, Tim.",
         "tone": ""
       },
       {
         "source": "Lillie",
         "japanese": "いままで自分をしっかりしてるって思ってたけどいざとなるとこれだもん…",
         "thammy": "I thought I was reliable until now, but this is how it is when it comes down to it...",
+        "claude": "I thought I had it together until now, but when it came down to it... this is how I am...",
         "tone": ""
       },
       {
         "source": "Lillie",
         "japanese": "………。ごめんもうしばらくポケットの中にいさせて。",
         "thammy": "…Sorry, I'll still take up your pocket for a while.",
+        "claude": "......... Sorry. Let me stay in your pocket a little while longer.",
         "tone": ""
       }
     ]
@@ -655,6 +731,7 @@
         "source": "Eric",
         "japanese": "エリック：テムが変身してたことはだれにも言わないでおくよ。",
         "thammy": "Eric: I won't tell anyone that you transformed.",
+        "claude": "Eric: I won't tell anyone you transformed.",
         "tone": ""
       }
     ]
@@ -667,18 +744,21 @@
         "source": "Neil",
         "japanese": "ニール：テムっ！無事かっ？！",
         "thammy": "Neil: Tim...! Are you safe...?!",
+        "claude": "Neil: Tim! Are you all right?!",
         "tone": ""
       },
       {
         "source": "Rob",
         "japanese": "ロブ：テムっ！リリィの姿が見あたらないけどリリィはどうしたっ？！",
         "thammy": "Rob: Tim...! I couldn't see any sign of Lillie; how's she doin'...?!",
+        "claude": "Rob: Tim! I don't see Lillie anywhere—what happened to her?!",
         "tone": ""
       },
       {
         "source": "Lillie",
         "japanese": "リリィ：ここにいるよっ。",
         "thammy": "Lillie: I'm here…",
+        "claude": "Lillie: I'm here.",
         "tone": ""
       }
     ]
@@ -691,6 +771,7 @@
         "source": "Lillie",
         "japanese": "リリィ:心配させてごめんね。でもテムが守ってくれたからあたしは平気っ。",
         "thammy": "Lillie: Sorry for making you worry. But I had Tim to protect me so I'm okay…",
+        "claude": "Lillie: Sorry for worrying you. But Tim protected me, so I'm fine.",
         "tone": ""
       }
     ]
@@ -703,6 +784,7 @@
         "source": "Neil",
         "japanese": "ニール：へえ。テムもなかなか男らしいところが出てきたじゃないか。",
         "thammy": "Neil: Oh? Tim's turned out to be very manly too, hasn't he?",
+        "claude": "Neil: Oh? Tim's showing his manly side, isn't he?",
         "tone": ""
       }
     ]
@@ -715,60 +797,70 @@
         "source": "Karen",
         "japanese": "カレン：そんなのどうでもいいじゃない！",
         "thammy": "Karen: Who cares about that!",
+        "claude": "Karen: Who cares about that!",
         "tone": ""
       },
       {
         "source": "Karen",
         "japanese": "それよりムー大陸からどうやって出るかを考えましょっ！",
         "thammy": "More importantly, let's think how to get off of the continent of Mu...!",
+        "claude": "We need to figure out how to get off the continent of Mu!",
         "tone": ""
       },
       {
         "source": "Lillie",
         "japanese": "リリィ：それならだいじょうぶ。さっきラ・ムーとかいう人からいいこと聞いちゃったもの。",
         "thammy": "Lillie: You don't have to worry about that.",
+        "claude": "Lillie: Don't worry about that.",
         "tone": ""
       },
       {
         "source": "Lillie",
         "japanese": "リリィ：それならだいじょうぶ。さっきラ・ムーとかいう人からいいこと聞いちゃったもの。",
         "thammy": "We heard something good from someone just now; they were named Ra Mu or something like that.",
+        "claude": "We just heard something useful from someone called Ra Mu or something.",
         "tone": ""
       },
       {
         "source": "Narrator",
         "japanese": "テムはムー大陸のことや海底トンネルをわたった人々のことをみんなに話した…",
         "thammy": "Tim told everyone about the continent of Mu, the people who crossed over through the undersea tunnel, and so on...",
+        "claude": "Tim told everyone about the continent of Mu and the people who crossed through the undersea tunnel...",
         "tone": ""
       },
       {
         "source": "Karen",
         "japanese": "カレン：悲しい話ね…",
         "thammy": "Karen: It's a sad story, isn't it…?",
+        "claude": "Karen: That's so sad...",
         "tone": ""
       },
       {
         "source": "Karen",
         "japanese": "いっしょにくらしてた人たちがはなればなれになってしかも片方は海の底なんて…",
         "thammy": "The people who were living here together were scattered,",
+        "claude": "People who lived together, separated...",
         "tone": ""
       },
       {
         "source": "Karen",
         "japanese": "いっしょにくらしてた人たちがはなればなれになってしかも片方は海の底なんて…",
         "thammy": "and even more so when once they arrive at the other side on the bottom of the sea…",
+        "claude": "with one side stuck at the bottom of the ocean...",
         "tone": ""
       },
       {
         "source": "Neil",
         "japanese": "ニール：とにかくその海底トンネルを通っていけば近くの大陸へ出られるってわけか。",
         "thammy": "Neil: Anyway, if we pass through that undersea tunnel, then we should be able to get out, right?",
+        "claude": "Neil: So if we go through that undersea tunnel, we can reach another continent?",
         "tone": ""
       },
       {
         "source": "Rob",
         "japanese": "ロブ：よしっ！そうと決まればさっそく出発だっ！",
         "thammy": "Rob: Alright…! If we've decided on that, let's go immediately…!",
+        "claude": "Rob: All right! Let's get moving, then!",
         "tone": ""
       }
     ]

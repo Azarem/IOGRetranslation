@@ -7,13 +7,15 @@
         "source": "Neil",
         "japanese": "ニール：開いてるからかってにはいんなっ。",
         "thammy": "Neil: It's open, so come in if you want…",
-        "tone": ""
+        "tone": "",
+        "claude": "Neil: It's open, so come in if you want."
       },
       {
         "source": "Tim",
         "japanese": "テム：ニール。ぼくだよ。サウスケープの町のテムだよ。",
         "thammy": "Tim: Neil. It's me. It's Tim from South Cape.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Neil. It's me. Tim from South Cape."
       }
     ]
   },
@@ -25,13 +27,15 @@
         "source": "Neil",
         "japanese": "ニール：おおっ！テムじゃないかっ！！ずいぶんたくましくなったな。",
         "thammy": "Neil: Oh...! Well, if it isn't Tim...!! I guess you've developed a terribly resolute will.",
-        "tone": ""
+        "tone": "",
+        "claude": "Neil: Oh! Isn't that Tim!! You've gotten quite tough."
       },
       {
         "source": "Neil",
         "japanese": "それにずいぶんぞろぞろいるけどテムの友達かい？",
         "thammy": "With that, the rest of you that are swarming in, are you Tim's friends?",
-        "tone": ""
+        "tone": "",
+        "claude": "And you've brought quite a crowd. These are your friends?"
       }
     ]
   },
@@ -43,7 +47,8 @@
         "source": "Karen",
         "japanese": "カレン：この人なんだかくさああい…",
         "thammy": "Karen: This guy kinda stiiiinks...",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: This guy kinda reeeeks..."
       }
     ]
   },
@@ -55,13 +60,15 @@
         "source": "Lillie",
         "japanese": "リリィ：なんてこと言うのっ！そおいうことはもっと言い方っていうものがあるでしょっ！！",
         "thammy": "Lillie: How can you say something like that...!? You should be able to word it better...!!",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: How can you say something like that! There's a way to word things better, you know!!"
       },
       {
         "source": "Lillie",
         "japanese": "この部屋は鼻がねじまがるくらい素敵なかおりがただよってますねぇとかさぁ。",
         "thammy": "Come on, it's a wonderful nose-irritating smell drifting through the room or something, right?",
-        "tone": ""
+        "tone": "",
+        "claude": "Like, \"This room has a wonderful fragrance drifting that would twist your nose,\" or something!"
       }
     ]
   },
@@ -73,25 +80,29 @@
         "source": "Neil",
         "japanese": "ニール：おいおい。二人ともずいぶんはっきり物を言うおじょうさんだね。",
         "thammy": "Neil: Hey! You two little ladies are both terrible blunt, aren't you.",
-        "tone": ""
+        "tone": "",
+        "claude": "Neil: Hey now. You two young ladies certainly speak your minds clearly."
       },
       {
         "source": "Neil",
         "japanese": "ずっと発明にぼっとうしていると身なりにかまわなくなっちまうのさ。",
         "thammy": "The thing is, you come not to care about your appearance when you're focusing on inventing.",
-        "tone": ""
+        "tone": "",
+        "claude": "You see, when you're focusing on inventing all the time, you stop caring about your appearance."
       },
       {
         "source": "Neil",
         "japanese": "でも人にきらわれるほどひどいにおいじゃないと思うけどなあ。",
         "thammy": "But I suppose I thought that people wouldn't hate my odour that much...",
-        "tone": ""
+        "tone": "",
+        "claude": "But I don't think it's bad enough for people to hate me..."
       },
       {
         "source": "Neil",
         "japanese": "このくつ下だってはきはじめてからまだ一か月しかたってないんだぜ。",
         "thammy": "It still hasn't even been past a month since I started wearing these socks.",
-        "tone": ""
+        "tone": "",
+        "claude": "I've only been wearing these socks for a month, you know."
       }
     ]
   },
@@ -103,7 +114,8 @@
         "source": "Rob",
         "japanese": "ロブ：オレ３週間っていうきろくがあるけど負けてるなあ。",
         "thammy": "Rob: My record's three weeks, but I guess I'm losing...",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob: I have a record of three weeks, but I'm losing..."
       }
     ]
   },
@@ -115,13 +127,15 @@
         "source": "Karen",
         "japanese": "カレン：この人たちってば信じらんないっ！",
         "thammy": "Karen: Come on, I can't even believe these people...!",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: I can't believe these people!"
       },
       {
         "source": "Karen",
         "japanese": "もう同じ空気を吸ってるのもやだわっ！！",
         "thammy": "It's gross that I've already had to breathe that same air...!!",
-        "tone": ""
+        "tone": "",
+        "claude": "I don't even want to breathe the same air!!"
       }
     ]
   },
@@ -133,13 +147,15 @@
         "source": "Neil",
         "japanese": "ニール：だからっくつ下の話はもういいんだよっ。",
         "thammy": "Neil: So, that's enough about socks already...",
-        "tone": ""
+        "tone": "",
+        "claude": "Neil: Enough about the socks already!"
       },
       {
         "source": "Neil",
         "japanese": "まあとにかくくつろいでくれ。テムの友達だもんな。かんげいするよ。",
         "thammy": "Well, anyway, please relax. I guess you must be Tim's friends. Welcome to my humble home.",
-        "tone": ""
+        "tone": "",
+        "claude": "Well, anyway, make yourselves comfortable. You're Tim's friends. I welcome you."
       }
     ]
   },
@@ -151,7 +167,8 @@
         "source": "Lillie",
         "japanese": "リリィ：テムのいとこじゃ悪口いえないけどこれが発明家ねえ…",
         "thammy": "Lillie: He's Tim's cousin so I won't speak ill of him, but isn't this guy an inventor...?",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: He's Tim's cousin so I won't talk bad about him, but this is an inventor..."
       }
     ]
   },
@@ -163,7 +180,8 @@
         "source": "Eric",
         "japanese": "エリック：この発明品をモリスが見たらよろこぶだろうなぁ…",
         "thammy": "Eric: I guess Morris would have been delighted to see these inventions...",
-        "tone": ""
+        "tone": "",
+        "claude": "Eric: Morris would be so happy if he could see these inventions..."
       }
     ]
   },
@@ -175,19 +193,22 @@
         "source": "Neil",
         "japanese": "ニール：それはさんそボンベ。中には空気が入っているのさ。",
         "thammy": "Neil: That's the oxygen tank. I've put air inside.",
-        "tone": ""
+        "tone": "",
+        "claude": "Neil: That's an oxygen tank. Air is inside, you see."
       },
       {
         "source": "Neil",
         "japanese": "それをつければ水の中でも息ができるんだけど空気が１分くらいしかもたないんだ。",
         "thammy": "If you're wearing that, you can even breathe underwater. However, it can only hold roughly a minute of air.",
-        "tone": ""
+        "tone": "",
+        "claude": "If you attach it, you can breathe underwater, but the air only lasts about a minute."
       },
       {
         "source": "Neil",
         "japanese": "空気を圧縮できれば長時間もぐれるんだろうけどその方法が思いつかないんだよ。",
         "thammy": "If I could compress the air, you could probably dive for a long time, I haven't thought of the method to do that yet.",
-        "tone": ""
+        "tone": "",
+        "claude": "If I could compress the air, you could probably dive for a long time, but I can't think of how to do that."
       }
     ]
   },
@@ -199,19 +220,22 @@
         "source": "Neil",
         "japanese": "ニール：それはエアプレインのつばさ。",
         "thammy": "Neil: Those are aeroplane wings.",
-        "tone": ""
+        "tone": "",
+        "claude": "Neil: Those are airplane wings."
       },
       {
         "source": "Neil",
         "japanese": "鳥のように空を飛びたいっていう人類の夢をかなえてくれる素敵な機械の一部だよ。",
         "thammy": "It's a wonderful machine that fulfills mankind's dream of flying through the air like a bird; those wings are just one part of it.",
-        "tone": ""
+        "tone": "",
+        "claude": "They're part of a wonderful machine that fulfills mankind's dream of flying like a bird."
       },
       {
         "source": "Neil",
         "japanese": "本体はあまりに大きいうえに飛び立つにはかっ走路がいるんで今はさばくにかくしてある。",
         "thammy": "The rest of the main body is large, and even more than that, it needs a runway to take off. So it's in the desert.",
-        "tone": ""
+        "tone": "",
+        "claude": "The main body is too large and needs a runway to take off, so right now it's hidden in the desert."
       }
     ]
   },
@@ -223,7 +247,8 @@
         "source": "Neil",
         "japanese": "それはぼうえんきょう。天空の星が手にとるように見えるんだ。",
         "thammy": "That's the telescope. With it, you can see the stars of the heavens as if you could take them in your hand.",
-        "tone": ""
+        "tone": "",
+        "claude": "That's a telescope. You can see the stars in the sky as if you could take them in your hand."
       }
     ]
   },
@@ -235,25 +260,29 @@
         "source": "Neil",
         "japanese": "それはカメラ。景色をそっくりそのまま印画紙に焼きつけることができる機械さ。",
         "thammy": "That's the camera. It's a device that can burn the image of the landscape onto photographic paper identically.",
-        "tone": ""
+        "tone": "",
+        "claude": "That's a camera. It's a machine that can capture a scene exactly as it is onto photographic paper, you see."
       },
       {
         "source": "Neil",
         "japanese": "欠点は写すのに３０分近くかかることなんだ。",
         "thammy": "The flaw is that copying it takes nearly 30 minutes.",
-        "tone": ""
+        "tone": "",
+        "claude": "The drawback is that it takes nearly 30 minutes to capture an image."
       },
       {
         "source": "Neil",
         "japanese": "景色は動かないからいいけど人を写す場合は３０分もの間まばたきもしちゃいけない。",
         "thammy": "The landscape doesn't move so that's fine, but people have to go on without even blinking for thirty minutes when you're photographing them.",
-        "tone": ""
+        "tone": "",
+        "claude": "Landscapes don't move so that's fine, but when photographing people, they can't even blink for thirty minutes."
       },
       {
         "source": "Neil",
         "japanese": "この機械を作ったときはおかげで目がウサギのように真っ赤になってしまったよ。",
         "thammy": "The image of your eyes ends up turning bright red like a rabbit's when using this device.",
-        "tone": ""
+        "tone": "",
+        "claude": "When I made this machine, my eyes ended up turning bright red like a rabbit's."
       }
     ]
   },
@@ -265,7 +294,8 @@
         "source": "Neil",
         "japanese": "ニール：テムどこへ行くんだ？せっかくきたんだしもっとゆっくりしていけよ。",
         "thammy": "Neil: Tim, where are you going? You took the trouble of coming here, so relax a while longer before you go.",
-        "tone": ""
+        "tone": "",
+        "claude": "Neil: Tim, where are you going? You came all this way, so stay and relax a while longer."
       }
     ]
   },
@@ -277,43 +307,50 @@
         "source": "Neil",
         "japanese": "それでぼくに何か用があって来たんだろ？話してごらん。",
         "thammy": "Anyway, you came here because I can do something for you, right? Please tell me what you need.",
-        "tone": ""
+        "tone": "",
+        "claude": "Anyway, you came here because you need something from me, right? Tell me what it is."
       },
       {
         "source": "Narrator",
         "japanese": "テムはこれまでのできごとや行方不明の父親の声を聞いたこと、",
         "thammy": "Tim told Neil about the events that happened until now; hearing the voice of his missing father,",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim told Neil about the events so far: hearing his missing father's voice,"
       },
       {
         "source": "Narrator",
         "japanese": "世界中のイセキをめぐってミステリードールを探していることをニールに話した。",
         "thammy": "searching for the Mystery Dolls that are spread across ruins throughout the world, and so on.",
-        "tone": ""
+        "tone": "",
+        "claude": "and searching for Mystery Dolls across ruins throughout the world."
       },
       {
         "source": "Neil",
         "japanese": "ニール：ほほお。なかなかおもしろい話だなあ。",
         "thammy": "Neil: Hohoho... I think that's a very interesting story...",
-        "tone": ""
+        "tone": "",
+        "claude": "Neil: Hoho... That's quite an interesting story."
       },
       {
         "source": "Neil",
         "japanese": "ぼくもイセキにはちょっとばかりきょうみがあってね。",
         "thammy": "I'm a little interested in ancient ruins too, you know?",
-        "tone": ""
+        "tone": "",
+        "claude": "I'm a little interested in ancient ruins too, you know."
       },
       {
         "source": "Neil",
         "japanese": "今テムが話してくれたイセキは世界中にちらばっているけど不思議な共通点があるんだ。",
         "thammy": "The ruins that you've told me are scattered all over the world, but there's a mysterious connection between them.",
-        "tone": ""
+        "tone": "",
+        "claude": "The ruins you just told me about are scattered all over the world, but there's a mysterious connection between them."
       },
       {
         "source": "Neil",
         "japanese": "世界地図の上で今のイセキ同士を線でむすぶとなんときょだいな白鳥座の形になるんだよ。",
         "thammy": "If you draw a line on the world map between all the ruins you've been to so far, it somehow forms a huge image of the constellation of Cygnus, the swan.",
-        "tone": ""
+        "tone": "",
+        "claude": "If you draw lines on a world map connecting the ruins you've visited, they form a huge image of the constellation Cygnus, the swan."
       }
     ]
   },
@@ -325,19 +362,22 @@
         "source": "Karen",
         "japanese": "カレン：白鳥座ですって？！",
         "thammy": "Karen: You said it was Cygnus?!",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: Cygnus, you say?!"
       },
       {
         "source": "Neil",
         "japanese": "ニール：そう。それにテムのおやじさんが行方不明になったっていうバベルの塔はさ、",
         "thammy": "Neil: Right. Beyond that, the Tower of Babel that Tim's dad was said to have disappeared in,",
-        "tone": ""
+        "tone": "",
+        "claude": "Neil: Right. And the Tower of Babel, where Tim's father went missing,"
       },
       {
         "source": "Neil",
         "japanese": "そのきょだいな白鳥のちょうど中心に位置することになるんだ。",
         "thammy": "ends up being exactly in the middle of that giant swan.",
-        "tone": ""
+        "tone": "",
+        "claude": "ends up being right in the center of that giant swan."
       }
     ]
   },
@@ -349,43 +389,50 @@
         "source": "Lillie",
         "japanese": "リリィ：そういえばさあ近ごろ白鳥座の下の方に赤い星が一つふえてるんだよ…",
         "thammy": "Lillie: Well, now that you mention it, there's been a new red star underneath Cygnus as of late…",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: Come to think of it, there's been a red star appearing below the Cygnus constellation lately..."
       },
       {
         "source": "Neil",
         "japanese": "ニール：そのとおりっ！よく知ってるね！！",
         "thammy": "Neil: Exactly...! You know a lot, don't you?",
-        "tone": ""
+        "tone": "",
+        "claude": "Neil: Exactly! You know your stuff!!"
       },
       {
         "source": "Neil",
         "japanese": "白鳥座の赤い星の出現といい、テムのイセキの話といい、",
         "thammy": "Between the new star appearing in Cygnus and Tim's talk of ruins,",
-        "tone": ""
+        "tone": "",
+        "claude": "The appearance of the red star in Cygnus, Tim's stories about ruins,"
       },
       {
         "source": "Neil",
         "japanese": "いろんな要素が有機的に結びつきすぎている…",
         "thammy": "these various elements are tied together too neatly for it to happen organically...",
-        "tone": ""
+        "tone": "",
+        "claude": "all these elements are connected too organically..."
       },
       {
         "source": "Neil",
         "japanese": "ぐう然のいっちなのかだれかのたくらみなのかはわからないが何かが起ころうとしてるのは事実だ。",
         "thammy": "I don't know if it's coincidence or conspiracy, but the fact is that something is going to happen.",
-        "tone": ""
+        "tone": "",
+        "claude": "I don't know if it's a coincidence or someone's scheme, but it's a fact that something's about to happen."
       },
       {
         "source": "Neil",
         "japanese": "そして都合のいいことにここから東へ一週間ほど歩いたところにナスカの地上絵のさばくがあるんだ。",
         "thammy": "However, the circumstances are good. The desert of the Nazca lines is at most a day's walk to the east from here.",
-        "tone": ""
+        "tone": "",
+        "claude": "Neil: And conveniently, about a week's walk to the east from here is the desert of the Nazca Lines."
       },
       {
         "source": "Narrator",
         "japanese": "行ってみるかい？ ／ はい ／ いいえ",
         "thammy": "Will you check it out? / Yes / No",
-        "tone": ""
+        "tone": "",
+        "claude": "Will you go check it out? / Yes / No"
       }
     ]
   },
@@ -397,7 +444,8 @@
         "source": "Neil",
         "japanese": "ニール：そう言わないでくれよ。実はぼくの方がいきたいんだよ",
         "thammy": "Neil: Hey, don't say that. You know, to tell you the truth, I want to go myself.",
-        "tone": ""
+        "tone": "",
+        "claude": "Neil: Hey, don't say that. To tell you the truth, I'm the one who wants to go."
       }
     ]
   },
@@ -409,7 +457,8 @@
         "source": "Neil",
         "japanese": "ニール：よしっ！決まりだな。",
         "thammy": "Neil: Alright...! I guess it's settled then.",
-        "tone": ""
+        "tone": "",
+        "claude": "Neil: Alright! It's settled then."
       }
     ]
   },
@@ -421,13 +470,15 @@
         "source": "Rob",
         "japanese": "ロブ：おれたちも行くぜっ！テムばっかりに楽しい思いはさせられないさ。",
         "thammy": "Rob: We're going too...! Tim won't be tha only one who can have fun memories.",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob: We're going too! Tim can't have all the fun."
       },
       {
         "source": "Narrator",
         "japanese": "一行はナスカのさばくへと向かうのであった…",
         "thammy": "The party headed to the Nazca desert...",
-        "tone": ""
+        "tone": "",
+        "claude": "The party headed to the Nazca desert..."
       }
     ]
   }

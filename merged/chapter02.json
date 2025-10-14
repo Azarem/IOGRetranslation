@@ -4,14 +4,14 @@
     "path": "south_cape/sc02_entry.asm",
     "parts": [
       {
-        "source": "Narrator",
+        "source": "Tim",
         "japanese": "この海岸のどうくつはぼくらの第２の家と言ってもおかしくはない。",
         "thammy": "It might be strange, but we even call this coastal cave our second home.",
         "claude": "It wouldn't be strange to call this coastal cave our second home.",
         "tone": ""
       },
       {
-        "source": "Narrator",
+        "source": "Tim",
         "japanese": "教会での授業が終った後はたいていここに集まり日がくれるまで語り合う。",
         "thammy": "Usually, we meet here after our lesson at church is finished and chat until it gets dark.",
         "claude": "After lessons at the church end, we usually gather here and talk until the sun goes down.",
