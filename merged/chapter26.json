@@ -7,7 +7,8 @@
         "source": "Karen",
         "japanese": "カレン：クルックって変な動物よね…",
         "thammy": "Karen: That thing that they call is Krook is a weird animal, isn't it…?",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: Krooks sure are strange animals..."
       }
     ]
   },
@@ -19,7 +20,8 @@
         "source": "Eric",
         "japanese": "エリック：今日は満月の夜。なんかいつもと町の様子がちがうような気がするなあ。",
         "thammy": "Eric: Today is a full moon night. I think I'm getting the sense that towns always seem to take a different form when things like this happen.",
-        "tone": ""
+        "tone": "",
+        "claude": "Eric: Tonight's a full moon night. The town feels kinda different than usual."
       }
     ]
   },
@@ -31,19 +33,22 @@
         "source": "Neil",
         "japanese": "ニール：ここから西へ行くには広大なさばくが立ちはだかっているんだよ。",
         "thammy": "Neil: A vast desert stands before us if we go to the west from here.",
-        "tone": ""
+        "tone": "",
+        "claude": "Neil: To go west from here, a vast desert stands in the way."
       },
       {
         "source": "Neil",
         "japanese": "クルックでもいないかぎり人間の足ではとてもわたりきれるもんじゃない。",
         "thammy": "It isn't possible to cross it on foot. You need to have something like a Krook.",
-        "tone": ""
+        "tone": "",
+        "claude": "Without Krooks, human feet can't cross it."
       },
       {
         "source": "Neil",
         "japanese": "さあどうやってクルックを手にいれるかだな…",
         "thammy": "Now, I wonder what how we can get a hold of some Krooks...",
-        "tone": ""
+        "tone": "",
+        "claude": "Now then, how do we get our hands on some Krooks..."
       }
     ]
   },
@@ -55,7 +60,8 @@
         "source": "Lillie",
         "japanese": "リリィ：ロブのお父さんがはやくよくなるといいね。",
         "thammy": "Lillie: It'll be nice if Rob's father could get well quickly, wouldn't it?",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: I hope Rob's father gets better soon."
       }
     ]
   },
@@ -67,13 +73,15 @@
         "source": "Rob",
         "japanese": "ロブ：さっきおやじに薬をあたえてきたよ。",
         "thammy": "Rob: I gave tha medicine to my old man just now.",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob: I just gave my old man the medicine."
       },
       {
         "source": "Rob",
         "japanese": "これからゆっくりと回復していくと思うんだ…",
         "thammy": "I think he'll slowly recover after this...",
-        "tone": ""
+        "tone": "",
+        "claude": "I think he'll recover slowly from here..."
       }
     ]
   },
@@ -85,7 +93,8 @@
         "source": "Woman",
         "japanese": "女：さっきピンク色の服を着た女の子がそこのハスの葉の上で何かおいのりしてたわよ。",
         "thammy": "Woman: A girl wearing pink clothes was making a wish atop the lotus leaf over there just now.",
-        "tone": ""
+        "tone": "",
+        "claude": "Woman: A girl in pink clothes was making a wish on that lotus leaf just now."
       }
     ]
   },
@@ -97,7 +106,8 @@
         "source": "Man",
         "japanese": "ここはロシアングラスの会場。あんた出場するのかね？ ／ はい ／ いいえ",
         "thammy": "This is where we meet for Russian glass. Are you participating? / Yes / No",
-        "tone": ""
+        "tone": "",
+        "claude": "This is the venue for Russian Glass. Are you entering? / Yes / No"
       }
     ]
   },
@@ -109,7 +119,8 @@
         "source": "Man",
         "japanese": "ならばかえるんだな。そしてここで見たことはす忘れるんだ。",
         "thammy": "Alright, in that case, go home. Then forget everything you saw here.",
-        "tone": ""
+        "tone": "",
+        "claude": "Then go home. And forget everything you saw here."
       }
     ]
   },
@@ -121,19 +132,22 @@
         "source": "Man",
         "japanese": "なんとその若い命をかけてロシアングラスをやろうというのかっ！",
         "thammy": "What, you're betting your young life on Russian glass...?!",
-        "tone": ""
+        "tone": "",
+        "claude": "What, you would stake your young life on Russian Glass?!"
       },
       {
         "source": "Man",
         "japanese": "これは遊びじゃない。命がかかっているんだぜ。",
         "thammy": "This isn't a game. You're betting your life.",
-        "tone": ""
+        "tone": "",
+        "claude": "This isn't a game. Your life is at stake."
       },
       {
         "source": "Man",
         "japanese": "もう一度聞く。本当にこうかいしないな？ ／ はい ／ いいえ",
         "thammy": "I'll ask you one more time. You really won't regret this? / Yes / No",
-        "tone": ""
+        "tone": "",
+        "claude": "I'll ask you one more time. You truly won't regret this? / Yes / No"
       }
     ]
   },
@@ -145,19 +159,22 @@
         "source": "Man",
         "japanese": "よかろう。そこにいるのが対戦相手だ。",
         "thammy": "Very well. The one standing there is the opponent you're competing against.",
-        "tone": ""
+        "tone": "",
+        "claude": "Very well. The one standing there is your opponent."
       },
       {
         "source": "Man",
         "japanese": "彼は百戦れんまの強者。彼を越える運をもちあわせている人間を私は見たことがない。",
         "thammy": "He's a veteran of this game. I've never seen a human being with luck like his.",
-        "tone": ""
+        "tone": "",
+        "claude": "He's a battle-hardened veteran. I've never seen anyone with luck to match his."
       },
       {
         "source": "Man",
         "japanese": "さあ。彼からルールを聞くがいい。",
         "thammy": "Alright. You may ask him about the rules.",
-        "tone": ""
+        "tone": "",
+        "claude": "Now then. Hear the rules from him."
       }
     ]
   },
@@ -169,7 +186,8 @@
         "source": "Man",
         "japanese": "今夜も若い命が一つ散ろうとしている…",
         "thammy": "Another young life will be reduced to ashes tonight...",
-        "tone": ""
+        "tone": "",
+        "claude": "Another young life will be lost tonight..."
       }
     ]
   },
@@ -181,7 +199,8 @@
         "source": "Woman",
         "japanese": "こんなエキサイティングな遊びは他にないわ。ゾクゾクしちゃう。",
         "thammy": "There is no other game as exciting as this. I'm shaking.",
-        "tone": ""
+        "tone": "",
+        "claude": "There's no other game as thrilling as this. It gives me shivers."
       }
     ]
   },
@@ -193,7 +212,8 @@
         "source": "Woman",
         "japanese": "あんたまだ若いのにこんなことに命をかけるなんて。",
         "thammy": "How can you bet your life like this? You're still young.",
-        "tone": ""
+        "tone": "",
+        "claude": "You're still so young, yet you'd stake your life on something like this."
       }
     ]
   },
@@ -205,7 +225,8 @@
         "source": "Woman",
         "japanese": "勇気があるんですね。",
         "thammy": "You have courage, don't you?",
-        "tone": ""
+        "tone": "",
+        "claude": "You're very brave."
       }
     ]
   },
@@ -217,7 +238,8 @@
         "source": "Woman",
         "japanese": "あなたの対戦者の人はずいぶんとお金をもうけているみたい。いったい何につかうのかしら…",
         "thammy": "It seems that your opponent has earned a lot of money through this game. I wonder what in the world he's using it for...",
-        "tone": ""
+        "tone": "",
+        "claude": "Your opponent seems to have made quite a lot of money. What on earth does he use it for..."
       }
     ]
   },
@@ -229,25 +251,29 @@
         "source": "Competitor",
         "japanese": "対戦者：けっ。また命しらずがきやがった。",
         "thammy": "Competitor: Humph... You haven't even experienced life yet, and you still dare to come here?",
-        "tone": ""
+        "tone": "",
+        "claude": "Competitor: Tch. Another fool who doesn't value his life."
       },
       {
         "source": "Competitor",
         "japanese": "ルールは簡単だ。５つのグラスのどれか一つに毒薬が入っている。",
         "thammy": "The rules are simple. One of these five glasses has poison placed into it.",
-        "tone": ""
+        "tone": "",
+        "claude": "The rules are simple. One of these five glasses contains poison."
       },
       {
         "source": "Competitor",
         "japanese": "それをこうごに飲んでいく。最後まで生き残った方が勝ちというわけだ。",
         "thammy": "We take turns drinking them. Whoever is left alive in the end is the winner.",
-        "tone": ""
+        "tone": "",
+        "claude": "We take turns drinking. Whoever survives to the end wins."
       },
       {
         "source": "Competitor",
         "japanese": "じゃあおれからいくぜっ！",
         "thammy": "Well, I'll start...!",
-        "tone": ""
+        "tone": "",
+        "claude": "Well, I'll go first!"
       }
     ]
   },
@@ -259,13 +285,15 @@
         "source": "Competitor",
         "japanese": "対戦者：うおおおおおおおおおっ！！",
         "thammy": "Competitor: Raaaaaaaaagh...!!",
-        "tone": ""
+        "tone": "",
+        "claude": "Competitor: Raaaaaaagh!!"
       },
       {
         "source": "Narrator",
         "japanese": "対戦者はグラスの中身を一気に飲みほした…",
         "thammy": "The competitor drained the contents of the glass in one gulp...",
-        "tone": ""
+        "tone": "",
+        "claude": "The competitor drained the glass in one gulp..."
       }
     ]
   },
@@ -277,19 +305,22 @@
         "source": "Tim",
         "japanese": "テム：おや？グラスの中の飲み物が血に染まって見える…",
         "thammy": "Tim: Oh? The drink in the glass looks as though it's dyed with blood...",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Huh? The drink in the glass looks like it's stained with blood..."
       },
       {
         "source": "Tim",
         "japanese": "これもぼくの体にやどっている力なのか…？",
         "thammy": "Is this because of the power that is dwelling inside my body too...?",
-        "tone": ""
+        "tone": "",
+        "claude": "Is this also because of the power dwelling in my body...?"
       },
       {
         "source": "Narrator",
         "japanese": "グラスの中身を飲みますか？ ／ はい ／ いいえ",
         "thammy": "Drink the contents of the glass? / Yes / No",
-        "tone": ""
+        "tone": "",
+        "claude": "Drink the contents of the glass? / Yes / No"
       }
     ]
   },
@@ -301,7 +332,8 @@
         "source": "Tim",
         "japanese": "テム：ぼくは目をつぶってグラスを一気にのみほした！",
         "thammy": "Tim: I closed my eyes and drained the glass in one gulp!",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: I closed my eyes and downed the glass in one gulp!"
       }
     ]
   },
@@ -313,7 +345,8 @@
         "source": "Competitor",
         "japanese": "対戦者：けっ！運のいいやつめ…次はおれの番だな。",
         "thammy": "Competitor: Humph...! You're damn lucky... I guess it's my turn next.",
-        "tone": ""
+        "tone": "",
+        "claude": "Competitor: Tch! Lucky bastard... My turn next."
       }
     ]
   },
@@ -325,7 +358,8 @@
         "source": "Competitor",
         "japanese": "対戦者：ほらおめえの番だぜ！びびってにげだすなよ！",
         "thammy": "Competitor: Hey, it's your turn! Don't lose your nerve and run away!",
-        "tone": ""
+        "tone": "",
+        "claude": "Competitor: There, your turn! Don't chicken out and run!"
       }
     ]
   },
@@ -337,31 +371,36 @@
         "source": "Competitor",
         "japanese": "対戦者：残りのグラスはこれ一つ…",
         "thammy": "Competitor: This is the one remaining glass...",
-        "tone": ""
+        "tone": "",
+        "claude": "Competitor: Only one glass left..."
       },
       {
         "source": "Spectator",
         "japanese": "観客：もういい…この少年の勝ちだ…",
         "thammy": "Spectator: It's okay now... This boy won...",
-        "tone": ""
+        "tone": "",
+        "claude": "Spectator: That's enough... The boy won..."
       },
       {
         "source": "Spectator",
         "japanese": "観客：そうよ！もうやめてっ！！",
         "thammy": "Spectator: That's right! Stop it already...!!",
-        "tone": ""
+        "tone": "",
+        "claude": "Spectator: That's right! Stop now!!"
       },
       {
         "source": "Contestant",
         "japanese": "対戦者：いや…おれは負け犬になってはじをさらすつもりはない…",
         "thammy": "Contestant: No... I have no intention to be left in shame with my tail between my legs…",
-        "tone": ""
+        "tone": "",
+        "claude": "Competitor: No... I won't be left in shame as a loser..."
       },
       {
         "source": "Narrator",
         "japanese": "男はグラスを手にとった…",
         "thammy": "The man took the glass in hand...",
-        "tone": ""
+        "tone": "",
+        "claude": "The man took the glass..."
       }
     ]
   },
@@ -373,13 +412,15 @@
         "source": "Spectator",
         "japanese": "観客：よせっ！もうお前の負けなんだっ！！死に急ぐなっ！！",
         "thammy": "Spectator: Put that down and come over here...! It's already your loss..!! You don't need to be in a hurry to die..!",
-        "tone": ""
+        "tone": "",
+        "claude": "Spectator: Stop! You've already lost!! Don't be in such a hurry to die!!"
       },
       {
         "source": "Narrator",
         "japanese": "男は観客の言葉も聞かずグラスの中身を静かに流しこんだ！",
         "thammy": "The man, not listening to the spectators, quickly downed the contents of the glass!",
-        "tone": ""
+        "tone": "",
+        "claude": "Without listening to the spectators, the man quietly downed the glass!"
       }
     ]
   },
@@ -391,25 +432,29 @@
         "source": "Woman",
         "japanese": "女：あなたがロシアングラスの対戦者だった方ね。",
         "thammy": "Woman: You must be the gentleman who was competing in Russian glass, right?",
-        "tone": ""
+        "tone": "",
+        "claude": "Woman: You were his opponent in Russian Glass, weren't you?"
       },
       {
         "source": "Woman",
         "japanese": "主人はいい仕事が見つかったから苦労はかけないと言っていたのにまさかあんなことを…",
         "thammy": "My husband said that he said he found a good job so I shouldn't worry; I never expected that it would be something like that...",
-        "tone": ""
+        "tone": "",
+        "claude": "My husband said he found good work and I shouldn't worry... I never imagined it would be something like that..."
       },
       {
         "source": "Woman",
         "japanese": "これ主人の遺書です。表紙には「対戦者の人へ」と書かれているの。どうぞお読みになって下さい。",
         "thammy": "This is my husband's will. \"To my opponent\" is written on the cover. Please read it.",
-        "tone": ""
+        "tone": "",
+        "claude": "This is my husband's will. \"To My Opponent\" is written on the cover. Please, read it."
       },
       {
         "source": "Woman",
         "japanese": "それと外にクルックが４頭いますから使ってくださいな。",
         "thammy": "With that, there are four Krooks outside of my house; please use them.",
-        "tone": ""
+        "tone": "",
+        "claude": "There are four Krooks outside. Please use them."
       }
     ]
   },
@@ -421,7 +466,8 @@
         "source": "Woman",
         "japanese": "女：お金なんていらない…本当の幸せって好きな人といっしょにいられることなのよね。",
         "thammy": "Woman: We don't need money at all... But they say that true luck is being together someone you care about, don't they?",
-        "tone": ""
+        "tone": "",
+        "claude": "Woman: We don't need money... True happiness is being together with someone you care about, right?"
       }
     ]
   },
@@ -433,55 +479,64 @@
         "source": "Narrator",
         "japanese": "遺書をそっと開いてみた。",
         "thammy": "Gently opened and read the will.",
-        "tone": ""
+        "tone": "",
+        "claude": "I gently opened the will."
       },
       {
         "source": "Will",
         "japanese": "対戦者の人へ",
         "thammy": "To my opponent",
-        "tone": ""
+        "tone": "",
+        "claude": "To My Opponent,"
       },
       {
         "source": "Will",
         "japanese": "私が死んでも悲しまないでほしい。そして落ちこまないでほしい。",
         "thammy": "Even when I've died, I want you not to mourn. And I want you to not feel down.",
-        "tone": ""
+        "tone": "",
+        "claude": "Please do not grieve for me when I am gone. And do not let yourself be overcome with sorrow."
       },
       {
         "source": "Will",
         "japanese": "私はロシアングラスで死なずとも近いうちに天にめされる運命であったのだ。",
         "thammy": "I was knocking on heaven's door even if it wasn't Russian glass that killed me.",
-        "tone": ""
+        "tone": "",
+        "claude": "Even if Russian Glass had not claimed me, I was destined to be called to heaven soon."
       },
       {
         "source": "Will",
         "japanese": "半年前に不治の病と診断された時死ぬまでに人が一生働いて得る金を手に入れようと思った。",
         "thammy": "When I was diagnosed with an incurable illness half a year ago, I was thinking that I should put all of my effort into earning money until death comes for me.",
-        "tone": ""
+        "tone": "",
+        "claude": "When I was diagnosed with an incurable illness half a year ago, I resolved to earn in the time I had left what a man might earn in a lifetime."
       },
       {
         "source": "Will",
         "japanese": "私の死後妻とまだ見ぬ子に苦労はさせまいと思ったからだ。",
         "thammy": "I thought that I shouldn't cause problems for my wife and still unseen child after my death, after all.",
-        "tone": ""
+        "tone": "",
+        "claude": "I did not want my wife and unborn child to suffer after my passing."
       },
       {
         "source": "Will",
         "japanese": "しかし私が得た金は他人を不幸にして手に入れたもの。こんなことは今回で終わりにしようと思う…",
         "thammy": "However, the money I earned got unhappiness for other people. I think I'll end it this time...",
-        "tone": ""
+        "tone": "",
+        "claude": "But the money I earned came at the cost of others' misfortune. I intend to end this with this final game..."
       },
       {
         "source": "Will",
         "japanese": "もしこの勝負で私が負けたなら財産の一部を勇気あるあなたに分けあたえたい。",
         "thammy": "If I am defeated in this match, I want to share some of my property with you that has bravery.",
-        "tone": ""
+        "tone": "",
+        "claude": "If I should lose this match, I wish to give a portion of my fortune to you, who have shown such courage."
       },
       {
         "source": "Will",
         "japanese": "私の愛馬クルック４頭をどうかかわいがってやって下さい。",
         "thammy": "Please adore my four favourite Krooks.",
-        "tone": ""
+        "tone": "",
+        "claude": "Please care for my four beloved Krooks."
       }
     ]
   },
@@ -493,7 +548,8 @@
         "source": "Tim",
         "japanese": "これがゆずってくれるっていうクルックだな…さっそくみんなに知らせなくちゃ。",
         "thammy": "I guess these are the Krooks that they said they were giving me... I have to inform everyone immediately.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: So these are the Krooks they're giving us... I need to tell everyone right away."
       }
     ]
   },
@@ -505,7 +561,8 @@
         "source": "Karen",
         "japanese": "カレン：ニール実家ってエウロの町で貿易会社をやってるんですって。",
         "thammy": "Karen: They say Neil wasn't born in any old house; his family runs a trading company from their mansion in the town of Euro.",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: I heard Neil's family runs a trading company in the town of Euro."
       }
     ]
   },
@@ -517,7 +574,8 @@
         "source": "Eric",
         "japanese": "エリック：ここでロブやリリィとお別れなんて…",
         "thammy": "Eric: Why do we have to part with Rob and Lillie now…?",
-        "tone": ""
+        "tone": "",
+        "claude": "Eric: I can't believe we're saying goodbye to Rob and Lillie here..."
       }
     ]
   },
@@ -529,37 +587,43 @@
         "source": "Rob",
         "japanese": "ロブ：みんなには悪いけどおれはここに残るよ。あんなおやじを放っておくわけにいかないしな。",
         "thammy": "Rob: It's my bad fer everyone, but I'm remainin' here. I guess I can't just dump that old man of mine.",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob: Sorry to everyone, but I'm staying here. I can't leave my old man like that."
       },
       {
         "source": "Rob",
         "japanese": "それからさ…うーんなんかてれるなあ…",
         "thammy": "After that... Uh, I guess I'm feelin' shy or somethin'...",
-        "tone": ""
+        "tone": "",
+        "claude": "And also... hmm, this is kinda embarrassing..."
       },
       {
         "source": "Rob",
         "japanese": "おれさ。リリィとつきあうことにしたんだ。",
         "thammy": "The thing is, I'm goin' out with Lillie.",
-        "tone": ""
+        "tone": "",
+        "claude": "I've decided to go out with Lillie."
       },
       {
         "source": "Rob",
         "japanese": "もちろんいいかげんな気持ちじゃないさ。ずっといっしょにいたいと思ってる。",
         "thammy": "These feelin's ain't fer play, of course. I want us ta be together fer a while.",
-        "tone": ""
+        "tone": "",
+        "claude": "Of course, my feelings aren't half-hearted. I want to be with her forever."
       },
       {
         "source": "Rob",
         "japanese": "でリリィもいっしょに残りたいっていうからさ。",
         "thammy": "And Lillie says that she wants ta stay together too.",
-        "tone": ""
+        "tone": "",
+        "claude": "And Lillie said she wants to stay too."
       },
       {
         "source": "Rob",
         "japanese": "みんなと旅ができて楽しかったよ。テムの旅の成功をいのってるよ。",
         "thammy": "It was fun goin' out on a journey with everyone. I pray that yer journey is successful.",
-        "tone": ""
+        "tone": "",
+        "claude": "It was fun traveling with everyone. I'm praying for your journey to succeed, Tim."
       }
     ]
   },
@@ -571,13 +635,15 @@
         "source": "Lillie",
         "japanese": "リリィ：あたしもこの町に残ることにしたの。",
         "thammy": "Lillie: I'm also remaining in this town.",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: I've decided to stay in this town too."
       },
       {
         "source": "Lillie",
         "japanese": "わけはね…ロブから聞いて。",
         "thammy": "As for the reason.. Well, ask Rob.",
-        "tone": ""
+        "tone": "",
+        "claude": "As for the reason... hear it from Rob."
       }
     ]
   },
@@ -589,25 +655,29 @@
         "source": "Neil",
         "japanese": "ニール：クルックをゆずってもらったって！？あんな高価なものを…？",
         "thammy": "Neil: You're saying you were given Krooks!? That kind of expensive thing...?",
-        "tone": ""
+        "tone": "",
+        "claude": "Neil: You were given Krooks?! Something so expensive..."
       },
       {
         "source": "Neil",
         "japanese": "そんなさびしそうな目をしてどうしたんだよ…まあわけは深く開かないでおこう。",
         "thammy": "Why are you looking at me with those sort of lonely-seeming eyes...? Well, I won't dig deeply into the reason.",
-        "tone": ""
+        "tone": "",
+        "claude": "Why do you have such lonely eyes... Well, I won't dig deeply into the reason."
       },
       {
         "source": "Neil",
         "japanese": "それでだ。ぼくらは西のエウロという町へ何かおうとおもうんだが…",
         "thammy": "With that being said. I thought we'd end up going to the town called Euro to the west, but...",
-        "tone": ""
+        "tone": "",
+        "claude": "So then. We're planning to head to the western town called Euro, but..."
       },
       {
         "source": "Neil",
         "japanese": "ロブとリリィがこの町に残るっていうんだ。まあわけは二人から聞いてくれ。",
         "thammy": "Rob and Lillie say they're staying in this town. Well, listen to the reason from those two.",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob and Lillie say they're staying in this town. Well, hear the reason from them."
       }
     ]
   },
@@ -619,25 +689,29 @@
         "source": "Neil",
         "japanese": "ニール：男の子と女の子がひかれあうしゅんかんっていうのはすてきなまほうだと思う。",
         "thammy": "Neil: I think that the moment where a boy and a girl develop feelings for each other is wonderful and magical.",
-        "tone": ""
+        "tone": "",
+        "claude": "Neil: I think the moment when a boy and girl are drawn together is wonderful magic."
       },
       {
         "source": "Neil",
         "japanese": "この気持ちはいつまでも忘れずに信じていたいもんだね。",
         "thammy": "I want to believe that we'll never forget this feeling.",
-        "tone": ""
+        "tone": "",
+        "claude": "I want to believe in and never forget this feeling."
       },
       {
         "source": "Neil",
         "japanese": "それでだ。エウロにはぼくの実家があってね、あそこへ行けば何かテムの力になれると思うんだ。",
         "thammy": "Anyway. My parents' house is in Euro, isn't it? I think we'll familiarize ourselves with Tim's power somehow if we go there.",
-        "tone": ""
+        "tone": "",
+        "claude": "So then. My family home is in Euro, and I think I can help Tim somehow if we go there."
       },
       {
         "source": "Neil",
         "japanese": "さあエウロへ出発するぞっ！！",
         "thammy": "Alright, let's head out to Euro...!!",
-        "tone": ""
+        "tone": "",
+        "claude": "Alright, let's set out for Euro!!"
       }
     ]
   }

@@ -7,97 +7,113 @@
         "source": "Neil",
         "japanese": "ニール：さあそろそろ着くぞ。テム。おやじさんによろしくな。",
         "thammy": "Neil: Well, we're about to arrive. Tim. I guess I should give my regards to your dad.",
-        "tone": ""
+        "tone": "",
+        "claude": "Neil: Alright, we're almost there. Tim. Give my regards to your father."
       },
       {
         "source": "Tim",
         "japanese": "テム：ありがとう。ニールもりっぱな社長になってよね。",
         "thammy": "Tim: Thank you. You've become an outstanding company president too, haven't you, Neil?",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Thanks. You'll become a great company president too, Neil."
       },
       {
         "source": "Eric",
         "japanese": "エリック：あーあ。これでしばらくテムと会えなくなるんだなあ。",
         "thammy": "Eric: Aah. From here on, I guess we won't be able to meet with you for a while.",
-        "tone": ""
+        "tone": "",
+        "claude": "Eric: Aah. I guess we won't be able to see you for a while now, huh."
       },
       {
         "source": "Eric",
         "japanese": "用がすんだらさっさとサウスケープの町にもどっておいでよ。",
         "thammy": "When you're finished with what you have to do, come back to South Cape right away.",
-        "tone": ""
+        "tone": "",
+        "claude": "When you're done, come back to South Cape right away, okay?"
       },
       {
         "source": "Tim",
         "japanese": "テム：サンキュ。ぼくもみんなと旅ができて楽しかった。",
         "thammy": "Tim: Thanks. I had fun going on a journey with all of you too.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Thanks. I had fun traveling with everyone."
       },
       {
         "source": "Eric",
         "japanese": "エリック：この旅でみんな何かを見つけたよね。",
         "thammy": "Eric: Everyone found something on this journey, haven't they?",
-        "tone": ""
+        "tone": "",
+        "claude": "Eric: Everyone found something on this journey, didn't they?"
       },
       {
         "source": "Eric",
         "japanese": "ロブはリリィと出会ったし行方不明の父さんとも再会した。",
         "thammy": "Rob encountered Lillie, and met again with his missing father.",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob met Lillie and was reunited with his missing father."
       },
       {
         "source": "Eric",
         "japanese": "ニールは親の会社をつぐことを心に決めたし、",
         "thammy": "Neil set his heart on succeeding his parents' company.",
-        "tone": ""
+        "tone": "",
+        "claude": "Neil decided to inherit his parents' company."
       },
       {
         "source": "Eric",
         "japanese": "カレンは生まれてはじめてお城の外の世界を自分の足で見て回ったんだよね。",
         "thammy": "For the first time since she was born, Karen saw the world outside of the castle and travelled it with her own two feet.",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen saw the world outside the castle with her own eyes for the first time in her life."
       },
       {
         "source": "Eric",
         "japanese": "ぼくもこの場をかりてひとつ。何と夜中に一人でおしっこにいけるようになりましたっ！",
         "thammy": "I've done one thing to make use of this opportunity, too. It seems like I've become able to go pee by myself at night...!",
-        "tone": ""
+        "tone": "",
+        "claude": "I'll take this opportunity to announce something too. Believe it or not, I can go pee by myself at night now!"
       },
       {
         "source": "Neil",
         "japanese": "ニール：ははは。エリックらしいや。",
         "thammy": "Neil: Hahaha. Typical Eric.",
-        "tone": ""
+        "tone": "",
+        "claude": "Neil: Hahaha. That's so Eric."
       },
       {
         "source": "Neil",
         "japanese": "ところでカレンはさっきから何にも話さないな。",
         "thammy": "By the way, I don't think Karen has said anything yet.",
-        "tone": ""
+        "tone": "",
+        "claude": "Neil: By the way, Karen hasn't said anything for a while."
       },
       {
         "source": "Neil",
         "japanese": "テムとしばらく会えなくなるんだぞ。別れのあいさつくらいしとけよ。",
         "thammy": "You won't be able to meet with Tim for a while. It's almost a parting statement.",
-        "tone": ""
+        "tone": "",
+        "claude": "Neil: You won't see Tim for a while. At least say goodbye."
       },
       {
         "source": "Karen",
         "japanese": "カレン：うん。そうね…",
         "thammy": "Karen: Yeah. That's how it is, isn't it...",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: Yeah. I know..."
       },
       {
         "source": "Neil",
         "japanese": "ニール：おっと話しているうちにバベルの塔はすぐそこだ。",
         "thammy": "Neil: Oops, as I've been talking, we've come up to the Tower of Babel right here.",
-        "tone": ""
+        "tone": "",
+        "claude": "Neil: Oh, while we were talking, Babel Tower is right there."
       },
       {
         "source": "Neil",
         "japanese": "さあテム。パラシュートの準備はいいかっ？いくぞっ！",
         "thammy": "Alright, Tim. Is your parachute ready...? Let's go...!",
-        "tone": ""
+        "tone": "",
+        "claude": "Neil: Alright Tim. Are you ready with the parachute? Let's go!"
       }
     ]
   },
@@ -109,7 +125,8 @@
         "source": "Tim",
         "japanese": "そしてぼくは１年半ぶりにバベルの塔へ降り立とうとしている…",
         "thammy": "And so, after a year and a half, I'm going to be standing in the Tower of Babel once again…",
-        "tone": ""
+        "tone": "",
+        "claude": "And I was about to set foot on the Tower of Babel for the first time in a year and a half..."
       }
     ]
   },
@@ -121,7 +138,8 @@
         "source": "Tim",
         "japanese": "バベルの塔は静まりかえっている。まるでこの一年半の間時の流れが止まっていたみたいだった…",
         "thammy": "The Tower of Babel was silent. It was as if time had stopped for the past year and a half...",
-        "tone": ""
+        "tone": "",
+        "claude": "The Tower of Babel was completely silent. It was as if time had stopped for the past year and a half..."
       }
     ]
   },
@@ -133,7 +151,8 @@
         "source": "Tim",
         "japanese": "ぼくのもっている笛はここで発見されたんだっけ。",
         "thammy": "If I recall, the flute that I'm holding was discovered here.",
-        "tone": ""
+        "tone": "",
+        "claude": "The flute I'm carrying was discovered here, wasn't it?"
       }
     ]
   },
@@ -145,7 +164,8 @@
         "source": "Tim",
         "japanese": "笛から何かはずれてころがったみたいだ…..",
         "thammy": "It seems that something broke off from my flute…",
-        "tone": ""
+        "tone": "",
+        "claude": "It seems like something came off the flute and rolled away..."
       }
     ]
   },
@@ -157,13 +177,15 @@
         "source": "Tim",
         "japanese": "ここれはエドワード国王がこだわっていたすいしょうの指輪！",
         "thammy": "T-this is the Crystal Ring that King Edward was obsessed with!",
-        "tone": ""
+        "tone": "",
+        "claude": "T-this is the Crystal Ring that King Edward was obsessed with!"
       },
       {
         "source": "Tim",
         "japanese": "笛のかざりかと思っていたけどこんなところにかくされていたなんて…",
         "thammy": "I had thought it was a decoration on the flute, but it was hidden here...",
-        "tone": ""
+        "tone": "",
+        "claude": "I thought it was just a decoration on the flute, but it was hidden here all along..."
       }
     ]
   },
@@ -175,7 +197,8 @@
         "source": "Narrator",
         "japanese": "すいしょうの指輪を手に入れた！",
         "thammy": "Got the Crystal Ring!",
-        "tone": ""
+        "tone": "",
+        "claude": "Got the Crystal Ring!"
       }
     ]
   },
@@ -187,7 +210,8 @@
         "source": "Tim",
         "japanese": "これこそエドワード国王がさがしていたすいしょうの指輪だ。",
         "thammy": "This is definitely the Crystal Ring that King Edward was searching for.",
-        "tone": ""
+        "tone": "",
+        "claude": "This is the Crystal Ring that King Edward was searching for."
       }
     ]
   },
@@ -199,7 +223,8 @@
         "source": "Karen",
         "japanese": "まって….",
         "thammy": "Wait…",
-        "tone": ""
+        "tone": "",
+        "claude": "Wait..."
       }
     ]
   },
@@ -211,55 +236,64 @@
         "source": "Tim",
         "japanese": "テム：カレン！！！？",
         "thammy": "Tim: Karen!?",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Karen?!"
       },
       {
         "source": "Karen",
         "japanese": "カレン：ごめんなさい…今別れたらなんだか二度と会えないような気がして..",
         "thammy": "Karen: I'm sorry... When we had been separated just now, I somehow had a feeling that we wouldn't meet again..",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: I'm sorry... I somehow had a feeling that if we parted now, we'd never see each other again..."
       },
       {
         "source": "Tim",
         "japanese": "テム：でもカレンはどうしてここへ入ってこられたんだろう？",
         "thammy": "Tim: But Karen, how did you manage to come in here?",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: But how were you able to get in here, Karen?"
       },
       {
         "source": "Tim",
         "japanese": "このクリスタルリングがなくちゃここへはこられないはずなのに…",
         "thammy": "You shouldn't have been able to come without this Crystal Ring...",
-        "tone": ""
+        "tone": "",
+        "claude": "You shouldn't have been able to come here without this Crystal Ring..."
       },
       {
         "source": "Karen",
         "japanese": "カレン：もしかするとこのゆびわのせいかしら…ほらインカの黄金船で見つけたじゃない？",
         "thammy": "Karen: I wonder, could it be this ring that did it…? See, we found it at the Gold Ship of the Inca, didn't we?",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: Could it be because of this ring...? You know, the one we found at the Incan Gold Ship?"
       },
       {
         "source": "Tim",
         "japanese": "このすいしょうの指輪の色はダークブルー…",
         "thammy": "This Crystal Ring's colour is dark blue...",
-        "tone": ""
+        "tone": "",
+        "claude": "This Crystal Ring is dark blue..."
       },
       {
         "source": "Tim",
         "japanese": "カレンの持っている指輪はライトブルーなのか…",
         "thammy": "The ring that Karen is holding is light blue, isn't it...",
-        "tone": ""
+        "tone": "",
+        "claude": "The ring Karen has is light blue..."
       },
       {
         "source": "Tim",
         "japanese": "もしかするとこれが光とヤミっていうことなのかな。",
         "thammy": "I guess that maybe this is what you call light and darkness.",
-        "tone": ""
+        "tone": "",
+        "claude": "Maybe this is what they mean by Light and Darkness."
       },
       {
         "source": "Tim",
         "japanese": "テム：わかったよ…何がおこるかわからないしぼくのそばからはなれるなよ。",
         "thammy": "Tim: I understand... I don't know what will happen, but don't leave my side.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: I understand... I don't know what might happen, so don't leave my side."
       }
     ]
   },
@@ -271,7 +305,8 @@
         "source": "Spirit",
         "japanese": "あのすい星から放たれている強れつな光は生物の成長に大きなえいきょうをあたえる。",
         "thammy": "The comet emits an intense light that has a large influence on how living things develop.",
-        "tone": ""
+        "tone": "",
+        "claude": "The intense light emitted from that comet has a great influence on the growth of living things."
       }
     ]
   },
@@ -283,19 +318,22 @@
         "source": "Spirit",
         "japanese": "生き物は長い長い年月をかけて進化してきた。",
         "thammy": "Living things evolved to this point over many, many years.",
-        "tone": ""
+        "tone": "",
+        "claude": "Living things have evolved over many, many years."
       },
       {
         "source": "Spirit",
         "japanese": "三葉虫から魚が生まれはちゅう類ほにゅう類をへて人類が生まれた。",
         "thammy": "Trilobites gave birth to fish; reptiles, mammals gave birth to humanity.",
-        "tone": ""
+        "tone": "",
+        "claude": "From trilobites came fish, and through reptiles and mammals, humanity was born."
       },
       {
         "source": "Spirit",
         "japanese": "そして人類はこの先さらに進化を続けていくことだろう。",
         "thammy": "And humanity will continuously evolve more and more from here.",
-        "tone": ""
+        "tone": "",
+        "claude": "And humanity will continue to evolve further from this point."
       }
     ]
   },
@@ -307,19 +345,22 @@
         "source": "Spirit",
         "japanese": "すい星は太古の時代から神の星とよばれまたあくまの星ともよばれてきた。",
         "thammy": "From ancient times, the comet has been called both a star of the gods and a star of the devil.",
-        "tone": ""
+        "tone": "",
+        "claude": "Since ancient times, the comet has been called both the star of the gods and the star of the devil."
       },
       {
         "source": "Spirit",
         "japanese": "だが今地球に近づいているすい星はあくまの星….",
         "thammy": "But the comet that is now approaching the Earth is the star of the devil…",
-        "tone": ""
+        "tone": "",
+        "claude": "But the comet now approaching Earth is the star of the devil..."
       },
       {
         "source": "Spirit",
         "japanese": "あの星は高度な意識をもち地球を自分の思い通りに進化させてきたのだ…",
         "thammy": "That star is highly conscious, and it manipulates the Earth's evolution according to its own will...",
-        "tone": ""
+        "tone": "",
+        "claude": "That star possesses a highly advanced consciousness and has guided Earth's evolution according to its own will..."
       }
     ]
   },
@@ -331,13 +372,15 @@
         "source": "Spirit",
         "japanese": "このバベルの塔の内部は時間の進みかたがちがう…通常の何百倍ものスピードで時が流れてゆく….",
         "thammy": "The way time advances is different inside of the Tower of Babel... Time flows with hundreds of times its normal speed.",
-        "tone": ""
+        "tone": "",
+        "claude": "The way time flows is different inside the Tower of Babel... Time passes at hundreds of times its normal speed..."
       },
       {
         "source": "Spirit",
         "japanese": "ここで生きていられるとはあんたらふつうの人間じゃないね…",
         "thammy": "If you can survive here, you two aren't normal humans, are you…?",
-        "tone": ""
+        "tone": "",
+        "claude": "If you can survive here, you two aren't ordinary humans..."
       }
     ]
   },
@@ -349,7 +392,8 @@
         "source": "Spirit",
         "japanese": "そこの部屋には進化の光を使って作られた化け物がねむっている。上の階へいくのなら彼らをねむらせてやることだ…",
         "thammy": "In the room there, monsters made using the light of evolution are sleeping. If you're going to the floor above, lay them to rest...",
-        "tone": ""
+        "tone": "",
+        "claude": "Monsters created using the light of evolution sleep in that room. If you're going to the upper floor, you must put them to rest..."
       }
     ]
   },
@@ -361,7 +405,8 @@
         "source": "Tim",
         "japanese": "おやカレンがいない…どこへいったんだ…？",
         "thammy": "Oh, Karen isn't here... Where did she go...?",
-        "tone": ""
+        "tone": "",
+        "claude": "Huh, Karen's not here... Where did she go...?"
       }
     ]
   },
@@ -373,7 +418,8 @@
         "source": "Spirit",
         "japanese": "お前はこの地球を救うためによみがえった人間。さあ上の階へ運んであげよう。",
         "thammy": "You are a human revived to save the Earth. Alright, I'll carry you to the floor above.",
-        "tone": ""
+        "tone": "",
+        "claude": "You are a human who has been revived to save this Earth. Come, I will carry you to the upper floor."
       }
     ]
   },
@@ -385,7 +431,8 @@
         "source": "Spirit",
         "japanese": "もうまもなくすい星が地球のすぐ横を通過する。さあそれまでにバベルの塔の頂上へ…",
         "thammy": "The comet will pass by the Earth's immediate vicinity soon. Well, until then, to the Tower of Babel's peak...",
-        "tone": ""
+        "tone": "",
+        "claude": "The comet will soon pass right beside the Earth. Now, you must reach the top of the Tower of Babel before then..."
       }
     ]
   },
@@ -397,25 +444,29 @@
         "source": "Tim",
         "japanese": "テム：カレンっ！どこにいってたんだよっ！！",
         "thammy": "Tim: Karen...! Where did you go...!?",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Karen! Where did you go?!"
       },
       {
         "source": "Karen",
         "japanese": "カレン：きゅうけつきの女の人がやってきて話があるっていうから…",
         "thammy": "Karen: It was because the vampire woman showed up, and we talked...",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: The vampire woman came and said she wanted to talk..."
       },
       {
         "source": "Karen",
         "japanese": "あの人永遠に死ぬことのできない体なんですって…",
         "thammy": "She said that her body cannot die for all of eternity...",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: She said her body can never die for all eternity..."
       },
       {
         "source": "Karen",
         "japanese": "すい星さえなくなればやすらかなねむりにつけるって言ってたわ。",
         "thammy": "But she could rest in peace if only the comet were to vanish.",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: She said if the comet would just disappear, she could rest in peace."
       }
     ]
   },
@@ -427,13 +478,15 @@
         "source": "Spirit",
         "japanese": "この先に進むとお前はもう後もどりできなくなる…",
         "thammy": "If you advance from this point, you will no longer be able to return...",
-        "tone": ""
+        "tone": "",
+        "claude": "If you proceed beyond this point, you will no longer be able to turn back..."
       },
       {
         "source": "Spirit",
         "japanese": "ダオの町へもどりたいなら運んであげるがどうする？ ／ やめる ／ ダオの町へもどる",
         "thammy": "I'll transport you if you want to return to Dao, but what will you do? / Cancel / Return to Dao",
-        "tone": ""
+        "tone": "",
+        "claude": "I'll transport you if you wish to return to Dao, but what will you do? / Never mind / Return to Dao"
       }
     ]
   },
@@ -445,31 +498,36 @@
         "source": "Gaia",
         "japanese": "すい星が近づいている…そして最後のたたかいの時が近づいている…",
         "thammy": "The comet is approaching... So the final battle is approaching..",
-        "tone": ""
+        "tone": "",
+        "claude": "The comet approaches... And with it, the time of the final battle draws near..."
       },
       {
         "source": "Gaia",
         "japanese": "そなたとこうして話すのもこの場所が最後になろう。",
         "thammy": "This will even be the last time that I talk with thee like this.",
-        "tone": ""
+        "tone": "",
+        "claude": "This shall be the last time I speak with thee in this place."
       },
       {
         "source": "Gaia",
         "japanese": "そなたの力はすい星ダークガイアに戦いをいどめるまでによみがえり、すばらしいヤミの戦士に成長した。",
         "thammy": "Thy power has revived to the point where it rivals the comet, Dark Gaia; thou hast grown into a magnificent Warrior of Darkness.",
-        "tone": ""
+        "tone": "",
+        "claude": "Thy power has been revived to the point where thou canst challenge the comet Dark Gaia. Thou hast grown into a magnificent Warrior of Darkness."
       },
       {
         "source": "Gaia",
         "japanese": "光の戦士と心が一つになったときシャドウのもつゆいいつの力ファイアバードがよみがえる。",
         "thammy": "When thy heart becomes one with the Warrior of Light, Firebird will be revived; the power that only Shadow holds.",
-        "tone": ""
+        "tone": "",
+        "claude": "When thy heart becomes one with the Warrior of Light, Shadow's unique power, Firebird, shall be revived."
       },
       {
         "source": "Gaia",
         "japanese": "この星をもとの姿にもどせるのはそなただけ。私はすべてののぞみをそなたにたくそう…",
         "thammy": "Thou alone canst restore this planet to its original form. I will entrust all my hopes to thee...",
-        "tone": ""
+        "tone": "",
+        "claude": "Thou alone canst return this planet to its true form. I entrust all my hopes to thee..."
       }
     ]
   }

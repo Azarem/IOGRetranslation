@@ -7,13 +7,15 @@
         "source": "Narrator",
         "japanese": "かべのすきまから風がふきこんでいるようだ。",
         "thammy": "It seems like wind is blowing in from a crack in the wall.",
-        "tone": ""
+        "tone": "",
+        "claude": "Wind seems to be blowing in from a crack in the wall."
       },
       {
         "source": "Narrator",
         "japanese": "なんとかくしつうろを見つけた！",
         "thammy": "Found a hidden passage!",
-        "tone": ""
+        "tone": "",
+        "claude": "Managed to find a hidden passage!"
       }
     ]
   },
@@ -25,7 +27,8 @@
         "source": "Narrator",
         "japanese": "入り口がせまくて通れない！",
         "thammy": "The entrance is small; you can't pass though!",
-        "tone": ""
+        "tone": "",
+        "claude": "The entrance is too narrow; I can't get through!"
       }
     ]
   },
@@ -37,7 +40,8 @@
         "source": "Tim",
         "japanese": "テム：カレンの絵だ。彼女はこの中にすいこまれてしまったのか…",
         "thammy": "Tim: A picture of Karen. Has she been absorbed into this…?",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: A picture of Karen. Was she absorbed into this...?"
       }
     ]
   },
@@ -49,13 +53,15 @@
         "source": "Ishtar",
         "japanese": "イシタル：カレンとかいう娘をつれもどしにきたのじゃな。",
         "thammy": "Ishtar: You came to take back that girl, haven't you? She was named Karen or something.",
-        "tone": ""
+        "tone": "",
+        "claude": "Ishtar: You've come to retrieve that girl, Karen or such, haven't you?"
       },
       {
         "source": "Ishtar",
         "japanese": "ならばこの先の部屋へゆくがいい。すべてのなぞをとくことができたなら娘をかえしてやろう。",
         "thammy": "You should go to the rooms ahead of here in that case. If you can solve all of the mysteries, I'll restore that girl to normal.",
-        "tone": ""
+        "tone": "",
+        "claude": "Then you should go to the rooms ahead. If you can solve all the mysteries, I shall return the girl to you."
       }
     ]
   },
@@ -67,7 +73,8 @@
         "source": "Ishtar's apprentice",
         "japanese": "イシタルの弟子：ここを通るのは手前の部屋のなぞをといてからだ。",
         "thammy": "Ishtar's apprentice: You can pass when you solve the mystery of the room before you.",
-        "tone": ""
+        "tone": "",
+        "claude": "Ishtar's apprentice: You can pass here only after solving the mystery of the room before this one."
       }
     ]
   },
@@ -79,13 +86,15 @@
         "source": "Ishtar",
         "japanese": "イシタルの声がひびく。",
         "thammy": "Ishtar's voice echoes.",
-        "tone": ""
+        "tone": "",
+        "claude": "Ishtar's voice echoes."
       },
       {
         "source": "Ishtar",
         "japanese": "そうあせるでない。左のとびらから順番に開けてゆくのじゃ。",
         "thammy": "Don't be impatient like that. Open them in order from the left door.",
-        "tone": ""
+        "tone": "",
+        "claude": "Do not be so impatient. Open the doors in order, starting from the left."
       }
     ]
   },
@@ -97,19 +106,22 @@
         "source": "Ishtar",
         "japanese": "イシタルの声がひびく。",
         "thammy": "Ishtar's voice echoes.",
-        "tone": ""
+        "tone": "",
+        "claude": "Ishtar's voice echoes."
       },
       {
         "source": "Ishtar",
         "japanese": "その部屋の様子をじっくりと覚えるのじゃ。",
         "thammy": "Carefully memorize the state of that room.",
-        "tone": ""
+        "tone": "",
+        "claude": "Carefully memorize the appearance of that room."
       },
       {
         "source": "Ishtar",
         "japanese": "完ぺきに覚えたと思ったら部屋からでるがよい。",
         "thammy": "When you think you have it completely memorized you may leave the room.",
-        "tone": ""
+        "tone": "",
+        "claude": "When you think you have memorized it perfectly, you may leave the room."
       }
     ]
   },
@@ -121,13 +133,15 @@
         "source": "Ishtar",
         "japanese": "イシタルの声がひびく。",
         "thammy": "Ishtar's voice echoes.",
-        "tone": ""
+        "tone": "",
+        "claude": "Ishtar's voice echoes."
       },
       {
         "source": "Ishtar",
         "japanese": "前の部屋とちがっている場所を示すのじゃ。",
         "thammy": "Indicate the place that differs from the previous room before you.",
-        "tone": ""
+        "tone": "",
+        "claude": "Point out what is different from the previous room."
       }
     ]
   },
@@ -139,13 +153,15 @@
         "source": "Ishtar",
         "japanese": "正解じゃ！！つぼの色が変わっていたというわけじゃな。",
         "thammy": "That's correct!! You've noticed that the jar's colour was different, haven't you.",
-        "tone": ""
+        "tone": "",
+        "claude": "That's correct!! So you noticed the jar's color had changed, did you?"
       },
       {
         "source": "Ishtar",
         "japanese": "よかろう。次の部屋へ進むがよい。",
         "thammy": "Very good. You may advance to the next room.",
-        "tone": ""
+        "tone": "",
+        "claude": "Very well. You may proceed to the next room."
       }
     ]
   },
@@ -157,13 +173,15 @@
         "source": "Ishtar",
         "japanese": "イシタルの声がひびく。",
         "thammy": "Ishtar's voice echoes.",
-        "tone": ""
+        "tone": "",
+        "claude": "Ishtar's voice echoes."
       },
       {
         "source": "Ishtar",
         "japanese": "そのとびらはすでに開けたはず。もう開く必要はない。",
         "thammy": "That door was already been opened. It isn't necessary to open it again.",
-        "tone": ""
+        "tone": "",
+        "claude": "You should have already opened that door. There's no need to open it again."
       }
     ]
   },
@@ -175,13 +193,15 @@
         "source": "Ishtar",
         "japanese": "正解じゃ！",
         "thammy": "That's correct!",
-        "tone": ""
+        "tone": "",
+        "claude": "That's correct!"
       },
       {
         "source": "Ishtar",
         "japanese": "よかろう。次の部屋へ進むがよい。",
         "thammy": "Very good. You may advance to the next room.",
-        "tone": ""
+        "tone": "",
+        "claude": "Very well. You may proceed to the next room."
       }
     ]
   },
@@ -193,13 +213,15 @@
         "source": "Ishtar",
         "japanese": "正解じゃ！！なんとたからばこの中身がちがっているというわけじゃな。",
         "thammy": "That's correct!! You've realized that the treasure chest's contents are different, haven't you.",
-        "tone": ""
+        "tone": "",
+        "claude": "That's correct!! So you realized the treasure chest's contents had changed, did you?"
       },
       {
         "source": "Ishtar",
         "japanese": "よかろう。次の部屋へ進むがよい。",
         "thammy": "Very good. You may advance to the next room.",
-        "tone": ""
+        "tone": "",
+        "claude": "Very well. You may proceed to the next room."
       }
     ]
   },
@@ -211,13 +233,15 @@
         "source": "Ishtar",
         "japanese": "正解じゃ！！風がふいておったためお前のカミはなびいていたんじゃな。",
         "thammy": "That's correct!! Your hair was fluttering because the wind was blowing, wasn't it.",
-        "tone": ""
+        "tone": "",
+        "claude": "That's correct!! Your hair was fluttering because the wind was blowing, wasn't it?"
       },
       {
         "source": "Ishtar",
         "japanese": "お前はわしのテストにみごとパスした。さあもどってくるがよい。",
         "thammy": "You have passed my tests splendidly. Alright, you may return.",
-        "tone": ""
+        "tone": "",
+        "claude": "You have passed my tests splendidly. Now, you may return."
       }
     ]
   },
@@ -229,31 +253,36 @@
         "source": "Ishtar",
         "japanese": "イシタル：わしはお前がくるのをまっておったんじゃよ。",
         "thammy": "Ishtar: I had been waiting for you to come.",
-        "tone": ""
+        "tone": "",
+        "claude": "Ishtar: I've been waiting for you to come."
       },
       {
         "source": "Ishtar",
         "japanese": "まほうのこなを絵にふりかけ心のこもったくちづけをしてやるがよい。",
         "thammy": "You should sprinkle this magic powder over the picture of that girl, then give it a heartfelt kiss.",
-        "tone": ""
+        "tone": "",
+        "claude": "Sprinkle this magic powder over the picture, then give it a heartfelt kiss."
       },
       {
         "source": "Ishtar",
         "japanese": "お前が本気であの娘を想ったとき何かがおこるはず。まあいずれわかることじゃろう。",
         "thammy": "Something should happen if you truly feel for that girl. Well, you'll probably understand eventually.",
-        "tone": ""
+        "tone": "",
+        "claude": "If you truly care for that girl, something should happen. Well, you'll understand in time."
       },
       {
         "source": "Ishtar",
         "japanese": "わしは自分で自画像をかいた。もうじき絵と同化する…",
         "thammy": "I painted my own self-portrait. I will soon be assimilated into the picture...",
-        "tone": ""
+        "tone": "",
+        "claude": "I painted my own self-portrait. Soon I shall become one with the painting..."
       },
       {
         "source": "Ishtar",
         "japanese": "あのこを…大切に守ってやるのじゃぞ…",
         "thammy": "That girl... Protect her carefully...",
-        "tone": ""
+        "tone": "",
+        "claude": "That girl... Protect her well..."
       }
     ]
   },
@@ -265,7 +294,8 @@
         "source": "Narrator",
         "japanese": "…………",
         "thammy": "…",
-        "tone": ""
+        "tone": "",
+        "claude": "..."
       }
     ]
   },
@@ -277,7 +307,8 @@
         "source": "Tim",
         "japanese": "テム：まずはまほうのこなをかけなくては…",
         "thammy": "Tim: I need to sprinkle the magic powder to start with...",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: First I need to sprinkle the magic powder..."
       }
     ]
   },
@@ -289,7 +320,8 @@
         "source": "Narrator",
         "japanese": "まほうのこなを使ってみることにした。",
         "thammy": "Tried using the magic powder.",
-        "tone": ""
+        "tone": "",
+        "claude": "Decided to try using the magic powder."
       }
     ]
   },
@@ -301,7 +333,8 @@
         "source": "Narrator",
         "japanese": "カレンの絵にまほうのこなをふりかけた！",
         "thammy": "Sprinkled the magic powder on the picture of Karen!",
-        "tone": ""
+        "tone": "",
+        "claude": "Sprinkled the magic powder on Karen's picture!"
       }
     ]
   },
@@ -313,13 +346,15 @@
         "source": "Tim",
         "japanese": "テム：おねがいだ。カレン…もとのすがたにもどってくれ…",
         "thammy": "Tim: I'm begging you. Karen... Please return to your original form...",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Please, I'm begging you. Karen... Come back to your original form..."
       },
       {
         "source": "Narrator",
         "japanese": "テムはカレンの絵に心のこもったくちづけをした….",
         "thammy": "Tim placed a heartfelt kiss on Karen's picture...",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim gave Karen's picture a heartfelt kiss..."
       }
     ]
   },
@@ -331,7 +366,8 @@
         "source": "Karen",
         "japanese": "カレン：テム…..勝手なことしてごめんなさい…",
         "thammy": "Karen: Tim... I'm sorry for being selfish...",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: Tim... I'm sorry for doing what I wanted..."
       }
     ]
   },
@@ -343,19 +379,22 @@
         "source": "Tim",
         "japanese": "テム：ああ悪いよっ！ものすごく悪いよっ！！！",
         "thammy": "Tim: Agh, you've been terrible...! You've been incredibly bad...!!",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Yeah, you were wrong! You were really, really wrong!!!"
       },
       {
         "source": "Tim",
         "japanese": "人にめいわくかけるのもいいかげんにしろよなっ！！",
         "thammy": "Are you so irresponsible that you're willing to cause trouble for other people...!?",
-        "tone": ""
+        "tone": "",
+        "claude": "Give me a break with causing trouble for everyone!!"
       },
       {
         "source": "Karen",
         "japanese": "カレン：…………",
         "thammy": "Karen: …",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: ..."
       }
     ]
   },
@@ -367,55 +406,64 @@
         "source": "Karen",
         "japanese": "カレン：うわああああああああああん。ヒック…ぐすっ…",
         "thammy": "Karen: Waaaaaaaaaaah! *Sob*... *Sniff*...",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: Waaaaaaaaaaaah! *Hic*... *Sniff*..."
       },
       {
         "source": "Karen",
         "japanese": "あたし…ヒック自分でも何やってるのか..わかんないの…ぐすっ…",
         "thammy": "I... *Sob* I don't even know.. why I'm doing it myself... *Sniff*...",
-        "tone": ""
+        "tone": "",
+        "claude": "I... *Hic* I don't even know what I'm doing... *Sniff*..."
       },
       {
         "source": "Karen",
         "japanese": "お城にいるときはね…自分のほしいものは何だって手に入ってた…",
         "thammy": "The thing is, when I was in the castle... I got everything that I wanted...",
-        "tone": ""
+        "tone": "",
+        "claude": "When I was in the castle... I could get anything I wanted..."
       },
       {
         "source": "Karen",
         "japanese": "でも旅先ではぜんぜんちがうんだもの…",
         "thammy": "But since I've been on this journey, it's been totally different...",
-        "tone": ""
+        "tone": "",
+        "claude": "But on this journey, it's completely different..."
       },
       {
         "source": "Tim",
         "japanese": "テム：あたりまえだろっ！何でも自分の思いどおりになるとおもったらおおまちがいだっ！！",
         "thammy": "Tim: Isn't it obvious...!? When you're only thinking of yourself, you're in trouble when things get serious…!!",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Of course it is! If you think everything will go your way, you're completely wrong!!"
       },
       {
         "source": "Karen",
         "japanese": "カレン：ちがうのっ！",
         "thammy": "Karen: That's not it...!",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: That's not what I mean!"
       },
       {
         "source": "Karen",
         "japanese": "遠くにいても近く感じて近くにいても遠く感じるものがあることを知ったの…",
         "thammy": "Even when you're far away, I feel that you're close, and even when you're close to me I feel that you're far away...",
-        "tone": ""
+        "tone": "",
+        "claude": "I learned that there are things that feel close even when they're far away, and feel far away even when they're close..."
       },
       {
         "source": "Karen",
         "japanese": "テムがわかってくれなければそれでいい…",
         "thammy": "If you don't understand, that's fine...",
-        "tone": ""
+        "tone": "",
+        "claude": "If you don't understand, Tim, that's okay..."
       },
       {
         "source": "Karen",
         "japanese": "でもあたし今日のことは一生忘れないと思う…",
         "thammy": "But I don't think I'll forget what happened today for the rest of my life...",
-        "tone": ""
+        "tone": "",
+        "claude": "But I don't think I'll ever forget what happened today..."
       }
     ]
   },
@@ -427,49 +475,57 @@
         "source": "Neil",
         "japanese": "ニール：カレン！心配したぞっ！！",
         "thammy": "Neil: Karen! I was worried...!!",
-        "tone": ""
+        "tone": "",
+        "claude": "Neil: Karen! We were worried!!"
       },
       {
         "source": "Lillie",
         "japanese": "リリィ：なんであんたはいつも一人でつっぱしるのよっ！！",
         "thammy": "Lillie: Why do you always run around by yourself...!?",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: Why do you always go running off by yourself!!"
       },
       {
         "source": "Lillie",
         "japanese": "みんなの気持ちを考えたことあるわけっ？！",
         "thammy": "Don't you have any concern for anyone else...!?",
-        "tone": ""
+        "tone": "",
+        "claude": "Have you ever thought about how everyone else feels?!"
       },
       {
         "source": "Karen",
         "japanese": "カレン：そのへんのことならテムにさんざんおこられたわよ。",
         "thammy": "Karen: If you're talking about that, Tim already scolded me.",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: If that's what you mean, Tim already gave me an earful."
       },
       {
         "source": "Karen",
         "japanese": "というわけでみなさん本当にごめんなさいっ！ペコリっ。",
         "thammy": "Because of that, I sincerely apologize to everyone...! *Bow*…",
-        "tone": ""
+        "tone": "",
+        "claude": "So everyone, I'm truly sorry! *Bow*"
       },
       {
         "source": "Neil",
         "japanese": "ニール：まあ本人もわかっているみたいだしその辺でゆるしてやれよ。",
         "thammy": "Neil: Well, it seems that even the perpetrator understands the matter, so I can tolerate it.",
-        "tone": ""
+        "tone": "",
+        "claude": "Neil: Well, it seems she understands now, so let's forgive her this time."
       },
       {
         "source": "Neil",
         "japanese": "ところでここから３日ほど南へ進んだところに水上都市があるらしいんだ。",
         "thammy": "Anyway, it seems that if we proceed about three days to the south, you get to the Floating City.",
-        "tone": ""
+        "tone": "",
+        "claude": "By the way, I've heard there's a floating city about three days south of here."
       },
       {
         "source": "Neil",
         "japanese": "とりあえずそこに行ってみようと思うんだ。出発の準備ができたら言ってくれ。",
         "thammy": "I think we'll try to leave right away. Talk to me when you're prepared to leave.",
-        "tone": ""
+        "tone": "",
+        "claude": "I think we should head there for now. Let me know when you're ready to leave."
       }
     ]
   },
@@ -481,7 +537,8 @@
         "source": "Eric",
         "japanese": "エリック：あそういえばさ。ぼくだ天使の町の中で赤い宝石らしきものを見かけたよ。",
         "thammy": "Eric: Ah, speaking of that. In the fallen angels' village, I noticed something that looked like a Red Jewel.",
-        "tone": ""
+        "tone": "",
+        "claude": "Eric: Oh yeah, by the way. I saw something that looked like a Red Jewel in the fallen angels' village."
       }
     ]
   },
@@ -493,7 +550,8 @@
         "source": "Neil",
         "japanese": "ニール：出発してもいいのかい？ ／ いいよ ／ ちょっとまって",
         "thammy": "Neil: Is it okay to go? / Yes / Wait a bit",
-        "tone": ""
+        "tone": "",
+        "claude": "Neil: Is it all right to depart? / Yes / Wait a moment"
       }
     ]
   },
@@ -505,7 +563,8 @@
         "source": "Neil",
         "japanese": "ニール：なにも急ぐことはないさ。ゆっくり用をすませておいで。",
         "thammy": "Neil: Don't rush things. Take your time finishing your business.",
-        "tone": ""
+        "tone": "",
+        "claude": "Neil: There's no need to rush. Take your time and finish what you need to do."
       }
     ]
   },
@@ -517,13 +576,15 @@
         "source": "Lillie",
         "japanese": "リリィ：カレンの様子がなんか変なんだよね…",
         "thammy": "Lillie: Karen seems to be strange somehow, doesn't she…?",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: Karen seems kind of weird, doesn't she...?"
       },
       {
         "source": "Lillie",
         "japanese": "カレンと何かあったの？あたしのカンはするどいんだから。",
         "thammy": "I have a sense about these things; was something wrong with Karen?",
-        "tone": ""
+        "tone": "",
+        "claude": "Did something happen with Karen? My intuition is sharp, you know."
       }
     ]
   },
@@ -535,7 +596,8 @@
         "source": "Rob",
         "japanese": "ロブ：リリィは水上都市でたん生日を向えることになるんだよな…",
         "thammy": "Rob: I suppose that Lillie's birthday will come when we're in the Floatin' City…",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob: Lillie's gonna have her birthday when we're in the Floatin' City, ain't she..."
       }
     ]
   },
@@ -547,13 +609,15 @@
         "source": "Karen",
         "japanese": "カレン：水上都市ってねイカダの上にたくさん家がたってるんだって。",
         "thammy": "Karen: You know, they say that there are a lot of houses built on rafts in the place that they call the Floating City.",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: You know, I've heard the Floating City has lots of houses built on rafts."
       },
       {
         "source": "Karen",
         "japanese": "なんだかロマンチックよね。楽しみだなっ。",
         "thammy": "It's kind of romantic, isn't it? I think it's fun…",
-        "tone": ""
+        "tone": "",
+        "claude": "It sounds kind of romantic, doesn't it? I'm looking forward to it!"
       }
     ]
   },
@@ -565,13 +629,15 @@
         "source": "Neil",
         "japanese": "ニール：水上都市はかなり暑いところにあるらしい。",
         "thammy": "Neil: It seems that the Floating CIty is a considerably hot place.",
-        "tone": ""
+        "tone": "",
+        "claude": "Neil: I've heard the Floating City is in quite a hot location."
       },
       {
         "source": "Neil",
         "japanese": "みんな日射病にならないよう気をつけるんだぞ。",
         "thammy": "Everyone mustn't get heatstroke, so take care.",
-        "tone": ""
+        "tone": "",
+        "claude": "Everyone be careful not to get heatstroke."
       }
     ]
   }

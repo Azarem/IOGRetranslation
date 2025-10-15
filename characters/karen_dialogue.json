@@ -1,0 +1,1622 @@
+[
+  {
+    "name": "widestring_049EB4",
+    "path": "south_cape/sc06_kara.asm",
+    "chapter": 3,
+    "japanese": "カレン：あらあらペギーちゃん。知らない人をいじめちゃダメよ。"
+  },
+  {
+    "name": "widestring_049EB4",
+    "path": "south_cape/sc06_kara.asm",
+    "chapter": 3,
+    "japanese": "あなた、ここの家の子？"
+  },
+  {
+    "name": "widestring_049F09",
+    "path": "south_cape/sc06_kara.asm",
+    "chapter": 3,
+    "japanese": "カレン：なんだかさえない身なりね。"
+  },
+  {
+    "name": "widestring_049F09",
+    "path": "south_cape/sc06_kara.asm",
+    "chapter": 3,
+    "japanese": "カレン：お父さまは？お母さまは？いないのね。"
+  },
+  {
+    "name": "widestring_049F71",
+    "path": "south_cape/sc06_kara.asm",
+    "chapter": 3,
+    "japanese": "カレン：この絵がご両親？"
+  },
+  {
+    "name": "widestring_049FBC",
+    "path": "south_cape/sc06_kara.asm",
+    "chapter": 3,
+    "japanese": "カレン：知ってるわよ。オールマン探検隊でしょ、そうなんしたのよね。"
+  },
+  {
+    "name": "widestring_049FBC",
+    "path": "south_cape/sc06_kara.asm",
+    "chapter": 3,
+    "japanese": "カレン：おこったの？…ちがうわね。"
+  },
+  {
+    "name": "widestring_049FBC",
+    "path": "south_cape/sc06_kara.asm",
+    "chapter": 3,
+    "japanese": "悲しませたのね、あたしったら..ごめんなさい…"
+  },
+  {
+    "name": "widestring_04A04C",
+    "path": "south_cape/sc06_kara.asm",
+    "chapter": 3,
+    "japanese": "カレン：ところでこの家、ピアノもないのね。"
+  },
+  {
+    "name": "widestring_04A04C",
+    "path": "south_cape/sc06_kara.asm",
+    "chapter": 3,
+    "japanese": "カレン：歌なら今２階で歌ってるわよ。二人とも声が大きいのなんの。"
+  },
+  {
+    "name": "widestring_04A0D2",
+    "path": "south_cape/sc06_kara.asm",
+    "chapter": 3,
+    "japanese": "カレン：歌なら今２階で歌ってるわよ。二人とも声が大きいのなんの。"
+  },
+  {
+    "name": "widestring_04953E",
+    "path": "south_cape/sc06_bill.asm",
+    "chapter": 3,
+    "japanese": "いやーーーーーーーーーっ！！！"
+  },
+  {
+    "name": "widestring_04A3BB",
+    "path": "south_cape/sc06_main_soldier.asm",
+    "chapter": 3,
+    "japanese": "カレン：あんた達なんか知らないわよっ。出てってよっ！"
+  },
+  {
+    "name": "widestring_04A0D7",
+    "path": "south_cape/sc06_kara.asm",
+    "chapter": 3,
+    "japanese": "カレン：人ちがいでしょっ。あたしは花売り娘のポポンゴっていうのよ。"
+  },
+  {
+    "name": "widestring_04A15A",
+    "path": "south_cape/sc06_kara.asm",
+    "chapter": 3,
+    "japanese": "カレン：ウソついてごめんね。あたしはエドワード城のカレン。"
+  },
+  {
+    "name": "widestring_04A15A",
+    "path": "south_cape/sc06_kara.asm",
+    "chapter": 3,
+    "japanese": "テムって言ったかしら？あなたとは初めて会うっていう気がしないのよね。なんだかいいお友達になれそう。"
+  },
+  {
+    "name": "widestring_04CC6E",
+    "path": "edward_castle/ec0A_kara.asm",
+    "chapter": 4,
+    "japanese": "カレン：だあれ？"
+  },
+  {
+    "name": "widestring_04CC84",
+    "path": "edward_castle/ec0A_kara.asm",
+    "chapter": 4,
+    "japanese": "カレン：お客さま？"
+  },
+  {
+    "name": "widestring_04CA41",
+    "path": "edward_castle/ec0A_kara.asm",
+    "chapter": 4,
+    "japanese": "カレン：あ…その声は…"
+  },
+  {
+    "name": "widestring_04CA41",
+    "path": "edward_castle/ec0A_kara.asm",
+    "chapter": 4,
+    "japanese": "通しなさい。さもないとあんたのむかしのあだ名をバラすわよ。"
+  },
+  {
+    "name": "widestring_04CC96",
+    "path": "edward_castle/ec0A_kara.asm",
+    "chapter": 4,
+    "japanese": "カレン：あなたはきのうの…"
+  },
+  {
+    "name": "widestring_04CCE4",
+    "path": "edward_castle/ec0A_kara.asm",
+    "chapter": 4,
+    "japanese": "カレン：ひどい！ひどいっ！ひっどーいっ！"
+  },
+  {
+    "name": "widestring_04CCE4",
+    "path": "edward_castle/ec0A_kara.asm",
+    "chapter": 4,
+    "japanese": "またお父様は他人の大切な物を取り上げようとしてるのねっ！"
+  },
+  {
+    "name": "widestring_04CCE4",
+    "path": "edward_castle/ec0A_kara.asm",
+    "chapter": 4,
+    "japanese": "あたしもねちょっとお城をぬけだしたらおしおきでここから出してくれないのよ！"
+  },
+  {
+    "name": "widestring_04CCE4",
+    "path": "edward_castle/ec0A_kara.asm",
+    "chapter": 4,
+    "japanese": "でもこのところお城のふんいきがちょっとおかしいの。"
+  },
+  {
+    "name": "widestring_04CCE4",
+    "path": "edward_castle/ec0A_kara.asm",
+    "chapter": 4,
+    "japanese": "お母さまったら殺し屋までやとったのよ。うす気味悪いわ…"
+  },
+  {
+    "name": "widestring_04CDC0",
+    "path": "edward_castle/ec0A_kara.asm",
+    "chapter": 4,
+    "japanese": "カレン：ねえテム。あたしとっても不安なの。父も母も人が変わったみたい。"
+  },
+  {
+    "name": "widestring_04CDC0",
+    "path": "edward_castle/ec0A_kara.asm",
+    "chapter": 4,
+    "japanese": "おねがい、わたしをたすけて。どうかここから連れだして！おねがい…."
+  },
+  {
+    "name": "widestring_04CDC0",
+    "path": "edward_castle/ec0A_kara.asm",
+    "chapter": 4,
+    "japanese": "カレン：おねがい、きっときてね、テム。"
+  },
+  {
+    "name": "widestring_04D4B1",
+    "path": "edward_castle/ec0B_cell.asm",
+    "chapter": 5,
+    "japanese": "「テムがろうやに入れられたって聞いてビックリしちゃった。"
+  },
+  {
+    "name": "widestring_04D4B1",
+    "path": "edward_castle/ec0B_cell.asm",
+    "chapter": 5,
+    "japanese": "お父様にくってかかったけどあたしの言うことなんかちっとも聞いてくれないの…。"
+  },
+  {
+    "name": "widestring_04D4B1",
+    "path": "edward_castle/ec0B_cell.asm",
+    "chapter": 5,
+    "japanese": "あたしもうこんなところにいるのはいやっ。今夜城をぬけ出すことにする。"
+  },
+  {
+    "name": "widestring_04D4B1",
+    "path": "edward_castle/ec0B_cell.asm",
+    "chapter": 5,
+    "japanese": "テムもこれで自由になってねっ。」"
+  },
+  {
+    "name": "widestring_04CE4A",
+    "path": "edward_castle/ec0A_kara.asm",
+    "chapter": 6,
+    "japanese": "カレン：やっぱりきてくれたのね！どうもありがとう。"
+  },
+  {
+    "name": "widestring_04CE4A",
+    "path": "edward_castle/ec0A_kara.asm",
+    "chapter": 6,
+    "japanese": "外の兵隊さん、ねてたでしょう？じつは彼のむかしのあだ名、鼻ちょうちんっていうのよ。今もねむってばっかり。"
+  },
+  {
+    "name": "widestring_04CE4A",
+    "path": "edward_castle/ec0A_kara.asm",
+    "chapter": 6,
+    "japanese": "カレン：ぺぎーっていうの。かわいいでしょう？"
+  },
+  {
+    "name": "widestring_04CE4A",
+    "path": "edward_castle/ec0A_kara.asm",
+    "chapter": 6,
+    "japanese": "カレン：とってもかしこい子よ。ちょっとばかり不思議な力もあるし…"
+  },
+  {
+    "name": "widestring_04CE4A",
+    "path": "edward_castle/ec0A_kara.asm",
+    "chapter": 6,
+    "japanese": "さあ、わたしをここから連れだして！"
+  },
+  {
+    "name": "widestring_04D012",
+    "path": "edward_castle/ec0A_kara.asm",
+    "chapter": 6,
+    "japanese": "カレン：あそうだっ！長旅になるかもしれないし食べ物を持っていきましょ。"
+  },
+  {
+    "name": "widestring_04D012",
+    "path": "edward_castle/ec0A_kara.asm",
+    "chapter": 6,
+    "japanese": "地下室へいってくれない？"
+  },
+  {
+    "name": "widestring_04D114",
+    "path": "edward_castle/ec0A_kara.asm",
+    "chapter": 6,
+    "japanese": "カレン：たしかこのあたりのタルに食べ物が入っているの。"
+  },
+  {
+    "name": "widestring_04D141",
+    "path": "edward_castle/ec0A_barrel_roast.asm",
+    "chapter": 6,
+    "japanese": "カレン：これで準備オッケー！さあ兵隊さんに見つからないうちにいきましょ！"
+  },
+  {
+    "name": "widestring_04D069",
+    "path": "edward_castle/ec0A_kara.asm",
+    "chapter": 6,
+    "japanese": "カレン：さあ。いよいよ出発ね。"
+  },
+  {
+    "name": "widestring_04D069",
+    "path": "edward_castle/ec0A_kara.asm",
+    "chapter": 6,
+    "japanese": "まずはテムの家へ行ってみましょ。ローラおばあさまやビルおじいさまのことが心配だわ。"
+  },
+  {
+    "name": "widestring_04A766",
+    "path": "south_cape/sc06_kara_return.asm",
+    "chapter": 6,
+    "japanese": "カレン：ひどい….！いったいだれがこんなことを…"
+  },
+  {
+    "name": "widestring_04A7A8",
+    "path": "south_cape/sc06_kara_return.asm",
+    "chapter": 6,
+    "japanese": "カレン：ビルおじいさまーっ！"
+  },
+  {
+    "name": "widestring_04A7A8",
+    "path": "south_cape/sc06_kara_return.asm",
+    "chapter": 6,
+    "japanese": "カレン：あたし２階を見てくるっ！"
+  },
+  {
+    "name": "widestring_04A7E1",
+    "path": "south_cape/sc06_kara_return.asm",
+    "chapter": 6,
+    "japanese": "カレン：きゃーーーーーーッ！！！きて！たすけて！テム！た、たいへん、たいへんよ！"
+  },
+  {
+    "name": "widestring_04A81F",
+    "path": "south_cape/sc06_kara_return.asm",
+    "chapter": 6,
+    "japanese": "カレン：このかべを見て！このしるし、黒いヒョウのマーク..ブラックパンサーがきたんだわ！"
+  },
+  {
+    "name": "widestring_04A81F",
+    "path": "south_cape/sc06_kara_return.asm",
+    "chapter": 6,
+    "japanese": "カレン：最近お母さまがやとった殺し屋よ！"
+  },
+  {
+    "name": "widestring_04A81F",
+    "path": "south_cape/sc06_kara_return.asm",
+    "chapter": 6,
+    "japanese": "しつっこくて暗くてふきつな男なの。"
+  },
+  {
+    "name": "widestring_04A81F",
+    "path": "south_cape/sc06_kara_return.asm",
+    "chapter": 6,
+    "japanese": "一度こいつにねらわれたらもう、おしまい…人の命なんてなんとも思わない男よ！"
+  },
+  {
+    "name": "widestring_04A945",
+    "path": "south_cape/sc06_kara_return.asm",
+    "chapter": 6,
+    "japanese": "カレン：あなただあれ！？"
+  },
+  {
+    "name": "widestring_04A945",
+    "path": "south_cape/sc06_kara_return.asm",
+    "chapter": 6,
+    "japanese": "カレン：あなたの村？"
+  },
+  {
+    "name": "widestring_04AC45",
+    "path": "south_cape/sc06_lily.asm",
+    "chapter": 6,
+    "japanese": "カレン：そんな村、きいたこともないわ！"
+  },
+  {
+    "name": "widestring_04AC77",
+    "path": "south_cape/sc06_lily.asm",
+    "chapter": 6,
+    "japanese": "カレン：あたしもついて行く！"
+  },
+  {
+    "name": "widestring_04AC77",
+    "path": "south_cape/sc06_lily.asm",
+    "chapter": 6,
+    "japanese": "カレン：絶対について行くもん！これであたしほんとに自由になれるのねっ！！"
+  },
+  {
+    "name": "widestring_04A9D7",
+    "path": "south_cape/sc06_kara_return.asm",
+    "chapter": 6,
+    "japanese": "この先何かすてきなことが待っているような気がするわ。"
+  },
+  {
+    "name": "widestring_04AE61",
+    "path": "south_cape/sc06_lily.asm",
+    "chapter": 6,
+    "japanese": "カレン：この先何かすてきなことが待っているような気がする。"
+  },
+  {
+    "name": "widestring_04A9F8",
+    "path": "south_cape/sc06_kara_return.asm",
+    "chapter": 6,
+    "japanese": "カレン：いちいちたてつくわねえ。"
+  },
+  {
+    "name": "widestring_04AA0D",
+    "path": "south_cape/sc06_kara_return.asm",
+    "chapter": 6,
+    "japanese": "カレン：なによフーテン娘！"
+  },
+  {
+    "name": "widestring_04AA20",
+    "path": "south_cape/sc06_kara_return.asm",
+    "chapter": 6,
+    "japanese": "カレン：あら、テムはあたしのおともだちよね？！ ／ うん、もちろんさ ／ よくわかんねえやし…"
+  },
+  {
+    "name": "widestring_04AA7D",
+    "path": "south_cape/sc06_kara_return.asm",
+    "chapter": 6,
+    "japanese": "カレン：うれしいわ、テム。さあさ、手をつないで行きましょ。"
+  },
+  {
+    "name": "widestring_04E124",
+    "path": "itory/it15_kara.asm",
+    "chapter": 7,
+    "japanese": "カレン：しょうがないでしょ。本当に足が痛かったんだから。"
+  },
+  {
+    "name": "widestring_04E175",
+    "path": "itory/it15_kara.asm",
+    "chapter": 7,
+    "japanese": "カレン：リリィまってよ。あたしも行くわ。"
+  },
+  {
+    "name": "widestring_04E1F6",
+    "path": "itory/it17_kara.asm",
+    "chapter": 7,
+    "japanese": "カレン：しゃくだけどすてきな村ね。風がさわやかできもちいい…"
+  },
+  {
+    "name": "widestring_04E223",
+    "path": "itory/it17_kara.asm",
+    "chapter": 7,
+    "japanese": "カレン：あたしもいくっ！月の種族って見てみたいわ。"
+  },
+  {
+    "name": "widestring_04E223",
+    "path": "itory/it17_kara.asm",
+    "chapter": 7,
+    "japanese": "せっかくきゅうくつなお城をぬけだせたんですもの。何でも見たり聞いたりしたいの。"
+  },
+  {
+    "name": "widestring_04E7C9",
+    "path": "itory/it17_lily.asm",
+    "chapter": 7,
+    "japanese": "カレン：ふんっ。なによっ。あたしばっかりのけものにして。"
+  },
+  {
+    "name": "widestring_04E7C9",
+    "path": "itory/it17_lily.asm",
+    "chapter": 7,
+    "japanese": "ローラおばあさまとお話してるからいいわよっ！いーーーーだっ！！！"
+  },
+  {
+    "name": "widestring_09CF19",
+    "path": "incan_ruins/ir1C_kara.asm",
+    "chapter": 8,
+    "japanese": "カレン：ひどいじゃない？！あたしをおいてけぼりにしてどこまで行こうっていうのよっ！"
+  },
+  {
+    "name": "widestring_09CCD0",
+    "path": "incan_ruins/ir1C_lily.asm",
+    "chapter": 8,
+    "japanese": "カレン：ローラおばあさまからこの場所を聞きだして何時間も待ってたのよっ！"
+  },
+  {
+    "name": "widestring_09CCD0",
+    "path": "incan_ruins/ir1C_lily.asm",
+    "chapter": 8,
+    "japanese": "もうおいていかれたのかと思ったわ。せめて行き先くらい言ってくれたっていいじゃない！"
+  },
+  {
+    "name": "widestring_09CCD0",
+    "path": "incan_ruins/ir1C_lily.asm",
+    "chapter": 8,
+    "japanese": "それにテムはイセキで何かをさがしてるんでしょう？"
+  },
+  {
+    "name": "widestring_09CCD0",
+    "path": "incan_ruins/ir1C_lily.asm",
+    "chapter": 8,
+    "japanese": "テムががんばってるのにあたしだけ村でのんびりごはんなんか食べてられないわ。"
+  },
+  {
+    "name": "widestring_09CCD0",
+    "path": "incan_ruins/ir1C_lily.asm",
+    "chapter": 8,
+    "japanese": "あたしここでテムがもどってくるのを待ってる。"
+  },
+  {
+    "name": "widestring_09CF59",
+    "path": "incan_ruins/ir1C_kara.asm",
+    "chapter": 8,
+    "japanese": "カレン：どう？さがしてるものは見つかった？がんばってね。"
+  },
+  {
+    "name": "widestring_058C21",
+    "path": "gold_ship/gs2D_kara.asm",
+    "chapter": 10,
+    "japanese": "カレン：もどるはずのないインカ王の帰りをまちつづけて彼らは死んでいったのよね…"
+  },
+  {
+    "name": "widestring_058C21",
+    "path": "gold_ship/gs2D_kara.asm",
+    "chapter": 10,
+    "japanese": "平和にくらしてた人たちの生活をこなごなにするなんてゆるせないよやっぱり…"
+  },
+  {
+    "name": "widestring_058E4A",
+    "path": "gold_ship/gs2D_lily.asm",
+    "chapter": 10,
+    "japanese": "カレン：黄金を見つけてお金もちになろうとした人たちはこんなゆびわのために命を落としたわけね。"
+  },
+  {
+    "name": "widestring_058E4A",
+    "path": "gold_ship/gs2D_lily.asm",
+    "chapter": 10,
+    "japanese": "あたしこのゆびわもらっとこ。かわいくてなんだかすっごく気にいっちゃった。"
+  },
+  {
+    "name": "widestring_058F44",
+    "path": "gold_ship/gs2D_lily.asm",
+    "chapter": 10,
+    "japanese": "カレン：ななに？"
+  },
+  {
+    "name": "widestring_058C8F",
+    "path": "gold_ship/gs2D_kara.asm",
+    "chapter": 10,
+    "japanese": "カレン：ななに？"
+  },
+  {
+    "name": "widestring_059D42",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "カレン：やっと気がついたのね。みんなとはぐれちゃった…"
+  },
+  {
+    "name": "widestring_059D42",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "体の具合はだいじょうぶ？ ／ うんへっちゃらさ ／ まだふらふらするんだ"
+  },
+  {
+    "name": "widestring_059D91",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "カレン：そう。テムって回復がはやいのね。まるでとかげのしっぽみたい。"
+  },
+  {
+    "name": "widestring_059DCD",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "カレン：無理もないわよね。半日以上気をうしなってたんだもの。"
+  },
+  {
+    "name": "widestring_059E6F",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "カレン：くよくよしたってしかたないわよ。"
+  },
+  {
+    "name": "widestring_059E6F",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "先のことは考えないでひょう流を楽しんじゃおっ。"
+  },
+  {
+    "name": "widestring_059E6F",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "もうおなかぺこぺこ。お城の地下からもってきたお肉でお昼ごはんにしましょ。"
+  },
+  {
+    "name": "widestring_059EE3",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "カレン：きれい…一日中見ててもあきないな…"
+  },
+  {
+    "name": "widestring_059F2E",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "カレン：何てことするのよっ！魚がかわいそうじゃないっ！！"
+  },
+  {
+    "name": "widestring_05A03C",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "カレン：何か予感がするの…助けがくるのかもしれないわ…"
+  },
+  {
+    "name": "widestring_05A03C",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "あらっ？"
+  },
+  {
+    "name": "widestring_05A074",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "カレン：何か流れてくるみたいよっ！"
+  },
+  {
+    "name": "widestring_05A091",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "カレン：あーあ予感がしたのにっ。"
+  },
+  {
+    "name": "widestring_05A091",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "助けてくれって言われたって..こっちが助けてほしいよねぇ。"
+  },
+  {
+    "name": "widestring_05A091",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "あーあもうお腹と背中がくっつきそうよぉ。"
+  },
+  {
+    "name": "widestring_05A091",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "カレン：あんなかわいい魚殺せないわ！"
+  },
+  {
+    "name": "widestring_05A091",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "カレン：だいたい生の魚なんて気持ち悪くて食べられないわよっ！"
+  },
+  {
+    "name": "widestring_05A091",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "それに魚だっていっしょうけんめい生きてるのよっ！"
+  },
+  {
+    "name": "widestring_05A091",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "魚だって痛いって思うのよっ！テムは魚の気持ちを考えたことあるわけっ？！"
+  },
+  {
+    "name": "widestring_05A091",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "そんなに食べたきゃ勝手に食べればっ！あたしは食べないからねっ！！"
+  },
+  {
+    "name": "widestring_05A232",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "カレン：………."
+  },
+  {
+    "name": "widestring_05A319",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "カレン：………."
+  },
+  {
+    "name": "widestring_05A332",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "カレン：………."
+  },
+  {
+    "name": "widestring_05A332",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "テム…昨日はあんな言いかたしてごめんなさい…"
+  },
+  {
+    "name": "widestring_05A332",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "あたしもお魚食べてみるわ。死んじゃったらどうしようもないもんね。"
+  },
+  {
+    "name": "widestring_05A332",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "きらいな食べ物を食べないなんていっていられるのは平和なときだけなのよね…"
+  },
+  {
+    "name": "widestring_05A467",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "カレン：星がきれいね…"
+  },
+  {
+    "name": "widestring_05A467",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "もうちょっと背が高かったら手がとどきそうよね。"
+  },
+  {
+    "name": "widestring_05A467",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "きっとリリィやロブたちも同じ星空を見てるんだろうな。"
+  },
+  {
+    "name": "widestring_05A467",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "星とお話できればみんなのいる場所もきっとわかるのに…"
+  },
+  {
+    "name": "widestring_05A467",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "カレン：あそうそう最近気がついたんだけど白鳥座の近くに星が一つふえてるの。"
+  },
+  {
+    "name": "widestring_05A467",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "ほらあの赤い星。"
+  },
+  {
+    "name": "widestring_05A467",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "ねぇ。あの星にお願いごとしない？きっとかなうような気がするの。"
+  },
+  {
+    "name": "widestring_05A467",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "テムもちゃんと目を閉じてお願いしてね。"
+  },
+  {
+    "name": "widestring_05A5E3",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "カレン：もうひょう流してから３週間近くたつのね。"
+  },
+  {
+    "name": "widestring_05A5E3",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "テムってば少しカミの毛がのびたんじゃない？そうね２ドットくらい（笑）"
+  },
+  {
+    "name": "widestring_05A5E3",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "カレン：ひっどーい！"
+  },
+  {
+    "name": "widestring_05A5E3",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "ななに…？あの海にいるのなに…？"
+  },
+  {
+    "name": "widestring_05A723",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "カレン：イカダのまわりをぐるぐるまわるだけでおそってこないわね…"
+  },
+  {
+    "name": "widestring_05A6EA",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "カレン：もしかしてサメ…?"
+  },
+  {
+    "name": "widestring_05A6EA",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "あたしたち食べられちゃうのかしら…どうしよう..テム…"
+  },
+  {
+    "name": "widestring_05A770",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "カレン：わかった！この子たちお腹がすいてないのよ！"
+  },
+  {
+    "name": "widestring_05A770",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "むかしじいやに教わったの。お腹がすいてないのに生き物をおそうのは人間だけだって。"
+  },
+  {
+    "name": "widestring_05A770",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "カレン：そうよね。あいっちゃうみたい。サメさんさよーならぁー…"
+  },
+  {
+    "name": "widestring_05A853",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "カレン：あたしね。お城にいるときは夕日をみるのが好きだったの…"
+  },
+  {
+    "name": "widestring_05A853",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "お城のわたりロウカから見る夕日はすっごくすっごくきれいで…"
+  },
+  {
+    "name": "widestring_05A853",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "でもね。今はきらいになっちゃった。"
+  },
+  {
+    "name": "widestring_05A853",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "夕日がしずむと暗くてこわいヤミがやってきて…"
+  },
+  {
+    "name": "widestring_05A853",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "そのまま二度と朝日を見られないんじゃないかと思って.."
+  },
+  {
+    "name": "widestring_05A853",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "でもテムがそばにいてくれたから毎日きれいな朝の光を見られたのよね。"
+  },
+  {
+    "name": "widestring_05A853",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "テムが近くにいてくれると、たわいないこんな時間もなんだか楽しく感じるの。"
+  },
+  {
+    "name": "widestring_05A9F9",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "カレン：テムっ！テムっ！！どうしたのよっ！"
+  },
+  {
+    "name": "widestring_05A9F9",
+    "path": "diamond_coast/dc2F_adrift.asm",
+    "chapter": 11,
+    "japanese": "しっかりしてよっ！あたしを一人にしないでよおっ！！"
+  },
+  {
+    "name": "widestring_05ABC6",
+    "path": "diamond_coast/dc31_rescuer.asm",
+    "chapter": 12,
+    "japanese": "カレン：ふうん…."
+  },
+  {
+    "name": "widestring_05ABC6",
+    "path": "diamond_coast/dc31_rescuer.asm",
+    "chapter": 12,
+    "japanese": "カレン：やめてよっ！！そんなこわい話聞きたくないわっ"
+  },
+  {
+    "name": "widestring_05ABC6",
+    "path": "diamond_coast/dc31_rescuer.asm",
+    "chapter": 12,
+    "japanese": "カレン：でもおじさんって物知りなのね。本当にありがとう。"
+  },
+  {
+    "name": "widestring_05ADAE",
+    "path": "diamond_coast/dc31_kara.asm",
+    "chapter": 12,
+    "japanese": "カレン：テム！テムっ！！目を覚ましてっ！！！"
+  },
+  {
+    "name": "widestring_05ADAE",
+    "path": "diamond_coast/dc31_kara.asm",
+    "chapter": 12,
+    "japanese": "陸地に陸地についたのよっ！！あたしたち助かったのよっ！！！"
+  },
+  {
+    "name": "widestring_05AE00",
+    "path": "diamond_coast/dc31_kara.asm",
+    "chapter": 12,
+    "japanese": "カレン：あたしたちを助けてくれた親切なおじさんのおうち。"
+  },
+  {
+    "name": "widestring_05AE00",
+    "path": "diamond_coast/dc31_kara.asm",
+    "chapter": 12,
+    "japanese": "まったくテムったらねぞうが悪いんだからっ。"
+  },
+  {
+    "name": "widestring_05AE00",
+    "path": "diamond_coast/dc31_kara.asm",
+    "chapter": 12,
+    "japanese": "病人だっていうのにおふとんをかけてもかけてもはいじゃうんだもの。"
+  },
+  {
+    "name": "widestring_05AE00",
+    "path": "diamond_coast/dc31_kara.asm",
+    "chapter": 12,
+    "japanese": "病人だっていうのにおふとんをかけてもかけてもはいじゃうんだもの。"
+  },
+  {
+    "name": "widestring_05AF2F",
+    "path": "diamond_coast/dc31_kara.asm",
+    "chapter": 12,
+    "japanese": "カレン：とにかくそのフリージアっていう町へいってみましょ。"
+  },
+  {
+    "name": "widestring_05AF2F",
+    "path": "diamond_coast/dc31_kara.asm",
+    "chapter": 12,
+    "japanese": "あたし犬にお礼いってくる。じゅんびができたらきてね。"
+  },
+  {
+    "name": "widestring_05AADD",
+    "path": "diamond_coast/dc30_kara.asm",
+    "chapter": 12,
+    "japanese": "カレン：この犬ターボっていう名前なんですって。かしこそうな犬よね。"
+  },
+  {
+    "name": "widestring_05AADD",
+    "path": "diamond_coast/dc30_kara.asm",
+    "chapter": 12,
+    "japanese": "さあ行きましょう。きっとリリィやロブ、エリックたちと会えるわよ。"
+  },
+  {
+    "name": "widestring_05B100",
+    "path": "freejia/fr32_kara.asm",
+    "chapter": 13,
+    "japanese": "カレン：うわあすてきっ！さすが花の都っていうだけあるわよねっ！！"
+  },
+  {
+    "name": "widestring_05B100",
+    "path": "freejia/fr32_kara.asm",
+    "chapter": 13,
+    "japanese": "こんなきれいなところに住んでる人たちはきっと心もきれいなんだろうな…"
+  },
+  {
+    "name": "widestring_05B225",
+    "path": "freejia/fr32_guide.asm",
+    "chapter": 13,
+    "japanese": "カレン：ううん。決ってないわ。それにあたしたち人をさがしてるの。"
+  },
+  {
+    "name": "widestring_05B225",
+    "path": "freejia/fr32_guide.asm",
+    "chapter": 13,
+    "japanese": "カレン：決ーまりっ！あたしもうくったくたっ！！"
+  },
+  {
+    "name": "widestring_05B14B",
+    "path": "freejia/fr32_kara.asm",
+    "chapter": 13,
+    "japanese": "カレン：テムもそれでいいわよねっ。さっいこいこっ！！"
+  },
+  {
+    "name": "widestring_05B16F",
+    "path": "freejia/fr32_kara.asm",
+    "chapter": 13,
+    "japanese": "カレン：ここの宿屋さんがそうだって。さっはいろっ！！"
+  },
+  {
+    "name": "widestring_05C4CD",
+    "path": "freejia/fr39_lily_kara.asm",
+    "chapter": 13,
+    "japanese": "カレン：リリィ？リリィなのっ？！"
+  },
+  {
+    "name": "widestring_05C571",
+    "path": "freejia/fr39_lily_kara.asm",
+    "chapter": 13,
+    "japanese": "カレン：せっかく無事に会えたっていうのにこんなのって…"
+  },
+  {
+    "name": "widestring_05C85E",
+    "path": "freejia/fr39_lance.asm",
+    "chapter": 15,
+    "japanese": "カレン：なんだかとってもなつかしい感じがするわ…"
+  },
+  {
+    "name": "widestring_05C85E",
+    "path": "freejia/fr39_lance.asm",
+    "chapter": 15,
+    "japanese": "カレン：あたしはお父さまが他の国へ兵隊を使ってせめていくのがたまらなかった。"
+  },
+  {
+    "name": "widestring_05C85E",
+    "path": "freejia/fr39_lance.asm",
+    "chapter": 15,
+    "japanese": "人が死ぬのって大変なことよね。"
+  },
+  {
+    "name": "widestring_05C85E",
+    "path": "freejia/fr39_lance.asm",
+    "chapter": 15,
+    "japanese": "何年もかけてつみあげてきたものがいっしゅんでなくなっちゃうんだもの。"
+  },
+  {
+    "name": "widestring_05CA69",
+    "path": "freejia/fr39_lance.asm",
+    "chapter": 15,
+    "japanese": "カレン：もう！心配したんだからあ！！"
+  },
+  {
+    "name": "widestring_05C597",
+    "path": "freejia/fr39_lily_kara.asm",
+    "chapter": 15,
+    "japanese": "カレン：なんだかなみだが出てきちゃった。"
+  },
+  {
+    "name": "widestring_05DDC0",
+    "path": "nazca/na49_lily.asm",
+    "chapter": 16,
+    "japanese": "カレン：この人なんだかくさああい…"
+  },
+  {
+    "name": "widestring_05E086",
+    "path": "nazca/na49_kara.asm",
+    "chapter": 16,
+    "japanese": "カレン：この人たちってば信じらんないっ！"
+  },
+  {
+    "name": "widestring_05E086",
+    "path": "nazca/na49_kara.asm",
+    "chapter": 16,
+    "japanese": "もう同じ空気を吸ってるのもやだわっ！！"
+  },
+  {
+    "name": "widestring_05E0C1",
+    "path": "nazca/na49_kara.asm",
+    "chapter": 16,
+    "japanese": "カレン：白鳥座ですって？！"
+  },
+  {
+    "name": "widestring_05EDA1",
+    "path": "nazca/na4B_kara.asm",
+    "chapter": 17,
+    "japanese": "カレン：なんだかこうしてみると運動会の白線みたい。"
+  },
+  {
+    "name": "widestring_05EDA1",
+    "path": "nazca/na4B_kara.asm",
+    "chapter": 17,
+    "japanese": "案外古代ナスカ人たちはここで１００M走をやっていたりしてね。"
+  },
+  {
+    "name": "widestring_05EE15",
+    "path": "nazca/na4B_kara.asm",
+    "chapter": 17,
+    "japanese": "カレン：ここがちょうどコンドルのお腹のあたりよね。ほったら卵でも出てこないかな。"
+  },
+  {
+    "name": "widestring_05EE15",
+    "path": "nazca/na4B_kara.asm",
+    "chapter": 17,
+    "japanese": "じょじょうだんよ（笑）本気にしてさがしまわらないでよ。"
+  },
+  {
+    "name": "widestring_05ED60",
+    "path": "nazca/na4B_kara.asm",
+    "chapter": 17,
+    "japanese": "カレン：こんな風に自然のキャンバスの上に思いっきりおっきい絵をかいたら気持ちいいんだろうなあ。"
+  },
+  {
+    "name": "widestring_05EE7C",
+    "path": "nazca/na4B_kara.asm",
+    "chapter": 17,
+    "japanese": "カレン：こんなにドキドキするようなことをたいけんできるなんて…"
+  },
+  {
+    "name": "widestring_05E774",
+    "path": "nazca/na4B_buried_tile.asm",
+    "chapter": 17,
+    "japanese": "カレン：きゃあっ！テムっ！！テムーーーーーーーーーーっ！！！"
+  },
+  {
+    "name": "widestring_06805C",
+    "path": "seaside_palace/sp58_missed_flight.asm",
+    "chapter": 18,
+    "japanese": "カレン：ニールのばかばかばかばかっ！テムが死んじゃうっ！！！"
+  },
+  {
+    "name": "widestring_068230",
+    "path": "seaside_palace/sp58_red_eye.asm",
+    "chapter": 18,
+    "japanese": "カレン：くすんくすん…"
+  },
+  {
+    "name": "widestring_06865E",
+    "path": "seaside_palace/sp5B_kara.asm",
+    "chapter": 19,
+    "japanese": "カレン：テム….どこ？どこにいるの…？？"
+  },
+  {
+    "name": "widestring_06A894",
+    "path": "mu/mu67_kara.asm",
+    "chapter": 20,
+    "japanese": "カレン：そんなのどうでもいいじゃない！"
+  },
+  {
+    "name": "widestring_06A894",
+    "path": "mu/mu67_kara.asm",
+    "chapter": 20,
+    "japanese": "それよりムー大陸からどうやって出るかを考えましょっ！"
+  },
+  {
+    "name": "widestring_06A894",
+    "path": "mu/mu67_kara.asm",
+    "chapter": 20,
+    "japanese": "カレン：悲しい話ね…"
+  },
+  {
+    "name": "widestring_06A894",
+    "path": "mu/mu67_kara.asm",
+    "chapter": 20,
+    "japanese": "いっしょにくらしてた人たちがはなればなれになってしかも片方は海の底なんて…"
+  },
+  {
+    "name": "widestring_06A894",
+    "path": "mu/mu67_kara.asm",
+    "chapter": 20,
+    "japanese": "いっしょにくらしてた人たちがはなればなれになってしかも片方は海の底なんて…"
+  },
+  {
+    "name": "widestring_06AB53",
+    "path": "seaside_tunnel/st68_neil.asm",
+    "chapter": 21,
+    "japanese": "カレン：もーうやだっ！もう旅に出てからつかれることしかないんだものっ。"
+  },
+  {
+    "name": "widestring_06AB53",
+    "path": "seaside_tunnel/st68_neil.asm",
+    "chapter": 21,
+    "japanese": "カレン：もーうやだっ！もう旅に出てからつかれることしかないんだものっ。"
+  },
+  {
+    "name": "widestring_06B069",
+    "path": "seaside_tunnel/st68_kara.asm",
+    "chapter": 21,
+    "japanese": "カレン：あーあステーキが食べたいっ！サラダも食べたいっ！！"
+  },
+  {
+    "name": "widestring_06B069",
+    "path": "seaside_tunnel/st68_kara.asm",
+    "chapter": 21,
+    "japanese": "変なものばっかり食べてるからもうハダががさがさになってきちゃった…"
+  },
+  {
+    "name": "widestring_06B0BC",
+    "path": "seaside_tunnel/st68_kara.asm",
+    "chapter": 21,
+    "japanese": "カレン：があああん。テムがまたキノコを見つけてきたわ…"
+  },
+  {
+    "name": "widestring_06AD64",
+    "path": "seaside_tunnel/st68_neil.asm",
+    "chapter": 21,
+    "japanese": "カレン：ねえねえ。ゆうべねているとき上の方から不気味な物音がしなかった？"
+  },
+  {
+    "name": "widestring_06B10B",
+    "path": "seaside_tunnel/st68_kara.asm",
+    "chapter": 21,
+    "japanese": "カレン：ほらっ。今も聞こえたわっ！！何かしら…あの音…"
+  },
+  {
+    "name": "widestring_06B13C",
+    "path": "seaside_tunnel/st68_kara.asm",
+    "chapter": 21,
+    "japanese": "カレン：たいへんっ！！にげなくっちゃ！！！"
+  },
+  {
+    "name": "widestring_06B3EC",
+    "path": "seaside_tunnel/st68_kara.asm",
+    "chapter": 21,
+    "japanese": "カレン：モリス….かわいそうに….."
+  },
+  {
+    "name": "widestring_06C3B1",
+    "path": "angel_village/av69_kara.asm",
+    "chapter": 22,
+    "japanese": "カレン：何が\"テム行こっ\"よっ！"
+  },
+  {
+    "name": "widestring_06C3B1",
+    "path": "angel_village/av69_kara.asm",
+    "chapter": 22,
+    "japanese": "テムもテムよ。でれでれしちゃってさ。"
+  },
+  {
+    "name": "widestring_06C3B1",
+    "path": "angel_village/av69_kara.asm",
+    "chapter": 22,
+    "japanese": "あたし一人であたりを見物してくる！ついてこないでよっ！！"
+  },
+  {
+    "name": "widestring_06D339",
+    "path": "angel_village/av74_kara.asm",
+    "chapter": 23,
+    "japanese": "カレン：テム…..勝手なことしてごめんなさい…"
+  },
+  {
+    "name": "widestring_06D364",
+    "path": "angel_village/av74_kara.asm",
+    "chapter": 23,
+    "japanese": "カレン：…………"
+  },
+  {
+    "name": "widestring_06D3CC",
+    "path": "angel_village/av74_kara.asm",
+    "chapter": 23,
+    "japanese": "カレン：うわああああああああああん。ヒック…ぐすっ…"
+  },
+  {
+    "name": "widestring_06D3CC",
+    "path": "angel_village/av74_kara.asm",
+    "chapter": 23,
+    "japanese": "あたし…ヒック自分でも何やってるのか..わかんないの…ぐすっ…"
+  },
+  {
+    "name": "widestring_06D3CC",
+    "path": "angel_village/av74_kara.asm",
+    "chapter": 23,
+    "japanese": "お城にいるときはね…自分のほしいものは何だって手に入ってた…"
+  },
+  {
+    "name": "widestring_06D3CC",
+    "path": "angel_village/av74_kara.asm",
+    "chapter": 23,
+    "japanese": "でも旅先ではぜんぜんちがうんだもの…"
+  },
+  {
+    "name": "widestring_06D3CC",
+    "path": "angel_village/av74_kara.asm",
+    "chapter": 23,
+    "japanese": "カレン：ちがうのっ！"
+  },
+  {
+    "name": "widestring_06D3CC",
+    "path": "angel_village/av74_kara.asm",
+    "chapter": 23,
+    "japanese": "遠くにいても近く感じて近くにいても遠く感じるものがあることを知ったの…"
+  },
+  {
+    "name": "widestring_06D3CC",
+    "path": "angel_village/av74_kara.asm",
+    "chapter": 23,
+    "japanese": "テムがわかってくれなければそれでいい…"
+  },
+  {
+    "name": "widestring_06D3CC",
+    "path": "angel_village/av74_kara.asm",
+    "chapter": 23,
+    "japanese": "でもあたし今日のことは一生忘れないと思う…"
+  },
+  {
+    "name": "widestring_06C568",
+    "path": "angel_village/av6A_erik.asm",
+    "chapter": 23,
+    "japanese": "カレン：そのへんのことならテムにさんざんおこられたわよ。"
+  },
+  {
+    "name": "widestring_06C568",
+    "path": "angel_village/av6A_erik.asm",
+    "chapter": 23,
+    "japanese": "というわけでみなさん本当にごめんなさいっ！ペコリっ。"
+  },
+  {
+    "name": "widestring_06C417",
+    "path": "angel_village/av6A_kara.asm",
+    "chapter": 23,
+    "japanese": "カレン：水上都市ってねイカダの上にたくさん家がたってるんだって。"
+  },
+  {
+    "name": "widestring_06C417",
+    "path": "angel_village/av6A_kara.asm",
+    "chapter": 23,
+    "japanese": "なんだかロマンチックよね。楽しみだなっ。"
+  },
+  {
+    "name": "widestring_07A613",
+    "path": "watermia/wa79_kara.asm",
+    "chapter": 24,
+    "japanese": "カレン：ウォータミアはすごくきれいな町だけどちょっといやなうわさを耳にしたの…"
+  },
+  {
+    "name": "widestring_07A613",
+    "path": "watermia/wa79_kara.asm",
+    "chapter": 24,
+    "japanese": "人の命をもてあそぶとか…なんだとか…"
+  },
+  {
+    "name": "widestring_07A613",
+    "path": "watermia/wa79_kara.asm",
+    "chapter": 24,
+    "japanese": "花の都もそうだったけど美しいものには必ず裏の顔があるのかしら…"
+  },
+  {
+    "name": "widestring_07A613",
+    "path": "watermia/wa79_kara.asm",
+    "chapter": 24,
+    "japanese": "花の都もそうだったけど美しいものには必ず裏の顔があるのかしら…"
+  },
+  {
+    "name": "widestring_07A6AF",
+    "path": "watermia/wa79_kara.asm",
+    "chapter": 24,
+    "japanese": "カレン：はいっ。バースディケーキ！ニールが作ってくれたの。"
+  },
+  {
+    "name": "widestring_07A6AF",
+    "path": "watermia/wa79_kara.asm",
+    "chapter": 24,
+    "japanese": "カレン：はいっ。バースディケーキ！ニールが作ってくれたの。"
+  },
+  {
+    "name": "widestring_07A7E2",
+    "path": "watermia/wa79_kara.asm",
+    "chapter": 24,
+    "japanese": "カレン：ロブとリリィどうしたのかしら。心配よね…"
+  },
+  {
+    "name": "widestring_07A811",
+    "path": "watermia/wa79_kara.asm",
+    "chapter": 26,
+    "japanese": "カレン：クルックって変な動物よね…"
+  },
+  {
+    "name": "widestring_07A833",
+    "path": "watermia/wa79_kara.asm",
+    "chapter": 26,
+    "japanese": "カレン：ニール実家ってエウロの町で貿易会社をやってるんですって。"
+  },
+  {
+    "name": "widestring_07DA00",
+    "path": "euro/eu96_kara.asm",
+    "chapter": 27,
+    "japanese": "カレン：すっごい家よね…最近は国王より民間人の方がお金もちなのかしら…"
+  },
+  {
+    "name": "widestring_07DC63",
+    "path": "euro/eu96_neil.asm",
+    "chapter": 28,
+    "japanese": "カレン：じゃニールは社長になるわけね？すごおおおおい！！"
+  },
+  {
+    "name": "widestring_07DD70",
+    "path": "euro/eu96_neil.asm",
+    "chapter": 28,
+    "japanese": "カレン：えっ！！！！！！！？"
+  },
+  {
+    "name": "widestring_07DDD2",
+    "path": "euro/eu96_neil.asm",
+    "chapter": 28,
+    "japanese": "カレン：ペギーっ！！！"
+  },
+  {
+    "name": "widestring_07DDD2",
+    "path": "euro/eu96_neil.asm",
+    "chapter": 28,
+    "japanese": "どうしたのっ？！元気だった？！"
+  },
+  {
+    "name": "widestring_07DA3D",
+    "path": "euro/eu96_kara.asm",
+    "chapter": 28,
+    "japanese": "カレン：ここから西に向かうとアンコールワットの遺跡があるらしいわ。"
+  },
+  {
+    "name": "widestring_07DA3D",
+    "path": "euro/eu96_kara.asm",
+    "chapter": 28,
+    "japanese": "ちょうどそのあたりがドレイたちのこきょうにあたるみたい。"
+  },
+  {
+    "name": "widestring_07DA3D",
+    "path": "euro/eu96_kara.asm",
+    "chapter": 28,
+    "japanese": "さあいってみましょ！！"
+  },
+  {
+    "name": "widestring_0884A4",
+    "path": "native_village/nvAC_kara.asm",
+    "chapter": 30,
+    "japanese": "カレン：子供たちに言葉を一つ教わっちゃった。"
+  },
+  {
+    "name": "widestring_0884A4",
+    "path": "native_village/nvAC_kara.asm",
+    "chapter": 30,
+    "japanese": "ラマポーっていうのがこの地域でこんにちはっていう意味みたい。"
+  },
+  {
+    "name": "widestring_0895C9",
+    "path": "native_village/nvAE_kara.asm",
+    "chapter": 30,
+    "japanese": "カレン：今さっきこの村の人たちと身ぶり手ぶりでお話してたのね。"
+  },
+  {
+    "name": "widestring_0895C9",
+    "path": "native_village/nvAE_kara.asm",
+    "chapter": 30,
+    "japanese": "そしたらね。森に動物がもどってきたみたい。これでみんな共食いすることもなくなるわよね。"
+  },
+  {
+    "name": "widestring_08963C",
+    "path": "native_village/nvAE_kara.asm",
+    "chapter": 30,
+    "japanese": "ドレイ商人たちは北西の町からやってきて村人を連れていくみたいなの。"
+  },
+  {
+    "name": "widestring_08963C",
+    "path": "native_village/nvAE_kara.asm",
+    "chapter": 30,
+    "japanese": "食べ物がなくて困っているところにつけこんで子供たちを買っていくなんてゆるせない！"
+  },
+  {
+    "name": "widestring_08963C",
+    "path": "native_village/nvAE_kara.asm",
+    "chapter": 30,
+    "japanese": "ねえそのドレイ商人の町へいってみない？ ／ うん行こう！ ／ ちょっとまって"
+  },
+  {
+    "name": "widestring_0896F9",
+    "path": "native_village/nvAE_kara.asm",
+    "chapter": 30,
+    "japanese": "じゃあ行く準備ができたらここへもどってきてね。"
+  },
+  {
+    "name": "widestring_08971E",
+    "path": "native_village/nvAE_kara.asm",
+    "chapter": 30,
+    "japanese": "さあしゅっぱあつ！！"
+  },
+  {
+    "name": "widestring_08BA7D",
+    "path": "pyramid/pyCD_jackal.asm",
+    "chapter": 32,
+    "japanese": "カレン：お父さまがそんなことを？！"
+  },
+  {
+    "name": "widestring_08BA7D",
+    "path": "pyramid/pyCD_jackal.asm",
+    "chapter": 32,
+    "japanese": "カレン：やめてよっ！そんな話！！"
+  },
+  {
+    "name": "widestring_08BE66",
+    "path": "pyramid/pyCD_kara.asm",
+    "chapter": 32,
+    "japanese": "カレン：テム…."
+  },
+  {
+    "name": "widestring_08BE66",
+    "path": "pyramid/pyCD_kara.asm",
+    "chapter": 32,
+    "japanese": "なんでみんな殺しあわなくちゃならないの..？"
+  },
+  {
+    "name": "widestring_08BE66",
+    "path": "pyramid/pyCD_kara.asm",
+    "chapter": 32,
+    "japanese": "あたし…もう…"
+  },
+  {
+    "name": "widestring_08BEA9",
+    "path": "pyramid/pyCD_kara.asm",
+    "chapter": 32,
+    "japanese": "カレン：ごめんなさい…とりみだしちゃって…"
+  },
+  {
+    "name": "widestring_08BEA9",
+    "path": "pyramid/pyCD_kara.asm",
+    "chapter": 32,
+    "japanese": "テムは世界を救うためにがんばっているんだもんね。"
+  },
+  {
+    "name": "widestring_08BEA9",
+    "path": "pyramid/pyCD_kara.asm",
+    "chapter": 32,
+    "japanese": "最初旅にでたときはお父さんをさがしにいくはずだったのに…"
+  },
+  {
+    "name": "widestring_08BEA9",
+    "path": "pyramid/pyCD_kara.asm",
+    "chapter": 32,
+    "japanese": "何だかたいへんなことになってきちゃったわよね…"
+  },
+  {
+    "name": "widestring_08BEA9",
+    "path": "pyramid/pyCD_kara.asm",
+    "chapter": 32,
+    "japanese": "でもあたし。この旅についてきたことをこうかいしてないよ。"
+  },
+  {
+    "name": "widestring_08BEA9",
+    "path": "pyramid/pyCD_kara.asm",
+    "chapter": 32,
+    "japanese": "さあ行ってきて。５つ目のミステリードールをさがしに…."
+  },
+  {
+    "name": "widestring_08BF8F",
+    "path": "pyramid/pyCD_kara.asm",
+    "chapter": 32,
+    "japanese": "さっきのテムの吹いたメロディがブラックパンサーのそう送曲になったのね…"
+  },
+  {
+    "name": "widestring_08C127",
+    "path": "pyramid/pyCD_kara.asm",
+    "chapter": 32,
+    "japanese": "カレン：あたしたちの知らないところで何かたいへんなことが起きているみたいね…."
+  },
+  {
+    "name": "widestring_08C127",
+    "path": "pyramid/pyCD_kara.asm",
+    "chapter": 32,
+    "japanese": "カレン：ニールってねまた飛行機を作ったんですって。"
+  },
+  {
+    "name": "widestring_08C127",
+    "path": "pyramid/pyCD_kara.asm",
+    "chapter": 32,
+    "japanese": "さばくの町へは飛行機できてるみたいなの。まずは町へもどってみましょ。"
+  },
+  {
+    "name": "widestring_0981F4",
+    "path": "babel_tower/btDC_plane_jumping.asm",
+    "chapter": 33,
+    "japanese": "カレン：うん。そうね…"
+  },
+  {
+    "name": "widestring_099F1B",
+    "path": "babel_tower/btDF_kara.asm",
+    "chapter": 33,
+    "japanese": "まって…."
+  },
+  {
+    "name": "widestring_099F2A",
+    "path": "babel_tower/btDF_kara.asm",
+    "chapter": 33,
+    "japanese": "カレン：ごめんなさい…今別れたらなんだか二度と会えないような気がして.."
+  },
+  {
+    "name": "widestring_099F2A",
+    "path": "babel_tower/btDF_kara.asm",
+    "chapter": 33,
+    "japanese": "カレン：もしかするとこのゆびわのせいかしら…ほらインカの黄金船で見つけたじゃない？"
+  },
+  {
+    "name": "widestring_098577",
+    "path": "babel_tower/btE3_kara.asm",
+    "chapter": 33,
+    "japanese": "カレン：きゅうけつきの女の人がやってきて話があるっていうから…"
+  },
+  {
+    "name": "widestring_098577",
+    "path": "babel_tower/btE3_kara.asm",
+    "chapter": 33,
+    "japanese": "あの人永遠に死ぬことのできない体なんですって…"
+  },
+  {
+    "name": "widestring_098577",
+    "path": "babel_tower/btE3_kara.asm",
+    "chapter": 33,
+    "japanese": "すい星さえなくなればやすらかなねむりにつけるって言ってたわ。"
+  },
+  {
+    "name": "widestring_0989A2",
+    "path": "babel_tower/btDE_olman.asm",
+    "chapter": 35,
+    "japanese": "カレン：あたしたちが….？"
+  },
+  {
+    "name": "widestring_098DFD",
+    "path": "babel_tower/btE4_kara.asm",
+    "chapter": 35,
+    "japanese": "カレン：……………"
+  },
+  {
+    "name": "widestring_0BD558",
+    "path": "ending/sE5_epilogue.asm",
+    "chapter": 36,
+    "japanese": "カレン：すい星はどうなったのかしら..？"
+  },
+  {
+    "name": "widestring_0BD558",
+    "path": "ending/sE5_epilogue.asm",
+    "chapter": 36,
+    "japanese": "あの青くかがやいている星はいったい？"
+  },
+  {
+    "name": "widestring_0BD5A0",
+    "path": "ending/sE5_epilogue.asm",
+    "chapter": 36,
+    "japanese": "カレン：地球ってあんなにきれいだったのね。"
+  },
+  {
+    "name": "widestring_0BD5A0",
+    "path": "ending/sE5_epilogue.asm",
+    "chapter": 36,
+    "japanese": "でもヤミの中にぽつんと光っててなんだかさびしそう…"
+  },
+  {
+    "name": "widestring_0BD740",
+    "path": "ending/sE5_epilogue.asm",
+    "chapter": 36,
+    "japanese": "カレン：あたしたちまるで神様になったみたい…"
+  },
+  {
+    "name": "widestring_0BDED4",
+    "path": "ending/s90_changed_world.asm",
+    "chapter": 36,
+    "japanese": "カレン：新しい世界？"
+  },
+  {
+    "name": "widestring_0BD9FA",
+    "path": "ending/sE5_epilogue.asm",
+    "chapter": 36,
+    "japanese": "カレン：地球にもどったらあたしたちはなればなれになっちゃうの？"
+  },
+  {
+    "name": "widestring_0BDC95",
+    "path": "ending/sE5_epilogue.asm",
+    "chapter": 36,
+    "japanese": "カレン：テム…こっちへきて…そして顔をよく見せて…"
+  },
+  {
+    "name": "widestring_0BDC95",
+    "path": "ending/sE5_epilogue.asm",
+    "chapter": 36,
+    "japanese": "しっかりと心に焼きつけておきたいの。"
+  },
+  {
+    "name": "widestring_0BDC95",
+    "path": "ending/sE5_epilogue.asm",
+    "chapter": 36,
+    "japanese": "テムの目も鼻も口もカミの毛も声も手のぬくもりも…"
+  },
+  {
+    "name": "widestring_0BDDE5",
+    "path": "ending/sE5_epilogue.asm",
+    "chapter": 36,
+    "japanese": "カレン：テム……"
+  },
+  {
+    "name": "widestring_0BDE02",
+    "path": "ending/sE5_epilogue.asm",
+    "chapter": 36,
+    "japanese": "カレン：うん….."
+  }
+]

@@ -7,7 +7,8 @@
         "source": "Shadow",
         "japanese": "シャドウ：気がつくとそこは見覚えのある場所だった…",
         "thammy": "Shadow: When I came to, I was at a place that was familiar to me…",
-        "tone": ""
+        "tone": "",
+        "claude": "Shadow: When I came to, I was in a place I recognized..."
       }
     ]
   },
@@ -19,13 +20,15 @@
         "source": "Karen",
         "japanese": "カレン：すい星はどうなったのかしら..？",
         "thammy": "Karen: I wonder what will become of the comet…?",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: I wonder what happened to the comet...?"
       },
       {
         "source": "Karen",
         "japanese": "あの青くかがやいている星はいったい？",
         "thammy": "And what in the world is that huge, shining blue star out there?",
-        "tone": ""
+        "tone": "",
+        "claude": "And what in the world is that blue shining star?"
       }
     ]
   },
@@ -37,49 +40,57 @@
         "source": "Allman",
         "japanese": "テムの父：すい星はその力を失った。",
         "thammy": "Tim's father: The comet has lost its power.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim's Father: The comet has lost its power."
       },
       {
         "source": "Allman",
         "japanese": "あくまの星は今宇宙の彼方へ飛び去ろうとしているのだ…",
         "thammy": "The star of the devil will now fly off into space…",
-        "tone": ""
+        "tone": "",
+        "claude": "The star of the devil is now flying off into the depths of space..."
       },
       {
         "source": "Allman",
         "japanese": "テム。あの暗やみにうかんでいる青い星が何だかわかるか？",
         "thammy": "Tim. Don't you know that blue star floating in the darkness somehow?",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim. Do you know what that blue star floating in the darkness is?"
       },
       {
         "source": "Tim",
         "japanese": "テム：あれがぼくたちの星…？",
         "thammy": "Tim: That's our planet...?",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: That's our planet...?"
       },
       {
         "source": "Allman",
         "japanese": "テムの父：そう。あれが我々の星地球だ。",
         "thammy": "Tim's father: That's right. That's our planet, the Earth.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim's Father: That's right. That is our planet, Earth."
       },
       {
         "source": "Allman",
         "japanese": "さばくのオアシスのように見えるだろう？",
         "thammy": "Doesn't it seem like an oasis in the desert?",
-        "tone": ""
+        "tone": "",
+        "claude": "Doesn't it look like an oasis in the desert?"
       },
       {
         "source": "Karen",
         "japanese": "カレン：地球ってあんなにきれいだったのね。",
         "thammy": "Karen: So the thing that we called the Earth was something so pretty?",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: Earth was so beautiful."
       },
       {
         "source": "Karen",
         "japanese": "でもヤミの中にぽつんと光っててなんだかさびしそう…",
         "thammy": "But shining alone in the darkness, it seems somehow lonely...",
-        "tone": ""
+        "tone": "",
+        "claude": "But it's shining all alone in the darkness, somehow it looks lonely..."
       }
     ]
   },
@@ -91,7 +102,8 @@
         "source": "Mysterious voice",
         "japanese": "不思議な声：そうよ。地球はさみしがっているの。",
         "thammy": "Mysterious voice: That's right. The Earth is lonesome.",
-        "tone": ""
+        "tone": "",
+        "claude": "Mysterious Voice: That's right. The Earth is lonely."
       }
     ]
   },
@@ -103,79 +115,92 @@
         "source": "Tim",
         "japanese": "テム：かあさんっ！？",
         "thammy": "Tim: Mom...!?",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Mom?!"
       },
       {
         "source": "Shira",
         "japanese": "テムの母：地球はね。何億人という子供をもったお母さんなの。",
         "thammy": "Tim's mother: The Earth... A mother that has hundreds of millions of children.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim's Mother: The Earth, you see, is a mother with hundreds of millions of children."
       },
       {
         "source": "Shira",
         "japanese": "テムは時々あたしたちのことを思い出してくれるしカレンだってご両親を想うことがあるでしょう？",
         "thammy": "Sometimes Tim remembered us. Karen, did you sometimes think of your parents?",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim sometimes remembers us, and Karen thinks about her parents sometimes too, doesn't she?"
       },
       {
         "source": "Shira",
         "japanese": "地球だって同じ。子供に忘れられたらさびしいものよ。",
         "thammy": "The Earth is the same. It's lonely when it is forgotten by its children.",
-        "tone": ""
+        "tone": "",
+        "claude": "Earth is the same. It's lonely when your children forget you."
       },
       {
         "source": "Allman",
         "japanese": "テムの父：どうだ？二人とも？自分たちの住んでいた星を外からながめた気分は？",
         "thammy": "Tim's father: How is it? Both of you? What do you feel, gazing from the outside at the planet you yourselves lived on?",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim's Father: How is it? Both of you? How does it feel to gaze at the planet you lived on from the outside?"
       },
       {
         "source": "Karen",
         "japanese": "カレン：あたしたちまるで神様になったみたい…",
         "thammy": "Karen: It's as if we've become God...",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: We're like we've become gods..."
       },
       {
         "source": "Tim",
         "japanese": "テム：ロブたちにも見せてあげたい…",
         "thammy": "Tim: I want to show this to Rob and everyone...",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: I want to show this to Rob and everyone..."
       },
       {
         "source": "Tim",
         "japanese": "いや世界中の人にこの景色を見せてあげたいよ…",
         "thammy": "No, I want to show this scenery to people throughout the world...",
-        "tone": ""
+        "tone": "",
+        "claude": "No, I want to show this view to everyone in the world..."
       },
       {
         "source": "Allman",
         "japanese": "テムの父：人類はいずれ宇宙へ行く船を自分たちの力で作り出す。",
         "thammy": "Tim's father: Humanity will eventually on their own power invent a ship that can go to space.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim's Father: Humanity will eventually create a ship that can go to space with their own power."
       },
       {
         "source": "Allman",
         "japanese": "そしてこの青い地球を自分たちの目で見ることになるだろう。",
         "thammy": "Then they will be able to see this blue Earth with their own eyes.",
-        "tone": ""
+        "tone": "",
+        "claude": "And then they will see this blue Earth with their own eyes."
       },
       {
         "source": "Allman",
         "japanese": "その時テムやカレンと同じようにさびしそうな顔をした地球に気がついてほしいものだ。",
         "thammy": "When that happens, I want them to see the Earth making a lovely face like it is for the two of you.",
-        "tone": ""
+        "tone": "",
+        "claude": "When that time comes, I hope they notice the Earth's lonely face, just like you two did."
       },
       {
         "source": "Allman",
         "japanese": "テムの父：ほら。お前のもっている世界地図をよく見てごらん。",
         "thammy": "Tim's father: Look. Please look closely at the map of the world you're holding.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim's Father: Look. Take a good look at the world map you're holding."
       },
       {
         "source": "Tim",
         "japanese": "テム：あっ。地図の形が変わり始めてるっ！",
         "thammy": "Tim: Ah. The shapes on the map are starting to change...!",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Ah. The shape of the map is starting to change!"
       }
     ]
   },
@@ -187,37 +212,43 @@
         "source": "Tim",
         "japanese": "テム：陸地がなんだか変な形になっちゃった。",
         "thammy": "Tim: The land transformed into a strange shape somehow.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: The land has become a strange shape somehow."
       },
       {
         "source": "Allman",
         "japanese": "テムの父：それが新しい世界だよ。",
         "thammy": "Tim's father: That's the new world.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim's Father: That's the new world."
       },
       {
         "source": "Karen",
         "japanese": "カレン：新しい世界？",
         "thammy": "Karen: New world?",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: New world?"
       },
       {
         "source": "Allman",
         "japanese": "テムの父：これまで生き物はすい星の力で誤った進化を続けてきた。",
         "thammy": "Tim's father: Living things have evolved until this point through mistaken evolution by the comet's power.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim's Father: Until now, living things have continued mistaken evolution by the comet's power."
       },
       {
         "source": "Allman",
         "japanese": "地球もひとつの生命。同じように進化しその姿が変わっていたのさ。",
         "thammy": "The Earth is also a life. Its form had been changed by similar evolution.",
-        "tone": ""
+        "tone": "",
+        "claude": "Earth is also a living thing. It evolved in the same way, and its form was changing."
       },
       {
         "source": "Allman",
         "japanese": "すい星の力がおよばなくなった今世界は本来の姿にもどったというわけだ。",
         "thammy": "The world should return to its original form now that the comet's power no longer reaches it.",
-        "tone": ""
+        "tone": "",
+        "claude": "Now that the comet's power no longer reaches it, the world has returned to its original form."
       }
     ]
   },
@@ -229,73 +260,85 @@
         "source": "Tim",
         "japanese": "テム：父さんも母さんもどうして未来のことまで知ってるの？",
         "thammy": "Tim: Dad and Mom, how do you know the events of the future?",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Dad, Mom, how do you even know about the future?"
       },
       {
         "source": "Allman",
         "japanese": "テムの父：私は肉体を失ったときすべてが見えるようになったのだ。",
         "thammy": "Tim's father: When I lost my corporeal body, it was as if I became able to see everything.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim's Father: When I lost my body, I became able to see everything."
       },
       {
         "source": "Allman",
         "japanese": "過去のことも未来のこともそして人類のたどる道もね。",
         "thammy": "Events of the past, events of the future, and even the path that humanity is following.",
-        "tone": ""
+        "tone": "",
+        "claude": "The past, the future, and even the path humanity will take."
       },
       {
         "source": "Allman",
         "japanese": "人はこういう体を神と呼ぶのかもしれない。",
         "thammy": "Perhaps people would call a being with a body like this a god.",
-        "tone": ""
+        "tone": "",
+        "claude": "People might call a body like this a god."
       },
       {
         "source": "Shira",
         "japanese": "テムの母：とにかくテムもカレンもこれでふつうの子供にもどれるのよ。",
         "thammy": "Tim's mother: Anyhow, with everything being done, you two can turn back into normal children as well.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim's Mother: In any case, both Tim and Karen can return to being normal children now."
       },
       {
         "source": "Shira",
         "japanese": "もうこわい思いはしなくていいの。",
         "thammy": "It's okay not to think about scary things anymore.",
-        "tone": ""
+        "tone": "",
+        "claude": "You don't have to experience scary things anymore."
       },
       {
         "source": "Karen",
         "japanese": "カレン：地球にもどったらあたしたちはなればなれになっちゃうの？",
         "thammy": "Karen: Will we become separated when the Earth has reverted?",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: Will we be separated when we return to Earth?"
       },
       {
         "source": "Allman",
         "japanese": "テムの父：そうだ…地球も変わるし人も歴史もすべてが新しい道を歩み始める。",
         "thammy": "Tim's father: That's right... As the Earth is changing too, even people and history will begin to walk new paths.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim's Father: Yes... Earth will change, and people, history—everything will begin walking a new path."
       },
       {
         "source": "Allman",
         "japanese": "お前たちはたとえどこかの街角で出会ってもおたがい気づかないだろう…",
         "thammy": "Supposing even that you two encounter each other at a street corner somewhere, you probably won't recognize each other...",
-        "tone": ""
+        "tone": "",
+        "claude": "Even if you two meet at some street corner, you probably won't recognize each other..."
       },
       {
         "source": "Allman",
         "japanese": "だが地球が光とヤミの戦士を必要としたときお前たちは再びめぐりあうかもしれんな。",
         "thammy": "But I guess that when the Earth needs the Warrior of Light and Darkness, perhaps you two will happen to meet again.",
-        "tone": ""
+        "tone": "",
+        "claude": "But when Earth needs the Warriors of Light and Darkness, you two might meet again."
       },
       {
         "source": "Allman",
         "japanese": "さあすい星の力が消えないうちに地球へ向かいなさい。",
         "thammy": "Well, please head to Earth before the comet's power vanishes completely.",
-        "tone": ""
+        "tone": "",
+        "claude": "Well, head toward Earth before the comet's power disappears."
       },
       {
         "source": "Shira",
         "japanese": "テムの母：二人にすてきな未来が訪れるといいわね…",
         "thammy": "Tim's mother: It would be great if a wonderful future came to visit the two of you, wouldn't it…?",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim's Mother: I hope a wonderful future comes to both of you..."
       }
     ]
   },
@@ -307,19 +350,22 @@
         "source": "Karen",
         "japanese": "カレン：テム…こっちへきて…そして顔をよく見せて…",
         "thammy": "Karen: Tim... Come this way... And show me your face closely...",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: Tim... come here... and let me see your face clearly..."
       },
       {
         "source": "Karen",
         "japanese": "しっかりと心に焼きつけておきたいの。",
         "thammy": "I want it to be firmly burned into my mind.",
-        "tone": ""
+        "tone": "",
+        "claude": "I want to burn it firmly into my heart."
       },
       {
         "source": "Karen",
         "japanese": "テムの目も鼻も口もカミの毛も声も手のぬくもりも…",
         "thammy": "Your eyes, your nose, your mouth, your hair, your voice, and even your warmth...",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim's eyes, nose, mouth, hair, voice, the warmth of your hands..."
       }
     ]
   },
@@ -331,19 +377,22 @@
         "source": "Tim",
         "japanese": "テム：心配しなくていいよ。ぼくはカレンのことを必ずさがしだすからさ。",
         "thammy": "Tim: You don't have to worry. Because I will definitely find you.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Don't worry. I'll definitely find Karen."
       },
       {
         "source": "Tim",
         "japanese": "たとえ何年かかっても、１００年かかっても１０００年かかっても必ずむかえにいく。",
         "thammy": "No matter how many years it takes, even if takes a hundred years, even if it takes a thousand years, I will come to meet you again.",
-        "tone": ""
+        "tone": "",
+        "claude": "Even if it takes years, even if it takes 100 years, even if it takes 1000 years, I'll definitely come for you."
       },
       {
         "source": "Tim",
         "japanese": "だから安心して…そして目を閉じて….",
         "thammy": "So be at ease... And shut your eyes…",
-        "tone": ""
+        "tone": "",
+        "claude": "So don't worry... and close your eyes..."
       }
     ]
   },
@@ -355,7 +404,8 @@
         "source": "Karen",
         "japanese": "カレン：テム……",
         "thammy": "Karen: Tim…",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: Tim..."
       }
     ]
   },
@@ -367,13 +417,15 @@
         "source": "Tim",
         "japanese": "テム：さあ行くよ。地球へ….",
         "thammy": "Tim: Well, let's go. To the Earth…",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Well, let's go. To Earth..."
       },
       {
         "source": "Karen",
         "japanese": "カレン：うん…..",
         "thammy": "Karen: Yeah…",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: Yes..."
       }
     ]
   },
@@ -385,31 +437,36 @@
         "source": "Narrator",
         "japanese": "地球はそのよそおいを大きく変えたがあかね色にそまった世界はあいかわらず美しかった。",
         "thammy": "The way that the Earth was dressed had greatly changed, but the world dyed in madder red was as beautiful as ever.",
-        "tone": ""
+        "tone": "",
+        "claude": "Earth had greatly changed its appearance, but the world dyed in crimson was still beautiful."
       },
       {
         "source": "Narrator",
         "japanese": "森がビルの群れになり川が車の流れに変わっても町の中は人々の笑顔であふれている。",
         "thammy": "Even as the forests became swarms of buildings, rivers became the flow of automobile traffic, the cities were flooding with people's smiling faces.",
-        "tone": ""
+        "tone": "",
+        "claude": "Even as forests became clusters of buildings and rivers became streams of cars, the towns were filled with people's smiling faces."
       },
       {
         "source": "Narrator",
         "japanese": "ただ地球だけが一人ぼっちでさびしそうに見えた。",
         "thammy": "Only the Earth alone seemed lonely.",
-        "tone": ""
+        "tone": "",
+        "claude": "Only Earth itself looked lonely and alone."
       },
       {
         "source": "Narrator",
         "japanese": "明日の朝目覚めたときにはぼくやカレンの新しい生活がはじまる。",
         "thammy": "When we wake up tomorrow morning, Karen and I will begin our new lives.",
-        "tone": ""
+        "tone": "",
+        "claude": "When we wake up tomorrow morning, Karen and I will begin our new lives."
       },
       {
         "source": "Narrator",
         "japanese": "これからの地球の未来をすべて知っているかのように１９９３年のバベルの塔は空高くそびえていた…",
         "thammy": "The Tower of Babel of the year 1993 towered above as if it knew everything in Earth's future.",
-        "tone": ""
+        "tone": "",
+        "claude": "The Tower of Babel in 1993 towered high in the sky, as if it knew everything about Earth's future..."
       }
     ]
   },
@@ -421,7 +478,8 @@
         "source": "Credits",
         "japanese": "The Illusion of GAIA / STAFF",
         "thammy": "The Illusion of GAIA / STAFF",
-        "tone": ""
+        "tone": "",
+        "claude": "The Illusion of GAIA / STAFF"
       }
     ]
   },
@@ -433,7 +491,8 @@
         "source": "Credits",
         "japanese": "Original Story / MARIKO OHARA",
         "thammy": "Original Story / MARIKO OHARA",
-        "tone": ""
+        "tone": "",
+        "claude": "Original Story / MARIKO OHARA"
       }
     ]
   },
@@ -445,7 +504,8 @@
         "source": "Credits",
         "japanese": "Character Designer / MOTO HAGIO",
         "thammy": "Character Designer / MOTO HAGIO",
-        "tone": ""
+        "tone": "",
+        "claude": "Character Designer / MOTO HAGIO"
       }
     ]
   },
@@ -457,7 +517,8 @@
         "source": "Credits",
         "japanese": "Game Designer / TOMOYOSHI MIYAZAKI",
         "thammy": "Game Designer / TOMOYOSHI MIYAZAKI",
-        "tone": ""
+        "tone": "",
+        "claude": "Game Designer / TOMOYOSHI MIYAZAKI"
       }
     ]
   },
@@ -469,7 +530,8 @@
         "source": "Credits",
         "japanese": "Program Director / MASAYA HASHIMOTO",
         "thammy": "Program Director / MASAYA HASHIMOTO",
-        "tone": ""
+        "tone": "",
+        "claude": "Program Director / MASAYA HASHIMOTO"
       }
     ]
   },
@@ -481,7 +543,8 @@
         "source": "Credits",
         "japanese": "Main Programmer / AKIRA KITANOHARA",
         "thammy": "Main Programmer / AKIRA KITANOHARA",
-        "tone": ""
+        "tone": "",
+        "claude": "Main Programmer / AKIRA KITANOHARA"
       }
     ]
   },
@@ -493,7 +556,8 @@
         "source": "Credits",
         "japanese": "Background Designer / HISASHI YOKOTA",
         "thammy": "Background Designer / HISASHI YOKOTA",
-        "tone": ""
+        "tone": "",
+        "claude": "Background Designer / HISASHI YOKOTA"
       }
     ]
   },
@@ -505,7 +569,8 @@
         "source": "Credits",
         "japanese": "Object Designer / JUNICHI ISHIDA / HITOSHI ARIGA",
         "thammy": "Object Designer / JUNICHI ISHIDA / HITOSHI ARIGA",
-        "tone": ""
+        "tone": "",
+        "claude": "Object Designer / JUNICHI ISHIDA / HITOSHI ARIGA"
       }
     ]
   },
@@ -517,7 +582,8 @@
         "source": "Credits",
         "japanese": "Graphic Designer / NAOKO SUZUKI / TAKAHIRO OHURA / KOUJI YOKOTA",
         "thammy": "Graphic Designer / NAOKO SUZUKI / TAKAHIRO OHURA / KOUJI YOKOTA",
-        "tone": ""
+        "tone": "",
+        "claude": "Graphic Designer / NAOKO SUZUKI / TAKAHIRO OHURA / KOUJI YOKOTA"
       }
     ]
   },
@@ -529,7 +595,8 @@
         "source": "Credits",
         "japanese": "Sound Composer / YASUHIRO KAWASAKI",
         "thammy": "Sound Composer / YASUHIRO KAWASAKI",
-        "tone": ""
+        "tone": "",
+        "claude": "Sound Composer / YASUHIRO KAWASAKI"
       }
     ]
   },
@@ -541,7 +608,8 @@
         "source": "Credits",
         "japanese": "Quintet Staff / TATSUO HASHIMOTO / SHIGEMI KITA / REIKO TAKEBAYASHI",
         "thammy": "Quintet Staff / TATSUO HASHIMOTO / SHIGEMI KITA / REIKO TAKEBAYASHI",
-        "tone": ""
+        "tone": "",
+        "claude": "Quintet Staff / TATSUO HASHIMOTO / SHIGEMI KITA / REIKO TAKEBAYASHI"
       }
     ]
   },
@@ -553,7 +621,8 @@
         "source": "Credits",
         "japanese": "ENIX Staff / YUKINOBU CHIDA / TAKAO KAWAGUCHI / KEIJI HONDA",
         "thammy": "ENIX Staff / YUKINOBU CHIDA / TAKAO KAWAGUCHI / KEIJI HONDA",
-        "tone": ""
+        "tone": "",
+        "claude": "ENIX Staff / YUKINOBU CHIDA / TAKAO KAWAGUCHI / KEIJI HONDA"
       }
     ]
   },
@@ -565,7 +634,8 @@
         "source": "Credits",
         "japanese": "Art Direction / TOORU MAKI / HIDEKI YAMAMOTO / TAKASHI OOTSUKA",
         "thammy": "Art Direction / TOORU MAKI / HIDEKI YAMAMOTO / TAKASHI OOTSUKA",
-        "tone": ""
+        "tone": "",
+        "claude": "Art Direction / TOORU MAKI / HIDEKI YAMAMOTO / TAKASHI OOTSUKA"
       }
     ]
   },
@@ -577,7 +647,8 @@
         "source": "Credits",
         "japanese": "Art Direction / SHINJI FUTAMI / YASUKO SEKIGUCHI",
         "thammy": "Art Direction / SHINJI FUTAMI / YASUKO SEKIGUCHI",
-        "tone": ""
+        "tone": "",
+        "claude": "Art Direction / SHINJI FUTAMI / YASUKO SEKIGUCHI"
       }
     ]
   },
@@ -589,7 +660,8 @@
         "source": "Credits",
         "japanese": "Technical Support / SADAO YAHAGI / KENJIRO KANO",
         "thammy": "Technical Support / SADAO YAHAGI / KENJIRO KANO",
-        "tone": ""
+        "tone": "",
+        "claude": "Technical Support / SADAO YAHAGI / KENJIRO KANO"
       }
     ]
   },
@@ -601,7 +673,8 @@
         "source": "Credits",
         "japanese": "Special Thanks / YUTAKA SASAKI / TAKESHI IIDA / HIDEYUKI OIKAKE",
         "thammy": "Special Thanks / YUTAKA SASAKI / TAKESHI IIDA / HIDEYUKI OIKAKE",
-        "tone": ""
+        "tone": "",
+        "claude": "Special Thanks / YUTAKA SASAKI / TAKESHI IIDA / HIDEYUKI OIKAKE"
       }
     ]
   },
@@ -613,7 +686,8 @@
         "source": "Credits",
         "japanese": "Special Thanks / HIROFUMI KURODA / AKITAKA SHIGENO / JUN YUKUYOSHI",
         "thammy": "Special Thanks / HIROFUMI KURODA / AKITAKA SHIGENO / JUN YUKUYOSHI",
-        "tone": ""
+        "tone": "",
+        "claude": "Special Thanks / HIROFUMI KURODA / AKITAKA SHIGENO / JUN YUKUYOSHI"
       }
     ]
   },
@@ -625,7 +699,8 @@
         "source": "Credits",
         "japanese": "Special Thanks / YUMIKO TSUKUDA / HIDEYUKI OHWADA / MINORU KAKIZAWA",
         "thammy": "Special Thanks / YUMIKO TSUKUDA / HIDEYUKI OHWADA / MINORU KAKIZAWA",
-        "tone": ""
+        "tone": "",
+        "claude": "Special Thanks / YUMIKO TSUKUDA / HIDEYUKI OHWADA / MINORU KAKIZAWA"
       }
     ]
   },
@@ -637,7 +712,8 @@
         "source": "Credits",
         "japanese": "Special Thanks / NAOHITO SUGINAKA / KENJI TANIUCHI",
         "thammy": "Special Thanks / NAOHITO SUGINAKA / KENJI TANIUCHI",
-        "tone": ""
+        "tone": "",
+        "claude": "Special Thanks / NAOHITO SUGINAKA / KENJI TANIUCHI"
       }
     ]
   },
@@ -649,7 +725,8 @@
         "source": "Credits",
         "japanese": "Director / MASAYA HASHIMOTO",
         "thammy": "Director / MASAYA HASHIMOTO",
-        "tone": ""
+        "tone": "",
+        "claude": "Director / MASAYA HASHIMOTO"
       }
     ]
   },
@@ -661,7 +738,8 @@
         "source": "Credits",
         "japanese": "Assistant Producer / KAZUNORI TAKADO",
         "thammy": "Assistant Producer / KAZUNORI TAKADO",
-        "tone": ""
+        "tone": "",
+        "claude": "Assistant Producer / KAZUNORI TAKADO"
       }
     ]
   },
@@ -673,7 +751,8 @@
         "source": "Credits",
         "japanese": "Producer / YASUYUKI SONE",
         "thammy": "Producer / YASUYUKI SONE",
-        "tone": ""
+        "tone": "",
+        "claude": "Producer / YASUYUKI SONE"
       }
     ]
   },
@@ -685,7 +764,8 @@
         "source": "Credits",
         "japanese": "Publisher / YASUHIRO FUKUSHIMA",
         "thammy": "Publisher / YASUHIRO FUKUSHIMA",
-        "tone": ""
+        "tone": "",
+        "claude": "Publisher / YASUHIRO FUKUSHIMA"
       }
     ]
   },
@@ -697,7 +777,8 @@
         "source": "Credits",
         "japanese": "Copyright / 1993 ENIX / 1993 QUINTET",
         "thammy": "Copyright / 1993 ENIX / 1993 QUINTET",
-        "tone": ""
+        "tone": "",
+        "claude": "Copyright / 1993 ENIX / 1993 QUINTET"
       }
     ]
   },
@@ -709,7 +790,8 @@
         "source": "Credits",
         "japanese": "Copyright / 1993 MARIKO OHARA / 1993 MOTO HAGIO / 1993 YASUHIRO KAWASAKI",
         "thammy": "Copyright / 1993 MARIKO OHARA / 1993 MOTO HAGIO / 1993 YASUHIRO KAWASAKI",
-        "tone": ""
+        "tone": "",
+        "claude": "Copyright / 1993 MARIKO OHARA / 1993 MOTO HAGIO / 1993 YASUHIRO KAWASAKI"
       }
     ]
   },
@@ -721,7 +803,8 @@
         "source": "Credits",
         "japanese": "Licensed by NINTENDO",
         "thammy": "Licensed by NINTENDO",
-        "tone": ""
+        "tone": "",
+        "claude": "Licensed by NINTENDO"
       }
     ]
   },
@@ -733,7 +816,8 @@
         "source": "Credits",
         "japanese": "Thank you for playing",
         "thammy": "Thank you for playing",
-        "tone": ""
+        "tone": "",
+        "claude": "Thank you for playing"
       }
     ]
   },
@@ -745,13 +829,15 @@
         "source": "Narrator",
         "japanese": "今日の授業はここまでにしましょう。",
         "thammy": "Today's lesson ends here.",
-        "tone": ""
+        "tone": "",
+        "claude": "Let's end today's lesson here."
       },
       {
         "source": "Narrator",
         "japanese": "近ごろ交通じこがふえています。みんな車に気をつけてかえるのですよ。",
         "thammy": "Traffic accidents have been on the increase recently. Everyone, be careful of cars when returning home.",
-        "tone": ""
+        "tone": "",
+        "claude": "Traffic accidents have been increasing lately. Everyone, be careful of cars on your way home."
       }
     ]
   }

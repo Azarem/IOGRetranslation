@@ -7,13 +7,15 @@
         "source": "Tim",
         "japanese": "ロブの足どりを追ってぼくは万里の長城へやってきた。",
         "thammy": "Rob's tracks led me to the Great Wall of China.",
-        "tone": ""
+        "tone": "",
+        "claude": "Following Rob's trail, I arrived at the Great Wall."
       },
       {
         "source": "Tim",
         "japanese": "わたりロウカは地平線のかなたまで果てしなく続いている…",
         "thammy": "The passageway continued without end beyond the horizon...",
-        "tone": ""
+        "tone": "",
+        "claude": "The corridor stretched endlessly beyond the horizon..."
       }
     ]
   },
@@ -25,19 +27,22 @@
         "source": "Tim",
         "japanese": "きれいな小石がおちている。",
         "thammy": "A pretty pebble has fallen.",
-        "tone": ""
+        "tone": "",
+        "claude": "There's a pretty pebble on the ground."
       },
       {
         "source": "Tim",
         "japanese": "ハッ！これはロブがリリィのために作っていたネックレスの一部だ…",
         "thammy": "Aha! This is a part of the necklace that Rob made for Lillie...",
-        "tone": ""
+        "tone": "",
+        "claude": "Wait! This is part of the necklace Rob was making for Lillie..."
       },
       {
         "source": "Narrator",
         "japanese": "ネックレスの石をひろいあげた。",
         "thammy": "You picked up the necklace's stone for him.",
-        "tone": ""
+        "tone": "",
+        "claude": "I picked up the necklace stone."
       }
     ]
   },
@@ -47,9 +52,10 @@
     "parts": [
       {
         "source": "Lillie",
-        "japanese": "まって！！",
+        "japanese": "まって！！！",
         "thammy": "Wait!!",
-        "tone": ""
+        "tone": "",
+        "claude": "Wait!!!"
       }
     ]
   },
@@ -61,13 +67,15 @@
         "source": "Lillie",
         "japanese": "リリィ：ロブをさがしに行くんでしょ？",
         "thammy": "Lillie: You're going to search for Rob, right?",
-        "tone": ""
+        "tone": "",
+        "claude": "You're going to look for Rob, right?"
       },
       {
         "source": "Lillie",
         "japanese": "あたしもいっしょにいくっ！！",
         "thammy": "I'm going too...!!",
-        "tone": ""
+        "tone": "",
+        "claude": "I'm going too!!"
       }
     ]
   },
@@ -79,13 +87,15 @@
         "source": "Lillie",
         "japanese": "リリィ：えへへ。こうしてテムのポケットをかりるのも久しぶりだよね。",
         "thammy": "Lillie: Eheheh. It's been a long time since I've borrowed your pocket like this, huh?",
-        "tone": ""
+        "tone": "",
+        "claude": "Hehe. It's been a while since I borrowed your pocket like this, hasn't it?"
       },
       {
         "source": "Lillie",
         "japanese": "さ行こっ。",
         "thammy": "Alright, let's go…",
-        "tone": ""
+        "tone": "",
+        "claude": "Come on, let's go!"
       }
     ]
   },
@@ -97,13 +107,15 @@
         "source": "Gaia",
         "japanese": "テムの力スピンダッシュはその反動を使って坂をのぼったりジャンプしたりすることができる。",
         "thammy": "Tim's power Spin Dash can jump to ascend slopes that are too sleep to climb.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim's power, Spin Dash, can use its recoil to climb slopes and jump."
       },
       {
         "source": "Gaia",
         "japanese": "ここ万里の長城は坂が多い。いろんな場所でためしてみることだ。",
         "thammy": "There are many hills here in the Great Wall of China. Try attempting it in various places.",
-        "tone": ""
+        "tone": "",
+        "claude": "This Great Wall has many slopes. Thou shouldst try it in various places."
       }
     ]
   },
@@ -115,19 +127,22 @@
         "source": "Gaia",
         "japanese": "スピンダッシュは少年テムだけが使うことのできるちから。",
         "thammy": "Spin Dash is a power that only Tim, the boy, can use.",
-        "tone": ""
+        "tone": "",
+        "claude": "Spin Dash is a power only the boy Tim can use."
       },
       {
         "source": "Gaia",
         "japanese": "自分が高速回転し敵をはじき飛ばすことができる。その反動を利用して坂をかけあがることもできるであろう。",
         "thammy": "Thine own high-speed rotation can send enemies flying. Thou can run up hills that use recoil.",
-        "tone": ""
+        "tone": "",
+        "claude": "Thou canst spin at high speed to send enemies flying. By using that recoil, thou canst also run up slopes."
       },
       {
         "source": "Gaia",
         "japanese": "こうげきボタンで力をためLRをこうごにおすがよい…",
         "thammy": "Thou shouldst alternate between L and R while holding the attack button…",
-        "tone": ""
+        "tone": "",
+        "claude": "Build thy power with the attack button and alternate pressing L and R..."
       }
     ]
   },
@@ -139,7 +154,8 @@
         "source": "Narrator",
         "japanese": "サンドファンガーをたおすとしかばねからミステリードールが見つかった！！",
         "thammy": "After you defeated Sand Fanger, you found a Mystery Doll from its corpse!!",
-        "tone": ""
+        "tone": "",
+        "claude": "When I defeated Sand Fanger, a Mystery Doll was found in its remains!!"
       }
     ]
   },
@@ -151,25 +167,29 @@
         "source": "Lillie",
         "japanese": "リリィ：ロブのばかっ！心配したじゃないっ！！",
         "thammy": "Lillie: Rob, you idiot…You had me worried...!!",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob, you idiot! You had me worried!!"
       },
       {
         "source": "Lillie",
         "japanese": "まものに殺されちゃったらどうするのよっ！！",
         "thammy": "What would you do if the demons killed you...!!",
-        "tone": ""
+        "tone": "",
+        "claude": "What if you'd been killed by a monster?!"
       },
       {
         "source": "Rob",
         "japanese": "ロブ：みんなに心配かけたのは悪かったと思ってる。",
         "thammy": "Rob: It's my bad fer worryin' everyone.",
-        "tone": ""
+        "tone": "",
+        "claude": "I feel bad for making everyone worry."
       },
       {
         "source": "Rob",
         "japanese": "でもおやじの病気を直す薬が手に入ったんだ。",
         "thammy": "But I obtained medicine ta cure my old man's illness.",
-        "tone": ""
+        "tone": "",
+        "claude": "But I got the medicine to cure my old man's illness."
       }
     ]
   },
@@ -181,7 +201,8 @@
         "source": "Lillie",
         "japanese": "リリィ：もう…ロブは自分勝手なんだから…",
         "thammy": "Lillie: Geez… He's selfish, after all...",
-        "tone": ""
+        "tone": "",
+        "claude": "Geez... Rob is so selfish..."
       }
     ]
   },
@@ -193,25 +214,29 @@
         "source": "Rob",
         "japanese": "ロブ：あっその石は…",
         "thammy": "Rob: Ah, those stones are...",
-        "tone": ""
+        "tone": "",
+        "claude": "Oh, that stone..."
       },
       {
         "source": "Tim",
         "japanese": "テム：この石ころをたどってきたらここについたんだ。石はロブに返すよ。ほらっ。",
         "thammy": "Tim: We arrived here when we followed these pebbles. I'll return the stones to you. Here you go…",
-        "tone": ""
+        "tone": "",
+        "claude": "I followed these pebbles and ended up here. I'll give the stones back. Here."
       },
       {
         "source": "Narrator",
         "japanese": "ロブが小声でささやく…",
         "thammy": "Rob whispered...",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob whispered..."
       },
       {
         "source": "Rob",
         "japanese": "ロブ：テム…ちょっとの間だけリリィと２人にしてくれないか？",
         "thammy": "Rob: Tim... Won't ya leave me with Lillie fer just a little bit?",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim... can you let me be alone with Lillie for just a bit?"
       }
     ]
   },
@@ -223,13 +248,15 @@
         "source": "Rob",
         "japanese": "ロブ：この石のおかげでおれは助かったんだよな…",
         "thammy": "Rob: I was saved with tha help o' these stones...",
-        "tone": ""
+        "tone": "",
+        "claude": "Thanks to this stone, I was saved..."
       },
       {
         "source": "Rob",
         "japanese": "実はこれリリィのために作ったネックレスだったんだ…",
         "thammy": "Tha truth is, I made this fer ya...",
-        "tone": ""
+        "tone": "",
+        "claude": "Actually, this was a necklace I made for Lillie..."
       }
     ]
   },
@@ -241,13 +268,15 @@
         "source": "Rob",
         "japanese": "ロブ：ネックレスの石がずいぶん少なくなっちゃったけど受けとってくれないか？",
         "thammy": "Rob: Tha stones in tha necklace ended up bein' awfully small, but won't ya take it fer me?",
-        "tone": ""
+        "tone": "",
+        "claude": "The stones in the necklace have decreased quite a bit, but will you accept it?"
       },
       {
         "source": "Narrator",
         "japanese": "ロブはネックレスをつなぎ直しそっとリリィの首にかけた…",
         "thammy": "Rob gently affixed the necklace onto Lillie's neck..",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob restrung the necklace and gently placed it around Lillie's neck..."
       }
     ]
   },
@@ -259,31 +288,36 @@
         "source": "Rob",
         "japanese": "ロブ：あっ…",
         "thammy": "Rob: Ah…",
-        "tone": ""
+        "tone": "",
+        "claude": "Ah..."
       },
       {
         "source": "Lillie",
         "japanese": "リリィ：今度はにげないから…",
         "thammy": "Lillie: I won't run away this time...",
-        "tone": ""
+        "tone": "",
+        "claude": "I won't run away this time..."
       },
       {
         "source": "Lillie",
         "japanese": "このあいだはとつぜんのことだからびっくりしてどうしていいかわからなかったの…",
         "thammy": "The last time I did this, I wasn't expecting what you did. I was surprised and didn't know what I should do...",
-        "tone": ""
+        "tone": "",
+        "claude": "The other day, it was so sudden that I was surprised and didn't know what to do..."
       },
       {
         "source": "Lillie",
         "japanese": "今はロブにこんな顔を見られたくないだけ。",
         "thammy": "But right now, I just don't want you to be able to see my face.",
-        "tone": ""
+        "tone": "",
+        "claude": "Right now, I just don't want Rob to see my face like this."
       },
       {
         "source": "Lillie",
         "japanese": "うれしくってなみだがあふれてくるんだもの…",
         "thammy": "I'm so happy that my tears are flooding out...",
-        "tone": ""
+        "tone": "",
+        "claude": "My tears are flooding out because I'm so happy..."
       }
     ]
   },
@@ -295,19 +329,22 @@
         "source": "Lillie",
         "japanese": "リリィ：ロブにはね..はじめて会ったときから何かちがうものを感じてたよ…",
         "thammy": "Lillie: Rob.. From the time when we first met, I felt something that was different...",
-        "tone": ""
+        "tone": "",
+        "claude": "With Rob, you see... from when we first met, I felt something different..."
       },
       {
         "source": "Lillie",
         "japanese": "そしてその何かが今わかったような気がするの…",
         "thammy": "But now I have a feel that I understand what that something is...",
-        "tone": ""
+        "tone": "",
+        "claude": "And I feel like I now understand what that something was..."
       },
       {
         "source": "Lillie",
         "japanese": "このあいだの返事…させてもらうね…",
         "thammy": "The reply I had for you back then... The reply that I wanted to give you...",
-        "tone": ""
+        "tone": "",
+        "claude": "About the other day's response... let me give it now..."
       }
     ]
   },
@@ -319,13 +356,15 @@
         "source": "Lillie",
         "japanese": "リリィ：あたしもロブのことが好き…",
         "thammy": "Lillie: I care about you, too...",
-        "tone": ""
+        "tone": "",
+        "claude": "I like Rob too..."
       },
       {
         "source": "Lillie",
         "japanese": "ずっといっしょにいられたらいいね…",
         "thammy": "It would be nice if we could always be together, wouldn't it…?",
-        "tone": ""
+        "tone": "",
+        "claude": "It would be nice if we could always be together..."
       }
     ]
   },
@@ -337,25 +376,29 @@
         "source": "Rob",
         "japanese": "ロブ：いやっほーっ！！こんな気分ってはじめてだっ！！",
         "thammy": "Rob: Yahoo...!! This is tha first time ever I've felt like this...!!",
-        "tone": ""
+        "tone": "",
+        "claude": "Yahoo!! This feeling is a first for me!!"
       },
       {
         "source": "Rob",
         "japanese": "学校が夏休みになったときの１００万倍くらいうれしいよっ！",
         "thammy": "I'm almost a million times as happy as I am at the start of summer vacation...!",
-        "tone": ""
+        "tone": "",
+        "claude": "I'm about a million times happier than when school became summer vacation!"
       },
       {
         "source": "Lillie",
         "japanese": "リリィ：くすっ。あたしもおんなじ気持ち。",
         "thammy": "Lillie: Tee hee... I feel the saaame way.",
-        "tone": ""
+        "tone": "",
+        "claude": "*giggle* I feel the same way."
       },
       {
         "source": "Lillie",
         "japanese": "さあ町にもどりましょ。きっとみんな心配してるよ。",
         "thammy": "Alright, let's return to town. Everyone must be worried.",
-        "tone": ""
+        "tone": "",
+        "claude": "Come on, let's go back to town. Everyone's probably worried."
       }
     ]
   }

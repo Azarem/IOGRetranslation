@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-Karen appears across 301 dialogue entries spanning chapters 3-36, making her presence throughout the entire game. Her journey traces one of the most complete character arcs in the narrative: from **spoiled princess** to **imprisoned daughter** to **escaped adventurer** to **mature companion** experiencing love, loss, jealousy, grief, and ultimately romantic acceptance. Despite this profound evolution, her core voice—refined feminine with emotional honesty—remains consistent through specific Japanese linguistic patterns.
+Karen appears across 301 dialogue entries spanning chapters 3-36, making her presence throughout the entire game. Her journey traces one of the most complete character arcs in the narrative: from **spoiled princess** to **imprisoned daughter** to **escaped adventurer** to **mature companion** experiencing love, loss, jealousy, grief, and ultimately romantic acceptance. Key emotional turning points include the raft survival sequence (Ch11), jealousy breakdown (Ch22-23), Native Village horror and Peggy's sacrifice (Ch29), and her father's death (Ch32). Despite this profound evolution, her core voice—refined feminine with emotional honesty—remains consistent through specific Japanese linguistic patterns.
 
 This document analyzes the Japanese source text to guide accurate translation and editorial decisions, with particular attention to her feminine speech patterns, emotional vulnerability, class consciousness breaking down, and the slow-burn romantic development with Tim.
 
@@ -81,12 +81,23 @@ Karen's appearances mark a complete coming-of-age arc from sheltered aristocrat 
   - Acceptance: "テムがわかってくれなければそれでいい" (if Tim doesn't understand, that's fine)
 - **Implication**: Can't have Tim's exclusive attention; learning that wanting ≠ having; first experience of unrequited/complicated feelings
 
-**Phase 7: Continued Adventure (Chapters 24-32) - The Maturing Companion**
+**Phase 7: Continued Adventure (Chapters 24-28) - The Maturing Companion**
 - **Context**: Birthday celebration, various adventures, mounting danger
 - **Karen's Role**: Supportive companion, increasingly aware of serious stakes
 - **Complaints But Perseverance**: "もーうやだっ！もう旅に出てからつかれることしかないんだものっ" (I'm sick of this! Ever since we left, it's been nothing but exhausting)
 - **But Continues Anyway**: Still travels, still supports, still cares
 - **Implication**: Can complain but won't quit; has become genuinely committed
+
+**Phase 7.5: Native Village Crisis (Chapter 29) - Compassion Through Horror**
+- **Context**: Exhausted from tropical heat, discover abandoned village with skeletons, encounter starving cannibals, Peggy sacrifices herself
+- **Karen's Role**: Witness to profound suffering, processes another traumatic loss
+- **Intimate Moment**: "ううん…ちょっとテム…変なとこさわんないでよ…" (Ugh... Wait, Tim... Don't touch me in weird places...) - shows comfort sleeping together, playful boundary-setting reveals intimacy level
+- **Horror Recognition**: "そのへんに転がっていた骨は食料になった人の亡きがらなのね" (Those bones scattered around are the remains of people who became food)
+- **Compassion**: "ペギー…そんな悲しそうな目をして…" (Peggy... making such sad eyes...)
+- **Peak Distress**: "きゃあああーーーーーーーーーっ！！ペギーっ！ペギーーーっ！！" (Eeeeeeeek!! Peggy! Peggyyy!!)
+- **Grief Processing**: "ペギー…ヒック..ヒック…." (Peggy... *Hic*.. *Hic*...)
+- **Resolution**: "ペギー…なんてやさしい子なの…" (Peggy... what a kind child...)
+- **Implication**: Another instance of Karen's grief pattern (shock → horror → crying → compassionate resolution); demonstrates emotional resilience and growing depth; intimate sleeping moment shows relationship progression with Tim
 
 **Phase 8: Pyramid/Father's Death (Chapter 32) - The Grief Process**
 - **Context**: Learns her father (possessed by evil) has died
@@ -110,7 +121,7 @@ Karen's appearances mark a complete coming-of-age arc from sheltered aristocrat 
 - **Implication**: Complete transformation - from bratty princess who judged Tim's appearance to young woman memorizing every detail of him because she can't bear to lose him
 
 **Overall Timeline Pattern**:
-Spoiled princess (Ch3) → Desperate prisoner (Ch4-5) → Excited escapee (Ch6-10) → Humbled survivor (Ch11) → Thoughtful observer (Ch13-21) → Jealous meltdown (Ch22-23) → Maturing companion (Ch24-32) → Romantic partner (Ch36)
+Spoiled princess (Ch3) → Desperate prisoner (Ch4-5) → Excited escapee (Ch6-10) → Humbled survivor (Ch11) → Thoughtful observer (Ch13-21) → Jealous meltdown (Ch22-23) → Maturing companion (Ch24-28) → Compassionate witness (Ch29) → Grieving daughter (Ch32) → Romantic partner (Ch36)
 
 ### 3. How does her tone evolve over time?
 
@@ -870,6 +881,46 @@ Yes! Birthday cake! Neil made it for me.
 
 **Watermia Tone Document**: Karen's birthday celebration is brief respite before continued adventure. Shows party has become family.
 
+### Native Village (Chapter 29) - Compassion and Horror
+
+Initial observations:
+```
+熱帯地方だけあってすごい暑さよね…
+It's incredibly hot, being in the tropics...
+
+なんだか不気味ね…人っ子一人いないしガイコツが転がっているし…
+It's kind of creepy... There isn't a single person here but skeletons are lying around...
+```
+
+Intimate moment sleeping together:
+```
+ううん…ちょっとテム…変なとこさわんないでよ…
+Ugh... Wait, Tim... Don't touch me in weird places...
+```
+
+Horror realization about cannibalism:
+```
+そのへんに転がっていた骨は食料になった人の亡きがらなのね
+Those bones scattered around are the remains of people who became food
+```
+
+Compassion and grief over Peggy's sacrifice:
+```
+ペギー…そんな悲しそうな目をして…
+Peggy... making such sad eyes...
+
+きゃあああーーーーーーーーーっ！！ペギーっ！ペギーーーっ！！
+Eeeeeeeek!! Peggy! Peggyyy!!
+
+ペギー…ヒック..ヒック….
+Peggy... *Hic*.. *Hic*...
+
+ペギー…なんてやさしい子なの…
+Peggy... what a kind child...
+```
+
+**Native Village Tone Document correlation**: Should emphasize Karen's grief processing pattern repeating - shock → horror → crying → compassionate resolution. The intimate sleeping moment shows trust and physical comfort with Tim (relationship progression). Her compassion for Peggy's sacrifice demonstrates emotional maturity - can recognize kindness even in horrific circumstances.
+
 ### Pyramid (Chapter 32) - Grief Process
 
 Learning father's death:
@@ -1010,6 +1061,27 @@ But I don't regret coming on this journey.
 
 ### Key Scenes - Translation Notes
 
+**Native Village Intimacy (Ch 29):**
+```
+ううん…ちょっとテム…変なとこさわんないでよ…
+→ "Ugh... Wait, Tim... Don't touch me in weird places..."
+```
+CRITICAL: This shows their intimacy level - they're sleeping together (platonically but physically close). "変なとこ" (weird/strange places) = she's setting boundaries playfully, not angrily. Shows trust and comfort while maintaining some modesty. The "ううん" (ugh/mmmm) is a sleepy sound. Must feel intimate but not sexual - she's half-asleep and reacting naturally.
+
+**Native Village Horror (Ch 29):**
+```
+きゃあああーーーーーーーーーっ！！ペギーっ！ペギーーーっ！！
+→ "Eeeeeeeek!! Peggy! Peggyyy!!"
+```
+CRITICAL: Extended scream with multiple dash marks. This is peak emotional distress - witnessing Peggy jump into fire to sacrifice herself. The extended "ーーーーーーーーー" must be preserved as extended vowel. Name repetition with extended final vowel on second "Peggyyy" shows escalating panic/grief.
+
+**Native Village Grief (Ch 29):**
+```
+ペギー…ヒック..ヒック….
+→ "Peggy... *Hic*.. *Hic*..."
+```
+CRITICAL: "ヒック" is hiccup/sob sound (not "*Sob*"). Shows she's crying so hard she's hiccupping. Ellipses after each sound show she can barely speak. Similar pattern to Angel Village crying but more subdued - exhausted grief rather than hysterical breakdown. Must preserve the hiccup sound and spacing.
+
 **First Meeting Apology (Ch 3):**
 ```
 悲しませたのね、あたしったら..ごめんなさい…
@@ -1141,5 +1213,5 @@ Tim, come here... and let me see your face clearly... Tim's eyes, nose, mouth, h
 
 ---
 
-**Document Complete**: This analysis covers all 301 dialogue entries (300 Karen's + 1 Bill's scream), tracking Karen's voice from spoiled princess (Ch 3) through desperate prisoner (Ch 4-5), transformative survival (Ch 11), philosophical maturation (throughout), jealousy crisis (Ch 22-23), grief processing (Ch 32), to romantic culmination (Ch 36). All dialogue verified as belonging to Karen (カレン： markers consistent). Her tone evolves through content while maintaining consistent linguistic structure—同じ声、深まる心 (same voice, deepening heart).
+**Document Complete**: This analysis covers all 301 dialogue entries (300 Karen's + 1 Bill's scream), tracking Karen's voice from spoiled princess (Ch 3) through desperate prisoner (Ch 4-5), transformative survival (Ch 11), philosophical maturation (throughout), jealousy crisis (Ch 22-23), Native Village horror and compassion (Ch 29), grief processing (Ch 32), to romantic culmination (Ch 36). All dialogue verified as belonging to Karen (カレン： markers consistent). Her tone evolves through content while maintaining consistent linguistic structure—同じ声、深まる心 (same voice, deepening heart).
 

@@ -7,12 +7,14 @@
         "source": "Narrator",
         "japanese": "ケレス山の山頂付近には不思議場な所広がっていた。",
         "thammy": "A mysterious place extended from Mount Kehres' summit.",
+        "claude": "Near the summit of Mount Kehres, a mysterious place spread out before us.",
         "tone": ""
       },
       {
         "source": "Tim",
         "japanese": "ぼくの何倍もあるキノコが乱立し見たこともない植物のクキが入り乱れて走っている…",
         "thammy": "I had never seen so many mushrooms crowded together, or plant stalks tangled together...",
+        "claude": "Mushrooms several times my size crowded together, and plant stalks I'd never seen before ran through everything in a tangled mass...",
         "tone": ""
       }
     ]
@@ -25,6 +27,7 @@
         "source": "Narrator",
         "japanese": "キノコのしずくを使ってみることにした。",
         "thammy": "Tried using the mushroom's droplets.",
+        "claude": "I decided to try using the Mushroom Drops.",
         "tone": ""
       }
     ]
@@ -37,6 +40,7 @@
         "source": "Narrator",
         "japanese": "しかし何もおこらなかった！",
         "thammy": "However, nothing happened!",
+        "claude": "But nothing happened!",
         "tone": ""
       }
     ]
@@ -49,24 +53,28 @@
         "source": "Gem",
         "japanese": "おっと集めた宝石が３０コを越えているじゃないかっ！リストの通りダークパワーをあげることにしよう。",
         "thammy": "Whoops, the number of jewels you've collected have passed 30, haven't they...! Going by the list, I'll give you Dark Power.",
+        "claude": "Oh! The gems you've collected have surpassed 30! According to the list, I shall grant you Dark Power.",
         "tone": ""
       },
       {
         "source": "Gem",
         "japanese": "これは私がたましいからさずかった世にも不思議な力。",
         "thammy": "This is a mysterious, otherworldly power that I will award you from my soul.",
+        "claude": "This is a most wondrous power that I received from my soul.",
         "tone": ""
       },
       {
         "source": "Gem",
         "japanese": "何でもダークフライヤーのパワーが上がるらしいのだ。",
         "thammy": "It seems that it will raise your Dark Power.",
+        "claude": "It seems it will increase the power of your Dark Fryer.",
         "tone": ""
       },
       {
         "source": "Gem",
         "japanese": "自分の放ったダークフライヤーが飛んでいる間にもう一度こうげきボタンをおしてみるといい。",
         "thammy": "You should try pushing the attack button one more time after firing your Dark Fryer.",
+        "claude": "While your Dark Fryer is flying through the air, try pressing the attack button once more.",
         "tone": ""
       }
     ]
@@ -79,6 +87,7 @@
         "source": "Narrator",
         "japanese": "クキのとぎれた場所にキノコのしずくをそそいだ！",
         "thammy": "Poured the mushroom's droplets at the place where the stalk ends!",
+        "claude": "I poured the Mushroom Drops where the stalk had broken!",
         "tone": ""
       }
     ]
@@ -91,18 +100,21 @@
         "source": "Gaia",
         "japanese": "フリーダンの力オーラバリアは自分のまわりにオーラの板を回転させることができる。",
         "thammy": "Thou canst make planks of aura revolve around thee by using Friedan's power, Aura Barrier.",
+        "claude": "Friedan's power, Aura Barrier, allows thee to spin plates of aura around thy body.",
         "tone": ""
       },
       {
         "source": "Gaia",
         "japanese": "山の聖域の敵は強い。この力を使うことでたたかいはだいぶ楽になるはずだ。",
         "thammy": "The enemies in the mountain's holy grounds are strong. It should be significantly easier to fight using this power.",
+        "claude": "The enemies in the mountain's sacred grounds are strong. Using this power should make battle much easier.",
         "tone": ""
       },
       {
         "source": "Gaia",
         "japanese": "ヤミの力オーラバリアが使えるようになった！",
         "thammy": "It seems you can now use the Power of Darkness, Aura Barrier!",
+        "claude": "Thou hast gained the Power of Darkness: Aura Barrier!",
         "tone": ""
       }
     ]
@@ -115,18 +127,21 @@
         "source": "Gaia",
         "japanese": "オーラバリアはヤミの戦士フリーダンだけが使えるヤミのちから。",
         "thammy": "Aura Barrier is a Power of Darkness that is only usable by Friedan, the Warrior of Darkness.",
+        "claude": "Aura Barrier is a Power of Darkness that only Friedan, the Warrior of Darkness, can wield.",
         "tone": ""
       },
       {
         "source": "Gaia",
         "japanese": "この力は自分のまわりにオーラでできたバリアをはることができる。",
         "thammy": "Thou canst create a barrier composed of thy aura around thee with this power.",
+        "claude": "This power allows thee to spread a barrier of aura around thyself.",
         "tone": ""
       },
       {
         "source": "Gaia",
         "japanese": "こうげきボタンで力をためLRをこうごにおすがよい…",
         "thammy": "Thou shouldst push L and R alternatively while holding the attack button…",
+        "claude": "Hold the attack button to charge thy power, then press L and R in alternation...",
         "tone": ""
       }
     ]
@@ -139,6 +154,7 @@
         "source": "Narrator",
         "japanese": "ティアポットを使ってみることにした。",
         "thammy": "Tried using the Tearpot.",
+        "claude": "I decided to try using the Tearpot.",
         "tone": ""
       }
     ]
@@ -151,6 +167,7 @@
         "source": "Narrator",
         "japanese": "しかし何もおこらなかった！",
         "thammy": "However, nothing happened!",
+        "claude": "But nothing happened!",
         "tone": ""
       }
     ]
@@ -163,6 +180,7 @@
         "source": "Rofski",
         "japanese": "ロフスキー：おおそれこそティアポット…実在するものであったのか…",
         "thammy": "Rofski: Oh, that is definitely the Tearpot... It really exists, does it…?",
+        "claude": "Rofski: Oh, that is the Tearpot itself... So it truly existed after all...",
         "tone": ""
       }
     ]
@@ -175,24 +193,28 @@
         "source": "Elazquez",
         "japanese": "エラスケス：町のいずこからかまものの気配がただよってくる…",
         "thammy": "Elazquez: The presence of demons is the air in this town...",
+        "claude": "Elazquez: The presence of demons drifts from somewhere in this town...",
         "tone": ""
       },
       {
         "source": "Elazquez",
         "japanese": "わしはまものが町の人にすりかわっているような気がするんじゃよ。",
         "thammy": "I feel that demons have switched places with some of the townspeople.",
+        "claude": "I sense that demons have taken the place of some of the townspeople.",
         "tone": ""
       },
       {
         "source": "Elazquez",
         "japanese": "それは広場の往来の人かもしれんしお前の友達かもしれんしわしかもしれん。",
         "thammy": "It might be people travelling through the plaza, it might be your friend, it might be me.",
+        "claude": "It could be people passing through the plaza, it could be thy friend, it could even be me.",
         "tone": ""
       },
       {
         "source": "Elazquez",
         "japanese": "お前があやしいと思う人物にティアポットを使ってみるがよい。",
         "thammy": "You should try to use the Tearpot on characters that you think are suspicious.",
+        "claude": "Thou shouldst try using the Tearpot on anyone thou findest suspicious.",
         "tone": ""
       }
     ]
@@ -205,6 +227,7 @@
         "source": "Narrator",
         "japanese": "神のなみだがあたりにふりそそいだ！",
         "thammy": "The tears of the gods showered down!",
+        "claude": "The tears of the gods rained down all around!",
         "tone": ""
       }
     ]
@@ -217,12 +240,14 @@
         "source": "Race of the Moon",
         "japanese": "月の種族：クックククククク…もうじきこの世界もヤミにつつまれる。",
         "thammy": "Race of the Moon: Mweheheheheheheh... Darkness will soon envelop this world, too.",
+        "claude": "Race of the Moon: Keheheheheheh... Soon this world will be swallowed by Darkness as well.",
         "tone": ""
       },
       {
         "source": "Race of the Moon",
         "japanese": "さっきの体の持ち主は礼拝堂の地下で骨となってねむっているよ。",
         "thammy": "The owners of the bodies we were using a moment ago have become bones sleeping in the basement of the chapel.",
+        "claude": "The owners of these bodies we wore just now are sleeping as bones in the chapel basement.",
         "tone": ""
       }
     ]
@@ -235,24 +260,28 @@
         "source": "Neil",
         "japanese": "ニール：………..",
         "thammy": "Neil: …",
+        "claude": "Neil: ........",
         "tone": ""
       },
       {
         "source": "Neil",
         "japanese": "しばらく家をはなれていてやっと親のありがたさがわかったというのに…",
         "thammy": "Even though I understood how my parents had welcomed me after I had been separated from my family...",
+        "claude": "Just when I finally understood how important my parents were after being away from home for so long...",
         "tone": ""
       },
       {
         "source": "Neil",
         "japanese": "テム…悪いけどしばらく一人にしておいてくれ…",
         "thammy": "Tim... It might be inconveniencing you, but could you leave me alone for a while…?",
+        "claude": "Tim... Sorry, but could you leave me alone for a while...",
         "tone": ""
       },
       {
         "source": "Narrator",
         "japanese": "ニールはそう言うとうつむいてしまった…ぼくはこんなニールを見るのは初めてだった…",
         "thammy": "Neil hung his head as spoke... It was the first time I had ever seen Neil like this...",
+        "claude": "After saying that, Neil hung his head... It was the first time I'd ever seen Neil like this...",
         "tone": ""
       }
     ]
@@ -265,6 +294,7 @@
         "source": "Narrator",
         "japanese": "そして翌朝。残念な出来事が待っていた…",
         "thammy": "However, the next morning. Unfortunate news was waiting for us...",
+        "claude": "And then the next morning. Something unfortunate was waiting for us...",
         "tone": ""
       }
     ]
@@ -277,36 +307,42 @@
         "source": "Neil",
         "japanese": "ニール：おはよう。みんなには心配かけたな…",
         "thammy": "Neil: Good morning. I guess I've caused everyone to worry...",
+        "claude": "Neil: Good morning. I made everyone worry...",
         "tone": ""
       },
       {
         "source": "Neil",
         "japanese": "一晩中考えたんだけどこの会社はやっぱりぼくがつがなきゃいけないと思うんだ。",
         "thammy": "I've been thinking about it all night, but in the end I feel like this company can't continue unless I inherit it.",
+        "claude": "I thought about it all night, but I think I have to inherit this company after all.",
         "tone": ""
       },
       {
         "source": "Neil",
         "japanese": "なんとかしてドレイ貿易をやめさせたいし、それにはまずドレイ貿易を始めた会社が動くべきだと思う…",
         "thammy": "I want to do something to stop the slave trade; I was thinking that the company that first established that slave trade should work towards it...",
+        "claude": "I want to stop the slave trade somehow, and I think the company that started it should be the first to act...",
         "tone": ""
       },
       {
         "source": "Neil",
         "japanese": "人の不幸とひきかえにお金を手に入れたってしかたがないしね。",
         "thammy": "I guess there's no way around exchanging human misery for money.",
+        "claude": "There's no point in getting money in exchange for people's suffering.",
         "tone": ""
       },
       {
         "source": "Karen",
         "japanese": "カレン：じゃニールは社長になるわけね？すごおおおおい！！",
         "thammy": "Karen: So, that must mean Neil's going to become the president of the company? Cooooool!!",
+        "claude": "Karen: So that means Neil's going to be company president? That's amaaaaaazing!!",
         "tone": ""
       },
       {
         "source": "Neil",
         "japanese": "ニール：えへへ。なんだか照れちゃうな。",
         "thammy": "Neil: Hehe. I'm feeling kind of embarrassed for some reason.",
+        "claude": "Neil: Ehehe. I'm feeling kind of embarrassed.",
         "tone": ""
       }
     ]
@@ -319,12 +355,14 @@
         "source": "Neil",
         "japanese": "ニール：あそれからさカレン。君をたずねてきてる人がいるんだ。むかしの恋人だって話だぜ。",
         "thammy": "Neil: Ah, and from that, Karen. There's a person who came to visit you. You've talked before about your old sweetheart.",
+        "claude": "Neil: Oh, and Karen. Someone came to visit you. Says they're an old sweetheart of yours.",
         "tone": ""
       },
       {
         "source": "Karen",
         "japanese": "カレン：えっ！！！！！！！？",
         "thammy": "Karen: Huh...!?",
+        "claude": "Karen: What!?!?!?!?",
         "tone": ""
       }
     ]
@@ -337,6 +375,7 @@
         "source": "Neil",
         "japanese": "ニール：おーい入っておいでっ！",
         "thammy": "Neil: Hey, come in...!",
+        "claude": "Neil: Hey, come on in!",
         "tone": ""
       }
     ]
@@ -349,36 +388,42 @@
         "source": "Karen",
         "japanese": "カレン：ペギーっ！！！",
         "thammy": "Karen: Peggy...!",
+        "claude": "Karen: Peggy!!",
         "tone": ""
       },
       {
         "source": "Peggy",
         "japanese": "ブヒブヒッ！！",
         "thammy": "Squee squee...!",
+        "claude": "Oink oink!!",
         "tone": ""
       },
       {
         "source": "Karen",
         "japanese": "どうしたのっ？！元気だった？！",
         "thammy": "How?! Was she okay?!",
+        "claude": "What happened?! Have you been doing okay?!",
         "tone": ""
       },
       {
         "source": "Neil",
         "japanese": "ニール：ははは。君を追っかけてはるばる旅してきたみたいだぜ。",
         "thammy": "Neil: Hahaha. It seems like she was chasing after you all the way.",
+        "claude": "Neil: Hahaha. Looks like she traveled all this way chasing after you.",
         "tone": ""
       },
       {
         "source": "Neil",
         "japanese": "リリィが水上都市で発見して送って来たのさ。ローレックの配達便を使ってね。",
         "thammy": "Lillie discovered her in the Floating City and sent her for us. You could call it Reuleck's delivery service.",
+        "claude": "Lillie found her in Watermia and sent her here, you see. Using Reuleck's delivery service.",
         "tone": ""
       },
       {
         "source": "Neil",
         "japanese": "ぼくが旅の仲間からぬけても力強い味方が増えたろ？",
         "thammy": "Even though I'm no longer one of your travel companions, aren't you gaining even more powerful allies?",
+        "claude": "Even though I'm leaving your traveling party, you've gained a pretty strong ally, right?",
         "tone": ""
       }
     ]
@@ -391,6 +436,7 @@
         "source": "Neil",
         "japanese": "ニール：みんな元気です。",
         "thammy": "Neil: Everyone's lively.",
+        "claude": "Neil: Everyone's doing well.",
         "tone": ""
       }
     ]
@@ -403,6 +449,7 @@
         "source": "Eric",
         "japanese": "エリック：女の子ってつくづくわかんないよ。",
         "thammy": "Eric: I don't understand girls at all.",
+        "claude": "Eric: I really don't understand girls.",
         "tone": ""
       }
     ]
@@ -415,6 +462,7 @@
         "source": "Peggy",
         "japanese": "ブヒブヒッ",
         "thammy": "Squee squee...",
+        "claude": "Oink oink",
         "tone": ""
       }
     ]
@@ -427,18 +475,21 @@
         "source": "Karen",
         "japanese": "カレン：ここから西に向かうとアンコールワットの遺跡があるらしいわ。",
         "thammy": "Karen: It seems that if we head to the west of here, we'd reach the ruins of Angkor Wat.",
+        "claude": "Karen: I heard if we go west from here, we'll reach the ruins of Angkor Wat.",
         "tone": ""
       },
       {
         "source": "Karen",
         "japanese": "ちょうどそのあたりがドレイたちのこきょうにあたるみたい。",
         "thammy": "It seems that the native land of the slaves is in exactly that same place.",
+        "claude": "That area is apparently where the slaves' homeland is.",
         "tone": ""
       },
       {
         "source": "Karen",
         "japanese": "さあいってみましょ！！",
         "thammy": "Alright, let's go check it out!",
+        "claude": "Come on, let's go!!",
         "tone": ""
       }
     ]

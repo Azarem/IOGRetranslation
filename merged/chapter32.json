@@ -7,13 +7,15 @@
         "source": "Explorer",
         "japanese": "探険家：遺跡には人の進入をこばもうとするトラップが点在する。",
         "thammy": "Explorer: Traps are scattered through the ruins to prevent people from entering.",
-        "tone": ""
+        "tone": "",
+        "claude": "Explorer: Traps are scattered throughout the ruins to keep people out."
       },
       {
         "source": "Explorer",
         "japanese": "この部屋には音に反応するしかけがあるという話だ…まちがっても大きな音をたてるな。",
         "thammy": "There's a story that says this room has a mechanism that reacts to sound... Don't make any loud noises, even by mistake.",
-        "tone": ""
+        "tone": "",
+        "claude": "I've heard this room has a mechanism that reacts to sound... Don't make any loud noises, even by accident."
       }
     ]
   },
@@ -25,43 +27,50 @@
         "source": "Shadow",
         "japanese": "頭の中で声がこだまする。",
         "thammy": "A voice echoes in your head.",
-        "tone": ""
+        "tone": "",
+        "claude": "A voice echoes in your head."
       },
       {
         "source": "Shadow",
         "japanese": "私はこの時がくるのをずっと待ち続けていた。",
         "thammy": "I have been waiting all of this time for this moment to come.",
-        "tone": ""
+        "tone": "",
+        "claude": "I have been waiting for this moment all along."
       },
       {
         "source": "Shadow",
         "japanese": "私こそすい星の光を使って作り出された究極の戦士シャドウ。",
         "thammy": "Make no mistake. I am Shadow; the ultimate warrior, produced by the comet's light.",
-        "tone": ""
+        "tone": "",
+        "claude": "I am Shadow—the ultimate warrior created using the comet's light."
       },
       {
         "source": "Shadow",
         "japanese": "私の体には形がない…人の意識だけが進化するとこの体になると思えばいい。",
         "thammy": "My body is formless... You may think of it as what a human becomes when only their consciousness evolves.",
-        "tone": ""
+        "tone": "",
+        "claude": "My body has no form... You may think of it as what happens when only human consciousness evolves."
       },
       {
         "source": "Shadow",
         "japanese": "今地球に近づいているすい星も形をもたない意識体。",
         "thammy": "The comet that is now nearing the Earth is also a formless body of pure consciousness.",
-        "tone": ""
+        "tone": "",
+        "claude": "The comet now approaching Earth is also a formless consciousness."
       },
       {
         "source": "Shadow",
         "japanese": "はめつをもたらすすい星に立ち向かえるのはこの私の体だけであろう。",
         "thammy": "Only my body can oppose the destruction-bringing comet.",
-        "tone": ""
+        "tone": "",
+        "claude": "Only this body of mine can stand against the comet that brings destruction."
       },
       {
         "source": "Shadow",
         "japanese": "さあ目を閉じるがいい…",
         "thammy": "Well, you should close your eyes...",
-        "tone": ""
+        "tone": "",
+        "claude": "Now, close your eyes..."
       }
     ]
   },
@@ -73,19 +82,22 @@
         "source": "Gaia",
         "japanese": "私は生命のみなもとガイア。そなたのヤミの力はアンコールワットの寺院にてさらに強いものとなった。",
         "thammy": "I am the fountainhead of life, Gaia. Thy Power of Darkness has grown even stronger since thou wert at the temple of Angkor Wat.",
-        "tone": ""
+        "tone": "",
+        "claude": "I am Gaia, the wellspring of life. Thy Power of Darkness hath grown yet stronger at the temple of Angkor Wat."
       },
       {
         "source": "Gaia",
         "japanese": "右がわの石像の前に立てばさらに強力なヤミの戦士シャドウへとその姿を変えることができよう。",
         "thammy": "Shouldst thou stand in front of the statue to the right, thou canst change into Shadow, a more powerful Warrior of Darkness.",
-        "tone": ""
+        "tone": "",
+        "claude": "Shouldst thou stand before the statue to the right, thou canst transform into Shadow, a more powerful Warrior of Darkness."
       },
       {
         "source": "Gaia",
         "japanese": "そして私はそなたにアイテムをひとつあたえたいと思う。",
         "thammy": "Thus, I want to bestow an item upon thee.",
-        "tone": ""
+        "tone": "",
+        "claude": "And I wish to bestow upon thee an item."
       }
     ]
   },
@@ -97,7 +109,8 @@
         "source": "Narrator",
         "japanese": "オーラの玉を手に入れた！",
         "thammy": "Got the Ball of Aura!",
-        "tone": ""
+        "tone": "",
+        "claude": "Got the Ball of Aura!"
       }
     ]
   },
@@ -109,19 +122,22 @@
         "source": "Gaia",
         "japanese": "オーラのたまはシャドウの心。シャドウがこれをかかげるとその体は水のように変化する。",
         "thammy": "The Ball of Aura is Shadow's heart. Shadow's body changes to be like water if they raise it.",
-        "tone": ""
+        "tone": "",
+        "claude": "The Ball of Aura is Shadow's heart. When Shadow raiseth it, his body doth transform like water."
       },
       {
         "source": "Gaia",
         "japanese": "現在知られているピラミッドは地表のほんの一部分。そのほとんどは地下にねむっているのだ。",
         "thammy": "The Pyramid as it is now known, the Pyramid as seen on the surface, is in reality only one part of the whole. Most of it is sleeping underground.",
-        "tone": ""
+        "tone": "",
+        "claude": "The Pyramid as it is known now is but a small portion on the surface. Most of it sleepeth underground."
       },
       {
         "source": "Gaia",
         "japanese": "さあシャドウへと姿を変え地下へ進むがよい。",
         "thammy": "Well, thou shouldst transform into Shadow and head underground.",
-        "tone": ""
+        "tone": "",
+        "claude": "Now, transform into Shadow and proceed underground."
       }
     ]
   },
@@ -133,7 +149,8 @@
         "source": "Narrator",
         "japanese": "青い光の中にはピラミッドの入口がぼんやりと写っている… ／ やめておく ／ 中に飛びこむ",
         "thammy": "The Pyramid's entrance is vaguely reflected in the blue light... / Leave it be / Jump inside",
-        "tone": ""
+        "tone": "",
+        "claude": "The Pyramid's entrance is faintly visible in the blue light... / Leave it / Jump inside"
       }
     ]
   },
@@ -150,13 +167,15 @@
         "source": "Tim",
         "japanese": "かべにおさめられた石版がある。これがダオの町で聞いたヒエログリフという文字か..？",
         "thammy": "An engraved slate is stored in the wall. Is this the form of writing called \"hieroglyph\" that I heard of in Dao..?",
-        "tone": ""
+        "tone": "",
+        "claude": "There's a slate set in the wall. Is this the writing called \"hieroglyphs\" that I heard about in Dao...?"
       },
       {
         "source": "Tim",
         "japanese": "この石版ははずしてもっていくことにしよう。",
         "thammy": "You removed the engraved slate and took it with you.",
-        "tone": ""
+        "tone": "",
+        "claude": "I'll remove this slate and take it with me."
       }
     ]
   },
@@ -168,7 +187,8 @@
         "source": "Narrator",
         "japanese": "ヒエログリフの石版を手に入れた！",
         "thammy": "Got the engraved hieroglyphic slate!",
-        "tone": ""
+        "tone": "",
+        "claude": "Got a Hieroglyph Slate!"
       }
     ]
   },
@@ -180,13 +200,15 @@
         "source": "Tim",
         "japanese": "かべにおさめられた石版がある。これがダオの町で聞いたヒエログリフという文字か..？",
         "thammy": "An engraved slate is stored in the wall. Is this the form of writing called \"hieroglyph\" that I heard of in Dao..?",
-        "tone": ""
+        "tone": "",
+        "claude": "There's a slate set in the wall. Is this the writing called \"hieroglyphs\" that I heard about in Dao...?"
       },
       {
         "source": "Tim",
         "japanese": "この石版ははずしてもっていくことにしよう。",
         "thammy": "You removed the engraved slate and took it with you.",
-        "tone": ""
+        "tone": "",
+        "claude": "I'll remove this slate and take it with me."
       }
     ]
   },
@@ -198,13 +220,15 @@
         "source": "Tim",
         "japanese": "かべにおさめられた石版がある。これがダオの町で聞いたヒエログリフという文字か..？",
         "thammy": "An engraved slate is stored in the wall. Is this the form of writing called \"hieroglyph\" that I heard of in Dao..?",
-        "tone": ""
+        "tone": "",
+        "claude": "There's a slate set in the wall. Is this the writing called \"hieroglyphs\" that I heard about in Dao...?"
       },
       {
         "source": "Tim",
         "japanese": "この石版ははずしてもっていくことにしよう。",
         "thammy": "You removed the engraved slate and took it with you.",
-        "tone": ""
+        "tone": "",
+        "claude": "I'll remove this slate and take it with me."
       }
     ]
   },
@@ -216,13 +240,15 @@
         "source": "Tim",
         "japanese": "かべにおさめられた石版がある。これがダオの町で聞いたヒエログリフという文字か..？",
         "thammy": "An engraved slate is stored in the wall. Is this the form of writing called \"hieroglyph\" that I heard of in Dao..?",
-        "tone": ""
+        "tone": "",
+        "claude": "There's a slate set in the wall. Is this the writing called \"hieroglyphs\" that I heard about in Dao...?"
       },
       {
         "source": "Tim",
         "japanese": "この石版ははずしてもっていくことにしよう。",
         "thammy": "You removed the engraved slate and took it with you.",
-        "tone": ""
+        "tone": "",
+        "claude": "I'll remove this slate and take it with me."
       }
     ]
   },
@@ -234,13 +260,15 @@
         "source": "Tim",
         "japanese": "かべにおさめられた石版がある。これがダオの町で聞いたヒエログリフという文字か..？",
         "thammy": "An engraved slate is stored in the wall. Is this the form of writing called \"hieroglyph\" that I heard of in Dao..?",
-        "tone": ""
+        "tone": "",
+        "claude": "There's a slate set in the wall. Is this the writing called \"hieroglyphs\" that I heard about in Dao...?"
       },
       {
         "source": "Tim",
         "japanese": "この石版ははずしてもっていくことにしよう。",
         "thammy": "You removed the engraved slate and took it with you.",
-        "tone": ""
+        "tone": "",
+        "claude": "I'll remove this slate and take it with me."
       }
     ]
   },
@@ -252,13 +280,15 @@
         "source": "Tim",
         "japanese": "かべにおさめられた石版がある。これがダオの町で聞いたヒエログリフという文字か..？",
         "thammy": "An engraved slate is stored in the wall. Is this the form of writing called \"hieroglyph\" that I heard of in Dao..?",
-        "tone": ""
+        "tone": "",
+        "claude": "There's a slate set in the wall. Is this the writing called \"hieroglyphs\" that I heard about in Dao...?"
       },
       {
         "source": "Tim",
         "japanese": "この石版ははずしてもっていくことにしよう。",
         "thammy": "You removed the engraved slate and took it with you.",
-        "tone": ""
+        "tone": "",
+        "claude": "I'll remove this slate and take it with me."
       }
     ]
   },
@@ -270,7 +300,8 @@
         "source": "Narrator",
         "japanese": "ヒエログリフ板をはめこむ場所がない…",
         "thammy": "There's no place to insert the hieroglyph slate...",
-        "tone": ""
+        "tone": "",
+        "claude": "There's no place to insert the hieroglyph slate..."
       }
     ]
   },
@@ -279,10 +310,11 @@
     "path": "pyramid/pyCD_jackal.asm",
     "parts": [
       {
-        "source": "Jackal",
+        "source": "Black Panther",
         "japanese": "おとなしくそこから左へ向かって歩けっ！！",
         "thammy": "Be a good boy and stand to the left..!!",
-        "tone": ""
+        "tone": "",
+        "claude": "Quietly walk to the left from there!!"
       }
     ]
   },
@@ -291,10 +323,11 @@
     "path": "pyramid/pyCD_jackal.asm",
     "parts": [
       {
-        "source": "Jackal",
+        "source": "Black Panther",
         "japanese": "左へ向かって歩けと言っているんだっ！！",
         "thammy": "I said, stand to the left..!!",
-        "tone": ""
+        "tone": "",
+        "claude": "I said walk to the left!!"
       }
     ]
   },
@@ -303,10 +336,11 @@
     "path": "pyramid/pyCD_jackal.asm",
     "parts": [
       {
-        "source": "Jackal",
+        "source": "Black Panther",
         "japanese": "ようしそれでいい。そのままじっとしていろっ！！",
         "thammy": "Alright, that's good. Stay still just like that...!!",
-        "tone": ""
+        "tone": "",
+        "claude": "Good, that's it. Now stay still just like that!!"
       }
     ]
   },
@@ -318,67 +352,78 @@
         "source": "Black Panther",
         "japanese": "ブラックパンサー：お前さんの行動の一部始終を見せてもらったよ。",
         "thammy": "Black Panther: You, sir, have been showing me everything you've done from start to finish.",
-        "tone": ""
+        "tone": "",
+        "claude": "Black Panther: I've been watching everything you've done from start to finish."
       },
       {
         "source": "Black Panther",
         "japanese": "何千年も前にすい星の光を使ったバイオ技術があったと聞くが…まさかお前がそうだとはな。",
         "thammy": "I hear that you have biotechnology from millennia ago that uses the light of the comet... You're something unbelievable, aren't you?",
-        "tone": ""
+        "tone": "",
+        "claude": "I've heard there was biotech using the comet's light thousands of years ago... But I didn't expect you to be it."
       },
       {
         "source": "Black Panther",
         "japanese": "その変身の力をもてばどんなものでも手に入る。そしてどんな人間でもひれふすだろう。",
         "thammy": "You could get whatever you wanted if you had that shapeshifting power. Humans would kneel before you.",
-        "tone": ""
+        "tone": "",
+        "claude": "With that transformation power, you could get anything you want. Any human would bow down to you."
       },
       {
         "source": "Black Panther",
         "japanese": "エドワード国王がやっきになって動くのも無理はない…",
         "thammy": "Even if King Edward started to act out of desperation, it's not without reason...",
-        "tone": ""
+        "tone": "",
+        "claude": "No wonder King Edward's been so desperate to get it..."
       },
       {
         "source": "Karen",
         "japanese": "カレン：お父さまがそんなことを？！",
         "thammy": "Karen: Father's behind this?!",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: Father did such a thing?!"
       },
       {
         "source": "Black Panther",
         "japanese": "ブラックパンサー：そうだ！国王なんてしょせんそんなもんさ。",
         "thammy": "Black Panther: That's right! It's the king behind it in the end.",
-        "tone": ""
+        "tone": "",
+        "claude": "Black Panther: That's right! A king's just that kind of person in the end."
       },
       {
         "source": "Black Panther",
         "japanese": "力を手に入れるためには手段をえらばない。",
         "thammy": "He'll use any means necessary to gain power.",
-        "tone": ""
+        "tone": "",
+        "claude": "Won't pick his methods to get power."
       },
       {
         "source": "Black Panther",
         "japanese": "ひょっとするとおれのような殺し屋よりもざんこくかもな。くっくっく。",
         "thammy": "Maybe he's even crueler than an assassin like me. Mweheheh.",
-        "tone": ""
+        "tone": "",
+        "claude": "Maybe he's even crueler than an assassin like me. Heh heh heh."
       },
       {
         "source": "Karen",
         "japanese": "カレン：やめてよっ！そんな話！！",
         "thammy": "Karen: Stop it...! Don't say that kind of thing!!",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: Stop it! I don't want to hear this!!"
       },
       {
         "source": "Black Panther",
         "japanese": "ブラックパンサー：まあどちらにしろおれは金がもらえればそれでいいのさ。",
         "thammy": "Black Panther: Well, whatever he does, I'm fine as long as I get paid.",
-        "tone": ""
+        "tone": "",
+        "claude": "Black Panther: Well, either way, I'm fine as long as I get my money."
       },
       {
         "source": "Black Panther",
         "japanese": "さあいっしょにエドワード城まできてもらおうか。",
         "thammy": "Now, if you'll come to Edward Castle with me.",
-        "tone": ""
+        "tone": "",
+        "claude": "Now then, you're coming with me to Edward Castle."
       }
     ]
   },
@@ -390,13 +435,15 @@
         "source": "Narrator",
         "japanese": "テムの頭の中で声がささやく…",
         "thammy": "A voice whispers in Tim's head...",
-        "tone": ""
+        "tone": "",
+        "claude": "A voice whispers in Tim's head..."
       },
       {
         "source": "Voice",
         "japanese": "テム…笛を吹くんだ..テム…",
         "thammy": "Tim... Play the flute... Tim...",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim... Play the flute... Tim..."
       }
     ]
   },
@@ -408,7 +455,8 @@
         "source": "Black Panther",
         "japanese": "ブラックパンサー：それ以上前へ出るとこのナイフが動きだすぜ…",
         "thammy": "Black Panther: If you go any further than that, this knife here is going to move...",
-        "tone": ""
+        "tone": "",
+        "claude": "Black Panther: Come any closer and this knife's going to move..."
       }
     ]
   },
@@ -425,7 +473,8 @@
         "source": "Black Panther",
         "japanese": "ブラックパンサー：うおああああああああ！！！！！！",
         "thammy": "Black Panther: Uwhaaaaaaaagh!!",
-        "tone": ""
+        "tone": "",
+        "claude": "Black Panther: Aaaaaaaaaagh!!"
       }
     ]
   },
@@ -434,10 +483,11 @@
     "path": "pyramid/pyCD_jackal.asm",
     "parts": [
       {
-        "source": "Jackal",
+        "source": "Black Panther",
         "japanese": "カレン…カレ….",
         "thammy": "Karen... Kare...",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen... Kare..."
       }
     ]
   },
@@ -449,19 +499,22 @@
         "source": "Karen",
         "japanese": "カレン：テム….",
         "thammy": "Karen: Tim…",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: Tim..."
       },
       {
         "source": "Karen",
         "japanese": "なんでみんな殺しあわなくちゃならないの..？",
         "thammy": "Why can't everyone help but kill each other..?",
-        "tone": ""
+        "tone": "",
+        "claude": "Why does everyone have to kill each other...?"
       },
       {
         "source": "Karen",
         "japanese": "あたし…もう…",
         "thammy": "I... Still...",
-        "tone": ""
+        "tone": "",
+        "claude": "I... can't anymore..."
       }
     ]
   },
@@ -473,37 +526,43 @@
         "source": "Karen",
         "japanese": "カレン：ごめんなさい…とりみだしちゃって…",
         "thammy": "Karen: I'm sorry... I lost my composure...",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: I'm sorry... for losing it..."
       },
       {
         "source": "Karen",
         "japanese": "テムは世界を救うためにがんばっているんだもんね。",
         "thammy": "I'm persevering so that you can save the world, you know?",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim, you're working hard to save the world."
       },
       {
         "source": "Karen",
         "japanese": "最初旅にでたときはお父さんをさがしにいくはずだったのに…",
         "thammy": "Although Dad must have been searching for me when I started out on this journey...",
-        "tone": ""
+        "tone": "",
+        "claude": "When we first started out on the journey, we were supposed to be searching for your father..."
       },
       {
         "source": "Karen",
         "japanese": "何だかたいへんなことになってきちゃったわよね…",
         "thammy": "Somehow things have become terrible, haven't they...",
-        "tone": ""
+        "tone": "",
+        "claude": "Somehow things have gotten really serious, haven't they..."
       },
       {
         "source": "Karen",
         "japanese": "でもあたし。この旅についてきたことをこうかいしてないよ。",
         "thammy": "But, as for me, I'm not regretting coming along on this journey.",
-        "tone": ""
+        "tone": "",
+        "claude": "But I don't regret coming on this journey."
       },
       {
         "source": "Karen",
         "japanese": "さあ行ってきて。５つ目のミステリードールをさがしに….",
         "thammy": "Well, I'll see you later. Search for the 5th Mystery Doll…",
-        "tone": ""
+        "tone": "",
+        "claude": "Now go on. Search for the fifth Mystery Doll..."
       }
     ]
   },
@@ -515,7 +574,8 @@
         "source": "Karen",
         "japanese": "さっきのテムの吹いたメロディがブラックパンサーのそう送曲になったのね…",
         "thammy": "The song that you played just now turned out to be Black Panther's funeral dirge, didn't it...",
-        "tone": ""
+        "tone": "",
+        "claude": "The melody you played just now became Black Panther's funeral song..."
       }
     ]
   },
@@ -527,13 +587,15 @@
         "source": "Narrator",
         "japanese": "タイルがはまりそうなくぼみが６つならんでいる。",
         "thammy": "There are 6 indentations that seem like tiles could fit in.",
-        "tone": ""
+        "tone": "",
+        "claude": "Six indentations are lined up that look like they could fit tiles."
       },
       {
         "source": "Narrator",
         "japanese": "どこにはめますか？ ／ 左から１番目 ／ 左から２番目 ／ 左から３番目 ／ 左から４番目 ／ 左から５番目 ／ 左から６番目",
         "thammy": "Where will you insert it? / 1st from the left / 2nd from the left / 3rd from the left / 4th from the left / 5th from the left / 6th from the left",
-        "tone": ""
+        "tone": "",
+        "claude": "Where will you insert it? / 1st from the left / 2nd from the left / 3rd from the left / 4th from the left / 5th from the left / 6th from the left"
       }
     ]
   },
@@ -545,7 +607,8 @@
         "source": "Narrator",
         "japanese": "ヒエログリフ板をくぼみにはめた！",
         "thammy": "Inserted the hieroglyph slate into the indentation!",
-        "tone": ""
+        "tone": "",
+        "claude": "Inserted the hieroglyph slate into the indentation!"
       }
     ]
   },
@@ -557,7 +620,8 @@
         "source": "Narrator",
         "japanese": "何もおこらない…ならべ方をまちがえたんだろうか？もう一度最初からやってみよう。",
         "thammy": "Nothing happened... Could you have made a mistake with the arrangement? Try doing it once more from the beginning.",
-        "tone": ""
+        "tone": "",
+        "claude": "Nothing happened... Did I get the arrangement wrong? I'll try it again from the beginning."
       }
     ]
   },
@@ -569,7 +633,8 @@
         "source": "Tim",
         "japanese": "むっ…入口の向こうで何か音がしたぞ！",
         "thammy": "Wow... Some kind of sound came from just past the entrance!",
-        "tone": ""
+        "tone": "",
+        "claude": "Hm... I heard something beyond the entrance!"
       }
     ]
   },
@@ -581,7 +646,8 @@
         "source": "Narrator",
         "japanese": "青い光の中にはミイラ化したピラミッドの女王が写っている.. ／ やめておく ／ 中に飛びこむ",
         "thammy": "The mummified queen of the Pyramid is projected in the blue light.. / Leave it alone / Jump inside",
-        "tone": ""
+        "tone": "",
+        "claude": "The mummified Pyramid Queen is visible in the blue light... / Leave it / Jump inside"
       }
     ]
   },
@@ -598,7 +664,8 @@
         "source": "Narrator",
         "japanese": "ピラミッドの守り神をたおすとしかばねからミステリードールが見つかった！！",
         "thammy": "After you defeated the Pyramid's guardian god, you found a Mystery Doll from their corpse!!",
-        "tone": ""
+        "tone": "",
+        "claude": "When you defeated the Pyramid's guardian deity, you found a Mystery Doll in its remains!!"
       }
     ]
   },
@@ -610,43 +677,50 @@
         "source": "Narrator",
         "japanese": "笛から声が聞こえてきた！エドワード城のろうやで聞いた声と同じだった…",
         "thammy": "You could hear a voice from your flute! It was the same voice that you heard at Edward Castle's prison...",
-        "tone": ""
+        "tone": "",
+        "claude": "A voice came from the flute! It was the same voice I heard in Edward Castle's prison..."
       },
       {
         "source": "Allman",
         "japanese": "笛：これまでよくがんばったね。テム。",
         "thammy": "Flute: You've managed to stay strong, haven't you, Tim.",
-        "tone": ""
+        "tone": "",
+        "claude": "Flute: You've done well to make it this far, Tim."
       },
       {
         "source": "Tim",
         "japanese": "テム：とうさん？！",
         "thammy": "Tim: Dad?!",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Dad?!"
       },
       {
         "source": "Allman",
         "japanese": "私は今バベルの塔にいる。５つのミステリードールをもってバベルの塔へきなさい。",
         "thammy": "I'm now at the Tower of Babel. Please take the five Mystery Dolls and come here.",
-        "tone": ""
+        "tone": "",
+        "claude": "I'm at the Tower of Babel now. Bring the five Mystery Dolls to the Tower of Babel."
       },
       {
         "source": "Allman",
         "japanese": "お前がこれまで集めてきた人形は人類存亡のカギをにぎっている。",
         "thammy": "The puppets that you had collected until now are holding the key to the fate of mankind; whether humanity lives or dies.",
-        "tone": ""
+        "tone": "",
+        "claude": "The dolls you've been collecting hold the key to humanity's survival."
       },
       {
         "source": "Allman",
         "japanese": "すい星が近づいている…テム..はやくはや.く…",
         "thammy": "The comet is approaching... Tim... Hurry, hurr. y...",
-        "tone": ""
+        "tone": "",
+        "claude": "The comet is approaching... Tim... Hurry, hur.ry..."
       },
       {
         "source": "Narrator",
         "japanese": "やがて笛の声は遠くなってゆき聞こえなくなった…",
         "thammy": "The flute's voice ultimately faded away until it could no long be heard...",
-        "tone": ""
+        "tone": "",
+        "claude": "Eventually the flute's voice grew distant and could no longer be heard..."
       }
     ]
   },
@@ -658,25 +732,29 @@
         "source": "Karen",
         "japanese": "カレン：あたしたちの知らないところで何かたいへんなことが起きているみたいね….",
         "thammy": "Karen: It seems like something terrible is happening at a place we don't know, huh…",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: It seems like something terrible is happening somewhere we don't know about..."
       },
       {
         "source": "Tim",
         "japanese": "テム：どうしよう…いきなりバベルの塔へこいっていわれてもあそこは大海原の小さい島だし…",
         "thammy": "Tim: What do we do…? Even if he suddenly told us to come to the Tower of Babel, going out to a little island on the deep blue sea…",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: What should we do... Even if he suddenly tells us to come to the Tower of Babel, that place is a tiny island in the middle of the ocean..."
       },
       {
         "source": "Karen",
         "japanese": "カレン：ニールってねまた飛行機を作ったんですって。",
         "thammy": "Karen: Hey, you know, Neil says that made an aeroplane again.",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: You know, I heard Neil made another aeroplane."
       },
       {
         "source": "Karen",
         "japanese": "さばくの町へは飛行機できてるみたいなの。まずは町へもどってみましょ。",
         "thammy": "It seems that the aeroplane is being brought to the desert town. First of all, let's try returning to Dao.",
-        "tone": ""
+        "tone": "",
+        "claude": "It seems like he came to the desert town by aeroplane. First, let's try going back to town."
       }
     ]
   },
@@ -688,25 +766,29 @@
         "source": "Neil",
         "japanese": "ニール：そうか….やっぱりどうしても行くんだな？",
         "thammy": "Neil: Is that so... I guess that you're ultimately going no matter what?",
-        "tone": ""
+        "tone": "",
+        "claude": "Neil: I see... You're definitely going no matter what?"
       },
       {
         "source": "Neil",
         "japanese": "お前はむかしから言い出したらきかないヤツだったからな。",
         "thammy": "If you had said that from a long time ago, I'd say that you were just a jerk that doesn't listen.",
-        "tone": ""
+        "tone": "",
+        "claude": "You've always been the kind who won't listen once you've decided, since way back."
       },
       {
         "source": "Neil",
         "japanese": "わかった。じゃあテムをバベルの塔まで送ってその足でカレンとエリックをサウスケープへ送ることにしよう。",
         "thammy": "I understand. Well, I'll send Karen and Eric to South Cape after I send you to the Tower of Babel.",
-        "tone": ""
+        "tone": "",
+        "claude": "I understand. Then I'll take Tim to the Tower of Babel and then take Karen and Eric to South Cape."
       },
       {
         "source": "Neil",
         "japanese": "今度はたぶん落ちないはずだから安心してくれ。",
         "thammy": "We probably won't fall this time, so please relax.",
-        "tone": ""
+        "tone": "",
+        "claude": "This time I probably won't crash, so rest assured."
       }
     ]
   }

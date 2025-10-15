@@ -7,25 +7,29 @@
         "source": "Narrator",
         "japanese": "古ぼけたしかばねが一つ静かに横たわっている…",
         "thammy": "An aged corpse lies quietly...",
-        "tone": ""
+        "tone": "",
+        "claude": "An aged corpse lies quietly there..."
       },
       {
         "source": "Narrator",
         "japanese": "そのとき頭の中に聞く覚えのある声が語りかけてきた。",
         "thammy": "At that moment, a familiar voice spoke in my head.",
-        "tone": ""
+        "tone": "",
+        "claude": "That's when a familiar voice spoke in my head."
       },
       {
         "source": "Allman",
         "japanese": "テム。私だよ。お前の父オールマンだ。",
         "thammy": "Tim. It's me. Your father Allman.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim. It's me. Your father, Olman."
       },
       {
         "source": "Allman",
         "japanese": "肉体はくち果てたが私はこうして生き続けている..",
         "thammy": "My body has totally rotted away, but I still live on like this...",
-        "tone": ""
+        "tone": "",
+        "claude": "My body has rotted away, but I still live on like this..."
       }
     ]
   },
@@ -37,85 +41,99 @@
         "source": "Tim",
         "japanese": "テム：ととうさんっ！どうしてそんな姿にっ！！！",
         "thammy": "Tim: D-dad...! Why are you in a form like that...!?",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: D—Dad! Why are you in such a form?!"
       },
       {
         "source": "Allman",
         "japanese": "バベルの塔は不思議な空間。内部はすい星の光で満ちている。",
         "thammy": "The Tower of Babel is a mysterious space. The interior is full of the comet's light.",
-        "tone": ""
+        "tone": "",
+        "claude": "The Tower of Babel is a mysterious space. Its interior is filled with the comet's light."
       },
       {
         "source": "Allman",
         "japanese": "時が数百倍の速さで流れ中にいる者はすさまじい速度で進化してゆく…",
         "thammy": "Time flows at hundreds of times its normal speed; anybody inside evolves at a terrific rate...",
-        "tone": ""
+        "tone": "",
+        "claude": "Time flows at hundreds of times its normal speed, and those inside evolve at a terrifying rate..."
       },
       {
         "source": "Tim",
         "japanese": "テム：じゃあぼくとカレンはどうして生きていられるのっ？！",
         "thammy": "Tim: Then, how are Karen and I able to survive...?!",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: Then how are Karen and I still alive?!"
       },
       {
         "source": "Allman",
         "japanese": "テムの父：それはお前たちも進化した人間だからだ。",
         "thammy": "Tim's father: That is because you two are evolved humans as well.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim's father: That's because you two are evolved humans as well."
       },
       {
         "source": "Karen",
         "japanese": "カレン：あたしたちが….？",
         "thammy": "Karen: We are...?",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: We are...?"
       },
       {
         "source": "Allman",
         "japanese": "テムの父：はるかむかしすい星から放たれる光を使ったバイオ技術があって、",
         "thammy": "Tim's father: In the distant past, having possession of biotechnology which used the light emitted from the comet,",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim's father: In the distant past, there was biotechnology that used the light emitted from the comet."
       },
       {
         "source": "Allman",
         "japanese": "人々はその力を使い自由に動植物を作りだしていた。",
         "thammy": "people used its power to create plants and animals as they desired.",
-        "tone": ""
+        "tone": "",
+        "claude": "People used that power to create plants and animals at will."
       },
       {
         "source": "Allman",
         "japanese": "例えばラクダが長期間飲まず食わずで生きていられるのはさばくを移動する乗り物として作られたからだ。",
         "thammy": "For example, the camel can survive for a long time without food or water because they were made as animals for riding through the desert.",
-        "tone": ""
+        "tone": "",
+        "claude": "For example, camels can survive for long periods without food or water because they were created as vehicles for desert travel."
       },
       {
         "source": "Allman",
         "japanese": "やがて人はこの力を兵器として利用できることに気づき、まものが次々と生みだされた。",
         "thammy": "Soon, humans realized that this power could be used to create weapons, and so they gradually produced demons.",
-        "tone": ""
+        "tone": "",
+        "claude": "Eventually, people realized this power could be used as a weapon, and demons were created one after another."
       },
       {
         "source": "Allman",
         "japanese": "まもなく世界ははめつのききにおちいった…",
         "thammy": "Suddenly, the world was at the risk of being destroyed...",
-        "tone": ""
+        "tone": "",
+        "claude": "Before long, the world fell into the crisis of destruction..."
       },
       {
         "source": "Allman",
         "japanese": "そのとき人類の存亡をかけて作り出された光とヤミの戦士。それがお前たちの先祖なのだ。",
         "thammy": "At that time, the Warrior of Light and Darkness was produced by the fate of mankind; the possible extermination or survival of humanity. That is your ancestor.",
-        "tone": ""
+        "tone": "",
+        "claude": "At that time, the Warriors of Light and Darkness were created—humanity's survival hung in the balance. Those warriors are your ancestors."
       },
       {
         "source": "Allman",
         "japanese": "そして６つのミステリードールこそ光とヤミの戦士を作り出したもの。",
         "thammy": "And the 6 Mystery Dolls will surely produce the Warrior of Light and Darkness.",
-        "tone": ""
+        "tone": "",
+        "claude": "And the six Mystery Dolls are what created the Warriors of Light and Darkness."
       },
       {
         "source": "Allman",
         "japanese": "さあ最後の一つ命のミステリードールをお前にたくそう。",
         "thammy": "Well, I'll entrust in you the fated final Mystery Doll.",
-        "tone": ""
+        "tone": "",
+        "claude": "Now, I'll entrust you with the final one—the Mystery Doll of Life."
       }
     ]
   },
@@ -127,7 +145,8 @@
         "source": "Allman",
         "japanese": "もうじきすい星が大接近する。お前たちはそれまでに塔の屋上へゆかねばならない。さあ静かに目を閉じなさい…",
         "thammy": "The comet will be very near soon. I must send you both to the tower's rooftop until then. Well, please quietly close your eyes...",
-        "tone": ""
+        "tone": "",
+        "claude": "The comet will approach very soon. You two must reach the tower's rooftop by then. Now, quietly close your eyes..."
       }
     ]
   },
@@ -139,37 +158,43 @@
         "source": "Allman",
         "japanese": "テムの父：かつて古代人たちはすい星を神とあがめた。",
         "thammy": "Tim's father: Ancient people once worshipped the comet as a god.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim's father: Long ago, ancient people worshipped the comet as a god."
       },
       {
         "source": "Allman",
         "japanese": "すい星の光をあびたものには不思議な力がやどったからだ。",
         "thammy": "A mysterious power dwells in things that are showered in the comet's light, after all.",
-        "tone": ""
+        "tone": "",
+        "claude": "A mysterious power dwells in those bathed in the comet's light."
       },
       {
         "source": "Allman",
         "japanese": "確かにすい星は神といえる。すい星は一つの生命体ともいえる。だがそれは招かれざる神なのだ。",
         "thammy": "Certainly, you could call the comet a god. You could also call it a singular lifeform. But it's a god that no one asked for.",
-        "tone": ""
+        "tone": "",
+        "claude": "The comet could indeed be called a god. It could also be called a single life form. But it's an uninvited god."
       },
       {
         "source": "Allman",
         "japanese": "速すぎる進歩からははめつだけが生まれる…",
         "thammy": "It advances things too fast, and so only gives birth to destruction...",
-        "tone": ""
+        "tone": "",
+        "claude": "From progress that's too rapid, only destruction is born..."
       },
       {
         "source": "Allman",
         "japanese": "人の心に悪があるかぎりあらゆるまものが生み出されてしまう。",
         "thammy": "As long as there is evil in people's hearts, demons will be born.",
-        "tone": ""
+        "tone": "",
+        "claude": "As long as evil exists in people's hearts, all manner of demons will be created."
       },
       {
         "source": "Allman",
         "japanese": "さあテム目をこらしてまわりを見てみなさい。",
         "thammy": "Well, Tim, please focus your eyes and take a look.",
-        "tone": ""
+        "tone": "",
+        "claude": "Now Tim, look closely around you."
       }
     ]
   },
@@ -181,7 +206,8 @@
         "source": "Allman",
         "japanese": "テムの父：さあ彼らと話しておいで。",
         "thammy": "Tim's father: Well, go speak with them.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim's father: Now, go and speak with them."
       }
     ]
   },
@@ -193,7 +219,8 @@
         "source": "Karen",
         "japanese": "カレン：……………",
         "thammy": "Karen: …",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: ............"
       }
     ]
   },
@@ -205,13 +232,15 @@
         "source": "Neil's father",
         "japanese": "ニールの父：ええい…ニールは何をやっておるっ！",
         "thammy": "Neil's father: Hey... What in the world is Neil doing…?",
-        "tone": ""
+        "tone": "",
+        "claude": "Neil's father: Bah... What's that boy Neil doing?!"
       },
       {
         "source": "Neil's father",
         "japanese": "あいつにはローレック株式会社をもっともっと大きくしてもらわねばならんのじゃ。",
         "thammy": "That brat should be making the Reuleck Corporation larger and larger.",
-        "tone": ""
+        "tone": "",
+        "claude": "He needs to make the Rolek Corporation bigger and bigger."
       }
     ]
   },
@@ -220,16 +249,18 @@
     "path": "babel_tower/btE4_olman.asm",
     "parts": [
       {
-        "source": "Neil's father",
+        "source": "Spirit",
         "japanese": "肉体がなくなり私は不老不死の生物となった。すい星の光による進化によって永遠の命を手に入れたのだ。",
         "thammy": "I've become an unaging, undying organism by losing my corporeal body. I've gotten eternal life through evolution by the comet's light.",
-        "tone": ""
+        "tone": "",
+        "claude": "With my body gone, I became an immortal, undying being. Through evolution from the comet's light, I obtained eternal life."
       },
       {
-        "source": "Neil's father",
+        "source": "Spirit",
         "japanese": "だが果てることのない命にいったい何の意味があろうか。不治の病におびえていたころの方がよほどじゅうじつしていたな..",
         "thammy": "But what meaning could there possible by in a life without end? I guess I felt more fulfilled when I was a person living in fear of an incurable illness..",
-        "tone": ""
+        "tone": "",
+        "claude": "But what meaning could there possibly be in a life without end? I felt far more fulfilled when I lived in fear of an incurable disease..."
       }
     ]
   },
@@ -241,13 +272,15 @@
         "source": "Morris",
         "japanese": "モリス：やあテムひさしぶり。",
         "thammy": "Morris: Hey Tim, it's been a long time.",
-        "tone": ""
+        "tone": "",
+        "claude": "Morris: Hey Tim, it's been a while."
       },
       {
         "source": "Morris",
         "japanese": "こんな世界があったなんて…これを学会で発表したらぼくは学者になれるだろうなあ。",
         "thammy": "I can't believe that a world like this exists... I guess I could probably have become a scholar if I announced this at an academic conference.",
-        "tone": ""
+        "tone": "",
+        "claude": "I can't believe a world like this exists... If I could present this at an academic conference, I probably could've become a scholar."
       }
     ]
   },
@@ -259,13 +292,15 @@
         "source": "Peggy",
         "japanese": "ペギー：ブヒブヒッ！！",
         "thammy": "Peggy: Squee squee...!!",
-        "tone": ""
+        "tone": "",
+        "claude": "Peggy: Oink oink!!"
       },
       {
         "source": "Tim",
         "japanese": "テム：そうか体がなくなっちゃえば人も動物も区別なんかないんだな…",
         "thammy": "Tim: So that's how it is; I guess that without a body, even people and animals are no longer distinct...",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: I see... Once the body disappears, there's no distinction between people and animals..."
       }
     ]
   },
@@ -277,13 +312,15 @@
         "source": "Neil's mother",
         "japanese": "ニールの母：現実世界をながめることはできてもふれることはできない…",
         "thammy": "Neil's mother: Even if I can observe the real world, I can't touch it…",
-        "tone": ""
+        "tone": "",
+        "claude": "Neil's mother: I can observe the real world, but I can't touch it..."
       },
       {
         "source": "Neil's mother",
         "japanese": "ニールがどんなに困っていてももう手をかしてあげることはできないのね…",
         "thammy": "No matter how Neil is suffering, I still can't lend him a hand, can I...",
-        "tone": ""
+        "tone": "",
+        "claude": "No matter how much Neil is struggling, I can't lend him a helping hand anymore..."
       }
     ]
   },
@@ -295,13 +332,15 @@
         "source": "Allman",
         "japanese": "テムの父：いよいよその時が近づいてきた。",
         "thammy": "Tim's father: The time is coming closer and closer.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim's father: The time is finally drawing near."
       },
       {
         "source": "Allman",
         "japanese": "さあみんな。テムに力をかしてやってくれ！",
         "thammy": "Well, everyone. Lend Tim your power!",
-        "tone": ""
+        "tone": "",
+        "claude": "Now everyone. Lend Tim your strength!"
       }
     ]
   },
@@ -313,13 +352,15 @@
         "source": "Narrator",
         "japanese": "テムとカレンの心が重なったとき光とヤミが一つになったときそこに大いなる力が生まれる..",
         "thammy": "When Tim and Karen's hearts laid together, when light and darkness became one, a burgeoning power was born..",
-        "tone": ""
+        "tone": "",
+        "claude": "When Tim and Karen's hearts joined as one, when Light and Darkness became one, a great power was born there..."
       },
       {
         "source": "Narrator",
         "japanese": "光とヤミの戦士がここに数千年の時を越えてよみがえり、ヤミの戦士の究極の力ファイアバードがやどった！！",
         "thammy": "The Warrior of Darkness' ultimate power Firebird dwells here, when the Warrior of Light and Darkness has revived across millennia!",
-        "tone": ""
+        "tone": "",
+        "claude": "The Warriors of Light and Darkness were revived here across thousands of years, and the Warrior of Darkness's ultimate power, Firebird, awakened!!"
       }
     ]
   },
@@ -331,13 +372,15 @@
         "source": "Allman",
         "japanese": "お前たちの戦いが地球の運命を変える。",
         "thammy": "You two, your fight will change the destiny of the Earth.",
-        "tone": ""
+        "tone": "",
+        "claude": "Your battle will change the fate of the Earth."
       },
       {
         "source": "Allman",
         "japanese": "さあいきなさい。すい星へっ！！！",
         "thammy": "Well, please go. To the comet...!!",
-        "tone": ""
+        "tone": "",
+        "claude": "Now go. To the comet!!!"
       }
     ]
   }

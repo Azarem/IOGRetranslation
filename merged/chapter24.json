@@ -7,13 +7,15 @@
         "source": "Tim",
         "japanese": "ぼくらは水上都市ウォータミアにやってきた。イカダの上に家がたちならびそれは美しい町だった。",
         "thammy": "We arrived at the Floating City, Watermia. It was a beautiful town made up of rows of houses that were built on rafts.",
-        "tone": ""
+        "tone": "",
+        "claude": "We arrived at Watermia, the floating city. Houses stood in rows on rafts—it was a beautiful town."
       },
       {
         "source": "Tim",
         "japanese": "町の人々も親切でぼくらはルークという青年の家にとめてもらうことになった。",
         "thammy": "Since the townspeople are nice too, we ended up being given accommodations in the house of a friendly young man named Luke.",
-        "tone": ""
+        "tone": "",
+        "claude": "The townspeople were kind too, and we ended up staying at the home of a young man named Luke."
       }
     ]
   },
@@ -25,13 +27,15 @@
         "source": "Tim",
         "japanese": "そしてここがルークの家。彼は漁師をやっている好青年だ。",
         "thammy": "And here is Luke's house. He's a kind gentleman who works as fisherman.",
-        "tone": ""
+        "tone": "",
+        "claude": "And this is Luke's house. He's a good young man who works as a fisherman."
       },
       {
         "source": "Tim",
         "japanese": "遠洋航海で長期間海に出るためその間家を使わせてもらうことになったというわけだ。",
         "thammy": "He was going out for a long time on an ocean voyage, so he said that we should use his house in the meantime.",
-        "tone": ""
+        "tone": "",
+        "claude": "He's heading out to sea for a long ocean voyage, so we're borrowing his house while he's away."
       }
     ]
   },
@@ -43,25 +47,29 @@
         "source": "Karen",
         "japanese": "カレン：ウォータミアはすごくきれいな町だけどちょっといやなうわさを耳にしたの…",
         "thammy": "Karen: Watermia is an amazingly pretty town, but I've heard some unpleasant gossip...",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: Watermia is a really pretty town, but I've heard some unpleasant rumors..."
       },
       {
         "source": "Karen",
         "japanese": "人の命をもてあそぶとか…なんだとか…",
         "thammy": "Something like playing with people's lives... What was it…?",
-        "tone": ""
+        "tone": "",
+        "claude": "Something about toying with people's lives... or something like that..."
       },
       {
         "source": "Karen",
         "japanese": "花の都もそうだったけど美しいものには必ず裏の顔があるのかしら…",
         "thammy": "I wonder if without exception, beautiful things always have another side.",
-        "tone": ""
+        "tone": "",
+        "claude": "It was like that in Freejia too... I wonder if beautiful things always have a dark side..."
       },
       {
         "source": "Karen",
         "japanese": "花の都もそうだったけど美しいものには必ず裏の顔があるのかしら…",
         "thammy": "It was like that with the Capital of Flowers...",
-        "tone": ""
+        "tone": "",
+        "claude": "It was like that in Freejia too... I wonder if beautiful things always have a dark side..."
       }
     ]
   },
@@ -73,13 +81,15 @@
         "source": "Eric",
         "japanese": "エリック：えへへ。さっきいいもの見つけちゃった。",
         "thammy": "Eric: Eheheh. I found something good just now.",
-        "tone": ""
+        "tone": "",
+        "claude": "Eric: Heh heh. I found something good just now."
       },
       {
         "source": "Eric",
         "japanese": "そとへ出てこの家の裏側を調べてごらんよ。ちょっとばかり良心がとがめるけどね…",
         "thammy": "Take a look behind this house. It'll might hurt your conscience a little, but hey...",
-        "tone": ""
+        "tone": "",
+        "claude": "Go outside and check behind this house. It'll bother your conscience just a little bit, but..."
       }
     ]
   },
@@ -91,13 +101,15 @@
         "source": "Lillie",
         "japanese": "リリィ：ロブはねなんか町の中でだれか知っている人を見かけたんだって。",
         "thammy": "Lillie: Hey, by the way, Rob noticed someone he knows in town.",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: Rob said he saw someone he knows in town."
       },
       {
         "source": "Lillie",
         "japanese": "でその人をさがしに行ったみたいだよ。",
         "thammy": "And it looks like he went looking for them.",
-        "tone": ""
+        "tone": "",
+        "claude": "And it looks like he went to find them."
       }
     ]
   },
@@ -109,7 +121,8 @@
         "source": "Neil",
         "japanese": "ニール：このイカダの家は新たな発明のヒントになりそうだなあ…",
         "thammy": "Neil: These houses on rafts are inspiring me for a new invention...",
-        "tone": ""
+        "tone": "",
+        "claude": "Neil: These raft houses might give me ideas for a new invention..."
       }
     ]
   },
@@ -121,7 +134,8 @@
         "source": "Luke",
         "japanese": "ルーク：やあ。家は気に入ってくれたかい？ぼくが航海にでてるあいだは自由に使ってくれよ。",
         "thammy": "Luke: Yo. Are you taking a liking to the house? You're free to use it when I go out on my voyage.",
-        "tone": ""
+        "tone": "",
+        "claude": "Luke: Hey. You liking the house? Feel free to use it while I'm out on my voyage."
       }
     ]
   },
@@ -133,7 +147,8 @@
         "source": "Narrator",
         "japanese": "カレンの日記がかくしてある…読みますか？ ／ はい ／ いいえ",
         "thammy": "Karen hid her diary here... Read it? / Yes / No",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen's diary is hidden here... Read it? / Yes / No"
       }
     ]
   },
@@ -145,7 +160,8 @@
         "source": "Tim",
         "japanese": "そうだな。勝手に読むのも気がとがめるしやめておこう…",
         "thammy": "I guess that's how it is. I'd feel guilty even if's just selfishly reading it, so I'll pass...",
-        "tone": ""
+        "tone": "",
+        "claude": "That's right. I'd feel guilty reading it without permission, so I'll pass..."
       }
     ]
   },
@@ -157,43 +173,50 @@
         "source": "Karen (diary)",
         "japanese": "X月X日 ／ 長い長い道のりだったけど水の都ウォータミアへやっとたどり着いた。",
         "thammy": "Day X of month X / It's been a long long road, but we finally arrived the Capital of Water, Watermia.",
-        "tone": ""
+        "tone": "",
+        "claude": "Day X, Month X / It's been such a long journey, but we finally made it to Watermia, the floating city."
       },
       {
         "source": "Karen (diary)",
         "japanese": "とちゅうのどがカラカラだったけどがまんしたし、くつずれができたけどハンカチで包帯をしてがんばったわ。",
         "thammy": "I was thirsty along the way, but I endured it. I was developing blisters inside my shoes, but I did my best to bandage them with a handkerchief.",
-        "tone": ""
+        "tone": "",
+        "claude": "My throat was parched along the way, but I endured it. I got blisters on my feet, but I wrapped them with my handkerchief and kept going."
       },
       {
         "source": "Karen (diary)",
         "japanese": "前だったら文句ばっかり言ってたかもしれないけど言わなかった。あたしってこの旅でずいぶん変わったと思う…",
         "thammy": "Maybe I would have just complained before, but I didn't say anything now. I think I've changed dramatically with this journey...",
-        "tone": ""
+        "tone": "",
+        "claude": "I might have just complained before, but I didn't this time. I think I've changed a lot on this journey..."
       },
       {
         "source": "Karen (diary)",
         "japanese": "だれかのためにいっしょうけんめいになれる今の自分がちょっぴり気に入っているの。",
         "thammy": "I've become used to putting in my full effort for the sake of a certain someone. I'm taking a bit of a liking to who I am now.",
-        "tone": ""
+        "tone": "",
+        "claude": "I kind of like who I am now—someone who can give her all for someone else."
       },
       {
         "source": "Karen (diary)",
         "japanese": "さっき町の人からこんな言い伝えを聞いちゃった。",
         "thammy": "I just heard from a townsperson about a legend that's spoken of here.",
-        "tone": ""
+        "tone": "",
+        "claude": "I just heard this legend from someone in town."
       },
       {
         "source": "Karen (diary)",
         "japanese": "「満月の夜にハスの葉の上でおいのりすると好きな人が自分にふりむいてくれる…",
         "thammy": "\"If you make wish while riding a lotus leaf on a full moon night, the person you like will take a close look at you…\"",
-        "tone": ""
+        "tone": "",
+        "claude": "\"If you pray on a lotus leaf on the night of a full moon, the person you like will notice you...\""
       },
       {
         "source": "Karen (diary)",
         "japanese": "すてきな言い伝えよね。そのうちためしてみよっかな…",
         "thammy": "It's a wonderful legend, isn't it? Can't I can try it out soon...?",
-        "tone": ""
+        "tone": "",
+        "claude": "It's such a lovely legend, isn't it? Maybe I'll try it sometime..."
       }
     ]
   },
@@ -205,7 +228,8 @@
         "source": "Kruk",
         "japanese": "キューイキューイ",
         "thammy": "Kyuui kyuui",
-        "tone": ""
+        "tone": "",
+        "claude": "Kyuui kyuui"
       }
     ]
   },
@@ -217,13 +241,15 @@
         "source": "Savvas",
         "japanese": "サーバス：ぼくのお父さんは探険家なんだ。もうじき黄金の船を見つけて来るんだよっ！！",
         "thammy": "Savvas: My dad is an explorer.",
-        "tone": ""
+        "tone": "",
+        "claude": "Savvas: My dad's an explorer. He's gonna find the golden ship and come back soon!!"
       },
       {
         "source": "Savvas",
         "japanese": "サーバス：ぼくのお父さんは探険家なんだ。もうじき黄金の船を見つけて来るんだよっ！！",
         "thammy": "He's going to come back to us soon, right after he discovers the golden ship...!!",
-        "tone": ""
+        "tone": "",
+        "claude": "My dad's an explorer. He's gonna find the golden ship and come back soon!!"
       }
     ]
   },
@@ -235,13 +261,15 @@
         "source": "Nana",
         "japanese": "ナナ：お父さんの最後の手紙を受けとってからもう半年も音さたがないの…",
         "thammy": "Nana: We haven't heard news from our dad even though it's already been half a year since we received his last letter...",
-        "tone": ""
+        "tone": "",
+        "claude": "Nana: It's been half a year since we got Dad's last letter, and we haven't heard anything..."
       },
       {
         "source": "Nana",
         "japanese": "無事だといいのだけれど…",
         "thammy": "It'll be fine so long as he's safe, but...",
-        "tone": ""
+        "tone": "",
+        "claude": "I hope he's safe..."
       }
     ]
   },
@@ -253,13 +281,15 @@
         "source": "Man",
         "japanese": "２年前頭のおかしいじいさんがこの町へやってきたんだ。それ以来バベルの塔がどうとか変なことを口走ってばかりさ。",
         "thammy": "An insane old man arrived in this town two years ago.",
-        "tone": ""
+        "tone": "",
+        "claude": "A crazy old man came to this town two years ago. Ever since, he's been babbling strange things about the Tower of Babel."
       },
       {
         "source": "Man",
         "japanese": "２年前頭のおかしいじいさんがこの町へやってきたんだ。それ以来バベルの塔がどうとか変なことを口走ってばかりさ。",
         "thammy": "He's only blabbering strange things about the tower of Babel and stuff like that since then.",
-        "tone": ""
+        "tone": "",
+        "claude": "A crazy old man came to this town two years ago. Ever since, he's been babbling strange things about the Tower of Babel."
       }
     ]
   },
@@ -271,13 +301,15 @@
         "source": "Child",
         "japanese": "子供：前に万里の長城に行ったときヘビにかまれたんだ…",
         "thammy": "Child: A snake bit me when I went to the Great Wall of China before...",
-        "tone": ""
+        "tone": "",
+        "claude": "Child: A snake bit me when I went to the Great Wall before..."
       },
       {
         "source": "Child",
         "japanese": "このあたりのヘビは一度かみつくとなかなかはなさないんだよ。",
         "thammy": "If the snakes around here land their teeth on you even once, they won't easily let go.",
-        "tone": ""
+        "tone": "",
+        "claude": "The snakes around here don't let go once they bite you."
       }
     ]
   },
@@ -289,7 +321,8 @@
         "source": "Child",
         "japanese": "子供：ヘビにかまれたらめちゃくちゃに走りまわればいいのさ。そしたらポロっと落っこちるよ。",
         "thammy": "Child: If a snake bites you, run in circles randomly. If you do that they'll plop off.",
-        "tone": ""
+        "tone": "",
+        "claude": "Child: If a snake bites you, just run around like crazy. It'll fall right off."
       }
     ]
   },
@@ -301,19 +334,22 @@
         "source": "Man",
         "japanese": "男：万里の長城にはサンドファンガーっていうでっけえむかでが生息してるって話だ。",
         "thammy": "Man: They say that a giant centipede called Sand Fanger inhabits the Great Wall of China.",
-        "tone": ""
+        "tone": "",
+        "claude": "Man: They say a huge centipede called Sand Fanger lives at the Great Wall."
       },
       {
         "source": "Man",
         "japanese": "そいつの体液はどんな病気も直す力があるらしいぜ。",
         "thammy": "It seems that its bodily fluids have the power to cure any kind of disease.",
-        "tone": ""
+        "tone": "",
+        "claude": "Apparently its bodily fluids can cure any disease."
       },
       {
         "source": "Man",
         "japanese": "漢方薬の原料には不気味なもんが多いけど虫の生き血だけは飲みたかねえなあ…",
         "thammy": "Chinese herbal medicine uses a lot of weird things as ingredients but I don't think I'd drink just insect lifeblood...",
-        "tone": ""
+        "tone": "",
+        "claude": "Chinese medicine uses a lot of creepy ingredients, but I sure wouldn't want to drink insect blood..."
       }
     ]
   },
@@ -325,13 +361,15 @@
         "source": "Child",
         "japanese": "子供：いいことを教えてあげる。",
         "thammy": "Child: I'll teach you something good.",
-        "tone": ""
+        "tone": "",
+        "claude": "Child: I'll tell you something good."
       },
       {
         "source": "Child",
         "japanese": "とばく場の右の裏手でしばらく待っててごらん。ハスの葉がやってくるよ。",
         "thammy": "Try waiting behind the gambling house, on the right side. A lotus leaf will arrive.",
-        "tone": ""
+        "tone": "",
+        "claude": "Wait for a while behind the gambling house, on the right side. A lotus leaf will come."
       }
     ]
   },
@@ -343,13 +381,15 @@
         "source": "Woman",
         "japanese": "頭のおかしいおじいさんってすごいしらがだけど本当はまだ若いんですって。",
         "thammy": "The so-called \"crazy old man\" has amazingly white hair but is actually still young.",
-        "tone": ""
+        "tone": "",
+        "claude": "That crazy old man has really white hair, but apparently he's still young."
       },
       {
         "source": "Woman",
         "japanese": "何かよっぽどこわいめに会ったのかしら…",
         "thammy": "I wonder if he saw something that was extremely frightening...",
-        "tone": ""
+        "tone": "",
+        "claude": "I wonder if he saw something really terrifying..."
       }
     ]
   },
@@ -361,13 +401,15 @@
         "source": "Man",
         "japanese": "この町のおくの家には頭がおかしくなっちまったじいさんが住んでるよ。",
         "thammy": "An old man who went insane lives in a house deep in this town.",
-        "tone": ""
+        "tone": "",
+        "claude": "There's an old man who's gone crazy living in a house in the back of town."
       },
       {
         "source": "Man",
         "japanese": "なんでもオールマン探険隊のバベルの塔調査に参加してただとか何だとか。",
         "thammy": "I'm not sure, but I think he participated in the survey of the Tower of Babel by Allman expedition team or something that like that.",
-        "tone": ""
+        "tone": "",
+        "claude": "I heard he was part of the Olman expedition's Tower of Babel survey or something."
       }
     ]
   },
@@ -379,7 +421,8 @@
         "source": "Woman",
         "japanese": "女：ここはウォータミア。家はみんなイカダの上だからひっこしなんて楽なものよ。",
         "thammy": "Woman: This is Watermia. It's really easy to move because everyone's houses are on rafts.",
-        "tone": ""
+        "tone": "",
+        "claude": "Woman: This is Watermia. Moving is so easy when everyone's houses are on rafts."
       }
     ]
   },
@@ -391,13 +434,15 @@
         "source": "Woman",
         "japanese": "女：もうじき赤ちゃんが生まれるの。うちの人ったら楽しみにしちゃってはりきって仕事をしてるわ。",
         "thammy": "Woman: I'm going to have a baby soon.",
-        "tone": ""
+        "tone": "",
+        "claude": "Woman: We're going to have a baby soon. My husband is so excited, he's throwing himself into his work."
       },
       {
         "source": "Woman",
         "japanese": "女：もうじき赤ちゃんが生まれるの。うちの人ったら楽しみにしちゃってはりきって仕事をしてるわ。",
         "thammy": "My husband ended up looking forward to it, so he's diligently working away to support us.",
-        "tone": ""
+        "tone": "",
+        "claude": "We're going to have a baby soon. My husband is so excited, he's throwing himself into his work."
       }
     ]
   },
@@ -409,7 +454,8 @@
         "source": "Man",
         "japanese": "男：ゴホッゴホッなーにちょっとカゼをひいただけさ。",
         "thammy": "Man: *cough* *cough* Wh-what? I've only caught a little cold.",
-        "tone": ""
+        "tone": "",
+        "claude": "Man: *cough* *cough* Wh-what? It's just a little cold."
       }
     ]
   },
@@ -421,7 +467,8 @@
         "source": "Man",
         "japanese": "男：ここはウォータミア。家はみんなイカダの上だからひっこしなんて楽なもんさ。",
         "thammy": "Man: This is Watermia. It's easy to move because everyone's houses are on rafts.",
-        "tone": ""
+        "tone": "",
+        "claude": "Man: This is Watermia. Moving is easy when everyone's houses are on rafts."
       }
     ]
   },
@@ -433,7 +480,8 @@
         "source": "Child",
         "japanese": "子供：ぼくたちはこの水を飲んでこの水でごはんを作ってこの水でせんたくをするんだ。",
         "thammy": "Child: We drink this water, we cook our rice in this water, we wash our clothes with this water.",
-        "tone": ""
+        "tone": "",
+        "claude": "Child: We drink this water, we cook our food with this water, we wash our clothes in this water."
       }
     ]
   },
@@ -445,13 +493,15 @@
         "source": "Woman",
         "japanese": "水は同じ場所にとどまっていないわ。たえまなく動いて自分をきれいにしようとするの。",
         "thammy": "Water doesn't remain in one place. It beautifully moves itself without pause.",
-        "tone": ""
+        "tone": "",
+        "claude": "Water never stays in one place. It moves constantly, always trying to purify itself."
       },
       {
         "source": "Woman",
         "japanese": "わたしたちも水のように生きたいものね…",
         "thammy": "We want to live like water too, you know…?",
-        "tone": ""
+        "tone": "",
+        "claude": "We'd like to live like water too, wouldn't we..."
       }
     ]
   },
@@ -463,7 +513,8 @@
         "source": "Man",
         "japanese": "このハスの葉は定員オーバーだよ。乗るなら他をあたってくれ。",
         "thammy": "This lotus leaf is over capacity. Get another if you want to ride one.",
-        "tone": ""
+        "tone": "",
+        "claude": "This lotus leaf is full. Try another one if you want to ride."
       }
     ]
   },
@@ -475,13 +526,15 @@
         "source": "Man",
         "japanese": "男：この動物はクルックって言うんだ。",
         "thammy": "Man: This animal is called a Krook.",
-        "tone": ""
+        "tone": "",
+        "claude": "Man: This animal is called a Kruk."
       },
       {
         "source": "Man",
         "japanese": "長期間飲まず食わずでも生きていられるから砂ばくをわたるのにちょうどいいんだよ。",
         "thammy": "It's perfect for crossing the desert because it can survive for a long time without drinking or eating.",
-        "tone": ""
+        "tone": "",
+        "claude": "It can survive for a long time without food or water, so it's perfect for crossing the desert."
       }
     ]
   },
@@ -493,13 +546,15 @@
         "source": "Man",
         "japanese": "男：ここはとばく場。子供なのにこんなところへくるとはよっぽどお金に困ってるんだな..",
         "thammy": "Man: This is a gambling house.",
-        "tone": ""
+        "tone": "",
+        "claude": "Man: This is a gambling house. You must really need money if you're coming to a place like this as a kid..."
       },
       {
         "source": "Man",
         "japanese": "男：ここはとばく場。子供なのにこんなところへくるとはよっぽどお金に困ってるんだな..",
         "thammy": "I guess you must be really trouble for money if you're coming to a place like this even though you're a child...",
-        "tone": ""
+        "tone": "",
+        "claude": "This is a gambling house. You must really need money if you're coming to a place like this as a kid..."
       }
     ]
   },
@@ -511,7 +566,8 @@
         "source": "Woman",
         "japanese": "見てのとおりお酒の飲みくらべよ。どっちがかつかかけてるの。",
         "thammy": "As you can see, this is a drinking contest. We're gambling on who will win.",
-        "tone": ""
+        "tone": "",
+        "claude": "As you can see, it's a drinking contest. We're betting on who'll win."
       }
     ]
   },
@@ -523,19 +579,22 @@
         "source": "Man",
         "japanese": "人生なんてかけごとと同じさ。ちょっと判断をまちがえればじごくへの道をまっさかさまだ。",
         "thammy": "It's just like gambling with human life.",
-        "tone": ""
+        "tone": "",
+        "claude": "Life is just like gambling. Make one wrong call and it's straight down the road to hell."
       },
       {
         "source": "Man",
         "japanese": "人生なんてかけごとと同じさ。ちょっと判断をまちがえればじごくへの道をまっさかさまだ。",
         "thammy": "If they make a little mistake in their judgement, they're sent headfirst down the road to hell.",
-        "tone": ""
+        "tone": "",
+        "claude": "Life is just like gambling. Make one wrong call and it's straight down the road to hell."
       },
       {
         "source": "Man",
         "japanese": "人間それを無意識のうちにやってるもんさね。",
         "thammy": "It's something that humans do within their unconscious mind, isn't it?",
-        "tone": ""
+        "tone": "",
+        "claude": "Humans do it unconsciously all the time."
       }
     ]
   },
@@ -547,13 +606,15 @@
         "source": "Woman",
         "japanese": "人の命ってそんなかんたんなものじゃないはず。",
         "thammy": "Human life isn't something easy.",
-        "tone": ""
+        "tone": "",
+        "claude": "Human life shouldn't be treated so lightly."
       },
       {
         "source": "Woman",
         "japanese": "つまらないかけごとで命をそまつにしないようにね。",
         "thammy": "Make sure not to throw your life away with worthless gambling.",
-        "tone": ""
+        "tone": "",
+        "claude": "Don't throw your life away on meaningless gambling."
       }
     ]
   },
@@ -565,7 +626,8 @@
         "source": "Man",
         "japanese": "もし大きな金が欲しいのならこの建物の裏側にうかんでいるイカダへ行ってみるんだな。",
         "thammy": "You can try going to the raft floating behind this building if you want to make big money.",
-        "tone": ""
+        "tone": "",
+        "claude": "If you want to make big money, try going to the raft floating behind this building."
       }
     ]
   },
@@ -577,13 +639,15 @@
         "source": "Man",
         "japanese": "少しばかりの金をかけても大きな金は手に入らないものさ。",
         "thammy": "You can get a lot of money even if you only bet a little.",
-        "tone": ""
+        "tone": "",
+        "claude": "You won't win big money by betting small."
       },
       {
         "source": "Man",
         "japanese": "もし命をかける気があるならばく大な財産が手に入るかもな。",
         "thammy": "I guess if you're willing to bet your life, you can get fabulously rich.",
-        "tone": ""
+        "tone": "",
+        "claude": "But if you're willing to bet your life, you might win a fortune."
       }
     ]
   },
@@ -595,7 +659,8 @@
         "source": "Man",
         "japanese": "うーんうーん",
         "thammy": "Ugh, ugh...",
-        "tone": ""
+        "tone": "",
+        "claude": "Ungh, ungh..."
       }
     ]
   },
@@ -607,7 +672,8 @@
         "source": "Man",
         "japanese": "うおーーーーーっ！まだまだいけるぞっ！！！",
         "thammy": "Raaaaaagh...! I can still keep going...!!",
-        "tone": ""
+        "tone": "",
+        "claude": "Raaaagh! I can still keep going!!!"
       }
     ]
   },
@@ -619,7 +685,8 @@
         "source": "Rob's father",
         "japanese": "ロブの父：ぼくねこないだおともだちとたんけんにいったの。こわかったけどたのしかったあ。",
         "thammy": "Rob's father: Hey, didja know? I just I went exploring with my friends. It was scary, but fuuun!",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob's father: Hey, you know what? I went exploring with my friends the other day. It was scary, but it was so much fun!"
       }
     ]
   },
@@ -631,13 +698,15 @@
         "source": "Rob",
         "japanese": "ロブ：テムまってくれ。おれもいくよ。",
         "thammy": "Rob: Tim... Don't ya remember this guy...?",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob: Tim... You remember this guy, don't ya...?"
       },
       {
         "source": "Rob",
         "japanese": "ロブ：テムまってくれ。おれもいくよ。",
         "thammy": "That's right, it's my old man.",
-        "tone": ""
+        "tone": "",
+        "claude": "That's right—it's my old man."
       }
     ]
   },
@@ -649,13 +718,15 @@
         "source": "Rob",
         "japanese": "ロブ：どうやら頭をやられちまっているみたいだ…",
         "thammy": "Rob: It looks like he may have injured his head...",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob: Looks like his head got messed up..."
       },
       {
         "source": "Rob",
         "japanese": "行方不明のおやじにやっと会えたと思ったらこれだもんな..",
         "thammy": "I was thinkin' that I had finally met my missing old man, but I guess this is how it is...",
-        "tone": ""
+        "tone": "",
+        "claude": "I finally find my missing old man, and this is how it is..."
       }
     ]
   },
@@ -667,19 +738,22 @@
         "source": "Rob",
         "japanese": "ロブ：テムまってくれ。おれもいくよ。",
         "thammy": "Rob: Tim, wait. I'm going too.",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob: Tim, wait. I'm comin' too."
       },
       {
         "source": "Rob",
         "japanese": "今日はこれからリリィのたんじょう日パーティーだしな。暗くなっちゃいられないさ。",
         "thammy": "It's Lillie's birthday party after this, ain't it. We can't be gloomy today.",
-        "tone": ""
+        "tone": "",
+        "claude": "We got Lillie's birthday party comin' up. Can't be all gloomy today."
       },
       {
         "source": "Rob",
         "japanese": "さあ部屋へもどろうぜ。",
         "thammy": "Alright, let's head back ta our room.",
-        "tone": ""
+        "tone": "",
+        "claude": "Come on, let's head back to our room."
       }
     ]
   },
@@ -691,7 +765,8 @@
         "source": "Rob",
         "japanese": "ロブ：さあみんなそろったところでリリィのたんじょう日を祝うとしようか。",
         "thammy": "Rob: Alright, with everyone present, let's try ta celebrate Lillie's birthday.",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob: Alright, now that everyone's here, let's celebrate Lillie's birthday."
       }
     ]
   },
@@ -703,25 +778,29 @@
         "source": "Lillie",
         "japanese": "リリィ：えっ？えっ？みんなあたしのたんじょう日を覚えててくれたの…？",
         "thammy": "Lillie: Wha...? Wha...? Everyone remembered my birthday...?",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: Huh? Huh? Everyone remembered my birthday...?"
       },
       {
         "source": "Eric",
         "japanese": "エリック：あたりまえじゃない！",
         "thammy": "Eric: Isn't it obvious?",
-        "tone": ""
+        "tone": "",
+        "claude": "Eric: Of course!"
       },
       {
         "source": "Eric",
         "japanese": "びっくりさせようと思ってみんなでないしょにしてたんだ。",
         "thammy": "We thought we'd surprise you so we kept it a secret.",
-        "tone": ""
+        "tone": "",
+        "claude": "We wanted to surprise you, so we all kept it a secret."
       },
       {
         "source": "Neil",
         "japanese": "ニール：ほらカレン。あれをもっておいで。",
         "thammy": "Neil: Hey Karen. Bring that out now.",
-        "tone": ""
+        "tone": "",
+        "claude": "Neil: Come on, Karen. Bring it out."
       }
     ]
   },
@@ -733,49 +812,57 @@
         "source": "Karen",
         "japanese": "カレン：はいっ。バースディケーキ！ニールが作ってくれたの。",
         "thammy": "Karen: Got it... It's a birthday cake!",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: Here! It's a birthday cake! Neil made it."
       },
       {
         "source": "Karen",
         "japanese": "カレン：はいっ。バースディケーキ！ニールが作ってくれたの。",
         "thammy": "Neil made it.",
-        "tone": ""
+        "tone": "",
+        "claude": "Here! It's a birthday cake! Neil made it."
       },
       {
         "source": "Neil",
         "japanese": "ニール：ははは。ケーキを作ったのは初めてさ。",
         "thammy": "Neil: Hahaha. It's my first time making a cake.",
-        "tone": ""
+        "tone": "",
+        "claude": "Neil: Hahaha. It's my first time making a cake."
       },
       {
         "source": "Neil",
         "japanese": "飛行機を作るよりずっとむずかしかったよ。",
         "thammy": "It was definitely harder than making an aeroplane.",
-        "tone": ""
+        "tone": "",
+        "claude": "It was way harder than building an airplane."
       },
       {
         "source": "Lillie",
         "japanese": "リリィ：ありがとう…みんな…",
         "thammy": "Lillie: Thank you... Everyone...",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: Thank you... everyone..."
       },
       {
         "source": "Lillie",
         "japanese": "あたし今日は世界でいちばんしあわせな女の子かも。",
         "thammy": "Today, I might be the happiest girl in the world.",
-        "tone": ""
+        "tone": "",
+        "claude": "I might be the happiest girl in the world today."
       },
       {
         "source": "Tim",
         "japanese": "こうしてリリィのささやかなたんじょう日パーティーははじまった。",
         "thammy": "This is how Lillie's modest birthday party began.",
-        "tone": ""
+        "tone": "",
+        "claude": "And so Lillie's modest birthday party began."
       },
       {
         "source": "Tim",
         "japanese": "そしてパーティーが終わるころ..",
         "thammy": "Then, when the party was nearly over...",
-        "tone": ""
+        "tone": "",
+        "claude": "And when the party was drawing to a close..."
       }
     ]
   },
@@ -787,13 +874,15 @@
         "source": "Rob",
         "japanese": "ロブ：リリィさあ。ちょっと話があるんだけどいいかな？",
         "thammy": "Rob: Lillie, hey. I have a little somethin' ta say ta ya; is that okay?",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob: Lillie, hey. I got somethin' I wanna talk to ya about—is that okay?"
       },
       {
         "source": "Rob",
         "japanese": "先に外で待ってる。",
         "thammy": "I'll be waitin' outside.",
-        "tone": ""
+        "tone": "",
+        "claude": "I'll be waitin' outside."
       }
     ]
   },
@@ -805,7 +894,8 @@
         "source": "Lillie",
         "japanese": "リリィ：？？なんだろ？いったい…",
         "thammy": "Lillie: Huh? What in the world is that about…?",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: ?? I wonder what that's about...?"
       }
     ]
   },
@@ -817,7 +907,8 @@
         "source": "Lillie",
         "japanese": "リリィ：ごめんね。ちょっといってくる。",
         "thammy": "Lillie: Sorry. I'll head out for a bit.",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: Sorry. I'll be right back."
       }
     ]
   },
@@ -829,25 +920,29 @@
         "source": "Lillie",
         "japanese": "リリィ：なあに？",
         "thammy": "Lillie: What is it?",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: What is it?"
       },
       {
         "source": "Lillie",
         "japanese": "いつものロブらしくないよ。なんだかかしこまっちゃってさ。",
         "thammy": "You don't seem like your usual self. You're acting humble somehow.",
-        "tone": ""
+        "tone": "",
+        "claude": "You're not acting like yourself. You're being all formal."
       },
       {
         "source": "Rob",
         "japanese": "ロブ：そうだろ。おれも自分が自分じゃないみたいだよ。",
         "thammy": "Rob: I guess that's true. I don't seem like myself ta me, either.",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob: Yeah, I know. I don't feel like myself either."
       },
       {
         "source": "Rob",
         "japanese": "これたんじょう日のプレゼント。いろいろ考えたんだけど気に入ってもらえるかな？",
         "thammy": "Here's a birthday present. I thought o' various things, but I think this yer favourite, ain't it?",
-        "tone": ""
+        "tone": "",
+        "claude": "This is a birthday present. I thought about it a lot, but... I hope ya like it."
       }
     ]
   },
@@ -859,13 +954,15 @@
         "source": "Lillie",
         "japanese": "リリィ：わあ。すごおおい。バラの花たばだっ！",
         "thammy": "Lillie: Wow! This is amaaazing! It's a bouquet of roses...!",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: Wow! This is amaaaazing! A bouquet of roses!"
       },
       {
         "source": "Lillie",
         "japanese": "つぼみのバラ…これから花が開くところなんだね。",
         "thammy": "Rosebuds... These will bloom into flowers, won't they?",
-        "tone": ""
+        "tone": "",
+        "claude": "Rosebuds... They're about to bloom, aren't they?"
       }
     ]
   },
@@ -877,25 +974,29 @@
         "source": "Lillie",
         "japanese": "リリィ：すてきなかおり…",
         "thammy": "Lillie: They have a wonderful aroma...",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: Such a lovely fragrance..."
       },
       {
         "source": "Lillie",
         "japanese": "ありがとう。すっごくうれしい…",
         "thammy": "Thank you. I'm aaamazingly happy...",
-        "tone": ""
+        "tone": "",
+        "claude": "Thank you. I'm so happy..."
       },
       {
         "source": "Rob",
         "japanese": "ロブ：それからさ…プレゼントといっしょにどうしても伝えたい言葉があるんだ…",
         "thammy": "Rob: Also… There are words I want ta convey ta ya together with tha present, any way I can.",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob: And, uh... there's somethin' I really wanna say along with the present..."
       },
       {
         "source": "Lillie",
         "japanese": "リリィ：なあに？",
         "thammy": "Lillie: What?",
-        "tone": ""
+        "tone": "",
+        "claude": "Lillie: What?"
       }
     ]
   },
@@ -907,7 +1008,8 @@
         "source": "Rob",
         "japanese": "ロブ：うん。早口言葉なんかよりずっとむずかしい言葉なんだけど…",
         "thammy": "Rob: Yeah. Tha words are much more difficult than tongue twisters and stuff like that, but...",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob: Yeah. These words are way harder than any tongue twister, but..."
       }
     ]
   },
@@ -919,7 +1021,8 @@
         "source": "Rob",
         "japanese": "ロブ：リリィ…君のことが好きだ…",
         "thammy": "Rob: Lillie... I care about ya a lot...",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob: Lillie... I like you..."
       }
     ]
   },
@@ -931,13 +1034,15 @@
         "source": "Rob",
         "japanese": "ロブ：すぐ返事をしてくれなくてもいい…",
         "thammy": "Rob: It's okay if ya don't reply immediately…",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob: Ya don't have to answer right away..."
       },
       {
         "source": "Rob",
         "japanese": "でもさ自分の気持ちを伝えておきたかったんだ…",
         "thammy": "But I wanted ta convey my own feelings ta ya...",
-        "tone": ""
+        "tone": "",
+        "claude": "But I wanted to tell ya how I feel..."
       }
     ]
   },
@@ -949,7 +1054,8 @@
         "source": "Rob",
         "japanese": "ロブ：リリィ！まってくれっ！！",
         "thammy": "Rob: Lillie! Please wait...!!",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob: Lillie! Wait!!"
       }
     ]
   },
@@ -961,13 +1067,15 @@
         "source": "Tim",
         "japanese": "テム：そんな事件があったなんてぼくらはちっとも知らなかった。",
         "thammy": "Tim: We didn't know that an incident like that had happened at all.",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: We had no idea that had happened."
       },
       {
         "source": "Tim",
         "japanese": "その日リリィは部屋へもどってこなかった…",
         "thammy": "Lillie didn't come back to our room that day...",
-        "tone": ""
+        "tone": "",
+        "claude": "That day, Lillie didn't come back to the room..."
       }
     ]
   },
@@ -979,13 +1087,15 @@
         "source": "Tim",
         "japanese": "テム：そして翌朝….",
         "thammy": "Tim: Then, the following morning…",
-        "tone": ""
+        "tone": "",
+        "claude": "Tim: And the next morning..."
       },
       {
         "source": "Tim",
         "japanese": "目がさめたときロブの姿も消えていた…",
         "thammy": "When my eyes opened, there was no sign of Rob...",
-        "tone": ""
+        "tone": "",
+        "claude": "When I woke up, Rob was gone too..."
       }
     ]
   },
@@ -997,7 +1107,8 @@
         "source": "Karen",
         "japanese": "カレン：ロブとリリィどうしたのかしら。心配よね…",
         "thammy": "Karen: I wonder what happened to Rob and Lillie. I'm worried...",
-        "tone": ""
+        "tone": "",
+        "claude": "Karen: I wonder what happened to Rob and Lillie. I'm worried..."
       }
     ]
   },
@@ -1009,55 +1120,64 @@
         "source": "Narrator",
         "japanese": "ロブのてがみ ／ ロブからのテムにあてられたてがみ。",
         "thammy": "Rob's letter / A letter from Rob addressed to Tim.",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob's Letter / A letter from Rob addressed to Tim."
       },
       {
         "source": "Narrator",
         "japanese": "ロブの手紙を開いた。",
         "thammy": "Opened Rob's letter.",
-        "tone": ""
+        "tone": "",
+        "claude": "Opened Rob's letter."
       },
       {
         "source": "Rob",
         "japanese": "ロブ：おれはちょっと万里の長城まで行ってくる。",
         "thammy": "Rob: I'm going ta tha Great Wall o' China fer a little bit.",
-        "tone": ""
+        "tone": "",
+        "claude": "Rob: I'm headin' out to the Great Wall for a bit."
       },
       {
         "source": "Rob",
         "japanese": "みんなにはないしょのつもりだったけどテムにだけは伝えておこうと思う…",
         "thammy": "I had intended ta keep this a secret from everyone, but I thought I'd only tell you...",
-        "tone": ""
+        "tone": "",
+        "claude": "I was gonna keep it secret from everyone, but I figured I'd at least tell you..."
       },
       {
         "source": "Rob",
         "japanese": "テムの荷物の中にこの手紙を入れとくけど気づいてくれたかな。テムはにぶいからな。",
         "thammy": "I'll put this letter in yer luggage, but I wonder if you'll notice. I think yer pretty dumb, after all.",
-        "tone": ""
+        "tone": "",
+        "claude": "I'm puttin' this letter in your bag, but I wonder if you'll notice. You can be pretty dense, after all."
       },
       {
         "source": "Rob",
         "japanese": "町の人の話からおやじの病気を直す方法がわかったんだ…万里の長城にその薬があるらしい。",
         "thammy": "I learned a method ta cure my old man's disease from tha townspeople's stories...",
-        "tone": ""
+        "tone": "",
+        "claude": "I learned how to cure my old man's sickness from talkin' to people in town... Apparently the medicine's at the Great Wall."
       },
       {
         "source": "Rob",
         "japanese": "町の人の話からおやじの病気を直す方法がわかったんだ…万里の長城にその薬があるらしい。",
         "thammy": "It seems like that medicine is at tha Great Wall o' China.",
-        "tone": ""
+        "tone": "",
+        "claude": "I learned how to cure my old man's sickness from talkin' to people in town... Apparently the medicine's at the Great Wall."
       },
       {
         "source": "Rob",
         "japanese": "道のりは長いけどマラソンでもするつもりで行ってくるよ。心配しないでくれ。",
         "thammy": "Tha path is long, but I'll just run it like a marathon and be right back. Don't worry.",
-        "tone": ""
+        "tone": "",
+        "claude": "It's a long way, but I'll treat it like a marathon and be back before ya know it. Don't worry."
       },
       {
         "source": "Rob",
         "japanese": "追しん：あそうそう…リリィにふられちまったよ。",
         "thammy": "P.S.: Ah, that's right, I nearly forgot... Lillie ended up turnin' me down.",
-        "tone": ""
+        "tone": "",
+        "claude": "P.S.: Oh yeah... Lillie turned me down."
       }
     ]
   },
@@ -1069,19 +1189,22 @@
         "source": "Man",
         "japanese": "命をかけた人生最大のかけごとロシアングラスは毎月満月の夜に行われるのさ。",
         "thammy": "Every month on a full moon night, people play Russian glass.",
-        "tone": ""
+        "tone": "",
+        "claude": "Russian Glass, the ultimate gamble where you bet your very life, is held every full moon night."
       },
       {
         "source": "Man",
         "japanese": "命をかけた人生最大のかけごとロシアングラスは毎月満月の夜に行われるのさ。",
         "thammy": "It's the ultimate form of gambling where you bet your very life.",
-        "tone": ""
+        "tone": "",
+        "claude": "Russian Glass, the ultimate gamble where you bet your very life, is held every full moon night."
       },
       {
         "source": "Man",
         "japanese": "でもぼうやはまだ若い。わざわざ命をすてることはないと思うけどな。",
         "thammy": "But you're still young, little boy. I definitely don't think you should be throwing your life away.",
-        "tone": ""
+        "tone": "",
+        "claude": "But you're still young, kid. I don't think you should be throwing your life away."
       }
     ]
   }
