@@ -1,4 +1,4 @@
-# ILLUSION OF GAIA: RETRANSLATED v1.41
+# ILLUSION OF GAIA: RETRANSLATED v1.43
 
 Copyright 2024-2025 by GaiaLabs  
 https://github.com/Azarem/IOGRetranslation  
@@ -25,15 +25,22 @@ Download the most recent version of the patch. There are three title variants to
 
 ### **Original Title Screen**
 ![Original Title](https://i.ibb.co/Xr0RHhXp/Gaia-Labs-135.png)  
-Download Link: [iog_rxlt_141_original_title.bps](https://github.com/Azarem/IOGRetranslation/releases/download/iog_rxlt_141/iog_rxlt_141_original_title.bps)
+Download Link: [iog_rxlt_143_original_title.bps](https://github.com/Azarem/IOGRetranslation/releases/download/iog_rxlt_143/iog_rxlt_143_original_title.bps)
 
 ### **Enhanced Title Screen**
 ![Enhanced Title](https://i.ibb.co/chn3nvg5/Gaia-Labs-136.png)  
-Download Link: [iog_rxlt_141_enhanced_title.bps](https://github.com/Azarem/IOGRetranslation/releases/download/iog_rxlt_141/iog_rxlt_141_enhanced_title.bps)
+Download Link: [iog_rxlt_143_enhanced_title.bps](https://github.com/Azarem/IOGRetranslation/releases/download/iog_rxlt_143/iog_rxlt_143_enhanced_title.bps)
 
 ### **Hybrid Title Screen**
 ![Hybrid Title](https://i.ibb.co/KcMGgGYY/Gaia-Labs-138.png)  
-Download Link: [iog_rxlt_141_hybrid_title.bps](https://github.com/Azarem/IOGRetranslation/releases/download/iog_rxlt_141/iog_rxlt_141_hybrid_title.bps)
+Download Link: [iog_rxlt_143_hybrid_title.bps](https://github.com/Azarem/IOGRetranslation/releases/download/iog_rxlt_143/iog_rxlt_143_hybrid_title.bps)
+
+### **Demo Title Screen**
+![Demo Title]([https://i.ibb.co/WvnLT2BY/iog-rxlt-143-demo-title.png)  
+Download Link: [iog_rxlt_143_demo_title.bps](https://github.com/Azarem/IOGRetranslation/releases/download/iog_rxlt_143/iog_rxlt_143_demo_title.bps)
+
+
+https://ibb.co/WvnLT2BY
 
 To use one of these patches: download FLIPS, Beat, or use the Online Rom Patcher:
 
@@ -69,6 +76,19 @@ https://www.zeldix.net/t1607-msu1-getting-started-guide
 
 ---
 ## 4.) What's New?
+
+### **Patch Notes (v1.43)**
+
+☄ Graphics: Title scren from the Prototype/Demo is now available, both as an option in the Rom Generator and as a pre-compiled release patch.  
+☄ Extras: The ROM Generator allows the player to disable the spotlight on Shira during the dream sequence. (Default: Off)  
+
+
+
+### **Patch Notes (v1.42)**: Micro Patch
+
+☄ JP Content: The ROM Generator allows the player to choose whether or not to use original purple palette for the Diamond Mine walls. (Default: Off)  
+
+
 
 ### **Patch Notes (v1.41)**
 
