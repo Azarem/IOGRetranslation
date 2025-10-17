@@ -36,11 +36,9 @@ Download Link: [iog_rxlt_143_enhanced_title.bps](https://github.com/Azarem/IOGRe
 Download Link: [iog_rxlt_143_hybrid_title.bps](https://github.com/Azarem/IOGRetranslation/releases/download/iog_rxlt_143/iog_rxlt_143_hybrid_title.bps)
 
 ### **Demo Title Screen**
-![Demo Title]([https://i.ibb.co/WvnLT2BY/iog-rxlt-143-demo-title.png)  
+![Demo Title](https://i.ibb.co/1GZkSmRw/iog-rxlt-143-demo-title.png)  
 Download Link: [iog_rxlt_143_demo_title.bps](https://github.com/Azarem/IOGRetranslation/releases/download/iog_rxlt_143/iog_rxlt_143_demo_title.bps)
 
-
-https://ibb.co/WvnLT2BY
 
 To use one of these patches: download FLIPS, Beat, or use the Online Rom Patcher:
 
