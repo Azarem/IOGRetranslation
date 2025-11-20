@@ -8,8 +8,8 @@ widestring_04BE05 `[TPL:0][TPL:F]Around when I left the[N]coastal cave, the sky 
 ------------------------
 ?INCLUDE 'jeweler_gem'
 ------------------------
-widestring_08D2D0 `[CLR]Whoops, the number of[N]jewels you've collected[N]have passed 3, haven't[N]they…![FIN]Going by the list, I'll[N]give you a Medicinal Herb.[FIN]`
-widestring_08D31A `Received a Medicinal Herb[N]from the jewel merchant![FIN]`
+widestring_08D2D0 `[TPL:16][TPL:F]Whoops, the number of[N]jewels you've collected[N]have passed 3, haven't[N]they…![FIN][CLD][TPL:16][TPL:D]Going by the list, I'll[N]give you a Medicinal Herb.[FIN][CLD]`
+widestring_08D31A `[TPL:16][TPL:D]Received a Medicinal Herb[N]from the jewel merchant![FIN]`
 
 ------------------------
 ?INCLUDE 'sc06_hamlet'
@@ -96,4 +96,3 @@ widestring_04B3DF `[TPL:4][TPL:A][NAM:4]: Today is a holiday[N]from the lessons 
 widestring_048612 `[TPL:16][TPL:F]Huh? You say that King[N]Edward summoned for you[N]to go to the castle?[N]Well, go and take care.[END]`
 
 widestring_048647 `[TPL:16][TPL:8]Take care, huh?[END]`
-
