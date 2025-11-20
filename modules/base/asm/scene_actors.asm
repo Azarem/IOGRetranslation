@@ -4954,7 +4954,7 @@ event_def_0CE1DD [
     actor < #00, #00, #00, @h_actor_00EAED >   ;01
     actor < #01, #82, #00, @h_actor_00E9EC >   ;02
     actor < #00, #01, #00, @h_sE6_gaia >   ;03
-  ], `[NAM:F]` >   ;00
+  ], `Dark Space` >   ;00
 ]
 
 event_def_0CE202 [
@@ -5035,7 +5035,7 @@ event_def_0CE3CD [
     actor < #05, #0A, #00, @h_player_character >   ;00
     actor < #00, #00, #00, @h_actor_00EAED >   ;01
     actor < #03, #86, #00, @h_actor_00E9EC >   ;02
-  ], `[NAM:F]` >   ;00
+  ], `Dark Space` >   ;00
 ]
 
 event_def_0CE3EB [
@@ -5043,7 +5043,7 @@ event_def_0CE3EB [
     actor < #05, #0A, #00, @h_player_character >   ;00
     actor < #00, #00, #00, @h_actor_00EAED >   ;01
     actor < #01, #82, #00, @h_actor_00E9EC >   ;02
-  ], `[NAM:F]` >   ;00
+  ], `Dark Space` >   ;00
 ]
 
 event_def_0CE409 [
@@ -5051,7 +5051,7 @@ event_def_0CE409 [
     actor < #05, #0A, #00, @h_player_character >   ;00
     actor < #00, #00, #00, @h_actor_00EAED >   ;01
     actor < #01, #82, #00, @h_actor_00E9EC >   ;02
-  ], `[NAM:F]` >   ;00
+  ], `Dark Space` >   ;00
 ]
 
 event_def_0CE427 [
@@ -5059,7 +5059,7 @@ event_def_0CE427 [
     actor < #05, #0A, #00, @h_player_character >   ;00
     actor < #00, #00, #00, @h_actor_00EAED >   ;01
     actor < #01, #82, #00, @h_actor_00E9EC >   ;02
-  ], `[NAM:F]` >   ;00
+  ], `Dark Space` >   ;00
 ]
 
 event_def_0CE445 [
@@ -5067,7 +5067,7 @@ event_def_0CE445 [
     actor < #05, #0A, #00, @h_player_character >   ;00
     actor < #00, #00, #00, @h_actor_00EAED >   ;01
     actor < #01, #82, #00, @h_actor_00E9EC >   ;02
-  ], `[NAM:F]` >   ;00
+  ], `Dark Space` >   ;00
 ]
 
 event_def_0CE463 [
