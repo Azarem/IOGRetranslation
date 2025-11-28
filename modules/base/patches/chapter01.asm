@@ -53,13 +53,12 @@ widestring_048D3A `[TPL:4][TPL:A][NAM:4]: Alright! Then same[N]as always, we'll 
 ----------------------
 widestring_08DD0B `[TPL:17][TPL:E][DLY:0]I am Gaia, fountainhead of[N]life. Henceforth, I shall[N]offer aid in thy journey.[FIN][TPL:F]Only those in whom the[N]Power of Darkness dwells[N]can see this space.[N]Thou art such a human.[FIN]Here in the Dark Space,[N]thou canst make record of[N]thy adventure. Pray drop[N]by during thy travels.[FIN]`
 widestring_08DDCB `[TPL:17][TPL:F]What sayest thou? Record[N]thy adventure thus far?[N][PAL:0] Record[N] Don't record`
-widestring_08DDFE `[CLR][PAL:4]It is done.[FIN]Shalt thou still continue[N]with thy journey? [N][PAL:0] Yes[N] No`
-widestring_08DE43 `[CLR][PAL:4]Thou shouldst now continue[N]forth upon thy journey.[END]`
+widestring_08DE43 `[CLD][PAU:27][TPL:17][TPL:D]Thou shouldst now continue[N]forth upon thy journey.[END]`
 
 ------------------------
 ?INCLUDE 'sc01_roof_man'
 ------------------------
-widestring_0484B7 `[TPL:16][TPL:E]Come on, [NAM:0]. How many[N]times do I have to tell[N]you not to come up here?[FIN][TPL:F]You've got this habit of[N]jumping from all sorts of[N]places… I can't help[N]worrying about you. *sigh*[END]`
+widestring_0484B7 `[TPL:16][TPL:E]Come on, [NAM:0]. How many[N]times do I have to tell[N]you not to come up here?[FIN]You've got this habit of[N]jumping down from all[N]sorts of places… (sigh)[FIN][CLD][TPL:16][TPL:D]I can't help worrying[N]about you.[END]`
 
 ------------------------
 ?INCLUDE 'sc01_sprint_man'
@@ -70,12 +69,20 @@ widestring_04923D `[TPL:16][TPL:E]You seem like you've got[N]pretty fast feet, h
 ?INCLUDE 'jeweler_gem'
 ------------------------
 widestring_08D094 `[TPL:16][TPL:D]I am Gem, a jeweler who[N]travels the seven seas.[FIN]`
-widestring_08D0C8 `[TPL:E]Right now, the number of[N]red jewels I'm holding for[N]you is [BCD:2,AB0].[FIN]`
+widestring_08D0C8 `[TPL:16][TPL:E]Right now, the number of[N]red jewels I'm holding for[N]you is [PAL:0][BCD:2,AB0][PAL:4].[FIN]`
 widestring_08D0F1 `[TPL:16][TPL:F]Good day to you.[N]What is it that you want?[N][PAL:0] Just wanted to see you.[N] Deposit red jewels.[N] Show me your goods.`
 widestring_08D139 `[CLD][TPL:16][TPL:D]Is that so? Well then,[N]good day to you.[FIN][TPL:E]Incidentally, if you lift[N]a red jewel, it will fly[N]to my location, you know.[FIN]Now let me be frank with[N]you. I'm a master of[N]disguise, believe you me.[FIN]Even were you to see me in[N]another town, you might[N]not recognize me.[END]
 widestring_08D1E0 `[CLD][TPL:16][TPL:E]Ah, but you don't have any[N]jewels. I suppose it's the[N]thought that counts![END]`
-widestring_08D20F `[CLD][TPL:16][TPL:E]Hmmm… This is a truly[N]excellent jewel, don't[N]you agree?[FIN]I'm going to look after[N]it with the utmost care,[N]I assure you![FIN]With this, the total[N]number of jewels should[N]be [BCD:2,AB0] altogether.[FIN]`
+widestring_08D20F `[CLD][TPL:16][TPL:E]Hmmm… This is a truly[N]excellent jewel, don't[N]you agree?[FIN]I'm going to look after[N]it with the utmost care,[N]I assure you![FIN]With this, the total[N]number of jewels should[N]be [PAL:0][BCD:2,AB0][PAL:4] altogether.[FIN]`
 widestring_08D267 `[CLD][TPL:16][TPL:E]When you collect enough[N]jewels, I'll give you the[N]goods on this list.[END]`
+widestring_08D2D0 `[CLD][TPL:16][TPL:E]Well hey, looks like[N]you've surpassed [PAL:0]3[PAL:4] jewels,[N]haven't you![FIN][CLD][TPL:16][TPL:D]According to the list, you[N]get a Medicinal Herb.[FIN]`
+widestring_08D31A `[CLD][TPL:16][TPL:D]Received a Medicinal Herb[N]from the jewel merchant![FIN]`
+;widestring_08D332 `[CLR][LU1:67]collected [LU1:BE][N]five [LU1:23]According to[N]the list, [LU1:FE]Defense [N][LU2:25][LU1:EF]be raised. [FIN][LU1:68]Defense [LU2:25]is[N][LU1:C5]by one.[FIN]`
+;widestring_08D395 `[CLR][LU1:67]collected over, [N]eight [LU1:23]According to[N]the list, [LU1:FE]Life [N][LU2:25][LU1:EF]be raised. [FIN][LU1:68]Strength is[N][LU1:C5]by one.[FIN]`
+;widestring_08D3F9 `[CLR][LU1:67]collected [LU1:BE][N]12 [LU1:23]According to [N]the list, [LU1:FE]Strength [N][LU1:EF]be raised. [FIN][LU1:68]Attack [LU2:25]is[N][LU1:C5]by one.[FIN]`
+;widestring_08D459 `[CLR][LU1:67]collected [LU1:BE][N]20 [LU1:23]According to [N]the list, [LU1:FE][LU1:3C][N][LU2:25][LU1:EF]be raised. [FIN][LU1:1D]a mysterious power[N]given by the spirit.[FIN][LU1:68][LU1:3C]Dash Power[N]is increased.[FIN]`
+;widestring_08D4E3 `[CLR][LU1:67]collected [LU1:BE][N]30 [LU1:23]According to [N]the list, [LU1:FE][LU1:C][N][LU2:25][LU1:EF]be raised. [FIN][LU1:1D]a mysterious power[N]given by the spirit.[FIN]The [LU1:C]Friar's power[N]is increased.[FIN]Try pushing the[N]Attack [LU2:2]once more[N][LU1:F6]the [LU1:C]Friar[N]is flying.[FIN]`
+;widestring_08D5AE `[CLR]50... Suddenly[N]you've gathered[N]50 Red Jewels...[FIN]The [LU1:DF]has [LU1:79]to[N][LU2:AD]you [LU1:D0]of[N]my secrets.[FIN]Follow me!![END]`
 widestring_08D617 `[DLG:3,B][SIZ:9,7][CLR][SFX:0]`
 widestring_08D621 `Medicinal Herb:  3[N][PAL:0]`
 widestring_08D636 `Defense Force:   5[N][PAL:0]`
@@ -106,6 +113,7 @@ widestring_04871E `[TPL:16][TPL:F]I'm getting worried about[N]all of these stran
 widestring_04BD1B `[TPL:0][TPL:F]This is my house. There's[N]a nice smell wafting by.[N]Grandma [NAM:6] must be[N]baking one of her pies.[END]`
 widestring_04BD5F `[TPL:0][TPL:F]This is my best friend[N][NAM:4]'s house. He and his[N]frail mother live here,[N]just the two of them.[END]`
 widestring_04BD9B `[TPL:0][TPL:D]Here's where my friend[N][NAM:3] lives.[FIN][TPL:F]This house is the biggest[N]in South Cape. I admit I[N]feel a bit jealous of[N]people born into money…[END]`
+
 ------------------------
 ?INCLUDE 'sc01_salesman'
 ------------------------
