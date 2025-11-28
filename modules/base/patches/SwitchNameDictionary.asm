@@ -22,7 +22,7 @@ name_dictionary_en [
     &name_imas_en         ;0C
     &name_mystic_en       ;0D
     &name_statue_en       ;0E
-    &name_statue_game_en  ;0F
+    &name_game_en         ;0F
     &name_friar_en        ;10
     &name_freedan_en      ;11
     &name_freejia_en      ;12
@@ -30,6 +30,10 @@ name_dictionary_en [
     &name_rama_en         ;14
     &name_kruk_en         ;15
     &name_jackal_en       ;16
+    &name_meal1_en        ;17
+    &name_meal2_en        ;18
+    &name_meal3_en        ;19
+    &name_meal4_en        ;1A
 ]
 
 name_will_en          `Will`
@@ -47,7 +51,7 @@ name_remus_en         `Remus`
 name_imas_en          `Imas`
 name_mystic_en        `Mystic`
 name_statue_en        `Statue`
-name_statue_game_en   `Statue Game`
+name_game_en          `Statue Game`
 name_friar_en         `Friar`
 name_freedan_en       `Freedan`
 name_freejia_en       `Freejia`
@@ -55,58 +59,70 @@ name_euro_en          `City of`
 name_rama_en          `Rama`
 name_kruk_en          `Kruk`
 name_jackal_en        `Jackal`
+name_meal1_en         `, licorice and`
+name_meal2_en         `mouse fritters`
+name_meal3_en         `snail`
+name_meal4_en         `marsupial`
 
 ---------------------------------------------
 
 name_dictionary_jp [
-    &name_will_jp               ;00
-    &name_kara_jp               ;01
-    &name_lily_jp               ;02
-    &name_erik_jp               ;03
-    &name_lance_jp              ;04
-    &name_seth_jp               ;05
-    &name_lola_jp               ;06
-    &name_hamlet_jp             ;07
-    &name_shira_jp              ;08
-    &name_olman_jp              ;09
-    &name_sam_jp                ;0A
-    &name_remus_jp              ;0B
-    &name_imas_jp               ;0C
-    &name_mystic_jp             ;0D
-    &name_statue_jp             ;0E
-    &name_daruma_doll_jp        ;0F
-    &name_friar_jp              ;10
-    &name_freedan_jp            ;11
-    &name_freesia_jp            ;12
-    &name_euro_jp               ;13
-    &name_ramu_jp               ;14
-    &name_krook_jp              ;15
-    &name_jackal_jp             ;16
+    &name_will_jp         ;00
+    &name_kara_jp         ;01
+    &name_lily_jp         ;02
+    &name_erik_jp         ;03
+    &name_lance_jp        ;04
+    &name_seth_jp         ;05
+    &name_lola_jp         ;06
+    &name_hamlet_jp       ;07
+    &name_shira_jp        ;08
+    &name_olman_jp        ;09
+    &name_sam_jp          ;0A
+    &name_remus_jp        ;0B
+    &name_imas_jp         ;0C
+    &name_mystic_jp       ;0D
+    &name_statue_jp       ;0E
+    &name_game_jp         ;0F
+    &name_friar_jp        ;10
+    &name_freedan_jp      ;11
+    &name_freesia_jp      ;12
+    &name_euro_jp         ;13
+    &name_ramu_jp         ;14
+    &name_krook_jp        ;15
+    &name_jackal_jp       ;16
+    &name_meal1_jp        ;17
+    &name_meal2_jp        ;18
+    &name_meal3_jp        ;19
+    &name_meal4_jp        ;1A
 ]
 
-name_will_jp                `Tim`
-name_kara_jp                `Karen`
-name_lily_jp                `Lillie`
-name_erik_jp                `Eric`
-name_lance_jp               `Rob`
-name_seth_jp                `Morris`
-name_lola_jp                `Laura`
-name_hamlet_jp              `Peggy`
-name_shira_jp               `Sheila`
-name_olman_jp               `Allman`
-name_sam_jp                 `Sahmuus`
-name_remus_jp               `Rehmuus`
-name_imas_jp                `Ihmuus`
-name_mystic_jp              `Mystery`
-name_statue_jp              `Doll`
-name_daruma_doll_jp         `Daruma Doll Fell Over`
-name_friar_jp               `Fryer`
-name_freedan_jp             `Friedan`
-name_freesia_jp             `Freesia`
-name_euro_jp                `Metropolis`
-name_ramu_jp                `Ra Mu`
-name_krook_jp               `Krook`
-name_jackal_jp              `Black Panther`
+name_will_jp          `Tim`
+name_kara_jp          `Karen`
+name_lily_jp          `Lillie`
+name_erik_jp          `Eric`
+name_lance_jp         `Rob`
+name_seth_jp          `Morris`
+name_lola_jp          `Laura`
+name_hamlet_jp        `Peggy`
+name_shira_jp         `Sheila`
+name_olman_jp         `Allman`
+name_sam_jp           `Sahmuus`
+name_remus_jp         `Rehmuus`
+name_imas_jp          `Ihmuus`
+name_mystic_jp        `Mystery`
+name_statue_jp        `Doll`
+name_game_jp          `Daruma Doll Fell Over`
+name_friar_jp         `Fryer`
+name_freedan_jp       `Friedan`
+name_freesia_jp       `Freesia`
+name_euro_jp          `Metropolis`
+name_ramu_jp          `Ra Mu`
+name_krook_jp         `Krook`
+name_jackal_jp        `Black Panther`
+name_meal1_jp         `was miso`
+name_meal2_jp         `sashimi curry`
+name_meal3_jp         `meat`
+name_meal4_jp         `apple`
 
 ---------------------------------------------
 
