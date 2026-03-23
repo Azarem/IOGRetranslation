@@ -29,6 +29,14 @@
       },
       {
         "source": "Tim",
+        "japanese": "父さんが死んだなんて今だに信じられない。いや信じるつもりもない…",
+        "thammy": "Even now, I can't believe that dad died or anything like that. No, I don't even intend to believe it...",
+        "tone": "",
+        "claude": "",
+        "claude-german": ""
+      },
+      {
+        "source": "Tim",
         "japanese": "ぼくは大きくなったら探検家になって世界中をかけめぐるつもりだ。",
         "thammy": "When I grow up, I'm going to become an explorer, just like him, and travel around the world.",
         "tone": "",
