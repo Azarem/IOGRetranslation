@@ -10,8 +10,9 @@
 ------------------------------------------------
 ?INCLUDE 'system_strings'
 ------------------------------------------------
-asciistring_01DA47 |[NHM:4][CUR:90,3]PUSH START BUTTON|
-asciistring_01DA5E |[NHM:0][CUR:D4,2]RETRANSLATED[NHM:0][CUR:08,6](C) 1994  QUINTET/ENIX[CUR:48,6]MARIKO OHARA/MOTO HAGIO[CUR:8E,6]YASUHIRO KAWASAKI|
+asciistring_01DA47 |[NHM:4][CUR:50,4]PUSH START BUTTON|
+;string_01DA5E |[NHM:4][CUR:55,3]RETRANSLATED|
+asciistring_01DA5E |[NHM:0][CUR:9C,3]RETRANSLATED[NHM:0][CUR:08,6](C) 1994  QUINTET/ENIX[CUR:48,6]MARIKO OHARA/MOTO HAGIO[CUR:8E,6]YASUHIRO KAWASAKI|
 
 ------------------------------------------------
 ?INCLUDE 'scene_meta'
@@ -27,7 +28,7 @@ entry_FC [
   tilemap < #02, @map_title_effect >
   bitmap < #00, #10, #10, @gfx_title_actors, #01 >
   palette < #00, #60, #A0, @pal_title_actors >
-  spritemap < #$0254, #00, @spm_title_actors >
+  spritemap < #$04F4, #00, @spm_title_actors >
 ]
 
 ------------------------------------------------
@@ -41,8 +42,6 @@ thinker_0CEB2F [
   thinker < #24, @parallax_thinker >
   ;thinker < #00, @thinker_00BC91 >
 ]
-
-
 
 ------------------------------------------------
 ?INCLUDE 'sFC_actor_0BC924'
@@ -58,13 +57,18 @@ e_sFC_actor_0BC924 {
     COP [A0] ( @code_0BC933, #$0060, #$00B6, #$1800 )
     COP [A0] ( @code_0BC945, #$0080, #$00B6, #$1800 )
     COP [A0] ( @code_0BC957, #$00A0, #$00B6, #$1800 )
+    COP [A0] ( @code_0BC988, #$0048, #$0048, #$1800 )
     SEP #$20
     LDA #$17
     STA $_TM
     REP #$20
+    LDA #$0804
+    STA $064A
+    COP [DA] ( #B3 )
     COP [BD] ( @asciistring_01DA5E )
+    COP [DA] ( #77 )
     COP [BD] ( @asciistring_01DA47 )
-    COP [DB] ( #$0B7B )
+    COP [DB] ( #$09D3 )
     COP [CC] ( #F4 )
     LDA #$0804
     STA $064A
@@ -109,6 +113,14 @@ code_0BC969 {
     COP [B6] ( #30 )
     COP [C1]
     COP [80] ( #03 )
+    COP [89]
+    RTL 
+}
+
+code_0BC988 {
+    COP [B6] ( #20 )
+    COP [C1]
+    COP [80] ( #04 )
     COP [89]
     RTL 
 }

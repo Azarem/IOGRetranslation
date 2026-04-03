@@ -1,6 +1,6 @@
 import { useState, useCallback } from 'react';
-import { RomGenerator } from '@gaialabs/core';
-import { ChunkFile, BinType } from '@gaialabs/shared';
+import { DbFileType, RomGenerator } from '@gaialabs/core';
+import { ChunkFile, BinType } from '@gaialabs/core';
 import { RomGenerationProgress } from '../types';
 import './RomBuilder.css';
 
@@ -9,6 +9,8 @@ interface RomBuilderProps {
   projectName: string;
   folderFiles: ChunkFile[];
   unshiftManualFiles?: boolean;
+  fileTypes: DbFileType[];
+  expectedCrc: number;
   onBuildComplete: (romData: Uint8Array) => void;
   onBuildError: (error: string) => void;
 }
@@ -18,6 +20,8 @@ export function RomBuilder({
   projectName,
   folderFiles,
   unshiftManualFiles = false,
+  fileTypes,
+  expectedCrc,
   onBuildComplete,
   onBuildError
 }: RomBuilderProps) {
@@ -71,10 +75,13 @@ export function RomBuilder({
       const projectName = process?.env?.PROJECT_NAME || 'Illusion of Gaia: Retranslated';
 
       // Create RomGenerator instance
-      const romGenerator = new RomGenerator(projectName);
+      const romGenerator = new RomGenerator(projectName, expectedCrc);
 
-      await romGenerator.initialize();
-      await romGenerator.validateAndDownload(romData);
+      const isValid = await romGenerator.validateAndDownload(romData);
+      if(!isValid) {
+        onBuildError('ROM file is not valid');
+        return;
+      }
 
       setProgress({ stage: 'Generating', progress: 30, message: 'Generating project...' });
 
@@ -87,7 +94,7 @@ export function RomBuilder({
       if (notepadContent) {
         const notepadChunk: ChunkFile = {
           name: '<notepad>',
-          type: BinType.Patch,
+          type: fileTypes.find((t) => t.type == 'Patch')!,
           textData: notepadContent,
           size: 0, // Will be calculated during processing
           location: 0, // Will be determined during processing
@@ -118,7 +125,7 @@ export function RomBuilder({
 
   const downloadRom = useCallback(() => {
     if (!romOutput) return;
-    const blob = new Blob([romOutput], { type: 'application/octet-stream' });
+    const blob = new Blob([romOutput as unknown as ArrayBuffer], { type: 'application/octet-stream' });
     const url = URL.createObjectURL(blob);
     const link = document.createElement('a');
     link.href = url;

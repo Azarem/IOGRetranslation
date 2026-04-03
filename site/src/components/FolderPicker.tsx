@@ -1,14 +1,15 @@
 import { useState, useRef } from 'react';
-import { ChunkFile, BinType, readFileAsText, readFileAsBinary } from '@gaialabs/shared';
+import { ChunkFile, BinType, DbFileType } from '@gaialabs/core';
 import './FolderPicker.css';
 
 interface FolderPickerProps {
   onFilesLoaded: (files: ChunkFile[]) => void;
   onUnshiftChanged: (before: boolean) => void;
   onError: (error: string) => void;
+  fileTypes: DbFileType[];
 }
 
-export function FolderPicker({ onFilesLoaded, onError, onUnshiftChanged }: FolderPickerProps) {
+export function FolderPicker({ onFilesLoaded, onError, onUnshiftChanged, fileTypes }: FolderPickerProps) {
   const [selectedFolder, setSelectedFolder] = useState<string | null>(null);
   const [asmFiles, setAsmFiles] = useState<ChunkFile[]>([]);
   const [isScanning, setIsScanning] = useState(false);
@@ -64,42 +65,30 @@ export function FolderPicker({ onFilesLoaded, onError, onUnshiftChanged }: Folde
 
       // Filter for .asm files (case-insensitive)
       const chunkFiles = await Promise.all(Array.from(files).map(async (file) => {
-        //Pull out name and extension using regex
-        const matches = file.name.match(/([^\\/]+?)\.([^\\/]+)$/);
+        const extId = file.name.indexOf('.');
+        if(extId < 1) return null; //Ignore files without an extension
 
-        if(!matches || matches.length < 3) return null;
-        const [name, extension] = matches.slice(1, 3);
-        
+        const name = file.name.substring(0, extId);
+        const extension = file.name.substring(extId + 1);
+
+        const type = fileTypes.find((t) => t.extension == extension);
+        if(!type) return null;
+
         const chunkFile: ChunkFile = {
           name,
-          type: BinType.Assembly,
+          type,
+          compressed: type.compressed,
           size: file.size,
           location: 0,
           mnemonics: []
         };
 
-        switch(extension.toLowerCase()) {
-          case 'asm':
-            chunkFile.type = BinType.Assembly;
-            chunkFile.textData = await readFileContent(file, true);
-            return chunkFile;
-
-          case 'txt':
-          case 'patch.asm':
-            chunkFile.type = BinType.Patch;
-            chunkFile.textData = await readFileContent(file, true);
-            return chunkFile;
-          case 'bin': chunkFile.type = BinType.Bitmap; chunkFile.compressed = false; break;
-          case 'set': chunkFile.type = BinType.Tileset; chunkFile.compressed = false; break;
-          case 'map': chunkFile.type = BinType.Tilemap; chunkFile.compressed = false; break;
-          case 'spm': chunkFile.type = BinType.Spritemap; chunkFile.compressed = false; break;
-          case 'pal': chunkFile.type = BinType.Palette; break;
-          case 'bgm': chunkFile.type = BinType.Music; break;
-          case 'sfx': chunkFile.type = BinType.Sound; break;
-          default: chunkFile.type = BinType.Unknown; break;
+        if(type.type == 'Assembly' || type.type == 'Patch') {
+          chunkFile.textData = await readFileContent(file, true);
+        } else {
+          chunkFile.rawData = await readFileContent(file, false);
         }
 
-        chunkFile.rawData = await readFileContent(file, false);
         return chunkFile;
       }));
 
@@ -190,8 +179,6 @@ export function FolderPicker({ onFilesLoaded, onError, onUnshiftChanged }: Folde
         <input
           ref={folderInputRef}
           type="file"
-          webkitdirectory=""
-          directory=""
           multiple
           onChange={handleFolderSelect}
           className="folder-input"
@@ -243,7 +230,7 @@ export function FolderPicker({ onFilesLoaded, onError, onUnshiftChanged }: Folde
                     {asmFiles.map((file, index) => (
                       <li key={index} className="file-item">
                         <span className="file-name">{file.name}</span>
-                        <span className="file-type">{file.type}</span>
+                        <span className="file-type">{file.type.name}</span>
                         <span className="file-size">
                           {file.textData ? `${file.textData.length} chars` : 'Empty'}
                         </span>

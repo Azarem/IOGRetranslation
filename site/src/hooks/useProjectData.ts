@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { ProjectBranchData, summaryFromSupabaseByProject } from '@gaialabs/shared'
+import { ProjectBranchData, summaryFromSupabaseByProject } from '@gaialabs/core'
 
 interface UseProjectDataResult {
   projectData: ProjectBranchData | null;

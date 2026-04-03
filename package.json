@@ -1,0 +1,28 @@
+{
+  "name": "IOG Retranslation Scripts",
+  "version": "1.0.0",
+  "description": "Extract translation data from Gaia Gensouki Excel spreadsheet",
+  "main": "extractChapters.js",
+  "scripts": {
+    "build": "tsc",
+    "extract": "tsc && node extractChapters.js",
+    "extract-character": "node extractCharacterDialogue.js"
+  },
+  "keywords": [
+    "translation",
+    "excel",
+    "json"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@paralleldrive/cuid2": "^2.2.2",
+    "@types/node": "^20.10.0",
+    "typescript": "^5.3.0",
+    "@gaialabs/core": "^0.2.5"
+  }
+}
+

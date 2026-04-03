@@ -63,16 +63,16 @@ skyd_str_freejia  `[CLR]Come here, birds.[N]We're taking this person[N]to [NAM:1
 entry_01 [
   ppu < #03 >   ;00
   music < #1C, #00, @bgm_lively_city_by_the_sea >   ;01
-  bitmap < #00, #10, #00, @gfx_sc01_ext_main, #00 >   ;02
-  bitmap < #00, #10, #10, @gfx_sc01_ext_effect, #00 >   ;03
-  palette < #00, #70, #10, @palette_1E2C33 >   ;04
-  tileset < #00, #20, #00, #01, @set_sc01_ext >   ;05
-  tileset < #00, #20, #00, #02, @set_sc01_effect_misc >   ;06
-  tilemap < #01, @map_sc01_main >   ;07
+  bitmap < #00, #10, #00, @gfx_southcape, #00 >   ;02
+  bitmap < #00, #10, #10, @gfx_southcape_effect, #00 >   ;03
+  palette < #00, #70, #10, @pal_southcape >   ;04
+  tileset < #00, #20, #00, #01, @set_southcape >   ;05
+  tileset < #00, #20, #00, #02, @set_southcape_effect >   ;06
+  tilemap < #01, @map_sc01 >   ;07
   tilemap < #02, @map_sc01_effect >   ;08
   label < #3E >   ;09
-  bitmap < #00, #10, #10, @gfx_sc01_actors, #01 >   ;0A
-  palette < #20, #80, #A0, @pal_sc01_actors >   ;0B
-  spritemap < #$18B5, #00, @spm_sc01_actors >   ;0C
+  bitmap < #00, #10, #10, @gfx_southcape_sprites, #01 >   ;0A
+  palette < #20, #80, #A0, @pal_southcape_sprites >   ;0B
+  spritemap < #$18B5, #00, @spm_southcape_sprites >   ;0C
 ]
 

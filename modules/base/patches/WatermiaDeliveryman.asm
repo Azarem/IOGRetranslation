@@ -63,19 +63,19 @@ watermia_freejia_str    `[CLR]Come here, birds.[N]We're taking this person[N]to 
 entry_78 [
   ppu < #1A >   ;00
   music < #02, #00, @bgm_lively_city >   ;01
-  bitmap < #00, #10, #00, @bmp_1DBD9F, #00 >   ;02
+  bitmap < #00, #10, #00, @gfx_watermia, #00 >   ;02
   branch < #96, #2A >   ;03
-  palette < #00, #70, #10, @palette_1E4C93 >   ;04
+  palette < #00, #70, #10, @pal_watermia >   ;04
   jump < #2B >   ;05
   label < #2A >   ;06
-  palette < #00, #70, #10, @palette_1E4D73 >   ;07
+  palette < #00, #70, #10, @pal_watermia_dark >   ;07
   label < #2B >   ;08
-  tileset < #00, #20, #00, #03, @set_184704 >   ;09
-  tilemap < #01, @map_15118E >   ;0A
-  bitmap < #00, #10, #10, @bmp_1DBD9F, #00 >   ;0B
-  tilemap < #02, @map_1C44E4 >   ;0C
+  tileset < #00, #20, #00, #03, @set_watermia >   ;09
+  tilemap < #01, @map_watermia >   ;0A
+  bitmap < #00, #10, #10, @gfx_watermia, #00 >   ;0B
+  tilemap < #02, @map_watermia_effect >   ;0C
   label < #26 >   ;0D
-  bitmap < #00, #10, #10, @gfx_wa78_actors, #01 >   ;0E
-  palette < #00, #60, #A0, @pal_wa78_actors >   ;0F
-  spritemap < #$1886, #00, @spm_wa78_actors >   ;10
+  bitmap < #00, #10, #10, @gfx_watermia_sprites, #01 >   ;0E
+  palette < #00, #60, #A0, @pal_watermia_sprites >   ;0F
+  spritemap < #$1886, #00, @spm_watermia_sprites >   ;10
 ]

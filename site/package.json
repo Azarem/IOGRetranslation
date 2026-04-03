@@ -1,5 +1,5 @@
 {
-  "name": "iogretranslation",
+  "name": "IOGRetranslation Site",
   "version": "1.0.0",
   "description": "Copyright 2024-2025 by GaiaLabs  \r https://github.com/Azarem/IOGRetranslation  \r https://github.com/Azarem/GaiaLabs",
   "homepage": "https://azarem.github.io/IOGRetranslation/",
@@ -20,8 +20,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@gaialabs/core": "^0.1.19",
-    "@gaialabs/shared": "^0.1.16",
+    "@gaialabs/core": "^0.2.5",
     "react": "^19.1.1",
     "react-dom": "^19.1.1"
   },

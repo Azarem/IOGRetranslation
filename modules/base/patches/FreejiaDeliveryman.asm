@@ -64,28 +64,28 @@ frejia_deliveryman_str_south_cape `[CLR]Come here, birds.[N]We're taking this pe
 entry_32 [
   ppu < #0E >   ;00
   music < #02, #00, @bgm_lively_city >   ;01
-  bitmap < #00, #10, #00, @gfx_fr32_ext_tiles, #00 >   ;02
-  bitmap < #00, #10, #10, @gfx_fr32_ext_tiles, #00 >   ;03
-  palette < #00, #70, #10, @pal_fr32_ext_tiles >   ;04
-  tileset < #00, #20, #00, #01, @set_fr32_ext_main >   ;05
-  tilemap < #01, @map_fr32_main >   ;06
-  tileset < #00, #20, #00, #02, @set_fr32_ext_effect >   ;07
+  bitmap < #00, #10, #00, @gfx_freejia, #00 >   ;02
+  bitmap < #00, #10, #10, @gfx_freejia, #00 >   ;03
+  palette < #00, #70, #10, @pal_freejia >   ;04
+  tileset < #00, #20, #00, #01, @set_freejia >   ;05
+  tilemap < #01, @map_fr32 >   ;06
+  tileset < #00, #20, #00, #02, @set_freejia_effect >   ;07
   tilemap < #02, @map_fr32_effect >   ;08
   label < #0C >   ;09
-  bitmap < #00, #10, #10, @gfx_fr32_actors, #01 >   ;0A
-  palette < #00, #60, #A0, @pal_fr32_actors >   ;0B
-  spritemap < #$1352, #00, @spm_fr32_actors >   ;0C
+  bitmap < #00, #10, #10, @gfx_freejia_sprites, #01 >   ;0A
+  palette < #00, #60, #A0, @pal_freejia_sprites >   ;0B
+  spritemap < #$1352, #00, @spm_freejia_sprites >   ;0C
 ]
 
 entry_9D [
   ppu < #1F >   ;00
   music < #04, #00, @bgm_ominous_whispers >   ;01
-  bitmap < #00, #10, #00, @gfx_fr33_int_main, #00 >   ;02
-  palette < #00, #70, #10, @palette_1E50F3 >   ;03
-  tileset < #00, #20, #00, #03, @set_1775A4 >   ;04
-  tilemap < #01, @map_1D214D >   ;05
-  tilemap < #02, @map_1E026F >   ;06
-  bitmap < #00, #10, #10, @gfx_fr32_actors, #01 >   ;07
-  palette < #00, #60, #A0, @pal_fr32_actors >   ;08
-  spritemap < #$1352, #00, @spm_fr32_actors >   ;09
+  bitmap < #00, #10, #00, @gfx_house_interior, #00 >   ;02
+  palette < #00, #70, #10, @pal_house_interior_euro >   ;03
+  tileset < #00, #20, #00, #03, @set_euro_chapel >   ;04
+  tilemap < #01, @map_euro_chapel >   ;05
+  tilemap < #02, @map_euro_chapel_effect >   ;06
+  bitmap < #00, #10, #10, @gfx_freejia_sprites, #01 >   ;07
+  palette < #00, #60, #A0, @pal_freejia_sprites >   ;08
+  spritemap < #$1352, #00, @spm_freejia_sprites >   ;09
 ]

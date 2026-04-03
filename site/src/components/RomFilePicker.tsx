@@ -1,5 +1,5 @@
 import { useState, useRef } from 'react';
-import { crc32_buffer } from '@gaialabs/shared';
+import { crc32_buffer } from '@gaialabs/core';
 import { RomValidationResult } from '../types';
 import './RomFilePicker.css';
 

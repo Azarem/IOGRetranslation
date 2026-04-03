@@ -6,7 +6,7 @@ import { RomBuilder } from './components/RomBuilder'
 import { Notepad } from './components/Notepad'
 import { FolderPicker } from './components/FolderPicker'
 import { NotificationSystem, useNotifications } from './components/NotificationSystem'
-import { ChunkFile } from '@gaialabs/shared'
+import { ChunkFile } from '@gaialabs/core'
 import './App.css'
 
 function App() {
@@ -181,6 +181,7 @@ function App() {
               onFilesLoaded={handleFolderFilesLoaded}
               onError={handleFolderError}
               onUnshiftChanged={handleBeforeChanged}
+              fileTypes={projectData.baseRomBranch.gameRomBranch.fileTypes}
             />
           </div>
         )}
@@ -198,6 +199,8 @@ function App() {
               projectName={projectData.project.name}
               folderFiles={folderFiles}
               unshiftManualFiles={insertBeforeModules}
+              fileTypes={projectData.baseRomBranch.gameRomBranch.fileTypes}
+              expectedCrc={projectData.baseRomBranch.gameRomBranch.gameRom.crc}
               onBuildComplete={handleBuildComplete}
               onBuildError={handleBuildError}
             />
