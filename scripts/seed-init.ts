@@ -1,11 +1,12 @@
+import 'dotenv/config';
 import { PrismaClient } from '@gaialabs/core/prisma';
-import * as fs from 'fs';
-import * as path from 'path';
-import { readFileSync } from 'fs';
 import { crc32_buffer, readFileAsBinary, crc32_text_utf8, readFileAsText, listDirectory } from '@gaialabs/core';
 import { createId } from '@paralleldrive/cuid2';
+import { PrismaPg } from '@prisma/adapter-pg';
 
-const prisma = new PrismaClient();
+const prisma = new PrismaClient({
+  adapter: new PrismaPg({ connectionString: process.env.DATABASE_URL }),
+});
 
 // --- Database Path Configuration ---
 const RXLT_PATH = './modules';
