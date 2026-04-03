@@ -1,7 +1,4 @@
 
-
-
-
 ------------------------------------------
 ?INCLUDE 'overworld_options'
 ------------------------------------------
@@ -48,9 +45,6 @@ overworld_options [
   &code_03B922   ;26
 ]
 
-
-
-
 -----------------
 ;Dao to Euro
 -----------------
@@ -60,7 +54,6 @@ code_03B7E2 {
     COP [BE] ( #42, #01, &code_list_03B7EE )
     COP [C5]
 }
-
 
 code_list_03B7EE [
   &code_03BAC5   ;00

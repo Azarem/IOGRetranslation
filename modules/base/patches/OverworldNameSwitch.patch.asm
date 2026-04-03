@@ -131,28 +131,28 @@ sub_03A692 {
     PHA 
     PLB 
 
-  code_03A69E:
+  loc_03A69E:
     LDA $&overworld_names, X
-    BEQ code_03A6B6
+    BEQ loc_03A6B6
     CMP $0000
-    BEQ code_03A6AD
+    BEQ loc_03A6AD
     INX 
     INX 
     INX 
     INX 
     INX 
-    BRA code_03A69E
-}
+    BRA loc_03A69E
 
-
-code_03A6AD {
+  loc_03A6AD:
     REP #$20
     LDA $0B24
     BEQ do_name_en
     LDY $&overworld_names+3, X
     BRA do_name_next
+
   do_name_en:
     LDY $&overworld_names+1, X
+    
   do_name_next:
     PLB 
     PLX 

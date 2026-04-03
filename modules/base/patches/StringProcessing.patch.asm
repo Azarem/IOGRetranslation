@@ -1,4 +1,4 @@
-?BANK 03
+﻿?BANK 03
 
 ?INCLUDE 'chunk_03BAE1'
 ?INCLUDE 'templates_01CA95'
@@ -101,7 +101,7 @@ wide_cmd_table_03E2C3 [
 ----------------------------------------------------
 ;Entry point for command 7 (setting up dialog borders)
 
-code_03E453 {
+loc_03E453 {
     PHY 
     PHX 
     ;LDA $0B04          --Don't reset print delay
@@ -124,19 +124,19 @@ code_03E453 {
     STA $099A
     ;STZ $0986  --Don't reset palette offset
 
-    ;LDA $border_state
-
-    ;ASL
-    ;TAX
-    ;LDA @border_lookup, X
-    ;STA $3E
-    ;LDA #*border_lookup
-    ;STA $40
-
-    LDA #$*dlg_borders_03E4CE
-    STA $40
-    LDA #$&dlg_borders_03E4CE
+    LDA $border_state
+    ;AND #$0003
+    ASL
+    TAX
+    LDA @border_lookup, X
     STA $3E
+    LDA #*border_lookup
+    STA $40
+
+    ;LDA #$*dlg_borders_03E4CE
+    ;STA $40
+    ;LDA #$&dlg_borders_03E4CE
+    ;STA $3E
 
     LDA $0982
     ASL 
@@ -165,19 +165,19 @@ code_03E453 {
     LDA $scene_current
     AND #$00FF
     CMP #$00FA
-    BEQ code_03E4CB
+    BEQ loc_03E4CB
     JSR $&sub_03E7B2
 }
 
 ----------------------------------------------------
 ;Entry point for command 8 (clear dialog) to support border styles
 
-code_03E59F {
+loc_03E59F {
     STA $7F0200, X
     INX 
     INX 
     DEC $18
-    BPL code_03E59F
+    BPL loc_03E59F
     LDA $00
     STA $18
     LDA $099A
@@ -186,7 +186,7 @@ code_03E59F {
     STA $099A
     TAX 
     DEC $1C
-    BPL code_03E59C
+    BPL loc_03E59C
 
     LDA #$0010
     STA $0996
@@ -237,16 +237,16 @@ cmd_cf_03E6A4 {
     LDA #$advance_button_mask
     TSB $0658
 
-  code_03E6AA:
+  loc_03E6AA:
     JSR $&sub_03E7B2
     LDA $0656
     AND #$advance_button_mask
-    BNE code_03E6C1
+    BNE loc_03E6C1
     SEC 
     JSR $&sub_03E80C
     LDA #$0001
     TSB $09EC
-    BRA code_03E6AA
+    BRA loc_03E6AA
 }
 
 ---------------------------------------------
@@ -255,11 +255,11 @@ cmd_d0_03E6D2 {
     LDA #$advance_button_mask
     TSB $0658
 
-  code_03E6D8:
+  loc_03E6D8:
     JSR $&sub_03E7B2
     LDA $0656
     AND #$advance_button_mask
-    BEQ code_03E6D8
+    BEQ loc_03E6D8
     STA $0658
     RTS 
 }

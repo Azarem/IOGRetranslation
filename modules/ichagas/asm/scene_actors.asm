@@ -271,7 +271,7 @@
 ?INCLUDE 'actor_00E8D7'
 ?INCLUDE 'sg4E_nitropede'
 ?INCLUDE 'sg4E_plasma_snake'
-?INCLUDE 'sg51_monologue'
+?INCLUDE 'sg51_statue'
 ?INCLUDE 'sg52_actor_05F5DE'
 ?INCLUDE 'sg52_actor_05F655'
 ?INCLUDE 'sg52_switch'
@@ -2251,8 +2251,8 @@ event_def_0CA0CB [
     enemy < #23, #0C, #00, @h_sg4D_dynapede2, #1B, #8B, #00 >   ;0F
     enemy < #1A, #23, #00, @h_sg4D_dynapede2, #1B, #8C, #2C >   ;10
     actor < #18, #22, #00, @h_sg51_plasma_snake1 >   ;11
-    actor < #30, #33, #00, @h_sg51_monologue >   ;12
-    actor < #30, #34, #00, @h_sg51_monologue >   ;13
+    actor < #30, #33, #00, @h_sg51_statue >   ;12
+    actor < #30, #34, #00, @h_sg51_statue >   ;13
     actor < #03, #0B, #03, @h_dark_space2 >   ;14
     actor < #00, #01, #00, @h_sg4D_jump_handler >   ;15
     actor < #00, #01, #00, @h_sg4C_actor_0AB496 >   ;16

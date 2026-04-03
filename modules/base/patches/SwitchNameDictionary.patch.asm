@@ -197,24 +197,24 @@ sub_0BE673 {
     LDA #$91
     STA $APUIO0
     REP #$20
-    BRA code_0BE695
+    BRA loc_0BE695
 }
 
 ----------------------------------------------
 ;Account for name size on scene title
 
-code_02A197 {
+loc_02A197 {
     CMP #$D6
-    BEQ code_02A1A9
+    BEQ loc_02A1A9
     CMP #$D7
-    BEQ code_02A1BE
+    BEQ loc_02A1BE
     CMP #$DA
     BEQ calc_name_size
     INY 
-    BRA code_02A17E
+    BRA loc_02A17E
 }
 
-code_02A1A7 {
+loc_02A1A7 {
     PLP 
     RTS 
 
@@ -235,7 +235,7 @@ code_02A1A7 {
     ASL 
     CLC 
     ADC #$&name_dictionary_jp
-    BRA code_02A1D1
+    BRA loc_02A1D1
 
   do_en_size:
     LDA #$^name_dictionary_en
@@ -247,12 +247,12 @@ code_02A1A7 {
     ASL 
     CLC 
     ADC #$&name_dictionary_en
-    BRA code_02A1D1
+    BRA loc_02A1D1
 }
 
-code_02A1E4 {
+loc_02A1E4 {
     PLY 
     PLB 
     INY 
-    JMP code_02A17E
+    JMP loc_02A17E
 }

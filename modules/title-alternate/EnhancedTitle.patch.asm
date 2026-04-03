@@ -53,7 +53,7 @@ e_sFC_actor_0BC924 {
     LDA #$0000
     STA $7F0A00
     COP [50] ( @pal_title, #00, #00, #08 )
-    COP [50] ( @palette_1E1D35, #00, #00, #08 )
+    COP [50] ( @pal_ending_comet, #00, #00, #08 )
     COP [A0] ( @code_0BC933, #$0060, #$00B6, #$1800 )
     COP [A0] ( @code_0BC945, #$0080, #$00B6, #$1800 )
     COP [A0] ( @code_0BC957, #$00A0, #$00B6, #$1800 )

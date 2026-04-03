@@ -7,7 +7,7 @@ h_actor < #3A, #00, #10 >
 
 frejia_deliveryman_main {
     COP [D0] ( #8D, #00, &frejia_deliveryman_destroy )
-    COP [50] ( @pal_sc01_actors, #70, #F0, #10 )
+    COP [50] ( @pal_southcape_sprites, #70, #F0, #10 )
     COP [C0] ( &frejia_deliveryman_interact )
     COP [0B]
     COP [C1]

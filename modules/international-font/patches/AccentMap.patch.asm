@@ -34,7 +34,7 @@ sub_03E255 {
     RTS 
 }
 
-code_03E27C {
+loc_03E27C {
     REP #$20
     AND #$00FF
     INY 

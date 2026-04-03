@@ -21,7 +21,7 @@ ext_credits_5  `[PAL:0][DLG:4C,1] GaiaLabs Boot Logo[N][N][PAL:8]     andwhyisit
 ----------------------------------------------
 
 
-code_09E9D8 {
+loc_09E9D8 {
     COP [69] ( #$01F4 )
     LDA #$&credits_09ECBF
     STA $26
@@ -184,7 +184,7 @@ code_09E9D8 {
 ---------------------------------------------------------
 ;Override wait timer
 
-code_09EBDB {
+loc_09EBDB {
     COP [CB]
     COP [DB] ( #$01C5 )
     SEP #$20

@@ -10,18 +10,11 @@
     STY $VMADDL
     LDY #$1C00
     JSL $@func_0283A2
-    JML code_03E04E
+    JML loc_03E04E
     
   load_boot_exprite:
     LDX #$&gfx_boot_exprite+2
     LDA #$^gfx_boot_exprite
-    BRA load_continue
-    
-  load_title_exprite:
-    LDX #$&gfx_title_exprite+2
-    LDA #$^gfx_title_exprite
-
-  load_continue:
     LDY #$4200
     STY $VMADDL
     LDY #$1C00
@@ -42,8 +35,6 @@ func_03DFF8 {
     BEQ load_exit
     CMP #$FB
     BEQ load_fb_asset
-    CMP #$FC
-    BEQ load_fc_asset
     CMP #$FA
     BEQ load_exit
     CMP #$FE
@@ -64,20 +55,20 @@ func_03DFF8 {
     BEQ load_01_asset
     LDX #$4200
     STX $VMADDL
-    LDX #$&bmp_000000
-    LDA #$^bmp_000000
+    LDX #$&gfx_000000
+    LDA #$^gfx_000000
     LDY #$1C00
     JSL $@func_0283A2
     LDA $player_flags
     BIT #$08
-    BEQ code_03E035
+    BEQ loc_03E035
     LDX #$4400
     STX $VMADDL
     LDX #$&misc_fx_1CD580
     LDA #$^misc_fx_1CD580
     LDY #$0800
     JSL $@func_0283A2
-    BRA code_03E04E
+    BRA loc_03E04E
     
   load_01_asset:
     JML load_skyd_exprite
@@ -85,9 +76,6 @@ func_03DFF8 {
   load_fb_asset:
     JML load_boot_exprite
     
-  load_fc_asset:
-    JML load_title_exprite
-
   load_exit:
     PLP
     RTL
