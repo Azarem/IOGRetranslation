@@ -68,7 +68,7 @@ export function RomBuilder({
 
     try {
       // Convert module selections to array format expected by RomGenerator
-      const moduleList = Object.values(moduleSelections);
+      const moduleList = [ "base", ...Object.values(moduleSelections) ];
 
       setProgress({ stage: 'Validating', progress: 10, message: 'Validating ROM and modules...' });
 
