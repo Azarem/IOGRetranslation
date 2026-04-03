@@ -150,6 +150,10 @@ async function createProject(gameId: string, baseRomId: string, baseRomBranchId:
           { name: 'Diamond Mines', options: [
             { name: 'NA (Brown)', module: null, default: true },
             { name: 'JP (Purple)', module: 'jp-mines' }
+          ] },
+          { name: 'Prologue Palettes', options: [
+            { name: 'NA (Light)', module: null },
+            { name: 'JP (Dark)', module: 'jp-prologue-palettes', default: true }
           ] }
         ] },
         { name: '⚡ Quality of Life', groups: [
