@@ -30,10 +30,10 @@ jobs:
     - name: Verify package versions
       run: |
         cd site
-        echo "Installed @gaialabs/shared version:"
-        npm ls @gaialabs/shared
-        echo "Available @gaialabs/shared version:"
-        npm view @gaialabs/shared version
+        echo "Installed @gaialabs/core version:"
+        npm ls @gaialabs/core
+        echo "Available @gaialabs/core version:"
+        npm view @gaialabs/core version
 
     - name: Debug secrets availability
       run: |
