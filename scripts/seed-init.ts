@@ -1,6 +1,6 @@
 import 'dotenv/config';
 import { PrismaClient } from '@gaialabs/core/prisma';
-import { crc32_buffer, readFileAsBinary, crc32_text_utf8, readFileAsText, listDirectory } from '@gaialabs/core';
+import { crc32_buffer, readFileAsBinary, crc32_text_utf8, readFileAsText, listDirectory, DbFileType } from '@gaialabs/core';
 import { createId } from '@paralleldrive/cuid2';
 import { PrismaPg } from '@prisma/adapter-pg';
 
@@ -245,17 +245,17 @@ async function createAllProjectFiles(projectId: string, fileTypes: Record<string
   return fileIds;
 }
 
-async function createProjectFile(projectId: string, file: any, fileTypes: Record<string, any>, module?: string) : Promise<string | null>{
+async function createProjectFile(projectId: string, file: any, fileTypes: Record<string, Partial<DbFileType>>, module?: string) : Promise<string | null>{
 
   let crc: number | undefined;
   let text: string | undefined;
   let data: Uint8Array | undefined;
   let isText: boolean = false;
 
-  let type = Object.values(fileTypes).find((value) => value.extension === file.extension)?.type;
-  if(!type) return null;
+  let typeEntry = Object.entries(fileTypes).find((value) => value[1].extension === file.extension);
+  if(!typeEntry) return null;
 
-  if(type === 'Assembly' || type === 'Patch') {
+  if(typeEntry[1].isBlock || typeEntry[1].isPatch) {
     text = await readFileAsText(file.path);
     crc = crc32_text_utf8(text);
     isText = true;
@@ -271,7 +271,7 @@ async function createProjectFile(projectId: string, file: any, fileTypes: Record
       id,
       projectId,
       name: file.name,
-      type,
+      type: typeEntry[0],
       crc,
       data: data as Uint8Array<ArrayBuffer>,
       isText,
