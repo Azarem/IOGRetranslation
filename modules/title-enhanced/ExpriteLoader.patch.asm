@@ -4,7 +4,7 @@
 !VMADDL                         2116
 
   load_skyd_exprite:
-    LDX #$&gfx_sky_delivery_exprite+2
+    LDX #$&gfx_sky_delivery_exprite
     LDA #$^gfx_sky_delivery_exprite
     LDY #$4200
     STY $VMADDL
@@ -13,12 +13,12 @@
     JML loc_03E04E
     
   load_boot_exprite:
-    LDX #$&gfx_boot_exprite+2
+    LDX #$&gfx_boot_exprite
     LDA #$^gfx_boot_exprite
     BRA load_continue
     
   load_title_exprite:
-    LDX #$&gfx_title_exprite+2
+    LDX #$&gfx_title_exprite
     LDA #$^gfx_title_exprite
 
   load_continue:

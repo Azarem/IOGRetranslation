@@ -101,7 +101,7 @@ wide_cmd_table_03E2C3 [
 ----------------------------------------------------
 ;Entry point for command 7 (setting up dialog borders)
 
-loc_03E453 {
+code_03E453 {
     PHY 
     PHX 
     ;LDA $0B04          --Don't reset print delay
