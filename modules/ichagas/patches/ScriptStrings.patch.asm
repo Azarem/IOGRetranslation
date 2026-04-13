@@ -11,16 +11,17 @@ frejia_deliveryman_str_south_cape `[CLR][CLD][TPL:E]Venham, meus pássaros![N]Va
 ?INCLUDE 'dm47_sam'
 ------------------------------------
 ?IF 'FreejiaShortcut'
+  ------------------------------------
+  ?INCLUDE 'FreejiaShortcut'
+  ------------------------------------
+  shortcut_cancel_str `[CLD][TPL:5][TPL:D]Eu nunca vou me esquecer[N]do que você fez por nós.[END]`
+  shortcut_accept_str `[CLD][TPL:5][TPL:E]Certo, fique perto de mim[N]e chegaremos lá num piscar[N]de olhos.[END]`
+
   widestring_05D48E `[TPL:5][TPL:E][NAM:A]: Eu conheço uma[N]passagem secreta que leva[N]até Freesia.[FIN]Quer pegar esse atalho?[N][PAL:0] Ficar[N] Ir à Freesia[PAL:4]`
 ?ELSE
   widestring_05D48E `[TPL:5][TPL:E][NAM:A]: Eu conheço uma[N]passagem secreta que leva[N]até Freesia.[FIN]Quer pegar esse atalho?[N][PAL:0] Ficar[N] Ir à Freesia[PAL:4]`
 ?ENDIF
 
-------------------------------------
-?INCLUDE 'FreejiaShortcut'
-------------------------------------
-shortcut_cancel_str `[CLD][TPL:5][TPL:D]Eu nunca vou me esquecer[N]do que você fez por nós.[END]`
-shortcut_accept_str `[CLD][TPL:5][TPL:E]Certo, fique perto de mim[N]e chegaremos lá num piscar[N]de olhos.[END]`
 
 ------------------------------------
 ?INCLUDE 'NewGamePlus'
