@@ -3,33 +3,34 @@
 ----------------------
 ?INCLUDE 'pr8C_prologue1'
 ----------------------
-spritestring_0BD044 ~   O mundo vivia a era[N] das Grandes Navegações.[N] O povo alcançava novos[N] continentes, exumando[N]      vestígios de[N]civilizações ancestrais.~
---spritestring_0BD044 ~O mundo vivia  [N]a era das [N]Grandes Navegações. ~
---spritestring_0BD06D ~O povo alcançava  [N]novos continentes,[N]exumando vestígios [N]de civilizações [N]ancestrais.~
+spritestring_0BD044 ~O mundo vivia a era[N]das Grandes Navegações.[N]O Homem alcançava novas[N]terras, exumando vestígios[N]de povos antigos.~
+
+--spritestring_0BD044 ~O mundo vivia a era[N]das Grandes Navegações.~
+--spritestring_0BD06D ~O Homem alcançava novas[N]terras, exumando vestígios[N]de povos antigos.~
 
 ----------------------
 ?INCLUDE 'pr8D_prologue2'
 ----------------------
-spritestring_0BD0B2 ~Muitas lendas[N]de tempos idos[N]foram descobertas.     ~
-spritestring_0BD0E3 ~A cada lenda,[N]uma civilização, e[N]a cada civilização,[N]uma ruína. ~
-spritestring_0BD11C ~Vários artefatos [N]foram desenterrados[N]das profundezas.~
-spritestring_0BD144 ~Entre as relíquias [N]havia estranhas[N]estátuas, tidas como[N]efígies de deuses.   ~
-spritestring_0BD189 ~O que seriam deuses    [N]para os antigos?  [N]As ruínas nada dizem.~
+spritestring_0BD0B2 ~Do fundo da terra,[N]brotaram muitas lendas.~
+spritestring_0BD0E3 ~A cada lenda,[N]uma civilização; a[N]cada civilização,[N]uma ruína...~
+spritestring_0BD11C ~E a cada ruína,[N]incontáveis relíquias.~
+spritestring_0BD144 ~Dentre elas, luziam[N]estranhas estátuas,[N]tidas como efígies[N]de deuses.~
+spritestring_0BD189 ~Que eram, pois, os deuses[N]para os antigos? As ruínas[N]nada dizem.~
 
 ----------------------
 ?INCLUDE 'pr8E_prologue3'
 ----------------------
-spritestring_0BD1CA ~Os obcecados pela[N]era perdida[N]encontraram, cada um,[N]sua ruína. ~
+spritestring_0BD1CA ~Obcecados pelo tempo[N]perdido, muitos adentraram[N]as ruínas e jamais[N]retornaram.~
 
 ----------------------
 ?INCLUDE 'pr8F_prologue4'
 ----------------------
-spritestring_0BD222 ~Uns falavam de[N]armadilhas criadas[N]para proteger tesouros.[N]Outros, de[N]maldições[N]dos antigos.[N]~
+spritestring_0BD222 ~Dentre os regressos, uns[N]falavam de armadilhas que[N]guardavam tesouros.[N]Outros, de[N]maldições[N]antigas.~
 
 ----------------------
 ?INCLUDE 'pr8C_prologue5'
 ----------------------
-spritestring_0BD272 ~Mas ninguém deu ouvidos[N]à profecia do[N]terrível desastre...~
+spritestring_0BD272 ~Mas o prenúncio[N]do grande desastre[N]permaneceu encoberto...~
 
 ----------------------
 ?INCLUDE 'sc08_priest'

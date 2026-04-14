@@ -26,7 +26,7 @@ frejia_deliveryman_str_south_cape `[CLR][CLD][TPL:E]Venham, meus pássaros![N]Va
 ------------------------------------
 ?INCLUDE 'NewGamePlus'
 ------------------------------------
-diary_ngp_str     `[DLG:6,A][SIZ:A,5]Iniciar Jornada[N]Apagar Diário[N]Copiar Diário[N]Opções[N]New Game Plus`
+diary_ngp_str     `[DLG:6,A][SIZ:A,5]Iniciar Jornada[N]Apagar Diário[N]Copiar Diário[N]Opções[N]Novo Jogo +`
 
 ------------------------------------
 ?INCLUDE 'SouthCapeDeliveryman'

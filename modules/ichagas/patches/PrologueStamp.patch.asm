@@ -384,9 +384,13 @@ e_pr8C_prologue1 {
     PHX
     LDA #$*spritestring_0BD044
     LDY #$spritestring_0BD044
-    LDX #$1020
+    LDX #$2028
     JSL $@prologue_stamp
     PLX
+    LDA $00DA
+    STA $14
+    LDA #$0058
+    STA $00DA
     COP [A0] ( @code_0BCAB1, #$016E, #$03E8, #$1800 )
     COP [DA] ( #00 )
     COP [A0] ( @code_0BCAB1, #$0166, #$041A, #$1800 )
@@ -414,12 +418,48 @@ e_pr8C_prologue1 {
     --STA $0026, Y
     COP [3C] ( @e_pr_thinker_0BD031 )
     COP [DB] ( #$01DF )
-    --COP [3C] ( @e_pr_thinker_0BD039 )
+    COP [3C] ( @e_pr_thinker_0BD039 )
     COP [DA] ( #77 )
     --COP [A0] ( @code_0BCF8F, #$003C, #$0020, #$2000 )
     --LDA #$&spritestring_0BD06D
     --STA $0026, Y
-    --COP [3C] ( @e_pr_thinker_0BD031 )
+    BRK #$44
+    PHX
+    LDA $00DA
+    CLC
+    ADC #$0600
+    TAX
+    LDY #$0600
+    LDA $14
+    SEC
+    SBC $00DA
+    PHA
+    DEC
+    PHB
+    MVN #$7F, #$7F
+    PLB
+    PLA
+    STA $00DA
+    LSR
+    LSR
+    TAY
+    LDX #$0000
+
+  height_top:
+    LDA $7F0600, X
+    SEC
+    SBC #$2010
+    STA $7F0600, X
+    INX
+    INX
+    INX
+    INX
+    DEY
+    BNE height_top
+
+    PLX
+
+    COP [3C] ( @e_pr_thinker_0BD031 )
     COP [C1]
     RTL 
 }

@@ -924,7 +924,7 @@ event_def_0C8325 [
     actor < #08, #12, #00, @h_sc02_erik >   ;04
     actor < #07, #0A, #00, @h_sc02_card >   ;05
     actor < #00, #01, #00, @h_sc02_entry >   ;06
-  ], `Caverna à Beira Mar ` >   ;00
+  ], `Caverna à Beira Mar` >   ;00
 ]
 
 event_def_0C835E [
