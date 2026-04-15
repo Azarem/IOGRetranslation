@@ -180,6 +180,14 @@ async function createProject(gameId: string, baseRomId: string, baseRomBranchId:
             { name: 'No', module: null },
             { name: 'Yes', module: 'freejia-shortcut', description: 'Sam will offer to take you to Freejia, skipping the return trip.', default: true },
           ] },
+          { name: 'Mt. Kress Shortcut', options: [
+            { name: 'No', module: null },
+            { name: 'Yes', module: 'kress-shortcut', description: 'A stray spirit will offer to take you to the bottom of Mt. Kress.', default: true },
+          ] },
+          { name: 'Angkor Wat Shortcut', options: [
+            { name: 'No', module: null },
+            { name: 'Yes', module: 'angkor-shortcut', description: 'A mysterious voice will offer to take you to the entrance of Angkor Wat.', default: true },
+          ] }
         ] },
         { name: '📚 Cut Content', groups: [
           { name: 'Sky Delivery Man', options: [
