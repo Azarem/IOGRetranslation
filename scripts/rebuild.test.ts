@@ -14,7 +14,7 @@ describe('RomGenerator', async () => {
   const modules = [
     "base",
     "ichagas",
-    "title-enhanced",
+    "title-demo",
     "jp-edward-mountains",
     "jp-itory-mountains",
     "jp-wall-dunes",
@@ -30,6 +30,7 @@ describe('RomGenerator', async () => {
     "blue-journal",
     "thankful-flower",
     "south-cape-return",
+    "plain-borders",
     "crystal-ring-palette"
 ];
   let romGenerator: RomGenerator;

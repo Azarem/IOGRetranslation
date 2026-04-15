@@ -515,4 +515,4 @@ widestring_08B70D `[TPL:C]Tim ergue a Esfera de Aura[FIN]Mas nada acontece.[END]
 widestring_038B76 `[TPL:C]Ele não possui a Flauta.[END]`
 ---------------------------------------------
 
-asciistring_01EADC |[NHM:0][RCT:B,4,A4][CUR:E6,0]Ạ█Ḇṵṯṯōṉ█˭[N]███Ḛṉṯḛṟ[N]Ḃ█Ḇṵṯṯōṉ█˭[N]███Ĉāṉĉḛḻ|
+asciistring_01EADC |[NHM:0][RCT:B,4,A4][CUR:E6,0]Ḇōṯḁō█Ạ█˭[N]██Ĉōṉḟḭṟṃā[N]Ḇōṯḁō█Ḃ█˭[N]██Ĉāṉĉḛḻā|

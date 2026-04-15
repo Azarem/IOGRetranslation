@@ -519,7 +519,7 @@ code_0BCBB4 {
     PHX
     LDA #$*spritestring_0BD11C
     LDY #$spritestring_0BD11C
-    LDX #$7C38
+    LDX #$7C28
     JSL $@prologue_stamp
     PLX
     COP [3C] ( @e_pr_thinker_0BD031 )
@@ -536,7 +536,7 @@ code_0BCBDE {
     PHX
     LDA #$*spritestring_0BD144
     LDY #$spritestring_0BD144
-    LDX #$2040
+    LDX #$2038
     JSL $@prologue_stamp
     PLX
     COP [3C] ( @e_pr_thinker_0BD031 )
@@ -552,7 +552,7 @@ code_0BCC08 {
     PHX
     LDA #$*spritestring_0BD189
     LDY #$spritestring_0BD189
-    LDX #$5038
+    LDX #$5018
     JSL $@prologue_stamp
     PLX
     COP [3C] ( @e_pr_thinker_0BD031 )
@@ -570,7 +570,7 @@ e_pr8E_prologue3 {
     PHX
     LDA #$*spritestring_0BD1CA
     LDY #$spritestring_0BD1CA
-    LDX #$483C
+    LDX #$481C
     JSL $@prologue_stamp
     PLX
     LDA $00DA
