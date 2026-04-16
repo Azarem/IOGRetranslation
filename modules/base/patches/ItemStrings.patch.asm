@@ -234,6 +234,48 @@ asciistring_01E7DD | [PTR:@name_table_freedan,B24]|
 ?INCLUDE 'itemget_table_01FD24'
 -----------------------------------------
 
-widestring_01FE56 `You [LU1:8F][NAM:14]'s Statue!`
+widestring_01FDA4 ``
+widestring_01FDA7 `You found a Red Jewel!`
+widestring_01FDBB `Prison Key`
+widestring_01FDC2 `Incan Statue A`
+widestring_01FDCD `Incan Statue B`
+widestring_01FDD8 `Incan Melody`
+widestring_01FDE1 `You found an herb!`
+widestring_01FDF1 `[TPL:D][DLY:4]You found the[N]diamond-shaped block!`
+widestring_01FE12 `Wind Melody`
+widestring_01FE17 `Lola's Melody`
+widestring_01FE1C `Large Roast`
+widestring_01FE29 ` `
+widestring_01FE2B ` `
+widestring_01FE2D ` `
+widestring_01FE2F `[TPL:D]You found[N]the Crystal Ball!`
+widestring_01FE45 ` `
+widestring_01FE47 `Palace Key`
+widestring_01FE52 ` `
+widestring_01FE54 ` `
+widestring_01FE56 `You found [NAM:14]'s Statue!`
+widestring_01FE6B `You found Magic Dust!`
+widestring_01FE7D `You found the Tearpot!`
+widestring_01FE90 `It's the Mushroom Drops!`
+widestring_01FEA6 ` `
+widestring_01FEA8 `Found a [NAM:D] [NAM:E]!`
+widestring_01FEBC `Mystic Statue`
+widestring_01FEC6 `Mystic Statue`
+widestring_01FED0 `Mystic Statue`
+widestring_01FEDA `Mystic Statue`
+widestring_01FEE4 `Mystic Statue`
+widestring_01FEEE `Mystic Statue`
+widestring_01FEF8 `Mystic Statue`
 
-widestring_01FE7D `You [LU1:8F]the Tearpot!`
+---------------------------------------
+
+widestring_01FF02 `[TPL:E][DLY:1][ADR:&itemget_table_01FD24,DB8][N]Your inventory's full![END]`
+widestring_01FF1F `[TPL:C][DLY:5][SFX:0][ADR:&itemget_table_01FD24,DB8][PAU:E0][CLD]`
+widestring_01FF2D `[TPL:C][DLY:1][ADR:&itemget_table_01FD24,DB8][END]`
+widestring_01FF36 `[TPL:C][DLY:1][SFX:0]It is empty![END]`
+widestring_01FF48 `[TPL:D][DLY:0]The jewel box is[N]tightly closed.[END]`
+
+---------------------------------------
+?INCLUDE 'f_inventory_full'
+---------------------------------------
+widestring_00C993 `[TPL:D]Your inventory is full.[N]You can't carry more.[END]`

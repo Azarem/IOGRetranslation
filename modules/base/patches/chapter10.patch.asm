@@ -62,11 +62,6 @@ widestring_05883E `[TPL:1B][TPL:12]Her Majesty, the Queen,[N]has carefully put o
 widestring_058A30 `[TPL:3][BOR:5][TPL:B]Incan Queen: How wonderful[N]that you've returned safe[N]and well for me, my[N]darling.[FIN]The [NAM:D] [NAM:E] of the[N]wind that you had spoken[N]of had protected me many[N]times until today![FIN]You said it was a stone[N]statue blessed by the[N]gods, right?[FIN][::][TPL:3][BOR:5][TPL:B]I believe it has been[N]placed in a treasure box[N]in the storehouse below;[FIN]please confirm it with[N]your own eyes.[END]`
 
 ---------------------------------------
-?INCLUDE 'itemget_table_01FD24'
----------------------------------------
-widestring_01FEA8 `Found a [NAM:D] [NAM:E]!`
-
----------------------------------------
 ?INCLUDE 'gs2C_crow_crew'
 ---------------------------------------
 widestring_0584BC `[TPL:1B][TPL:E]Lookout: King, please look[N]outside. The ship is[N]leaving the cave![END]`

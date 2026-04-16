@@ -33,7 +33,7 @@ widestring_08B74B `[CLD]`
 -------------------------------------
 widestring_08C7C9 `[TPL:0][TPL:D]An engraved slate is[N]stored in the wall.[FIN][TPL:F]Is this the form of[N]writing called[N]"hieroglyphics" that I[N]heard of in Dao…?[FIN][CLD][TPL:E]You removed the engraved[N]slate and took it with[N]you.[FIN]`
 
-widestring_08C831 `[CLR][SFX:0][DLY:9]Got the engraved[N]hieroglyphic slate![PAU:78][END]`
+widestring_08C831 `[CLD][TPL:D][SFX:0][DLY:9]Got the engraved[N]hieroglyphic slate![PAU:70][CLD]`
 
 -------------------------------------
 ?INCLUDE 'pyDA_lithograph2'

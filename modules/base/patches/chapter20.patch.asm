@@ -15,6 +15,8 @@ widestring_0697C9 `[TPL:D][NAM:2] begins to speak[N]from your pocket.[FIN][TPL:2
 ----------------------------------------------
 widestring_0698D2 `[TPL:F][SFX:0][DLY:9]Found a prayer statue![N][PAU:3C][DLY:2]Prayer statue… Wasn't[N]there a room somewhere[N]with the same name…?[PAU:5A][END]`
 
+widestring_069925 `[TPL:E]You've found the Statue[N]of Hope! But your[N]inventory is full![END]`
+
 widestring_069975 `[TPL:F][SFX:0][DLY:9]Found a prayer statue![N][PAU:3C][DLY:2]Prayer statue… Wasn't[N]there another room with[N]the same name…?[PAU:5A][END]`
 
 ----------------------------------------------

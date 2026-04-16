@@ -94,6 +94,13 @@ widestring_04F249 `[TPL:3][TPL:D][NAM:6]: Somehow I had an[N]unpleasant hunch.[E
 ---------------------------------
 widestring_04EFAE `[TPL:4][TPL:F]Bill: Go on, you should[N]meet with the Elder. He[N]definitely knows[N]something, after all.[END]`
 
+------------------------------
+?INCLUDE 'it19_inca_statue_a'
+------------------------------
+widestring_04F38D `[TPL:D][SFX:0][DLY:9]You've found[N]Incan Statue A.[PAU:A0][CLD]`
+
+widestring_04F3A8 `[TPL:E]You've found Incan [N]Statue A! But your [N]inventory is full! [END]`
+
 ---------------------------------
 ?INCLUDE 'it15_elder'
 ---------------------------------

@@ -71,7 +71,7 @@ itemget_table_01FD24 [
 
 widestring_01FDA4 `  `
 
-widestring_01FDA7 `[CLD][TPL:D]Você encontrou uma[N]Joia Vermelha![END]`
+widestring_01FDA7 `Você encontrou uma[N]Joia Vermelha!`
 
 widestring_01FDBB `[LU2:26]Key`
 
@@ -81,9 +81,9 @@ widestring_01FDCD `Estátua Inca B`
 
 widestring_01FDD8 `Incan [LU1:34]`
 
-widestring_01FDE1 `[CLD][TPL:D][DLY:1]Você encontrou uma[N]Erva Medicinal![END]`
+widestring_01FDE1 `Você encontrou uma[N]Erva Medicinal!`
 
-widestring_01FDF1 `[CLD][TPL:D]Você encontrou o[N]Bloco de Diamante![END]`
+widestring_01FDF1 `Você encontrou o[N]Bloco de Diamante!`
 
 widestring_01FE12 `[LU2:3D][LU1:34]`
 
@@ -97,27 +97,27 @@ widestring_01FE2B ` `
 
 widestring_01FE2D ` `
 
-widestring_01FE2F `[CLD][TPL:D][DLY:2]Você encontrou uma[N]Esfera de Cristal![WAI][END]`
+widestring_01FE2F `[DLY:2]Você encontrou uma[N]Esfera de Cristal!`
 
 widestring_01FE45 ` `
 
-widestring_01FE47 `[CLD][TPL:D]Você encontrou a[N]Chave do Palácio![END]`
+widestring_01FE47 `Você encontrou a[N]Chave do Palácio!`
 
 widestring_01FE52 ` `
 
 widestring_01FE54 ` `
 
-widestring_01FE56 `[CLD][TPL:D][DLY:6][SFX:0]Você obteve a[N]Estátua de Ra Mu![END]`
+widestring_01FE56 `Você obteve a[N]Estátua de Ra Mu!`
 
-widestring_01FE6B `[CLD][TPL:D]Você encontrou o[N]Pó Mágico![END]`
+widestring_01FE6B `Você encontrou o[N]Pó Mágico!`
 
-widestring_01FE7D `[CLD][TPL:D]Você encontrou a[N]Jarra das Lágrimas![END]`
+widestring_01FE7D `Você encontrou a[N]Jarra das Lágrimas!`
 
-widestring_01FE90 `[CLD][TPL:D]Você encontrou as[N]Gotas de Cogumelo![END]`
+widestring_01FE90 `Você encontrou as[N]Gotas de Cogumelo!`
 
 widestring_01FEA6 ` `
 
-widestring_01FEA8 `[CLD][TPL:D][DLY:2]Você encontrou uma[N]Estátua Mística![END]`
+widestring_01FEA8 `[DLY:2]Você encontrou uma[N]Estátua Mística!`
 
 widestring_01FEBC `Estátua Mística`
 
@@ -135,15 +135,15 @@ widestring_01FEF8 `Mystic [LU1:48]`
 
 ---------------------------------------------
 
-widestring_01FF02 `[TPL:C][DLY:1][ADR:&itemget_table_01FD24,DB8][N]O Inventário está cheio![END]`
+widestring_01FF02 `[TPL:E][DLY:1][ADR:&itemget_table_01FD24,DB8][N]O Inventário está cheio![END]`
 
 ---------------------------------------------
 
-widestring_01FF1F `[DEF][DLY:5][SFX:0][ADR:&itemget_table_01FD24,DB8][PAU:FF][CLD]`
+widestring_01FF1F `[TPL:D][DLY:5][SFX:0][ADR:&itemget_table_01FD24,DB8][PAU:FF][CLD]`
 
 ---------------------------------------------
 
-widestring_01FF2D `[DEF][DLY:1][ADR:&itemget_table_01FD24,DB8][END]`
+widestring_01FF2D `[TPL:D][DLY:1][ADR:&itemget_table_01FD24,DB8][END]`
 
 ---------------------------------------------
 

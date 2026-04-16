@@ -56,6 +56,13 @@ widestring_04F68F `[TPL:0][TPL:B][NAM:0]: Yeah. Because I was[N]told to by my da
 widestring_04F653 `[CLR][NAM:2]: That's a lie. I[N]know it. Even if you say[N]those words, [NAM:0] plans to[N]go, don't you?[FIN]`
 
 ------------------------------
+?INCLUDE 'it1B_inca_statue_b'
+------------------------------
+widestring_04FAF9 `[TPL:D][SFX:0][DLY:9]You've got[N]Incan Statue B![PAU:A0][CLD]`
+
+widestring_04FB16 `[TPL:E]You've found Incan [N]Statue B! But your [N]inventory is full![END]`
+
+------------------------------
 ?INCLUDE 'ir1C_lily'
 ------------------------------
 widestring_09CAE5 `[TPL:2][TPL:E][NAM:2]: Here is the[N]entrance of the Incan[N]ruins.[FIN]Those that are called the[N]"Incaˮ were also[N]widespread, right?[FIN]They say that the mystery[N]of Inca legend is hidden[N]here.[FIN]I had heard this kind of[N]story from the elder when[N]I was little, but…[FIN][TPL:10]It seems that at one time,[N]when the Inca were raided,[N]they were going to abandon[N]their motherland in search[N]of new land.[FIN][CLD][TPL:2][TPL:F]The Incan people were said[N]to have boarded a giant[N]ship built with the most[N]valuable golden craftwork,[FIN]which stole the invaders'[N]glance.[FIN]But, you know, they say[N]that there is no remaining[N]record of that boat's[N]departure…[FIN]That ship is probably the[N]gold ship sleeping to the[N]Inca.[FIN]I imagine that the elder[N]hasn't told this legend to[N]anyone outside the Itory[N]clan until now.[FIN]It seems like the elder is[N]doing something to [NAM:0]…[END]`

@@ -157,13 +157,6 @@ async function createProject(gameId: string, baseRomId: string, baseRomBranchId:
           ] }
         ] },
         { name: '⚡ Quality of Life', groups: [
-          { name: 'Prologue / Overworld Text', options: [
-            { name: 'Enhanced', module: 'enhanced-prologue-text', default: true },
-          ] },
-          { name: 'Epilogue Text (Comet scene)', options: [
-            { name: 'Original (Boxed)', module: null },
-            { name: 'No dialog box/borders', module: 'enhanced-epilogue-text', default: true },
-          ] },
           { name: 'Herb Heals', options: [
             { name: '+8 HP', module: null },
             { name: 'Full HP', module: 'full-health-herb', default: true },
@@ -199,6 +192,17 @@ async function createProject(gameId: string, baseRomId: string, baseRomBranchId:
           ] },
         ] },
         { name: '✨ Extras', groups: [
+          { name: 'Prologue / Overworld Text', options: [
+            { name: 'Enhanced', module: 'enhanced-prologue-text', default: true },
+          ] },
+          { name: 'Epilogue Text (Comet scene)', options: [
+            { name: 'Original (Boxed)', module: null },
+            { name: 'No dialog box/borders', module: 'enhanced-epilogue-text', default: true },
+          ] },
+          { name: 'Adrift Text (Starry night scene)', options: [
+            { name: 'Original (Boxed)', module: null },
+            { name: 'No dialog box/borders', module: 'enhanced-adrift-text', default: true },
+          ] },
           { name: 'Thankful Flower', options: [
             { name: 'Disable', module: null },
             { name: 'Enable', module: 'thankful-flower', default: true },

@@ -18,11 +18,21 @@ widestring_05D676 `[TPL:D]There seems to be one[N]keyhole on this gate.[END]`
 -----------------------------------------------
 ?INCLUDE 'dm3F_laborer'
 -----------------------------------------------
-widestring_0AA97D `[TPL:16][TPL:E]Myself included, there are[N]eight slaves working in[N]this mine.[FIN]Please save them somehow.[END]`
-
 widestring_0AA791 `[TPL:16][TPL:D]Slave: I'm begging you![N]Please cut this chain!![END]`
 
+widestring_0AA7B4 `[TPL:16][TPL:E]Slave: T-thank you!! I[N]will never forget this[N]favour.[FIN][CLD][TPL:C]Please take this key.[FIN]`
+
+widestring_0AA7EF `[TPL:D][SFX:0][DLY:9]You have the[N]key to the mine![PAU:D0][CLD]`
+
+widestring_0AA811 `[TPL:16][TPL:F]There are people who have[N]been put to work even in[N]the depths of the diamond[N]mine.[FIN][CLD][TPL:D]Please use this key and[N]save them somehow.[FIN]`
+
+widestring_0AA85C `[CLD][TPL:C][SFX:0][DLY:9]Got the lift key![PAU:D0][CLD]`
+
 widestring_0AA874 `[TPL:16][TPL:E]Thank you for saving me.[N]To show my thanks, I'll[N]tell you something good.[FIN][TPL:F]This mine has hidden[N]rooms; their entrances[N]aren't distinct from the[N]walls.[FIN]But a draft blows out of[N]the cracks in the[N]entrances.[FIN]They say that you can[N]find them if you pay[N]attention.[FIN][TPL:10]Although, with flowing[N]hair like yours, you'll[N]probably know immediately[N]when it starts to flutter,[N]huh?[END]`
+
+widestring_0AA97D `[TPL:16][TPL:E]Myself included, there are[N]eight slaves working in[N]this mine.[FIN]Please save them somehow.[END]`
+
+widestring_0AA9C5 `[CLR]But your inventory[N]is full![END]`
 
 -----------------------------------------------
 ?INCLUDE 'dm40_trapped_slave'
@@ -38,10 +48,6 @@ widestring_08E1EE `[PRT:@widestring_08DE96]Enemies that thy sword[N]cannot reach
 
 widestring_08ED6D `Dark [NAM:10] is a Power of[N]Darkness that is only[N]usable by [NAM:11], the[N]Warrior of Darkness.[FIN]By shooting aura power,[N]thou canst incinerate[N]enemies that are far from[N]thee.[FIN]Thou canst charge up with[N]the attack button…`
 
-widestring_0AA811 `[TPL:16][TPL:F]There are people who have[N]been put to work even in[N]the depths of the diamond[N]mine.[FIN]Please use this key and[N]save them somehow.[FIN]`
-
-widestring_0AA85C `[CLR][SFX:0][DLY:9]Got the lift key![PAU:D0][END]`
-
 widestring_05D696 `[TPL:D]Used the lift platform[N]key![END]`
 
 -----------------------------------------------
@@ -54,9 +60,8 @@ widestring_05D593 `[TPL:D]There seems to be two[N]keyholes on this gate.[END]`
 -----------------------------------------------
 widestring_05D4EB `[TPL:C][SFX:0][DLY:9]Found the key to the mine![PAU:D0][END]`
 
-widestring_0AA7B4 `[TPL:16][TPL:E]Slave: T-thank you!! I[N]will never forget this[N]favour.[FIN]Please take this key.[FIN]`
+widestring_05D506 `[TPL:D]You found the Mine Key![N]Your inventory is full![END]`
 
-widestring_0AA7EF `[CLR][SFX:0][DLY:9]You [LU1:98]the[N]key to the mine![PAU:FF][END]`
 
 widestring_05D5AC `[TPL:F]I guess the door most[N]likely can't be opened if[N]both the locks aren't both[N]unlocked…[END]`
 
