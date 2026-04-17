@@ -15,23 +15,6 @@ asciistring_01DA47 |[NHM:4][CUR:50,4]PUSH START BUTTON|
 asciistring_01DA5E |[NHM:0][CUR:9C,3]RETRANSLATED[NHM:0][CUR:08,6](C) 1994  QUINTET/ENIX[CUR:48,6]MARIKO OHARA/MOTO HAGIO[CUR:8E,6]YASUHIRO KAWASAKI|
 
 ------------------------------------------------
-?INCLUDE 'scene_meta'
-------------------------------------------------
-
-entry_FC [
-  ppu < #25 >
-  music < #1F, #00, @bgm_illusion_of_gaia >
-  bitmap < #00, #20, #00, @gfx_title, #00 >
-  palette < #00, #80, #00, @pal_title >
-  tileset < #00, #20, #00, #03, @set_title >
-  tilemap < #01, @map_title >
-  tilemap < #02, @map_title_effect >
-  bitmap < #00, #10, #10, @gfx_title_actors, #01 >
-  palette < #00, #60, #A0, @pal_title_actors >
-  spritemap < #$04F4, #00, @spm_title_actors >
-]
-
-------------------------------------------------
 ?INCLUDE 'scene_thinkers'
 ------------------------------------------------
 

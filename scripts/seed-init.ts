@@ -105,7 +105,10 @@ async function createProject(gameId: string, baseRomId: string, baseRomBranchId:
       version: 3,
       isActive: true,
       notes: [
-        'Added: Brazilian Portuguese retranslation by Igor Chagas'
+        'Added: Brazilian Portuguese retranslation by Igor Chagas',
+        'Added: Mt. Kress Shortcut',
+        'Added: Angkor Wat Shortcut',
+        'Added: Enhanced Adrift Text (Starry night scene)'
       ],
       modules: [ {
         name: '🔤 Language', groups: [
@@ -267,7 +270,7 @@ async function createProjectFile(projectId: string, file: any, fileTypes: Record
   let typeEntry = Object.entries(fileTypes).find((value) => value[1].extension === file.extension);
   if(!typeEntry) return null;
 
-  if(typeEntry[1].isBlock || typeEntry[1].isPatch) {
+  if(typeEntry[1].isBlock || typeEntry[1].isPatch || typeEntry[1].struct) {
     text = await readFileAsText(file.path);
     crc = crc32_text_utf8(text);
     isText = true;
