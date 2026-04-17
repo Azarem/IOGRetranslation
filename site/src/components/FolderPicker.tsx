@@ -63,6 +63,11 @@ export function FolderPicker({ onFilesLoaded, onError, onUnshiftChanged, fileTyp
       const baseFolderName = firstFile.webkitRelativePath?.split('/')[0] || 'selected-folder';
       setSelectedFolder(baseFolderName);
 
+      const fileExtLookup = Object.entries(fileTypes).reduce((acc, [key, value]) => {
+        acc[value.extension] = value;
+        return acc;
+      }, {} as Record<string, Partial<DbFileType>>);
+
       // Filter for .asm files (case-insensitive)
       const chunkFiles = await Promise.all(Array.from(files).map(async (file) => {
         const extId = file.name.indexOf('.');
@@ -71,19 +76,19 @@ export function FolderPicker({ onFilesLoaded, onError, onUnshiftChanged, fileTyp
         const name = file.name.substring(0, extId);
         const extension = file.name.substring(extId + 1);
 
-        const type = fileTypes.find((t) => t.extension == extension);
+        const type = fileExtLookup[extension];
         if(!type) return null;
 
         const chunkFile: ChunkFile = {
           name,
-          type,
+          type: type as DbFileType,
           compressed: type.compressed,
           size: file.size,
           location: 0,
           mnemonics: []
         };
 
-        if(type.type == 'Assembly' || type.type == 'Patch') {
+        if(type.isBlock || type.isPatch || type.struct) {
           chunkFile.textData = await readFileContent(file, true);
         } else {
           chunkFile.rawData = await readFileContent(file, false);
