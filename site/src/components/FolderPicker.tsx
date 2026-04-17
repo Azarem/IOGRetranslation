@@ -184,10 +184,10 @@ export function FolderPicker({ onFilesLoaded, onError, onUnshiftChanged, fileTyp
         <input
           ref={folderInputRef}
           type="file"
-          multiple
           onChange={handleFolderSelect}
           className="folder-input"
           id="folder-input"
+          {...{ webkitdirectory: "", directory: "" }}
         />
         <button onClick={handleButtonClick} className="folder-input-label">
           {selectedFolder ? `📁 ${selectedFolder}` : 'Choose Folder...'}
