@@ -9,7 +9,7 @@ interface RomBuilderProps {
   projectName: string;
   folderFiles: ChunkFile[];
   unshiftManualFiles?: boolean;
-  fileTypes: DbFileType[];
+  fileTypes: Record<string, Partial<DbFileType>>;
   expectedCrc: number;
   onBuildComplete: (romData: Uint8Array) => void;
   onBuildError: (error: string) => void;
@@ -94,7 +94,7 @@ export function RomBuilder({
       if (notepadContent) {
         const notepadChunk: ChunkFile = {
           name: '<notepad>',
-          type: fileTypes.find((t) => t.type == 'Patch')!,
+          type: Object.entries(fileTypes).find((t) => t[1].isPatch)![1] as DbFileType,
           textData: notepadContent,
           size: 0, // Will be calculated during processing
           location: 0, // Will be determined during processing
