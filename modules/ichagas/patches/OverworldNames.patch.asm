@@ -28,9 +28,9 @@ spritestring_03B34E ~Cidade de Euro~
 spritestring_03B35B ~Cidade de Euro~
 spritestring_03B368 ~Monte Sagrado~
 spritestring_03B372 ~Monte Sagrado~
-spritestring_03B37C ~Aldeia dos Nativos~
-spritestring_03B38D ~Aldeia dos Nativos~
-spritestring_03B39E ~Aldeia dos Nativos~
+spritestring_03B37C ~Aldeia Indígena~
+spritestring_03B38D ~Aldeia Indígena~
+spritestring_03B39E ~Aldeia Indígena~
 spritestring_03B3AF ~Angkor Wat~
 spritestring_03B3B9 ~Dao, a Vila do Deserto~
 spritestring_03B3CC ~Dao, a Vila do Deserto~
