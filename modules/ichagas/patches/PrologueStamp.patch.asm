@@ -124,7 +124,7 @@ prologue_stamp {
     BRA loc_09B060
 
   loc_09B0AF:
-    PEA $&code_09B0A2-1
+    PEA #$&code_09B0A2-1
     LDA $0000, Y
     INY 
     CMP #$E0
