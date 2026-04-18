@@ -41,7 +41,7 @@ widestring_049ABB `[TPL:3][TPL:8][NAM:6]: Bem vindo de volta![FIN][CLD][TPL:3][T
 ------------------------
 widestring_0494B1 `[TPL:4][TPL:9]Bill: Rapaz… Fazia tempo[N]que ela não cantava assim![FIN]Sua avó [NAM:6] já foi[N]cantora de bar.[FIN][TPL:A]Eu me apaixonei pela voz e[N]pelo jeito doce dela…[N]Então a pedi em casamento![FIN][CLD][TPL:4][TPL:8]Bwahaha.[END]`
 
-widestring_049A3F `[TPL:3][TPL:A][NAM:6]: Laura: Ohoho…[N]Deixa disso, querido![N]Falar disso agora…[FIN][CLD][TPL:3][TPL:9]Mas é verdade, [NAM:0], não[N]fique surpreso.[FIN][TPL:A]A menina que estava[N]cantando aqui comigo[N]agora mesmo também é--[END]`
+widestring_049A3F `[TPL:3][TPL:A][NAM:6]: Ohoho…[N]Deixa disso, querido![N]Falar disso agora…[FIN][CLD][TPL:3][TPL:9]Mas é verdade, [NAM:0], não[N]fique surpreso.[FIN][TPL:A]A menina que estava[N]cantando aqui comigo[N]agora mesmo também é--[END]`
 
 widestring_04953E `[TPL:1][BOR:2][TPL:8][DLY:0]Aaaaahhhhhh!!![FIN][CLD][TPL:8][SFX:10][DLY:0]Um grito ecoou do térreo…![END]`
 
@@ -77,7 +77,7 @@ widestring_04A582 `[TPL:E][DIY:0]Na manhã seguinte, Algo[N]sinistro estava pres
 
 widestring_049828 `[TPL:4][TPL:8][LU1:6]Bom dia, [NAM:0]![FIN][CLD][TPL:4][TPL:A]Comi mais uns pedaços da[N]torta da sua avó [NAM:6][N]agora no café da manhã.[FIN][CLD][TPL:4][TPL:9]Deixei um pedaço pra você.[N]Buhuhu…![END]`
 
-widestring_049BE5 `[TPL:3][TPL:8][NAM:6]: Bom dia, [NAM:0].[FIN][TPL:3][TPL:9][NAM:6] Chegou uma carta[N]pra você…[FIN][CLD][TPL:3][TPL:8][DLY:1]Do Rei Edward.[FIN][CLD][TPL:2][TPL:B][DIY:2]"Traga o anel de cristal[N]de [NAM:9] até o Castelo.ˮ[N][N]               —Rei Edward[FIN][CLD][TPL:3][TPL:A][NAM:6]: Desde que eu vi[N]essa carta, fiquei com um[N]mau pressentimento…[FIN][CLD][TPL:3][TPL:9][NAM:0], vou te ensinar algo[N]pra dar sorte.[FIN][TPL:A]Sempre que você estiver em[N]algum apuro, toque essa[N]melodia.[FIN][CLD][TPL:3][TPL:9]Ela vai ajudá-lo a superar[N]o que quer que seja.[FIN][CLD][TPL:9][NAM:6] cantarolou uma[N]melodia misteriosa.[END]`
+widestring_049BE5 `[TPL:3][TPL:8][NAM:6]: Bom dia, [NAM:0].[FIN][TPL:3][TPL:9]Chegou uma carta[N]pra você...[FIN][CLD][TPL:3][TPL:8][DLY:1]Do Rei Edward.[FIN][CLD][TPL:2][TPL:B][DIY:2]"Traga o anel de cristal[N]de [NAM:9] até o Castelo.ˮ[N][N]               —Rei Edward[FIN][CLD][TPL:3][TPL:A][NAM:6]: Desde que eu vi[N]essa carta, fiquei com um[N]mau pressentimento…[FIN][CLD][TPL:3][TPL:9][NAM:0], vou te ensinar algo[N]pra dar sorte.[FIN][TPL:A]Sempre que você estiver em[N]algum apuro, toque essa[N]melodia.[FIN][CLD][TPL:3][TPL:9]Ela vai ajudá-lo a superar[N]o que quer que seja.[FIN][CLD][TPL:9][NAM:6] cantarolou uma[N]melodia misteriosa.[END]`
 
 widestring_049D29 `[TPL:0][TPL:8][SFX:0][DLY:5]Era uma melodia linda…[PAU:58][CLR][TPL:B]Mesmo sendo a primeira vez[N]que eu a ouvia, ela me[N]trouxe uma saudade que eu[N]nem sabia que tinha…[PAU:60][CLD][TPL:9][SFX:0][DLY:1]Você aprendeu a Melodia[N]de [NAM:6]![PAU:40][CLD]`
 
