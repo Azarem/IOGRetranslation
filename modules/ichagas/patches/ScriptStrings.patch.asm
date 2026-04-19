@@ -75,3 +75,34 @@ widestring_0BF6DF `Diário 1: [ADR:&strings_0BF706,D74]`
 widestring_0BF6EC `Diário 2: [ADR:&strings_0BF706,D76]`
 widestring_0BF6F9 `Diário 3: [ADR:&strings_0BF706,D78]`
 widestring_0BF630 `[DLG:18,E][SFX:0][ADR:&table_0BF63B,D8E]`
+
+?IF 'AngkorShortcut'
+
+  ?INCLUDE 'awBF_spirit_guide'
+
+  code_089B1F {
+      LDA #$FFF0
+      TRB $joypad_mask_std
+      COP [DA] ( #F0 )
+      COP [BF] ( &angkor_shortcut_str )
+      COP [BE] ( #02, #02, &angkor_shortcut_options )
+      RTL
+  }
+
+  ?INCLUDE 'AngkorShortcut'
+
+  angkor_shortcut_str `[TPL:17][TPL:C]A voice whispers…[FIN][TPL:F]It's a long way back…[N]Let me take you there…[N][PAL:0] No[N] Yes[PAL:4]`
+  angkor_shortcut_accept_str `[CLD][TPL:17][TPL:C]Close your eyes…[END]`
+
+?ENDIF
+
+?IF 'KressShortcut'
+
+  ?INCLUDE 'KressShortcut'
+  
+  kress_shortcut_str `[TPL:17][TPL:F]Spirit: Whew, I'm[N]impressed you made it all[N]the way up here on your[N]own.[FIN]Would you like me to take[N]you to the bottom?[N][PAL:0] No[N] Yes[PAL:4]`
+
+  kress_shortcut_cancel_str `[CLD][TPL:17][TPL:D]Let me know if you change[N]your mind.[END]`
+  kress_shortcut_accept_str `[CLD][TPL:17][TPL:C]Close your eyes…[END]`
+
+?ENDIF

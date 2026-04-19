@@ -118,7 +118,6 @@ print_character {
     DEC $0E
     BPL print_outer_loop
     
-    ;JSR write_sprite
     JSR increment_map
     PLY 
     RTS 
@@ -173,7 +172,6 @@ proc_accent_map {
     PLY
     PLX
 
-    ;JSR write_sprite
     JSR increment_map
     
     RTS
@@ -185,20 +183,13 @@ increment_map {
     ADC #$0020
     BIT #$0200
     BEQ increment_next
-    CLC
 
+    CLC
     ADC #$0200
 
   increment_next:
     STA $3E
     INC $0D70
-    ;INC $22
-
-  increment_end:
-    ;LDA $02
-    ;CLC
-    ;ADC #$0008
-    ;STA $02  --Increment X position
     RTS 
 }
 
