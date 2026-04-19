@@ -25,7 +25,7 @@ widestring_03B72B `[TPL:11][SFX:0] Voltar[N] Euro `
 widestring_03B753 `[TPL:11][SFX:0] Voltar       Angkor Wat [N] Euro `
 widestring_03B78A `[TPL:11][SFX:0] Voltar[N] Aldeia Ind.`
 widestring_03B7C7 `[TPL:11][SFX:0] Voltar[N] Aldeia Ind.`
-widestring_03B7F6 `[TPL:11][SFX:0] Voltar       Pirâmide[N] Aldeia Ind.`
+widestring_03B7F6 `[TPL:11][SFX:0] Voltar       Pirâmide[N] Euro       Aldeia Ind.`
 widestring_03B82C `[TPL:11][SFX:0] Voltar[N] Dao`
 widestring_03B859 `[TPL:11][SFX:0] Voltar      Angkor Wat [N] Euro        Dao `
 widestring_03B8A2 `[TPL:11][SFX:0] Voltar       Monte Ceres [N] Termágua    Aldeia Ind.`
