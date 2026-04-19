@@ -85,24 +85,30 @@ widestring_0BF630 `[DLG:18,E][SFX:0][ADR:&table_0BF63B,D8E]`
       TRB $joypad_mask_std
       COP [DA] ( #F0 )
       COP [BF] ( &angkor_shortcut_str )
-      COP [BE] ( #02, #02, &angkor_shortcut_options )
+      COP [BE] ( #02, #01, &angkor_shortcut_options )
       RTL
   }
 
   ?INCLUDE 'AngkorShortcut'
 
-  angkor_shortcut_str `[TPL:17][TPL:C]A voice whispers…[FIN][TPL:F]It's a long way back…[N]Let me take you there…[N][PAL:0] No[N] Yes[PAL:4]`
-  angkor_shortcut_accept_str `[CLD][TPL:17][TPL:C]Close your eyes…[END]`
+angkor_shortcut_str `[TPL:17][TPL:C]Uma voz ecoa…[FIN][TPL:D]É um longo caminho de[N]volta…[FIN][TPL:E]Deixa-me conduzi-lo…[N][PAL:0] Não[N] Sim[PAL:4]`
+angkor_shortcut_accept_str `[CLD][TPL:17][TPL:C]Fecha teus olhos…[END]`
 
 ?ENDIF
 
 ?IF 'KressShortcut'
 
   ?INCLUDE 'KressShortcut'
-  
-  kress_shortcut_str `[TPL:17][TPL:F]Spirit: Whew, I'm[N]impressed you made it all[N]the way up here on your[N]own.[FIN]Would you like me to take[N]you to the bottom?[N][PAL:0] No[N] Yes[PAL:4]`
 
-  kress_shortcut_cancel_str `[CLD][TPL:17][TPL:D]Let me know if you change[N]your mind.[END]`
-  kress_shortcut_accept_str `[CLD][TPL:17][TPL:C]Close your eyes…[END]`
+shortcut_interact {
+    COP [BF] ( &kress_shortcut_str )
+    COP [BE] ( #02, #01, &kress_shortcut_options )
+    RTL 
+}
+  
+  kress_shortcut_str `[TPL:17][TPL:E]Espírito: Te elevastes até[N]aqui por tua própria[N]força… Impressionante.[FIN][TPL:E]Deixa-me guiá-lo de volta.[N][PAL:0] Não[N] Sim[PAL:4]`
+
+  kress_shortcut_cancel_str `[CLD][TPL:17][TPL:D]Estarei aqui caso[N]mude de ideia.[END]`
+  kress_shortcut_accept_str `[CLD][TPL:17][TPL:C]Fecha teus olhos…[END]`
 
 ?ENDIF
