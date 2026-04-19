@@ -77,7 +77,11 @@ widestring_01CB58 `[DLG:3,11][SIZ:D,4]`
 
 widestring_01CB5F `[DLG:3,F][SIZ:D,5]`
 
-widestring_01CB66 `[DLG:2,14][SIZ:E,3][LU1:65]do you go?[N]`
+?IF 'ichagas'
+  widestring_01CB66 `[DLG:2,14][SIZ:E,3]Para onde quer ir?[N]`
+?ELSE
+  widestring_01CB66 `[DLG:2,14][SIZ:E,3][LU1:65]do you go?[N]`
+?ENDIF
 
 widestring_01CB7A `[DLG:3,4][SIZ:D,5]`
 

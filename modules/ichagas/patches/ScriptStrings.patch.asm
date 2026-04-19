@@ -112,3 +112,10 @@ shortcut_interact {
   kress_shortcut_accept_str `[CLD][TPL:17][TPL:C]Fecha teus olhos…[END]`
 
 ?ENDIF
+
+----------------------------------------
+?INCLUDE 'ExpandedOverworldRoutes'
+?INCLUDE 'overworld_options'
+----------------------------------------
+
+euro_full_option_str `[DLG:2,14][SIZ:E,3][SFX:0] Quit        Dao[N] Watermia    Natives' Vil.[N] Mt.Temple   (Where to?)`
