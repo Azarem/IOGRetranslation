@@ -31,7 +31,7 @@ diary_ngp_str     `[DLG:6,A][SIZ:A,5]Iniciar Jornada[N]Apagar Diário[N]Copiar D
 ------------------------------------
 ?INCLUDE 'SouthCapeDeliveryman'
 ------------------------------------
-skyd_str_intro    `[TPL:16][TPL:F]Eu sou o Entregador Alado.[N]Meus pássaros treinados[N]podem te levar para[N] terras distantes.[FIN][TPL:F]Para onde quer ir?[N][PAL:0] Ficar aqui[N] Termágua[N] Frésia[PAL:4]`
+skyd_str_intro    `[TPL:16][TPL:F]Eu sou o Entregador Alado.[N]Meus pássaros treinados[N]podem te levar para[N]terras distantes.[FIN][TPL:F]Para onde quer ir?[N][PAL:0] Ficar aqui[N] Termágua[N] Frésia[PAL:4]`
 skyd_str_cancel   `[CLD][TPL:D]Tudo bem. Volte se mudar[N]de ideia.[END]`
 skyd_str_watermia `[CLD][TPL:E]Venham, meus pássaros![N]Vamos levar esse rapaz[N]para Termágua![END]`
 skyd_str_freejia  `[CLD][TPL:E]Venham, meus pássaros![N]Vamos levar esse rapaz[N]para Frésia![END]`
@@ -39,7 +39,7 @@ skyd_str_freejia  `[CLD][TPL:E]Venham, meus pássaros![N]Vamos levar esse rapaz[
 ------------------------------------
 ?INCLUDE 'WatermiaDeliveryman'
 ------------------------------------
-watermia_greeting_str   `[TPL:16][TPL:F]Eu sou o Entregador Alado.[N]Meus pássaros treinados[N]podem te levar para[N] terras distantes.[FIN][TPL:F]Para onde quer ir?[N][PAL:0] Ficar aqui[N] Cabo do Sul[N] Frésia[PAL:4]`
+watermia_greeting_str   `[TPL:16][TPL:F]Eu sou o Entregador Alado.[N]Meus pássaros treinados[N]podem te levar para[N]terras distantes.[FIN][TPL:F]Para onde quer ir?[N][PAL:0] Ficar aqui[N] Cabo do Sul[N] Frésia[PAL:4]`
 watermia_cancel_str     `[CLD][TPL:D]Tudo bem. Volte se mudar[N]de ideia.[END]`
 watermia_south_cape_str `[CLD][TPL:E]Venham, meus pássaros![N]Vamos levar esse rapaz[N]para Cabo do Sul![END]`
 watermia_freejia_str    `[CLD][TPL:E]Venham, meus pássaros![N]Vamos levar esse rapaz[N]para Frésia![END]`
