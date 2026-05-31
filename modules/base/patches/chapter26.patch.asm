@@ -40,7 +40,7 @@ widestring_0796A9 `[TPL:1C][TPL:F]This is where we meet for[N]Russian glass.[N]A
 
 widestring_0796DE `[CLR]Alright, in that case, go[N]home. Then forget[N]everything you saw here.[END]`
 
-widestring_079704 `[CLR]What, you’re betting your[N]young life on Russian[N]glass…?![FIN]This isn't a game.[N]You're betting your life.[FIN]I'll ask you one more[N]time. You really won't[N]regret this?[WAI][N][PAL:0] Yes[N] No[PAL:4]`
+widestring_079704 `[CLR]What, you're betting your[N]young life on Russian[N]glass…?![FIN]This isn't a game.[N]You're betting your life.[FIN]I'll ask you one more[N]time. You really won't[N]regret this?[WAI][N][PAL:0] Yes[N] No[PAL:4]`
 
 widestring_07977A `[CLR]Very well. The one[N]standing there is the[N]opponent you're competing[N]against.[FIN]He's a veteran of this[N]game. I've never seen a[N]human being with luck[N]like his.[FIN]Alright. You may ask him[N]about the rules.[END]`
 

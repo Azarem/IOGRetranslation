@@ -129,7 +129,7 @@ widestring_08A99F `[TPL:1F][TPL:F]How does the Pyramid not[N]sink into the sand 
 -------------------------------------
 ?INCLUDE 'daC7_explorer3'
 -------------------------------------
-widestring_08AAAC `[TPL:1F][TPL:10]We're explorers. We came[N]here because we had heard[N]that there’s treasure[N]sleeping in the Pyramid,[N]but…[END]`
+widestring_08AAAC `[TPL:1F][TPL:10]We're explorers. We came[N]here because we had heard[N]that there's treasure[N]sleeping in the Pyramid,[N]but…[END]`
 
 -------------------------------------
 ?INCLUDE 'daC7_explorer2'

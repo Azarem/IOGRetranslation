@@ -110,7 +110,7 @@ widestring_058BD7 `[TPL:0][TPL:A][NAM:0]: An Incan person was[N]standing here a 
 ---------------------------------------
 widestring_05966E `[TPL:5][TPL:E][NAM:5]: A little while ago[N]I found this odd jewel[N]inside the ship.[FIN]Here, I'll give it to you,[N]alright?[FIN][CLD][TPL:C][NAM:0] received a Red Jewel![END]`
 
-widestring_0596C1 `[TPL:5][TPL:F]Now that you mention it,[N]this might be the first[N]time I’ve given something[N]to you.[FIN]Please treasure it.[END]`
+widestring_0596C1 `[TPL:5][TPL:F]Now that you mention it,[N]this might be the first[N]time I've given something[N]to you.[FIN]Please treasure it.[END]`
 
 ---------------------------------------
 ?INCLUDE 'gs2B_erik'
@@ -120,7 +120,7 @@ widestring_059240 `[TPL:3][TPL:D][NAM:3]: Wah…![N]You surprised me…!![FIN]Ge
 ---------------------------------------
 ?INCLUDE 'gs2D_kara'
 ---------------------------------------
-widestring_058C21 `[TPL:1][TPL:B][NAM:1]: They died waiting[N]for an Incan King that[N]they couldn’t expect to[N]return…[FIN]In the end, I can't stand[N]that people who were[N]living in peace had their[N]lives shattered…[END]`
+widestring_058C21 `[TPL:1][TPL:B][NAM:1]: They died waiting[N]for an Incan King that[N]they couldn't expect to[N]return…[FIN]In the end, I can't stand[N]that people who were[N]living in peace had their[N]lives shattered…[END]`
 
 ---------------------------------------
 ?INCLUDE 'gs2D_mummy'
@@ -141,4 +141,4 @@ widestring_059157 `[TPL:5][TPL:8]Aaaaaaaaaaaaaaah…![FIN][TPL:4][TPL:B][NAM:4]:
 
 widestring_0592FF `[TPL:4][TPL:E][NAM:4]: What happened to[N][NAM:5]…?! What was[N]that…!![FIN][TPL:3][TPL:E][DLY:0][NAM:3]: Waaaaaaaaah…[N][NAM:5], he…[N][NAM:5], he…[FIN]A huge fish smashed into[N]the ship and…[N]*sniffle*…[FIN][NAM:5] fell overboard…[N]*Sniffle*…[FIN]Uwaaaaaah! It looked like[N]it ate [NAM:5]…![N]*sniffle* *sniffle*[FIN][TPL:4][TPL:E][NAM:4]: W-what did ya[N]say…?![END]`
 
-widestring_0593DA `[TPL:3][TPL:E][NAM:3]: Waaaaaaah! It's[N]that fish agaaain…![N]It’s going to eat us…![FIN][TPL:4][TPL:E][NAM:4]: If ya have time to[N]cry, then hold on to[N]somethin'…![FIN]Don't let yourself get[N]thrown off…![END]`
+widestring_0593DA `[TPL:3][TPL:E][NAM:3]: Waaaaaaah! It's[N]that fish agaaain…![N]It's going to eat us…![FIN][TPL:4][TPL:E][NAM:4]: If ya have time to[N]cry, then hold on to[N]somethin'…![FIN]Don't let yourself get[N]thrown off…![END]`

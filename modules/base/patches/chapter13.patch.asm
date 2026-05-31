@@ -123,7 +123,7 @@ widestring_05B7CA `[TPL:20][TPL:D]This isn't a place for[N]kids. Go home, go hom
 --------------------------------------
 ?INCLUDE 'fr32_showman'
 --------------------------------------
-widestring_05BDBE `[TPL:20][TPL:F]I do performance art with[N]fire and I’m the best at[N]what I do. Come on, take[N]a look…![END]`
+widestring_05BDBE `[TPL:20][TPL:F]I do performance art with[N]fire and I'm the best at[N]what I do. Come on, take[N]a look…![END]`
 
 --------------------------------------
 ?INCLUDE 'fr35_slave1'

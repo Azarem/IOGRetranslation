@@ -20,7 +20,7 @@ widestring_05DA04 `[TPL:6][TPL:A]Neil: Hey! You two little[N]ladies are both ter
 -------------------------------------
 ?INCLUDE 'na49_lance'
 -------------------------------------
-widestring_05E1EE `[TPL:4][TPL:A][NAM:4]: My record's three[N]weeks, but I guess I’m[N]losing…[END]`
+widestring_05E1EE `[TPL:4][TPL:A][NAM:4]: My record's three[N]weeks, but I guess I'm[N]losing…[END]`
 
 -------------------------------------
 ?INCLUDE 'na49_kara'
@@ -58,7 +58,7 @@ widestring_05E55C `[TPL:6][TPL:8]That's the camera.[FIN][TPL:B]It's a device tha
 
 widestring_05DD04 `[TPL:6][TPL:9]Neil: [NAM:0], where are you[N]going?[FIN][TPL:B]You took the trouble of[N]coming here, so relax a[N]while longer before you[N]go.[END]`
 
-widestring_05DB9C `[TPL:6][TPL:B]Anyway, you came here[N]because I can do something[N]for you, right? Please[N]tell me what you need.[FIN][TPL:0][TPL:B][NAM:0] told Neil about the[N]events that happened until[N]now; hearing the voice of[N]his missing father,[FIN]searching for the [NAM:D][N][NAM:E]s that are spread[N]across ruins throughout[N]the world, and so on.[FIN][CLD][TPL:6][TPL:A]Neil: Hohoho… I think[N]that's a very interesting[N]story…[FIN]I’m a little interested in[N]ancient ruins too, you[N]know?[FIN]The ruins that you've told[N]me are scattered all over[N]the world…[FIN]But there's a mysterious[N]connection between them.[FIN][TPL:B]If you draw a line on the[N]world map between all the[N]ruins you've been to so[N]far…[FIN]…it somehow forms a huge[N]image of the constellation[N]of Cygnus, the swan.[END]`
+widestring_05DB9C `[TPL:6][TPL:B]Anyway, you came here[N]because I can do something[N]for you, right? Please[N]tell me what you need.[FIN][TPL:0][TPL:B][NAM:0] told Neil about the[N]events that happened until[N]now; hearing the voice of[N]his missing father,[FIN]searching for the [NAM:D][N][NAM:E]s that are spread[N]across ruins throughout[N]the world, and so on.[FIN][CLD][TPL:6][TPL:A]Neil: Hohoho… I think[N]that's a very interesting[N]story…[FIN]I'm a little interested in[N]ancient ruins too, you[N]know?[FIN]The ruins that you've told[N]me are scattered all over[N]the world…[FIN]But there's a mysterious[N]connection between them.[FIN][TPL:B]If you draw a line on the[N]world map between all the[N]ruins you've been to so[N]far…[FIN]…it somehow forms a huge[N]image of the constellation[N]of Cygnus, the swan.[END]`
 
 widestring_05E0C1 `[TPL:1][TPL:9][NAM:1]: You said it was[N]Cygnus?![FIN][TPL:6][TPL:B]Neil: Right. Beyond that,[N]the Tower of Babel that[N][NAM:0]'s dad was said to have[N]disappeared in,[FIN]…ends up being exactly in[N]the middle of that giant[N]swan.[END]`
 

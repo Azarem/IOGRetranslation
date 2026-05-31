@@ -62,7 +62,7 @@ widestring_07CAB0 `[TPL:1E][TPL:D]There are a lot of narrow[N]back alleys in thi
 -------------------------------------
 ?INCLUDE 'eu91_book'
 -------------------------------------
-widestring_07E4D3 `[TPL:1E][TPL:F]It’s a book by a person[N]named Rofski. It holds[N]predictions about the[N]future of humanity.[END]`
+widestring_07E4D3 `[TPL:1E][TPL:F]It's a book by a person[N]named Rofski. It holds[N]predictions about the[N]future of humanity.[END]`
 
 -------------------------------------
 ?INCLUDE 'eu91_merchants'

@@ -39,7 +39,7 @@ widestring_05E2CE `[TPL:3][TPL:A][NAM:3]: O Morris ia ficar[N]todo feliz se viss
 -------------------------------------
 ?INCLUDE 'na49_tank'
 -------------------------------------
-widestring_05E327 `[TPL:6][TPL:A]Neil:[N]Esse é um cilindro de[N]oxigênio. Tem ar dentro.[FIN][TPL:A]Dá pra respirar até[N]debaixo d’água… Só que[N]dura só um minuto.[FIN][TPL:B]Se fosse possível[N]comprimir o ar, daria[N]pra mergulhar por muito[N]mais tempo.[FIN][CLD][TPL:6][TPL:9]Mas ainda não descobri[N]como fazer isso.[END]`
+widestring_05E327 `[TPL:6][TPL:A]Neil:[N]Esse é um cilindro de[N]oxigênio. Tem ar dentro.[FIN][TPL:A]Dá pra respirar até[N]debaixo d'água… Só que[N]dura só um minuto.[FIN][TPL:B]Se fosse possível[N]comprimir o ar, daria[N]pra mergulhar por muito[N]mais tempo.[FIN][CLD][TPL:6][TPL:9]Mas ainda não descobri[N]como fazer isso.[END]`
 
 -------------------------------------
 ?INCLUDE 'na49_wings'
