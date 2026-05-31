@@ -118,4 +118,4 @@ shortcut_interact {
 ?INCLUDE 'overworld_options'
 ----------------------------------------
 
-euro_full_option_str `[DLG:2,14][SIZ:E,3][SFX:0] Quit        Dao[N] Watermia    Natives' Vil.[N] Mt.Temple   (Where to?)`
+euro_full_option_str `[DLG:2,14][SIZ:E,3][SFX:0] Voltar       Dao[N] Termágua    Aldeia Ind.[N] Mt. Ceres   (Para onde ir?)`
