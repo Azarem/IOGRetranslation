@@ -48,7 +48,7 @@ widestring_05A405 `[TPL:0][TPL:9][DLY:0][NAM:0]: [NAM:1] ate the[N]delicious-loo
 
 widestring_059D15 `[DLG:8,7][SIZ:8,1]12th Day Adrift[END]`
 
-widestring_05A467 `[TPL:1][TPL:D][NAM:1]: The stars are[N]beautiful, huh…[FIN][TPL:E]It seems like I could[N]touch them with my hands[N]if I was a little taller.[FIN][TPL:F]I think [NAM:2], [NAM:4] and[N]the rest must also be[N]looking at this same[N]starry sky.[FIN]If we could talk with the[N]stars, then we would[N]definitely know where[N]everyone is…[FIN][NAM:1]: Oh, that's right.[FIN]I noticed recently that[N]there's one more star[N]around the constellation[N]of Cygnus, the swan.[FIN]See, that red star over[N]there.[FIN]Hey. Won’t you make a wish[N]on that star? I feel like[N]it will definitely come[N]true.[FIN][NAM:0], you close your eyes[N]tight and make a wish too,[N]okay?[END]`
+widestring_05A467 `[TPL:1][TPL:D][NAM:1]: The stars are[N]beautiful, huh…[FIN][TPL:E]It seems like I could[N]touch them with my hands[N]if I was a little taller.[FIN][TPL:F]I think [NAM:2], [NAM:4] and[N]the rest must also be[N]looking at this same[N]starry sky.[FIN]If we could talk with the[N]stars, then we would[N]definitely know where[N]everyone is…[FIN][NAM:1]: Oh, that's right.[FIN]I noticed recently that[N]there's one more star[N]around the constellation[N]of Cygnus, the swan.[FIN]See, that red star over[N]there.[FIN]Hey. Won't you make a wish[N]on that star? I feel like[N]it will definitely come[N]true.[FIN][NAM:0], you close your eyes[N]tight and make a wish too,[N]okay?[END]`
 
 widestring_05A5AB `[TPL:0][TPL:B][DLY:0][NAM:0]: I tried praying as[N]hard as I could for[N]everyone's safety, and for[N]my dad…[END]`
 

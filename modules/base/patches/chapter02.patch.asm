@@ -32,7 +32,7 @@ widestring_04B612 `[TPL:5][TPL:A][NAM:5]: I'm not really[N]interested in girls.[
 
 widestring_04BB59 `[TPL:3][TPL:A][NAM:3]: Dang, I thought[N]everyone was gonna be so[N]amazed…[END]`
 
-widestring_04B652 `[TPL:5][TPL:A][NAM:5]: Alright, since[N]everyone's here, what's[N]the plan for today?[FIN][CLD][PAU:1E][TPL:3][TPL:9][NAM:3]: Hey, I wanna see[N]Tim's mysterious power.[FIN][TPL:B]Come on, didn't you show[N]us the other day? You can[N]move things without using[N]your hands.[END][TPL:4][TPL:A][NAM:4]: If I'm remembering[N]right, he moved the stone[N]statue in the cave's nook.[FIN][CLD][TPL:4][TPL:9]Show us one more time,[N][NAM:0].[END]`
+widestring_04B652 `[TPL:5][TPL:A][NAM:5]: Alright, since[N]everyone's here, what's[N]the plan for today?[FIN][CLD][PAU:1E][TPL:3][TPL:9][NAM:3]: Hey, I wanna see[N][NAM:0]'s mysterious power.[FIN][TPL:B]Come on, didn't you show[N]us the other day? You can[N]move things without using[N]your hands.[END][TPL:4][TPL:A][NAM:4]: If I'm remembering[N]right, he moved the stone[N]statue in the cave's nook.[FIN][CLD][TPL:4][TPL:9]Show us one more time,[N][NAM:0].[END]`
 
 widestring_04BB89 `[TPL:3][TPL:A][NAM:3]: You moved the statue[N]without going near it the[N]other day, right?[END]`
 

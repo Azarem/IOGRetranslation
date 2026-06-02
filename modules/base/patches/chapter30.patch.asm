@@ -7,7 +7,7 @@
 -------------------------------------
 ?INCLUDE 'awB0_intro'
 -------------------------------------
-widestring_089807 `[TPL:0][TPL:12]If you push through the[N]jungle from the[N]aboriginal's village for[N]at most three days, you’ll[N]reach a gigantic temple.[PAL:0][END]`
+widestring_089807 `[TPL:0][TPL:12]If you push through the[N]jungle from the[N]aboriginal's village for[N]at most three days, you'll[N]reach a gigantic temple.[PAL:0][END]`
 
 ;Outer circumference pathway
 

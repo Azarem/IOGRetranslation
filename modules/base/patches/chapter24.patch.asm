@@ -16,7 +16,7 @@ widestring_078139 `[TPL:0][TPL:F][DLY:0]And here is Luke's house.[N]He's a kind 
 -------------------------------------
 ?INCLUDE 'wa79_kara'
 -------------------------------------
-widestring_07A613 `[TPL:1][TPL:B][NAM:1]: Watermia is an[N]amazingly pretty town, but[N]I've heard some unpleasant[N]gossip…[FIN]Something like playing[N]with people’s lives…[N]What was it…?[FIN]I wonder if without[N]exception, beautiful[N]things always have[N]another side.[FIN]It was like that with the[N]Capital of Flowers…[END]`
+widestring_07A613 `[TPL:1][TPL:B][NAM:1]: Watermia is an[N]amazingly pretty town, but[N]I've heard some unpleasant[N]gossip…[FIN]Something like playing[N]with people's lives…[N]What was it…?[FIN]I wonder if without[N]exception, beautiful[N]things always have[N]another side.[FIN]It was like that with the[N]Capital of Flowers…[END]`
 
 -------------------------------------
 ?INCLUDE 'wa79_erik'
