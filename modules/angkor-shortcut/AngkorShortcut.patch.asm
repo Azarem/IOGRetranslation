@@ -23,6 +23,7 @@ angkor_shortcut_options [
 ]
 
 angkor_shortcut_cancel {
+    COP [BF] ( &angkor_shortcut_cancel_str )
     COP [E0]
     RTL
 }
@@ -40,4 +41,5 @@ angkor_shortcut_accept {
 }
 
 angkor_shortcut_str `[TPL:17][TPL:C]A voice whispers…[FIN][TPL:F]It's a long way back…[N]Let me take you there…[N][PAL:0] No[N] Yes[PAL:4]`
+angkor_shortcut_cancel_str `[CLD]`
 angkor_shortcut_accept_str `[CLD][TPL:17][TPL:C]Close your eyes…[END]`
