@@ -5,7 +5,7 @@
 
 ;Characters >= 0xDC will use the accent table
 
-sub_03E255 {
+DialogStringRenderer! {
     PHP 
     PHD 
     PHX 

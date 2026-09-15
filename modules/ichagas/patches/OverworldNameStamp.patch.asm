@@ -201,7 +201,7 @@ increment_map {
     LDA $0D6F
     AND #$00FF
     STA $0000
-    JSR $&code_03A692
+    JSR $&LookupMapName
     COP [4F] ( $7EA000, #$5000, #$0800 )
     COP [9A] ( @code_03A246, #$3001 )
     COP [63] ( #00, #07, #00 )
@@ -225,7 +225,7 @@ increment_map {
     LDA $0D6E
     AND #$00FF
     STA $0000
-    JSR $&code_03A692
+    JSR $&LookupMapName
     COP [4F] ( $7EA000, #$5000, #$0800 )
     COP [9C] ( @code_03A246, #$1001 )
     COP [DA] ( #3B )
@@ -300,7 +300,7 @@ code_03A246 {
 
   loc_03A6AD:
     REP #$20
-    LDY $&overworld_names+1, X
+    LDY $&world_map_names+1, X
     JSL $@overworld_stamp_main
     PLB 
     PLX 

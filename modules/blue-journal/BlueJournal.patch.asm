@@ -7,19 +7,19 @@
 ---------------------------------------------------
 
 
-code_07B3AF {
+code_07B3AF! {
     COP [D0] ( #A5, #01, &code_07B3BD )
     COP [D0] ( #journal_collected_flag, #01, &lances_father_default )
     COP [D0] ( #letter_read_flag, #01, &lances_father_journal )
   lances_father_default:
-    COP [BF] ( &widestring_07B3C2 )
+    COP [BF] ( &dialogstring_07B3C2 )
     COP [CC] ( #01 )
     RTL 
 }
 
-code_07B3BD {
+code_07B3BD! {
     COP [D0] ( #journal_collected_flag, #00, &lances_father_return )
-    COP [BF] ( &widestring_07B412 )
+    COP [BF] ( &dialogstring_07B412 )
     RTL 
 }
 
@@ -49,12 +49,12 @@ lances_father_inv_full_str  `[TPL:3][TPL:A]Boy, you sure are a heavy[N]adventure
 ?INCLUDE 'chunk_038000'
 ---------------------------------------------------
 
-widestring_03944D `[DEF]He opened [NAM:4]'s father's[N]journal. [FIN]Read which entry? [N] Tower of Babel [N] Mystic Statues [N] Great Wall of China `
+dialogstring_03944D! `[DEF]He opened [NAM:4]'s father's[N]journal. [FIN]Read which entry? [N] Tower of Babel [N] Mystic Statues [N] Great Wall of China `
 
-widestring_0394B5 `[DEF]He closes the journal. [END]`
+dialogstring_0394B5! `[DEF]He closes the journal. [END]`
 
-widestring_0394CE `[DEF]The Tower of Babel...[END]`
+dialogstring_0394CE! `[DEF]The Tower of Babel...[END]`
 
-widestring_0394E5 `[DEF]The Mystic Statues... [END]`
+dialogstring_0394E5! `[DEF]The Mystic Statues... [END]`
 
-widestring_0394FD `[DEF]The Great Wall...[END]`
+dialogstring_0394FD! `[DEF]The Great Wall...[END]`

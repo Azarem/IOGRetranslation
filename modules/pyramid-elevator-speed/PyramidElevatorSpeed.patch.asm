@@ -1,7 +1,7 @@
 
 ?INCLUDE 'pyD7_actor_08C4EA'
 
-code_08C549 {
+code_08C549! {
     LDA $7F0010, X
     STA $26
     LDA $24
@@ -21,7 +21,7 @@ code_08C549 {
 }
 
 
-loc_08C564 {
+loc_08C564! {
     COP [C1]
     LDY #$1060
     LDA $0026, Y

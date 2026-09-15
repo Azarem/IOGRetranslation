@@ -49,7 +49,7 @@ export function Notepad({}: NotepadProps) {
 
 Example:
 ; Custom patch
-widestring_example `[TPL:0]Hello World![END]`
+dialogstring_example `[TPL:0]Hello World![END]`
 
 ; Assembly code
 LDA #$00

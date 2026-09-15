@@ -10,16 +10,16 @@
 ------------------------------------------------
 ?INCLUDE 'system_strings'
 ------------------------------------------------
-asciistring_01DA47 |[NHM:4][CUR:50,4]PUSH START BUTTON|
+consolestring_01DA47! |[NHM:4][CUR:50,4]PUSH START BUTTON|
 ;string_01DA5E |[NHM:4][CUR:55,3]RETRANSLATED|
-asciistring_01DA5E |[NHM:0][CUR:9C,3]RETRANSLATED[NHM:0][CUR:08,6](C) 1994  QUINTET/ENIX[CUR:48,6]MARIKO OHARA/MOTO HAGIO[CUR:8E,6]YASUHIRO KAWASAKI|
+consolestring_01DA5E! |[NHM:0][CUR:9C,3]RETRANSLATED[NHM:0][CUR:08,6](C) 1994  QUINTET/ENIX[CUR:48,6]MARIKO OHARA/MOTO HAGIO[CUR:8E,6]YASUHIRO KAWASAKI|
 
 ------------------------------------------------
 ?INCLUDE 'scene_meta'
 ------------------------------------------------
 
-mapdef_00FC [
-  ppu < #25 >
+scene_meta_00FC! [
+  display-mode < #25 >
   music < #1F, #00, @bgm_illusion_of_gaia >
   bitmap < #00, #20, #00, @gfx_title, #00 >
   palette < #00, #80, #00, @pal_title >
@@ -35,19 +35,18 @@ mapdef_00FC [
 ?INCLUDE 'scene_thinkers'
 ------------------------------------------------
 
-thinker_0CEB2F [
-  thinker < #74, @thinker_00B520 >
-  thinker < #00, @thinker_00BCDF >
-  thinker < #00, @thinker_00BCB3 >
-  thinker < #24, @parallax_thinker >
-  ;thinker < #00, @thinker_00BC91 >
+thinker_spawn_0CEB2F+ [
+  thinker-spawn < #74, @ambient_palette_cycler >
+  thinker-spawn < #00, @ending_comet_dma_setup >
+  thinker-spawn < #00, @ending_comet_sine_hdma >
+  thinker-spawn < #24, @parallax_thinker >
 ]
 
 ------------------------------------------------
 ?INCLUDE 'sFC_actor_0BC924'
 ------------------------------------------------
 
-code_0BC927 {
+code_0BC927! {
     LDA #$4001
     TSB $09EC
     LDA #$0000
@@ -66,9 +65,9 @@ code_0BC927 {
     LDA #$0804
     STA $064A
     COP [DA] ( #B3 )
-    COP [BD] ( @asciistring_01DA5E )
+    COP [BD] ( @consolestring_01DA5E )
     COP [DA] ( #77 )
-    COP [BD] ( @asciistring_01DA47 )
+    COP [BD] ( @consolestring_01DA47 )
     COP [DB] ( #$09D3 )
     COP [CC] ( #F4 )
     LDA #$0804
@@ -118,7 +117,7 @@ code_0BC969 {
     RTL 
 }
 
-code_0BC988 {
+code_0BC988! {
     COP [B6] ( #20 )
     COP [84] ( #04, #F0 )
     COP [8A]
@@ -176,7 +175,7 @@ title_thinker {
 ------------------------------------------------
 ;Immediate start press
 
-code_0BC9B1 {
+code_0BC9B1! {
     BRA code_0BC9C0
 }
 
@@ -184,174 +183,46 @@ code_0BC9B1 {
 ?INCLUDE 'palette_bundles'
 ------------------------------------------------
 
-palette_bundles [
-  &bundle_168100   ;00
-  &bundle_16818D   ;01
-  &bundle_168204   ;02
-  &bundle_1682AB   ;03
-  &bundle_1682D2   ;04
-  &bundle_168319   ;05
-  &bundle_1683F0   ;06
-  &bundle_168467   ;07
-  &bundle_16849E   ;08
-  &bundle_1684D5   ;09
-  &bundle_1685D2   ;0A
-  &bundle_1685F7   ;0B
-  &bundle_16861C   ;0C
-  &bundle_168641   ;0D
-  &bundle_168666   ;0E
-  &bundle_16868B   ;0F
-  &bundle_168792   ;10
-  &bundle_168899   ;11
-  &bundle_1688E0   ;12
-  &bundle_168927   ;13
-  &bundle_1689AE   ;14
-  &bundle_168A3F   ;15
-  &bundle_168B46   ;16
-  &bundle_168B95   ;17
-  &bundle_168BDC   ;18
-  &bundle_168C43   ;19
-  &bundle_168CAA   ;1A
-  &bundle_168D21   ;1B
-  &bundle_168D88   ;1C
-  &bundle_168DEF   ;1D
-  &bundle_168E0E   ;1E
-  &bundle_168E55   ;1F
-  &bundle_168F5C   ;20
-  &bundle_1690B7   ;21
-  &bundle_169190   ;22
-  &bundle_1691B7   ;23
-  &bundle_1692D8   ;24
-  &bundle_1693F9   ;25
-  &bundle_169470   ;26
-  &bundle_169957   ;27
-  &bundle_169A60   ;28
-  &bundle_169A93   ;29
-  &bundle_169BEE   ;2A
-  &bundle_169D33   ;2B
-  &bundle_169E78   ;2C
-  &bundle_169FBD   ;2D
-  &bundle_16A0C4   ;2E
-  &bundle_16A19D   ;2F
-  &bundle_16A204   ;30
-  &bundle_16A271   ;31
-  &bundle_16A2DE   ;32
-  &bundle_16A325   ;33
-  &bundle_16A39C   ;34
-  &bundle_16A3CB   ;35
-  &bundle_16A492   ;36
-  &bundle_16A4E1   ;37
-  &bundle_16A5F0   ;38
-  &bundle_16A669   ;39
-  &bundle_16A75A   ;3A
-  &bundle_16A7D1   ;3B
-  &bundle_16A802   ;3C
-  &bundle_16A847   ;3D
-  &bundle_16A878   ;3E
-  &bundle_16A8BD   ;3F
-  &bundle_16A8DA   ;40
-  &bundle_16A911   ;41
-  &bundle_16ADF8   ;42
-  &bundle_16AE6F   ;43
-  &bundle_16AF10   ;44
-  &bundle_16AF3F   ;45
-  &bundle_16AF8E   ;46
-  &bundle_16AFCF   ;47
-  &bundle_16AFF6   ;48
-  &bundle_16B06D   ;49
-  &bundle_16B08A   ;4A
-  &bundle_16B1AB   ;4B
-  &bundle_16B2F0   ;4C
-  &bundle_16B305   ;4D
-  &bundle_16B3F2   ;4E
-  &bundle_16B4DF   ;4F
-  &bundle_16B52E   ;50
-  &bundle_16B64F   ;51
-  &bundle_16B770   ;52
-  &bundle_16B891   ;53
-  &bundle_16B9B2   ;54
-  &bundle_16BAD3   ;55
-  &bundle_16BBF4   ;56
-  &bundle_16BD15   ;57
-  &bundle_16BE36   ;58
-  &bundle_16BF57   ;59
-  &bundle_16C078   ;5A
-  &bundle_16C1BD   ;5B
-  &bundle_16C26E   ;5C
-  &bundle_16C293   ;5D
-  &bundle_16C2B8   ;5E
-  &bundle_16C2E7   ;5F
-  &bundle_16C30E   ;60
-  &bundle_16C317   ;61
-  &bundle_16C34E   ;62
-  &bundle_16C46F   ;63
-  &bundle_16C4A4   ;64
-  &bundle_16C4DB   ;65
-  &bundle_16C588   ;66
-  &bundle_16C5BC   ;67
-  &bundle_16C5F0   ;68
-  &bundle_16C621   ;69
-  &bundle_16C65E   ;6A
-  &bundle_16C78F   ;6B
-  &bundle_16C7A4   ;6C
-  &bundle_16C7C9   ;6D
-  &bundle_16CAF8   ;6E
-  &bundle_16CDF7   ;6F
-  &bundle_16CE6A   ;70
-  &bundle_16CE8F   ;71
-  &bundle_16CF40   ;72
-  &bundle_16CFCF   ;73
-  &bundle_16D046   ;74
-  &bundle_16D17B   ;75
-  &bundle_16D1C2   ;76
-  &bundle_16D209   ;77
-  &bundle_16D310   ;78
-  &bundle_16D417   ;79
-  &bundle_16D466   ;7A
-  &bundle_16D48B   ;7B
-  &bundle_16D4B0   ;7C
-  &bundle_16D591   ;7D
-  &bundle_16D6C2   ;7E
-  &bundle_16D6FB   ;7F
+palette_bundles+ [
   &panim01062747
 ]
 
 panim01062747 [
-  bundle < #01, &panim01062747_frame00, #E1, #1D, #00 >
-  bundle < #01, &panim01062747_frame01, #E1, #1D, #00 >
-  bundle < #01, &panim01062747_frame02, #E1, #1D, #00 >
-  bundle < #01, &panim01062747_frame03, #E1, #1D, #00 >
-  bundle < #01, &panim01062747_frame04, #E1, #1D, #00 >
-  bundle < #01, &panim01062747_frame05, #E1, #1D, #00 >
-  bundle < #01, &panim01062747_frame06, #E1, #1D, #00 >
-  bundle < #01, &panim01062747_frame07, #E1, #1D, #00 >
-  bundle < #01, &panim01062747_frame08, #E1, #1D, #00 >
-  bundle < #01, &panim01062747_frame09, #E1, #1D, #00 >
-  bundle < #01, &panim01062747_frame0A, #E1, #1D, #00 >
-  bundle < #01, &panim01062747_frame0B, #E1, #1D, #00 >
-  bundle < #01, &panim01062747_frame0C, #E1, #1D, #00 >
-  bundle < #01, &panim01062747_frame0D, #E1, #1D, #00 >
-  bundle < #01, &panim01062747_frame0E, #E1, #1D, #00 >
-  bundle < #01, &panim01062747_frame0F, #E1, #1D, #00 >
-  bundle < #01, &panim01062747_frame10, #E1, #1D, #00 >
-  bundle < #01, &panim01062747_frame11, #E1, #1D, #00 >
-  bundle < #01, &panim01062747_frame12, #E1, #1D, #00 >
-  bundle < #01, &panim01062747_frame13, #E1, #1D, #00 >
-  bundle < #01, &panim01062747_frame14, #E1, #1D, #00 >
-  bundle < #01, &panim01062747_frame15, #E1, #1D, #00 >
-  bundle < #01, &panim01062747_frame16, #E1, #1D, #00 >
-  bundle < #01, &panim01062747_frame17, #E1, #1D, #00 >
-  bundle < #01, &panim01062747_frame18, #E1, #1D, #00 >
-  bundle < #01, &panim01062747_frame19, #E1, #1D, #00 >
-  bundle < #01, &panim01062747_frame1A, #E1, #1D, #00 >
-  bundle < #01, &panim01062747_frame1B, #E1, #1D, #00 >
-  bundle < #01, &panim01062747_frame1C, #E1, #1D, #00 >
-  bundle < #01, &panim01062747_frame1D, #E1, #1D, #00 >
-  bundle < #01, &panim01062747_frame1E, #E1, #1D, #00 >
-  bundle < #01, &panim01062747_frame1F, #E1, #1D, #00 >
-  bundle < #01, &panim01062747_frame20, #E1, #1D, #00 >
-  bundle < #01, &panim01062747_frame21, #E1, #1D, #00 >
-  bundle < #01, &panim01062747_frame22, #E1, #1D, #00 >
+  palette-bundle < #01, &panim01062747_frame00, #E1, #1D, #00 >
+  palette-bundle < #01, &panim01062747_frame01, #E1, #1D, #00 >
+  palette-bundle < #01, &panim01062747_frame02, #E1, #1D, #00 >
+  palette-bundle < #01, &panim01062747_frame03, #E1, #1D, #00 >
+  palette-bundle < #01, &panim01062747_frame04, #E1, #1D, #00 >
+  palette-bundle < #01, &panim01062747_frame05, #E1, #1D, #00 >
+  palette-bundle < #01, &panim01062747_frame06, #E1, #1D, #00 >
+  palette-bundle < #01, &panim01062747_frame07, #E1, #1D, #00 >
+  palette-bundle < #01, &panim01062747_frame08, #E1, #1D, #00 >
+  palette-bundle < #01, &panim01062747_frame09, #E1, #1D, #00 >
+  palette-bundle < #01, &panim01062747_frame0A, #E1, #1D, #00 >
+  palette-bundle < #01, &panim01062747_frame0B, #E1, #1D, #00 >
+  palette-bundle < #01, &panim01062747_frame0C, #E1, #1D, #00 >
+  palette-bundle < #01, &panim01062747_frame0D, #E1, #1D, #00 >
+  palette-bundle < #01, &panim01062747_frame0E, #E1, #1D, #00 >
+  palette-bundle < #01, &panim01062747_frame0F, #E1, #1D, #00 >
+  palette-bundle < #01, &panim01062747_frame10, #E1, #1D, #00 >
+  palette-bundle < #01, &panim01062747_frame11, #E1, #1D, #00 >
+  palette-bundle < #01, &panim01062747_frame12, #E1, #1D, #00 >
+  palette-bundle < #01, &panim01062747_frame13, #E1, #1D, #00 >
+  palette-bundle < #01, &panim01062747_frame14, #E1, #1D, #00 >
+  palette-bundle < #01, &panim01062747_frame15, #E1, #1D, #00 >
+  palette-bundle < #01, &panim01062747_frame16, #E1, #1D, #00 >
+  palette-bundle < #01, &panim01062747_frame17, #E1, #1D, #00 >
+  palette-bundle < #01, &panim01062747_frame18, #E1, #1D, #00 >
+  palette-bundle < #01, &panim01062747_frame19, #E1, #1D, #00 >
+  palette-bundle < #01, &panim01062747_frame1A, #E1, #1D, #00 >
+  palette-bundle < #01, &panim01062747_frame1B, #E1, #1D, #00 >
+  palette-bundle < #01, &panim01062747_frame1C, #E1, #1D, #00 >
+  palette-bundle < #01, &panim01062747_frame1D, #E1, #1D, #00 >
+  palette-bundle < #01, &panim01062747_frame1E, #E1, #1D, #00 >
+  palette-bundle < #01, &panim01062747_frame1F, #E1, #1D, #00 >
+  palette-bundle < #01, &panim01062747_frame20, #E1, #1D, #00 >
+  palette-bundle < #01, &panim01062747_frame21, #E1, #1D, #00 >
+  palette-bundle < #01, &panim01062747_frame22, #E1, #1D, #00 >
 ]
 
 panim01062747_frame00 [

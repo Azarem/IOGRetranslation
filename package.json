@@ -18,14 +18,11 @@
   ],
   "author": "",
   "license": "MIT",
-  "dependencies": {
-    "xlsx": "^0.18.5"
-  },
   "devDependencies": {
     "@paralleldrive/cuid2": "^2.2.2",
     "@types/node": "^20.10.0",
     "typescript": "^5.3.0",
-    "@gaialabs/iog-baserom": "0.1.6",
+    "@gaialabs/iog-baserom": "0.2.3",
     "@prisma/adapter-pg": "^7.6.0",
     "dotenv": "^17.4.0",
     "vitest": "^4.1.2"

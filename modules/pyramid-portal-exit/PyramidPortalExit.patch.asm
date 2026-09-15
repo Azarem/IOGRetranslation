@@ -7,8 +7,8 @@
 ?INCLUDE 'py_actor_08B6F4'
 -------------------------------------------------
 
-code_08B6C6 {
-    COP [BF] ( &widestring_08B74B )
+code_08B6C6! {
+    COP [BF] ( &dialogstring_08B74B )
     LDY $player_actor
     LDA $0010, Y
     ORA #$2000

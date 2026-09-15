@@ -10,15 +10,15 @@
 ------------------------------------------------
 ?INCLUDE 'system_strings'
 ------------------------------------------------
-asciistring_01DA47 |[NHM:4][CUR:90,3]PUSH START BUTTON|
-asciistring_01DA5E |[NHM:0][CUR:D4,2]RETRANSLATED[NHM:0][CUR:08,6](C) 1994  QUINTET/ENIX[CUR:48,6]MARIKO OHARA/MOTO HAGIO[CUR:8E,6]YASUHIRO KAWASAKI|
+consolestring_01DA47! |[NHM:4][CUR:90,3]PUSH START BUTTON|
+consolestring_01DA5E! |[NHM:0][CUR:D4,2]RETRANSLATED[NHM:0][CUR:08,6](C) 1994  QUINTET/ENIX[CUR:48,6]MARIKO OHARA/MOTO HAGIO[CUR:8E,6]YASUHIRO KAWASAKI|
 
 ------------------------------------------------
 ?INCLUDE 'scene_meta'
 ------------------------------------------------
 
-mapdef_00FC [
-  ppu < #25 >
+scene_meta_00FC! [
+  display-mode < #25 >
   music < #1F, #00, @bgm_illusion_of_gaia >
   bitmap < #00, #20, #00, @gfx_title, #00 >
   palette < #00, #80, #00, @pal_title >
@@ -34,19 +34,18 @@ mapdef_00FC [
 ?INCLUDE 'scene_thinkers'
 ------------------------------------------------
 
-thinker_0CEB2F [
-  thinker < #74, @thinker_00B520 >
-  thinker < #00, @thinker_00BCDF >
-  thinker < #00, @thinker_00BCB3 >
-  thinker < #24, @parallax_thinker >
-  ;thinker < #00, @thinker_00BC91 >
+thinker_spawn_0CEB2F+ [
+  thinker-spawn < #74, @ambient_palette_cycler >
+  thinker-spawn < #00, @ending_comet_dma_setup >
+  thinker-spawn < #00, @ending_comet_sine_hdma >
+  thinker-spawn < #24, @parallax_thinker >
 ]
 
 ------------------------------------------------
 ?INCLUDE 'sFC_actor_0BC924'
 ------------------------------------------------
 
-code_0BC927 {
+code_0BC927! {
     LDA #$4001
     TSB $09EC
     LDA #$0000
@@ -60,8 +59,8 @@ code_0BC927 {
     LDA #$17
     STA $_TM
     REP #$20
-    COP [BD] ( @asciistring_01DA5E )
-    COP [BD] ( @asciistring_01DA47 )
+    COP [BD] ( @consolestring_01DA5E )
+    COP [BD] ( @consolestring_01DA47 )
     COP [DB] ( #$0B7B )
     COP [CC] ( #F4 )
     LDA #$0804
@@ -117,7 +116,7 @@ code_0BC969 {
 ------------------------------------------------
 ;Immediate start press
 
-code_0BC9B1 {
+code_0BC9B1! {
     BRA code_0BC9C0
 }
 

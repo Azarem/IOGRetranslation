@@ -1,6 +1,6 @@
 ﻿[
   {
-    "name": "ASCIIString",
+    "name": "ConsoleString",
     "delimiter": "|",
     "shiftType": null,
     "terminator": 0,
@@ -40,7 +40,7 @@
     ]
   },
   {
-    "name": "WideString",
+    "name": "DialogString",
     "delimiter": "`",
     "shiftType": "h2",
     "terminator": 202,

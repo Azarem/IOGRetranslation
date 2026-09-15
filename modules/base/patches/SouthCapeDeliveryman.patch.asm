@@ -2,10 +2,9 @@
 
 
 --------------------------------------------
-h_actor < #42, #00, #10 >
---------------------------------------------
+actor-def < #42, #00, #10, {
 
-skyd_main {
+  skyd_main:
     COP [D0] ( #8D, #00, &skyd_destroy )
     COP [C0] ( &skyd_interact )
     COP [0B]
@@ -56,23 +55,5 @@ skyd_str_cancel   `[CLR]Alright. Come back if you[N]change your mind.[END]`
 skyd_str_watermia `[CLR]Come here, birds.[N]We're taking this person[N]to Watermia![END]`
 skyd_str_freejia  `[CLR]Come here, birds.[N]We're taking this person[N]to [NAM:12]![END]`
 
------------------------------------------------
-?INCLUDE 'scene_meta'
------------------------------------------------
 
-mapdef_0001 [
-  ppu < #03 >   ;00
-  music < #1C, #00, @bgm_lively_city_by_the_sea >   ;01
-  bitmap < #00, #10, #00, @gfx_southcape, #00 >   ;02
-  bitmap < #00, #10, #10, @gfx_southcape_effect, #00 >   ;03
-  palette < #00, #70, #10, @pal_southcape >   ;04
-  tileset < #00, #20, #00, #01, @set_southcape >   ;05
-  tileset < #00, #20, #00, #02, @set_southcape_effect >   ;06
-  tilemap < #01, @map_sc01 >   ;07
-  tilemap < #02, @map_sc01_effect >   ;08
-  label_3E:   ;09
-  bitmap < #00, #10, #10, @gfx_southcape_sprites, #01 >   ;0A
-  palette < #20, #80, #A0, @pal_southcape_sprites >   ;0B
-  spritemap < #$18B5, #00, @spm_southcape_sprites >   ;0C
-]
-
+scene_event_0C8221+: actor-spawn < #0C, #2F, #00, @SouthCapeDeliveryman >

@@ -26,7 +26,7 @@ code_05CFBF- {
 ?INCLUDE 'fr3A_sympathetic'
 -------------------------------------------
 
-code_05C311 {
+code_05C311! {
     COP [D0] ( #slave_captured_flag, #01, &code_05C325 )
     COP [D1] ( #$slave_reward_flag, #01, &code_05C325 )
     LDA #$0200
@@ -37,10 +37,10 @@ code_05C311 {
     RTL 
 }
 
-code_05C327 {
+code_05C327! {
     COP [D1] ( #$slave_reward_flag, #01, &freejia_slave_farewell_begin )
     COP [D0] ( #return_flag, #01, &freejia_slave_return_begin )
-    COP [BF] ( &widestring_05C32F )
+    COP [BF] ( &dialogstring_05C32F )
     COP [CC] ( #59 )
     RTL 
 }
@@ -80,7 +80,7 @@ freejia_slave_farewell_str  `[TPL:20][TPL:A]I suppose I should be[N]taking off n
 ?INCLUDE 'fr3A_harborer'
 -------------------------------------------
 
-code_05BC59 {
+code_05BC59! {
     COP [D0] ( #dao_return_flag, #01, &freejia_harborer_stub )
     COP [D0] ( #slave_captured_flag, #01, &code_05BC68 )
   freejia_harborer_stub:
@@ -90,14 +90,14 @@ code_05BC59 {
     RTL 
 }
 
-code_05BC6A {
+code_05BC6A! {
     COP [D0] ( #slave_captured_flag, #01, &freejia_harborer_escaped )
     COP [D0] ( #dao_return_flag, #01, &freejia_harborer_rumor )
     COP [D1] ( #$slave_reward_flag, #00, &freejia_harborer_default )
     COP [D0] ( #return_flag, #01, &freejia_harborer_return )
 
   freejia_harborer_default:
-    COP [BF] ( &widestring_05BC6F )
+    COP [BF] ( &dialogstring_05BC6F )
     RTL 
 }
 
@@ -124,7 +124,7 @@ freejia_harborer_rumor_str   `[TPL:20][TPL:B]Rumor has it that the new[N]preside
 ?INCLUDE 'fr32_slaver1'
 -------------------------------------------
 
-code_05B819 {
+code_05B819! {
     COP [D0] ( #slave_captured_flag, #01, &code_05B839 )
     COP [D0] ( #dao_return_flag, #01, &code_05B839 )
     COP [D1] ( #$slave_reward_flag, #01, &code_05B839 )
@@ -136,7 +136,7 @@ code_05B819 {
 ?INCLUDE 'fr32_slaver2'
 -------------------------------------------
 
-code_05B855 {
+code_05B855! {
     COP [D0] ( #slave_captured_flag, #01, &code_05B87E )
     COP [D0] ( #dao_return_flag, #01, &code_05B87E )
     COP [D1] ( #$slave_reward_flag, #01, &code_05B87E )

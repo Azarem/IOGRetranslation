@@ -16,7 +16,7 @@
 --------------------------------------------------------
 
 border_lookup [
-    &dlg_borders_03E4CE
+    &DialogueBorderTiles
     &border_index_1
     &border_index_2
     &border_index_3
@@ -67,32 +67,33 @@ cmd_dA {
 
 ----------------------------------------------------
 
-wide_cmd_table_03E2C3 [
-  &cmd_c0_03E2F5   ;00
-  &cmd_c1_03E30F   ;01
-  &cmd_c2_03E335   ;02
-  &cmd_c3_03E35B   ;03
-  &cmd_c4_03E36B   ;04
-  &cmd_c5_03E36F   ;05
-  &cmd_c6_03E393   ;06
-  &cmd_c7_03E43F   ;07
-  &cmd_c8_03E579   ;08
-  &cmd_c9_03E5EB   ;09
-  &code_03E307   ;0A
-  &cmd_cb_03E5F8   ;0B
-  &cmd_cc_03E61E   ;0C
-  &cmd_cd_03E636   ;0D
-  &cmd_ce_03E656   ;0E
-  &cmd_cf_03E6A4   ;0F
-  &cmd_d0_03E6D2   ;10
-  &cmd_d1_03E6E7   ;11
-  &cmd_d2_03E6EC   ;12
-  &cmd_d3_03E6F7   ;13
-  &cmd_d4_03E721   ;14
-  &cmd_d5_03E736   ;15
-  &cmd_d6_03E743   ;16
-  &cmd_d7_03E769   ;17
-  &cmd_d8_03E78F   ;18
+
+DialogStringCommandTable! [
+  &DialogCmd_EndAndWait   ;00
+  &DialogCmd_SetPosition   ;01
+  &DialogCmd_InsertTemplate   ;02
+  &DialogCmd_SetPalette   ;03
+  &DialogCmd_InfiniteLoop   ;04
+  &DialogCmd_IndirectString   ;05
+  &DialogCmd_PrintNumber   ;06
+  &DialogCmd_OpenDialogueBox   ;07
+  &DialogCmd_ClearDialogueBox   ;08
+  &DialogCmd_WaitFrames   ;09
+  &DialogCmd_Return   ;0A
+  &DialogCmd_NewLine   ;0B
+  &DialogCmd_AdvanceCursor   ;0C
+  &DialogCmd_InsertRemoteString   ;0D
+  &DialogCmd_ClearBox   ;0E
+  &DialogCmd_WaitForButton   ;0F
+  &DialogCmd_WaitForAnyInput   ;10
+  &DialogCmd_JumpToAddress   ;11
+  &DialogCmd_SetSfx   ;12
+  &DialogCmd_OpenDefaultBox   ;13
+  &DialogCmd_SetPaletteColor   ;14
+  &DialogCmd_SetFrameDelay   ;15
+  &DialogCmd_DictionaryA   ;16
+  &DialogCmd_DictionaryB   ;17
+  &DialogCmd_PrintRawTiles   ;18
   &cmd_d9
   &cmd_dA
 ]
@@ -101,7 +102,7 @@ wide_cmd_table_03E2C3 [
 ----------------------------------------------------
 ;Entry point for command 7 (setting up dialog borders)
 
-code_03E453 {
+OpenDialogueBox_Body! {
     PHY 
     PHX 
     ;LDA $0B04          --Don't reset print delay
@@ -133,9 +134,9 @@ code_03E453 {
     LDA #*border_lookup
     STA $40
 
-    ;LDA #$*dlg_borders_03E4CE
+    ;LDA #$*DialogueBorderTiles
     ;STA $40
-    ;LDA #$&dlg_borders_03E4CE
+    ;LDA #$&DialogueBorderTiles
     ;STA $3E
 
     LDA $0982
@@ -152,27 +153,27 @@ code_03E453 {
     SBC #$0040
     STA $00
     TAX 
-    JSR $&sub_03E4DE
+    JSR $&DrawDialogueBorderRow
     PLX 
     PHX 
     STX $18
-    JSR $&sub_03E505
+    JSR $&DrawDialogueBodyRows
     PLY 
     STY $18
-    JSR $&sub_03E4DE
+    JSR $&DrawDialogueBorderRow
     LDA #$0001
     TSB $09EC
     LDA $scene_current
     AND #$00FF
     CMP #$00FA
     BEQ loc_03E4CB
-    JSR $&sub_03E7B2
+    JSR $&WaitOneFrame
 }
 
 ----------------------------------------------------
 ;Entry point for command 8 (clear dialog) to support border styles
 
-loc_03E59F {
+loc_03E59F! {
     STA $7F0200, X
     INX 
     INX 
@@ -222,7 +223,7 @@ loc_03E59F {
 
     LDA #$0001
     TSB $09EC
-    ;JSR $&sub_03E7B2  --This prevents a flicker due to forced redraw
+    ;JSR $&WaitOneFrame  --This prevents a flicker due to forced redraw
     LDX $0998
     STX $099A
     STZ $099C
@@ -233,17 +234,17 @@ loc_03E59F {
 
 ------------------------------------
 
-cmd_cf_03E6A4 {
+DialogCmd_WaitForButton! {
     LDA #$advance_button_mask
     TSB $0658
 
-  loc_03E6AA:
-    JSR $&sub_03E7B2
+  loc_03E6AA!:
+    JSR $&WaitOneFrame
     LDA $0656
     AND #$advance_button_mask
     BNE loc_03E6C1
     SEC 
-    JSR $&sub_03E80C
+    JSR $&DrawDialogueCursor
     LDA #$0001
     TSB $09EC
     BRA loc_03E6AA
@@ -251,12 +252,12 @@ cmd_cf_03E6A4 {
 
 ---------------------------------------------
 
-cmd_d0_03E6D2 {
+DialogCmd_WaitForAnyInput! {
     LDA #$advance_button_mask
     TSB $0658
 
-  loc_03E6D8:
-    JSR $&sub_03E7B2
+  loc_03E6D8!:
+    JSR $&WaitOneFrame
     LDA $0656
     AND #$advance_button_mask
     BEQ loc_03E6D8

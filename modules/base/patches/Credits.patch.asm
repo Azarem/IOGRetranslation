@@ -21,117 +21,117 @@ ext_credits_5  `[PAL:0][DLG:4C,1] GaiaLabs Boot Logo[N][N][PAL:8]     andwhyisit
 ----------------------------------------------
 
 
-loc_09E9D8 {
+loc_09E9D8! {
     COP [69] ( #$01F4 )
-    LDA #$&widestring_09ECBF
+    LDA #$&dialogstring_09ECBF
     STA $26
     COP [C8] ( &code_09EB64 )
     COP [DA] ( #4A )
-    LDA #$&widestring_09ECE7
+    LDA #$&dialogstring_09ECE7
     STA $26
     COP [C8] ( &code_09EB64 )
     COP [DA] ( #4A )
-    LDA #$&widestring_09ED10
+    LDA #$&dialogstring_09ED10
     STA $26
     COP [C8] ( &code_09EB64 )
     COP [DA] ( #4A )
-    LDA #$&widestring_09ED3C
+    LDA #$&dialogstring_09ED3C
     STA $26
     COP [C8] ( &code_09EB64 )
     COP [DA] ( #4A )
-    LDA #$&widestring_09ED68
+    LDA #$&dialogstring_09ED68
     STA $26
     COP [C8] ( &code_09EB64 )
     COP [DA] ( #4A )
-    LDA #$&widestring_09ED96
+    LDA #$&dialogstring_09ED96
     STA $26
     COP [C8] ( &code_09EB64 )
     COP [DA] ( #4A )
-    LDA #$&widestring_09EDC3
+    LDA #$&dialogstring_09EDC3
     STA $26
     COP [C8] ( &code_09EB64 )
     COP [DA] ( #4A )
-    LDA #$&widestring_09EDF1
+    LDA #$&dialogstring_09EDF1
     STA $26
     COP [C8] ( &code_09EB64 )
     COP [DA] ( #4A )
-    LDA #$&widestring_09EE2D
+    LDA #$&dialogstring_09EE2D
     STA $26
     COP [C8] ( &code_09EB64 )
     COP [DA] ( #4A )
-    LDA #$&widestring_09EE7D
+    LDA #$&dialogstring_09EE7D
     STA $26
     COP [C8] ( &code_09EB64 )
     COP [DA] ( #4A )
-    LDA #$&widestring_09EEAA
+    LDA #$&dialogstring_09EEAA
     STA $26
     COP [C8] ( &code_09EB64 )
     COP [DA] ( #4A )
-    LDA #$&widestring_09EEF7
+    LDA #$&dialogstring_09EEF7
     STA $26
     COP [C8] ( &code_09EB64 )
     COP [DA] ( #4A )
-    LDA #$&widestring_09EF22
+    LDA #$&dialogstring_09EF22
     STA $26
     COP [C8] ( &code_09EB64 )
     COP [DA] ( #4A )
-    LDA #$&widestring_09EF75
+    LDA #$&dialogstring_09EF75
     STA $26
     COP [C8] ( &code_09EB64 )
     COP [DA] ( #4A )
-    LDA #$&widestring_09EFB1
+    LDA #$&dialogstring_09EFB1
     STA $26
     COP [C8] ( &code_09EB64 )
     COP [DA] ( #4A )
-    LDA #$&widestring_09EFFB
+    LDA #$&dialogstring_09EFFB
     STA $26
     COP [C8] ( &code_09EB64 )
     COP [DA] ( #4A )
-    LDA #$&widestring_09F038
+    LDA #$&dialogstring_09F038
     STA $26
     COP [C8] ( &code_09EB64 )
     COP [DA] ( #4A )
-    LDA #$&widestring_09F073
+    LDA #$&dialogstring_09F073
     STA $26
     COP [C8] ( &code_09EB64 )
     COP [DA] ( #4A )
-    LDA #$&widestring_09F0B2
+    LDA #$&dialogstring_09F0B2
     STA $26
     COP [C8] ( &code_09EB64 )
     COP [DA] ( #4A )
-    LDA #$&widestring_09F0F2
+    LDA #$&dialogstring_09F0F2
     STA $26
     COP [C8] ( &code_09EB64 )
     COP [DA] ( #4A )
-    LDA #$&widestring_09F12C
+    LDA #$&dialogstring_09F12C
     STA $26
     COP [C8] ( &code_09EB64 )
     COP [DA] ( #4A )
-    LDA #$&widestring_09F18A
+    LDA #$&dialogstring_09F18A
     STA $26
     COP [C8] ( &code_09EB64 )
     COP [DA] ( #4A )
-    LDA #$&widestring_09F1C8
+    LDA #$&dialogstring_09F1C8
     STA $26
     COP [C8] ( &code_09EB64 )
     COP [DA] ( #4A )
-    LDA #$&widestring_09F1F2
+    LDA #$&dialogstring_09F1F2
     STA $26
     COP [C8] ( &code_09EB64 )
     COP [DA] ( #4A )
-    LDA #$&widestring_09F220
+    LDA #$&dialogstring_09F220
     STA $26
     COP [C8] ( &code_09EB64 )
     COP [DA] ( #4A )
-    LDA #$&widestring_09F248
+    LDA #$&dialogstring_09F248
     STA $26
     COP [C8] ( &code_09EB64 )
     COP [DA] ( #4A )
-    LDA #$&widestring_09F273
+    LDA #$&dialogstring_09F273
     STA $26
     COP [C8] ( &code_09EB64 )
     COP [DA] ( #4A )
-    LDA #$&widestring_09F2A9
+    LDA #$&dialogstring_09F2A9
     STA $26
     COP [C8] ( &code_09EB64 )
     COP [DA] ( #4A )
@@ -159,7 +159,7 @@ loc_09E9D8 {
     STA $26
     COP [C8] ( &code_09EB64 )
     COP [DA] ( #4A )
-    LDA #$&widestring_09F2FA
+    LDA #$&dialogstring_09F2FA
     STA $26
     COP [C8] ( &code_09EB64 )
     COP [DA] ( #4A )
@@ -167,7 +167,7 @@ loc_09E9D8 {
     LDA #$79
     STA $BG3SC
     REP #$20
-    LDY #$&widestring_09F315
+    LDY #$&dialogstring_09F315
     JSR $&code_09EC23
     COP [4F] ( $7F0200, #$7800, #$0800 )
     SEP #$20
@@ -184,7 +184,7 @@ loc_09E9D8 {
 ---------------------------------------------------------
 ;Override wait timer
 
-loc_09EBDB {
+loc_09EBDB! {
     COP [CB]
     COP [DB] ( #$01C5 )
     SEP #$20

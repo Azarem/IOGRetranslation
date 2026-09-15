@@ -3,7 +3,7 @@
 
 !joypad_mask_std                065A
 
-code_089B1F {
+code_089B1F! {
     LDA #$FFF0
     TRB $joypad_mask_std
     COP [DA] ( #F0 )
@@ -12,7 +12,7 @@ code_089B1F {
     RTL
 }
 
-angkor_shortcut_main {
+code_089B6B+ {
 
 }
 

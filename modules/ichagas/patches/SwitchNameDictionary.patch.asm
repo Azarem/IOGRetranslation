@@ -74,7 +74,7 @@ name_dictionary_command {
 
     TAY 
     STX $0998
-    JSL $@sub_03E255
+    JSL $@DialogStringRenderer
     LDX $0998
     PLY 
     INY 

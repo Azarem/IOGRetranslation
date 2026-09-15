@@ -7,7 +7,7 @@
 ----------------------------------------------
 ;Set colors and sprite palette index to static palette when fade is complete
 
-e_pr_thinker_0BD031 {
+e_pr_thinker_0BD031! {
     COP [37] ( #75 )
     COP [39]
 
@@ -56,7 +56,7 @@ e_pr_thinker_0BD031 {
 ---------------------------------------------
 ;Revert palette number for sprites before fade out
 
-e_pr_thinker_0BD039 {
+e_pr_thinker_0BD039! {
     
     PHX
     PHY
@@ -98,7 +98,7 @@ e_pr_thinker_0BD039 {
 ----------------------------------------------
 ;Set default colors for world map (enhances font profile)
 
-code_03A942 {
+code_03A942! {
     SEP #$20
     LDA #$80
     STA $M7SEL
@@ -132,11 +132,11 @@ code_03A942 {
 ----------------------------------------------
 ;Fade-in / out bundles
 
-bundle_16D17B [
-  bundle < #10, &word_16D182, #F1, #05, #04 >   ;00
+palette_bundle_16D17B! [
+  palette-bundle < #10, &word_16D182, #F1, #05, #04 >   ;00
 ]
 
-word_16D182 [
+word_16D182! [
   #$0000   ;00
   #$0000   ;01
   #$0000
@@ -203,11 +203,11 @@ word_16D182 [
 ]
 
 
-bundle_16D1C2 [
-  bundle < #10, &word_16D1C9, #F1, #05, #04 >   ;00
+palette_bundle_16D1C2! [
+  palette-bundle < #10, &word_16D1C9, #F1, #05, #04 >   ;00
 ]
 
-word_16D1C9 [
+word_16D1C9! [
   #$7FFF   ;00
   #$53DE   ;01
   #$01B1

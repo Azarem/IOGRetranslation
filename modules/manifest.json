@@ -1,0 +1,127 @@
+{
+    "name": "1.44",
+    "notes": [
+        "Added: Brazilian Portuguese retranslation by Igor Chagas",
+        "Added: Mt. Kress Shortcut",
+        "Added: Angkor Wat Shortcut",
+        "Added: Enhanced Adrift Text (Starry night scene)"
+    ],
+    "modules": [ {
+        "name": "🔤 Language", "groups": [
+            { "name": null, "options": [
+                { "name": "English", "module": null, "description": "English retranslation by LThammy and ViewtifulSlayer", "default": true },
+                { "name": "Portuguese", "module": "ichagas", "description": "Brazilian Portuguese retranslation by Igor Chagas" }
+            ] }
+        ] },
+        { "name": "🎨 Title Screen", "groups": [
+            { "name": null, "options": [
+                { "name": "NA Original", "module": null, "description": "The original North American title screen" },
+                { "name": "Enhanced", "module": "title-enhanced", "description": "Enhanced NA title screen with JP comet background", "default": true },
+                { "name": "Hybrid", "module": "title-alternate", "description": "Hybrid JP title screen with NA title text" },
+                { "name": "Demo", "module": "title-demo", "description": "Demo title screen with JP comet background" }
+            ] }
+        ] },
+        { "name": "🏯 JP Content", "groups": [
+            { "name": "Edward Castle Background", "options": [
+                { "name": "NA", "module": null },
+                { "name": "JP", "module": "jp-edward-mountains", "default": true }
+            ] },
+            { "name": "Itory Background", "options": [
+                { "name": "NA", "module": null },
+                { "name": "JP", "module": "jp-itory-mountains", "default": true }
+            ] },
+            { "name": "Great Wall Background", "options": [
+                { "name": "NA", "module": null },
+                { "name": "JP", "module": "jp-wall-dunes", "default": true }
+            ] },
+            { "name": "Fountain Color", "options": [
+                { "name": "NA (Brown)", "module": null },
+                { "name": "JP (Red)", "module": "red-fountain", "default": true }
+            ] },
+            { "name": "Viper Boss", "options": [
+                { "name": "NA", "module": null, "default": true },
+                { "name": "JP", "module": "jp-viper" }
+            ] },
+            { "name": "Church Cross/Statue", "options": [
+                { "name": "NA (Statue)", "module": null },
+                { "name": "JP (Cross)", "module": "jp-church-cross", "default": true }
+            ] },
+            { "name": "Diamond Mines", "options": [
+                { "name": "NA (Brown)", "module": null, "default": true },
+                { "name": "JP (Purple)", "module": "jp-mines" }
+            ] },
+            { "name": "Prologue Palettes", "options": [
+                { "name": "NA (Light)", "module": null },
+                { "name": "JP (Dark)", "module": "jp-prologue-palettes", "default": true }
+            ] }
+        ] },
+        { "name": "⚡ Quality of Life", "groups": [
+            { "name": "Herb Heals", "options": [
+                { "name": "+8 HP", "module": null },
+                { "name": "Full HP", "module": "full-health-herb", "default": true }
+            ] },
+            { "name": "Pyramid Elevator Speed", "options": [
+                { "name": "1x", "module": null },
+                { "name": "2x", "module": "pyramid-elevator-speed", "default": true }
+            ] },
+            { "name": "Pyramid Portal Exit", "options": [
+                { "name": "Original", "module": null },
+                { "name": "Altered", "module": "pyramid-portal-exit", "description": "Portals will take you to the lower main area. Lower portal brings you to the top.", "default": true }
+            ] },
+            { "name": "Shortcut from Mines to Freejia", "options": [
+                { "name": "No", "module": null },
+                { "name": "Yes", "module": "freejia-shortcut", "description": "Sam will offer to take you to Freejia, skipping the return trip.", "default": true }
+            ] },
+            { "name": "Mt. Kress Shortcut", "options": [
+                { "name": "No", "module": null },
+                { "name": "Yes", "module": "kress-shortcut", "description": "A stray spirit will offer to take you to the bottom of Mt. Kress.", "default": true }
+            ] },
+            { "name": "Angkor Wat Shortcut", "options": [
+                { "name": "No", "module": null },
+                { "name": "Yes", "module": "angkor-shortcut", "description": "A mysterious voice will offer to take you to the entrance of Angkor Wat.", "default": true }
+            ] }
+        ] },
+        { "name": "📚 Cut Content", "groups": [
+            { "name": "Sky Delivery Man", "options": [
+                { "name": "Enable", "module": null, "description": "The Sky Deliveryman will appear in Watermia, South Cape, and Freejia.", "default": true }
+            ] },
+            { "name": "Blue Journal", "options": [
+                { "name": "Disable", "module": null },
+                { "name": "Enable", "module": "blue-journal", "default": true }
+            ] }
+        ] },
+        { "name": "✨ Extras", "groups": [
+            { "name": "Prologue / Overworld Text", "options": [
+                { "name": "Enhanced", "module": "enhanced-prologue-text", "default": true }
+            ] },
+            { "name": "Epilogue Text (Comet scene)", "options": [
+                { "name": "Original (Boxed)", "module": null },
+                { "name": "No dialog box/borders", "module": "enhanced-epilogue-text", "default": true }
+            ] },
+            { "name": "Adrift Text (Starry night scene)", "options": [
+                { "name": "Original (Boxed)", "module": null },
+                { "name": "No dialog box/borders", "module": "enhanced-adrift-text", "default": true }
+            ] },
+            { "name": "Thankful Flower", "options": [
+                { "name": "Disable", "module": null },
+                { "name": "Enable", "module": "thankful-flower", "default": true }
+            ] },
+            { "name": "South Cape Return", "options": [
+                { "name": "Disable", "module": null },
+                { "name": "Enable", "module": "south-cape-return", "default": true }
+            ] },
+            { "name": "Crystal Ring Palette", "options": [
+                { "name": "Original", "module": null },
+                { "name": "New", "module": "crystal-ring-palette", "default": true }
+            ] },
+            { "name": "Border Graphics", "options": [
+                { "name": "Enhanced", "module": null, "default": true },
+                { "name": "Plain", "module": "plain-borders" }
+            ] },
+            { "name": "No Shira Spotlight", "options": [
+                { "name": "Disable", "module": null, "default": true },
+                { "name": "Enable", "module": "no-shira-spotlight" }
+            ] }
+        ] }
+    ]
+}

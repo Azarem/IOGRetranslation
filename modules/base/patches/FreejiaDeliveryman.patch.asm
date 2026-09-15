@@ -2,10 +2,9 @@
 
 
 --------------------------------------------
-h_actor < #3A, #00, #10 >
---------------------------------------------
+actor-def < #3A, #00, #10, {
 
-frejia_deliveryman_main {
+  frejia_deliveryman_main:
     COP [D0] ( #8D, #00, &frejia_deliveryman_destroy )
     COP [50] ( @pal_southcape_sprites, #70, #F0, #10 )
     COP [C0] ( &frejia_deliveryman_interact )
@@ -57,35 +56,5 @@ frejia_deliveryman_str_cancel     `[CLR]Alright. Come back if you[N]change your 
 frejia_deliveryman_str_watermia   `[CLR]Come here, birds.[N]We're taking this person[N]to Watermia![END]`
 frejia_deliveryman_str_south_cape `[CLR]Come here, birds.[N]We're taking this person[N]to South Cape![END]`
 
--------------------------------------------
-?INCLUDE 'scene_meta'
--------------------------------------------
 
-mapdef_0032 [
-  ppu < #0E >   ;00
-  music < #02, #00, @bgm_lively_city >   ;01
-  bitmap < #00, #10, #00, @gfx_freejia, #00 >   ;02
-  bitmap < #00, #10, #10, @gfx_freejia, #00 >   ;03
-  palette < #00, #70, #10, @pal_freejia >   ;04
-  tileset < #00, #20, #00, #01, @set_freejia >   ;05
-  tilemap < #01, @map_fr32 >   ;06
-  tileset < #00, #20, #00, #02, @set_freejia_effect >   ;07
-  tilemap < #02, @map_fr32_effect >   ;08
-  label_0C:   ;09
-  bitmap < #00, #10, #10, @gfx_freejia_sprites, #01 >   ;0A
-  palette < #00, #60, #A0, @pal_freejia_sprites >   ;0B
-  spritemap < #$1352, #00, @spm_freejia_sprites >   ;0C
-]
-
-mapdef_009D [
-  ppu < #1F >   ;00
-  music < #04, #00, @bgm_ominous_whispers >   ;01
-  bitmap < #00, #10, #00, @gfx_house_interior, #00 >   ;02
-  palette < #00, #70, #10, @pal_house_interior_euro >   ;03
-  tileset < #00, #20, #00, #03, @set_euro_chapel >   ;04
-  tilemap < #01, @map_euro_chapel >   ;05
-  tilemap < #02, @map_euro_chapel_effect >   ;06
-  bitmap < #00, #10, #10, @gfx_freejia_sprites, #01 >   ;07
-  palette < #00, #60, #A0, @pal_freejia_sprites >   ;08
-  spritemap < #$1352, #00, @spm_freejia_sprites >   ;09
-]
+scene_event_0C9572+: actor-spawn < #12, #1E, #00, @FreejiaDeliveryman >

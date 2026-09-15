@@ -158,7 +158,7 @@ name_dictionary_command {
   do_name_end:
     TAY 
     STX $0998
-    JSL $@sub_03E255
+    JSL $@DialogStringRenderer
     LDX $0998
     PLY 
     INY 
@@ -169,25 +169,25 @@ name_dictionary_command {
 
 ---------------------------------------------
 
-widestring_0BF3F4 `[DLG:6,A][SIZ:A,4]Start Journey[N]Erase Trip Diary[N]Copy Trip Diary[N]Change Options`
+dialogstring_0BF3F4! `[DLG:6,A][SIZ:A,4]Start Journey[N]Erase Trip Diary[N]Copy Trip Diary[N]Change Options`
 
-widestring_0BF476 `[DLG:2,8][SIZ:E,7]Change Options[N][JMP:&widestring_0BF437+M]`
+dialogstring_0BF476! `[DLG:2,8][SIZ:E,7]Change Options[N][JMP:&dialogstring_0BF437+M]`
 
-widestring_0BF538 `[DLG:6,8][SIZ:A,8][SKP:2]Change Options[N]End Changes[N]Names[N]Button Type[N][SKP:5]   :Attack/Talk[N][SKP:5]   :Item/Cancel[N][SKP:5]   :Item Menu[N][SKP:5]   :Sprint`
+dialogstring_0BF538! `[DLG:6,8][SIZ:A,8][SKP:2]Change Options[N]End Changes[N]Names[N]Button Type[N][SKP:5]   :Attack/Talk[N][SKP:5]   :Item/Cancel[N][SKP:5]   :Item Menu[N][SKP:5]   :Sprint`
 
-widestring_0BF5AD `[DLG:6,8][SIZ:A,8]Arrangement  OK?[N]Start Journey[N]Names[N]Button Type[N][SKP:5]   :Attack/Talk[N][SKP:5]   :Item/Cancel[N][SKP:5]   :Item Menu[N][SKP:5]   :Sprint`
+dialogstring_0BF5AD! `[DLG:6,8][SIZ:A,8]Arrangement  OK?[N]Start Journey[N]Names[N]Button Type[N][SKP:5]   :Attack/Talk[N][SKP:5]   :Item/Cancel[N][SKP:5]   :Item Menu[N][SKP:5]   :Sprint`
 
-widestring_0BF625 `[DLG:D,C][SFX:0][ADR:&table_0BF667,D90]`
+dialogstring_0BF625! `[DLG:D,C][SFX:0][ADR:&table_0BF667,D90]`
 
-widestring_0BF66B `Japanese`
+dialogstring_0BF66B! `Japanese`
 
-widestring_0BF672 `English `
+dialogstring_0BF672! `English `
 
 
 ---------------------------------------------
 ;Always use stereo sound, frees up the flag for dictionaries
 
-sub_0BE673 {
+sub_0BE673! {
     LDA #$0000
     STA $0B04
     STZ $00EE
@@ -203,7 +203,7 @@ sub_0BE673 {
 ----------------------------------------------
 ;Account for name size on scene title
 
-loc_02A197 {
+loc_02A197! {
     CMP #$D6
     BEQ loc_02A1A9
     CMP #$D7
@@ -214,7 +214,7 @@ loc_02A197 {
     BRA loc_02A17E
 }
 
-loc_02A1A7 {
+loc_02A1A7! {
     PLP 
     RTS 
 
@@ -250,7 +250,7 @@ loc_02A1A7 {
     BRA loc_02A1D1
 }
 
-loc_02A1E4 {
+loc_02A1E4! {
     PLY 
     PLB 
     INY 

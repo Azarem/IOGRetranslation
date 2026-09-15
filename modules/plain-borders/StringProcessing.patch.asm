@@ -166,7 +166,7 @@ code_03E453 {
     AND #$00FF
     CMP #$00FA
     BEQ loc_03E4CB
-    JSR $&sub_03E7B2
+    JSR $&WaitOneFrame
 }
 
 ----------------------------------------------------
@@ -222,7 +222,7 @@ loc_03E59F {
 
     LDA #$0001
     TSB $09EC
-    ;JSR $&sub_03E7B2  --This prevents a flicker due to forced redraw
+    ;JSR $&WaitOneFrame  --This prevents a flicker due to forced redraw
     LDX $0998
     STX $099A
     STZ $099C
@@ -233,17 +233,17 @@ loc_03E59F {
 
 ------------------------------------
 
-cmd_cf_03E6A4 {
+DialogCmd_WaitForButton! {
     LDA #$advance_button_mask
     TSB $0658
 
-  loc_03E6AA:
-    JSR $&sub_03E7B2
+  loc_03E6AA!:
+    JSR $&WaitOneFrame
     LDA $0656
     AND #$advance_button_mask
     BNE loc_03E6C1
     SEC 
-    JSR $&sub_03E80C
+    JSR $&DrawDialogueCursor
     LDA #$0001
     TSB $09EC
     BRA loc_03E6AA
@@ -251,12 +251,12 @@ cmd_cf_03E6A4 {
 
 ---------------------------------------------
 
-cmd_d0_03E6D2 {
+DialogCmd_WaitForAnyInput! {
     LDA #$advance_button_mask
     TSB $0658
 
-  loc_03E6D8:
-    JSR $&sub_03E7B2
+  loc_03E6D8!:
+    JSR $&WaitOneFrame
     LDA $0656
     AND #$advance_button_mask
     BEQ loc_03E6D8

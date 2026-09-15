@@ -1,7 +1,7 @@
 
 !player_flags                   09AE
 
-h_actor < #00, #00, #10 >
+actor-def < #00, #00, #10, {
 
 kress_shortcut_main {
     LDA #$2000
@@ -60,12 +60,10 @@ kress_shortcut_str `[TPL:17][TPL:F]Spirit: Whew, I'm[N]impressed you made it all
 kress_shortcut_cancel_str `[CLD][TPL:17][TPL:D]Let me know if you change[N]your mind.[END]`
 kress_shortcut_accept_str `[CLD][TPL:17][TPL:C]Close your eyes…[END]`
 
+}
+
 ------------------------------
 ?INCLUDE 'scene_actors'
 ------------------------------
-event_def_0CCA02 [
-  actor < #05, #0A, #02, @player_character >
-  actor < #00, #00, #00, @actor_00EAED >
-  actor < #DF, #DF, #00, @actor_00E94D >
-  actor < #03, #32, #00, @KressShortcut >
-]
+
+scene_event_0CCA02+: actor-spawn < #03, #32, #00, @KressShortcut >

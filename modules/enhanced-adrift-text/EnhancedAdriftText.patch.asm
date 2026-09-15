@@ -13,7 +13,7 @@
 ?INCLUDE 'dc2F_adrift'
 ------------------------------------
 
-code_059B3B {
+code_059B3B! {
     LDA #$4001
     TSB $09EC
     LDA #$EFF0
@@ -50,10 +50,10 @@ code_059B3B {
     COP [80] ( #13 )
     COP [89]
     COP [DA] ( #01 )
-    COP [BF] ( &widestring_059D15 )
-    COP [BF] ( &widestring_05A467 )
+    COP [BF] ( &dialogstring_059D15 )
+    COP [BF] ( &dialogstring_05A467 )
     COP [DA] ( #EF )
-    COP [BF] ( &widestring_05A5AB )
+    COP [BF] ( &dialogstring_05A5AB )
     LDA #$0800
     TSB $10
     COP [8D] ( #17 )
@@ -74,7 +74,7 @@ code_059B3B {
     RTL 
 }
 
-code_059BB7 {
+code_059BB7! {
 
     LDA #$6000
     STA $VMADDL
@@ -97,7 +97,7 @@ code_059BB7 {
     COP [80] ( #12 )
     COP [89]
     COP [DA] ( #01 )
-    COP [BF] ( &widestring_059D24 )
+    COP [BF] ( &dialogstring_059D24 )
     COP [C0] ( &code_059C2E )
     COP [0B]
     COP [D2] ( #01, #01 )
@@ -108,7 +108,7 @@ code_059BB7 {
     COP [CB]
     COP [DA] ( #3B )
     COP [04] ( #06 )
-    COP [BF] ( &widestring_05A6EA )
+    COP [BF] ( &dialogstring_05A6EA )
     COP [D2] ( #02, #01 )
     COP [C3] ( @code_059C04, #$04B0 )
 }

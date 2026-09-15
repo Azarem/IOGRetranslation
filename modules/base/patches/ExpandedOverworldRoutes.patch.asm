@@ -1,9 +1,9 @@
 
 ------------------------------------------
-?INCLUDE 'overworld_options'
+?INCLUDE 'world_map_options'
 ------------------------------------------
 
-overworld_options [
+world_map_options! [
   &code_03B44F   ;00
   &code_03B451   ;01
   &code_03B47D   ;02
@@ -49,13 +49,13 @@ overworld_options [
 ;Dao to Euro
 -----------------
 
-code_03B7E2 {
-    COP [BF] ( &widestring_03B7F6 )
+code_03B7E2! {
+    COP [BF] ( &dialogstring_03B7F6 )
     COP [BE] ( #42, #01, &code_list_03B7EE )
     COP [C5]
 }
 
-code_list_03B7EE [
+code_list_03B7EE! [
   &code_03BAC5   ;00
   &code_03BAC5   ;01
   &dao_euro_trip
@@ -73,7 +73,7 @@ dao_euro_warp {
     COP [C5]
 }
 
-widestring_03B7F6 `[TPL:11][SFX:0] Quit        Pyramid[N] Euro City   Natives' Vil.`
+dialogstring_03B7F6! `[TPL:11][SFX:0] Quit        Pyramid[N] Euro City   Natives' Vil.`
 
 -----------------
 ;Euro to Dao
@@ -110,7 +110,7 @@ euro_full_option_str `[DLG:2,14][SIZ:E,3][SFX:0] Quit        Dao[N] Watermia    
 ?INCLUDE 'overworld_exit'
 ------------------------------------------
 
-code_00CC56 {
+code_00CC56! {
     COP [D0] ( #B6, #01, &euro_dao_option_switch )
     COP [D0] ( #AC, #01, &code_00CC82 )
     COP [D0] ( #9F, #01, &code_00CC72 )
@@ -131,67 +131,67 @@ euro_dao_option_switch {
 ;Itory to South Cape
 -----------------------
 
-code_03B51A {
-    COP [BF] ( &widestring_03B52C )
+code_03B51A! {
+    COP [BF] ( &dialogstring_03B52C )
     COP [BE] ( #32, #01, &code_list_03B526 )
     COP [C5]
 }
 
 
-code_list_03B526 [
+code_list_03B526! [
   &code_03B999
   &code_03B999
   &code_03B9A5
   &code_03B985
 ]
 
-widestring_03B52C `[TPL:11][SFX:0] Quit        South Cape[N] Inca Ruins`
+dialogstring_03B52C! `[TPL:11][SFX:0] Quit        South Cape[N] Inca Ruins`
 
 
 ------------------------------------------
-?INCLUDE 'overworld_routes'
+?INCLUDE 'world_map_routes'
 ------------------------------------------
 ;New routes
 
-overworld_routes [
-  &motion_03ADC3   ;00
-  &motion_03ADC3   ;01
-  &motion_03ADD8   ;02
-  &motion_03ADF1   ;03
-  &motion_03AE06   ;04
-  &motion_03AE23   ;05
-  &motion_03AE38   ;06
-  &motion_03AE5D   ;07
-  &motion_03AE76   ;08
-  &motion_03AE9B   ;09
-  &motion_03AEA0   ;0A
-  &motion_03AEBD   ;0B
-  &motion_03AEDA   ;0C
-  &motion_03AEEB   ;0D
-  &motion_03AF10   ;0E
-  &motion_03AF2D   ;0F
-  &motion_03AF42   ;10
-  &motion_03AF5F   ;11
-  &motion_03AF9C   ;12
-  &motion_03AFBD   ;13
-  &motion_03AFCE   ;14
-  &motion_03AFEB   ;15
-  &motion_03B00C   ;16
-  &motion_03B02D   ;17
-  &motion_03B046   ;18
-  &motion_03B063   ;19
-  &motion_03B080   ;1A
-  &motion_03B09D   ;1B
-  &motion_03B0AE   ;1C
-  &motion_03B0C7   ;1D
-  &motion_03B0E0   ;1E
-  &motion_03B0F5   ;1F
-  &motion_03B10E   ;20
-  &motion_03B12F   ;21
-  &motion_03B154   ;22
-  &motion_03B17D   ;23
-  &motion_03B19E   ;24
-  &motion_03B1BF   ;25
+world_map_routes! [
+  &route_step_03ADC3   ;00
+  &route_step_03ADC3   ;01
+  &route_step_03ADD8   ;02
+  &route_step_03ADF1   ;03
+  &route_step_03AE06   ;04
+  &route_step_03AE23   ;05
+  &route_step_03AE38   ;06
+  &route_step_03AE5D   ;07
+  &route_step_03AE76   ;08
+  &route_step_03AE9B   ;09
+  &route_step_03AEA0   ;0A
+  &route_step_03AEBD   ;0B
+  &route_step_03AEDA   ;0C
+  &route_step_03AEEB   ;0D
+  &route_step_03AF10   ;0E
+  &route_step_03AF2D   ;0F
+  &route_step_03AF42   ;10
+  &route_step_03AF5F   ;11
+  &route_step_03AF9C   ;12
+  &route_step_03AFBD   ;13
+  &route_step_03AFCE   ;14
+  &route_step_03AFEB   ;15
+  &route_step_03B00C   ;16
+  &route_step_03B02D   ;17
+  &route_step_03B046   ;18
+  &route_step_03B063   ;19
+  &route_step_03B080   ;1A
+  &route_step_03B09D   ;1B
+  &route_step_03B0AE   ;1C
+  &route_step_03B0C7   ;1D
+  &route_step_03B0E0   ;1E
+  &route_step_03B0F5   ;1F
+  &route_step_03B10E   ;20
+  &route_step_03B12F   ;21
+  &route_step_03B154   ;22
+  &route_step_03B17D   ;23
+  &route_step_03B19E   ;24
+  &route_step_03B1BF   ;25
   &dao_euro_sequence   ;26
   &euro_dao_sequence   ;27
   &watermia_freejia_sequence  ;28
@@ -201,51 +201,51 @@ overworld_routes [
 ]
 
 dao_euro_sequence [
-  motion < #00, #00, #02, #80 >
-  motion < #01, #00, #00, #C0 >
-  motion < #00, #00, #02, #40 >
-  motion < #01, #01, #00, #20 >
-  motion < #00, #00, #01, #40 >
-  motion < #01, #00, #00, #5E >
-  motion < #00, #00, #01, #80 >
+  route-step < #00, #00, #02, #80 >
+  route-step < #01, #00, #00, #C0 >
+  route-step < #00, #00, #02, #40 >
+  route-step < #01, #01, #00, #20 >
+  route-step < #00, #00, #01, #40 >
+  route-step < #01, #00, #00, #5E >
+  route-step < #00, #00, #01, #80 >
 ]
 
 euro_dao_sequence [
-  motion < #00, #00, #01, #80 >
-  motion < #02, #00, #00, #5E >
-  motion < #00, #00, #02, #40 >
-  motion < #02, #02, #00, #20 >
-  motion < #00, #00, #01, #40 >
-  motion < #02, #00, #00, #C0 >
-  motion < #00, #00, #02, #80 >
+  route-step < #00, #00, #01, #80 >
+  route-step < #02, #00, #00, #5E >
+  route-step < #00, #00, #02, #40 >
+  route-step < #02, #02, #00, #20 >
+  route-step < #00, #00, #01, #40 >
+  route-step < #02, #00, #00, #C0 >
+  route-step < #00, #00, #02, #80 >
 ]
 
 watermia_freejia_sequence [
-  motion < #00, #00, #03, #80 >
-  motion < #00, #01, #00, #30 >
-  motion < #00, #00, #02, #28 >
-  motion < #02, #03, #00, #80 >
-  motion < #00, #00, #04, #6C >
+  route-step < #00, #00, #03, #80 >
+  route-step < #00, #01, #00, #30 >
+  route-step < #00, #00, #02, #28 >
+  route-step < #02, #03, #00, #80 >
+  route-step < #00, #00, #04, #6C >
 ]
 
 freejia_watermia_sequence [
-  motion < #00, #00, #02, #28 >
-  motion < #01, #04, #00, #80 >
-  motion < #00, #00, #01, #28 >
-  motion < #00, #02, #00, #2C >
+  route-step < #00, #00, #02, #28 >
+  route-step < #01, #04, #00, #80 >
+  route-step < #00, #00, #01, #28 >
+  route-step < #00, #02, #00, #2C >
 ]
 
 south_cape_freejia_sequence [
-  motion < #00, #00, #02, #58 >
-  motion < #03, #02, #00, #BF >
-  motion < #00, #00, #01, #58 >
-  motion < #00, #02, #00, #12 >
+  route-step < #00, #00, #02, #58 >
+  route-step < #03, #02, #00, #BF >
+  route-step < #00, #00, #01, #58 >
+  route-step < #00, #02, #00, #12 >
 ]
 
 freejia_south_cape_sequence [
-  motion < #00, #00, #03, #80 >
-  motion < #00, #01, #00, #12 >
-  motion < #00, #00, #02, #58 >
-  motion < #04, #01, #00, #BF >
-  motion < #00, #00, #04, #54 >
+  route-step < #00, #00, #03, #80 >
+  route-step < #00, #01, #00, #12 >
+  route-step < #00, #00, #02, #58 >
+  route-step < #04, #01, #00, #BF >
+  route-step < #00, #00, #04, #54 >
 ]

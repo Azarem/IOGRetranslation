@@ -4,10 +4,10 @@
 -------------------------------------
 
 
-code_09BC4C {
+code_09BC4C! {
     COP [D1] ( #$0113, #01, &thankful_flower_interact )
     COP [D0] ( #02, #01, &thankful_flower_interact )
-    COP [BF] ( &widestring_09BC51 )
+    COP [BF] ( &dialogstring_09BC51 )
     RTL 
 }
 

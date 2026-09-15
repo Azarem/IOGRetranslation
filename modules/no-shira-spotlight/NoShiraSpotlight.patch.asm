@@ -3,7 +3,7 @@
 ?INCLUDE 'gs2A_shira'
 ---------------------------------------------------
 
-code_059484 {
-    COP [BF] ( &widestring_0594B8+2 )
+code_059484! {
+    COP [BF] ( &dialogstring_0594B8+2 )
     COP [BE] ( #02, #01, &code_list_059491 )
 }

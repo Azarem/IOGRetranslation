@@ -1,6 +1,6 @@
 [
   {
-    "type": "WideString",
+    "type": "DialogString",
     "base": 220,
     "map": [
       "à", "á", "â", "ã", 
