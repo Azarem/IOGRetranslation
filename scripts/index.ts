@@ -58,6 +58,8 @@ export async function rebuild(inPath: string, outPath: string) {
         './modules/angkor-shortcut',
         './modules/blue-journal',
         './modules/crystal-ring-palette',
+        './modules/south-cape-return',
+        './modules/full-health-herb',
         //'./modules/widescreen'
     ];
     await rebuildInternal(inPath, outPath, null, modules);

@@ -11,6 +11,7 @@ interface RomBuilderProps {
   unshiftManualFiles?: boolean;
   fileTypes: Record<string, Partial<DbFileType>>;
   expectedCrc: number;
+  packageHash: string;
   onBuildComplete: (romData: Uint8Array) => void;
   onBuildError: (error: string) => void;
 }
@@ -22,6 +23,7 @@ export function RomBuilder({
   unshiftManualFiles = false,
   fileTypes,
   expectedCrc,
+  packageHash,
   onBuildComplete,
   onBuildError
 }: RomBuilderProps) {
@@ -72,12 +74,10 @@ export function RomBuilder({
 
       setProgress({ stage: 'Validating', progress: 10, message: 'Validating ROM and modules...' });
 
-      const projectName = process?.env?.PROJECT_NAME || 'Illusion of Gaia: Retranslated';
-
       // Create RomGenerator instance
       const romGenerator = new RomGenerator(projectName, expectedCrc);
 
-      const isValid = await romGenerator.validateAndDownload(romData);
+      const isValid = await romGenerator.validateAndLoadFromUrl(romData, '/data', packageHash);
       if(!isValid) {
         onBuildError('ROM file is not valid');
         return;

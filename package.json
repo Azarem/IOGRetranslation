@@ -2,6 +2,7 @@
   "name": "IOG Retranslation Scripts",
   "version": "1.0.0",
   "description": "Extract translation data from Gaia Gensouki Excel spreadsheet",
+  "type": "module",
   "main": "extractChapters.js",
   "scripts": {
     "build": "tsc",
@@ -9,7 +10,8 @@
     "clean": "rm -rf dist",
     "clean-install": "rm -rf node_modules && rm -rf package-lock.json && npm install",
     "extract": "rm -rf extracted && node --env-file=.env.local scripts/index.ts extract",
-    "rebuild": "node --env-file=.env.local scripts/index.ts rebuild"
+    "rebuild": "node --env-file=.env.local scripts/index.ts rebuild",
+    "generate-package": "node scripts/generate-package.ts"
   },
   "keywords": [
     "translation",
@@ -19,13 +21,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@paralleldrive/cuid2": "^2.2.2",
-    "@types/node": "^20.10.0",
-    "typescript": "^5.3.0",
-    "@gaialabs/iog-baserom": "0.2.3",
-    "@prisma/adapter-pg": "^7.6.0",
-    "dotenv": "^17.4.0",
-    "vitest": "^4.1.2"
+    "typescript": "^6.0.3",
+    "@gaialabs/iog-baserom": "0.2.4"
   }
 }
 

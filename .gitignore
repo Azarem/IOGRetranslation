@@ -4,3 +4,6 @@ generated
 extracted
 rebuilt
 .env
+
+# Generated static ROM package (regenerated at build time)
+site/public/data/

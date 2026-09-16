@@ -144,13 +144,13 @@ function App() {
         onDismiss={dismissNotification}
       />
       <div className="app-header">
-        <h1>{projectData.project.name}</h1>
+        <h1>{projectData.projectName}</h1>
         <h2>ROM Patcher</h2>
       </div>
       <div className="workflow-container">
         <div className="workflow-step">
           <div className="card">
-            <h3>📋 Version {projectData.name}</h3>
+            <h3>📋 Version {projectData.version}</h3>
             <ul>
               {projectData.notes && projectData.notes.map((note: string) => (
                 <li key={note}>{note}</li>
@@ -161,7 +161,7 @@ function App() {
 
         <div className="workflow-step">
           <RomFilePicker
-            expectedCrc={projectData.baseRomBranch.gameRomBranch.gameRom.crc} // Expected CRC for Illusion of Gaia ROM
+            expectedCrc={projectData.crc} // Expected CRC for Illusion of Gaia ROM
             onFileValidated={handleRomFileValidated}
             onValidationError={handleRomValidationError}
           />
@@ -181,7 +181,7 @@ function App() {
               onFilesLoaded={handleFolderFilesLoaded}
               onError={handleFolderError}
               onUnshiftChanged={handleBeforeChanged}
-              fileTypes={projectData.baseRomBranch.gameRomBranch.fileTypes}
+              fileTypes={projectData.fileTypes}
             />
           </div>
         )}
@@ -196,11 +196,12 @@ function App() {
           <div className="workflow-step">
             <RomBuilder
               romData={romData}
-              projectName={projectData.project.name}
+              projectName={projectData.projectName}
               folderFiles={folderFiles}
               unshiftManualFiles={insertBeforeModules}
-              fileTypes={projectData.baseRomBranch.gameRomBranch.fileTypes}
-              expectedCrc={projectData.baseRomBranch.gameRomBranch.gameRom.crc}
+              fileTypes={projectData.fileTypes}
+              expectedCrc={projectData.crc}
+              packageHash={projectData.packageHash}
               onBuildComplete={handleBuildComplete}
               onBuildError={handleBuildError}
             />
