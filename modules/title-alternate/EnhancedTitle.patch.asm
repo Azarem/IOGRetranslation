@@ -46,7 +46,7 @@ thinker_spawn_0CEB2F+ [
 ?INCLUDE 'sFC_actor_0BC924'
 ------------------------------------------------
 
-code_0BC927! {
+TitleIntroInit! {
     LDA #$4001
     TSB $09EC
     LDA #$0000
@@ -130,8 +130,8 @@ code_0BC988! {
 ------------------------------------------------
 ;Immediate start press
 
-code_0BC9B1! {
-    BRA code_0BC9C0
+TitleStartDelayedInit! {
+    BRA TitleStartPollInit
 }
 
 

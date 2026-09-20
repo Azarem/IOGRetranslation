@@ -133,7 +133,7 @@ prologue_stamp {
     BCS do_command
     CMP #$57
     BEQ do_space
-    JSR $&do_character
+    JSR $&do_stamp_character
     RTS 
 
   do_space:
@@ -150,7 +150,7 @@ prologue_stamp {
     RTS
     
   do_accent_map:
-    JSR proc_accent_map
+    JSR proc_prologue_accent_map
     SEP #$20
     RTS
 
@@ -184,7 +184,7 @@ prologue_stamp {
     RTL
 }
 
-do_character {
+do_stamp_character {
     PHA 
     AND #$07
     STA $10
@@ -208,12 +208,12 @@ do_character {
     CLC
     ADC #$&gfx_stamped_font
     STA $62
-    JSR $&print_character
+    JSR $&print_prologue_character
     SEP #$20
     RTS 
 }
 
-print_character {
+print_prologue_character {
     PHY 
     LDY #$0000
     LDA $3E
@@ -222,31 +222,31 @@ print_character {
     LDA #$0001
     STA $0E
     
-  print_outer_loop:
+  print_prologue_outer_loop:
     LDA #$0007
     STA $10
 
-  print_inner_loop:
+  print_prologue_inner_loop:
     LDA [$62], Y
     STA [$42], Y
     INY 
     INY 
     DEC $10
-    BPL print_inner_loop
+    BPL print_prologue_inner_loop
     LDA $42
     CLC 
     ADC #$01F0
     STA $42
     DEC $0E
-    BPL print_outer_loop
+    BPL print_prologue_outer_loop
     
     JSR write_sprite
-    JSR increment_map
+    JSR prologue_increment_map
     PLY 
     RTS 
 }
 
-proc_accent_map {
+proc_prologue_accent_map {
     PHX
     PHY
     XBA
@@ -262,7 +262,7 @@ proc_accent_map {
     LDA #$0001
     STA $0E
 
-  accent_outer:
+  prologue_accent_outer:
     LDA $@prologue_accent_map, X
     INX
     AND #$00FF
@@ -276,13 +276,13 @@ proc_accent_map {
 
     LDY #$0000
     
-   accent_inner:
+  prologue_accent_inner:
     LDA [$62], Y
     STA [$42], Y
     INY 
     INY 
     CPY #$0010
-    BNE accent_inner
+    BNE prologue_accent_inner
 
     LDA $42
     CLC
@@ -290,13 +290,13 @@ proc_accent_map {
     STA $42
 
     DEC $0E
-    BPL accent_outer
+    BPL prologue_accent_outer
 
     PLY
     PLX
 
     JSR write_sprite
-    JSR increment_map
+    JSR prologue_increment_map
     
     RTS
 }
@@ -318,24 +318,24 @@ do_dma_transfer {
 conditional_increment_map {
     LDA $0D70
     BIT #$0001
-    BEQ increment_end
+    BEQ prologue_increment_end
 
-  increment_map:
+  prologue_increment_map:
     LDA $3E
     CLC 
     ADC #$0020
     BIT #$0200
-    BEQ increment_next
+    BEQ prologue_increment_next
     CLC
 
     ADC #$0200
 
-  increment_next:
+  prologue_increment_next:
     STA $3E
     INC $0D70
     INC $22
 
-  increment_end:
+  prologue_increment_end:
     LDA $02
     CLC
     ADC #$0008
@@ -377,7 +377,7 @@ write_sprite {
 ------------------------------
 ?INCLUDE 'pr8C_prologue1'
 ------------------------------
-code_0BCA05 {
+code_0BCA05! {
     LDA #$0800
     STA $064A
     COP [D0] ( #F4, #00, &code_0BCAAF )
@@ -403,7 +403,7 @@ code_0BCA05 {
     SEP #$20
     STZ $M7SEL
     REP #$20
-    COP [3C] ( @code_03A985 )
+    COP [3C] ( @Mode7PerspectiveUpdate )
     TXA 
     TYX 
     TAY 
@@ -466,12 +466,12 @@ code_0BCA05 {
 
 --spritestring_0BD044 ~àáâãÀÁèéêÂçÕÉÊÍÚ[N]ìíîªòóôõ°ùúûÓÔÇÃ~
 
-spritestring_0BD06D ~~
+spritestring_0BD06D! ~~
 
 ------------------------------
 ?INCLUDE 'pr8D_prologue2'
 ------------------------------
-code_0BCB51 {
+code_0BCB51! {
     SEP #$20
     STZ $M7SEL
     REP #$20
@@ -492,7 +492,7 @@ code_0BCB51 {
     COP [E0]
 }
 
-code_0BCB8A {
+code_0BCB8A! {
     COP [D1] ( #$017D, #01, &code_0BCBB4 )
     COP [CD] ( #$017D )
     COP [9A] ( @code_0BCC5B, #$2800 )
@@ -509,7 +509,7 @@ code_0BCB8A {
     COP [E0]
 }
 
-code_0BCBB4 {
+code_0BCBB4! {
     COP [D1] ( #$017E, #01, &code_0BCBDE )
     COP [CD] ( #$017E )
     COP [9A] ( @code_0BCC85, #$2800 )
@@ -526,7 +526,7 @@ code_0BCBB4 {
     COP [E0]
 }
 
-code_0BCBDE {
+code_0BCBDE! {
     COP [D1] ( #$017F, #01, &code_0BCC08 )
     COP [CD] ( #$017F )
     COP [9A] ( @code_0BCCAE, #$2800 )
@@ -543,7 +543,7 @@ code_0BCBDE {
     COP [E0]
 }
 
-code_0BCC08 {
+code_0BCC08! {
     COP [9A] ( @code_0BCCD7, #$2800 )
     COP [CF] ( #$017C )
     --COP [A0] ( @code_0BCF8F, #$0038, #$0050, #$2000 )
@@ -563,7 +563,7 @@ code_0BCC08 {
 ------------------------------
 ?INCLUDE 'pr8E_prologue3'
 ------------------------------
-code_0BCD4E {
+code_0BCD4E! {
     LDA #$4001
     TSB $09EC
     COP [50] ( @pal_prologue_missing, #00, #00, #20 )
@@ -601,7 +601,7 @@ code_0BCD4E {
     BEQ loc_0BCD9E
     RTL 
 
-  loc_0BCDBA:
+  loc_0BCDBA!:
     SEP #$20
     LDA #$82
     STA $CGWSEL
@@ -630,7 +630,7 @@ code_0BCD4E {
 ------------------------------
 ?INCLUDE 'pr8F_prologue4'
 ------------------------------
-code_0BCE36 {
+code_0BCE36! {
     LDA #$4001
     TSB $09EC
     COP [50] ( @pal_prologue_mishap, #00, #00, #20 )
@@ -662,7 +662,7 @@ code_0BCE36 {
 ------------------------------
 ?INCLUDE 'pr8C_prologue5'
 ------------------------------
-code_0BCE7C {
+code_0BCE7C! {
     COP [D0] ( #F4, #01, &code_0BCEBB )
     --COP [A0] ( @code_0BCF8F, #$0038, #$0038, #$2000 )
     --LDA #$&spritestring_0BD272
@@ -677,7 +677,7 @@ code_0BCE7C {
     SEP #$20
     STZ $M7SEL
     REP #$20
-    COP [3C] ( @code_03A985 )
+    COP [3C] ( @Mode7PerspectiveUpdate )
     TXA 
     TYX 
     TAY 

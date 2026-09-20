@@ -187,7 +187,7 @@ dialogstring_0BF672! `English `
 ---------------------------------------------
 ;Always use stereo sound, frees up the flag for dictionaries
 
-sub_0BE673! {
+ApplySoundAndRemap! {
     LDA #$0000
     STA $0B04
     STZ $00EE

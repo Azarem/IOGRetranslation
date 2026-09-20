@@ -197,7 +197,7 @@ increment_map {
 ?INCLUDE 'sFE_actor_03A2F1'
 --------------------------------------
 
-  loc_03A3A4:
+  loc_03A3A4!:
     LDA $0D6F
     AND #$00FF
     STA $0000
@@ -219,7 +219,7 @@ increment_map {
     TRB $10
     LDY #$0000
     
-  loc_03A60B:
+  loc_03A60B!:
     STZ $0D5A
     STZ $0D58
     LDA $0D6E
@@ -237,14 +237,14 @@ increment_map {
     STA $00B6
     LDA $0660
     BIT #$1000
-    BNE loc_03A5DB
+    BNE SkipToSceneTransition
     RTL 
 
     
 code_03A246 {
     LDA #$2000
     TRB $10
-    COP [88] ( @table_0EE000 )
+    COP [88] ( @spriteset_enemies )
     LDA #$0020
     SEC 
     SBC $0D70
@@ -263,7 +263,7 @@ code_03A246 {
 }
 
 
-  loc_03A450:
+  loc_03A450!:
     LDA $24
     STA $7F0012, X
     COP [CA] ( #02 )
@@ -271,10 +271,10 @@ code_03A246 {
     COP [89]
     COP [CB]
     COP [A8]
-    COP [99] ( @code_03A52F )
+    COP [99] ( @RouteAnimationEngine )
     BRA loc_03A497
     
-  loc_03A644:
+  loc_03A644!:
     LDA #$0000
     STA $00B6
     COP [C2]
@@ -289,7 +289,7 @@ code_03A246 {
     STA $scene_next
     LDA $0D6C
     STA $0652
-    JSR $&code_03A681
+    JSR $&ClearWorldMapState
     COP [C1]
     COP [64]
     LDA $7F002E, X
@@ -298,7 +298,7 @@ code_03A246 {
     STA $00B8
     RTL 
 
-  loc_03A6AD:
+  loc_03A6AD!:
     REP #$20
     LDY $&world_map_names+1, X
     JSL $@overworld_stamp_main
@@ -311,7 +311,7 @@ code_03A246 {
 ?INCLUDE 'table_0EE000'
 ------------------------------------
   
-sprite_group_0EF317 [
+sprite_group_0EF317! [
   sprite_group < #01, #FF, #10, #00, #F8, #F0, #01, #01, #F8, #07, #F8, #07, #10, [
     sprite_part < #01, #00, #F0, #00, #00, #$0300 >   ;00
     sprite_part < #01, #10, #E0, #00, #00, #$0302 >   ;01

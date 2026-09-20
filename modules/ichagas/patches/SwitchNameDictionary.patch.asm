@@ -86,7 +86,7 @@ name_dictionary_command {
 ---------------------------------------------
 ;Always use stereo sound, frees up the flag for dictionaries
 
-sub_0BE673 {
+ApplySoundAndRemap! {
     LDA #$0000
     STA $0B04
     STZ $00EE
@@ -100,7 +100,7 @@ sub_0BE673 {
 ----------------------------------------------
 ;Account for name size on scene title
 
-loc_02A197 {
+loc_02A197! {
     CMP #$D6
     BEQ loc_02A1A9
     CMP #$D7
@@ -111,7 +111,7 @@ loc_02A197 {
     BRA loc_02A17E
 }
 
-loc_02A1A7 {
+loc_02A1A7! {
     PLP 
     RTS 
 
@@ -132,7 +132,7 @@ loc_02A1A7 {
     BRA loc_02A1D1
 }
 
-loc_02A1E4 {
+loc_02A1E4! {
     PLY 
     PLB 
     INY 

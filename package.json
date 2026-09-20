@@ -23,7 +23,7 @@
   "devDependencies": {
     "typescript": "^6.0.3",
     "@gaialabs/core": "1.0.5",
-    "@gaialabs/iog-baserom": "0.2.4"
+    "@gaialabs/iog-baserom": "0.2.5"
   }
 }
 

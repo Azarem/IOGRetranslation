@@ -16,7 +16,7 @@ kress_shortcut_enable {
     TRB $10
     LDA #$0200
     TSB $12
-    COP [88] ( @table_0EDA00 )
+    COP [88] ( @spriteset_npc_props )
     COP [8D] ( #04 )
     COP [0B]
     COP [C0] ( &shortcut_interact )

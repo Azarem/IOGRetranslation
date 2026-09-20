@@ -110,21 +110,21 @@ euro_full_option_str `[DLG:2,14][SIZ:E,3][SFX:0] Quit        Dao[N] Watermia    
 ?INCLUDE 'overworld_exit'
 ------------------------------------------
 
-code_00CC56! {
+OverworldExitEuroDefault! {
     COP [D0] ( #B6, #01, &euro_dao_option_switch )
-    COP [D0] ( #AC, #01, &code_00CC82 )
-    COP [D0] ( #9F, #01, &code_00CC72 )
+    COP [D0] ( #AC, #01, &OverworldExitEuroFlagAC )
+    COP [D0] ( #9F, #01, &OverworldExitEuroFlag9F )
     LDA #$0000
     STA $0D60
     COP [66] ( #$01D4, #$0134, #0F )
-    JMP $&code_00CAC1
+    JMP $&OverworldExitFinalize
 }
 
 euro_dao_option_switch {
     LDA #$0000
     STA $0D60
     COP [66] ( #$01D4, #$0134, #1C )
-    JMP $&code_00CAC1
+    JMP $&OverworldExitFinalize
 }
 
 -----------------------
