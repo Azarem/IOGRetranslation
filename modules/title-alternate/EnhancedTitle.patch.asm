@@ -56,7 +56,7 @@ TitleIntroInit! {
     COP [A0] ( @code_0BC933, #$0060, #$00B6, #$1800 )
     COP [A0] ( @code_0BC945, #$0080, #$00B6, #$1800 )
     COP [A0] ( @code_0BC957, #$00A0, #$00B6, #$1800 )
-    COP [A0] ( @code_0BC988, #$0048, #$0048, #$1800 )
+    COP [A0] ( @TitleCometSpriteActor, #$0048, #$0048, #$1800 )
     SEP #$20
     LDA #$17
     STA $_TM
@@ -116,7 +116,7 @@ code_0BC969 {
     RTL 
 }
 
-code_0BC988! {
+TitleCometSpriteActor! {
     COP [B6] ( #20 )
     COP [C1]
     COP [80] ( #04 )
