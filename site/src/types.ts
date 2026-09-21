@@ -8,6 +8,8 @@ export interface ModuleOption {
   name: string;
   description?: string;
   default?: boolean;
+  module?: string | null;
+  image?: string;
 }
 
 export interface RomValidationResult {

@@ -15,40 +15,40 @@
         ] },
         { "name": "🎨 Title Screen", "groups": [
             { "name": null, "options": [
-                { "name": "NA Original", "module": null, "description": "The original North American title screen" },
-                { "name": "Enhanced", "module": "title-enhanced", "description": "Enhanced NA title screen with JP comet background", "default": true },
-                { "name": "Hybrid", "module": "title-alternate", "description": "Hybrid JP title screen with NA title text" },
-                { "name": "Demo", "module": "title-demo", "description": "Demo title screen with JP comet background" }
+                { "name": "NA Original", "module": null, "description": "The original North American title screen", "image": "title-original.png" },
+                { "name": "Enhanced", "module": "title-enhanced", "description": "Enhanced NA title screen with JP comet background", "default": true, "image": "title-enhanced.png" },
+                { "name": "Hybrid", "module": "title-alternate", "description": "Hybrid JP title screen with NA title text", "image": "title-alternate.png" },
+                { "name": "Demo", "module": "title-demo", "description": "Demo title screen with JP comet background", "image": "title-demo.png" }
             ] }
         ] },
         { "name": "🏯 JP Content", "groups": [
             { "name": "Edward Castle Background", "options": [
-                { "name": "NA", "module": null },
-                { "name": "JP", "module": "jp-edward-mountains", "default": true }
+                { "name": "NA", "module": null, "image": "us-edward-mountains.png" },
+                { "name": "JP", "module": "jp-edward-mountains", "default": true, "image": "jp-edward-mountains.png" }
             ] },
             { "name": "Itory Background", "options": [
-                { "name": "NA", "module": null },
-                { "name": "JP", "module": "jp-itory-mountains", "default": true }
+                { "name": "NA", "module": null, "image": "us-itory-mountains.png" },
+                { "name": "JP", "module": "jp-itory-mountains", "default": true, "image": "jp-itory-mountains.png" }
             ] },
             { "name": "Great Wall Background", "options": [
-                { "name": "NA", "module": null },
-                { "name": "JP", "module": "jp-wall-dunes", "default": true }
+                { "name": "NA", "module": null, "image": "us-wall-dunes.png" },
+                { "name": "JP", "module": "jp-wall-dunes", "default": true, "image": "jp-wall-dunes.png" }
             ] },
             { "name": "Fountain Color", "options": [
-                { "name": "NA (Brown)", "module": null },
-                { "name": "JP (Red)", "module": "red-fountain", "default": true }
+                { "name": "NA (Brown)", "module": null, "image": "us-fountain.png" },
+                { "name": "JP (Red)", "module": "red-fountain", "default": true, "image": "red-fountain.png" }
             ] },
             { "name": "Viper Boss", "options": [
                 { "name": "NA", "module": null, "default": true },
                 { "name": "JP", "module": "jp-viper" }
             ] },
             { "name": "Church Cross/Statue", "options": [
-                { "name": "NA (Statue)", "module": null },
-                { "name": "JP (Cross)", "module": "jp-church-cross", "default": true }
+                { "name": "NA (Statue)", "module": null, "image": "us-church-statue.png" },
+                { "name": "JP (Cross)", "module": "jp-church-cross", "default": true, "image": "jp-church-cross.png" }
             ] },
             { "name": "Diamond Mines", "options": [
-                { "name": "NA (Brown)", "module": null, "default": true },
-                { "name": "JP (Purple)", "module": "jp-mines" }
+                { "name": "NA (Brown)", "module": null, "default": true, "image": "us-mines.png" },
+                { "name": "JP (Purple)", "module": "jp-mines", "image": "jp-mines.png" }
             ] },
             { "name": "Prologue Palettes", "options": [
                 { "name": "NA (Light)", "module": null },

@@ -9,7 +9,7 @@
  * Usage: node scripts/generate-package.ts
  */
 
-import { readFileSync, writeFileSync, mkdirSync, readdirSync, statSync } from 'fs';
+import { readFileSync, writeFileSync, mkdirSync, readdirSync, statSync, existsSync } from 'fs';
 import { join, extname, resolve } from 'path';
 import { createHash } from 'crypto';
 import { db } from '@gaialabs/iog-baserom';
@@ -97,6 +97,84 @@ async function collectProjectFiles(): Promise<PackageFileEntry[]> {
   return entries;
 }
 
+const IMAGES_DIR = join(process.cwd(), 'site/public/images');
+
+/**
+ * Walk the manifest modules tree and collect every `image` reference.
+ * Returns a flat array of image filenames.
+ */
+function collectImageReferences(modules: any[]): string[] {
+  const images: string[] = [];
+
+  for (const category of modules) {
+    if (!category.groups || !Array.isArray(category.groups)) continue;
+    for (const group of category.groups) {
+      if (!group.options || !Array.isArray(group.options)) continue;
+      for (const option of group.options) {
+        if (option.image) {
+          images.push(option.image);
+        }
+      }
+    }
+  }
+
+  return images;
+}
+
+/**
+ * Validate that every image referenced in the manifest exists on disk.
+ * Logs a summary and returns false if any are missing.
+ */
+function validateImages(modules: any[]): boolean {
+  const referenced = collectImageReferences(modules);
+  const unique = [...new Set(referenced)];
+
+  if (unique.length === 0) {
+    console.log('  No image references found in manifest');
+    return true;
+  }
+
+  const missing: string[] = [];
+  const found: string[] = [];
+
+  for (const image of unique) {
+    const imagePath = join(IMAGES_DIR, image);
+    if (existsSync(imagePath)) {
+      const size = (statSync(imagePath).size / 1024).toFixed(1);
+      found.push(`${image} (${size} KB)`);
+    } else {
+      missing.push(image);
+    }
+  }
+
+  console.log(`  Referenced images: ${unique.length}`);
+  for (const f of found) {
+    console.log(`    ✅ ${f}`);
+  }
+
+  if (missing.length > 0) {
+    console.warn(`  ⚠️  Missing images (${missing.length}):`);
+    for (const m of missing) {
+      console.warn(`    ❌ ${m}`);
+    }
+    return false;
+  }
+
+  // Check for unreferenced images in the images directory
+  if (existsSync(IMAGES_DIR)) {
+    const onDisk = readdirSync(IMAGES_DIR).filter(f => /\.(png|jpe?g|gif|webp)$/i.test(f));
+    const unreferenced = onDisk.filter(f => !unique.includes(f));
+    if (unreferenced.length > 0) {
+      console.log(`  📎 Unreferenced images on disk (${unreferenced.length}):`);
+      for (const u of unreferenced) {
+        console.log(`    ▪ ${u}`);
+      }
+    }
+  }
+
+  return true;
+}
+
 async function main() {
   console.log('Generating static ROM package...');
 
@@ -109,6 +187,12 @@ async function main() {
   console.log('Collecting project module files...');
   const projectFiles = await collectProjectFiles();
   console.log(`  Found ${projectFiles.length} project files`);
+
+  console.log('Validating manifest images...');
+  const imagesValid = validateImages(manifest.modules);
+  if (!imagesValid) {
+    console.warn('⚠️  Some referenced images are missing — the site will show broken thumbnails for those options');
+  }
 
   // Build summary.json (packageHash is set after rom-package.json is written)
   const summary: PackageSummary = {

@@ -1,4 +1,4 @@
-import React from 'react';
+import { useState, useCallback } from 'react';
 import { ModuleGroup } from '../types';
 import './ModuleSelector.css';
 
@@ -7,6 +7,8 @@ interface ModuleSelectorProps {
 }
 
 export function ModuleSelector({ modules }: ModuleSelectorProps) {
+  const [previewImage, setPreviewImage] = useState<{ src: string; alt: string } | null>(null);
+
   // Defensive check for modules
   if (!modules || !Array.isArray(modules)) {
     return (
@@ -17,23 +19,102 @@ export function ModuleSelector({ modules }: ModuleSelectorProps) {
     );
   }
 
-  // Function to get all selected values
-  const getSelectedValues = () => {
-    const form = document.querySelector('.module-selector form') as HTMLFormElement;
-    if (!form) return [];
+  const openPreview = useCallback((src: string, alt: string) => {
+    setPreviewImage({ src, alt });
+  }, []);
 
-    const formData = new FormData(form);
-    const values: string[] = [];
+  const closePreview = useCallback(() => {
+    setPreviewImage(null);
+  }, []);
 
-    for (const [key, value] of formData.entries()) {
-      // Only include non-empty values and exclude "on" values from radio buttons without proper values
-      const stringValue = value as string;
-      if (stringValue && stringValue !== 'on') {
-        values.push(stringValue);
-      }
+  const renderImageOptions = (nestedGroup: any, groupName: string) => {
+    return (
+      <div key={groupName} className="module-group">
+        {nestedGroup.name && <h4 className="group-title">{nestedGroup.name}</h4>}
+        <div className="image-options-container">
+          {nestedGroup.options.map((option: any, optionIndex: number) => {
+            const radioValue = option.module;
+            return (
+              <label key={`${groupName}-${option.id || optionIndex}`} className="image-option-label">
+                <input
+                  type="radio"
+                  name={groupName}
+                  value={radioValue ?? undefined}
+                  defaultChecked={option.default}
+                  className="image-option-radio"
+                />
+                <span className="image-option-card">
+                  {option.image ? (
+                    <span className="image-option-thumbnail-wrapper">
+                      <img
+                        src={`/images/${option.image}`}
+                        alt={option.name}
+                        className="image-option-thumbnail"
+                        loading="lazy"
+                        onClick={() => {
+                          openPreview(`/images/${option.image}`, option.name);
+                        }}
+                      />
+                      <span className="image-zoom-hint" title="Click image to enlarge">🔍</span>
+                    </span>
+                  ) : (
+                    <span className="image-option-no-image">
+                      <span>No preview</span>
+                    </span>
+                  )}
+                  <span className="image-option-info">
+                    <span className="image-option-name">{option.name}</span>
+                    {option.description && (
+                      <span className="image-option-description">{option.description}</span>
+                    )}
+                  </span>
+                  <span className="image-option-check">✓</span>
+                </span>
+              </label>
+            );
+          })}
+        </div>
+      </div>
+    );
+  };
+
+  const renderTextOptions = (nestedGroup: any, groupName: string) => {
+    if (!nestedGroup.options || !Array.isArray(nestedGroup.options)) {
+      return (
+        <div key={groupName} className="module-group">
+          <h4 className="group-title">{nestedGroup.name || 'Options'}</h4>
+          <p className="error-message">No options available for this group</p>
+        </div>
+      );
     }
 
-    return values;
+    return (
+      <div key={groupName} className="module-group">
+        <h4 className="group-title">{nestedGroup.name}</h4>
+        <div className="options-container">
+          {nestedGroup.options.map((option: any, optionIndex: number) => {
+            const radioValue = option.module;
+            return (
+              <label key={`${groupName}-${option.id || optionIndex}`} className="option-label">
+                <input
+                  type="radio"
+                  name={groupName}
+                  value={radioValue ?? undefined}
+                  defaultChecked={option.default}
+                  className="option-radio"
+                />
+                <span className="option-content">
+                  <span className="option-name">{option.name}</span>
+                  {option.description && (
+                    <span className="option-description">{option.description}</span>
+                  )}
+                </span>
+              </label>
+            );
+          })}
+        </div>
+      </div>
+    );
   };
 
   return (
@@ -45,7 +126,6 @@ export function ModuleSelector({ modules }: ModuleSelectorProps) {
       <form>
         <div className="groups-container">
           {modules.map((group, groupIndex) => {
-            // Handle nested groups structure
             if (group.groups && Array.isArray(group.groups)) {
               return (
                 <div key={group.name || `group-${groupIndex}`} className="module-category">
@@ -53,46 +133,12 @@ export function ModuleSelector({ modules }: ModuleSelectorProps) {
                   <div className="nested-groups">
                     {group.groups.map((nestedGroup: any, nestedIndex: number) => {
                       const groupName = nestedGroup.name || `${group.name}-${nestedIndex}`;
+                      const hasImages = nestedGroup.options?.some((opt: any) => opt.image);
 
-                      if (!nestedGroup.options || !Array.isArray(nestedGroup.options)) {
-                        return (
-                          <div key={groupName} className="module-group">
-                            <h4 className="group-title">{nestedGroup.name || `Subgroup ${nestedIndex + 1}`}</h4>
-                            <p className="error-message">No options available for this group</p>
-                          </div>
-                        );
+                      if (hasImages) {
+                        return renderImageOptions(nestedGroup, groupName);
                       }
-
-                      const defaultOption = nestedGroup.options.find((opt: any) => opt.default) || nestedGroup.options[0];
-
-                      return (
-                        <div key={groupName} className="module-group">
-                          <h4 className="group-title">{nestedGroup.name}</h4>
-                          <div className="options-container">
-                            {nestedGroup.options.map((option: any, optionIndex: number) => {
-                              // Use option.name as the radio button value for meaningful module names
-                              const radioValue = option.module;
-                              return (
-                                <label key={`${groupName}-${option.id || optionIndex}`} className="option-label">
-                                  <input
-                                    type="radio"
-                                    name={groupName}
-                                    value={radioValue ?? undefined}
-                                    defaultChecked={option.default}
-                                    className="option-radio"
-                                  />
-                                  <span className="option-content">
-                                    <span className="option-name">{option.name}</span>
-                                    {option.description && (
-                                      <span className="option-description">{option.description}</span>
-                                    )}
-                                  </span>
-                                </label>
-                              );
-                            })}
-                          </div>
-                        </div>
-                      );
+                      return renderTextOptions(nestedGroup, groupName);
                     })}
                   </div>
                 </div>
@@ -101,6 +147,20 @@ export function ModuleSelector({ modules }: ModuleSelectorProps) {
           })}
         </div>
       </form>
+
+      {previewImage && (
+        <div className="image-preview-overlay" onClick={closePreview}>
+          <div className="image-preview-modal" onClick={(e) => e.stopPropagation()}>
+            <button className="image-preview-close" onClick={closePreview} aria-label="Close preview">✕</button>
+            <img
+              src={previewImage.src}
+              alt={previewImage.alt}
+              className="image-preview-full"
+            />
+            <span className="image-preview-caption">{previewImage.alt}</span>
+          </div>
+        </div>
+      )}
     </div>
   );
 }
