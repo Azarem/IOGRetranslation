@@ -1,4 +1,3 @@
-import { useState, useCallback } from 'react';
 import { ModuleGroup } from '../types';
 import './ModuleSelector.css';
 
@@ -7,8 +6,6 @@ interface ModuleSelectorProps {
 }
 
 export function ModuleSelector({ modules }: ModuleSelectorProps) {
-  const [previewImage, setPreviewImage] = useState<{ src: string; alt: string } | null>(null);
-
   // Defensive check for modules
   if (!modules || !Array.isArray(modules)) {
     return (
@@ -18,14 +15,6 @@ export function ModuleSelector({ modules }: ModuleSelectorProps) {
       </div>
     );
   }
-
-  const openPreview = useCallback((src: string, alt: string) => {
-    setPreviewImage({ src, alt });
-  }, []);
-
-  const closePreview = useCallback(() => {
-    setPreviewImage(null);
-  }, []);
 
   const renderImageOptions = (nestedGroup: any, groupName: string) => {
     return (
@@ -51,11 +40,7 @@ export function ModuleSelector({ modules }: ModuleSelectorProps) {
                         alt={option.name}
                         className="image-option-thumbnail"
                         loading="lazy"
-                        onClick={() => {
-                          openPreview(`/images/${option.image}`, option.name);
-                        }}
                       />
-                      <span className="image-zoom-hint" title="Click image to enlarge">🔍</span>
                     </span>
                   ) : (
                     <span className="image-option-no-image">
@@ -148,19 +133,6 @@ export function ModuleSelector({ modules }: ModuleSelectorProps) {
         </div>
       </form>
 
-      {previewImage && (
-        <div className="image-preview-overlay" onClick={closePreview}>
-          <div className="image-preview-modal" onClick={(e) => e.stopPropagation()}>
-            <button className="image-preview-close" onClick={closePreview} aria-label="Close preview">✕</button>
-            <img
-              src={previewImage.src}
-              alt={previewImage.alt}
-              className="image-preview-full"
-            />
-            <span className="image-preview-caption">{previewImage.alt}</span>
-          </div>
-        </div>
-      )}
     </div>
   );
 }

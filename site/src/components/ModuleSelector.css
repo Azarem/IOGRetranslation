@@ -192,29 +192,6 @@
   transition: filter 0.2s ease;
 }
 
-.image-zoom-hint {
-  position: absolute;
-  bottom: 6px;
-  right: 6px;
-  background: rgba(0, 0, 0, 0.6);
-  color: white;
-  border-radius: 4px;
-  padding: 2px 5px;
-  font-size: 12px;
-  line-height: 1;
-  opacity: 0;
-  transition: opacity 0.2s ease;
-  pointer-events: none;
-}
-
-.image-option-thumbnail-wrapper:hover .image-zoom-hint {
-  opacity: 1;
-}
-
-.image-option-thumbnail-wrapper:hover .image-option-thumbnail {
-  filter: brightness(1.05);
-}
-
 .image-option-no-image {
   display: flex;
   align-items: center;
@@ -245,76 +222,6 @@
   font-size: 0.8rem;
   color: #666;
   line-height: 1.35;
-}
-
-/* ── Lightbox preview overlay ── */
-
-.image-preview-overlay {
-  position: fixed;
-  inset: 0;
-  background: rgba(0, 0, 0, 0.85);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  z-index: 9999;
-  animation: fadeIn 0.15s ease;
-  cursor: pointer;
-}
-
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
-}
-
-.image-preview-modal {
-  position: relative;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 1rem;
-  cursor: default;
-  max-width: 90vw;
-  max-height: 90vh;
-}
-
-.image-preview-close {
-  position: absolute;
-  top: -12px;
-  right: -12px;
-  width: 32px;
-  height: 32px;
-  border-radius: 50%;
-  border: none;
-  background: rgba(255, 255, 255, 0.15);
-  color: white;
-  font-size: 18px;
-  cursor: pointer;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  transition: background 0.2s ease;
-  z-index: 1;
-  padding: 0;
-}
-
-.image-preview-close:hover {
-  background: rgba(255, 255, 255, 0.3);
-}
-
-.image-preview-full {
-  max-width: min(768px, 90vw);
-  max-height: 80vh;
-  image-rendering: pixelated;
-  image-rendering: -moz-crisp-edges;
-  image-rendering: crisp-edges;
-  border-radius: 4px;
-  box-shadow: 0 8px 40px rgba(0, 0, 0, 0.5);
-}
-
-.image-preview-caption {
-  color: rgba(255, 255, 255, 0.8);
-  font-size: 1rem;
-  text-align: center;
 }
 
 /* ── Dark mode ── */
