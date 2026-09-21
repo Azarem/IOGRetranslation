@@ -39,8 +39,8 @@
                 { "name": "JP (Red)", "module": "red-fountain", "default": true, "image": "red-fountain.png" }
             ] },
             { "name": "Viper Boss", "options": [
-                { "name": "NA", "module": null, "default": true },
-                { "name": "JP", "module": "jp-viper" }
+                { "name": "NA", "module": null, "default": true, "image": "us-viper.png" },
+                { "name": "JP", "module": "jp-viper", "image": "jp-viper.png" }
             ] },
             { "name": "Church Cross/Statue", "options": [
                 { "name": "NA (Statue)", "module": null, "image": "us-church-statue.png" },
@@ -111,16 +111,16 @@
                 { "name": "Enable", "module": "south-cape-return", "default": true }
             ] },
             { "name": "Crystal Ring Palette", "options": [
-                { "name": "Original", "module": null },
-                { "name": "New", "module": "crystal-ring-palette", "default": true }
+                { "name": "Original", "module": null, "image": "ring-old-palette.png" },
+                { "name": "New", "module": "crystal-ring-palette", "default": true, "image": "ring-new-palette.png" }
             ] },
             { "name": "Border Graphics", "options": [
                 { "name": "Enhanced", "module": null, "default": true },
                 { "name": "Plain", "module": "plain-borders" }
             ] },
             { "name": "No Shira Spotlight", "options": [
-                { "name": "Disable", "module": null, "default": true },
-                { "name": "Enable", "module": "no-shira-spotlight" }
+                { "name": "Disable", "module": null, "default": true, "image": "shira-spotlight.png" },
+                { "name": "Enable", "module": "no-shira-spotlight", "image": "no-shira-spotlight.png" }
             ] }
         ] }
     ]
