@@ -118,9 +118,9 @@
                 { "name": "Enhanced", "module": null, "default": true },
                 { "name": "Plain", "module": "plain-borders" }
             ] },
-            { "name": "No Shira Spotlight", "options": [
-                { "name": "Disable", "module": null, "default": true, "image": "shira-spotlight.png" },
-                { "name": "Enable", "module": "no-shira-spotlight", "image": "no-shira-spotlight.png" }
+            { "name": "Shira Spotlight", "options": [
+                { "name": "Enable", "module": null, "default": true, "image": "shira-spotlight.png" },
+                { "name": "Disable", "module": "no-shira-spotlight", "image": "no-shira-spotlight.png" }
             ] }
         ] }
     ]
