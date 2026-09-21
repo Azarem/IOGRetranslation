@@ -3,7 +3,7 @@
 ?INCLUDE 'overworld_options'
 -----------------------------
 
-dialogstring_01CB66! `[DLG:2,14]Para onde quer ir?[N]`
+dialogstring_01CB66! `[DLG:2,14][SIZ:E,3]Para onde quer ir?[N]`
 dialogstring_03B463! `[TPL:11][SFX:0] Voltar[N] Castelo Edward`
 dialogstring_03B48F! `[TPL:11][SFX:0] Voltar[N] Vila Itory`
 dialogstring_03B4BA! `[TPL:11][SFX:0] Voltar[N] Cabo do Sul`
@@ -25,7 +25,7 @@ dialogstring_03B72B! `[TPL:11][SFX:0] Voltar[N] Euro `
 dialogstring_03B753! `[TPL:11][SFX:0] Voltar      Angkor Wat [N] Euro `
 dialogstring_03B78A! `[TPL:11][SFX:0] Voltar[N] Aldeia Ind.`
 dialogstring_03B7C7! `[TPL:11][SFX:0] Voltar[N] Aldeia Ind.`
-dialogstring_03B7F6! `[TPL:11][SFX:0] Voltar       Pirâmide[N] Euro      Aldeia Ind.`
+dialogstring_03B7F6! `[TPL:11][SFX:0] Voltar      Pirâmide[N] Euro        Aldeia Ind.`
 dialogstring_03B82C! `[TPL:11][SFX:0] Voltar[N] Dao`
-dialogstring_03B859! `[TPL:11][SFX:0] Voltar      Angkor Wat [N] Euro      Dao `
+dialogstring_03B859! `[TPL:11][SFX:0] Voltar      Angkor Wat [N] Euro        Dao `
 dialogstring_03B8A2! `[TPL:11][SFX:0] Voltar      Monte Ceres [N] Termágua      Aldeia Ind.`
