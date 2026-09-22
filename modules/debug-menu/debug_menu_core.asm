@@ -156,7 +156,7 @@ debug_menu_core {
     JSL $@DmaWordToVram
 
     ; Dim screen for menu overlay
-    LDA #$09
+    LDA #$0F
     STA $INIDISP
     REP #$20
 
