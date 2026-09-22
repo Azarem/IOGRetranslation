@@ -122,6 +122,12 @@
                 { "name": "Enable", "module": null, "default": true, "image": "shira-spotlight.png" },
                 { "name": "Disable", "module": "no-shira-spotlight", "image": "no-shira-spotlight.png" }
             ] }
+        ] },
+        { "name": "🛠 Debug", "groups": [
+            { "name": "Debug Menu", "options": [
+                { "name": "Disable", "module": null, "default": true },
+                { "name": "Enable", "module": "debug-menu", "description": "Replaces pause screen with a debug menu. Fast Travel to any location. L/R to access from radar." }
+            ] }
         ] }
     ]
 }
