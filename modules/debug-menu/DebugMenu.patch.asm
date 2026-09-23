@@ -27,6 +27,12 @@
 
 ---------------------------------------------
 
+; When the dungeon-map module is active, its DungeonMap.patch.asm owns
+; GlobalInputHandler! and calls into DebugMenuPauseHandler via ?IF.
+; Skip this override to avoid duplicate label conflicts.
+?IF 'DungeonMap'
+?ELSE
+
 GlobalInputHandler! {
     PHP 
     REP #$20
@@ -158,3 +164,4 @@ GlobalInputHandler! {
     PLP 
     RTL 
 }
+?ENDIF
