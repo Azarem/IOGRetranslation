@@ -13,9 +13,9 @@
 ;   DungeonMapTeardown     — JSL: restore CGRAM + DP, adhoc DMA font restore
 ;
 ; Screen layout (radar border):
-;   Rows 0-1:         transparent ($0000, game world visible)
-;   Row 2:            radar top band (crown ornament, palette 3)
-;   Rows 3-25:        map content (28×23 interior)
+;   Row 0:            transparent ($0000, game world visible)
+;   Row 1:            radar top band (crown ornament, palette 3)
+;   Rows 2-25:        map content (28×24 interior)
 ;   Row 26:           radar bottom band (V-flipped, palette 3)
 ;   Rows 27+:         transparent ($0000, game world visible)
 ;   Cols 0, 31:       transparent ($0000, game world visible)
@@ -32,7 +32,7 @@
 ; WRAM tilemap buffer ($7F6000):
 ;   Linear row-major layout, stride = 64 words (128 bytes per row).
 ;   Up to 64×64 metatiles. Pre-cleared to OOB, then terrain + markers stamped.
-;   Room content centered via offset: (28-room_width)/2, (23-room_height)/2.
+;   Room content centered via offset: (28-room_width)/2, (24-room_height)/2.
 ;
 ; Tile CHR at VRAM $6800 (4 terrain tiles × 16 bytes = 64 bytes):
 ;   $100: OOB    $101: Floor    $102: Wall    $103: Stairs
@@ -68,7 +68,9 @@
 ?INCLUDE 'gfx_fonts'
 ?INCLUDE 'radar_icons_001C00'
 ?INCLUDE 'scene_barrier_chest_table'
+?INCLUDE 'scene_lifecycle'
 ?INCLUDE 'scene_warps'
+?INCLUDE 'system_core'
 ?INCLUDE 'vblank_joypad'
 ?INCLUDE 'vram_buffer_clear'
 
@@ -83,6 +85,8 @@
 !playerActor                    09AA
 !displayModeFlags               09EC
 !extendedFlags                  7F002A
+!cachedPrevMaxHp                0ACC
+!cachedPrevHp                   0AD0
 
 ; --- PPU registers ---
 !INIDISP                        2100
@@ -147,9 +151,9 @@
 
 ; --- Layout constants ---
 !INTERIOR_COLS                  001C
-!INTERIOR_ROWS                  0017
+!INTERIOR_ROWS                  0018
 !SCROLL_STEP                    0002
-!BORDER_START_OFF               0080
+!BORDER_START_OFF               0040
 
 ---------------------------------------------
 ; =============================================================================
@@ -181,10 +185,68 @@ DungeonMapScreenSetup {
     LDA $actorListHead
     STA $savedActorHead
 
-    ; --- Force blank to hide tile upload glitches ---
-    SEP #$20
-    LDA #$80
-    STA $INIDISP
+    ; --- Write palettes to CGRAM shadow (applied by next NMI) ---
+
+    ; Pal 1 = player: transparent, wall, white (blink target), floor
+    REP #$20
+    LDA #$0000
+    STA $7F0A08
+    LDA #$14C7
+    STA $7F0A0A
+    LDA #$7FFF
+    STA $7F0A0C
+    LDA #$3E75
+    STA $7F0A0E
+
+    ; Pal 2 = exit/warp: transparent, floor, wall, green
+    LDA #$0000
+    STA $7F0A10
+    LDA #$3E75
+    STA $7F0A12
+    LDA #$14C7
+    STA $7F0A14
+    LDA #$1EC8
+    STA $7F0A16
+
+    ; Pal 4 = terrain: transparent, floor, wall, texture (mid-brown)
+    LDA #$0000
+    STA $7F0A20
+    LDA #$3E75
+    STA $7F0A22
+    LDA #$14C7
+    STA $7F0A24
+    LDA #$258D
+    STA $7F0A26
+
+    ; Pal 5 = enemy: transparent, accent, red, floor
+    LDA #$0000
+    STA $7F0A28
+    LDA #$042B
+    STA $7F0A2A
+    LDA #$1CFC
+    STA $7F0A2C
+    LDA #$3E75
+    STA $7F0A2E
+
+    ; Pal 6 = chest: transparent, floor, wall, gold
+    LDA #$0000
+    STA $7F0A30
+    LDA #$3E75
+    STA $7F0A32
+    LDA #$14C7
+    STA $7F0A34
+    LDA #$12DB
+    STA $7F0A36
+
+    ; Pal 7 = dark space + shimmer: transparent, shimmer, cyan, floor
+    LDA #$0000
+    STA $7F0A38
+    LDA #$14C7
+    STA $7F0A3A
+    LDA #$6B08
+    STA $7F0A3C
+    LDA #$3E75
+    STA $7F0A3E
 
     ; --- Wait for any pending adhoc DMA ---
   dms_wait1:
@@ -198,122 +260,6 @@ DungeonMapScreenSetup {
     BRA dms_wait1
 
   dms_dma_clear:
-    ; --- Queue adhoc DMA: terrain tiles → VRAM $6800 (64 bytes) ---
-    REP #$20
-    LDA #$&minimap_tiles
-    STA $adhocVramDma
-    LDA #$*minimap_tiles
-    STA $7F0C05
-    LDA #$TILE_CHR_SIZE
-    STA $7F0C09
-    LDA #$VRAM_TILE_DEST
-    STA $7F0C07
-
-    ; --- Wait for terrain tile DMA ---
-  dms_wait2:
-    REP #$20
-    LDA $7F0C07
-    BEQ dms_tiles_done
-    SEP #$20
-    JSL $@vblank_joypad.EnableNmiAndJoypad
-    JSL $@vblank_joypad.VBlankWaitAndJoypad
-    JSL $@vblank_joypad.EnableNmiOnly
-    BRA dms_wait2
-
-  dms_tiles_done:
-    ; --- Queue adhoc DMA: radar border icons → VRAM $7700 (512 bytes) ---
-    REP #$20
-    LDA #$&radar_icons_001C00
-    STA $adhocVramDma
-    LDA #$*radar_icons_001C00
-    STA $7F0C05
-    LDA #$RADAR_ICONS_SIZE
-    STA $7F0C09
-    LDA #$RADAR_ICONS_VRAM
-    STA $7F0C07
-
-    ; --- Wait for radar icons DMA ---
-  dms_wait3:
-    REP #$20
-    LDA $7F0C07
-    BEQ dms_icons_done
-    SEP #$20
-    JSL $@vblank_joypad.EnableNmiAndJoypad
-    JSL $@vblank_joypad.VBlankWaitAndJoypad
-    JSL $@vblank_joypad.EnableNmiOnly
-    BRA dms_wait3
-
-  dms_icons_done:
-    ; --- Write palette 2 to CGRAM shadow (8 bytes at $7F0A10) ---
-    ; Pal 2 = exit/warp: transparent, floor, wall, green
-    REP #$20
-    LDA #$0000
-    STA $7F0A10
-    LDA #$3E75
-    STA $7F0A12
-    LDA #$14C7
-    STA $7F0A14
-    LDA #$1EC8
-    STA $7F0A16
-
-    ; --- Write palette 1 to CGRAM shadow (8 bytes at $7F0A08) ---
-    ; Pal 1 = player: transparent, wall, white (blink target), floor
-    LDA #$0000
-    STA $7F0A08
-    LDA #$14C7
-    STA $7F0A0A
-    LDA #$7FFF
-    STA $7F0A0C
-    LDA #$3E75
-    STA $7F0A0E
-
-    ; --- Write palette 4 to CGRAM shadow (8 bytes at $7F0A20) ---
-    ; Pal 4 = terrain: transparent, floor, wall, texture (mid-brown)
-    LDA #$0000
-    STA $7F0A20
-    LDA #$3E75
-    STA $7F0A22
-    LDA #$14C7
-    STA $7F0A24
-    LDA #$258D
-    STA $7F0A26
-
-    ; --- Write palette 5 to CGRAM shadow (8 bytes at $7F0A28) ---
-    ; Pal 5 = enemy: transparent, accent, red, floor
-    LDA #$0000
-    STA $7F0A28
-    LDA #$042B
-    STA $7F0A2A
-    LDA #$1CFC
-    STA $7F0A2C
-    LDA #$3E75
-    STA $7F0A2E
-
-    ; --- Write palette 6 to CGRAM shadow (8 bytes at $7F0A30) ---
-    ; Pal 6 = chest: transparent, floor, wall, gold
-    LDA #$0000
-    STA $7F0A30
-    LDA #$3E75
-    STA $7F0A32
-    LDA #$14C7
-    STA $7F0A34
-    LDA #$12DB
-    STA $7F0A36
-
-    ; --- Write palette 7 to CGRAM shadow (8 bytes at $7F0A38) ---
-    ; Pal 7 = dark space + shimmer: transparent, shimmer, cyan, floor
-    LDA #$0000
-    STA $7F0A38
-    LDA #$14C7
-    STA $7F0A3A
-    LDA #$6B08
-    STA $7F0A3C
-    LDA #$3E75
-    STA $7F0A3E
-
-    ; --- Clear entire staging buffer ---
-    JSL $@vram_buffer_clear.ClearVramBufferFull
-
     ; --- Prevent unwanted ExecuteVramDma during hold loop ---
     REP #$20
     STZ $B2
@@ -325,7 +271,55 @@ DungeonMapScreenSetup {
     STZ $BG3VOFS
     STZ $BG3VOFS
 
+    ; --- Clear staging buffer to hide HUD ---
+    JSL $@vram_buffer_clear.ClearVramBufferFull
+
+    ; --- Queue terrain tile adhoc DMA (fires this NMI with the flush) ---
+    REP #$20
+    LDA #$&minimap_tiles
+    STA $adhocVramDma
+    LDA #$*minimap_tiles
+    STA $7F0C05
+    LDA #$TILE_CHR_SIZE
+    STA $7F0C09
+    LDA #$VRAM_TILE_DEST
+    STA $7F0C07
+
+    ; --- Flush zeroed buffer + palettes + terrain DMA in one NMI ---
+    ; HUD disappears, palettes take effect, terrain tiles upload.
+    ; No screen blank — tile CHR at $6800+ invisible until tilemap references them.
+    SEP #$20
+    LDA #$01
+    TSB $displayModeFlags
+    JSL $@vblank_joypad.EnableNmiAndJoypad
+    JSL $@vblank_joypad.VBlankWaitAndJoypad
+    JSL $@vblank_joypad.EnableNmiOnly
+
+    ; --- Queue radar icons adhoc DMA ---
+    REP #$20
+    LDA #$&radar_icons_001C00
+    STA $adhocVramDma
+    LDA #$*radar_icons_001C00
+    STA $7F0C05
+    LDA #$RADAR_ICONS_SIZE
+    STA $7F0C09
+    LDA #$RADAR_ICONS_VRAM
+    STA $7F0C07
+
+    ; --- Wait for radar icons DMA ---
+  dms_wait_radar:
+    REP #$20
+    LDA $7F0C07
+    BEQ dms_radar_done
+    SEP #$20
+    JSL $@vblank_joypad.EnableNmiAndJoypad
+    JSL $@vblank_joypad.VBlankWaitAndJoypad
+    JSL $@vblank_joypad.EnableNmiOnly
+    BRA dms_wait_radar
+
+  dms_radar_done:
     ; --- Compute room dimensions ---
+    SEP #$20
     LDA $mapRowStrideL0
     REP #$20
     AND #$00FF
@@ -483,19 +477,13 @@ DungeonMapScreenSetup {
     JSR $&DrawBorder
     JSR $&ExtractWindow
 
-    ; --- Trigger staging buffer flush ---
+    ; --- Flush map content to screen (map appears!) ---
     SEP #$20
     LDA #$01
     TSB $displayModeFlags
-
-    ; --- Wait for flush to complete before showing screen ---
     JSL $@vblank_joypad.EnableNmiAndJoypad
     JSL $@vblank_joypad.VBlankWaitAndJoypad
     JSL $@vblank_joypad.EnableNmiOnly
-
-    ; --- Full brightness ---
-    LDA #$0F
-    STA $INIDISP
 
     LDX #$0000
     RTL
@@ -545,17 +533,33 @@ DungeonMapTeardown {
     STZ $BG3VOFS
     STZ $BG3VOFS
 
-    ; --- Clear staging buffer rows 2-4 ($0080-$013F, crown + map rows) ---
+    ; --- Clear staging buffer rows 1-4 ($0040-$013F, crown + map rows) ---
     ; ClearVramBufferPartial only clears from $0140, leaving these rows.
     REP #$20
     LDA #$0000
-    LDX #$0080
+    LDX #$0040
   dmt_clr4:
     STA $stagingBuffer, X
     INX
     INX
     CPX #$0140
     BNE dmt_clr4
+
+    ; --- Restore HUD tilemap to staging buffer rows 0-4 ---
+    ; LoadHudTilemap writes the status bar frame/background tiles.
+    ; ClearVramBufferPartial (called by common teardown) preserves rows 0-4.
+    SEP #$20
+    JSL $@scene_lifecycle.LoadHudTilemap
+
+    ; --- Clear HP cache to force UpdateHUD stat redraw ---
+    ; UpdateHUD dirty-checks these; zeroing forces it to see a "change"
+    ; and redraw HP/gems on the next frame.
+    REP #$20
+    LDA #$0000
+    STA $09CC
+    STA $09CE
+    STA $cachedPrevHp
+    STA $cachedPrevMaxHp
 
     ; --- Queue adhoc DMA: restore font tiles at VRAM $6800 ---
     ; Source: gfx_fonts + 2 (header) + $1000 (byte offset to VRAM $6800).
@@ -578,13 +582,13 @@ DungeonMapTeardown {
 ; =============================================================================
 ; Uses radar icon tiles ($2E0-$2FF at VRAM $7700) with BG3 palette 3
 ; (scene-colored via BG1 pal 0 colors 12-15).
-; Crown at row 2, side edges rows 3-25, bottom band at row 26.
+; Crown at row 1, side edges rows 2-25, bottom band at row 26.
 ; Columns 0 and 31 = transparent (game world visible).
 
 DrawBorder {
     REP #$20
 
-    ; --- Fill rows 2-26 with OOB fill tile ---
+    ; --- Fill rows 1-26 with OOB fill tile ---
     LDA $CC
     LDX #$BORDER_START_OFF
   db_fill:
@@ -594,9 +598,9 @@ DrawBorder {
     CPX #$06C0
     BNE db_fill
 
-    ; --- Draw top band at row 2 (columns 1-30) ---
+    ; --- Draw top band at row 1 (columns 1-30) ---
     STZ $0E
-    LDA #$0082
+    LDA #$0042
     STA $10
   db_top:
     LDX $0E
@@ -611,8 +615,8 @@ DrawBorder {
     CMP #$003C
     BNE db_top
 
-    ; --- Draw side edges (rows 3-25) ---
-    LDX #$00C2
+    ; --- Draw side edges (rows 2-25) ---
+    LDX #$0082
   db_sides:
     LDA #$2EE3
     STA $stagingBuffer, X
@@ -666,8 +670,8 @@ DrawBorder {
     CMP #$003C
     BNE db_bot
 
-    ; --- Clear exterior: columns 0 and 31 to transparent (rows 2-26) ---
-    LDX #$0080
+    ; --- Clear exterior: columns 0 and 31 to transparent (rows 1-26) ---
+    LDX #$0040
   db_ext:
     LDA #$0000
     STA $stagingBuffer, X
@@ -727,8 +731,8 @@ RadarTopBand [
 ; =============================================================================
 ; ExtractWindow — copy visible tilemap from WRAM buffer → staging buffer
 ; =============================================================================
-; Reads 28×23 tiles from tilemapBuffer at (viewport_col, viewport_row).
-; Writes to staging buffer interior (cols 2-29, rows 3-25).
+; Reads 28×24 tiles from tilemapBuffer at (viewport_col, viewport_row).
+; Writes to staging buffer interior (cols 2-29, rows 2-25).
 
 ExtractWindow {
     PHB
@@ -754,8 +758,8 @@ ExtractWindow {
     TAX
 
     ; --- Destination start (absolute address in bank $7F) ---
-    ; Y = $0200 + row 3 × 64 + col 2 × 2 = $0200 + $00C0 + $0004 = $02C4
-    LDY #$02C4
+    ; Y = $0200 + row 2 × 64 + col 2 × 2 = $0200 + $0080 + $0004 = $0284
+    LDY #$0284
 
     ; --- Row counter ---
     LDA #$INTERIOR_ROWS
