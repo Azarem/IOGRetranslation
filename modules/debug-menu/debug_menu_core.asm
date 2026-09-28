@@ -66,6 +66,8 @@
 !dm_inv_state                   0BE2
 !dm_inv_items                   0BE4
 
+!adhocVramDma                   7F0C03
+
 ; --- Scene list constants (hex) ---
 ; Total entries     = 253 ($FD)
 ; Visible rows      = 13  ($0D)
@@ -141,18 +143,16 @@ debug_menu_core {
     JSL $@vblank_joypad.EnableNmiOnly
 
     ; Force blank and upload debug font tiles to VRAM.
-    ; Overwrites tiles $12-$7F (printable characters) with box-optimized
-    ; glyphs from gfx_fonts_debug. The standard font has character tiles
-    ; drawn for transparent backgrounds; the debug font fills the glyph
-    ; background for use inside DrawBox rectangles.
+    ; Overwrites tiles $00-$7F (printable characters) with box-optimized
+    ; glyphs from gfx_fonts_debug. Restored from gfx_fonts in dm_close.
     SEP #$20
-    LDA #$80              ; Force blank on — safe VRAM writes
+    LDA #$80              ; Force blank on — safe VRAM access
     STA $INIDISP
-    LDX #$6000            ; VRAM word address: tile $12 × 8 words/tile
+    LDX #$6000            ; VRAM word address: BG3 tileset base
     STX $VMADDL
     LDX #$&gfx_fonts_debug
     LDA #$^gfx_fonts_debug
-    LDY #$0800            ; (0x80 - 0x12) tiles × 16 bytes = $06E0
+    LDY #$0800            ; (0x80 - 0x12) tiles × 16 bytes
     JSL $@DmaWordToVram
 
     ; Dim screen for menu overlay
@@ -206,8 +206,8 @@ debug_menu_core {
     ; ===================
     ; IOG button flags (post-remap):
     ;   $8000 = B  (Attack/Talk — CONFIRM)
-    ;   $4000 = Y  (Item — CANCEL)
-    ;   $1000 = Start (Pause — CLOSE)
+    ;   $4000 = Y  (Item — CANCEL / BACK)
+    ;   $1000 = Start (Pause — CLOSE entire menu)
     ;   $0800/$0400 = Up/Down
     ;   $0020/$0010 = L/R (Spin — PAGE)
 
@@ -219,6 +219,18 @@ debug_menu_core {
     STA $joypadMaskStd
     LDA $dm_saved_inv
     STA $joypadMaskInv
+    ; Restore original console font from ROM (gfx_fonts).
+    ; Skip the 2-byte null-compression header; data is raw in rebuilt ROM.
+
+    LDA #$&gfx_fonts+2
+    STA $adhocVramDma
+    LDA #$*gfx_fonts
+    STA $7F0C05
+    LDA #$0800
+    STA $7F0C09
+    LDA #$6000
+    STA $7F0C07
+
     PLP 
     RTL 
 
@@ -495,6 +507,11 @@ debug_menu_core {
     JSR $&dm_play_confirm_sfx
     LDA $joypadCurrent
     TSB $joypadHeld
+    ; Restore input masks (scene change may not reset them)
+    LDA $dm_saved_mask
+    STA $joypadMaskStd
+    LDA $dm_saved_inv
+    STA $joypadMaskInv
     PLP 
     RTL 
 

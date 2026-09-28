@@ -3,10 +3,10 @@
 ; Provides a JSL-callable entry point that runs the debug menu and
 ; performs the standard cleanup (VRAM clear, brightness restore,
 ; frame dialogue update). Designed for modules that override
-; GlobalInputHandler and want to invoke the debug menu in the
-; input-locked (pause) path.
+; GlobalInputHandler and want to invoke the debug menu from the
+; Select button path.
 ;
-; Entry: JSL $@debug_menu_handler.DebugMenuPauseHandler (16-bit A)
+; Entry: JSL $@debug_menu_handler.DebugMenuHandler (16-bit A)
 ; Exit:  RTL — caller should PLP + RTL to return from GlobalInputHandler.
 
 ?INCLUDE 'debug_menu_core'
@@ -18,7 +18,7 @@
 
 ---------------------------------------------
 
-DebugMenuPauseHandler {
+DebugMenuHandler {
     JSL $@debug_menu_core.debug_menu_core
     JSL $@vram_buffer_clear.ClearVramBufferPartial
     SEP #$20

@@ -5,6 +5,8 @@
 ; exactly: guard conditions, Start/Select/Y dispatch, hold-to-view loop,
 ; and teardown. The radar JSR is replaced with JSL MinimapScreenSetup.
 ;
+; Uses ?IF 'DebugMenu' to add L/R → debug menu in the hold-to-view loop.
+;
 ; Hold loop features:
 ;   - D-pad viewport scrolling
 ;   - Player blink (OBJ palette 7 color 1 toggle)
@@ -98,7 +100,7 @@ GlobalInputHandler! {
     ; === Input-locked mode: PAUSE text (identical to original) ===
   gih_pause_mode:
 ?IF 'DebugMenu'
-    JSL $@debug_menu_handler.DebugMenuPauseHandler
+    JSL $@debug_menu_handler.DebugMenuHandler
     PLP
     RTL
 ?ELSE
@@ -148,6 +150,15 @@ GlobalInputHandler! {
     BEQ gih_no_exit
     JMP $&gih_loop_exit
   gih_no_exit:
+
+?IF 'DebugMenu'
+    ; L/R → switch to debug menu (from minimap or PAUSE)
+    REP #$20
+    LDA $joypadCurrent
+    BIT #$0030
+    BEQ $05
+    JMP gih_to_debug_menu
+?ENDIF
 
     ; --- Check if we are in minimap mode (playerFlags bit 3 clear) ---
     REP #$20
@@ -308,4 +319,24 @@ GlobalInputHandler! {
     JSL $@system_core.UpdateFrameDialogue
     PLP
     RTL
+
+?IF 'DebugMenu'
+    ; L/R → debug menu from hold loop (minimap or PAUSE)
+  gih_to_debug_menu:
+    SEP #$20
+    PLX                   ; Pop shimmer counter
+    PLX                   ; Pop blink counter
+    LDA #$30
+    TSB $0658             ; Consume L/R buttons
+    ; Check if minimap mode → teardown before entering debug menu
+    REP #$20
+    LDA $playerFlags
+    BIT #$0008
+    BNE gih_debug_skip_teardown
+    JSL $@minimap_v2_core.MinimapTeardown
+  gih_debug_skip_teardown:
+    JSL $@debug_menu_handler.DebugMenuHandler
+    PLP
+    RTL
+?ENDIF
 }

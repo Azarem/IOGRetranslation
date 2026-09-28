@@ -586,6 +586,27 @@ MinimapTeardown {
     LDA $savedActorHead
     STA $actorListHead
 
+    ; --- Queue adhoc DMA: restore BG3 font tiles at VRAM $6800 ---
+    ; The minimap uploaded $0500 bytes of tile CHR to VRAM $6800, which
+    ; overwrites tiles $100+ of the dialog font (gfx_fonts).
+    ; Font raw data starts at gfx_fonts+2 (past 2-byte header).
+    ; VRAM $6800 = $1000 bytes into the font data (($6800-$6000) × 2).
+    ; Source offset: gfx_fonts + 2 + $1000 = gfx_fonts + $1002 (hex).
+    ;
+    ; Uses adhoc DMA instead of DmaWordToVram to prevent ghosting:
+    ; the font CHR restore and staging buffer tilemap clear both fire
+    ; in the same NMI VBlank, keeping CHR and tilemap in sync.
+    ; Write size BEFORE trigger to prevent NMI race.
+    REP #$20
+    LDA #$&gfx_fonts+1002
+    STA $adhocVramDma
+    LDA #$*gfx_fonts
+    STA $7F0C05
+    LDA #$0500
+    STA $7F0C09
+    LDA #$VRAM_TILE_DEST
+    STA $7F0C07
+
     RTL
 }
 
