@@ -123,8 +123,8 @@
                 { "name": "Disable", "module": "no-shira-spotlight", "image": "no-shira-spotlight.png" }
             ] },
             { "name": "Minimal HUD", "options": [
-                { "name": "Enable", "module": "minimal-hud", "default": true, "image": "minimal-hud.png" },
-                { "name": "Disable", "module": null, "image": "normal-hud.png" }
+                { "name": "Enable", "module": "minimal-hud", "default": true, "image": "minimal-hud.png", "description": "HUD will only be visible in combat areas." },
+                { "name": "Disable", "module": null, "image": "normal-hud.png", "description": "Vanilla: HUD will appear in all areas." }
             ] }
         ] },
         { "name": "🛠 Debug", "groups": [
