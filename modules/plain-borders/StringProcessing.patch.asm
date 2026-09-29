@@ -13,39 +13,6 @@
 !default_fg                     7FFB
 !default_dt                     762F
 
---------------------------------------------------------
-
-border_lookup [
-    &dlg_borders_03E4CE
-    &border_index_1
-    &border_index_2
-    &border_index_3
-    &border_index_4
-    &border_index_5
-    &border_index_6
-    &border_index_7
-    &border_index_8
-    &border_index_9
-    &border_index_A
-    &border_index_B
-    &border_index_C
-    &border_index_D
-]
-
-border_index_1 #1320142013601520156013A014A013E0
-border_index_2 #1620172016601820186016A017A016E0
-border_index_3 #19201A2019601B201B6019A01AA019E0
-border_index_4 #A320A420A360A520A560A3A0A4A0A3E0
-border_index_5 #A620A720A6601C201C60A6A0A7A0A6E0
-border_index_6 #A020A120A060A220A260A0A0A1A0A0E0
-border_index_7 #B020B120B060B220B260B0A0B1A0B0E0
-border_index_8 #B320B420B360B520B560B3A0B4A0B3E0
-border_index_9 #B620B720B660B820B860B6A0B7A0B6E0
-border_index_A #B920BA20B960BB20BB60B9A0BAA0B9E0
-border_index_B #A920AA20A960AB20AB60A9A0AAA0A9E0
-border_index_C #C920CA20C960CB20CB60C9A0CAA0C9E0
-border_index_D #C620C720C660C820C860C6A0C7A0C6E0
-
 ----------------------------------------------------
 ;Command for setting current border id
 
@@ -67,32 +34,32 @@ cmd_dA {
 
 ----------------------------------------------------
 
-wide_cmd_table_03E2C3 [
-  &cmd_c0_03E2F5   ;00
-  &cmd_c1_03E30F   ;01
-  &cmd_c2_03E335   ;02
-  &cmd_c3_03E35B   ;03
-  &cmd_c4_03E36B   ;04
-  &cmd_c5_03E36F   ;05
-  &cmd_c6_03E393   ;06
-  &cmd_c7_03E43F   ;07
-  &cmd_c8_03E579   ;08
-  &cmd_c9_03E5EB   ;09
-  &code_03E307   ;0A
-  &cmd_cb_03E5F8   ;0B
-  &cmd_cc_03E61E   ;0C
-  &cmd_cd_03E636   ;0D
-  &cmd_ce_03E656   ;0E
-  &cmd_cf_03E6A4   ;0F
-  &cmd_d0_03E6D2   ;10
-  &cmd_d1_03E6E7   ;11
-  &cmd_d2_03E6EC   ;12
-  &cmd_d3_03E6F7   ;13
-  &cmd_d4_03E721   ;14
-  &cmd_d5_03E736   ;15
-  &cmd_d6_03E743   ;16
-  &cmd_d7_03E769   ;17
-  &cmd_d8_03E78F   ;18
+DialogStringCommandTable! [
+  &DialogCmd_EndAndWait   ;00
+  &DialogCmd_SetPosition   ;01
+  &DialogCmd_InsertTemplate   ;02
+  &DialogCmd_SetPalette   ;03
+  &DialogCmd_InfiniteLoop   ;04
+  &DialogCmd_IndirectString   ;05
+  &DialogCmd_PrintNumber   ;06
+  &DialogCmd_OpenDialogueBox   ;07
+  &DialogCmd_ClearDialogueBox   ;08
+  &DialogCmd_WaitFrames   ;09
+  &DialogCmd_Return   ;0A
+  &DialogCmd_NewLine   ;0B
+  &DialogCmd_AdvanceCursor   ;0C
+  &DialogCmd_InsertRemoteString   ;0D
+  &DialogCmd_ClearBox   ;0E
+  &DialogCmd_WaitForButton   ;0F
+  &DialogCmd_WaitForAnyInput   ;10
+  &DialogCmd_JumpToAddress   ;11
+  &DialogCmd_SetSfx   ;12
+  &DialogCmd_OpenDefaultBox   ;13
+  &DialogCmd_SetPaletteColor   ;14
+  &DialogCmd_SetFrameDelay   ;15
+  &DialogCmd_DictionaryA   ;16
+  &DialogCmd_DictionaryB   ;17
+  &DialogCmd_PrintRawTiles   ;18
   &cmd_d9
   &cmd_dA
 ]
@@ -101,7 +68,7 @@ wide_cmd_table_03E2C3 [
 ----------------------------------------------------
 ;Entry point for command 7 (setting up dialog borders)
 
-code_03E453 {
+OpenDialogueBox_Body! {
     PHY 
     PHX 
     ;LDA $0B04          --Don't reset print delay
@@ -133,9 +100,9 @@ code_03E453 {
     ;LDA #*border_lookup
     ;STA $40
 
-    LDA #$*dlg_borders_03E4CE
+    LDA #$*DialogueBorderTiles
     STA $40
-    LDA #$&dlg_borders_03E4CE
+    LDA #$&DialogueBorderTiles
     STA $3E
 
     LDA $0982
@@ -152,14 +119,14 @@ code_03E453 {
     SBC #$0040
     STA $00
     TAX 
-    JSR $&sub_03E4DE
+    JSR $&DrawDialogueBorderRow
     PLX 
     PHX 
     STX $18
-    JSR $&sub_03E505
+    JSR $&DrawDialogueBodyRows
     PLY 
     STY $18
-    JSR $&sub_03E4DE
+    JSR $&DrawDialogueBorderRow
     LDA #$0001
     TSB $09EC
     LDA $scene_current
@@ -172,7 +139,7 @@ code_03E453 {
 ----------------------------------------------------
 ;Entry point for command 8 (clear dialog) to support border styles
 
-loc_03E59F {
+loc_03E59F! {
     STA $7F0200, X
     INX 
     INX 

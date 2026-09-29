@@ -3,7 +3,7 @@
 
 ---------------------------------------------
 
-templates_01CA95 [
+dialog_template_table [
   &dialogstring_01CAC1    ;00
   &dialogstring_01CACE    ;01
   &dialogstring_01CADB    ;02
