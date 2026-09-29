@@ -121,6 +121,10 @@
             { "name": "Shira Spotlight", "options": [
                 { "name": "Enable", "module": null, "default": true, "image": "shira-spotlight.png" },
                 { "name": "Disable", "module": "no-shira-spotlight", "image": "no-shira-spotlight.png" }
+            ] },
+            { "name": "Minimal HUD", "options": [
+                { "name": "Enable", "module": "minimal-hud", "default": true, "image": "minimal-hud.png" },
+                { "name": "Disable", "module": null, "image": "normal-hud.png" }
             ] }
         ] },
         { "name": "🛠 Debug", "groups": [
