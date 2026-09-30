@@ -1,10 +1,8 @@
 {
-    "name": "1.44",
+    "name": "1.45",
     "notes": [
-        "Added: Brazilian Portuguese retranslation by Igor Chagas",
-        "Added: Mt. Kress Shortcut",
-        "Added: Angkor Wat Shortcut",
-        "Added: Enhanced Adrift Text (Starry night scene)"
+        "Added: Debug Menu",
+        "Added: Minimal HUD"
     ],
     "modules": [ {
         "name": "🔤 Language", "groups": [
