@@ -3,11 +3,11 @@
 
 ---------------------------------------------
 
-consolestring_01D9D8! |[NHM:4][CUR:18,2]AVISO![DBL][DBL][NHM:0][CUR:0,3] Esse jogo não foi feito[DBL] para o seu SUPER FAMICOM ou[DBL] Super NES.[DBL][DBL][CUR:DC,4]ENIX CORPORATION|
+consolestring_01D9D8! |[PAL:4][POS:18,2]AVISO![DBL][DBL][PAL:0][POS:0,3] Esse jogo não foi feito[DBL] para o seu SUPER FAMICOM ou[DBL] Super NES.[DBL][DBL][POS:DC,4]ENIX CORPORATION|
 
-consolestring_01DA47! |[NHM:4][CUR:D0,4]APERTE START|
+consolestring_01DA47! |[PAL:4][POS:D0,4]APERTE START|
 
-consolestring_01DA5E! |[NHM:0][CUR:C8,5](C) 1994  QUINTET⸓ENIX[CUR:8,6]MARIKO OHARA⸓MOTO HAGIO[CUR:4E,6]YASUHIRO KAWASAKI[CUR:8C,6]LICENCIADO PARA NINTENDO|
+consolestring_01DA5E! |[PAL:0][POS:C8,5](C) 1994  QUINTET⸓ENIX[POS:8,6]MARIKO OHARA⸓MOTO HAGIO[POS:4E,6]YASUHIRO KAWASAKI[POS:8C,6]LICENCIADO PARA NINTENDO|
 
 ---------------------------------------------
 
@@ -67,68 +67,68 @@ consolestring_01E655! |BLACK4K|
 
 ---------------------------------------------
 
-consolestring_01E870! |[CUR:46,1][NHM:14]STATUS[NHM:0][PTR:@character_name_table,AD4][NHM:14][CUR:C6,1]PV[CUR:6,2]PS[CUR:46,2]FOR[CUR:86,2]DEF[CUR:CE,1][NHM:0][NUM:ACE]⸓[NUM:ACA][CUR:E,2][NUM:AD6][CUR:4E,2][NUM:ADE][CUR:8E,2][NUM:ADC][CUR:14,2][NUM:AD8][NHM:14][CUR:14,2]S[NHM:0][CUR:6,3][NHM:14]ITEM[NHM:0][CUR:8C,3][PTR:@item_name_table,AC6][CUR:64,1][NHM:14]PODER SOMBRIO[NHM:0]|
+consolestring_01E870! |[POS:46,1][PAL:14]STATUS[PAL:0][TBL:@character_name_table,AD4][PAL:14][POS:C6,1]PV[POS:6,2]PS[POS:46,2]FOR[POS:86,2]DEF[POS:CE,1][PAL:0][NUM:ACE]⸓[NUM:ACA][POS:E,2][NUM:AD6][POS:4E,2][NUM:ADE][POS:8E,2][NUM:ADC][POS:14,2][NUM:AD8][PAL:14][POS:14,2]S[PAL:0][POS:6,3][PAL:14]ITEM[PAL:0][POS:8C,3][TBL:@item_name_table,AC6][POS:64,1][PAL:14]PODER SOMBRIO[PAL:0]|
 
 ---------------------------------------------
 
-consolestring_01E8E9! |[NHM:0][CUR:84,5] Itens[DBL] Ordem[DBL] Remove[DBL] Status|
+consolestring_01E8E9! |[PAL:0][POS:84,5] Itens[DBL] Ordem[DBL] Remove[DBL] Status|
 
 ---------------------------------------------
 
-consolestring_01E919! |[NHM:0][CUR:96,5]Examinar e equipar[DBL]itens. Aperte [NHM:14]A[DBL][NHM:0]para selecionar.|
+consolestring_01E919! |[PAL:0][POS:96,5]Examinar e equipar[DBL]itens. Aperte [PAL:14]A[DBL][PAL:0]para selecionar.|
 
 ---------------------------------------------
 
-consolestring_01E954! |[NHM:0][CUR:96,5]Ordenar itens.|
+consolestring_01E954! |[PAL:0][POS:96,5]Ordenar itens.|
 
 ---------------------------------------------
 
-consolestring_01E962! |[NHM:0][CUR:96,5]Descartar itens.|
+consolestring_01E962! |[PAL:0][POS:96,5]Descartar itens.|
 
 ---------------------------------------------
 
-consolestring_01E975! |[NHM:0][CUR:96,5][LU:B]item[DBL]and enter.|
+consolestring_01E975! |[PAL:0][POS:96,5][LU:B]item[DBL]and enter.|
 
 ---------------------------------------------
 
-consolestring_01E98C! |[NHM:0][CUR:96,5]Selecione o[DBL]primeiro item.|
+consolestring_01E98C! |[PAL:0][POS:96,5]Selecione o[DBL]primeiro item.|
 
 ---------------------------------------------
 
-consolestring_01E9A6! |[NHM:0][CUR:96,5]Selecione o[DBL]segundo item.|
+consolestring_01E9A6! |[PAL:0][POS:96,5]Selecione o[DBL]segundo item.|
 
 ---------------------------------------------
 
-consolestring_01E9B7! |[NHM:0][CUR:96,5]Selecione o item[DBL]a ser descartado.|
+consolestring_01E9B7! |[PAL:0][POS:96,5]Selecione o item[DBL]a ser descartado.|
 
 ---------------------------------------------
 
-consolestring_01E9E2! |[NHM:0][CUR:96,5][PTR:@item_menu_table,AE8][DBL]Descartar Item?[DBL]  Não[DBL]  Sim|
+consolestring_01E9E2! |[PAL:0][POS:96,5][TBL:@item_menu_table,AE8][DBL]Descartar Item?[DBL]  Não[DBL]  Sim|
 
 ---------------------------------------------
 
-consolestring_01EA02! |[NHM:0][CUR:84,5]Examina[DBL]Itens|
+consolestring_01EA02! |[PAL:0][POS:84,5]Examina[DBL]Itens|
 
 ---------------------------------------------
 
-consolestring_01EA14! |[NHM:0][CUR:84,5]Ordena[DBL]Itens|
+consolestring_01EA14! |[PAL:0][POS:84,5]Ordena[DBL]Itens|
 
 ---------------------------------------------
 
-consolestring_01EA27! |[NHM:0][CUR:84,5]Remove[DBL]Itens|
+consolestring_01EA27! |[PAL:0][POS:84,5]Remove[DBL]Itens|
 
 ---------------------------------------------
 
-consolestring_01EA39! |[NHM:0][CUR:84,5]Poder[DBL]Sombrio|
-consolestring_01EA70! |[NHM:0][CUR:96,5]Status de Tim.[DBL]Aperte [NHM:14]A [NHM:0]para mais[DBL]detalhes do Poder[DBL]Sombrio.|
+consolestring_01EA39! |[PAL:0][POS:84,5]Poder[DBL]Sombrio|
+consolestring_01EA70! |[PAL:0][POS:96,5]Status de Tim.[DBL]Aperte [PAL:14]A [PAL:0]para mais[DBL]detalhes do Poder[DBL]Sombrio.|
 
 ---------------------------------------------
 
-consolestring_01EAC6! |[CUR:1A,3][NHM:14]PAUSA|
+consolestring_01EAC6! |[POS:1A,3][PAL:14]PAUSA|
 
 ---------------------------------------------
 
-consolestring_01EAD1! |[CUR:C6,1][NHM:14]FORCE|
+consolestring_01EAD1! |[POS:C6,1][PAL:14]FORCE|
 
 ---------------------------------------------
 
@@ -180,4 +180,4 @@ dialogstring_08B70D! `[TPL:C]Tim ergue a Esfera de Aura[FIN]Mas nada acontece.[E
 dialogstring_038B76! `[TPL:C]Ele não possui a Flauta.[END]`
 ---------------------------------------------
 
-consolestring_01EADC! |[NHM:0][RCT:B,4,A4][CUR:E6,0]Ḇōṯḁō█Ạ█˭[N]██Ĉōṉḟḭṟṃā[N]Ḇōṯḁō█Ḃ█˭[N]██Ĉāṉĉḛḻā|
+consolestring_01EADC! |[PAL:0][BOX:B,4,A4][POS:E6,0]Ḇōṯḁō█Ạ█˭[N]██Ĉōṉḟḭṟṃā[N]Ḇōṯḁō█Ḃ█˭[N]██Ĉāṉĉḛḻā|

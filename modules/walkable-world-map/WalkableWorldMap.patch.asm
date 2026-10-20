@@ -18,12 +18,15 @@
 ?INCLUDE 'WorldMapController'
 ?INCLUDE 'actor_pool'
 ?INCLUDE 'flag_helpers'
+?INCLUDE 'overworld_exit'
+?INCLUDE 'daC8_neil'
 !joypadMaskStd                  065A
 !characterForm                  0AD4
 !pendingEntryOffset             0D7E
 !prevNearbyIdx                  0D80
 !nearbyLocIdx                   0D78
 !nearbySceneId                  0D76
+!airplaneMode                   0D82
 
 ---------------------------------------------
 
@@ -215,6 +218,15 @@ ArrivalAndTravelSetup! {
     LDA #$2000
     TRB $10
 
+    ; === Select sprite animation from companion slot ===
+    ; Original Phase 4 reads $0D60 (first companion slot) into $28
+    ; (animation state). $0D60 is set by the overworld exit pipeline
+    ; BEFORE the scene transition: 0 = Will walking, $000B = airplane.
+    ; OverworldExitFinalize! sets $0D60 = $000B when flag $F6 is active.
+    ; We replicate the Phase 4 read here since we skip companion formation.
+    LDA $0D60
+    STA $28
+
     ; === IDLE: Track camera position + animate each frame ===
     ; Keeps sprite visible and animated at the player's current location.
     ; AnimOneFrame sets $08 (sleep timer) to the frame's display duration.
@@ -237,3 +249,60 @@ ArrivalAndTravelSetup! {
     BMI wmTrackPos
     RTL
 }
+
+; =============================================================================
+; Airplane Mode — Overworld Exit Companion Override
+; =============================================================================
+; In the original game, ArrivalAndTravelSetup Phase 4 reads $0D60 (first
+; companion slot) into $28 (animation state). Animation index $0B in the
+; world map's spriteset is the airplane. Neil's code sets $0D60 = $000B
+; via StageWorldMapMove before the world map loads.
+;
+; All overworld exit handlers set $0D60 = 0 (no companion). This override
+; checks event flag $F6 (airplane mode) and sets $0D60 = $000B so the
+; world map sprite uses the airplane animation instead of Will's walking.
+
+!gfxCacheIdxB_exit              064A
+
+OverworldExitFinalize! {
+    ; Inline test of event flag $F6 (airplane mode)
+    ; Flag $F6: byte offset $1E, bit 6, mask $40
+    ; All overworld exits set $0D60 = 0. If flag is set, override to $000B
+    ; (companion Neil) — ArrivalAndTravelSetup reads $0D60 into $28 which
+    ; selects animation index $0B (airplane) in the world map spriteset.
+    SEP #$20
+    LDA $0A1E
+    AND #$40
+    REP #$20
+    BEQ +NormalExit
+    LDA #$000B
+    STA $0D60
++NormalExit:
+    LDA #$0400
+    STA $gfxCacheIdxB_exit
+    COP [SetEntryHere]
+    RTL
+}
+
+; =============================================================================
+; Airplane Mode — Neil Dao Dorm Dialog Override
+; =============================================================================
+; After Neil's farewell dialog, sets event flag $F6 to enable airplane mode
+; on the world map. The airplane sprite is selected by $0D60 = $000B which
+; maps to animation index $0B (airplane) in the world map spriteset.
+
+code_08A5FA! {
+    COP [PrintDialogString] ( &dialogstring_08A73C )
+    COP [SetFlagByte] ( #F6 )
+    COP [PrintDialogString] ( &wmcAirplaneReadyMsg )
+    ; --- Original Babel flight preserved (uncomment for final build) ---
+    ; LDA #$000B
+    ; STA $0D60
+    ; LDA #$0404
+    ; STA $064A
+    ; COP [StageWorldMapMove] ( #$0094, #$0114, #00, #21 )
+    ; COP [QueueMapChange] ( #DC, #$0000, #$0000, #00, #$1100 )
+    RTL
+}
+
+wmcAirplaneReadyMsg `[TPL:B]The airplane has been[N]repaired. Neil will fly[N]you anywhere from the[N]World Map![END]`

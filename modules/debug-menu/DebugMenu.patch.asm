@@ -63,8 +63,8 @@ GlobalInputHandler! {
     BIT #$2000
     BNE gi_select
 
-    ; Y → item use
-    BIT #$4000
+    ; Y → item use (ACTION_USE_ITEM when OptionsMenu active)
+    BIT #$0008
     BEQ gi_exit
     JMP $&item_use_system.ItemUseDispatch
 
@@ -81,7 +81,9 @@ GlobalInputHandler! {
     JSL $@inventory_overlay.OpenInventoryScreen
     JSL $@vblank_joypad.EnableNmiOnly
     LDA #$6000
+    JSL $@MergeInputFlags
     TSB $joypadHeld
+    TRB $joypadCurrent
     PLP 
     RTL 
 

@@ -21,7 +21,7 @@ https://gaiahack.ing
 ## 💬 Join the Community
 
 <p align="center">
-  <a href="https://discord.gg/VWJteVzJQ">
+  <a href="https://discord.gg/TbeN7YA2F7">
     <img src="https://img.shields.io/badge/Discord-Join%20GaiaLabs-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the GaiaLabs Discord" />
   </a>
 </p>
@@ -34,7 +34,7 @@ https://gaiahack.ing
 
 ## 1.) What is This Patch?
 
-What started out as a project to create a baserom for editing Illusion of Gaia expanded into a retranslation. Which then expanded into something of a remaster. It's now growing into kind of a definitive edition. While the game can be played to completion with all new additions as-is, the retranslation script will not be considered complete until **Patch 2.0**. New features are regularly released in patch updates and bug testing is welcome. Please feel free to follow the journey and join the discussion in the **[💬 GaiaLabs Discord](https://discord.gg/VWJteVzJQ)**.
+What started out as a project to create a baserom for editing Illusion of Gaia expanded into a retranslation. Which then expanded into something of a remaster. It's now growing into kind of a definitive edition. While the game can be played to completion with all new additions as-is, the retranslation script will not be considered complete until **Patch 2.0**. New features are regularly released in patch updates and bug testing is welcome. Please feel free to follow the journey and join the discussion in the **[💬 GaiaLabs Discord](https://discord.gg/TbeN7YA2F7)**.
 
 ---
 ## 2.) Application Instructions

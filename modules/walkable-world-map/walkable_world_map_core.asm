@@ -7,9 +7,15 @@
 ; alignment with the camera heading. The existing mode7_perspective
 ; thinker renders the rotated view automatically.
 ;
-; Binary assets auto-discovered by the build system:
-;   walkable_map_collision_lut.raw.bin  — 32 bytes (256-bit metatile LUT)
-;   walkable_map_metatile_map.raw.bin   — 4096 bytes (64x64 metatile grid)
+; Collision uses a nibble-packed block mask map generated at build time
+; from set_overworld.set (tileset) + map_overworld_main.map (tilemap).
+; Each nibble stores the 4 quad block flags for one metatile cell (8x8
+; granularity): bit0=TL, bit1=TR, bit2=BL, bit3=BR. Even columns use
+; the low nibble, odd columns the high nibble. The block flag is bit 9
+; of each tileset word, matching the data authored in Gaia Mapper.
+;
+; Binary asset auto-discovered by the build system:
+;   walkable_map_collision.raw.bin — 2048 bytes (64x64 nibble-packed)
 
 ?BANK 03
 
@@ -29,18 +35,21 @@
 !cameraTargetX                  06BE
 !cameraTargetY                  06C2
 !bg1ScrollH                     068A
-!bg2ScrollH                     068E
+!mapScrollV                     068E
 
 !LOCATION_COUNT                 0013
 !LOCATION_ENTRY_SIZE            000E
-!PROXIMITY_RADIUS               0020
+!PROXIMITY_RADIUS               0018
 !ROTATION_SPEED                 0004
 !MAP_PIXEL_MIN                  0020
 !MAP_PIXEL_MAX                  03E0
 !fracX                          0D7A
 !fracY                          0D7C
-!METATILE_MAP_SIZE              0FFF
+!COLLISION_MAP_SIZE             07FF
+!FLAG_BLOCK_ENTRY_SIZE          0008
 !BUTTON_CONFIRM                 8000
+!airplaneMode                   0D82
+!FLAG_AIRPLANE                  00F6
 
 ; =============================================================================
 ; Sin Lookup Table — 512 entries, signed 16-bit (8.8 fixed-point)
@@ -134,11 +143,11 @@ WalkableSinTable [
 
 WalkableMapLocationTable [
   ; 00 South Cape
-  #$00D4  #$03A4  #$0001  #$0178  #$0040  #$0003  #$4300
+  #$00D4  #$03A8  #$0001  #$0178  #$0040  #$0003  #$4300
   ; 01 Edward Castle
-  #$0104  #$0334  #$000A  #$01F8  #$02C0  #$0000  #$3420
+  #$0105  #$0338  #$000A  #$01F8  #$02C0  #$0000  #$3420
   ; 02 Itory Village
-  #$00C4  #$02B4  #$0015  #$02D8  #$02B0  #$0000  #$3500
+  #$00C6  #$02BA  #$0015  #$02D8  #$02B0  #$0000  #$3500
   ; 03 Inca Ruins
   #$0134  #$0284  #$001C  #$0068  #$01A0  #$0080  #$2200
   ; 04 Freejia
@@ -164,7 +173,7 @@ WalkableMapLocationTable [
   ; 14 Pyramid
   #$0074  #$00B4  #$00CC  #$0010  #$00D0  #$0087  #$4400
   ; 15 Moon Tribe Camp
-  #$00E4  #$0294  #$001A  #$0150  #$01A0  #$0000  #$2200
+  #$0094  #$0274  #$001A  #$0150  #$01A0  #$0000  #$2200
   ; 16 Diamond Coast
   #$0184  #$0304  #$0031  #$00A0  #$0060  #$0003  #$1100
   ; 17 Neil's Cottage
@@ -176,24 +185,47 @@ WalkableMapLocationTable [
 ; =============================================================================
 ; WalkableMapInit — one-shot initialization on walkable mode entry
 ; =============================================================================
-; Copies the metatile map ROM data to WRAM $7F8000 for collision lookups.
+; Copies the nibble-packed collision map from ROM to WRAM $7F8000.
+; Each byte holds two cells: low nibble = even col, high nibble = odd col.
 ; $7F1000 is the actor onHitCallback table — must NOT be overwritten.
 ; Mode7PerspectiveInit has already loaded $00CA/$00CC from $0D54/$0D56.
 ; $B8 and $B6 are set by the zoom sequences (Phase 1 + Phase 3) — not here.
+;
+; Airplane mode: when event flag $F6 is set, collision is fully disabled
+; and the collision map is not loaded. The cached state at $airplaneMode
+; is read by TryMove to skip CheckCollision every frame.
 
 WalkableMapInit {
     PHX
     PHY
     PHB
-    REP #$30
+    REP #$20
 
-    LDX #$&walkable_map_metatile_map
+    ; --- Cache airplane mode flag for per-frame use ---
+    STZ $airplaneMode
+    LDA #$FLAG_AIRPLANE
+    JSR $&TestEventFlagInline
+    BCC +NoAirplane
+    LDA #$0001
+    STA $airplaneMode
+    BRA +SkipCollisionInit
+
++NoAirplane:
+    LDX #$&walkable_map_collision
     LDY #$8000
-    LDA #$METATILE_MAP_SIZE
-    MVN #$7F, #$^walkable_map_metatile_map
+    LDA #$COLLISION_MAP_SIZE
+    MVN #$7F, #$^walkable_map_collision
 
     PLB
 
+    ; Apply event-gated collision overlays (flag-dependent region blocking)
+    JSR $&ProcessFlagBlocks
+    BRA +InitVars
+
++SkipCollisionInit:
+    PLB
+
++InitVars:
     LDA #$FFFF
     STA $nearbyLocIdx
     STA $pendingEntryOffset
@@ -259,7 +291,7 @@ WalkableMapUpdate {
     PHD
     LDA #$0000
     TCD
-    REP #$30
+    REP #$20
 
     ; --- Left: rotate clockwise ---
     LDA $joypadCurrent
@@ -358,7 +390,7 @@ WalkableMapUpdate {
     LDA $00CC
     SEC
     SBC #$0070
-    STA $bg2ScrollH
+    STA $mapScrollV
     STA $cameraTargetY
     ORA #$8000
     STA $scrollOverrideV
@@ -379,7 +411,7 @@ WalkableMapUpdate {
 ; Output: $04 = dx velocity (signed 8.8), $06 = dy velocity (signed 8.8)
 
 CalcForwardVelocity {
-    REP #$30
+    REP #$20
 
     ; dx = -sin($BC)
     LDA $00BC
@@ -417,7 +449,7 @@ CalcForwardVelocity {
 ; After extracting integer deltas, calls TryMove for collision.
 
 AccumulateAndMove {
-    REP #$30
+    REP #$20
 
     ; --- X axis ---
     LDA $&fracX
@@ -458,12 +490,16 @@ AccumulateAndMove {
 }
 
 ; =============================================================================
-; TryMove — apply delta ($04, $06) to position with collision check
+; TryMove — apply delta ($04, $06) to position with collision + wall sliding
 ; =============================================================================
+; Attempts diagonal movement first. If blocked, decomposes into X-only and
+; Y-only moves so the player slides along collision borders instead of
+; stopping dead against a wall.
 
 TryMove {
-    REP #$30
+    REP #$20
 
+    ; --- Compute proposed position ---
     LDA $00CA
     CLC
     ADC $04
@@ -475,26 +511,67 @@ TryMove {
     STA $0A
 
     JSR $&CheckCollision
-    BCS +MoveBlocked
+    BCS +TrySlide
 
+    ; Full move passable — commit both axes
     LDA $08
     STA $00CA
     LDA $0A
     STA $00CC
+    RTS
 
-+MoveBlocked:
++TrySlide:
+    ; --- Try X-only move (keep current Y) ---
+    LDA $00CA
+    CLC
+    ADC $04
+    STA $08
+    LDA $00CC
+    STA $0A
+
+    JSR $&CheckCollision
+    BCS +TryYOnly
+
+    ; X-only passable — slide along horizontal wall
+    LDA $08
+    STA $00CA
+    RTS
+
++TryYOnly:
+    ; --- Try Y-only move (keep current X) ---
+    LDA $00CA
+    STA $08
+    LDA $00CC
+    CLC
+    ADC $06
+    STA $0A
+
+    JSR $&CheckCollision
+    BCS +FullBlock
+
+    ; Y-only passable — slide along vertical wall
+    LDA $0A
+    STA $00CC
+
++FullBlock:
     RTS
 }
 
 ; =============================================================================
 ; CheckCollision — test passability at pixel position ($08, $0A)
 ; =============================================================================
+; Reads the nibble-packed collision map at $7F8000.  Each byte holds two
+; metatile cells: low nibble = even column, high nibble = odd column.
+; Each nibble is a 4-bit block mask (bit0=TL, bit1=TR, bit2=BL, bit3=BR).
+; Any non-zero nibble blocks the entire 16x16 metatile — the per-quad
+; flags are retained in the data for future 8x8 use but currently act as
+; a simple blocked/passable flag at metatile granularity.
 ; Output: carry set = blocked, carry clear = passable.
 
 CheckCollision {
-    REP #$30
+    REP #$20
 
-    ; Boundary check — relay through +BoundBlock for range
+    ; --- Boundary check ---
     LDA $08
     CMP #$MAP_PIXEL_MIN
     BCC +BoundBlock
@@ -512,15 +589,18 @@ CheckCollision {
     RTS
 
 +BoundOk:
-    ; Metatile row = Y >> 4, col = X >> 4
-    ; Map offset = row * 64 + col
+    ; --- Airplane mode: boundaries OK, skip tile collision ---
+    LDA $airplaneMode
+    BNE +Passable
+
+    ; --- Byte offset = row * 32 + col / 2 ---
+    ; row = Y >> 4 (0-63), col / 2 = X >> 5 (0-31)
     LDA $0A
     LSR
     LSR
     LSR
     LSR
     AND #$003F
-    ASL
     ASL
     ASL
     ASL
@@ -533,47 +613,300 @@ CheckCollision {
     LSR
     LSR
     LSR
-    AND #$003F
+    LSR
+    AND #$001F
     CLC
     ADC $00
     TAX
 
-    ; Read metatile index from WRAM copy ($7F8000)
+    ; --- Read packed byte and select nibble ---
     SEP #$20
     LDA $7F8000, X
     REP #$20
     AND #$00FF
     STA $00
 
-    ; LUT byte = index >> 3, bit = index & 7
-    LSR
-    LSR
-    LSR
-    TAX
-    SEP #$20
-    LDA $@walkable_map_collision_lut, X
-    REP #$20
-    AND #$00FF
-    STA $02
-
+    ; Col parity = bit 4 of X position (0 = even → low nibble, 1 = odd → high)
+    LDA $08
+    AND #$0010
+    BEQ +EvenCol
     LDA $00
-    AND #$0007
-    BEQ +ColTestBit
-    TAX
--ColBitLoop:
-    LSR $02
-    DEX
-    BNE -ColBitLoop
-+ColTestBit:
-    LDA $02
-    AND #$0001
+    LSR
+    LSR
+    LSR
+    LSR
+    BRA +TestNibble
++EvenCol:
+    LDA $00
++TestNibble:
+    AND #$000F
     BNE +TileBlock
 
++Passable:
     CLC
     RTS
 
 +TileBlock:
     SEC
+    RTS
+}
+
+; =============================================================================
+; Event-Gated Collision Regions
+; =============================================================================
+; After the base collision map is copied to WRAM, ProcessFlagBlocks iterates
+; this table and blocks rectangular regions whose flag conditions are met.
+;
+; Each entry is 4 words (8 bytes):
+;   +$00: flag1 (word) — event flag index in $0A00 bitfield (bits 0-14).
+;                         Bit 15 ($8000) = INVERT: require flag SET.
+;                         Without bit 15: require flag CLEAR (default).
+;                         $0000 = no condition (always passes).
+;   +$02: flag2 (word) — second condition, same format.
+;                         $0000 = no second condition.
+;   +$04: region start — high byte = startRow, low byte = startCol (0-63).
+;   +$06: region end   — high byte = endRow,   low byte = endCol   (0-63).
+;                         Both bounds are inclusive.
+;   Terminator: $FFFF at +$00.
+;
+; Condition logic: when ALL non-zero flag checks pass, every cell in the
+; rectangular region is set to fully blocked ($0F) in the collision map.
+;
+; Default (no $8000): "flag is CLEAR → condition passes → block region."
+;   Use for: block passage UNTIL player reaches a story milestone.
+;   When the player sets the flag, the condition fails → region stays open.
+;
+; Inverted ($8000): "flag is SET → condition passes → block region."
+;   Use for: block an area AFTER a certain event occurs.
+;
+; The table is processed once during WalkableMapInit. For large tables,
+; this could be moved to a child actor that processes 1-2 entries per frame
+; during the camera zoom-in sequence (~181 frames of headroom).
+
+FlagBlockTable [
+    ; -- Add entries here as needed --
+    ;
+    ; Example: block rows 18-22, cols 28-34 until flag $0042 is cleared:
+    ;   #$0042  #$0000  #$121C  #$1622
+    ;
+    ; Example: require TWO flags clear (flag $0042 AND flag $0080):
+    ;   #$0042  #$0080  #$121C  #$1622
+    ;
+    ; Example: block when flag $0050 IS set (inverted via $8000):
+    ;   #$8050  #$0000  #$0A08  #$0F10
+    ;
+    ; Terminator
+
+    #$0026  #$0000  #$2E0B  #$2E0E
+    #$0026  #$8025  #$380A  #$3A10
+
+    #$FFFF  #$0000  #$0000  #$0000
+]
+
+; -----------------------------------------------------------------------------
+; ProcessFlagBlocks — iterate FlagBlockTable, apply matching entries
+; -----------------------------------------------------------------------------
+; Called from WalkableMapInit after the base collision map is in WRAM.
+; Sets D=0 so DP scratch ($00-$0E) targets absolute WRAM $0000-$000E.
+
+ProcessFlagBlocks {
+    PHD
+    REP #$20
+    LDA #$0000
+    TCD
+
+    LDX #$0000
+
+-NextEntry:
+    LDA $@FlagBlockTable, X
+    CMP #$FFFF
+    BEQ +Done
+
+    ; --- Check flag1 ---
+    STA $02
+    CMP #$0000
+    BEQ +Flag1Pass
+    AND #$7FFF
+    JSR $&TestEventFlagInline
+    ; carry set = flag IS set, carry clear = flag is CLEAR
+    ; LDA does not affect carry; BIT #imm only affects Z
+    LDA $02
+    BIT #$8000
+    BNE +Flag1Inv
+    ; Normal: require flag CLEAR → pass when carry clear
+    BCS +SkipEntry
+    BRA +Flag1Pass
++Flag1Inv:
+    ; Inverted: require flag SET → pass when carry set
+    BCC +SkipEntry
+
++Flag1Pass:
+    ; --- Check flag2 ---
+    PHX
+    INX
+    INX
+    LDA $@FlagBlockTable, X
+    PLX
+    STA $02
+    CMP #$0000
+    BEQ +Flag2Pass
+    AND #$7FFF
+    JSR $&TestEventFlagInline
+    LDA $02
+    BIT #$8000
+    BNE +Flag2Inv
+    BCS +SkipEntry
+    BRA +Flag2Pass
++Flag2Inv:
+    BCC +SkipEntry
+
++Flag2Pass:
+    ; --- Both conditions met: block the region ---
+    PHX
+    TXA
+    CLC
+    ADC #$0004
+    TAX
+    LDA $@FlagBlockTable, X
+    STA $04
+    INX
+    INX
+    LDA $@FlagBlockTable, X
+    STA $06
+    JSR $&FillRegionBlocked
+    PLX
+
++SkipEntry:
+    TXA
+    CLC
+    ADC #$FLAG_BLOCK_ENTRY_SIZE
+    TAX
+    BRA -NextEntry
+
++Done:
+    PLD
+    RTS
+}
+
+; -----------------------------------------------------------------------------
+; TestEventFlagInline — test one bit in the $0A00 event flag array
+; -----------------------------------------------------------------------------
+; Inlined to avoid cross-bank JSR/JSL to the engine's RTS-based TestEventFlag.
+; Input:  A = event flag index (0-2047)
+; Output: carry set = flag IS set, carry clear = flag is CLEAR
+; Preserves X, Y via stack.
+
+TestEventFlagInline {
+    PHX
+    PHY
+    STA $0000
+    LSR
+    LSR
+    LSR
+    TAY
+    SEP #$20
+    LDA $0000
+    AND #$07
+    TAX
+    LDA $@FlagBitMasks, X
+    AND $0A00, Y
+    SEC
+    BNE +FlagIsSet
+    CLC
++FlagIsSet:
+    REP #$20
+    PLY
+    PLX
+    RTS
+}
+
+; Single-bit masks for flag positions 0-7 (8 bytes)
+FlagBitMasks [
+    #01  #02  #04  #08  #10  #20  #40  #80
+]
+
+; -----------------------------------------------------------------------------
+; FillRegionBlocked — block a rectangular region of the collision map
+; -----------------------------------------------------------------------------
+; Input: $04 = [startRow : startCol], $06 = [endRow : endCol]
+;        Each byte 0-63 (metatile cell coordinates). Bounds inclusive.
+; ORs $0F (low nibble) or $F0 (high nibble) into the nibble-packed
+; collision map at $7F8000, fully blocking each cell in the rectangle.
+
+FillRegionBlocked {
+    REP #$20
+
+    ; Unpack coordinates into DP scratch
+    LDA $04
+    AND #$00FF
+    STA $08
+    LDA $04
+    XBA
+    AND #$003F
+    STA $0A
+
+    LDA $06
+    AND #$00FF
+    STA $0C
+    LDA $06
+    XBA
+    AND #$003F
+    STA $0E
+
+-RowLoop:
+    LDA $0A
+    CMP $0E
+    BEQ +RowOk
+    BCS +FillDone
++RowOk:
+    LDA $0A
+    ASL
+    ASL
+    ASL
+    ASL
+    ASL
+    STA $02
+
+    LDA $08
+    STA $00
+
+-ColLoop:
+    LDA $00
+    CMP $0C
+    BEQ +ColOk
+    BCS +NextRow
++ColOk:
+    LDA $00
+    LSR
+    CLC
+    ADC $02
+    TAX
+
+    LDA $00
+    AND #$0001
+    BNE +OddCol
+    SEP #$20
+    LDA $7F8000, X
+    ORA #$0F
+    STA $7F8000, X
+    REP #$20
+    BRA +ColAdv
++OddCol:
+    SEP #$20
+    LDA $7F8000, X
+    ORA #$F0
+    STA $7F8000, X
+    REP #$20
+
++ColAdv:
+    INC $00
+    BRA -ColLoop
+
++NextRow:
+    INC $0A
+    BRA -RowLoop
+
++FillDone:
     RTS
 }
 
@@ -586,7 +919,7 @@ CheckCollision {
 ; the code bank during actor execution).
 
 ScanNearby {
-    REP #$30
+    REP #$20
 
     LDA #$FFFF
     STA $nearbyLocIdx

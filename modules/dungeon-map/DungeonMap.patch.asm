@@ -62,7 +62,7 @@ GlobalInputHandler! {
     LDA $joypadCurrent
     BIT #$2000
     BNE gih_select
-    BIT #$4000
+    BIT #$0008
     BEQ gih_exit
     JMP $&item_use_system.ItemUseDispatch
 
@@ -78,7 +78,9 @@ GlobalInputHandler! {
     JSL $@inventory_overlay.OpenInventoryScreen
     JSL $@vblank_joypad.EnableNmiOnly
     LDA #$6000
+    JSL $@MergeInputFlags
     TSB $joypadHeld
+    TRB $joypadCurrent
     PLP
     RTL
 

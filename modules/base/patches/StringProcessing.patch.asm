@@ -6,7 +6,6 @@
 
 !scene_next                     0642
 !scene_current                  0644
-!advance_button_mask            C080
 !default_background             0000
 !border_state                   09F8
 !default_bg                     0C03
@@ -229,38 +228,5 @@ loc_03E59F! {
     STZ $099C
     PLB 
     PLY 
-    RTS 
-}
-
-------------------------------------
-
-DialogCmd_WaitForButton! {
-    LDA #$advance_button_mask
-    TSB $0658
-
-  loc_03E6AA!:
-    JSR $&WaitOneFrame
-    LDA $0656
-    AND #$advance_button_mask
-    BNE loc_03E6C1
-    SEC 
-    JSR $&DrawDialogueCursor
-    LDA #$0001
-    TSB $09EC
-    BRA loc_03E6AA
-}
-
----------------------------------------------
-
-DialogCmd_WaitForAnyInput! {
-    LDA #$advance_button_mask
-    TSB $0658
-
-  loc_03E6D8!:
-    JSR $&WaitOneFrame
-    LDA $0656
-    AND #$advance_button_mask
-    BEQ loc_03E6D8
-    STA $0658
     RTS 
 }

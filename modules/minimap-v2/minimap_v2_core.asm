@@ -108,7 +108,7 @@
 !actorListHead                  0056
 !extendedFlags                  7F002A
 !bg1ScrollH                     068C
-!bg2ScrollH                     068E
+!mapScrollV                     068E
 
 ; --- Adhoc DMA registers ---
 !adhocVramDma                   7F0C03
@@ -1125,7 +1125,7 @@ StampQuadrantTransparent {
 
     ; --- Compute world Y for compose buffer ---
     ; screenY = (vpRelY/2 + offset_y + 5) × 8 - 1
-    ; worldY = screenY + bg2ScrollH
+    ; worldY = screenY + mapScrollV
     ; The -1 aligns the sprite pixel with the BG3 cell (sprites render 1px low)
     LDA $22
     LSR
@@ -1138,7 +1138,7 @@ StampQuadrantTransparent {
     ASL
     DEC
     CLC
-    ADC $bg2ScrollH
+    ADC $mapScrollV
     STA $2A
 
     ; --- Tile+attr with quadrant flip ---

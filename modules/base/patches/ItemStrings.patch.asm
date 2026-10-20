@@ -94,9 +94,9 @@ consolestring_01DB8C! |Wind [N] Melody|
 consolestring_01DED9! |Wind Melody|
 consolestring_01E23F! |[DBL]Melody played by[DBL]the Incan Wind.|
 
-consolestring_01DB9B! |[PTR:@item_name_table_lola,B24]'s[N] Melody|
-consolestring_01DEE6! |[PTR:@item_name_table_lola,B24]'s Melody|
-consolestring_01E25E! |[DBL]Melody learned[DBL]from [PTR:@item_name_table_lola,B24].|
+consolestring_01DB9B! |[TBL:@item_name_table_lola,B24]'s[N] Melody|
+consolestring_01DEE6! |[TBL:@item_name_table_lola,B24]'s Melody|
+consolestring_01E25E! |[DBL]Melody learned[DBL]from [TBL:@item_name_table_lola,B24].|
 
 consolestring_01DBAC! |Bone-in[N] Meat|
 consolestring_01DEF5! |Bone-in Meat|
@@ -133,9 +133,9 @@ consolestring_01E337! |[DBL]A rock that can[DBL]purify fountain of[DBL]blood in 
 consolestring_01DF53! |Prayer Statue|
 consolestring_01E355! |[DBL]A statue brimming[DBL]with the prayers[DBL]of Mu's people.|
 
-consolestring_01DC20! |[PTR:@item_name_table_rama,B24]'s[N] Statue|
-consolestring_01DF5D! |[PTR:@item_name_table_rama,B24]'s Statue|
-consolestring_01E377! |[DBL]Releases [PTR:@item_name_table_rama,B24]'s[DBL]imprisonment in[DBL]stone form.|
+consolestring_01DC20! |[TBL:@item_name_table_rama,B24]'s[N] Statue|
+consolestring_01DF5D! |[TBL:@item_name_table_rama,B24]'s Statue|
+consolestring_01E377! |[DBL]Releases [TBL:@item_name_table_rama,B24]'s[DBL]imprisonment in[DBL]stone form.|
 
 consolestring_01DC2E! |Magic[N] Powder|
 consolestring_01DF69! |Magic Powder|
@@ -145,13 +145,13 @@ consolestring_01DC3B! |Blue[N] Journal|
 consolestring_01DF74! |Blue Journal|
 consolestring_01E3C4! |[DBL]Journal found[DBL]by fireplace.|
 
-consolestring_01DC4A! |[PTR:@item_name_table_lance,B24]'s [N]  Letter|
-consolestring_01DF81! |[PTR:@item_name_table_lance,B24]'s Letter|
-consolestring_01E3E1! |[DBL]Letter from [PTR:@item_name_table_lance,B24][DBL]addressed to [PTR:@item_name_table_will,B24].|
+consolestring_01DC4A! |[TBL:@item_name_table_lance,B24]'s [N]  Letter|
+consolestring_01DF81! |[TBL:@item_name_table_lance,B24]'s Letter|
+consolestring_01E3E1! |[DBL]Letter from [TBL:@item_name_table_lance,B24][DBL]addressed to [TBL:@item_name_table_will,B24].|
 
 consolestring_01DC5C! |Necklace [N] Stones|
 consolestring_01DF92! |Necklace Stones|
-consolestring_01E3F3! |[DBL]Pendant that [PTR:@item_name_table_lance,B24][DBL]made for [PTR:@item_name_table_lilly,B24].|
+consolestring_01E3F3! |[DBL]Pendant that [TBL:@item_name_table_lance,B24][DBL]made for [TBL:@item_name_table_lilly,B24].|
 
 consolestring_01DC6E! |Will|
 consolestring_01DFA2! |Will|
@@ -205,13 +205,13 @@ consolestring_01DCFF! |Aura|
 consolestring_01E02B! |Aura|
 consolestring_01E54C! |[DBL][LU:2]Knight[DBL]Shadow's Body[DBL]turns to water.|
 
-consolestring_01DD06! |[PTR:@item_name_table_lola,B24]'s[N] Letter|
-consolestring_01E032! |[PTR:@item_name_table_lola,B24]'s Letter|
-consolestring_01E574! |[DBL]Letter from[DBL][PTR:@item_name_table_lola,B24] and Bill.|
+consolestring_01DD06! |[TBL:@item_name_table_lola,B24]'s[N] Letter|
+consolestring_01E032! |[TBL:@item_name_table_lola,B24]'s Letter|
+consolestring_01E574! |[DBL]Letter from[DBL][TBL:@item_name_table_lola,B24] and Bill.|
 
 consolestring_01DD17! |Father's[N] Journal|
 consolestring_01E041! |Father's Journal|
-consolestring_01E590! |[DBL][PTR:@item_name_table_will,B24]'s father's[DBL]journal. Info on [DBL]Pyramid.|
+consolestring_01E590! |[DBL][TBL:@item_name_table_will,B24]'s father's[DBL]journal. Info on [DBL]Pyramid.|
 
 consolestring_01DD2B! |Crystal[N] Ring|
 consolestring_01E053! |Crystal Ring|
@@ -222,13 +222,13 @@ consolestring_01E060! |Red Apple|
 consolestring_01E5D3! |[DBL]Apple from[DBL]Euro Market.|
 
 
-consolestring_01E61F! |Dark [PTR:@item_name_table_friar,B24]|
+consolestring_01E61F! |Dark [TBL:@item_name_table_friar,B24]|
 
-consolestring_01E697! |Dark[N] [PTR:@item_name_table_friar,B24]|
+consolestring_01E697! |Dark[N] [TBL:@item_name_table_friar,B24]|
 
-consolestring_01E7D6! | [PTR:@item_name_table_will,B24]|
+consolestring_01E7D6! | [TBL:@item_name_table_will,B24]|
 
-consolestring_01E7DD! | [PTR:@item_name_table_freedan,B24]|
+consolestring_01E7DD! | [TBL:@item_name_table_freedan,B24]|
 
 -----------------------------------------
 ?INCLUDE 'itemget_table_01FD24'
