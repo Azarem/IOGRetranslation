@@ -166,7 +166,7 @@ CameraScrollUpdate! {
     STA $effectDeltaX
     LDA $cameraTargetY
     SEC 
-    SBC $bg2ScrollH
+    SBC $mapScrollV
     STA $effectDeltaY
     PLD 
     RTL 
@@ -232,7 +232,7 @@ CameraFullRefresh! {
     STA $cameraTargetY, X
 
   ws_cfr_yok:
-    STA $bg2ScrollH, X
+    STA $mapScrollV, X
     AND #$FFF0
     STA $1C
 
@@ -388,7 +388,7 @@ UpdateScrollColumn! {
     CLC 
     ADC $bg1ScrollH, X         ; column = scroll + offset
     STA $18
-    LDA $bg2ScrollH, X
+    LDA $mapScrollV, X
     STA $1C
 
     ; --- Bounds check: is column within valid map range? ---
@@ -444,7 +444,7 @@ UpdateScrollRow! {
 
   ws_usr_yoffset:
     CLC 
-    ADC $bg2ScrollH, X
+    ADC $mapScrollV, X
 
   ws_usr_ywrap:
     STA $1C
@@ -811,7 +811,7 @@ loc_03C9BB! {
 loc_03C79E! {
     LDA $7F3102, X
     SEC 
-    SBC $bg2ScrollH
+    SBC $mapScrollV
     CMP #$00F0
     BCS loc_03C7E8
     STA $0423, Y

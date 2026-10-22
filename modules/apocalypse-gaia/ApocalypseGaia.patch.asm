@@ -46,14 +46,16 @@ scene_meta_00EA+ [
 
 scene_meta_00EB [
   display-mode < #0C >
-  bitmap < #00, #10, #00, @gfx_ending_combined, #00 >
-  palette < #00, #70, #10, @pal_babel_spaceflight >
-  tileset < #00, #20, #00, #01, @set_babel_darklair_effect >
-  tilemap < #01, @map_babel_spaceflight >
-  bitmap < #00, #10, #10, @gfx_ending_combined, #00 >
-  tileset < #00, #20, #00, #02, @set_babel_darklair_effect >
-  tilemap < #02, @map_babel_darklair_effect >
+  bitmap < #00, #10, #00, @graphics_0609F6, #00 >
+  palette < #00, #70, #10, @palette_0F60EB >
+  tileset < #00, #20, #00, #01, @tileset_0ED5DB >
+  tilemap < #01, @tilemap_0F68AC >
+  bitmap < #00, #10, #10, @graphics_0A5987, #00 >
+  tileset < #00, #20, #00, #02, @tileset_0EB120 >
+  tilemap < #02, @tilemap_0F7891 >
   palette < #00, #70, #90, @palette_1E6273 >
+  bitmap < #00, #10, #10, @gfx_apocalypse_sprites, #01 >
+  palette < #00, #60, #80, @pal_apocalypse_sprites >
   spritemap < #$0900, #00, @apocalypse_gaia >
 ]
 
@@ -344,7 +346,7 @@ scene_meta_list! [
 ; to avoid a 1-frame flash at center. Brain brings boss into
 ; view via cameraDelta scrolling the M7 BG for zoom effect.
 scene_event_0CE3CD! [
-  actor-spawn < #05, #0A, #00, @player_character.PlayerCharacterDef >
+  actor-spawn < #07, #0D, #00, @player_character.PlayerCharacterDef >
   actor-spawn < #00, #00, #00, @ag_tile_loader >
   enemy-spawn < #08, #17, #00, @ag_boss_def, #54, #00, #00 >
 ]
