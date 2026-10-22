@@ -242,25 +242,25 @@ After EOR with actor `$0E` = `$2000`:
 | Tiles | Group(s) | Description |
 |-------|----------|-------------|
 | `$74-$75` | `ag_grp_bubble` | Bubble / floating bomb (8×8) |
-| `$76-$77` | `ag_grp_beam` | Beam particle (8×8) |
-| `$78-$7B` | `ag_grp_nuke` | Nuke / expanded bomb (16×16) |
-| `$7C-$7D` | `ag_grp_nuke_piece` | Nuke fragment (8×8) |
-| `$7E-$7F` | `ag_grp_fire_obj` | Fire projectile (8×8) |
-| `$80-$83` | `ag_grp_deadbit_fire` | Dead bit fire anim (16×16) |
+| `$76-$77` | `ag_grp_shotgun_0` | Bit shotgun frame 0 (16×16) |
+| `$78-$7B` | `ag_grp_bubble2` | Bubble projectile frame 1 (16×16) |
+| `$7C-$7D` | `ag_grp_shotgun_2` | Bit shotgun frame 2, H-flip (16×16) |
+| `$7E-$7F` | `ag_grp_shotgun_1` | Bit shotgun frame 1 (16×16) |
+| `$80-$83` | `ag_grp_bubble3` | Bubble projectile frame 2 (16×16) |
 | `$84-$87` | `ag_grp_core_extra` | Core extra animation (16×16) |
 | `$88-$89` | `ag_grp_bubble_death` | Bubble pop frame 1 (8×8) |
 | `$8A-$8B` | `ag_grp_bubble_pop`, `ag_grp_bubble_debris` | Bubble pop frame 2, debris scatter (8×8 × 2 parts) |
-| `$8C-$8F` | `ag_grp_floor_beam` | Floor beam / wide beam impact (16×16) |
+| `$8C-$8F` | `ag_grp_bubble4` | Bubble projectile frame 3 (16×16) |
 
 ### Custom Animation Sets (added for restoration)
 
 | Index | Name | Frames | Usage |
 |-------|------|--------|-------|
-| `#10` | Explosion sparkle A | deadbit_fire → nuke → nuke_piece | Replaces `spriteset_enemies #07` in explosions |
-| `#1D` | Explosion sparkle B | nuke_piece → fire_obj → nuke_piece | Replaces `spriteset_enemies #01` in explosions |
-| `#31` | Death explosion | deadbit_fire → nuke → nuke_piece → fire_obj | Replaces `spriteset_enemies #02` for bomb/arm death |
-| `#43` | Bubble death pop | bubble_death → bubble_pop → bubble_debris | Floating bomb burst before #31 explosion |
-| `#44` | Floor beam effect | beam → floor_beam | Beam particle expanding to wide impact |
+| `#10` | Explosion sparkle A | shotgun_1 → shotgun_2 → shotgun_1 | Replaces `spriteset_enemies #07` in explosions |
+| `#1D` | Explosion sparkle B | shotgun_2 → shotgun_1 → shotgun_2 | Replaces `spriteset_enemies #01` in explosions |
+| `#31` | Death explosion | bubble3 → bubble2 → shotgun_2 → shotgun_1 | Replaces `spriteset_enemies #02` for bomb/arm death |
+| `#43` | Bubble death pop | bubble_death → bubble_pop → bubble_debris → bdeath_3 → bdeath_4 | Floating bomb burst before #31 explosion |
+| `#44` | Floor beam effect | shotgun_0 → bubble4 | Beam particle expanding to wide impact |
 
 ## Phase Transitions
 

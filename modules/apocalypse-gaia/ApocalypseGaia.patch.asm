@@ -53,9 +53,8 @@ scene_meta_00EB [
   bitmap < #00, #10, #10, @graphics_0A5987, #00 >
   tileset < #00, #20, #00, #02, @tileset_0EB120 >
   tilemap < #02, @tilemap_0F7891 >
-  palette < #00, #70, #90, @palette_1E6273 >
   bitmap < #00, #10, #10, @gfx_apocalypse_sprites, #01 >
-  palette < #00, #60, #80, @pal_apocalypse_sprites >
+  palette < #00, #60, #A0, @pal_apocalypse_sprites+20 >
   spritemap < #$0900, #00, @apocalypse_gaia >
 ]
 
@@ -73,7 +72,7 @@ thinker_spawn_0CEB07+ [
 
 thinker_spawn_ag_boss [
   thinker-spawn < #00, @sine_hdma_ending_wave >
-  thinker-spawn < #71, @ambient_palette_cycler >
+  ;thinker-spawn < #71, @ambient_palette_cycler >
   thinker-spawn < #00, @global_ambient_dispatcher >
 ]
 
@@ -348,7 +347,7 @@ scene_meta_list! [
 scene_event_0CE3CD! [
   actor-spawn < #07, #0D, #00, @player_character.PlayerCharacterDef >
   actor-spawn < #00, #00, #00, @ag_tile_loader >
-  enemy-spawn < #08, #17, #00, @ag_boss_def, #54, #00, #00 >
+  enemy-spawn < #08, #14, #00, @ag_boss_def, #54, #00, #00 >
 ]
 
 scene_event_0CE3CD_value! ``
@@ -681,14 +680,14 @@ code_09AA71! {
     STA $cameraTargetY
     STA $cameraDeltaX
     STA $cameraDeltaY
-    COP [SpawnAfterFlags] ( @code_09B719, #$2300 )
-    COP [SpawnAfterFlags] ( @code_09B6FC, #$2300 )
-    COP [SpawnAfterFlags] ( @code_09B747, #$2300 )
+    ;COP [SpawnAfterFlags] ( @code_09B719, #$2300 )
+    ;COP [SpawnAfterFlags] ( @code_09B6FC, #$2300 )
+    ;COP [SpawnAfterFlags] ( @code_09B747, #$2300 )
     COP [SpawnBeforeMarked] ( @code_09B5C7, #$2000 )
-    COP [SpawnAfterOffsetMarked] ( @code_09B30E, #C8, #33, #$0111 )
-    COP [SpawnAfterOffsetMarked] ( @code_09B36A, #38, #33, #$0111 )
-    COP [SpawnAfterOffsetMarked] ( @code_09B586, #BF, #0B, #$0301 )
-    COP [SpawnAfterOffsetMarked] ( @code_09B57F, #41, #0B, #$0301 )
+    COP [SpawnAfterOffsetMarked] ( @code_09B30E, #C8, #7F, #$0111 )
+    COP [SpawnAfterOffsetMarked] ( @code_09B36A, #38, #7F, #$0111 )
+    COP [SpawnAfterOffsetMarked] ( @code_09B586, #B6, #0B, #$0301 )
+    COP [SpawnAfterOffsetMarked] ( @code_09B57F, #3A, #0B, #$0301 )
     STZ $24
     COP [WaitByte] ( #04 )
     LDA #$2000
@@ -792,24 +791,24 @@ code_09B4D8! {
 ; Floating bomb death — bubble pop (#43) → death explosion (#31)
 ; Original used spriteset_enemies #02; now uses boss explosion sprites.
 code_09B84F! {
-    COP [StageSpriteFrame] ( #43 )
-    COP [AnimOnce]
-    LDA $16
-    SEC 
-    SBC #$0008
-    STA $16
-    LDA #$0003
-    STA $24
+    ;COP [StageSpriteFrame] ( #43 )
+    ;COP [AnimOnce]
+    ;LDA $16
+    ;SEC 
+    ;SBC #$0008
+    ;STA $16
+    ;LDA #$0003
+    ;STA $24
 
   loc_09B861!:
-    COP [SpawnAfterFlags] ( @code_09B880, #$0202 )
-    DEC $24
-    BPL loc_09B861
-    STZ $24
-    LDA $16
-    CLC 
-    ADC #$0004
-    STA $16
+    ;COP [SpawnAfterFlags] ( @code_09B880, #$0202 )
+    ;DEC $24
+    ;BPL loc_09B861
+    ;STZ $24
+    ;LDA $16
+    ;CLC 
+    ;ADC #$0004
+    ;STA $16
     COP [PlaySoundCh1] ( #1D )
     COP [StageSpriteFrame] ( #31 )
     COP [AnimOnce]
@@ -820,9 +819,9 @@ code_09B84F! {
 
 ; Floating bomb death child — #10 instead of #07
 code_09B8AF! {
-    COP [StageSpriteFrame] ( #10 )
-    COP [AnimOnce]
-    COP [Die]
+    ;COP [StageSpriteFrame] ( #10 )
+    ;COP [AnimOnce]
+    ;COP [Die]
 }
 
 ; =============================================

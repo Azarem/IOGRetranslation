@@ -1,28 +1,30 @@
 ; Apocalypse Gaia boss spritemap
 ; 
-; Defines 69 sprite animation sets ($00-$44) for the unused Mode 7 boss.
-; Phase 1/2 tiles occupy lower OBJ page (tiles $40-$FF, VRAM $4400-$4FFF).
-; Phase 3 tiles occupy upper OBJ page (tiles $100-$1FF, VRAM $6000-$6FFF).
-; Shared/persistent tiles split across both pages.
+; Defines sprite animation sets ($00-$44) for the unused Mode 7 boss.
+; Phase 1/2 tiles occupy upper OBJ page (tiles $100-$1FF).
+; Phase 3 tiles occupy lower OBJ page (tiles $40-$FF, VRAM $4400-$4FFF).
 ;
-; Tile index reference — grid-aware row-pair allocation:
+; Tile index formula: tile = $100 + col + row * $10
+;   on the 128x128 sprite page (16x16 grid of 8x8 tiles).
 ;   16×16 OAM sprites use tiles at base, base+1, base+16, base+17.
-;   Each row pair (32 tiles) holds up to 8 non-overlapping 16×16 slots.
+;   All Phase 1/2 sprite tiles are large (16x16).
 ;
-;   Phase 1/2 (gfx_ag_sprites.raw.bin → VRAM $4400, tile $40+):
-;     Pair A ($40-$5F): Core idle frames
-;       $40: ci0 TL  $42: ci0 TR  $44: ci0 BL  $46: ci0 BR
-;       $48: ci1 TL  $4A: ci1 TR  $4C: ci1 BL  $4E: ci1 BR
-;     Pair B ($60-$7F): Core action variants
-;       $60: atk A   $62: atk B   $64: dmg A   $66: dmg B
-;       $68: death A $6A: death B $6C: extra A $6E: extra B
-;     Pair C ($80-$9F): Sub-actor sprites
-;       $80: bit idle  $82: bit atk  $84: bit vuln  $86: bit dead
-;       $88: lnch idle $8A: lnch fire $8C: nuke     $8E: deadbit
-;     Pair D ($A0-$BF): Floor beam + 8×8 sprites
-;       $A0: floor beam (16×16)
-;       $A2: bubble  $A3: beam  $A4: nuke piece  $A5: fire obj
-;       $A6: bubble death  $A7: bubble pop/debris A  $A8: debris B
+;   Phase 1/2 (upper OBJ page, tiles $100-$1FF):
+;     Core body left half: (0,0)-(4,6), palette 3
+;       3 wide × 4 tall large tiles = 12 parts (96x64 with H-mirror)
+;       $100,$102,$104 / $120,$122,$124 / $140,$142,$144 / $160,$162,$164
+;     Left Bit: (6,0)(8,0)(6,2)(8,2), palette 6
+;       2x2 large tiles = 32x32 px
+;       $106,$108,$126,$128
+;     Left Launcher: (6,4)-(8,C), palette 4
+;       2x5 large tiles = 32x80 px
+;       $146,$148 / $166,$168 / $186,$188 / $1A6,$1A8 / $1C6,$1C8
+;     Bubble projectile: (0,E)-(6,E), palette 5, 4 frames
+;       $1E0,$1E2,$1E4,$1E6
+;     Bit shotgun: (C,C)(E,C), palette 5, 4 frames (+ H-flip)
+;       $1CC,$1CE
+;     Bubble death: (E,C)(C,E)(E,E), palette 5, 5 frames (+ H-flip)
+;       $1CE,$1EC,$1EE
 ;
 ;   Phase 3 (gfx_ag_phase3.raw.bin → VRAM $4400, tile $40+):
 ;     Pair A ($40-$5F): Final Core body (replaces P1 Core idle)
@@ -33,9 +35,9 @@
 ;       $68: mini fall  $6A: mini idle  $6C: mini move  $6E: mini dmg
 ;     Pair C ($80-$9F): Mini death + 5 Cannons + Shared FX
 ;       $80: mini death  $82: can N  $84: can NE  $86: can E
-;       $88: can SE  $8A: can S  $8C: NUKE(shared)  $8E: DEADBIT(shared)
+;       $88: can SE  $8A: can S  $8C: meteor(shared)  $8E: deadbit(shared)
 ;     Pair D ($A0-$BF): 3 Cannons + Shared FX 8×8 + Bullets
-;       $A0: can SW  $A2: can W  $A4: nuke_piece(sh)  $A5: fire_obj(sh)
+;       $A0: can SW  $A2: can W  $A4: shotgun_2(sh)  $A5: shotgun_1(sh)
 ;       $A6: can NW  $A8: body seg
 ;       $A9-$AF,$B4: bullet starts (N,NE,E,SE,S,SW,W,NW)
 ;       $B5,$B8-$BE: bullet hitboxes (N,NE,E,SE,S,SW,W,NW)
@@ -55,10 +57,13 @@
 ;   BL: x=0,x_m=$10, y=$10,y_v=0
 ;   BR: x=$10,x_m=0, y=$10,y_v=0
 ;
-; Palette 3 (PPP=011), name table 0 (N=0) = $16xx
 ; The engine EORs tile attrs with actor field $0E (base priority $2000
-; from display preset $0C). $16 XOR $20 = $36 → OAM priority 3 (OO=11).
-; Phase 1/2 tiles: $16xx where xx = tile index ($40-$A8 range)
+; from display preset $0C). XOR $20 on upper byte → OAM priority 3.
+; Phase 1/2: upper page, N=1. Palette varies per element:
+;   Palette 3 (core):       $17xx XOR $20 = $37xx → pri 3, pal 3
+;   Palette 4 (launcher):   $19xx XOR $20 = $39xx → pri 3, pal 4
+;   Palette 5 (projectile): $1Bxx XOR $20 = $3Bxx → pri 3, pal 5
+;   Palette 6 (bits):       $1Dxx XOR $20 = $3Dxx → pri 3, pal 6
 ; Phase 3 tiles: $16xx where xx = tile index ($40-$BE range)
 
 ---------------------------------------------
@@ -76,21 +81,21 @@ apocalypse_gaia [
   &ag_set_08   ;08 - Launcher idle
   &ag_set_09   ;09 - Launcher fire frame 1
   &ag_set_0A   ;0A - Launcher fire frame 2
-  &ag_set_0B   ;0B - Bit dead idle
-  &ag_set_0C   ;0C - Nuke descent (MoveToward)
-  &ag_set_0D   ;0D - Nuke impact explosion
-  &ag_set_0E   ;0E - Nuke debris falling (loop)
-  &ag_set_0F   ;0F - Shrapnel rain (loop)
+  &ag_set_0B   ;0B - Dead bit idle
+  &ag_set_0C   ;0C - Meteor descent (MoveToward)
+  &ag_set_0D   ;0D - Meteor impact explosion
+  &ag_set_0E   ;0E - Meteor debris falling (loop)
+  &ag_set_0F   ;0F - Meteor shrapnel rain (loop)
   &ag_set_10   ;10 - Explosion sparkle A
-  &ag_set_11   ;11 - Arm fire projectile (loop)
-  &ag_set_12   ;12 - Nuke fall
-  &ag_set_13   ;13 - Nuke explosion
+  &ag_set_11   ;11 - Bit fire projectile (loop)
+  &ag_set_12   ;12 - Nuke ball descent
+  &ag_set_13   ;13 - Ring projectile
   &ag_set_14   ;14 - Floating bomb spawn
-  &ag_set_15   ;15 - Star/beam particle
+  &ag_set_15   ;15 - Falling star particle
   &ag_set_16   ;16 - Bit attack return
   &ag_set_17   ;17 - Floating bomb expanded
   &ag_set_18   ;18 - Floating bomb chase (loop)
-  &ag_set_19   ;19 - Core P2 anim
+  &ag_set_19   ;19 - Core P2 attack anim
   &ag_set_1A   ;1A - Launcher fire return
   &ag_set_1B   ;1B - Bit recovery transition
   &ag_set_1C   ;1C - Dead bit fire anim
@@ -145,31 +150,25 @@ apocalypse_gaia [
 ; --- Phase 1/2: Core ---
 
 ag_set_00 [
-  sprite-set < #$0005, &ag_grp_core_idle_0 >
-  sprite-set < #$0005, &ag_grp_core_idle_1 >
-  sprite-set < #$0005, &ag_grp_core_idle_0 >
-  sprite-set < #$0000, &ag_grp_core_idle_1 >
+  sprite-set < #$0000, &ag_grp_core_idle >
 ]
 
 ag_set_01 [
-  sprite-set < #$0003, &ag_grp_core_atk_0 >
-  sprite-set < #$0003, &ag_grp_core_atk_1 >
-  sprite-set < #$0000, &ag_grp_core_atk_0 >
+  sprite-set < #$0000, &ag_grp_core_idle >
 ]
 
 ag_set_02 [
-  sprite-set < #$0003, &ag_grp_core_atk_1 >
-  sprite-set < #$0000, &ag_grp_core_atk_0 >
+  sprite-set < #$0000, &ag_grp_core_idle >
 ]
 
 ag_set_03 [
-  sprite-set < #$0005, &ag_grp_core_dmg >
-  sprite-set < #$0000, &ag_grp_core_idle_0 >
+  sprite-set < #$0005, &ag_grp_core_idle >
+  sprite-set < #$0000, &ag_grp_core_idle >
 ]
 
 ag_set_04 [
-  sprite-set < #$0007, &ag_grp_core_dmg >
-  sprite-set < #$0007, &ag_grp_core_death >
+  sprite-set < #$0007, &ag_grp_core_idle >
+  sprite-set < #$0007, &ag_grp_core_idle >
   sprite-set < #$0000, &ag_grp_empty >
 ]
 
@@ -180,21 +179,21 @@ ag_set_05 [
 ]
 
 ag_set_06 [
-  sprite-set < #$0003, &ag_grp_bit_atk >
-  sprite-set < #$0000, &ag_grp_bit_vuln >
+  sprite-set < #$0003, &ag_grp_bit_idle >
+  sprite-set < #$0000, &ag_grp_bit_idle >
 ]
 
 ag_set_07 [
-  sprite-set < #$0003, &ag_grp_bit_vuln >
-  sprite-set < #$0000, &ag_grp_bit_atk >
+  sprite-set < #$0003, &ag_grp_bit_idle >
+  sprite-set < #$0000, &ag_grp_bit_idle >
 ]
 
 ag_set_0B [
-  sprite-set < #$0000, &ag_grp_bit_dead >
+  sprite-set < #$0000, &ag_grp_bit_idle >
 ]
 
 ag_set_16 [
-  sprite-set < #$0003, &ag_grp_bit_atk >
+  sprite-set < #$0003, &ag_grp_bit_idle >
   sprite-set < #$0000, &ag_grp_bit_idle >
 ]
 
@@ -205,98 +204,105 @@ ag_set_08 [
 ]
 
 ag_set_09 [
-  sprite-set < #$0003, &ag_grp_launcher_fire >
+  sprite-set < #$0003, &ag_grp_launcher_idle >
   sprite-set < #$0000, &ag_grp_launcher_idle >
 ]
 
 ag_set_0A [
   sprite-set < #$0003, &ag_grp_launcher_idle >
-  sprite-set < #$0000, &ag_grp_launcher_fire >
-]
-
-ag_set_1A [
-  sprite-set < #$0003, &ag_grp_launcher_fire >
   sprite-set < #$0000, &ag_grp_launcher_idle >
 ]
 
-; --- Phase 1: Projectiles ---
+ag_set_1A [
+  sprite-set < #$0003, &ag_grp_launcher_idle >
+  sprite-set < #$0000, &ag_grp_launcher_idle >
+]
 
+; --- Phase 1/2: Projectiles ---
+
+; #12: Nuke ball descent (code_09B8B6, P2 attack)
 ag_set_12 [
-  sprite-set < #$0000, &ag_grp_nuke >
+  sprite-set < #$0000, &ag_grp_bubble2 >
 ]
 
+; #13: Ring projectile expand (code_09B8F3, spawned by nuke ball)
 ag_set_13 [
-  sprite-set < #$0003, &ag_grp_nuke_piece >
-  sprite-set < #$0000, &ag_grp_nuke_piece >
+  sprite-set < #$0003, &ag_grp_shotgun_2 >
+  sprite-set < #$0000, &ag_grp_shotgun_2 >
 ]
 
+; #15: Falling star particle (code_09B787)
 ag_set_15 [
-  sprite-set < #$0000, &ag_grp_beam >
+  sprite-set < #$0000, &ag_grp_shotgun_0 >
 ]
 
 ; --- Phase 2: Core vulnerable ---
 
+; #19: Core P2 attack anim (loc_09AB8B)
 ag_set_19 [
-  sprite-set < #$0005, &ag_grp_core_atk_0 >
-  sprite-set < #$0005, &ag_grp_core_extra >
-  sprite-set < #$0000, &ag_grp_core_atk_0 >
+  sprite-set < #$0000, &ag_grp_core_idle >
 ]
 
 ; --- Phase 2: Dead bit fire ---
 
+; #1C: Dead bit fire animation (code_09B3EA)
 ag_set_1C [
-  sprite-set < #$0003, &ag_grp_deadbit_fire >
-  sprite-set < #$0000, &ag_grp_fire_obj >
+  sprite-set < #$0003, &ag_grp_bubble3 >
+  sprite-set < #$0000, &ag_grp_shotgun_1 >
 ]
 
-; --- Nuke attack sequence (code_09B3FD) ---
-; The arm death callback spawns this as a meteor/nuke projectile.
+; --- Meteor attack sequence (code_09B3FD) ---
+; Dead bit fire callback spawns this as a meteor projectile.
 ; MoveToward(#0C, #02) guides it toward the player, then impact
 ; check → explosion → debris rain.
 
-; #0C: Nuke descending toward player (MoveToward + AnimOnce)
+; #0C: Meteor descending toward player (MoveToward + AnimOnce)
 ag_set_0C [
-  sprite-set < #$0003, &ag_grp_nuke >
-  sprite-set < #$0000, &ag_grp_nuke >
+  sprite-set < #$0003, &ag_grp_bubble2 >
+  sprite-set < #$0000, &ag_grp_bubble2 >
 ]
 
-; #0D: Nuke impact explosion (AnimOnce)
+; #0D: Meteor impact explosion (AnimOnce)
 ag_set_0D [
-  sprite-set < #$0003, &ag_grp_nuke >
-  sprite-set < #$0003, &ag_grp_nuke_piece >
-  sprite-set < #$0000, &ag_grp_fire_obj >
+  sprite-set < #$0003, &ag_grp_bubble2 >
+  sprite-set < #$0003, &ag_grp_shotgun_2 >
+  sprite-set < #$0000, &ag_grp_shotgun_1 >
 ]
 
-; #0E: Debris falling from impact (StageSpriteLoopMoveY, AnimLoop)
+; #0E: Meteor debris falling (StageSpriteLoopMoveY, AnimLoop)
 ag_set_0E [
-  sprite-set < #$0003, &ag_grp_nuke_piece >
-  sprite-set < #$0003, &ag_grp_fire_obj >
-  sprite-set < #$0000, &ag_grp_nuke_piece >
+  sprite-set < #$0003, &ag_grp_shotgun_1 >
+  sprite-set < #$0003, &ag_grp_shotgun_2 >
+  sprite-set < #$0003, &ag_grp_shotgun_3 >
+  sprite-set < #$0003, &ag_grp_shotgun_4 >
+  sprite-set < #$0000, &ag_grp_shotgun_1 >
 ]
 
-; #0F: Shrapnel rain pieces (StageSpriteLoopMoveY, AnimLoop)
+; #0F: Meteor shrapnel rain (StageSpriteLoopMoveY, AnimLoop)
 ag_set_0F [
-  sprite-set < #$0003, &ag_grp_fire_obj >
-  sprite-set < #$0000, &ag_grp_nuke_piece >
+  sprite-set < #$0003, &ag_grp_shotgun_1 >
+  sprite-set < #$0000, &ag_grp_shotgun_2 >
 ]
 
 ; #10: Explosion sparkle A (replaces spriteset_enemies #07)
 ag_set_10 [
-  sprite-set < #$0003, &ag_grp_fire_obj >
-  sprite-set < #$0003, &ag_grp_nuke_piece >
-  sprite-set < #$0000, &ag_grp_fire_obj >
+  sprite-set < #$0003, &ag_grp_shotgun_1 >
+  sprite-set < #$0003, &ag_grp_shotgun_2 >
+  sprite-set < #$0000, &ag_grp_shotgun_1 >
 ]
 
-; --- Arm fire projectile (code_09B500/B541) ---
-; Shoulder launchers fire 5 projectiles per arm.
-; StageSpriteLoop(#11, #20) for left, (#91, #20) for right (mirrored).
+; --- Bit fire projectile (code_09B500/B541) ---
+; Arm bits fire 5 projectiles per arm.
+; StageSpriteLoop(#11, #20) for right, (#91, #20) for left (mirrored).
 ; Flies horizontally via StageMoveX.
 
-; #11: Fire projectile (StageSpriteLoop, AnimLoop)
+; #11: Bit fire projectile (StageSpriteLoop, AnimLoop)
 ag_set_11 [
-  sprite-set < #$0003, &ag_grp_fire_obj >
-  sprite-set < #$0003, &ag_grp_nuke_piece >
-  sprite-set < #$0000, &ag_grp_fire_obj >
+  sprite-set < #$0003, &ag_grp_shotgun_1 >
+  sprite-set < #$0003, &ag_grp_shotgun_2 >
+  sprite-set < #$0003, &ag_grp_shotgun_3 >
+  sprite-set < #$0003, &ag_grp_shotgun_4 >
+  sprite-set < #$0000, &ag_grp_shotgun_1 >
 ]
 
 ; --- Floating bomb sequence (code_09B7A8) ---
@@ -311,15 +317,16 @@ ag_set_14 [
 
 ; #17: Floating bomb expanded/armed (grows to 16x16)
 ag_set_17 [
-  sprite-set < #$0003, &ag_grp_nuke >
-  sprite-set < #$0000, &ag_grp_nuke >
+  sprite-set < #$0003, &ag_grp_bubble2 >
+  sprite-set < #$0000, &ag_grp_bubble2 >
 ]
 
 ; #18: Floating bomb chasing player (MoveToward + AnimLoop)
 ag_set_18 [
-  sprite-set < #$0003, &ag_grp_nuke >
-  sprite-set < #$0003, &ag_grp_deadbit_fire >
-  sprite-set < #$0000, &ag_grp_nuke >
+  sprite-set < #$0003, &ag_grp_bubble >
+  sprite-set < #$0003, &ag_grp_bubble2 >
+  sprite-set < #$0003, &ag_grp_bubble3 >
+  sprite-set < #$0003, &ag_grp_bubble4 >
 ]
 
 ; --- Arm bit recovery (code_09B31E / code_09B37A) ---
@@ -327,23 +334,24 @@ ag_set_18 [
 
 ; #1B: Bit recovery animation
 ag_set_1B [
-  sprite-set < #$0003, &ag_grp_bit_vuln >
+  sprite-set < #$0003, &ag_grp_bit_idle >
   sprite-set < #$0000, &ag_grp_bit_idle >
 ]
 
 ; #1D: Explosion sparkle B (replaces spriteset_enemies #01)
 ag_set_1D [
-  sprite-set < #$0003, &ag_grp_nuke_piece >
-  sprite-set < #$0003, &ag_grp_fire_obj >
-  sprite-set < #$0000, &ag_grp_nuke_piece >
+  sprite-set < #$0003, &ag_grp_shotgun_2 >
+  sprite-set < #$0003, &ag_grp_shotgun_1 >
+  sprite-set < #$0000, &ag_grp_shotgun_2 >
 ]
 
 ; #31: Death explosion (replaces spriteset_enemies #02)
 ag_set_31 [
-  sprite-set < #$0005, &ag_grp_deadbit_fire >
-  sprite-set < #$0005, &ag_grp_nuke >
-  sprite-set < #$0003, &ag_grp_nuke_piece >
-  sprite-set < #$0000, &ag_grp_fire_obj >
+  sprite-set < #$0003, &ag_grp_bubble_pop1 >
+  sprite-set < #$0003, &ag_grp_bubble_pop2 >
+  sprite-set < #$0003, &ag_grp_bubble_pop3 >
+  sprite-set < #$0003, &ag_grp_bubble_pop4 >
+  sprite-set < #$0003, &ag_grp_bubble_pop5 >
 ]
 
 ; --- Bubble death / Floor beam ---
@@ -354,14 +362,16 @@ ag_set_31 [
 ag_set_43 [
   sprite-set < #$0002, &ag_grp_bubble_death >
   sprite-set < #$0002, &ag_grp_bubble_pop >
-  sprite-set < #$0000, &ag_grp_bubble_debris >
+  sprite-set < #$0002, &ag_grp_bubble_debris >
+  sprite-set < #$0002, &ag_grp_bdeath_3 >
+  sprite-set < #$0000, &ag_grp_bdeath_4 >
 ]
 
 ; #44: Floor beam effect — beam impact / ground strike.
 ; Beam particle expands into a wide floor beam.
 ag_set_44 [
-  sprite-set < #$0003, &ag_grp_beam >
-  sprite-set < #$0000, &ag_grp_floor_beam >
+  sprite-set < #$0003, &ag_grp_shotgun_0 >
+  sprite-set < #$0000, &ag_grp_bubble4 >
 ]
 
 ; --- Phase 3: Final Core ---
@@ -539,200 +549,223 @@ ag_grp_empty [
 ]
 
 ; ============================================================
-; Phase 1/2 Metasprites (lower page tiles, palette 3 = $06xx)
-; Priority 3 = $30xx, palette 3 → $16xx (lower page only)
-; Tile attrs: $16nn for lower page
+; Phase 1/2 Metasprites (upper page tiles $100+)
+;
+; Tile index = $100 + col + row*$10 on the 128x128 sprite page.
+; All sprite tiles are large (16x16, size=1).
+;
+; Tile attr encoding: VHOOPPPn nnnnnnnn
+;   OO=01 stored → OO=11 (priority 3) after $20 XOR
+;   n bit 8 = 1 (upper page)
+;
+; Palette attr prefixes (upper page):
+;   Palette 3 (core):     $17xx normal, $57xx H-flip
+;   Palette 4 (launcher): $19xx normal, $59xx H-flip
+;   Palette 5 (proj):     $1Bxx normal, $5Bxx H-flip
+;   Palette 6 (bits):     $1Dxx normal, $5Dxx H-flip
 ; ============================================================
 
-; --- Core body (32x32 = 4 x 16x16 parts) ---
-; Tiles $40-$43 (TL), $44-$47 (TR), $48-$4B (BL), $4C-$4F (BR)
-; For 16x16: tile# refers to TL 8x8, HW fetches +1,+16,+17
+; --- Core body (96x64 = 12L left + 12L H-mirrored right) ---
+; Left half: (0,0)-(4,6), palette 3, tiles $100-$164
+; Right half: same tiles with H-flip, mirrored column order
+; Full body: 6 large tiles wide x 4 tall = 96x64 px
+; x_mirr = $50 - x, y_vflip = $30 - y
 
-ag_grp_core_idle_0 [
-  sprite-group < #10, #10, #20, #00, #F8, #F0, #01, #01, #F3, #1A, #E5, #1A, #04, [
-    sprite-part < #01, #00, #10, #00, #10, #$1640 >
-    sprite-part < #01, #10, #00, #00, #10, #$1642 >
-    sprite-part < #01, #00, #10, #10, #00, #$1644 >
-    sprite-part < #01, #10, #00, #10, #00, #$1646 >
+ag_grp_core_idle [
+  sprite-group < #28, #28, #20, #18, #F8, #F0, #01, #01, #D0, #60, #C0, #40, #14, [
+    ; Left half — palette 3 ($17xx)
+    sprite-part < #01, #00, #50, #00, #38, #$1700 >
+    sprite-part < #01, #10, #40, #00, #38, #$1702 >
+    sprite-part < #01, #18, #38, #00, #38, #$1703 >
+    sprite-part < #01, #00, #50, #10, #28, #$1720 >
+    sprite-part < #01, #10, #40, #10, #28, #$1722 >
+    sprite-part < #01, #18, #38, #10, #28, #$1723 >
+    sprite-part < #01, #00, #50, #20, #18, #$1740 >
+    sprite-part < #01, #10, #40, #20, #18, #$1742 >
+    sprite-part < #01, #18, #38, #20, #18, #$1743 >
+    sprite-part < #01, #18, #38, #28, #10, #$1753 >
+    ; Right half — palette 3 H-flipped ($57xx), columns reversed
+    sprite-part < #01, #28, #28, #00, #38, #$5703 >
+    sprite-part < #01, #30, #20, #00, #38, #$5702 >
+    sprite-part < #01, #40, #10, #00, #38, #$5700 >
+    sprite-part < #01, #28, #28, #10, #28, #$5723 >
+    sprite-part < #01, #30, #20, #10, #28, #$5722 >
+    sprite-part < #01, #40, #10, #10, #28, #$5720 >
+    sprite-part < #01, #28, #28, #20, #18, #$5743 >
+    sprite-part < #01, #30, #20, #20, #18, #$5742 >
+    sprite-part < #01, #40, #10, #20, #18, #$5740 >
+    sprite-part < #01, #28, #28, #28, #10, #$5753 >
   ] >
 ]
 
-ag_grp_core_idle_1 [
-  sprite-group < #10, #10, #20, #00, #F8, #F0, #01, #01, #F3, #1A, #E5, #1A, #04, [
-    sprite-part < #01, #00, #10, #00, #10, #$1648 >
-    sprite-part < #01, #10, #00, #00, #10, #$164A >
-    sprite-part < #01, #00, #10, #10, #00, #$164C >
-    sprite-part < #01, #10, #00, #10, #00, #$164E >
-  ] >
-]
+; --- Left Bit (32x32 = 2x2 large tiles) ---
+; Tiles at (6,0)(8,0)(6,2)(8,2), palette 6
+; Right bit uses engine H-mirror (x_mirr + XOR H-flip)
+; x_mirr = $10 - x, y_vflip = $10 - y
 
-; Core attack (uses core_atk tiles $50-$53)
-ag_grp_core_atk_0 [
-  sprite-group < #10, #10, #20, #00, #F8, #F0, #01, #01, #F3, #1A, #E5, #1A, #04, [
-    sprite-part < #01, #00, #10, #00, #10, #$1660 >
-    sprite-part < #01, #10, #00, #00, #10, #$1662 >
-    sprite-part < #01, #00, #10, #10, #00, #$1640 >
-    sprite-part < #01, #10, #00, #10, #00, #$1642 >
-  ] >
-]
-
-ag_grp_core_atk_1 [
-  sprite-group < #10, #10, #20, #00, #F8, #F0, #01, #01, #F3, #1A, #E5, #1A, #04, [
-    sprite-part < #01, #00, #10, #00, #10, #$1640 >
-    sprite-part < #01, #10, #00, #00, #10, #$1642 >
-    sprite-part < #01, #00, #10, #10, #00, #$1660 >
-    sprite-part < #01, #10, #00, #10, #00, #$1662 >
-  ] >
-]
-
-; Core damage (tiles $54-$57)
-ag_grp_core_dmg [
-  sprite-group < #10, #10, #20, #00, #F8, #F0, #01, #01, #F3, #1A, #E5, #1A, #04, [
-    sprite-part < #01, #00, #10, #00, #10, #$1664 >
-    sprite-part < #01, #10, #00, #00, #10, #$1666 >
-    sprite-part < #01, #00, #10, #10, #00, #$1664 >
-    sprite-part < #01, #10, #00, #10, #00, #$1666 >
-  ] >
-]
-
-; Core death (tiles $58-$5B)
-ag_grp_core_death [
-  sprite-group < #10, #10, #20, #00, #F8, #F0, #01, #01, #F3, #1A, #E5, #1A, #04, [
-    sprite-part < #01, #00, #10, #00, #10, #$1668 >
-    sprite-part < #01, #10, #00, #00, #10, #$166A >
-    sprite-part < #01, #00, #10, #10, #00, #$1668 >
-    sprite-part < #01, #10, #00, #10, #00, #$166A >
-  ] >
-]
-
-; Core extra anim (tiles $84-$87)
-ag_grp_core_extra [
-  sprite-group < #10, #10, #20, #00, #F8, #F0, #01, #01, #F3, #1A, #E5, #1A, #04, [
-    sprite-part < #01, #00, #10, #00, #10, #$166C >
-    sprite-part < #01, #10, #00, #00, #10, #$166E >
-    sprite-part < #01, #00, #10, #10, #00, #$1640 >
-    sprite-part < #01, #10, #00, #10, #00, #$1642 >
-  ] >
-]
-
-; --- Bits (16x16 each) ---
-; Bit idle (tiles $5C-$5F)
 ag_grp_bit_idle [
-  sprite-group < #08, #08, #10, #00, #F8, #F0, #01, #01, #F9, #0E, #F0, #12, #01, [
-    sprite-part < #01, #00, #00, #00, #00, #$1680 >
+  sprite-group < #10, #10, #10, #10, #F8, #F0, #01, #01, #F0, #10, #F0, #10, #04, [
+    sprite-part < #01, #00, #20, #00, #20, #$1D05 >
+    sprite-part < #01, #10, #10, #00, #20, #$1D07 >
+    sprite-part < #01, #00, #20, #10, #10, #$1D25 >
+    sprite-part < #01, #10, #10, #10, #10, #$1D27 >
   ] >
 ]
 
-; Bit attack (tiles $60-$63)
-ag_grp_bit_atk [
-  sprite-group < #08, #08, #10, #00, #F8, #F0, #01, #01, #F9, #0E, #F0, #12, #01, [
-    sprite-part < #01, #00, #00, #00, #00, #$1682 >
-  ] >
-]
+; --- Left Launcher (32x80 = 2x5 large tiles) ---
+; Tiles at (6,4)(8,4)(6,6)(8,6)(6,8)(8,8)(6,A)(8,A)(6,C)(8,C), palette 4
+; Right launcher uses engine H-mirror
+; x_mirr = $10 - x, y_vflip = $40 - y
 
-; Bit vulnerable (tiles $64-$67)
-ag_grp_bit_vuln [
-  sprite-group < #08, #08, #10, #00, #F8, #F0, #01, #01, #F9, #0E, #F0, #12, #01, [
-    sprite-part < #01, #00, #00, #00, #00, #$1684 >
-  ] >
-]
-
-; Bit dead (tiles $68-$6B)
-ag_grp_bit_dead [
-  sprite-group < #08, #08, #10, #00, #F8, #F0, #01, #01, #F9, #0E, #F0, #12, #01, [
-    sprite-part < #01, #00, #00, #00, #00, #$1686 >
-  ] >
-]
-
-; --- Launchers (16x16) ---
-; Launcher idle (tiles $6C-$6F)
 ag_grp_launcher_idle [
-  sprite-group < #08, #08, #10, #00, #F8, #F0, #01, #01, #F9, #0E, #F0, #12, #01, [
-    sprite-part < #01, #00, #00, #00, #00, #$1688 >
+  sprite-group < #10, #10, #20, #28, #F8, #F0, #01, #01, #F0, #10, #DC, #24, #0A, [
+    sprite-part < #01, #00, #20, #00, #48, #$1945 >
+    sprite-part < #01, #08, #18, #00, #48, #$1946 >
+    sprite-part < #01, #00, #20, #10, #38, #$1965 >
+    sprite-part < #01, #08, #18, #10, #38, #$1966 >
+    sprite-part < #01, #00, #20, #20, #28, #$1985 >
+    sprite-part < #01, #08, #18, #20, #28, #$1986 >
+    sprite-part < #01, #00, #20, #30, #18, #$19A5 >
+    sprite-part < #01, #10, #10, #30, #18, #$19A7 >
+    sprite-part < #01, #00, #20, #40, #08, #$19C5 >
+    sprite-part < #01, #10, #10, #40, #08, #$19C7 >
   ] >
 ]
 
-; Launcher fire (tiles $70-$73)
-ag_grp_launcher_fire [
-  sprite-group < #08, #08, #10, #00, #F8, #F0, #01, #01, #F9, #0E, #F0, #12, #01, [
-    sprite-part < #01, #00, #00, #00, #00, #$168A >
-  ] >
-]
+; --- Launcher bubble projectile (16x16 each, 4 frames) ---
+; Tiles at (0,E)(2,E)(4,E)(6,E), palette 5
 
-; --- Projectiles ---
-; Bubble (8x8, tiles $74-$75)
 ag_grp_bubble [
-  sprite-group < #04, #04, #08, #00, #F8, #F0, #01, #01, #F8, #10, #F0, #10, #01, [
-    sprite-part < #00, #00, #00, #00, #00, #$16A2 >
+  sprite-group < #08, #08, #10, #10, #F8, #F0, #01, #01, #F8, #10, #F0, #10, #01, [
+    sprite-part < #01, #00, #00, #00, #00, #$1DE0 >
   ] >
 ]
 
-; Beam (8x8, tiles $76-$77)
-ag_grp_beam [
-  sprite-group < #04, #04, #08, #00, #F8, #F0, #01, #01, #F8, #10, #F0, #10, #01, [
-    sprite-part < #00, #00, #00, #00, #00, #$16A3 >
+ag_grp_bubble2 [
+  sprite-group < #08, #08, #10, #10, #F8, #F0, #01, #01, #F8, #10, #F0, #10, #01, [
+    sprite-part < #01, #00, #00, #00, #00, #$1DE2 >
   ] >
 ]
 
-; Nuke (16x16, tiles $78-$7B)
-ag_grp_nuke [
-  sprite-group < #08, #08, #10, #00, #F8, #F0, #01, #01, #F9, #0E, #F0, #12, #01, [
-    sprite-part < #01, #00, #00, #00, #00, #$168C >
+ag_grp_bubble3 [
+  sprite-group < #08, #08, #10, #10, #F8, #F0, #01, #01, #F8, #10, #F0, #10, #01, [
+    sprite-part < #01, #00, #00, #00, #00, #$1DE4 >
   ] >
 ]
 
-; Nuke piece (8x8, tiles $7C-$7D)
-ag_grp_nuke_piece [
-  sprite-group < #04, #04, #08, #00, #F8, #F0, #01, #01, #F8, #10, #F0, #10, #01, [
-    sprite-part < #00, #00, #00, #00, #00, #$16A4 >
+ag_grp_bubble4 [
+  sprite-group < #08, #08, #10, #10, #F8, #F0, #01, #01, #F8, #10, #F0, #10, #01, [
+    sprite-part < #01, #00, #00, #00, #00, #$1DE6 >
+  ] >
+]
+ag_grp_bubble_pop1 [
+  sprite-group < #08, #08, #10, #10, #F8, #F0, #01, #01, #F8, #08, #F8, #08, #01, [
+    sprite-part < #01, #00, #10, #00, #10, #$1DCE >
   ] >
 ]
 
-; Fire object (8x8, tiles $7E-$7F)
-ag_grp_fire_obj [
-  sprite-group < #04, #04, #08, #00, #F8, #F0, #01, #01, #F8, #10, #F0, #10, #01, [
-    sprite-part < #00, #00, #00, #00, #00, #$16A5 >
+ag_grp_bubble_pop2 [
+  sprite-group < #10, #10, #10, #10, #F8, #F0, #01, #01, #F8, #08, #F8, #08, #04, [
+    sprite-part < #01, #00, #20, #00, #20, #$1DE8 >
+    sprite-part < #01, #10, #10, #00, #20, #$5DE8 >
+    sprite-part < #01, #00, #20, #10, #10, #$9DE8 >
+    sprite-part < #01, #10, #10, #10, #10, #$DDE8 >
   ] >
 ]
 
-; Dead bit fire (16x16, tiles $80-$83)
-ag_grp_deadbit_fire [
-  sprite-group < #08, #08, #10, #00, #F8, #F0, #01, #01, #F9, #0E, #F0, #12, #01, [
-    sprite-part < #01, #00, #00, #00, #00, #$168E >
+ag_grp_bubble_pop3 [
+  sprite-group < #10, #10, #10, #10, #F8, #F0, #01, #01, #F8, #08, #F8, #08, #01, [
+    sprite-part < #01, #00, #20, #00, #20, #$1DEA >
+    sprite-part < #01, #10, #10, #00, #20, #$5DEA >
+    sprite-part < #01, #00, #20, #10, #10, #$9DEA >
+    sprite-part < #01, #10, #10, #10, #10, #$DDEA >
   ] >
 ]
 
-; --- Bubble death/debris (8x8, tiles $88-$8B) ---
-; $88-$89: burst pop frames, $8A-$8B: debris scatter pieces
+ag_grp_bubble_pop4 [
+  sprite-group < #10, #10, #10, #10, #F8, #F0, #01, #01, #F8, #08, #F8, #08, #04, [
+    sprite-part < #01, #00, #20, #00, #20, #$1DEC >
+    sprite-part < #01, #10, #10, #00, #20, #$5DEC >
+    sprite-part < #01, #00, #20, #10, #10, #$9DEC >
+    sprite-part < #01, #10, #10, #10, #10, #$DDEC >
+  ] >
+]
 
-; Bubble pop frame 1 (tile $88)
+ag_grp_bubble_pop5 [
+  sprite-group < #10, #10, #10, #10, #F8, #F0, #01, #01, #F8, #08, #F8, #08, #01, [
+    sprite-part < #01, #00, #20, #00, #20, #$1DEE >
+    sprite-part < #01, #10, #10, #00, #20, #$5DEE >
+    sprite-part < #01, #00, #20, #10, #10, #$9DEE >
+    sprite-part < #01, #10, #10, #10, #10, #$DDEE >
+  ] >
+]
+
+; --- Bit shotgun projectile (16x16 each, 4 frames) ---
+; Tiles at (C,C)(E,C), palette 6; frames 2-3 use H-flip variants
+; Frame 0: tile $1CC, Frame 1: tile $1CE
+; Frame 2: tile $1CC H-flip, Frame 3: tile $1CE H-flip
+
+ag_grp_shotgun_0 [
+  sprite-group < #08, #08, #10, #10, #F8, #F0, #01, #01, #F8, #10, #F0, #10, #01, [
+    sprite-part < #01, #00, #00, #00, #00, #$1DCC >
+  ] >
+]
+
+ag_grp_shotgun_1 [
+  sprite-group < #08, #08, #10, #10, #F8, #F0, #01, #01, #F8, #08, #F8, #08, #01, [
+    sprite-part < #01, #00, #00, #00, #00, #$1D88 >
+  ] >
+]
+
+ag_grp_shotgun_2 [
+  sprite-group < #08, #08, #10, #10, #F8, #F0, #01, #01, #F8, #08, #F8, #08, #01, [
+    sprite-part < #01, #00, #00, #00, #00, #$5D8A >
+  ] >
+]
+
+ag_grp_shotgun_3 [
+  sprite-group < #08, #08, #10, #10, #F8, #F0, #01, #01, #F8, #08, #F8, #08, #01, [
+    sprite-part < #01, #00, #00, #00, #00, #$5D8C >
+  ] >
+]
+
+ag_grp_shotgun_4 [
+  sprite-group < #08, #08, #10, #10, #F8, #F0, #01, #01, #F8, #08, #F8, #08, #01, [
+    sprite-part < #01, #00, #00, #00, #00, #$5D8E >
+  ] >
+]
+
+; --- Bubble death (16x16 each, 5 frames) ---
+; Frame 0: (E,C) tile $1CE; Frames 1-2: (C,E)(E,E) tiles $1EC,$1EE
+; Frames 3-4: H-flip variants of $1CE and $1EC
+
 ag_grp_bubble_death [
-  sprite-group < #04, #04, #08, #00, #F8, #F0, #01, #01, #F8, #10, #F0, #10, #01, [
-    sprite-part < #00, #00, #00, #00, #00, #$16A6 >
+  sprite-group < #08, #08, #10, #10, #F8, #F0, #01, #01, #F8, #10, #F0, #10, #01, [
+    sprite-part < #01, #00, #00, #00, #00, #$1DCE >
   ] >
 ]
 
-; Bubble pop frame 2 (tile $8A)
 ag_grp_bubble_pop [
-  sprite-group < #04, #04, #08, #00, #F8, #F0, #01, #01, #F8, #10, #F0, #10, #01, [
-    sprite-part < #00, #00, #00, #00, #00, #$16A7 >
+  sprite-group < #08, #08, #10, #10, #F8, #F0, #01, #01, #F8, #10, #F0, #10, #01, [
+    sprite-part < #01, #00, #00, #00, #00, #$1DEC >
   ] >
 ]
 
-; Bubble debris scatter — 2 pieces flying apart (tiles $8A + $8B)
 ag_grp_bubble_debris [
-  sprite-group < #08, #08, #10, #00, #F8, #F0, #01, #01, #F8, #10, #ED, #12, #02, [
-    sprite-part < #00, #00, #08, #00, #08, #$16A7 >
-    sprite-part < #00, #08, #00, #08, #00, #$16A8 >
+  sprite-group < #08, #08, #10, #10, #F8, #F0, #01, #01, #F8, #10, #F0, #10, #01, [
+    sprite-part < #01, #00, #00, #00, #00, #$1DEE >
   ] >
 ]
 
-; --- Floor beam (16x16, tiles $8C-$8F) ---
+ag_grp_bdeath_3 [
+  sprite-group < #08, #08, #10, #10, #F8, #F0, #01, #01, #F8, #10, #F0, #10, #01, [
+    sprite-part < #01, #00, #00, #00, #00, #$5DCE >
+  ] >
+]
 
-; Full beam frame (16x16)
-ag_grp_floor_beam [
-  sprite-group < #08, #08, #10, #00, #F8, #F0, #01, #01, #F9, #0E, #F0, #12, #01, [
-    sprite-part < #01, #00, #00, #00, #00, #$16A0 >
+ag_grp_bdeath_4 [
+  sprite-group < #08, #08, #10, #10, #F8, #F0, #01, #01, #F8, #10, #F0, #10, #01, [
+    sprite-part < #01, #00, #00, #00, #00, #$5DEC >
   ] >
 ]
 
