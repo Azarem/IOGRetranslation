@@ -35,7 +35,7 @@ scene_meta_00FC! [
 ?INCLUDE 'scene_thinkers'
 ------------------------------------------------
 
-thinker_spawn_0CEB2F+ [
+thinker_spawn_0CEB2F+= [
   thinker-spawn < #74, @ambient_palette_cycler >
   thinker-spawn < #00, @ending_comet_dma_setup >
   thinker-spawn < #00, @ending_comet_sine_hdma >
@@ -183,7 +183,7 @@ TitleStartDelayedInit! {
 ?INCLUDE 'palette_bundles'
 ------------------------------------------------
 
-palette_bundles+ [
+palette_bundles+= [
   &panim01062747
 ]
 

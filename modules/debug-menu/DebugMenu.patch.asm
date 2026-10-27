@@ -1,7 +1,7 @@
 ; Debug Menu — GlobalInputHandler patch.
 ;
 ; Replaces GlobalInputHandler to hook the debug menu into:
-; 1. Input-locked pause path (bit 3 set): debug menu replaces 'PAUSE'
+; 1. Combat-lock pause path (bit 3 set, non-combat scene): debug menu replaces 'PAUSE'
 ; 2. Normal radar path: L/R buttons switch from radar to debug menu
 ;
 ; The replacement preserves all original guard conditions, Select/Y
@@ -102,7 +102,7 @@ GlobalInputHandler! {
     SEP #$20
     BRA gi_hold_setup
 
-    ; Input-locked mode: debug menu replaces PAUSE screen
+    ; Combat-lock mode (non-combat scene): debug menu replaces PAUSE screen
   gi_debug_menu:
     JSL $@debug_menu_core.debug_menu_core
     JMP $&gi_cleanup_16

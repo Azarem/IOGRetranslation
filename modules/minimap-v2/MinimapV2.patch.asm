@@ -102,7 +102,7 @@ GlobalInputHandler! {
     SEP #$20
     BRA gih_hold_loop
 
-    ; === Input-locked mode: PAUSE text (identical to original) ===
+    ; === Combat-lock mode (non-combat scene): PAUSE text (identical to original) ===
   gih_pause_mode:
 ?IF 'DebugMenu'
     JSL $@debug_menu_handler.DebugMenuHandler
@@ -165,7 +165,7 @@ GlobalInputHandler! {
     JMP gih_to_debug_menu
 ?ENDIF
 
-    ; --- Check if we are in minimap mode (playerFlags bit 3 clear) ---
+    ; --- Check if we are in minimap mode (playerFlags $0008 combat lock clear = combat-allowed scene; non-combat scenes get the PAUSE overlay) ---
     REP #$20
     LDA $playerFlags
     BIT #$0008

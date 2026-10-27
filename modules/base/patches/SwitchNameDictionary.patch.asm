@@ -136,6 +136,7 @@ name_dictionary_command {
     TAY 
 
     LDA $0B24
+    AND #$0001
     BNE do_en_name
 
   do_jp_name:
@@ -224,6 +225,7 @@ loc_02A1A7! {
     PHY
 
     LDA $0B24
+    AND #$01
     BNE do_en_size
 
     LDA #$^name_dictionary_jp

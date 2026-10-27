@@ -59,29 +59,30 @@
                 { "name": "Full HP", "module": "full-health-herb", "default": true }
             ] },
             { "name": "Pyramid Elevator Speed", "options": [
-                { "name": "1x", "module": null },
-                { "name": "2x", "module": "pyramid-elevator-speed", "default": true }
+                { "name": "2x", "module": null, "default": true }
             ] },
             { "name": "Pyramid Portal Exit", "options": [
-                { "name": "Original", "module": null },
-                { "name": "Altered", "module": "pyramid-portal-exit", "description": "Portals will take you to the lower main area. Lower portal brings you to the top.", "default": true }
+                { "name": "Altered", "module": null, "default": true, "description": "Portals will take you to the lower main area. Lower portal brings you to the top." }
             ] },
             { "name": "Shortcut from Mines to Freejia", "options": [
                 { "name": "No", "module": null },
-                { "name": "Yes", "module": "freejia-shortcut", "description": "Sam will offer to take you to Freejia, skipping the return trip.", "default": true }
+                { "name": "Yes", "module": "freejia-shortcut", "default": true, "description": "Sam will offer to take you to Freejia, skipping the return trip." }
             ] },
             { "name": "Mt. Kress Shortcut", "options": [
                 { "name": "No", "module": null },
-                { "name": "Yes", "module": "kress-shortcut", "description": "A stray spirit will offer to take you to the bottom of Mt. Kress.", "default": true }
+                { "name": "Yes", "module": "kress-shortcut", "default": true, "description": "A stray spirit will offer to take you to the bottom of Mt. Kress." }
             ] },
             { "name": "Angkor Wat Shortcut", "options": [
                 { "name": "No", "module": null },
-                { "name": "Yes", "module": "angkor-shortcut", "description": "A mysterious voice will offer to take you to the entrance of Angkor Wat.", "default": true }
+                { "name": "Yes", "module": "angkor-shortcut", "default": true, "description": "A mysterious voice will offer to take you to the entrance of Angkor Wat." }
+            ] },
+            { "name": "Options Menu", "options": [
+                { "name": "Enable", "module": null, "default": true, "description": "Adds configurable button mapping via inventory Options menu. Restructures inventory tabs." }
             ] }
         ] },
         { "name": "📚 Cut Content", "groups": [
             { "name": "Sky Delivery Man", "options": [
-                { "name": "Enable", "module": null, "description": "The Sky Deliveryman will appear in Watermia, South Cape, and Freejia.", "default": true }
+                { "name": "Enable", "module": null, "default": true, "description": "The Sky Deliveryman will appear in Watermia, South Cape, and Freejia." }
             ] },
             { "name": "Blue Journal", "options": [
                 { "name": "Disable", "module": null },
@@ -90,7 +91,7 @@
         ] },
         { "name": "✨ Extras", "groups": [
             { "name": "Prologue / Overworld Text", "options": [
-                { "name": "Enhanced", "module": "enhanced-prologue-text", "default": true }
+                { "name": "Enhanced", "module": null, "default": true }
             ] },
             { "name": "Epilogue Text (Comet scene)", "options": [
                 { "name": "Original (Boxed)", "module": null },
@@ -101,8 +102,7 @@
                 { "name": "No dialog box/borders", "module": "enhanced-adrift-text", "default": true }
             ] },
             { "name": "Thankful Flower", "options": [
-                { "name": "Disable", "module": null },
-                { "name": "Enable", "module": "thankful-flower", "default": true }
+                { "name": "Enable", "module": null, "default": true }
             ] },
             { "name": "South Cape Return", "options": [
                 { "name": "Disable", "module": null },
@@ -119,16 +119,6 @@
             { "name": "Shira Spotlight", "options": [
                 { "name": "Enable", "module": null, "default": true, "image": "shira-spotlight.png" },
                 { "name": "Disable", "module": "no-shira-spotlight", "image": "no-shira-spotlight.png" }
-            ] },
-            { "name": "Minimal HUD", "options": [
-                { "name": "Enable", "module": "minimal-hud", "default": true, "image": "minimal-hud.png", "description": "HUD will only be visible in combat areas." },
-                { "name": "Disable", "module": null, "image": "normal-hud.png", "description": "Vanilla: HUD will appear in all areas." }
-            ] }
-        ] },
-        { "name": "🛠 Debug", "groups": [
-            { "name": "Debug Menu", "options": [
-                { "name": "Disable", "module": null, "default": true },
-                { "name": "Enable", "module": "debug-menu", "description": "Replaces pause screen with a debug menu. Fast Travel to any location. L/R to access from radar." }
             ] }
         ] }
     ]

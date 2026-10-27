@@ -262,6 +262,7 @@ scene_id_table [
   #$00F4   ; F7 - Babel Tower - Dark Vampire's Lair
   #$00F5   ; F8 - Babel Tower - Dark Fanger's Lair
   #$00F6   ; F9 - Babel Tower - Dark Queen's Lair
+  #$00EB
   #$0000   ; FA - -- Mansion --
   #$00E9   ; FB - Mansion
   #$00EA   ; FC - Mansion - Solid Arm's Lair
@@ -521,6 +522,7 @@ scene_name_table [
   &sn_0f7
   &sn_0f8
   &sn_0f9
+  &sn_0fd
   &sn_0fa
   &sn_0fb
   &sn_0fc
@@ -783,6 +785,7 @@ sn_0f6 |  Dark Viper's Lair|
 sn_0f7 |  Dark Vampire's Lair|
 sn_0f8 |  Dark Fanger's Lair|
 sn_0f9 |  Dark Queen's Lair|
+sn_0fd |  Apocalypse|
 sn_0fa |-Mansion|
 sn_0fb |  Mansion|
 sn_0fc |  Solid Arm's Lair|
@@ -1054,6 +1057,7 @@ warp_x_table [
   #$0078   ; F7 - Babel Tower - Dark Vampire's Lair [warp]
   #$0180   ; F8 - Babel Tower - Dark Fanger's Lair [warp]
   #$0100   ; F9 - Babel Tower - Dark Queen's Lair [warp]
+  #$0078
   #$0000   ; FA - -- Mansion -- [header]
   #$0330   ; FB - Mansion [script]
   #$0078   ; FC - Mansion - Solid Arm's Lair [warp]
@@ -1310,6 +1314,7 @@ warp_y_table [
   #$01C0   ; F7 - Babel Tower - Dark Vampire's Lair [warp]
   #$02C0   ; F8 - Babel Tower - Dark Fanger's Lair [warp]
   #$0190   ; F9 - Babel Tower - Dark Queen's Lair [warp]
+  #$00C0
   #$0000   ; FA - -- Mansion -- [header]
   #$03D0   ; FB - Mansion [script]
   #$00C0   ; FC - Mansion - Solid Arm's Lair [warp]
@@ -1566,6 +1571,7 @@ warp_dir_table [
   #$0003   ; F7 - Babel Tower - Dark Vampire's Lair [warp]
   #$0003   ; F8 - Babel Tower - Dark Fanger's Lair [warp]
   #$0003   ; F9 - Babel Tower - Dark Queen's Lair [warp]
+  #$0003
   #$0000   ; FA - -- Mansion -- [header]
   #$0000   ; FB - Mansion [script]
   #$0000   ; FC - Mansion - Solid Arm's Lair [warp]
@@ -1631,7 +1637,7 @@ warp_cam_table [
   #$1300   ; 38 - Gold Ship - Interior [warp]
   #$1100   ; 39 - Adrift [script]
   #$0000   ; 3A - -- Freejia -- [header]
-  #$2100   ; 3B - Oakton House [warp]
+  #$2300   ; 3B - Oakton House [warp]
   #$1100   ; 3C - Oakton House - Interior [warp]
   #$4500   ; 3D - Freejia [debug_man]
   #$1100   ; 3E - Freejia - Erik's Captivity Room [warp]
@@ -1822,6 +1828,7 @@ warp_cam_table [
   #$2100   ; F7 - Babel Tower - Dark Vampire's Lair [warp]
   #$3320   ; F8 - Babel Tower - Dark Fanger's Lair [warp]
   #$2200   ; F9 - Babel Tower - Dark Queen's Lair [warp]
+  #$1100
   #$0000   ; FA - -- Mansion -- [header]
   #$4400   ; FB - Mansion [script]
   #$1100   ; FC - Mansion - Solid Arm's Lair [warp]

@@ -66,4 +66,4 @@ kress_shortcut_accept_str `[CLD][TPL:17][TPL:C]Close your eyes…[END]`
 ?INCLUDE 'scene_actors'
 ------------------------------
 
-scene_event_0CCA02+: actor-spawn < #03, #32, #00, @KressShortcut >
+scene_event_0CCA02+=: actor-spawn < #03, #32, #00, @KressShortcut >

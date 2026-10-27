@@ -82,12 +82,12 @@
 ; the next instruction byte as part of the operand, corrupting the
 ; instruction stream and causing stack corruption or crashes.
 
-!list_len                       00FD
-!list_last                      00FC
+!list_len                       00FE
+!list_last                      00FD
 !list_height                    000D
 !list_center                    0006
-!list_max_scroll                00F0
-!list_len_bytes                 01FA
+!list_max_scroll                00F1
+!list_len_bytes                 01FC
 
 ; --- Inventory constants (hex, 2-byte) ---
 ; Total slots  = 16  ($10)  — inventorySlots at $0AB4

@@ -55,4 +55,4 @@ watermia_south_cape_str `[CLR]Come here, birds.[N]We're taking this person[N]to 
 watermia_freejia_str    `[CLR]Come here, birds.[N]We're taking this person[N]to [NAM:12]![END]`
 
 
-scene_event_0CB41F+: actor-spawn < #14, #23, #00, @WatermiaDeliveryman >
+scene_event_0CB41F+=: actor-spawn < #14, #23, #00, @WatermiaDeliveryman >

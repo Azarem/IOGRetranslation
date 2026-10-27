@@ -56,4 +56,4 @@ skyd_str_watermia `[CLR]Come here, birds.[N]We're taking this person[N]to Waterm
 skyd_str_freejia  `[CLR]Come here, birds.[N]We're taking this person[N]to [NAM:12]![END]`
 
 
-scene_event_0C8221+: actor-spawn < #0C, #2F, #00, @SouthCapeDeliveryman >
+scene_event_0C8221+=: actor-spawn < #0C, #2F, #00, @SouthCapeDeliveryman >

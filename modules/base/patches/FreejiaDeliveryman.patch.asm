@@ -57,4 +57,4 @@ frejia_deliveryman_str_watermia   `[CLR]Come here, birds.[N]We're taking this pe
 frejia_deliveryman_str_south_cape `[CLR]Come here, birds.[N]We're taking this person[N]to South Cape![END]`
 
 
-scene_event_0C9572+: actor-spawn < #12, #1E, #00, @FreejiaDeliveryman >
+scene_event_0C9572+=: actor-spawn < #12, #1E, #00, @FreejiaDeliveryman >
