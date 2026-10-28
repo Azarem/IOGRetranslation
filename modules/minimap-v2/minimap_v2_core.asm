@@ -90,7 +90,7 @@
 
 ?INCLUDE 'flag_helpers'
 ?INCLUDE 'radar_icons_001C00'
-?INCLUDE 'scene_barrier_chest_table'
+?INCLUDE 'scene_chest_table'
 ?INCLUDE 'scene_warps'
 ?INCLUDE 'sprite_composition'
 ?INCLUDE 'vblank_joypad'
@@ -236,7 +236,7 @@ MinimapScreenSetup {
     SEP #$20
     JSL $@vblank_joypad.EnableNmiAndJoypad
     JSL $@vblank_joypad.VBlankWaitAndJoypad
-    JSL $@vblank_joypad.EnableNmiOnly
+    JSL $@vblank_joypad.DisableNmiKeepJoypad
     BRA mss_wait1
 
   mss_dma_clear:
@@ -261,7 +261,7 @@ MinimapScreenSetup {
     SEP #$20
     JSL $@vblank_joypad.EnableNmiAndJoypad
     JSL $@vblank_joypad.VBlankWaitAndJoypad
-    JSL $@vblank_joypad.EnableNmiOnly
+    JSL $@vblank_joypad.DisableNmiKeepJoypad
     BRA mss_wait2
 
   mss_bg3tiles_done:
@@ -285,7 +285,7 @@ MinimapScreenSetup {
     SEP #$20
     JSL $@vblank_joypad.EnableNmiAndJoypad
     JSL $@vblank_joypad.VBlankWaitAndJoypad
-    JSL $@vblank_joypad.EnableNmiOnly
+    JSL $@vblank_joypad.DisableNmiKeepJoypad
     BRA mss_wait3
 
   mss_pairA_done:
@@ -309,7 +309,7 @@ MinimapScreenSetup {
     SEP #$20
     JSL $@vblank_joypad.EnableNmiAndJoypad
     JSL $@vblank_joypad.VBlankWaitAndJoypad
-    JSL $@vblank_joypad.EnableNmiOnly
+    JSL $@vblank_joypad.DisableNmiKeepJoypad
     BRA mss_wait4
 
   mss_objtiles_done:
@@ -333,7 +333,7 @@ MinimapScreenSetup {
     SEP #$20
     JSL $@vblank_joypad.EnableNmiAndJoypad
     JSL $@vblank_joypad.VBlankWaitAndJoypad
-    JSL $@vblank_joypad.EnableNmiOnly
+    JSL $@vblank_joypad.DisableNmiKeepJoypad
     BRA mss_wait5
 
   mss_radar_done:
@@ -1315,18 +1315,18 @@ StampWarpRect {
 StampChestMarkers {
     REP #$20
     LDX $sceneBarrierIdx
-    LDA $@scene_barrier_chest_table, X
+    LDA $@scene_chest_table, X
     SEC
-    SBC #$&scene_barrier_chest_table
+    SBC #$&scene_chest_table
     STA $40
 
   scm_loop:
     SEP #$20
     LDX $40
-    LDA $@scene_barrier_chest_table, X
+    LDA $@scene_chest_table, X
     BMI scm_done
 
-    LDA $@scene_barrier_chest_table+3, X
+    LDA $@scene_chest_table+3, X
     REP #$20
     AND #$007F
     JSL $@flag_helpers.TestEventFlag_0200
@@ -1334,14 +1334,14 @@ StampChestMarkers {
 
     SEP #$20
     LDX $40
-    LDA $@scene_barrier_chest_table, X
+    LDA $@scene_chest_table, X
     REP #$20
     AND #$00FF
     STA $00
 
     SEP #$20
     LDX $40
-    LDA $@scene_barrier_chest_table+1, X
+    LDA $@scene_chest_table+1, X
     REP #$20
     AND #$00FF
     STA $02

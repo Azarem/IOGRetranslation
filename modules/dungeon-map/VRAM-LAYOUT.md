@@ -273,14 +273,14 @@ Entities overwrite tilemap entries at their tile positions.
 | Entity | Tile | Palette | Detection method |
 |--------|------|---------|-----------------|
 | Exit | $02E8 | 5 (green) | `scene_warps[$0646]` — standard (12-byte) + extended (13-byte) warp rectangles |
-| Chest | $02E5 | 2 (gold) | `scene_barrier_chest_table[$0646]` + `TestEventFlag_0200` |
+| Chest | $02E5 | 2 (gold) | `scene_chest_table[$0646]` + `TestEventFlag_0200` |
 | Dark Space | $02E6 | 3 (cyan) | `extendedFlags` ($7F002A,X) bit 9 ($0200) — dark space actors only |
 | Enemy | $02E4 | 1 (red) | `extendedFlags` ($7F002A,X) bit 8 ($0100) — enemy spawn |
 | Player | $02E7 | 4 (white) | `playerXTile` ($09A6) / `playerYTile` ($09A8) |
 
 Stamp order (later entries overlay earlier):
 1. **Exits** — from `scene_warps` table
-2. **Chests** — from `scene_barrier_chest_table`
+2. **Chests** — from `scene_chest_table`
 3. **Dark Spaces** — from actor list (bit 9 = $0200)
 4. **Enemies** — from actor list (bit 8 = $0100)
 5. **Player** — stamped last (always visible)

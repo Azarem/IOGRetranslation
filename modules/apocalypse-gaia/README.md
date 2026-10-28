@@ -173,10 +173,10 @@ For future Phase 3 tiles (name table 1): use `$17xx` → `$17 XOR $20 = $37` →
 
 ### Why the Game's Bosses Work
 
-The game's guardian fights (Castoth, etc.) explicitly call `COP [SetSpritePriority] ( #30 )` early in their code, which overwrites `$0E`'s priority bits to `$3000` via `SetOamPriority`:
+The game's guardian fights (Castoth, etc.) explicitly call `COP [SetSpritePriority] ( #30 )` early in their code, which overwrites `$0E`'s priority bits to `$3000` via `SetSpritePriority`:
 
 ```asm
-SetOamPriority:
+SetSpritePriority:
     LDA #$3000
     TRB $0E               ; Clear priority bits
     LDA [$0A] → #$30      ; Read COP operand

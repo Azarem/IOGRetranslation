@@ -140,7 +140,7 @@ debug_menu_core {
     ; Sync one VBlank to flush buffer before dimming
     JSL $@vblank_joypad.EnableNmiAndJoypad
     JSL $@vblank_joypad.VBlankWaitAndJoypad
-    JSL $@vblank_joypad.EnableNmiOnly
+    JSL $@vblank_joypad.DisableNmiKeepJoypad
 
     ; Force blank and upload debug font tiles to VRAM.
     ; Overwrites tiles $00-$7F (printable characters) with box-optimized
@@ -177,7 +177,7 @@ debug_menu_core {
 
     JSL $@vblank_joypad.EnableNmiAndJoypad
     JSL $@vblank_joypad.VBlankWaitAndJoypad
-    JSL $@vblank_joypad.EnableNmiOnly
+    JSL $@vblank_joypad.DisableNmiKeepJoypad
     REP #$20
 
     ; Start button closes the entire menu from any mode

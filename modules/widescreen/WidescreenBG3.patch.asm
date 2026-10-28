@@ -50,7 +50,7 @@
 !WS_BG3_DIALOG_COLS             0017
 
 ; =============================================================================
-; SPRITE/BG3 VRAM DMA — SpriteVramDma override
+; SPRITE/BG3 VRAM DMA — Bg3TilemapVramDma override
 ; =============================================================================
 ; Every V-Blank:
 ;   - BG3SC=$79 (64×32 tilemap)
@@ -59,7 +59,7 @@
 ; Bit 0 (full upload): DMA left buffer → $7800, DMA right buffer → $7C00.
 ; Bits 4–5 (partial): unchanged (writes to $7840 within left half only).
 
-SpriteVramDma! {
+Bg3TilemapVramDma! {
     ; Maintain BG3SC=$79 (64×32 tilemap) and BG3HOFS=64 every V-Blank.
     ; HOFS=64 centers the original 32-col content (columns 8–39) in the
     ; 384px widescreen viewport. bsnes-hd c1 extends ±64px from HOFS,

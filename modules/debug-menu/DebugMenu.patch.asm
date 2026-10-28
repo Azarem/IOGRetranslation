@@ -79,7 +79,7 @@ GlobalInputHandler! {
     TSB $joypadHeld
     JSL $@vblank_joypad.VBlankWaitAndJoypad
     JSL $@inventory_overlay.OpenInventoryScreen
-    JSL $@vblank_joypad.EnableNmiOnly
+    JSL $@vblank_joypad.DisableNmiKeepJoypad
     LDA #$6000
     JSL $@MergeInputFlags
     TSB $joypadHeld
@@ -123,7 +123,7 @@ GlobalInputHandler! {
   gi_hold_loop:
     JSL $@vblank_joypad.EnableNmiAndJoypad
     JSL $@vblank_joypad.VBlankWaitAndJoypad
-    JSL $@vblank_joypad.EnableNmiOnly
+    JSL $@vblank_joypad.DisableNmiKeepJoypad
     JSR $&radar_map_screen.RadarBorderAnimate
 
     ; Check L/R for debug menu switch

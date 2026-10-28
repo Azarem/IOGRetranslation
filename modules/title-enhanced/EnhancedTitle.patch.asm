@@ -39,7 +39,7 @@ thinker_spawn_0CEB2F+= [
   thinker-spawn < #74, @ambient_palette_cycler >
   thinker-spawn < #00, @ending_comet_dma_setup >
   thinker-spawn < #00, @ending_comet_sine_hdma >
-  thinker-spawn < #24, @parallax_thinker >
+  thinker-spawn < #24, @scanline_band_hdma_thinker >
 ]
 
 ------------------------------------------------

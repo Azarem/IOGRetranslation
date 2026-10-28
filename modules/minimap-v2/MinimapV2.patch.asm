@@ -81,7 +81,7 @@ GlobalInputHandler! {
     TSB $joypadHeld
     JSL $@vblank_joypad.VBlankWaitAndJoypad
     JSL $@inventory_overlay.OpenInventoryScreen
-    JSL $@vblank_joypad.EnableNmiOnly
+    JSL $@vblank_joypad.DisableNmiKeepJoypad
     LDA #$6000
     JSL $@MergeInputFlags
     TSB $joypadHeld
@@ -115,7 +115,7 @@ GlobalInputHandler! {
     SEP #$20
     JSL $@vblank_joypad.EnableNmiAndJoypad
     JSL $@vblank_joypad.VBlankWaitAndJoypad
-    JSL $@vblank_joypad.EnableNmiOnly
+    JSL $@vblank_joypad.DisableNmiKeepJoypad
     LDA #$09
     STA $INIDISP
 ?ENDIF
@@ -147,7 +147,7 @@ GlobalInputHandler! {
     SEP #$20
     JSL $@vblank_joypad.EnableNmiAndJoypad
     JSL $@vblank_joypad.VBlankWaitAndJoypad
-    JSL $@vblank_joypad.EnableNmiOnly
+    JSL $@vblank_joypad.DisableNmiKeepJoypad
 
     ; --- Check Start release → exit ---
     LDA $0657

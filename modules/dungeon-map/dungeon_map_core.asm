@@ -67,7 +67,7 @@
 ?INCLUDE 'flag_helpers'
 ?INCLUDE 'gfx_fonts'
 ?INCLUDE 'radar_icons_001C00'
-?INCLUDE 'scene_barrier_chest_table'
+?INCLUDE 'scene_chest_table'
 ?INCLUDE 'scene_lifecycle'
 ?INCLUDE 'scene_warps'
 ?INCLUDE 'system_core'
@@ -256,7 +256,7 @@ DungeonMapScreenSetup {
     SEP #$20
     JSL $@vblank_joypad.EnableNmiAndJoypad
     JSL $@vblank_joypad.VBlankWaitAndJoypad
-    JSL $@vblank_joypad.EnableNmiOnly
+    JSL $@vblank_joypad.DisableNmiKeepJoypad
     BRA dms_wait1
 
   dms_dma_clear:
@@ -293,7 +293,7 @@ DungeonMapScreenSetup {
     TSB $displayModeFlags
     JSL $@vblank_joypad.EnableNmiAndJoypad
     JSL $@vblank_joypad.VBlankWaitAndJoypad
-    JSL $@vblank_joypad.EnableNmiOnly
+    JSL $@vblank_joypad.DisableNmiKeepJoypad
 
     ; --- Queue radar icons adhoc DMA ---
     REP #$20
@@ -314,7 +314,7 @@ DungeonMapScreenSetup {
     SEP #$20
     JSL $@vblank_joypad.EnableNmiAndJoypad
     JSL $@vblank_joypad.VBlankWaitAndJoypad
-    JSL $@vblank_joypad.EnableNmiOnly
+    JSL $@vblank_joypad.DisableNmiKeepJoypad
     BRA dms_wait_radar
 
   dms_radar_done:
@@ -483,7 +483,7 @@ DungeonMapScreenSetup {
     TSB $displayModeFlags
     JSL $@vblank_joypad.EnableNmiAndJoypad
     JSL $@vblank_joypad.VBlankWaitAndJoypad
-    JSL $@vblank_joypad.EnableNmiOnly
+    JSL $@vblank_joypad.DisableNmiKeepJoypad
 
     LDX #$0000
     RTL
@@ -1105,18 +1105,18 @@ StampWarpRect {
 StampChestMarkers {
     REP #$20
     LDX $sceneBarrierIdx
-    LDA $@scene_barrier_chest_table, X
+    LDA $@scene_chest_table, X
     SEC
-    SBC #$&scene_barrier_chest_table
+    SBC #$&scene_chest_table
     STA $18
 
   scm_loop:
     SEP #$20
     LDX $18
-    LDA $@scene_barrier_chest_table, X
+    LDA $@scene_chest_table, X
     BMI scm_done
 
-    LDA $@scene_barrier_chest_table+3, X
+    LDA $@scene_chest_table+3, X
     REP #$20
     AND #$007F
     JSL $@flag_helpers.TestEventFlag_0200
@@ -1124,9 +1124,9 @@ StampChestMarkers {
 
     SEP #$20
     LDX $18
-    LDA $@scene_barrier_chest_table, X
+    LDA $@scene_chest_table, X
     STA $00
-    LDA $@scene_barrier_chest_table+1, X
+    LDA $@scene_chest_table+1, X
     STA $02
 
     REP #$20

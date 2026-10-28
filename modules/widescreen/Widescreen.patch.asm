@@ -258,7 +258,7 @@ CameraFullRefresh! {
     BCS ws_cfr_blank          ; yes → fill with blank tiles
 
     ; --- Render valid map column ---
-    JSR $&RenderScrollRow
+    JSR $&RenderColumnStrip
     BRA ws_cfr_dma
 
   ws_cfr_blank:
@@ -272,7 +272,7 @@ CameraFullRefresh! {
     TAX 
     LDA $7E0000, X
     TAY 
-    JSR $&DmaHorizontalStrip
+    JSR $&DmaColumnStrip
     PLX 
 
     ; --- Advance $18 by 16 (no wrapping — blank columns advance linearly) ---
@@ -300,7 +300,7 @@ CameraFullRefresh! {
 ; BLANK SCROLL COLUMN — BlankScrollColumn
 ; =============================================================================
 ; Fills a nametable column's staging buffer with blank ($0000) tiles.
-; Computes the VRAM column address from $18 (same math as RenderScrollRow)
+; Computes the VRAM column address from $18 (same math as RenderColumnStrip)
 ; and zeros the tile data. Used for widescreen margin columns outside the map.
 ;
 ; Input: X = layer (0 or 2), $18 = column pixel X position
@@ -398,7 +398,7 @@ UpdateScrollColumn! {
     BCS ws_usc_blank           ; yes → blank fill
 
     ; --- Normal rendering ---
-    JSR $&RenderScrollRow
+    JSR $&RenderColumnStrip
     RTS 
 
   ws_usc_blank:
@@ -410,7 +410,7 @@ UpdateScrollColumn! {
 ; =============================================================================
 ; ROW PRE-FETCH — UpdateScrollRow
 ; =============================================================================
-; Widescreen-aware row pre-fetch. RenderScrollColumn covers 2 map pages
+; Widescreen-aware row pre-fetch. RenderRowStrip covers 2 map pages
 ; (512px). With 384px widescreen, the viewport can span 3 pages:
 ;
 ;   Left margin issue:  scroll_low in [$00, $3F] AND scroll >= $100
@@ -474,7 +474,7 @@ UpdateScrollRow! {
 
   ws_usr_simple:
     ; === SIMPLE PATH (single render covers both margins) ===
-    JSR $&RenderScrollColumn
+    JSR $&RenderRowStrip
     RTS
 
   ; =================================================================
@@ -498,7 +498,7 @@ UpdateScrollRow! {
     SEC 
     SBC #$WS_EXTRA
     STA $18
-    JSR $&RenderScrollColumn
+    JSR $&RenderRowStrip
 
     ; Save entries 12-15 from slot 0
     STX $00
@@ -541,7 +541,7 @@ UpdateScrollRow! {
     ; Render 2: original (covers right margin page P+1)
     LDA $bg1ScrollH, X
     STA $18
-    JSR $&RenderScrollColumn
+    JSR $&RenderRowStrip
 
     ; Restore entries 12-15 into slot 1
     STX $00
@@ -607,7 +607,7 @@ UpdateScrollRow! {
     CLC 
     ADC #$WS_EXTRA
     STA $18
-    JSR $&RenderScrollColumn
+    JSR $&RenderRowStrip
 
     ; Save entries 0-3 from slot 1 (second pass = page P+2)
     STX $00
@@ -652,7 +652,7 @@ UpdateScrollRow! {
     ; Render 2: original (covers left margin page P)
     LDA $bg1ScrollH, X
     STA $18
-    JSR $&RenderScrollColumn
+    JSR $&RenderRowStrip
 
     ; Restore entries 0-3 into slot 0 (first pass)
     STX $00

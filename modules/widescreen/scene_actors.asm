@@ -569,7 +569,7 @@
 ?INCLUDE 'st68_lily'
 ?INCLUDE 'st68_mushrooms'
 ?INCLUDE 'st68_neil'
-?INCLUDE 'stair_climb'
+?INCLUDE 'slider_glide'
 ?INCLUDE 'statue_inventory_reward'
 ?INCLUDE 'town_door'
 ?INCLUDE 'visual_effect_pipeline'
@@ -2337,7 +2337,7 @@ scene_event_0CA71B [
   enemy-spawn < #1A, #2D, #30, @sp5C_slipper, #2A, #10, #00 >   ;14
   enemy-spawn < #21, #1B, #30, @sp5C_slipper, #2A, #11, #00 >   ;15
   enemy-spawn < #14, #2E, #30, @mu5F_flasher, #29, #12, #00 >   ;16
-  actor-spawn < #33, #3E, #09, @stair_climb.StairTriggerEast >   ;17
+  actor-spawn < #33, #3E, #09, @slider_glide.SliderGlideTriggerSouth >   ;17
 ]
 
 scene_event_0CA7ED [
@@ -2443,9 +2443,9 @@ scene_event_0CAA7B [
   enemy-spawn < #1B, #26, #30, @mu5F_flasher, #29, #6A, #00 >   ;0F
   enemy-spawn < #11, #30, #30, @mu5F_flasher, #29, #6B, #00 >   ;10
   actor-spawn < #38, #11, #30, @mu60_plasma_chain >   ;11
-  actor-spawn < #20, #1C, #11, @stair_climb.StairTriggerNorth >   ;12
-  actor-spawn < #28, #1C, #11, @stair_climb.StairTriggerSouth >   ;13
-  actor-spawn < #33, #05, #0B, @stair_climb.StairTriggerWest >   ;14
+  actor-spawn < #20, #1C, #11, @slider_glide.SliderGlideTriggerEast >   ;12
+  actor-spawn < #28, #1C, #11, @slider_glide.SliderGlideTriggerWest >   ;13
+  actor-spawn < #33, #05, #0B, @slider_glide.SliderGlideTriggerNorth >   ;14
 ]
 
 scene_event_0CAB28 [
@@ -2478,8 +2478,8 @@ scene_event_0CABD4 [
   actor-spawn < #05, #0A, #30, @player_character.PlayerCharacterDef >   ;00
   actor-spawn < #00, #00, #00, @camera_scroll_controller >   ;01
   actor-spawn < #11, #11, #00, @camera_scroll.ScrollCameraTrack >   ;02
-  actor-spawn < #14, #1F, #1B, @stair_climb.StairTriggerWest >   ;03
-  actor-spawn < #14, #13, #19, @stair_climb.StairTriggerEast >   ;04
+  actor-spawn < #14, #1F, #1B, @slider_glide.SliderGlideTriggerNorth >   ;03
+  actor-spawn < #14, #13, #19, @slider_glide.SliderGlideTriggerSouth >   ;04
   enemy-spawn < #1D, #39, #30, @mu5F_cyclops.mu5F_cyclops2, #28, #90, #41 >   ;05
   enemy-spawn < #36, #19, #30, @mu5F_cyclops.mu5F_cyclops2, #28, #91, #00 >   ;06
   enemy-spawn < #3D, #19, #30, @mu5F_cyclops.mu5F_cyclops2, #28, #92, #00 >   ;07
@@ -2719,8 +2719,8 @@ scene_event_0CB1AE [
   enemy-spawn < #27, #18, #00, @av6E_draco, #2E, #34, #00 >   ;11
   enemy-spawn < #2A, #18, #00, @av6E_draco, #2E, #35, #00 >   ;12
   enemy-spawn < #12, #1C, #00, @av70_ramskull, #2E, #36, #00 >   ;13
-  actor-spawn < #26, #18, #09, @stair_climb.StairTriggerWest >   ;14
-  actor-spawn < #0A, #2E, #09, @stair_climb.StairTriggerEast >   ;15
+  actor-spawn < #26, #18, #09, @slider_glide.SliderGlideTriggerNorth >   ;14
+  actor-spawn < #0A, #2E, #09, @slider_glide.SliderGlideTriggerSouth >   ;15
 ]
 
 scene_event_0CB258 [
@@ -2755,14 +2755,14 @@ scene_event_0CB29E [
   enemy-spawn < #45, #0B, #00, @av70_ramskull, #2E, #57, #00 >   ;11
   enemy-spawn < #46, #0C, #00, @av70_ramskull, #2E, #58, #00 >   ;12
   enemy-spawn < #47, #0D, #00, @av70_ramskull, #2E, #59, #00 >   ;13
-  actor-spawn < #57, #08, #09, @stair_climb.StairTriggerWestEntry >   ;14
+  actor-spawn < #57, #08, #09, @slider_glide.SliderGlideTriggerNorthEntry >   ;14
 ]
 
 scene_event_0CB355 [
   actor-spawn < #05, #0A, #00, @player_character.PlayerCharacterDef >   ;00
   actor-spawn < #00, #00, #00, @camera_scroll_controller >   ;01
   actor-spawn < #11, #11, #00, @camera_scroll.ScrollCameraTrack >   ;02
-  actor-spawn < #08, #1E, #09, @stair_climb.StairTriggerEast >   ;03
+  actor-spawn < #08, #1E, #09, @slider_glide.SliderGlideTriggerSouth >   ;03
   actor-spawn < #00, #01, #00, @av70_crawlspace >   ;04
   actor-spawn < #2C, #17, #00, @av70_hidden_passage >   ;05
   actor-spawn < #00, #01, #00, @av73_waterfall_sound >   ;06
@@ -3726,7 +3726,7 @@ scene_event_0CCCA5 [
   actor-spawn < #05, #0A, #00, @player_character.PlayerCharacterDef >   ;00
   actor-spawn < #00, #00, #00, @camera_scroll_controller >   ;01
   actor-spawn < #07, #27, #00, @awB2_stair_climb >   ;02
-  actor-spawn < #07, #1E, #13, @stair_climb.StairTriggerEast >   ;03
+  actor-spawn < #07, #1E, #13, @slider_glide.SliderGlideTriggerSouth >   ;03
   enemy-spawn < #0B, #6D, #00, @awB1_goldcap, #42, #30, #00 >   ;04
   enemy-spawn < #08, #0C, #00, @awB1_goldcap, #42, #31, #00 >   ;05
   enemy-spawn < #06, #57, #02, @awB1_wall_walker.awB1_wall_walker4, #43, #32, #00 >   ;06
@@ -3770,12 +3770,12 @@ scene_event_0CCD83 [
 scene_event_0CCDD7 [
   actor-spawn < #05, #0A, #00, @player_character.PlayerCharacterDef >   ;00
   actor-spawn < #00, #00, #00, @camera_scroll_controller >   ;01
-  actor-spawn < #06, #0E, #0F, @stair_climb.StairTriggerEast >   ;02
-  actor-spawn < #08, #0E, #0F, @stair_climb.StairTriggerEast >   ;03
-  actor-spawn < #06, #15, #11, @stair_climb.StairTriggerWest >   ;04
-  actor-spawn < #08, #15, #11, @stair_climb.StairTriggerWest >   ;05
-  actor-spawn < #07, #1E, #13, @stair_climb.StairTriggerEast >   ;06
-  actor-spawn < #07, #27, #15, @stair_climb.StairTriggerWest >   ;07
+  actor-spawn < #06, #0E, #0F, @slider_glide.SliderGlideTriggerSouth >   ;02
+  actor-spawn < #08, #0E, #0F, @slider_glide.SliderGlideTriggerSouth >   ;03
+  actor-spawn < #06, #15, #11, @slider_glide.SliderGlideTriggerNorth >   ;04
+  actor-spawn < #08, #15, #11, @slider_glide.SliderGlideTriggerNorth >   ;05
+  actor-spawn < #07, #1E, #13, @slider_glide.SliderGlideTriggerSouth >   ;06
+  actor-spawn < #07, #27, #15, @slider_glide.SliderGlideTriggerNorth >   ;07
   actor-spawn < #07, #4B, #11, @ramps.ramp_south >   ;08
   enemy-spawn < #04, #45, #00, @awB1_wall_walker.awB1_wall_walker2, #3A, #60, #00 >   ;09
   enemy-spawn < #0B, #45, #00, @awB1_wall_walker.awB1_wall_walker2, #3A, #61, #00 >   ;0A
@@ -3913,12 +3913,12 @@ scene_event_0CD1F4 [
   actor-spawn < #0F, #1D, #00, @awBC_bouncing_crystal >   ;04
   actor-spawn < #06, #24, #00, @awBC_bouncing_crystal >   ;05
   actor-spawn < #27, #15, #00, @awBC_bouncing_crystal >   ;06
-  actor-spawn < #05, #14, #0F, @stair_climb.StairTriggerEast >   ;07
-  actor-spawn < #05, #1B, #0F, @stair_climb.StairTriggerWest >   ;08
-  actor-spawn < #20, #1C, #0F, @stair_climb.StairTriggerEast >   ;09
-  actor-spawn < #22, #1C, #0F, @stair_climb.StairTriggerEast >   ;0A
-  actor-spawn < #20, #23, #0F, @stair_climb.StairTriggerWest >   ;0B
-  actor-spawn < #21, #23, #0F, @stair_climb.StairTriggerWest >   ;0C
+  actor-spawn < #05, #14, #0F, @slider_glide.SliderGlideTriggerSouth >   ;07
+  actor-spawn < #05, #1B, #0F, @slider_glide.SliderGlideTriggerNorth >   ;08
+  actor-spawn < #20, #1C, #0F, @slider_glide.SliderGlideTriggerSouth >   ;09
+  actor-spawn < #22, #1C, #0F, @slider_glide.SliderGlideTriggerSouth >   ;0A
+  actor-spawn < #20, #23, #0F, @slider_glide.SliderGlideTriggerNorth >   ;0B
+  actor-spawn < #21, #23, #0F, @slider_glide.SliderGlideTriggerNorth >   ;0C
   enemy-spawn < #09, #1F, #00, @awB1_goldcap, #42, #D0, #00 >   ;0D
   enemy-spawn < #27, #23, #00, @awB1_goldcap, #42, #D1, #00 >   ;0E
   enemy-spawn < #23, #07, #06, @awB1_wall_walker.awB1_wall_walker4, #43, #D2, #00 >   ;0F
@@ -3932,10 +3932,10 @@ scene_event_0CD29A [
   actor-spawn < #05, #0A, #00, @player_character.PlayerCharacterDef >   ;00
   actor-spawn < #00, #00, #00, @camera_scroll_controller >   ;01
   actor-spawn < #00, #01, #00, @awBD_fall_trigger >   ;02
-  actor-spawn < #08, #1A, #0D, @stair_climb.StairTriggerEast >   ;03
-  actor-spawn < #0A, #1A, #0D, @stair_climb.StairTriggerEast >   ;04
-  actor-spawn < #08, #20, #0D, @stair_climb.StairTriggerWest >   ;05
-  actor-spawn < #09, #20, #0D, @stair_climb.StairTriggerWest >   ;06
+  actor-spawn < #08, #1A, #0D, @slider_glide.SliderGlideTriggerSouth >   ;03
+  actor-spawn < #0A, #1A, #0D, @slider_glide.SliderGlideTriggerSouth >   ;04
+  actor-spawn < #08, #20, #0D, @slider_glide.SliderGlideTriggerNorth >   ;05
+  actor-spawn < #09, #20, #0D, @slider_glide.SliderGlideTriggerNorth >   ;06
   enemy-spawn < #05, #22, #00, @awB1_goldcap, #42, #E0, #00 >   ;07
   enemy-spawn < #10, #10, #00, @awB1_goldcap, #42, #E1, #00 >   ;08
   enemy-spawn < #19, #0F, #00, @awB1_goldcap, #42, #E2, #00 >   ;09
@@ -4535,8 +4535,8 @@ scene_event_0CE224 [
   actor-spawn < #33, #3E, #00, @player_character.PlayerCharacterDef >   ;00
   actor-spawn < #00, #00, #00, @camera_scroll_controller >   ;01
   actor-spawn < #81, #02, #00, @visual_effect_pipeline.effect_position_update >   ;02
-  actor-spawn < #28, #2E, #17, @stair_climb.StairTriggerWest >   ;03
-  actor-spawn < #28, #23, #17, @stair_climb.StairTriggerEast >   ;04
+  actor-spawn < #28, #2E, #17, @slider_glide.SliderGlideTriggerNorth >   ;03
+  actor-spawn < #28, #23, #17, @slider_glide.SliderGlideTriggerSouth >   ;04
   actor-spawn < #00, #01, #00, @sE9_mansion_intro >   ;05
   enemy-spawn < #25, #3A, #00, @dm3D_flayzer.dm3D_flayzer3, #61, #00, #00 >   ;06
   enemy-spawn < #1D, #3A, #00, @dm3D_flayzer.dm3D_flayzer3, #61, #00, #9A >   ;07
