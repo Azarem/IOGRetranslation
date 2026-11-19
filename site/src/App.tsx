@@ -218,7 +218,7 @@ function App() {
 
       <footer className="discord-footer">
         <a
-          href="https://discord.gg/VWJteVzJQ"
+          href="https://discord.gg/TbeN7YA2F7"
           target="_blank"
           rel="noopener noreferrer"
           className="discord-link"
